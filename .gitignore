@@ -1,6 +1,9 @@
 /.vscode
-.vscode
-/env
-env
 /.DS_Store
+/env
+/__pycache__
+
+.vscode
 .DS_Store
+env
+__pycache__
