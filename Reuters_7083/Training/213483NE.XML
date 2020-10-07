@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213483" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Computer Associates to own all of S.Africa venture.</title>
+<headline>Computer Associates to own all of S.Africa venture.</headline>
+<dateline>NEW YORK 1996-11-25</dateline>
+<text>
+<p>Computer Associates International Inc said it agreed to acquire Dimension Data Group's share of their joint distribution and servicing venture in Sub-Saharan Africa.</p>
+<p>In a statement issued in Johannesburg, Computer Associates said the Computer Associates Africa venture, headquartered there, will become a wholly-owned Computer Associates' subsidiary. Computer Associates and Data Dimensions had previously restructured the local distribution, licensing and servicing of Computer Associates' client/server, mid-range and mainframe software which had been distributed by Compusons (Pty.) Ltd for the last decade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

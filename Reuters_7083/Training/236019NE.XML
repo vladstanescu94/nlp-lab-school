@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236019" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Spectrum HoloByte says products sell well.</title>
+<headline>Spectrum HoloByte says products sell well.</headline>
+<dateline>ALAMEDA, Calif. 1996-12-05</dateline>
+<text>
+<p>Spectrum HoloByte Inc, a developer of PC CD-ROM games, said several of its holiday products are meeting higher-than-expected demand and some sales it expected in its fiscal fourth quarter, ending March, are coming in the quarter ending December.</p>
+<p>Master of Orion II: Battle at Antares, the company's key new release for the holidays, has strong demand. Since its release on November 22, the product has been a top three seller, according to several major retailers.</p>
+<p>Sid Meier's Civilization II and Grand Prix II, launched several quarters ago, are still top sellers, the company said. Sid Meier's Civilization II has shipped over 725,000 units worldwide, and Grand Prix II has shipped over 750,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

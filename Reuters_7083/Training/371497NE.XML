@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="371497" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: Engineering Animation Inc Q4 net rises.</title>
+<headline>Engineering Animation Inc Q4 net rises.</headline>
+<dateline>AMES, Iowa 1997-02-12</dateline>
+<text>
+<p>Fourth Quarter	  Year</p>
+<p>					 1996	1995    1996    1995</p>
+<p>Revenues:</p>
+<p>   Custom animation products  $1,686   $1,424  $6,135  $6,478</p>
+<p>   Interactive products	  2,751	978   6,632   2,479</p>
+<p>   3D Software products	  2,624	502   7,646   1,458</p>
+<p> Total revenues		    7,061    2,904  20,413  10,415</p>
+<p> Cost of revenues		  1,978	837   6,444   2,759</p>
+<p> Gross profit			5,083    2,067  13,969   7,656</p>
+<p>Operating expenses:</p>
+<p>   Sales and marketing	   2,618	861   7,428   3,093</p>
+<p>   General and administrative    699	595   2,360   1,986</p>
+<p>   Research and development	861	443   2,122   1,712</p>
+<p> Total operating expenses	4,178    1,899  11,910   6,791</p>
+<p> Operating income		    905	168   2,059     865</p>
+<p>Other Income (expense)</p>
+<p>   Interest income		   310	 11   1,134	25</p>
+<p>   Interest expense		 (13)     (53)   (106)   (162)</p>
+<p>   Income before income taxes  1,202	126   3,087     728</p>
+<p>   Income taxes			482	 48   1,236     297</p>
+<p> Net income			    720	 78   1,851     431</p>
+<p> Net income per common share    0.13     0.02    0.36    0.12</p>
+<p> Average shares outstanding    5,496    3,702   5,157   3,702</p>
+<p>		(in thousands, except per share data)</p>
+<p>		   ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

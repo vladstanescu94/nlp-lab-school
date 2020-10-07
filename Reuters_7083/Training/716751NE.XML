@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716751" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: Netscape launches &quot;extranet&quot; to share data.</title>
+<headline>Netscape launches &quot;extranet&quot; to share data.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-07-09</dateline>
+<text>
+<p>In an apparent effort to practice what it preaches, Netscape Communications Corp said Wednesday it has begun rolling out an &quot;extranet&quot; that will connect it with business partners.</p>
+<p>An extranet is a network link in which business partners may connect using Internet technology to share confidential data - a practice Netscape has advocated as a way to speed and reduce the cost of dealing with suppliers and customers.</p>
+<p>Netscape is forming an extranet division and will roll out its extranet, called Netscape Insight, in stages beginning with employees and channel partners, a spokeswoman said.  </p>
+<p>The extranet division will be a team, currently comprising about a dozen people including content developers and technical staff, operating within Netscape's marketing department, according to Jeff Treuhaft, director of extranet marketing.</p>
+<p>&quot;We're looking for a big push with the first group of people here as early as we can in Q3,&quot; said Treuhaft, adding that the team will connect Netscape's product groups with its own direct sales force and with indirect partners.</p>
+<p>The extranet will include a range of content ranging from pricing information and reports on Netscape's competitors to pre-release versions of Netscape software and sales tools, including field sales and contact lists, the company said.</p>
+<p>&quot;We're going to be modifying and upgrading the content and the applications available to users on a monthly basis in some cases,&quot; he said. &quot;While we may call this version that we're launching today 1.0, the 2.0 stuff is already coming fast.&quot; Netscape will also produce a deployment guide for customers wishing to build similar extranets for their organizations. The guide which will be initially released to extranet partners through its own Insight channel, Treuhaft said.</p>
+<p>&quot;We wanted to be able to put a group of value partners in a position to be able to receive information that we haven't been able to allow outside the company,&quot; Treuhaft said.</p>
+<p>Treuhaft said the project was designed to bring together diverse extranet elements the company had built on its existing extranet, to streamline the service both for cost savings and to make it more efficient.</p>
+<p>The new private link is designed to take advantage of Netscape's new Communicator and SuiteSpot product offerings.</p>
+<p>&quot;The reason why the project got started initially is because it wasn't cost-effective for us to continue with these different satellite sites in our extranet,&quot; he said. &quot;We had several different groups coordinating several different sites for several different constituent bases.&quot;    &quot;By combining them</p>
+<p>all on a single site, we get efficiency we get better accuracy, we get better currency, that is going to save us a lot of money in the long run.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

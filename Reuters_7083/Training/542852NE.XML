@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="542852" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: Learning Co Inc Q1 shr loss flat.</title>
+<headline>Learning Co Inc Q1 shr loss flat.</headline>
+<dateline>CAMBRIDGE, Mass. 1997-04-28</dateline>
+<text>
+<p>(in thousands of dollars, except share and per share amounts)</p>
+<p>				 1997	    1996     1996 pro forma</p>
+<p>    Revenues		$81,027	$71,133	 $77,184</p>
+<p>Costs and expenses:</p>
+<p>    Costs of production  21,484	 20,455	  22,087</p>
+<p>    Sales and marketing  18,726	 15,380	  18,394</p>
+<p>    General and admin     7,178	  6,862	   7,570</p>
+<p>    R&amp;D			10,091	  7,897	   9,764</p>
+<p>Amortization and acquisition</p>
+<p>     related charges    124,721	 90,512	 119,015</p>
+<p>    Oper income (loss) (101,173)     (69,973)	(99,646)</p>
+<p>Interest income (expense)</p>
+<p>				 (5,528)	(6,348)	 (6,080)</p>
+<p>Income (loss) before taxes</p>
+<p>			     (106,701)     (76,321)     (105,726)</p>
+<p>Provision for income taxes:</p>
+<p>     Current		  4,417	  3,479	   3,058</p>
+<p>     Deferred		(4,417)	(3,479)	 (3,479)</p>
+<p>				   ---	    ---	     (421)</p>
+<p>    Net income (loss)  (106,701)     (76,321)     (105,305)</p>
+<p>     Per share		(2.32)	 (2.32)	  (2.50)</p>
+<p>Shares used in per</p>
+<p>share calculation</p>
+<p>			   46,007,000   32,874,000    42,088,007</p>
+<p>NOTE: Pro forma comparisons reflect the acquisition of Minnesota Educational Computing Corp.</p>
+<p>((--New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

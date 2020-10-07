@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="483302" id="root" date="1997-04-02" xml:lang="en">
+<title>AUSTRALIA: Formulab requests share suspension.</title>
+<headline>Formulab requests share suspension.</headline>
+<dateline>SYDNEY 1997-04-02</dateline>
+<text>
+<p>Shares in computer group Formulab Neuronetics Corp Ltd will be suspended from quotation immediately at the request of the company, the Australian Stock Exchange said on Wednesday.</p>
+<p>An ASX statement said the suspension was ahead of the release of further information regarding the company's proposed U.S. capital raising and NASDAQ listing.</p>
+<p>Formulab shares were last quoted at 37.5 cents at 2.30 p.m. (0430 GMT), steady with Wednesday's close.</p>
+<p>Formulab said in August last year that it planned to seek a NASDAQ listing.</p>
+<p>Formulab launched its neural PC, the Richter Paradigm Computer, in the U.S. in December 1996. The computer was said to be able to process more complex problems than existing personal computers.</p>
+<p>The company's share price tumbled shortly after the U.S. launch on media reports of a negative reaction to the launch.</p>
+<p>Formulab shares hit a peak around A$1.52 in December last year.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

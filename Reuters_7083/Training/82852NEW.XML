@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82852" id="root" date="1996-09-27" xml:lang="en">
+<title>JAPAN: Sony unit sees no major impact from software delay.</title>
+<headline>Sony unit sees no major impact from software delay.</headline>
+<dateline>TOKYO 1996-09-27</dateline>
+<text>
+<p>Sony Computer Entertainment Inc, a subsidiary of Sony Corp, said on Friday that a delay in the launch of Square Co Ltd's new software for one of its game machines would not affect sales of the machine.</p>
+<p>&quot;It will not affect our business,&quot; a Sony Computer spokesman said.</p>
+<p>Square earlier on Friday announced that it would postpone the launch of a new version of its game software &quot;Final Fantasy&quot; to January 31 from the originally planned December.</p>
+<p>The new game software is for Sony Computer's game machine PlayStation.  </p>
+<p>Although &quot;Final Fantasy&quot; will not be available for the busy Christmas shopping season, other game software for Playstation is available, the Sony Computer spokesman said.</p>
+<p>Demand for PlayStation is rising and Sony Computer is increasing output of the game machine, the spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

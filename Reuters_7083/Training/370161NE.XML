@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="370161" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: PSINet Inc Q4 net loss per share is $0.42.</title>
+<headline>PSINet Inc Q4 net loss per share is $0.42.</headline>
+<dateline>HERNDON, Va. 1997-02-10</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.42     loss	 $0.89</p>
+<p> Net loss		  16,800     loss	29,800</p>
+<p> Revs			22,800		   14,100</p>
+<p> Avg shrs		  40,100		   33,500</p>
+<p>	  12 MONTHS</p>
+<p> Shr loss		   $1.40     loss	 $1.78</p>
+<p> Net loss		  55,100     loss	53,200</p>
+<p> Revs			84,400		   38,700</p>
+<p> Avg shrs		  39,400		   29,800</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>	  ((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HERNDON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

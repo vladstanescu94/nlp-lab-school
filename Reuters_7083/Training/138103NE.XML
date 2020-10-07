@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138103" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: FTP Software says sees Q4 operating loss.</title>
+<headline>FTP Software says sees Q4 operating loss.</headline>
+<dateline>ANDOVER, Mass. 1996-10-22</dateline>
+<text>
+<p>FTP Software Inc said on Tuesday it expected to incur a loss of $5 to $7 million in the fourth quarter of 1996.</p>
+<p>The company said its revenues from continuing operations in the fourth quarter of 1996 were anticipated to be in a range of $22 to $24 million.</p>
+<p>Looking forward to 1997, FTP said it saw revenues growing in the range of 25 to 30 percent over 1996.</p>
+<p>It said it currently expected to incur operating losses during the first half of 1997 as the VIP Network product plan was implemented, with operating profits realised thereafter.</p>
+<p>FTP unveiled its plan for the Virtual IP, or VIP Network, a set of software solutions to manage Internet protocol infrastructures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANDOVER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

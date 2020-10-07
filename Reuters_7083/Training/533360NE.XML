@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="533360" id="root" date="1997-04-23" xml:lang="en">
+<title>BELGIUM: ActiveCard joins interoperability pact.</title>
+<headline>ActiveCard joins interoperability pact.</headline>
+<dateline>BRUSSELS 1997-04-23</dateline>
+<text>
+<p>French &quot;smart card&quot; maker ActivCard said in a statement on Wednesday it had joined Check Point Software Technologies Ltd's OPSEC interoperability alliance.</p>
+<p>Check Point is the global network security software market share leader, and OPSEC - Open Platform for Secure Enterprise Connectivity - was designed to &quot;guarantee interoperability at policy level between...leading edge security products&quot;, the statement said.</p>
+<p>OPSEC enables customers to integrate Check Point applications with those of other vendors.</p>
+<p>ActivCard, which is quoted on pan-European growth stocks market Easdaq, makes personal authentication and smart card systems.</p>
+<p>&quot;We are delighted to join an alliance whose objectives are consistent with our approach to information security as it is based on open systems technology,&quot; ActivCard president and chief executive officer Jean-Gerard Galvez said in the statement.</p>
+<p>Check Point has headquarters in Britian and Israel.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

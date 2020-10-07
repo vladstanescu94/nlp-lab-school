@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246318" id="root" date="1996-12-10" xml:lang="en">
+<title>JAPAN: Square sees robust orders for new game software. [Corrected 2:43 gmt 11/12]</title>
+<headline>Square sees robust orders for new game software. [Corrected 2:43 gmt 11/12]</headline>
+<dateline>TOKYO 1996-12-10</dateline>
+<text>
+<p>Square Co Ltd said on Tuesday that it aims to sell three million units of its new game software &quot;Final Fantasy VII&quot; in Japan before the end of March.</p>
+<p>A company spokesman said that although the new game would not hit the market until January 31, Square began receiving orders on December 1 and they had been robust.</p>
+<p>He said Square had now sold more than 10 million units of its &quot;Final Fantasy&quot; game series, which was first launched in December 1987.</p>
+<p>The first six titles of the series could run only on Nintendo Co Ltd's game console. The new title is only (corrects from &quot;also&quot;) compatible with Sony Computer Entertainment's PlayStation game machine.</p>
+<p>The spokesman said Square would sell the game software for 6,800 yen, mostly through convenience stores.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

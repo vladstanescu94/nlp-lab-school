@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47846" id="root" date="1996-09-11" xml:lang="en">
+<title>JAPAN: Konami, IBM Japan jointly develop 3D graphics.</title>
+<headline>Konami, IBM Japan jointly develop 3D graphics.</headline>
+<dateline>TOKYO 1996-09-11</dateline>
+<text>
+<p>Konami Co Ltd and IBM Japan Ltd, a unit of IBM Corp, have jointly developed next generation three-dimensional (3D) graphics technology, Konami said on Wednesday.</p>
+<p>The new technology has the maximum capacity of five million polygons per second, allowing more vivid three-dimensional images in games, the company said in a statement.</p>
+<p>A Konami spokesman said games that are in the market at present have a capacity of only 330,000 polygons per second at most.</p>
+<p>The company is currently developing video games using its new technology in Cobra, a three-dimensional martial arts game platform, which will be displayed at the 34th Amusement Machine Show in Japan in mid-September, it said.</p>
+<p>The spokesman said the company expects to launch the game next spring.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

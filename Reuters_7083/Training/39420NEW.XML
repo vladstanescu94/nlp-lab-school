@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39420" id="root" date="1996-09-08" xml:lang="en">
+<title>USA: Sculley's Live Picture launches consumer product.</title>
+<headline>Sculley's Live Picture launches consumer product.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO 1996-09-08</dateline>
+<text>
+<p>Live Picture Inc., the California photography software company headed by former Apple Computer Inc. Chief Executive John Sculley, will on Monday launch its first photo imaging product for consumers.</p>
+<p>The product, called LivePix, will be available in retail stores for under $100 and will enable home personal computer users to stretch or enhance pictures, stick on disguises or drag and drop them into other digital photos for printing.</p>
+<p>A free trial is also available through the LivePix home page at  http://www.livepix.com. Broderbund Software will distribute the full version for the 1996 holiday season.</p>
+<p>Sculley, who was named president and chief executive of the Soquel, Calif.-based company in January, said in an interview that the technology for the first time enables individuals and families to use professional-quality digital picture editing techniques on their own home computers.</p>
+<p>&quot;We think that PC photography is really going to be one of the exciting emerging markets,&quot; said Sculley, whose company has minority equity investment from industry heavyweights Eastman Kodak Co. and Broderbund Software.</p>
+<p>The technology allows people to add special effects, such as changing colouring, skewing images or distoring them, and to compose graphics such as greeting cards and calendars which incorporate pictures and text.</p>
+<p>LivePix, like the company's Live Picture product for professionals, uses FlashPix technology the company pioneered to allow speedy, high resolution photo viewing and printing.</p>
+<p>Instead of moving the tiny pixels used to create computer monitor images about, a task Sculley describes as taking &quot;an excruciating long time to move on the screen&quot; FlashPix uses sophisticated mathematical algorithms to speed processing.</p>
+<p>While Sculley noted that older technology could take a half an hour or more to move rotate and manipulate a photographic image, or requires movement of low grade images to improve speed, FlashPix moves pictures rapidly.</p>
+<p>This is one feature which is expected to help speed adaptation in the market of digital editing technology.</p>
+<p>Although digital cameras remain expensive -- at around $350 to $800 for entry-level models -- and image quality for these is still below that of film cameras, the industry expects consumers to take advantage of the increasing availability of services which will digitize film images.</p>
+<p>Sculley said Live Picture has also been working with other industry leaders, such as Hewlett-Packard Co., which is a dominant force in computer printing technology, to develop and expand a market which is now in its embroyonic stages.</p>
+<p>Hewlett-Packard, Eastman Kodak, Microsoft Corp. and Live Picture have all endorsed the FlashPix format.</p>
+<p>Sculley noted that there are more than 60 billion photographs taken every year, but only some 2 percent of those are ever duplicated or used again, providing a wide-open market for people to add new, digitally-enhanced flourishes.</p>
+<p>&quot;What we really want to do in the early stages is to establish the foundation,&quot; said Sculley, who predicted the market would really begin to heat up in the build-up to Christmas 1997 a year from now. &quot;The technology is here now.&quot;</p>
+<p>Sculley compares the advance and the consumer market potential with that of electronic publishing in the 1980s, when several major software companies such as Aldus and Adobe, which have since merged, thrived by significantly lowering the cost and ease of professional graphics.</p>
+<p>He also said the concentration of major high tech firms on the Internet will provide enormous new market potential.</p>
+<p>This week, for example, Live Picture has scheduled a briefing in conjunction with Hewlett-Packard, Eastman Kodak, Microsoft, and Netscape Communications Corp. to discuss further plans for using its technology to publish and distribute photographic images on the Internet.</p>
+<p>Sculley said people will be able to include photographs in documents and send them in electronic mail. Companies will use FlashPix technology on computer servers to provide a range of Internet services, including photo-processing.</p>
+<p>&quot;What makes this technology different from anything that's come before is it is totally open, it's available and has huge advantages in sending photos over the Internet,&quot; Sculley said.</p>
+<p>Microsoft is expected to introduce a product in the same general area soon, also using FlashPix technology, according to industry executives, and Sculley said competition would only help define and expand the market at this stage.</p>
+<p>Sculley, who left Apple in 1993 and served briefly as chief executive of Spectrum Information Technologies Inc.before a financial scandal surfaced at the small company, also has a New York-based venture capital business.</p>
+<p>In January, Sculley announced he had joined privately-held Live Picture, and had bought a piece of the company. He has declined to detail his holding, saying holdings by key Live Picture executives exceed those of the corporate investors.</p>
+<p>LivePix will initially be available on Microsoft Windows 95, with an Apple Macintosh version due later.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

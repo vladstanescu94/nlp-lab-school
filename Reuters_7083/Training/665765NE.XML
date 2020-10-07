@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="665765" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: Quarterdeck Corp faces investor suit.</title>
+<headline>Quarterdeck Corp faces investor suit.</headline>
+<dateline>NEW YORK 1997-06-16</dateline>
+<text>
+<p>Investors in Quarterdeck Corp filed a class action suit in California alleging the company concealed facts about its finacial health and inflated stock prices, plaintiffs' lawyers said on Monday.</p>
+<p>The lawyers said they sought to recover damages in the case, but did not specify a dollar amount.</p>
+<p>The suit was filed by investors who bought Quarterdeck common stock from January 26, 1996, through June 13, 1996, the lawyers said in a statement.</p>
+<p>The complaint charges that the computer software company and a former and current executive misrepresented facts &quot;concerning the company's business, financial statements and earnings growth.&quot;</p>
+<p>Specifically, the complaint alleges the company improperly reported revenues on contingent and consignment deals, causing the company's reported revenues to be artificially inflated.</p>
+<p>No one was immediately available at Quarterdeck to comment on the case.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

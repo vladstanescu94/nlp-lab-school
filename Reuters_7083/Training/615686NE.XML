@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="615686" id="root" date="1997-05-27" xml:lang="en">
+<title>CANADA: Jetform Corp Q4 April 30 turns to loss.</title>
+<headline>Jetform Corp Q4 April 30 turns to loss.</headline>
+<dateline>OTTAWA 1997-05-27</dateline>
+<text>
+<p>Fourth quarter ended April 30</p>
+<p>				1997			    1996</p>
+<p> Shr	   loss	C$0.07   profit	C$0.12</p>
+<p> Net	   loss	 1,157   profit	 1,495</p>
+<p> Revs			20,828		   13,402</p>
+<p>	   12 MONTHS</p>
+<p> Shr	   loss     C$10.03   profit	C$0.34</p>
+<p> Net	   loss     148,480   profit	 4,148</p>
+<p> Revs			76,614		   43,455</p>
+<p> Avg shrs		  14,800		   12,137</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

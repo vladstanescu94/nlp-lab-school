@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59075" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: First Call Earnings Surprises for September 17.</title>
+<headline>First Call Earnings Surprises for September 17.</headline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>The following are lists of positive and negative earnings surprises compiled by First Call. Earnings surprises and historical information are provided by First Call.</p>
+<p>		    First Call Earnings Surprises</p>
+<p>Positive Surprises ------------------</p>
+<p>				  First Call</p>
+<p>						    Consensus  Actual</p>
+<p>Company Name	    Ticker   Period     EPS	EPS</p>
+<p>Positive Surprises</p>
+<p>AAR Corp.		 AIR	Q1Aug96    0.25     0.30</p>
+<p>Circuit City Stores   CC	 Q2Aug96    0.28     0.32</p>
+<p>West Coast Entertainm WCEC     Q2Jul96    0.11     0.12</p>
+<p>Intuit Inc.	     INTU     Q4Jul96   -0.19    -0.17</p>
+<p>Nashville Country Clu NCCI     Q2Jun97   -0.24    -0.22</p>
+<p>Rowe Furniture Corp   ROW	Q3Aug96    0.08     0.14</p>
+<p>Negative Surprises</p>
+<p>------------------</p>
+<p>						    Consensus  Actual</p>
+<p>Company Name	    Ticker   Period     EPS	EPS</p>
+<p>Laser Vision Centers  LVCI     Q1Jul96   -0.24    -0.32</p>
+<p>				Other Companies Reporting Today</p>
+<p>Positive Reports</p>
+<p>----------------</p>
+<p>						    Consensus  Actual</p>
+<p>Company Name	    Ticker   Period     EPS	EPS</p>
+<p>Material Sciences Cor MSC	Q2Aug96    0.28     0.29</p>
+<p>General Mills	   GIS	Q1Aug96    0.78     0.80</p>
+<p>Nike, Inc.		NKE	Q1Aug96    1.51     1.53</p>
+<p>Worthington Industrie WTHG     Q1Aug96    0.22     0.22</p>
+<p>Negative Reports</p>
+<p>----------------</p>
+<p>						    Consensus  Actual</p>
+<p>Company Name	    Ticker   Period     EPS	EPS</p>
+<p>Rite Aid Corp.	  RAD	Q2Aug96    0.43     0.42</p>
+<p>Harry's Farmers Marke HARY     Q2Jul96    0.05     0.01</p>
+<p>Legend:</p>
+<p>N/A	All or some data necessary for calculation is</p>
+<p>	   unavailable.</p>
+<p>N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and</p>
+<p>	   there is more than one estimate.</p>
+<p>N+	 Actual EPS is larger than Mean estimate. Mean</p>
+<p>	   estimate is negative or zero.</p>
+<p>N-	 Actual EPS is smaller than Mean estimate. Mean</p>
+<p>	   estimate is negative or zero.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I46700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I64300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

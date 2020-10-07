@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35851" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Fidelity, Intuit to develop software.</title>
+<headline>Fidelity, Intuit to develop software.</headline>
+<dateline>BOSTON 1996-09-05</dateline>
+<text>
+<p>Intuit Inc and Fidelity Investments have agreed to jointly develop a 401(k) software product, adapted from the popular Quicken Financial Planner, for use by the mutual fund firm's customers, Fidelity said.</p>
+<p>The software, called Fidelity QFP, will be available to Fidelity institutional customers, or plan sponsors, who offer 401(k) plans to their employees during the first quarter of 1997.</p>
+<p>Fidelity QFP will allow Fidelity customers to download account information using Internet technology to assess future retirement income needs, Fidelity said.</p>
+<p>Customers can buy the software for $34.95 plus shipping and handling, Fidelity spokeswoman Camille Lepre said.</p>
+<p>Lepre said Fidelity and Intuit are exploring the possiblity of site licenses for plan sponsors which would allow Fidelity QFP software to be available on each employee's personal computer at work.</p>
+<p>-- Michael Ellis, Boston bureau (617) 367-4176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

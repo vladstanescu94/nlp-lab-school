@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253945" id="root" date="1996-12-12" xml:lang="en">
+<title>SINGAPORE: EU officials list product groups in ITA accord.</title>
+<headline>EU officials list product groups in ITA accord.</headline>
+<dateline>SINGAPORE 1996-12-12</dateline>
+<text>
+<p>European Union officials said the following product groups are included in the agreement clinched on Thursday between the United States and the EU to remove tariffs in information technology goods.</p>
+<p>-- semi-conductors.</p>
+<p>-- capacitors, which are energy-storage devices widely used in electronic equipment. EU exports of capacitors are worth $100 million a year.</p>
+<p>-- digital photocopiers, which account for the vast bulk of photocopiers.</p>
+<p>-- fibre optic cables. However, optical fibres or optical fibre strands are excluded from the deal.</p>
+<p>-- computer monitors, defined as having a dot screen pitch of less than 0.4 millimetre. Defined as such, television monitors are excluded from the ITA.</p>
+<p>-- telecommunications equipment.</p>
+<p>-- classical computer software is included, but software carrying film or sound recordings is excluded.</p>
+<p>-- graphic display tubes are excluded from the deal.</p>
+<p>WTO newsroom 65 337 4453</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302017">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

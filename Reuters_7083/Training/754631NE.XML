@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="754631" id="root" date="1997-07-24" xml:lang="en">
+<title>BELGIUM: Microsoft Benelux income and investment up.</title>
+<headline>Microsoft Benelux income and investment up.</headline>
+<dateline>BRUSSELS 1997-07-24</dateline>
+<text>
+<p>Microsoft Benelux (MSB) said on Thursday its revenue rose by a record 55 percent to 9.5 billion francs ($257 million) in the year to the end of June, beating the Microsoft Corporation's overall 31 percent increase.</p>
+<p>The firm, which employs 250 people, said it would also take on another 45 staff over the coming year and fund a further 750 people to quality as Microsoft certified professionals.</p>
+<p>The revenue rise gives Microsoft Benelux a 2.3 percent share of Microsoft's worldwide revenues, and nearly eight percent of its Europe income.</p>
+<p>One of the main factors behind the rise was the increasing rate of swap-out from MS-DOS to Windows 95 at the same time as taking extra applications such as Office 97, spokesman Marc Bresseel told Reuters.</p>
+<p>Server sales, such as Windows NT Server and other BackOffice products on which the firm intends to focus in the coming year, had also nearly tripled.</p>
+<p>Regional managing director Patrick De Smedt said the firm would offer free training to academics from September, and authorised academic training partners would also be offered the use of Microsoft educational kits at a discount.</p>
+<p>Technical workshops and solution development workshops would be established, with the aim of closing what he termed the skills gap.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="BENLUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

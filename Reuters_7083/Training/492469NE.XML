@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="492469" id="root" date="1997-04-07" xml:lang="en">
+<title>JAPAN: Softbank, Trend Micro to sell virus system in Japan.</title>
+<headline>Softbank, Trend Micro to sell virus system in Japan.</headline>
+<dateline>TOKYO 1997-04-07</dateline>
+<text>
+<p>Softbank Corp and its affiliate Trend Micro Inc said on Monday they will launch a new system in Japan in May to provide companies with protection against computer viruses while using the Internet.</p>
+<p>Trend Micro, which is 35 percent owned by Softbank, will provide software and services to systems integrators, who will in turn offer them to their customers.</p>
+<p>Softbank will act as a coordinator of the project, the two firms said.</p>
+<p>So far, 14 systems integrators, such as Electronic Data Systems Corp's Japanese unit and NTT Data Corp, have agreed to the system, called Vaccine Bank, they said.</p>
+<p>Softbank and Trend Micro, an anti-virus software firm, hope to increase that to 30 by the end of this year, the two said.</p>
+<p>Systems integrators build computer networks and provide various other computer functions for companies.</p>
+<p>The two firms said they are aiming for sales of 1.5 billion yen to 1.6 billion yen by the end of the year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

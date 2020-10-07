@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="650940" id="root" date="1997-06-10" xml:lang="en">
+<title>ISRAEL: Sun to sign Israel cooperation accord.</title>
+<headline>Sun to sign Israel cooperation accord.</headline>
+<dateline>TEL AVIV 1997-06-10</dateline>
+<text>
+<p>Sun Microsystems Inc president Ed Zander will sign on June 16 an industrial cooperation agreement with the Israeli government, the U.S. company said on Tuesday.</p>
+<p>One aspect of the framework agreement is a commitment by Sun to buy Israeli products equal to 35 percent of what it will sell to the Israeli government, a company spokesman said.</p>
+<p>Zander will be in Israel to attend the Interworld trade show on June 16-18 in Jerusalem. He will hold a news conference in Tel Aviv on June 15.</p>
+<p>Sun, a leading provider of servers and workstations and developer of the Java Internet programming language, is increasing its presence in Israel.</p>
+<p>It has established a subsidiary in Israel to further its business and opened a Java development centre in Herzliya.</p>
+<p>During the last year the company's buyback purchases in Israel reached $25 million, most of them from Check Point Software Technologies Ltd.</p>
+<p>-Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

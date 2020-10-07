@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191342" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: H-P says RSA Data in codes deal.</title>
+<headline>H-P says RSA Data in codes deal.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-15</dateline>
+<text>
+<p>Hewlett-Packard Co. said Security Dynamics Technologies Inc's RSA Data Security Inc electronic encryption company is involved in its planned announcement Monday of new advance in encryption technology.</p>
+<p>&quot;RSA Data is a given in this area,&quot; one spokesman said of the involvement of RSA, which has been a pioneer in the use of key code encryption over the Internet by licensing rights and technology to its public encryption systems.</p>
+<p>Secure coding is necessary for development of electronic commerce now underway, but the technology industry and the U.S. government have been at odds over the export of stronger level encryption capabilities.</p>
+<p>This technology is still classified as munitions under Cold War era U.S. laws, and the Clinton administration has argued that law enforcement authorities still need to be able to read encoded messages to clamp down on criminals.</p>
+<p>Technology companies have argued the restrictions have greatly disadvantaged U.S. companies, since those in other countries have no such prohibitions. Furthermore, cryptography experts have questioned whether the U.S. government should have access to otherwise secure information, especially when it may involve foreign companies, governments or individuals.</p>
+<p>Hewlett-Packard said technology the company's Chairman and Chief Executive Lewis Platt is due to detail at the National Press Club on Monday aims to resolve this roadblock in the use of electronic commerce over the Internet.</p>
+<p>Hewlett-Packard officials declined to give precise details, but said the technology has already received backing from the U.S. government and other governments which it did not name, as well as major industry players.</p>
+<p>Senior executives of Microsoft Corp and Intel Corp are among those scheduled to make presentations on Monday, Hewlett-Packard said, but it declined to identify other companies whose technologies will be involved.</p>
+<p>Recently, Silicon Valley executives have said that the use of so-called &quot;strong cryptography&quot; using secure key codes that are 128 bits, or characters, long to code and decode signals to a television Internet browsing box designed by Palo Alto startup WebTV Networks has brought new light to the debate.</p>
+<p>WebTV's service is used by ordinary Americans for little more complicated than browsing the World Wide Web, they note, but the encryption technology is the same as that used for highly confidential government and military communications.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

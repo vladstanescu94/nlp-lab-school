@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="673085" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: Europe, Asia lag U.S. in &quot;Year 2000&quot; fixes.</title>
+<headline>Europe, Asia lag U.S. in &quot;Year 2000&quot; fixes.</headline>
+<byline>Randall Mikkelsen</byline>
+<dateline>PHILADELPHIA 1997-06-19</dateline>
+<text>
+<p>European and Asian companies are lagging their U.S. rivals in coming to grips with the looming &quot;Year 2000&quot; problem of computers misreading date codes, industry experts said Thursday.</p>
+<p>The reasons cited for the dallying vary from a preoccupation with European monetary union -- an even more complex and immediate problem -- to a simple lack of awareness.  </p>
+<p>Risks of a delay include computer system failure, the escalating costs of preventive software repairs and the loss of competitiveness to firms that have already made the fix, experts told a seminar sponsored by Emerald Asset Management.</p>
+<p>U.S. firms doing business with companies that have not upgraded to fix the problems also face severe interruptions.</p>
+<p>&quot;Even though we're behind in the U.S. (in addressing the problem), in Europe they're even further behind and in Asia they're even further behind that,&quot; said Jim Woodward, who oversees the millennium services business of technology consultants Cap Gemini America.  </p>
+<p>But some countries outside the United States -- notably the United Kingdom, but also Japan -- are beginning to address the problem, said Peter de Jager, a Canadian consultant and lecturer on the issue,</p>
+<p>&quot;It's beginning to move around the world,&quot; de Jager told Reuters, referring to action on the issue.</p>
+<p>The &quot;Year 2000 problem,&quot; also known as the &quot;Millennium bug&quot;, refers to the existence in many computer systems of two- digit date codes for the year. This causes many systems to misread &quot;00&quot; as referring to the year 1900, causing potential havoc in any date-sensitive calculation.  </p>
+<p>The estimated costs of going through billions of lines of computer code to correct the problem range into the hundreds of billions of dollars worldwide, with costs escalating rapidly as the deadline looms and the supply of programmers gets stretched.</p>
+<p>De Jager and Woodward said many European firms have been preoccupied with preparing their computer systems for monetary union in 1999 -- a more complex task requring financially sophisticated programmers.  </p>
+<p>De Jager said some leading European business publications have disputed the severity of the issue. He cited a Financial Times editorial in February as saying the issue was exaggerated, but said the publication now devotes regular coverage to it.</p>
+<p>Another influential magazine trails even the American comic strips in its comprehension.</p>
+<p>&quot;Dilbert understands this...The Economist doesn't,&quot; he said.</p>
+<p>Firms that fail to fix their computers in time face competitive losses in international trade, the experts said.  </p>
+<p>Major international companies such as General Motors Corp are demanding that their European suppliers be &quot;2000 compliant&quot; to ensure their products continue to arrive on time, Mark Lambright, president of Texas-based software firm Lucid Corp, told Reuters.</p>
+<p>A system failure due to a date problem, &quot;can shut down a local plant, like a strike,&quot; he said.</p>
+<p>Said Larry Mulhern, a sales executive with Mastech Corp: &quot;If there's steel from Japan that doesn't get here (because a year 2000 problem has fouled up a shipping order, for example), the automobile won't get built.&quot;  </p>
+<p>De Jager said European firms can recover some of their lost momentum.</p>
+<p>Unlike their U.S. rivals, many acquired computer technology later and, when they did, bought from a single supplier, so they are less likely to have a hodge podge of systems and programming languages.</p>
+<p>Also, they are much more consistent in their date formats.</p>
+<p>British firms have been spurred by a government-backed task force on the issue and major firms, including Barclay's, Natwest and British Telcom have committed hundreds of millions of dollars to updating projects.</p>
+<p>&quot;The U.K. has turned around dramatically,&quot; De Jager said.</p>
+<p>Japanese firms and to a lesser extent those in Hong Kong, Malaysia and China have begun to take notice.</p>
+<p>Such changes are inevitable, Lambright said.</p>
+<p>&quot;There will be a push,&quot; he added. &quot;It's just a matter of when in happens and whether it happens in time.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

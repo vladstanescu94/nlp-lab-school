@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101345" id="root" date="1996-10-07" xml:lang="en">
+<title>JAPAN: IBJ to sell all its Softbank shares - paper.</title>
+<headline>IBJ to sell all its Softbank shares - paper.</headline>
+<dateline>TOKYO 1996-10-07</dateline>
+<text>
+<p>Industrial Bank of Japan (IBJ) Ltd will sell all its shares in Softbank Corp by March 31, 1997, a Japanese newspaper reported at the weekend.</p>
+<p>The Japanese economic daily Nihon Keizai Shimbun said on Saturday that IBJ, Softbank's fifth largest shareholder with a 0.9 percent stake as of March 31, 1996, had already sold some of the shares.</p>
+<p>The bank had decided to sell the shares because Softbank had recently diversified its sources of funding, the paper said. Spokesmen for the bank and Softbank were not immediately available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

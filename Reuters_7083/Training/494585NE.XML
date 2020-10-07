@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494585" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: Kellogg chooses Oracle information technology.</title>
+<headline>Kellogg chooses Oracle information technology.</headline>
+<dateline>BATTLE CREEK, Mich. 1997-04-08</dateline>
+<text>
+<p>Kellogg Co and Oracle Corp said Tuesday that Kellogg has chosen Oracle's CPG (Consumer Packaged Goods), a software solution designed specifically for the consumer packaged goods industry.</p>
+<p>Kellogg said it will use Oracle CPG to improve its business process integration, both internally and with its suppliers, partners and customers to manage the purchase, production and distribution of its foods. </p>
+<p>The companies said the Oracle software technology will enable Kellogg to leverage its global supply and manufacturing infrastructure, which includes 36 manufacturing facilities in 22 countries on six continents. Kellogg markets its products in nearly 160 countries.</p>
+<p>&quot;Both companies envision a long-term relationship in which Oracle will continue to renew and expand the supply chain management solution as technology innovations, business needs and operational requirements demand,&quot; Oracle President Ray Lane said in a statement.</p>
+<p>Oracle is the world's second largest software company. Kellogg is the leading U.S. ready-to-eat cereal manufacturer.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BATTLE CREEK, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

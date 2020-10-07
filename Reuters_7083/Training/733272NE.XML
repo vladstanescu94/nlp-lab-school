@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733272" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: TABLE-Evans &amp; Sutherland Q2 net rises.</title>
+<headline>TABLE-Evans &amp; Sutherland Q2 net rises.</headline>
+<dateline>SALT LAKE CITY 1997-07-16</dateline>
+<text>
+<p>Three Months Ended  Six Months Ended</p>
+<p>				  Jun 27,    Jun 28,  Jun 27, Jun 28,</p>
+<p>				    1997	  1996     1997    1996</p>
+<p> Sales			  $37,907    $30,907  $71,549 $57,594</p>
+<p> Cost of sales		 20,483     16,192   38,997  30,385</p>
+<p>     Gross profit	    17,424     14,715   32,552  27,209</p>
+<p>Expenses:</p>
+<p>Marketing, general and</p>
+<p>    administrative	    8,632	7,880   16,476  14,561</p>
+<p>Research and development</p>
+<p>				    6,746	5,499   12,592  10,819</p>
+<p>    Operating expenses     15,378     13,379   29,068  25,380</p>
+<p>    Operating earnings	2,046	1,336    3,484   1,829</p>
+<p> Other income, net		661	1,072    1,238   1,798</p>
+<p>Earnings before</p>
+<p>     income taxes	     2,707	2,408    4,722   3,627</p>
+<p> Income tax expense	     732	  915    1,336   1,377</p>
+<p>    Net earnings		1,975	1,493    3,386   2,250</p>
+<p> Primary earnings per share  0.21	 0.16     0.36    0.25</p>
+<p>Number of shares used in</p>
+<p>earnings per share</p>
+<p>  calculation		   9,394	9,328    9,414   9,180</p>
+<p>(In thousands, except per share data)</p>
+<p>NOTE: Full name is Evans &amp; Sutherland Computer Corp.</p>
+<p>((-- New York Newsdesk, 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SALT LAKE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

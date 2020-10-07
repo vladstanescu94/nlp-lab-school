@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100449" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Magic Software sees $200,000 Q3 loss.</title>
+<headline>Magic Software sees $200,000 Q3 loss.</headline>
+<dateline>NEW YORK 1996-10-07</dateline>
+<text>
+<p>Magic Software Enterprises Ltd said on Monday it expected a loss of about $200,000 in the 1996 third quarter net income compared to a $130,000 profit in the same quarter last year, due to increased marketing and research expenses.</p>
+<p>The software tool publisher also said it expected to report revenues for the quarter of about $9 million compared to $6.3 million in the 1995 third quarter.  </p>
+<p>Increased investments in marketing and research and development led to the loss for the period, the Israeli-based company said.</p>
+<p>Chief Financial Officer Elan Penn also said the company believed several orders which were expected to be received in the third quarter will be booked in the fourth quarter and that the company would achieve increased revenues and profitability in the fourth quarter 1996.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

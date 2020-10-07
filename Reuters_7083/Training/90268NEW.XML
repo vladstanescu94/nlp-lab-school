@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90268" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: IBM and 10 others in encryption alliance.</title>
+<headline>IBM and 10 others in encryption alliance.</headline>
+<dateline>NEW YORK 1996-10-02</dateline>
+<text>
+<p>International Business Machines Corp, Apple Computer, Hewlett-Packard Co and eight other companies on Wednesday announced a data encryption alliance to protect and facilitate international electronic commerce.</p>
+<p>Alliance members said encryption would allow them to send information securely over the Internet and other international networks.  </p>
+<p>Other members of the alliance are Digital Equipment Corp, Sun Microsystems Inc, United Parcel Service of America Inc, NCR Corp, Groupe Bull, RSA Data Communications, Atalla and Trusted Information Systems.</p>
+<p>The alliance said its members will develop high-level cryptographic &quot;key-recovery&quot; solutions, which use strings of computer codes that lock and unlock data.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

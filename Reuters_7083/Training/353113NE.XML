@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353113" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: Peoplesoft Inc Q4 net income.</title>
+<headline>Peoplesoft Inc Q4 net income.</headline>
+<dateline>PLEASANTON, Calif. 1997-02-04</dateline>
+<text>
+<p>(In thousands, except per share and employee amounts)</p>
+<p>				    Three Months	  Year Ended</p>
+<p>				   Ended Dec. 31,     Ended Dec. 31,</p>
+<p>					1995     1996     1995     1996</p>
+<p>Revenues:</p>
+<p>  License fees		$ 49,377 $ 85,112$ 137,808$ 252,799</p>
+<p>  Services			28,780   62,555   94,331  197,253</p>
+<p>    Total revenues	    78,157  147,667  232,139  450,052</p>
+<p>Costs and Expenses:</p>
+<p>  Cost of license fees	 2,218    4,083    8,503   12,357</p>
+<p>  Cost of services	    17,925   38,481   56,789  118,906</p>
+<p>  Sales and marketing	 23,302   42,101   70,052  135,757</p>
+<p>  Product development	 12,740   21,042   38,625   70,653</p>
+<p>General and administrative</p>
+<p>				     4,764    9,279   16,182   27,162</p>
+<p>In-process research and</p>
+<p>development and non-recurring</p>
+<p>   acquisition costs		--   29,393	 --   29,393</p>
+<p>Total costs and expenses</p>
+<p>				    60,949  144,379  190,151  394,228</p>
+<p> Operating income	     17,208    3,288   41,988   55,824</p>
+<p> Other income, net	     1,216    1,561    4,149    5,888</p>
+<p> Income before taxes	  18,424    4,849   46,137   61,712</p>
+<p> Provision for income taxes  7,392    3,105   18,799   25,851</p>
+<p> Net income		     11,032    1,744   27,338   35,861</p>
+<p> Net income per share	   0.09     0.01     0.24     0.30</p>
+<p>Shares used in computation</p>
+<p>				   116,536  123,028  114,062  120,032</p>
+<p>NOTE: Latest Q4 net includes a one-time writeoff of in-process research and development and other acquisition related costs of $26.5 million and other non-recurring charges of $2.9 million. Without these items, the company would have had net income of $20.5 million, or $0.17 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

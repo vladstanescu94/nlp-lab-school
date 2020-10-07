@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230213" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: U.S. IPO Pricings due week of Dec 2.</title>
+<headline>U.S. IPO Pricings due week of Dec 2.</headline>
+<text>
+<p>COMPANY			SIZE(MLN) RANGE UNDERWRITER TRADEDATE</p>
+<p>Translation		    1.6	 6   Werbel-Roth  PRICED</p>
+<p>Premier Concepts	     1.0  3-3.75   Cohig	    Dec3</p>
+<p>Advanced Aerodynamics	6.0u    6.5   DHBlair	  Dec3</p>
+<p>US Energy			3.1	 4   Gaines	   Dec3</p>
+<p>Leading Edge Pckgg	   1.25	6   Gilford	  Dec3</p>
+<p>ViaSat			   2.2   10-12   Oppenheimer    Dec3</p>
+<p>Powerwave			1.8   11-13   AlexBrown	Dec4</p>
+<p>Puma Technology		3.0    8-10   Deutsche	 Dec4</p>
+<p>Poppe Tyson		    3.0    9-11   Merrill	  Dec4</p>
+<p>TTI Team Telecom	     2.5     7-9   Oppenheimer    Dec4</p>
+<p>Highway Holdings	     1.05u   5-6   H.J. Meyer     Dec5</p>
+<p>Ecomat			   1.2	 5   Patterson	Dec5</p>
+<p>Marquee Group		  3.0u	5   Royce	    Dec5</p>
+<p>Bowlin Outdoor		 1.45	8   Brous	    Dec6</p>
+<p>Innopet Brands		 2.25	4   Stevens	  Dec6</p>
+<p>BPL Cellular		  12.5ADS 15-17  MorganStan   wkDec2</p>
+<p>Multimedia Access	    1.8     5-6   Natl Secs    wkDec2</p>
+<p>Progenics Pharm		2.0     7-9   Oppenheimer  wkDec2</p>
+<p>Katmandu Ent		   2.5	 6   Natl Secs    midDec</p>
+<p>Riviera Tool		   1.1     7-8   Natl Secs    midDec</p>
+<p>Commodore Separation	 5.0     6-8   Natl Secs    midDec</p>
+<p>New York Health		1.1	 5   RAS	    midDec</p>
+<p>Superior Supplement	  0.6	 5   VTR	    midDec</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

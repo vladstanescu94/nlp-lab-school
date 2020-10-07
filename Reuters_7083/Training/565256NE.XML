@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565256" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Global software piracy on the rise - study.</title>
+<headline>Global software piracy on the rise - study.</headline>
+<dateline>WASHINGTON 1997-05-07</dateline>
+<text>
+<p>Software piracy rose 20 percent in 1996 compared with the prior year, with about one of every two new business software applications being pirated, according to a study by the Software Publishers Association and the Business Software Alliance.</p>
+<p>The report said that of the 523 million software applications used during 1996, 225 million units were pirated, compared with a 1995 estimate of 187 million units.  </p>
+<p>Revenue losses to the worldwide software industry due to piracy were estimated at $11.2 billion in 1996, a 16 percent drop compared with estimated losses of $13.3 billion in 1995, the report said.</p>
+<p>Eastern Europe had the highest overall piracy rates, with an average of 80 percent.  The lowest regional piracy rate was in North America, where there was an average rate of 28 percent.</p>
+<p>The report said that North America also had the highest dollar losses to software piracy in the world, estimated at $2.7 billion in 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

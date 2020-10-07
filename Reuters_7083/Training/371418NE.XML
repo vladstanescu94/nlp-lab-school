@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="371418" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: ISOCOR Q4 net eases.</title>
+<headline>ISOCOR Q4 net eases.</headline>
+<dateline>SANTA MONICA, Calif. 1997-02-12</dateline>
+<text>
+<p>ISOCOR</p>
+<p>			    Income Statement Highlights</p>
+<p>		  (amounts in thousands, except per share data)</p>
+<p>			    Three Months		 Twelve Months</p>
+<p>				  Ended			 Ended</p>
+<p>			    December 31,		  December 31,</p>
+<p>			     1996    1995		1996	1995</p>
+<p> Total revenues	$7,005  $7,110	   $26,394   $20,774</p>
+<p> Gross profit	   5,760   5,268	    21,326    16,180</p>
+<p>Engineering expenses,</p>
+<p>   net of grants	2,224   1,872	     8,541     6,686</p>
+<p>Selling, general &amp;</p>
+<p>administrative</p>
+<p>   expenses	     3,761   2,479	    12,817     8,908</p>
+<p>Operating income</p>
+<p>   (loss)		 (225)     917		(32)	 586</p>
+<p>Costs relating to</p>
+<p>   acquisition	     45	--		 227	  --</p>
+<p>Provision for loss on</p>
+<p>   investment		--     100		  --	 100</p>
+<p>Income (loss) from</p>
+<p>currency</p>
+<p>   fluctuations	  (33)	--		(83)	  72</p>
+<p>Interest income</p>
+<p>   (expense)		323     (1)	     1,010	 104</p>
+<p> Income before taxes     20     816		 668	 662</p>
+<p>Provision (credit)</p>
+<p>   for income taxes   (189)     211		 185	 343</p>
+<p> Net income		 209     605		 483	 319</p>
+<p>Net income per</p>
+<p>   share		   0.02    0.08		0.06	0.04</p>
+<p>Weighted average</p>
+<p>shares</p>
+<p>   outstanding	  9,971   7,743	     8,248     7,783</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA MONICA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

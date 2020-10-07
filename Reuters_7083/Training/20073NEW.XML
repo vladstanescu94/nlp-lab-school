@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20073" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Datalogix adopts shareholder rights plan.</title>
+<headline>Datalogix adopts shareholder rights plan.</headline>
+<dateline>VALHALLA, N.Y. 1996-08-28</dateline>
+<text>
+<p>Datalogix International Inc said Wednesday it has adopted a shareholder rights plan in which preferred stock purchase rights will be distributed as a dividend at a rate of one right for each share of common stock.</p>
+<p>The rights, which are to expire August 27, 2006, will be extended to common stock held at the close of business on September 9.</p>
+<p>The company said the rights will not prevent a takeover, but should encourage any prospective buyers to negotiate with the board of directors before attempting a takeover.  </p>
+<p>Each right will allow shareholders to buy 1/1000 of a newly issued share of Series A preferred stock at an exercise price of $30, the company said.</p>
+<p>The rights can be exercised if an individual or group acquires 20 percent or more of the company's common stock, or makes a tender or exchange offer for 20 percent or more of the company's common stock.</p>
+<p>Datalogix provides software for managing the manufacturing and financial operations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALHALLA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

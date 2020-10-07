@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277590" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: Computer Associates sees Q4 revs at $1.2 bln.</title>
+<headline>Computer Associates sees Q4 revs at $1.2 bln.</headline>
+<dateline>NEW YORK 1996-12-27</dateline>
+<text>
+<p>Computer Associates International Inc told analysts on Friday that it expected fourth quarter revenues to reach about $1.2 billion and saw the estimate of $0.89 per share for the quarter to be &quot;achievable,&quot; according to an analyst, who participated in the company's conference call.  </p>
+<p>For the same period last year, the software company posted earnings of $1.05 per share on revenues of $1.1 billion.</p>
+<p>The company's shares tumbled 12-3/4 to 49 in late trading on the New York Stock Exchange. The company was not immediately available to confirm the projections.</p>
+<p>On Thursday, Computer Associates said it expected its third-quarter revenues to be between $1 billion and $1.1 billion, below the consensus estimate of $1.2 billion.</p>
+<p>The company, which cited softness in European sales, said it still expected to reach the quarterly earnings estimate of $0.75 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

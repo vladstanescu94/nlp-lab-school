@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256108" id="root" date="1996-12-13" xml:lang="en">
+<title>BELGIUM: Belgacom, Sun, Oracle in pact.</title>
+<headline>Belgacom, Sun, Oracle in pact.</headline>
+<dateline>BRUSSELS 1996-12-13</dateline>
+<text>
+<p>Belgian partially-privatized telephone operator Belgacom SA said on Friday it signed an agreement with Sun Microsystems Inc and Oracle Corp to develop the network computer idea in Belgium.</p>
+<p>&quot;It's a memorandum of understanding, the details of which have to be refined...but we would like to house and operate the central servers on which companies can put data and applications,&quot; Alain Deneef, the head of Belgacom's multimedia division, told a news conference.</p>
+<p>Belgacom said it aimed to make decentralised office servers in all of its 39 area codes accessible by high-speed ADSL links, or from throughout the country via ISDN lines.</p>
+<p>The group plans to begin trials using ADSL technology, which allows normal copper wire telephone lines to be turned into high-speed, two-way data networks, in the second quarter of 1997, Belgacom chief executive officer John Goossens said.</p>
+<p>The computer technology used will rely on the network computer concept.</p>
+<p>The network computer is a slimmed-down personal computer without disk or CD-ROM drives that pulls the software it needs to run applications from a centrally located server.</p>
+<p>Sun and Oracle claim this cuts down the cost to businesses of running a PC network.</p>
+<p>Belgacom is 49.9 percent owned by a consortium led by Chicago-based Ameritech. It includes Singapore Telecom, Tele Danmark and three Belgian companies. The Belgian state owns the rest of the shares.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

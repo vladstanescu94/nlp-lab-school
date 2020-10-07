@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="506330" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: Medicus Systems Q3 Feb 28 loss widens.</title>
+<headline>Medicus Systems Q3 Feb 28 loss widens.</headline>
+<dateline>EVANSTON, Ill. 1997-04-14</dateline>
+<text>
+<p>Three Months Ended   Nine Months Ended</p>
+<p>				Feb. 28, Feb. 29,   Feb 28,   Feb 29,</p>
+<p>				    1997     1996	1997	1996</p>
+<p>REVENUES</p>
+<p>Software products</p>
+<p>     and services	 $  1,688 $  1,870  $  5,723  $  7,932</p>
+<p>Maintenance and</p>
+<p>     support services	2,365    2,393     7,623     7,217</p>
+<p>    Contract services	2,518    2,765     7,620     8,521</p>
+<p>				   6,571    7,028    20,966    23,670</p>
+<p>COSTS AND EXPENSES</p>
+<p>Software products</p>
+<p>     and services		801	841     1,981     2,848</p>
+<p>Maintenance and</p>
+<p>     support services	1,624	920     3,863     4,099</p>
+<p>    Contract services	2,409    2,571     7,193     8,036</p>
+<p>				   4,834    4,332    13,037    14,983</p>
+<p>Marketing, general</p>
+<p>     and administrative    3,138    2,287     7,402     6,848</p>
+<p>Research and</p>
+<p>     development		 385	245     1,766     1,167</p>
+<p>    Restructuring charges  2,800    1,569     2,800     1,569</p>
+<p>    Stock repurchase	 1,690	 --     1,690	  --</p>
+<p>				  12,847    8,433    26,695    24,567</p>
+<p> OPERATING LOSS	    (6,276)  (1,405)   (5,729)     (897)</p>
+<p>    Interest, other income    79	134	 355	 456</p>
+<p> LOSS BEFORE INCOME TAXES(6,197)  (1,271)   (5,374)     (441)</p>
+<p>    Income tax benefit   (2,267)    (489)   (1,948)     (187)</p>
+<p> NET LOSS		    (3,930)    (782)   (3,426)     (254)</p>
+<p> LOSS PER SHARE	     (0.60)   (0.12)    (0.53)    (0.04)</p>
+<p> AVG SHARES		    6,503    6,445     6,491     6,463</p>
+<p>		    (In thousands, except per share data)</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EVANSTON, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

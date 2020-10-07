@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101321" id="root" date="1996-10-07" xml:lang="en">
+<title>JAPAN: Softbank says IBJ sold some of its shares.</title>
+<headline>Softbank says IBJ sold some of its shares.</headline>
+<dateline>TOKYO 1996-10-07</dateline>
+<text>
+<p>Softbank Corp said on Monday that the Industrial Bank of Japan had sold 220,000 Softbank shares in June. IBJ's further plans were unknown, a Softbank spokesman said.</p>
+<p>Earlier on Monday, the IBJ denied a weekend newspaper report that it would sell all its shares in Softbank.  </p>
+<p>The Softbank spokesman said the shares sold by the bank were purchased by a Softbank group company for about five billion yen. The bank now owns 0.4 percent, or 223,000 shares, in Softbank, he said.</p>
+<p>Japanese economic daily Nihon Keizai Shimbun said on Saturday that the IBJ would sell all its shares in Softbank by next March 31. It said that as of March 31 this year, IBJ was Softbank's fifth-largest shareholder with a 0.9 percent stake. The paper said IBJ had notified Softbank of its planned share sale.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

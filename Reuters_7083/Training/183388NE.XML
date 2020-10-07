@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183388" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Netscape offers 5.6 mln shares.</title>
+<headline>Netscape offers 5.6 mln shares.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1996-11-12</dateline>
+<text>
+<p>Netscape Communications Corp announced a public offering of 5,600,000 shares of its common stock at $53.75 a share.</p>
+<p>Of the shares being offered, 2,250,000 shares are being sold by Netscape and 3,350,000 shares are being sold by certain selling stockholders.</p>
+<p>The shares will be offered by an underwriting group managed by Morgan Stanley &amp; Co Inc, Deutsche Morgan Grenfell Inc., Goldman, Sachs &amp; Co. and Hambrecht &amp; Quist LLC.</p>
+<p>Netscape has granted the underwriters an option to buy up to an additional 840,000 shares from the company to cover over-allotments, if any.  </p>
+<p>Last month, Netscape said it originally planned to offer 5.0 million shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

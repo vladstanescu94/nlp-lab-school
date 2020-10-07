@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404635" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: Sprint launches Internet software for Macintosh.</title>
+<headline>Sprint launches Internet software for Macintosh.</headline>
+<dateline>KANSAS CITY, Mo. 1997-02-26</dateline>
+<text>
+<p>Sprint Corp said Wednesday a new edition of its consumer Internet access service, Sprint Internet Passport, is now available for Macintosh computers made by Apple Computer Inc.</p>
+<p>The new software also includes Netscape Navigator 3.0, developed by Netscape Communications Corp, for both Windows and Macintosh, Sprint said.</p>
+<p>Sprint Internet Passport can pay either a flat rate of $19.95 per month for unlimited Internet access or $1.50 per hour with no minimum usage requirement, Sprint said.</p>
+<p>Sprint is a telecommunications services provider.</p>
+<p>Its shares were trading down 1/4 Wednesday at 45-1/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

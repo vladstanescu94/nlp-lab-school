@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="534191" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: PowerCerv Corp Q1 full results.</title>
+<headline>PowerCerv Corp Q1 full results.</headline>
+<dateline>TAMPA 1997-04-24</dateline>
+<text>
+<p>Condensed Consolidated Statements Of Operations (Unaudited)</p>
+<p>		  (In thousands, except per share data)</p>
+<p>					   Three months ended March 31,</p>
+<p>					   1997			  1996</p>
+<p>Revenue:</p>
+<p> License fees			$1,659			 3,054</p>
+<p> Technology resales		   477			   710</p>
+<p> Service fees			 6,620			 6,033</p>
+<p> Total revenue			8,756			 9,797</p>
+<p>Costs and expenses:</p>
+<p> Cost of licenses		     312			   230</p>
+<p> Cost of technology resales	 352			   460</p>
+<p> Cost of services		   5,080			 3,522</p>
+<p> General and administrative     1,547			 1,030</p>
+<p> Sales and marketing		2,537			 2,410</p>
+<p> Research and development	 1,442			 1,355</p>
+<p>In-process research and</p>
+<p>  development			   ---			   100</p>
+<p> Total costs and expenses	11,270			 9,107</p>
+<p> Operating income (loss)	(2,514)			   690</p>
+<p> Interest income (expense), net   184			  (96)</p>
+<p> Income (loss) before income  (2,330)			   594</p>
+<p>taxes</p>
+<p> Provision for income taxes     (886)			   225</p>
+<p> Net income (loss)		(1,444)			   369</p>
+<p> Net income (loss) per share   (0.10)			  0.03</p>
+<p>Shares used in computing net</p>
+<p>  income (loss) per share	13,842			11,703</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

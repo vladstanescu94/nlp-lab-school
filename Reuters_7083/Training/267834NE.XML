@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="267834" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Mediware sees Q2 results same as Q1.</title>
+<headline>Mediware sees Q2 results same as Q1.</headline>
+<dateline>MELVILLE, N.Y. 1996-12-19</dateline>
+<text>
+<p>Mediware Information Systems Inc said on Wednesday it expected revenue and net profit for the second quarter ending December 31 to be roughly the same as first quarter results.</p>
+<p>In the first quarter, the company earned $0.08 per share on net income of $446,000 and revenues of about $4.4 million.</p>
+<p>In last year's second quarter, Mediware reported net income of $248,000 on revenue of $2.5 million.</p>
+<p>There was no First Call mean earnings estimate for the quarter.</p>
+<p>Mediware said demand continued to be strong for its clinical information systems.</p>
+<p>The company provides UNIX-based clinical information systems for hospitals.</p>
+<p>(( -- New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

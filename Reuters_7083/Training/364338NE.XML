@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="364338" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: Reality Interactive board member resigns.</title>
+<headline>Reality Interactive board member resigns.</headline>
+<dateline>EDEN PRAIRIE, Minn. 1997-02-06</dateline>
+<text>
+<p>Reality Interactive Inc said Thursday Ronald Matricaria resigned as a member of the company's board of directors, effectively immediately.</p>
+<p>The company said Matricaria, the chairman, president and chief executive officer of St. Jude Medical Inc, resigned because of time constraints.</p>
+<p>A spokesman said the company intends to replace Matricaria on its four-person board, but have not yet identified a candidate.</p>
+<p>Reality Interactive develops multimedia software.</p>
+<p>Its shares closed unchanged Thursday at 7/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDEN PRAIRIE, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

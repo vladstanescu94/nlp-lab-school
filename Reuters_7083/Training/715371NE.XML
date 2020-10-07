@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="715371" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: Keane gets year 2000 contract from Alamo. [CORRECTED 17:50 GMT]</title>
+<headline>Keane gets year 2000 contract from Alamo. [CORRECTED 17:50 GMT]</headline>
+<dateline>BOSTON 1997-07-09</dateline>
+<text>
+<p>Software company Keane Inc on Wednesday said it has been awarded a $6 million contract by Republic Industries Inc's Alamo Rent-A-Car Inc to find and fix any problems stemming from the Year 2000 bug.</p>
+<p>(Corrects Alamo's ownership).</p>
+<p>The contract calls for Keane to complete an assessment of the client's mainframe systems and develop a strategic compliance plan for converting Alamo's 9.6 million lines of code and code remediation and testing, Keane said.</p>
+<p>The Year 2000, or millennium, bug is a global programming problem by which many older computers and software programs will be unable to process two-digit dates correctly after December 31, 1999.  When the year 2000 changes over, these systems may misinterpret the &quot;00&quot; date field as &quot;1900,&quot; and crash or lose data.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

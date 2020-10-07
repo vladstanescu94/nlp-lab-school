@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261601" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: MCI to use Microsoft software on 50,000 desktops.</title>
+<headline>MCI to use Microsoft software on 50,000 desktops.</headline>
+<dateline>DALLAS 1996-12-17</dateline>
+<text>
+<p>MCI Communications Corp Tuesday said it signed a three-year contract with Microsoft Corp to equip more than 50,000 of its company workstations with Microsoft's family of software products.</p>
+<p>Terms were not disclosed.</p>
+<p>MCI plans to standardize its operations by deploying the Windows desktop operating systems, client access licenses for the BackOffice suite of server applications and Office Professional desktop applications on company desktops.</p>
+<p>Also, MCI said it will standardize on Microsoft Internet Explorer browser software and Internet Information Server, Microsoft's web server integrated with Windows NT Server, to give users access to the Internet's World Wide Web.</p>
+<p>Through the Microsoft Select volume licensing program for enterprise customers, MCI will purchase and distribute more than 50,000 desktops of a mix of Windows NT Workstation and Windows 95 to meet different user computing requirements, and 40,000 copies of Microsoft Office Professional, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

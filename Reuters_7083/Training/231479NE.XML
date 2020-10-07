@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231479" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: Opposition grows to Clinton encryption export plan.</title>
+<headline>Opposition grows to Clinton encryption export plan.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1996-12-03</dateline>
+<text>
+<p>A leading software industry group is backing away from its early support of the Clinton Administration's new policy to ease export rules on computer encoding technology.</p>
+<p>In a letter to vice president Al Gore, the Business Software Alliance, which includes Microsoft Corp and International Business Machine Corp's Lotus Development, warned that rules implementing the new encryption export policy appeared to be flawed.  </p>
+<p>&quot;It appears that significant backtracking has occurred since the October 1 announcement,&quot; the alliance wrote.</p>
+<p>&quot;Therefore, we seriously doubt that the regulations will work, meet consumer demands or be accepted by the private sector unless the administration radically changes its approach immediately,&quot; the alliance added.</p>
+<p>A spokeswoman for Gore said Greg Simon, the vice president's chief domestic policy adviser, and other administration officials working on the rules have met with the software group to discuss the criticism.  </p>
+<p>&quot;There is still an internal decision making process going on,&quot; spokeswoman Heidi Kukis said. Final rules are expected by January 1, she said.</p>
+<p>The administration is attempting to craft a compromise on export sales of products containing encryption, computer programs that use mathematical formulas to scramble information and render it unreadable without a password or software &quot;key.&quot;</p>
+<p>Under current laws dating from the Cold War, products for export can only include very weak coding features.  </p>
+<p>But with the growth of the Internet and online commerce, encryption is spreading as a means to ensure secure communication between businesses and to safeguard consumers' credit card numbers.</p>
+<p>U.S. software companies argue they are losing substantial overseas sales to foreign companies not bound by the export laws.</p>
+<p>U.S. law enforcement and intelligence officials counter that the spread of sophisticated encryption will make their jobs far more difficult.  </p>
+<p>Under the compromise policy announced in October and enacted in an executive order last month, companies would be able to export strong encryption but only if the products also contained a feature known as &quot;key recovery&quot; that would permit the government to decode scrambled data.</p>
+<p>The software alliance said in October that the new policy was a &quot;step in the right direction.&quot; In its letter this week, however, the alliance said it was not happy with the rules being drafted to implement the policy. &quot;Everything we have seen and heard to date reveals that the government is headed in the absolute wrong direction,&quot; it said.  </p>
+<p>Part of the debate revolves around the definition of key recovery. The alliance said key recovery should consist of products which allow the government to decode stored communications, such as an E-mail message saved on a computer hard drive. But products should not be required to allow government decoding of real-time communications.</p>
+<p>&quot;There is little if any commercial demand for key recovery function in real-time communications,&quot; the alliance wrote. &quot;Our members have seen nothing to suggest that any product developed to date can work on a mass market scale or that there is significant commercial demand for such products.&quot;</p>
+<p>A number of companies, including Microsoft and IBM, have announced products designed to meet the new export policy. But not all of them easily allow real-time key recovery.</p>
+<p>Although Microsoft is trying to create products to meet the export policy, &quot;we still feel government should liberalize the policy more,&quot; John Browne, head of the company's Internet commerce group, said.</p>
+<p>-- 202 898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

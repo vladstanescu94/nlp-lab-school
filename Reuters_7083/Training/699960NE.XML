@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699960" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: TABLE - Photomatrix Inc Q4 results.</title>
+<headline>TABLE - Photomatrix Inc Q4 results.</headline>
+<dateline>SAN DIEGO 1997-06-30</dateline>
+<text>
+<p>KSB.</p>
+<p>				   Photomatrix, Inc.</p>
+<p>				Selected Financial Data</p>
+<p>					    Quarter ended March 31</p>
+<p>						   1997		 1996</p>
+<p> Revenue				 $ 1,823,000	$ 2,096,000</p>
+<p> Gross profit				530,000	    315,000</p>
+<p> Loss from continuing operations (1,000,000)	  (778,000)</p>
+<p> Net loss				(1,055,000)	  (980,000)</p>
+<p>Net loss per share:</p>
+<p>  From continuing operations	    (0.20)	     (0.14)</p>
+<p>  From discontinued operations	  (0.01)	     (0.03)</p>
+<p>  Net loss				    (0.21)	     (0.17)</p>
+<p>						Year ended March 31</p>
+<p>						    1997		1996</p>
+<p> Revenue				 $ 8,694,000	$ 9,092,000</p>
+<p> Gross profit			    2,294,000	  2,933,000</p>
+<p> Loss from continuing operations (2,290,000)	(1,368,000)</p>
+<p> Net loss				(2,407,000)	(1,704,000)</p>
+<p>Net loss per share:</p>
+<p>  From continuing operations	    (0.44)	     (0.24)</p>
+<p>  From discontinued operations	  (0.02)	     (0.06)</p>
+<p>  Net loss				    (0.46)	     (0.30)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54810" id="root" date="1996-09-16" xml:lang="en">
+<title>CANADA: Corel falls on surprise loss projection.</title>
+<headline>Corel falls on surprise loss projection.</headline>
+<dateline>TORONTO 1996-09-16</dateline>
+<text>
+<p>Corel Corp fell sharply on the Toronto Stock Exchange on Monday after its surprise announcement that it sees a loss in its fiscal third quarter.</p>
+<p>&quot;Of course I was surprised,&quot; said analyst Richard Piotrowski at Levesque Beaubien Geoffrion Inc. Corel was off C$1.15 to C$12.70 on heavy volume of 279,583 shares.</p>
+<p>Corel, Canada's largest software company, said that it will likely post a third-quarter loss of US$0.05 to US$0.07 a share after experiencing delays in shipping its software suite, called Office Professional 7.  </p>
+<p>The loss will be incurred despite a gain of about US$0.10 a share from the sale of its CD Creator product line.</p>
+<p>Piotrowski said he expects the company to return to profitability in the final quarter, ending November 30, with the release of the latest version of the company's flagship software, CorelDraw version 7.</p>
+<p>Analysts have been optimistic that the new CorelDraw version will be a strong seller after reports that the beta version has been well received.</p>
+<p>--Reuters Toronto bureau 416-941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

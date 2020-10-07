@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148190" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Oracle to offer Internet education products.</title>
+<headline>Oracle to offer Internet education products.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-10-28</dateline>
+<text>
+<p>Oracle Corp is expected to announce today Internet-based education products, including server software for distributing and administering online educational courses over the Internet and a library of 75 training courses.</p>
+<p>Bill Seawick, director of marketing for Oracle Education, said the first Internet-based products, to be available in December, will include the 75 training titles, from various software vendors and consultants.  </p>
+<p>Also available in December will be a system for online administration, tracking billing and security over the Internet of electronically distributed education programs.</p>
+<p>Saying it was going after an under-supplied multi-billion market for training in use of computers and software, Oracle revamped its once-limited education business, which had trained people on how to use Oracle products, to one which offers training about many types of computers and software, assembling various sources of educational content.  </p>
+<p>Its revised education offering is geared to a variety of student types -- from corporate employees to school kids to university students.  The products to be announced are the first fruits of the revamped unit.</p>
+<p>In the middle of next year, Oracle plans to release database server software for Internet distribution and the administration of online education courses and, secondly, authoring tools software.  </p>
+<p>&quot;We think we are uniquely well positioned to lead in this market,&quot; Seawick said in an interview, citing as reasons Oracle's existing education services infrastructure, the partnerships it struck for this endeavor and the lure of Internet distribution, which makes things easy.</p>
+<p>Some of the partners that will be providing educational content for the Oracle endeavor are Simon &amp; Schuster, Computerworld magazine, Hewlett-Packard Co, Sun Microsystems Inc, about 25 technology training consultancies and universities Northwestern University and University of California at Berkeley and Stanford University.</p>
+<p>Research firm International Data Corp estimates that the market for information technology training is roughly $16.5 billion this year but could grow to $27 billion by the end of the decade.</p>
+<p>Oracle's competition will include International Business Machines Corp, the largest information technology trainer, as well as many well-known consulting organizations.</p>
+<p>----barb.grady@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

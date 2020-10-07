@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="222805" id="root" date="1996-11-28" xml:lang="en">
+<title>SINGAPORE: Aztech told to stop disassembling cards.</title>
+<headline>Aztech told to stop disassembling cards.</headline>
+<dateline>SINGAPORE 1996-11-28</dateline>
+<text>
+<p>Multimedia company Aztech Systems said on Thursday Singapore's appeal court had ordered it not to disassemble Creative Technology's firmware for its &quot;Sound Blaster&quot; sound cards.</p>
+<p>The company said in a statement the court had ruled Aztech had infringed Creative's copyright in the firmware for the cards. But it also found the manufacture and sale of Aztech's Sound Galaxy cards was not an infringement Creative's copyright.</p>
+<p>Aztech said the court ordered it pay court costs. Damages for Aztech's infringement of Creative's copyright would be assessed by the trial judge. -- Singapore newsroom (65 8703093)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

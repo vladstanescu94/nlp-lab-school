@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186521" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: IPO FILING - ECsoft Group plc.</title>
+<headline>IPO FILING - ECsoft Group plc.</headline>
+<dateline>WASHINGTON 1996-11-13</dateline>
+<text>
+<p>Company Name		   ECsoft Group plc</p>
+<p>Stock symbol			 ECSGY.O</p>
+<p>Estimated price range per ADS $10-12/shr</p>
+<p>Total American Depositary</p>
+<p>    shares to be offered	 3.0 million, representing 3.0</p>
+<p>					  million ordinary shares</p>
+<p>Shrs offered by company	 2.1 million</p>
+<p>Shrs offered by shareholders  900,000 Ordinary shrs outstanding</p>
+<p>    after ipo			7,118,611</p>
+<p>Lead Underwriter    Robertson, Stephens &amp; Co</p>
+<p>Underwriters over-allotment  450,000 ADSs  </p>
+<p>Business: The company provides information technology consulting, applications development and systems integration to large European-based companies. The company is based in Berkhamsted, Hertfordshire, England. Use of Proceeds: To repay debt incurred in connection with the acquisition of ECsoft Nordic AS, ECsoft Holdings P.L.C. and ECsoft S.A. and for general corporate purposes and working capital purposes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

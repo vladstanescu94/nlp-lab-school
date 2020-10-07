@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763717" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: Medicus Systems FY 1997 shr rises.</title>
+<headline>Medicus Systems FY 1997 shr rises.</headline>
+<dateline>EVANSTON, Ill. 1997-07-29</dateline>
+<text>
+<p>MEDICUS SYSTEMS CORP.</p>
+<p>			 (In thousands, except per share data)</p>
+<p>							Fiscal Year Ended</p>
+<p>						  May 31,	   May 31,</p>
+<p>						     1997	     1996</p>
+<p> REVENUES					 18,270	   19,794</p>
+<p>   Restructuring charges		     2,800	    4,662</p>
+<p>   Stock repurchase			    1,690		  -</p>
+<p> OPERATING LOSS				 (7,355)	  (7,445)</p>
+<p>  Interest and other income		    367		556</p>
+<p> LOSS FROM CONTINUING OPERATIONS	  (4,419)	  (4,073)</p>
+<p> DISCONTINUED OPERATIONS, NET OF TAXES     199		347</p>
+<p> NET LOSS					 (4,220)	  (3,726)</p>
+<p>LOSS PER SHARE, PRO FORMA FOR 1996</p>
+<p>   Continuing operations		     (0.73)	   (0.62)</p>
+<p>   Discontinued operations		    0.03	     0.05</p>
+<p>						     (0.70)	   (0.57)</p>
+<p>WEIGHTED AVERAGE COMMON AND COMMON</p>
+<p>   EQUIVALENT SHARES OUTSTANDING	   6,007	    6,540</p>
+<p>NOTE: For the three months ended May 31, 1997, the company reported a net loss of $793,000, or $0.14 per share, vs. a loss of $3,507,000, or $0.51 cents per share, in the same period of fiscal 1996. Revenues for this period were $4,846,000 compared to $4,873,000 in the prior period. In the fourth quarter of fiscal 1997, the company ceased capitalization of development costs for the new products in its Clinical Data Services and Decision Support Services product lines which became available for release. Costs of $1.2 million were incurred during the quarter associated with the release of these new products.</p>
+<p>Additionally, the company did not recognize about $200,000 in revenue associated with these products while they are being implemented at client location</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EVANSTON, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

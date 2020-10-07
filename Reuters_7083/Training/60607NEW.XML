@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60607" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: U.S. OPTIONS FOCUS/Netscape busy, volatility rises.</title>
+<headline>U.S. OPTIONS FOCUS/Netscape busy, volatility rises.</headline>
+<dateline>CHICAGO 1996-09-18</dateline>
+<text>
+<p>Options on shares of Netscape Communications Corp were busy in morning trading as the stock fell sharply after its rating was cut by Merrill Lynch.</p>
+<p>The brokerage firm lowered its near term rating to neutral from accumulate and its long-term rating to neutral from buy.</p>
+<p>At 1045 CDT (1545 GMT), shares of the Internet browser developer were down 3-3/4 at 42-1/4 on 2.1 million shares. The stock, which closed at 46 on Tuesday, reached a low of 41-1/4.</p>
+<p>One trader at the CBOE said investors were selling Netscape calls and buying puts off the opening, driving up the volatilities.  </p>
+<p>The trader said most of the activity was in small lots from retail discount brokerage firms.</p>
+<p>Netscape options trade on four of the five options exchanges, but most of the activity was split between the American Stock Exchange and the Chicago Board Options Exchange.</p>
+<p>On the AMEX, the most active Netscape option was the October 45 put, which traded 1,430 contracts, with one block of 1,400 crossing. With the stock down, the option rose 1-1/2 to five. Its open interest was about 4,250.</p>
+<p>Traders said Morgan Stanley crossed the 1,400 block.  </p>
+<p>The same option on the CBOE traded just 38 contracts.</p>
+<p>But the October 40 put traded 200 contracts. It was up 15/16 at 2-7/16 and had open interest of nearly 3,700.</p>
+<p>Marty Kearney at PTI Securities said volatility on the October puts had risen to the low- to mid-70 range from a historical level around 62.</p>
+<p>A big pop in volatility was seen in the September puts, which went to the 80-90 zone.</p>
+<p>&quot;The (September) puts are a little rich,&quot; Kearney said. &quot;People are a little worried as to how quickly this goes down and what kind of followthrough there'll be.&quot;  </p>
+<p>The September 40 put, with volatility around 90, was up 7/16 at 9/16 and traded more than 500 contracts on the AMEX and about 400 on the CBOE, where it added 1/4 to 3/8.</p>
+<p>Volatility on the September 45 put was up to 80. On the CBOE, the option was up two at 2-3/4 and traded 200 contracts. Its open interest was about 660.</p>
+<p>The trader on the CBOE floor noted that after the early spike in volatility, trading settled down as the stock stemmed its decline.</p>
+<p>&quot;We'v started seeing buyers of calls again,&quot; he said. --G.Crawford, (312) 408-8750/E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

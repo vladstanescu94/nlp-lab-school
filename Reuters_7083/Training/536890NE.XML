@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536890" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Netscape says N.America Q1 deal size rises.</title>
+<headline>Netscape says N.America Q1 deal size rises.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-04-23</dateline>
+<text>
+<p>Netscape Communications Corp Chief Financial Officer Peter Currie said the median deal size in North America in the first quarter doubled from average levels in the second half of 1996.</p>
+<p>Currie also said deferred revenues -- the amount of revenues booked in a quarter but not recognised until a later period -- had risen substantially to $13 million in the first quarter, well above its levels in prior quarters.</p>
+<p>Netscape executives said the order sizes was a sign the company's focus on selling to larger businesses is succeeding.</p>
+<p>&quot;We are doing larger ticket sizes, which is consistent with an enterprise sale,&quot; Currie told reporters in a conference call after the company reported first quarter results.</p>
+<p>Daniel Rimer, an analyst at Hambrecht &amp; Quist, said total deferred revenue had increased from $80.3 million at the end of 1996 to $93 million at the end of March.</p>
+<p>Software companies such as Netscape, which sell their products partly on an annual licensing basis, often defer revenues to be recognized in later quarters.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

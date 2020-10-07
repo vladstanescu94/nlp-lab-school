@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="503729" id="root" date="1997-04-11" xml:lang="en">
+<title>USA: Mentor Graphics slips after Q1 forecast.</title>
+<headline>Mentor Graphics slips after Q1 forecast.</headline>
+<dateline>WILSONVILLE, Ore. 1997-04-11</dateline>
+<text>
+<p>Mentor Graphics Corp shares fell more than fifteen percent in early trading on Friday after the company said it expects to post a net loss for the first quarter.</p>
+<p>Shares of Mentor, which makes electronic design automation software, fell 1-7/16 to 7-3/16.  </p>
+<p>In a statement released late Thursday, Mentor forecast a loss for the first quarter on an operating basis and an even greater net loss after taking additional non-recurring charges. The company did not specify the amount of the charges but said they were the result of a review of its accounting policies and balance sheet by new chief financial officer Gregory Hinckley.</p>
+<p>First quarter revenues would be about $105.0 million compared with $109.1 million in 1996, it said.  </p>
+<p>Walden Rhines, president and chief executive, said in the statement, &quot;The first quarter of 1997 ended with us experiencing order push-outs predominantly impacting our software products. It is too soon to quantify the impact from the potential decline rate of our legacy products and services in the first quarter, but we anticipate completing our analysis and providing additional information ... on April 30, 1997&quot; when the company reports its results.</p>
+<p>Wall Street analysts had been expecting the company to report first quarter earnings per share of about $0.06, according to First Call.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILSONVILLE, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179255" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: H-P in support pact with Netscape.</title>
+<headline>H-P in support pact with Netscape.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-11</dateline>
+<text>
+<p>Hewlett-Packard Co said Monday it has signed an agreement with Netscape Communications Corp for worldwide customer support of Netscape's line of Internet and intranet software, including both client and server products.  </p>
+<p>Under the terms of the deal Hewlett-Packard will offer access to round-the-clock support; distribution of support documentation.coverage in 110 countries through 31 HP Response Centers and phone-in support for Netscape client and server products, including Netscape Navigator, Netscape FastTrack Server and Netscape SuiteSpot.</p>
+<p>Hewlett-Packard is also authorized to distribute Netscape upgrades and subscription services.</p>
+<p>&quot;The relationship between Netscape and HP will focus on providing enterprise customers with the Internet and intranet solutions and the support they need to deploy those solutions successfully,&quot; said Eric Hahn, senior vice president of Server Marketing for Netscape.</p>
+<p>Hahn added that the service agreement will be an important part of Netscape's expansion plans in the rapidly growing intranet market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117529" id="root" date="1996-10-15" xml:lang="en">
+<title>FRANCE: Dassault Aviation H1 net up strongly.</title>
+<headline>Dassault Aviation H1 net up strongly.</headline>
+<dateline>PARIS 1996-10-15</dateline>
+<text>
+<p>Six months to Sept 30, 1996.</p>
+<p>(Figures in millions of French francs unless stated) Consolidated result before taxes and minorities</p>
+<p>					    1,260  vs 277</p>
+<p> Turnover				  5,928  up  14 pct</p>
+<p> Order book				4,202</p>
+<p>NOTE - Dassault Aviation said in a statement that the rise in the consolidated result was due to the introduction of Dassault Systemes.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

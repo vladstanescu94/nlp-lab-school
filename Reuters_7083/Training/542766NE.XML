@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="542766" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: National Media names new CEO.</title>
+<headline>National Media names new CEO.</headline>
+<dateline>PHILADELPHIA 1997-04-28</dateline>
+<text>
+<p>National Media Corp said that it had appointed Robert Verratti as president and chief executive to replace Mark Hershhorn, who has resgined.</p>
+<p>National Media said in a statement on Monday that the parting was amicable and was &quot;the result of the recognition by Hershhorn and the board of directors that their approaches to the development of the company's business differed significantly.&quot;</p>
+<p>Before joining National Media, Verratti was a special advisor for acquisitions to Warren Musser, the chief executive of Safeguard Scientifics Inc. ((--New York Newsroom 212 859 1902))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I6560003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526938" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: Netscape, Forte to collaborate.</title>
+<headline>Netscape, Forte to collaborate.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-04-22</dateline>
+<text>
+<p>Netscape Communications and Forte Software Inc said they have reached an agreement to work together to help customers develop high-performance applications that can work with the Internet.</p>
+<p>They will enable developers to rapidly build applications using Internet technologies for so-called Intranets and Extranets without writing software code.</p>
+<p>Intranets are internal corporate networks based on Internet technology and Extranets are a growing class of applications that can connect companies with suppliers and customers, for example, over the public Internet.  </p>
+<p>The two companies said they have already begun work on creating seamless access between services offered within Forte's products and an interface to Netscape's recently announced Visual JavaScript, a programming tool developers can use to build applications designed to run across networks.</p>
+<p>Netscape has dubbed this family of programs &quot;crossware&quot; and the company said it will be a good mechanism for customers to take advantage of the distributed functionality of Forte applictions, including its object-oriented tools.</p>
+<p>Object-oriented software enables developers to use and reuse prewritten software, or objects, in constructing programs to simply and reduce the cost of programming.</p>
+<p>Earlier, VASCO Corp  VASC.O said it had signed an agreement with Netscape to bundle Netscape's SuiteSpot integrated server software suite with VASCO's suite of Internet security products.</p>
+<p>Under the terms of the agreement, VASCO said it and Netscape will jointly market the products through the Netscape Affiliate Plus Value Added Resellers (VARS) worldwide program.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144566" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Microsoft planning simpler computer - WSJ.</title>
+<headline>Microsoft planning simpler computer - WSJ.</headline>
+<dateline>NEW YORK 1996-10-25</dateline>
+<text>
+<p>Microsoft Corp is gathering up its industry allies to propose a simpler, less expensive personal computer in order to counter a threat from a new kind of network computer, the Wall Street Journal reported on Friday.</p>
+<p>The newspaper quoted people familiar with the matter as saying Microsoft had been defining its proposed computer -- and even its name -- this week.</p>
+<p>The company was expected to present its proposal on Monday at a meeting of World Wide Web developers that it was hosting in San Jose, Calif, it said.</p>
+<p>The newspaper said some of the initiative's supporters included Intel Corp, Hewlett-Packard Co, Compaq Computer Corp, Dell Computer Corp and other makers of personal computers that use Microsoft's Windows operating system and Intel microchips.</p>
+<p>The new network computers don't have a disk drive and retrieve their software from the Internet and other computer networks, it said. The method gives their users a cost advantage over the traditional personal computers where Microsoft and Intel technology dominate, it added.</p>
+<p>On Tuesday, Sun Microsystems Inc is scheduled to launch its version of such a computer called JavaStation, a desktop machine that will cost less than $1,000 and have a different kind of operating system.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

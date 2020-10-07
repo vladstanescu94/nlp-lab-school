@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456995" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: Computervision ends OSS pact, sees charges.</title>
+<headline>Computervision ends OSS pact, sees charges.</headline>
+<dateline>BEDFORD, Mass 1997-03-19</dateline>
+<text>
+<p>Computervision Corp said on late Wednesday that its agreement with JF Lehman &amp; Co for its Open Service Solutions business unit had been terminated, but that it had a non-binding letter of intent with a new buyer.</p>
+<p>It said MD Sass Investors Services, a New York investment management firm, and affiliate entities will buy 51 percent interest in the business.</p>
+<p>Computervision said it will receive $30 million cash, $25 million in a preferred note, and 49 percent of the new company's common equity.</p>
+<p>Additionally, MD Sass will have the option to buy 10 percent of the company's interest in the new entity.</p>
+<p>The company said it will expense about $5 million in previously deferred fees and expenses in the fourth quarter as a result of terminating the pact with JF Lehman.</p>
+<p>Additionally, it said it expects a non-recurring charge in the first quarter for about $7 million, related primarily to completing the separation of its services business from the software company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

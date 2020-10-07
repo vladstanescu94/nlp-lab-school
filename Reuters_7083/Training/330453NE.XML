@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="330453" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: MapInfo Corp Q1 full results.</title>
+<headline>MapInfo Corp Q1 full results.</headline>
+<dateline>TROY, N.Y. 1997-01-24</dateline>
+<text>
+<p>MapInfo Corporation and Subsidiaries</p>
+<p>				 Income Statements</p>
+<p>		   (in thousands, except earnings per share)</p>
+<p>				 (unaudited)</p>
+<p>							    Three Months</p>
+<p>							Ended December 31,</p>
+<p>							1996	     1995</p>
+<p> Net revenues				  $10,095	  $ 9,652</p>
+<p> Cost of revenues				2,151	    1,936</p>
+<p>   Gross profit				  7,944	    7,716</p>
+<p>Operating expenses:</p>
+<p>   Research and development		  2,085	    1,490</p>
+<p>   Selling and marketing		     5,490	    5,149</p>
+<p>   General and administrative		1,615	    1,256</p>
+<p>     Total operating expenses		9,190	    7,895</p>
+<p>     Operating income(loss)		(1,246)	    (179)</p>
+<p> Other income - net				114		373</p>
+<p> Income(loss) before income taxes	(1,132)		194</p>
+<p> Income tax provision			  (238)		 58</p>
+<p> Net income(loss)				(894)		136</p>
+<p> Earnings per share			   (0.15)	     0.02</p>
+<p> Weighted average shares outstanding     5,878	    5,832</p>
+<p>			MapInfo Corporation and Subsidiaries</p>
+<p>			    Balance Sheets</p>
+<p>				   (in thousands)</p>
+<p>					     Dec 31,		Sep 30,</p>
+<p>						 1996		    1996</p>
+<p>					 (unaudited)</p>
+<p>ASSETS</p>
+<p>Current Assets:</p>
+<p>     Cash and investments	   $ 28,953	     $ 31,899</p>
+<p>     Receivables			   7,758		  7,581</p>
+<p>     Inventories			   1,130		  1,021</p>
+<p>     Other current assets		2,535		  1,949</p>
+<p>	   Total current assets	 40,376		 42,450</p>
+<p> Property and equipment - net	  4,657		  4,685</p>
+<p> Product development costs - net     2,438		  1,115</p>
+<p> Intangibles and other assets	  1,165		    841</p>
+<p>	   Total assets		   48,636		 49,091</p>
+<p>LIABILITIES AND STOCKHOLDERS' EQUITY</p>
+<p>Current Liabilities:</p>
+<p>Accounts payable and</p>
+<p>	   accrued expenses		6,876		  7,107</p>
+<p>     Deferred revenue		    1,990		  1,451</p>
+<p>	   Total current liabilities   8,866		  8,558</p>
+<p> Other liabilities			   128		    138</p>
+<p>	   Total liabilities	     8,994		  8,696</p>
+<p>Stockholders' Equity:</p>
+<p>     Common stock			     12		     12</p>
+<p>     Paid in capital		    29,828		 29,824</p>
+<p>     Retained earnings		   9,803		 10,560</p>
+<p>						39,643		 40,396</p>
+<p>     Less treasury stock		     1			1</p>
+<p>	   Total stockholders' equity</p>
+<p>						39,642		 40,395</p>
+<p>	   Total liabilities and</p>
+<p>		stockholders' equity    48,636		 49,091</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TROY, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

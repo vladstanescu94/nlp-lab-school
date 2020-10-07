@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146011" id="root" date="1996-10-27" xml:lang="en">
+<title>USA: Oracle, Netscape to collaborate.</title>
+<headline>Oracle, Netscape to collaborate.</headline>
+<dateline>SAN FRANCISCO 1996-10-27</dateline>
+<text>
+<p>Collaborating to steal the spotlight from their biggest rival, Oracle Corp. and Netscape Communications Corp. will hold a press conference on Monday to discuss a broad alliance, the companies said.</p>
+<p>The press conference will be to outline a collaboration by the companies on their products, a spokeswoman for Netscape said, declining to give specifics. Oracle officials couldn't immediately be reached to comment.</p>
+<p>Part of the announcement will concentrate on the network computer, the cheap, easy-to-administer machines that Oracle, Netscape and Sun Microsystems Inc. hope will unseat the personal computer.</p>
+<p>The Netscape and Oracle event will be held the same day Microsoft Corp. is expected to unveil its answer to the network computer: Specifications for a new class of low-maintenance PCs.</p>
+<p>In recent weeks, Netscape and Oracle seperately have outlined product strategies that would make it easier for their customers -- traditionally, big corporations -- to tap vital business information stored in their databases.</p>
+<p>The announcements on Monday will likely include agreements between the companies to share each other's products and technology, according to trade magazine Computer Reseller News.</p>
+<p>Some of the technology could include software that enables network computers to search databases, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

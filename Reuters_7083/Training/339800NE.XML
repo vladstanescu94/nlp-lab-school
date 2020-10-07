@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339800" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Boole &amp; Babbage Q1 shr $0.33 VS $0.24.</title>
+<headline>Boole &amp; Babbage Q1 shr $0.33 VS $0.24.</headline>
+<dateline>SAN JOSE, Calif. 1997-01-29</dateline>
+<text>
+<p>Boole &amp; Babbage, Inc.</p>
+<p>		  Consolidated Statements of Income</p>
+<p>(Amounts in thousands, except net income per share)</p>
+<p>				    Three Months Ended</p>
+<p>					 December 31,</p>
+<p>					  1996     1995(a)</p>
+<p>Revenue:</p>
+<p>   Product licensing	    $28,169    $21,474</p>
+<p>   Maintenance fees and other  19,940     18,645</p>
+<p>     Total Revenue		 48,109     40,119</p>
+<p>Costs and expenses:</p>
+<p>   Cost of product licensing    4,742	3,974</p>
+<p>Cost of maintenance fees &amp;</p>
+<p>    other			     3,715	3,434</p>
+<p>   Product development	    5,596	4,374</p>
+<p>   Sales and marketing	   22,889     19,682</p>
+<p>   General and administrative   4,333	3,851</p>
+<p>     Total costs and expenses  41,275     35,315</p>
+<p> Operating income		   6,834	4,804</p>
+<p>Interest and other</p>
+<p>  income, net			 1,813	1,306</p>
+<p>Income before provision</p>
+<p>  for income taxes		  8,647	6,110</p>
+<p> Provision for income taxes     2,600	1,825</p>
+<p> Net income			   6,047	4,285</p>
+<p> Net income per share		0.33	 0.24</p>
+<p>Shares used in per</p>
+<p>  share calculations	     18,560     17,925</p>
+<p>(a) Reflects reclassifications to conform to current year's presentation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

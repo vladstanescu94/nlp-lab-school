@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="490454" id="root" date="1997-04-07" xml:lang="en">
+<title>USA: Digital to resell Inso's Quick View Plus.</title>
+<headline>Digital to resell Inso's Quick View Plus.</headline>
+<dateline>BOSTON 1997-04-07</dateline>
+<text>
+<p>Digital Equipment Corp said on Monday it agreed to resell INSO Corp's information-sharing Quick View Plus 4.0 software to its clients.</p>
+<p>Digital's Global Network and Systems Integration Services organization will integrate Quick View Plus into large Microsoft Exchange roll-outs and corporate intranet projects.</p>
+<p>Within these environments, Quick View Plus enables end-users  to access virtually any type of file format regardless of the operating system, platform, or application used to create the file, Digital said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

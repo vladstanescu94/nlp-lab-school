@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="304886" id="root" date="1997-01-14" xml:lang="en">
+<title>USA: System Software named in two lawsuits.</title>
+<headline>System Software named in two lawsuits.</headline>
+<dateline>CHICAGO 1997-01-14</dateline>
+<text>
+<p>System Software Associates Inc said Tuesday it was named in two class action suits filed in state and federal court in Chicago.</p>
+<p>The complaints allege that the software company issued incorrect financial and business information through material misstatements and omissions of material fact about its finances, performance and future prospects from September 15, 1994 through January 7, 1997.</p>
+<p>System Software said it categorically denies all the allegations and intends to vigorously defend its actions.</p>
+<p>On January 7, the company announced the restatement of its 1994, 1995 and 1996 financial results to reflect a change in its accounting method for revenue recognition.</p>
+<p>&quot;We have faced two similar lawsuits in our company's history, and both times System Software prevailed,&quot; noted chief executive officer Roger Covey in a statement. &quot;The suits being brought against us now have no merit, and we intend to put them behind us as soon as possible.&quot;</p>
+<p>	     ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

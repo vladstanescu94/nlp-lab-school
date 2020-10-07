@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74685" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: AMEX to list options on four companies.</title>
+<headline>AMEX to list options on four companies.</headline>
+<dateline>CHICAGO 1996-09-25</dateline>
+<text>
+<p>The American Stock Exchange said on Wednesday it would list options on National Media Corp on September 26.</p>
+<p>It also said it would list options on SDL Inc and Verity Inc on September 30 and Veritas Software Corp on October 1.</p>
+<p>The exchange said National Media options would have initial expiration months of October, November, February and May, and opening strike prices of 12-1/2, 15 and 17-1/2. The stock was down 1/4 at 14-5/8 Wednesday afternoon.</p>
+<p>Spear, Leeds &amp; Kellogg will be the specialist unit.  </p>
+<p>The AMEX said SDL options will open with strikes of 17-1/2, 20 and 22-1/2. Initial expiration months will be October, November, December and March.</p>
+<p>SDL shares were down 1/4 at 19-1/2 Wednesday afternoon.</p>
+<p>Cohen, Duffy &amp; McGowan Inc will be the specialist.</p>
+<p>For Verity options, opening strikes will be 10, 12-1/2 and 15 and initial expirations will be October, November, December and March.</p>
+<p>Verity shares were unchanged at 12-1/2.</p>
+<p>AGS Specialist Partners will be the specialist unit.  </p>
+<p>The AMEX said Veritas options will have opening strikes of 30, 35 and 40. The stock was off 1/16 at 60. Veritas on September 3 announced a three-for-two stock split payable on September 30.</p>
+<p>Initial expiration months for Veritas options will be October, November, February and May.</p>
+<p>The specialist unit will be LETCO-Specialist LP.</p>
+<p>--Derivatives desk, (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I6560003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

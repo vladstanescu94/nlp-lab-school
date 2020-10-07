@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130607" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Microsoft earnings up 23 percent in quarter.</title>
+<headline>Microsoft earnings up 23 percent in quarter.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-10-21</dateline>
+<text>
+<p>Microsoft Corp. reported better-than-expected profits for the latest quarter Monday as strong demand for its Windows operating systems and applications helped fuel record sales.</p>
+<p>The computer software giant said earnings rose 23 percent to a record $614 million, or 95 cents a share, in its fiscal first quarter ended Sept. 30, from $499 million, or 78 cents a share, in the 1995 quarter. Revenues jumped 14 percent to $2.30 billion from $2.02 billion.</p>
+<p>The profits, announced after the market closed, exceeded the Wall Street consensus expectation of 90 cents a share, and Microsoft shares rose to $136.375 in after-hours trading from the earlier close of $134 on Nasdaq.</p>
+<p>Treasurer Greg Maffei said the 14 percent revenue increase was the smallest ever posted in the company's 21-year history, reflecting a surge in sales last year when Microsoft launched its Windows 95 operating system.</p>
+<p>But with the high sales, marketing and manufacturing costs of Windows 95 also behind it, the company's operating profit margin surged to a record 39.3 percent of revenues, compared with about 35.1 percent a year earlier, said analyst Scott McAdams of Ragen MacKenzie.</p>
+<p>&quot;It looks like it was just a great quarter, and there's more to come,&quot; he said.</p>
+<p>Microsoft executives said in a conference call with analysts that business would continue to be boosted by an expected holiday surge in sales of personal computers and the December release of Office 97, an update to the company's business applications product.</p>
+<p>Microsoft Chief Financial Officer Mike Brown said he expected revenues to rise sequentially over the next two quarters and indicated revenue for the current quarter could be in the range of $2.4 billion, about 12 percent over last year's levels.</p>
+<p>But he said the company's cost of goods sold should remain at about 11 percent of sales, compared with 15 percent in last year's second quarter.</p>
+<p>&quot;I'm very happy with the general revenue trend, and I was very pleased with the pattern of costs in the quarter,&quot; Brown said in an interview.</p>
+<p>Microsoft also cited strong acceptance of the company's high end Windows NT operating system.</p>
+<p>Maffei said sales of the NT workstation were up 400 percent over year-ago levels, while revenues from the BackOffice suite of server products doubled. Officials declined to give figures, but the BackOffice line currently generates about $1 billion in annual revenue.</p>
+<p>Microsoft's overall revenues are about evenly divided between operating systems -- most of which are shipped loaded on new computers -- and applications.</p>
+<p>Excluding sales directly to manufacturers, European revenues were flat in the quarter compared with the year-earlier period, and revenues in the United States and Europe rose 9 percent, reflecting the tough comparison.</p>
+<p>But revenues from other markets such as Japan, where Windows 95 was not released until later, were up 32 percent, Microsoft said.</p>
+<p>Overall last year Microsoft revenues and profits grew 46 percent, driven largely by the Windows 95 launch.</p>
+<p>Brown also said the company was on track to spend $2.1 billion on research and development in the current fiscal year, including such ventures as its MSNBC cable and Internet news venture with NBC.</p>
+<p>And the &quot;unearned revenue&quot; in the company's balance sheet from cyclical products such as Windows grew to $651 million as of Sept. 30 from $560 million three months earlier.</p>
+<p>The company's cash hoard grew slightly to $7.1 billion from $6.94 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="441016" id="root" date="1997-03-13" xml:lang="en">
+<title>GERMANY: IBM uses Intel chips for new workstations.</title>
+<headline>IBM uses Intel chips for new workstations.</headline>
+<byline>Neal Boudette</byline>
+<dateline>HANOVER, Germany 1997-03-13</dateline>
+<text>
+<p>IBM Corp said on Wednesday it would use Intel Corp processors for several new high-powered workstations -- products that previously only used IBM's own PowerPC chips.</p>
+<p>The IntelliStation Z Pro, which uses Intel's 200 megahertz Pentium Pro processor to run the Windows NT operating system, would be sold both by IBM's PC Co. and the workstation group that develops PowerPC-based RS/6000 machines.</p>
+<p>IBM officials denied the shift was another blow for the PowerPC, which IBM has sought to establish as an alternative to Intel microchips.</p>
+<p>&quot;The PowerPC is still a very strong platform,&quot; Satish Gupta, head of IBM's Professional Workstation group, told Reuters. &quot;We will drive both technologies.&quot;</p>
+<p>The IntelliStation products would give IBM workstations that can run Windows NT, the high-end Microsoft Corp operating system that is gaining acceptance for corporate data systems and Internet servers.</p>
+<p>The PowerPC, which is used by no large PC makers except for Apple Computer Inc, suffered a serious setback earlier this year when Microsoft, IBM and other companies ended efforts to get Windows NT to run on PowerPC machines.</p>
+<p>&quot;Microsoft is pleased to see IBM's commitment to Windows NT,&quot; said Jonathon Roberts, Microsoft's business system chief.</p>
+<p>Within the next few months IBM expected to have another InteliStation based on the Pentium II chip Intel planned to release in the second quarter, Gupta said.</p>
+<p>The two machines would have the same price and the same performance as the entry-level and mid-range RS/6000 computers based on certain PowerPC 604 chips, Gupta said.</p>
+<p>The IntelliStation Z Pro was designed to run complex visualisation programmes that can simulate earthquakes or car crashes. With pricing ranging between $4,800 and $10,000, they come with many times more memory and disk storage than standard business PCs, as well as extra networking and backup gear.</p>
+<p>IBM resisted producing Intel-based workstations for the last three years, while competitors Digital Equipment Corp. and Hewlett Packard Co. have had duel Intel and RISC lines. Meanwhile, nimbler PC makers like Compaq Computer Corp and Dell Computer Corp have used Intel's latest chips to break into the workstation business with Windows NT systems.</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOVER, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

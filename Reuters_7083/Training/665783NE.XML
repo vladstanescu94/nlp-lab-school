@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="665783" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: PC makers unveil NetPCs to cut computing costs.</title>
+<headline>PC makers unveil NetPCs to cut computing costs.</headline>
+<dateline>NEW YORK 1997-06-16</dateline>
+<text>
+<p>Twelve personal computer makers Monday unveiled a new class of PCs called Net PCs based on designs from Intel Corp and Microsoft Corp to help companies cut rising computing costs.</p>
+<p>Compaq Computer Corp, Dell Computer Corp, Hewlett-Packard Co, Acer America Corp, Gateway 2000 Inc, International Business Machines Corp, Mitac International Corp, Mitsubishi Electric PC Co, NEC Computer Systems Inc, Pionex Technologies, Unisys Corp and Zenith Data Systems all introduced diskless, sealable PCs for corporate networks.  </p>
+<p>The systems will mostly be available in the third quarter and are all designed around Intel processors.</p>
+<p>For example, Dell Computer demonstrated two prototypes of a Net PC, one featuring a Pentium 233 megahertz processor with MMX technology and a second with a Pentium II at 266 megahertz. The hardware and software configurations can both be controlled remotely. Each prototype by Dell has a single internal hard disk and no external disk drive or CD-ROM drive.</p>
+<p>Dell said it plans to ship its first Net PCs later this year with the Pentium with MMX technology. Dell's Net PCs based on Pentium II are slated to follow.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

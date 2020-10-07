@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339787" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Intuit in deal to acquire Nihon Micon.</title>
+<headline>Intuit in deal to acquire Nihon Micon.</headline>
+<dateline>PALO ALTO, Calif. 1997-01-29</dateline>
+<text>
+<p>Intuit Inc Wednesday said it signed a letter of intent to acquire Nihon Micon KK for $39 million.</p>
+<p>In a statement, the company said Nihon Micon develops and markets small business accounting software in Japan, as does Milkway KK, which Intuit acquired in January 1996.</p>
+<p>Milkyway and Nihon Micon together will become the business software unit of a new company, Intuit KK.</p>
+<p>The deal is expected to close in late February.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

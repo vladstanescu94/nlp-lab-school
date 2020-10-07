@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64310" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Justice Department seeks info from Microsoft.</title>
+<headline>Justice Department seeks info from Microsoft.</headline>
+<dateline>REDMOND, Wash. 1996-09-19</dateline>
+<text>
+<p>The Justice Department has notified Microsoft Corp. that it will seek additional information from the software giant regarding competitive practices, the company said Thursday.</p>
+<p>Microsoft's senior vice president for law and corporate affairs, William Neukom, said in a statement that the company would cooperate with the federal agency. He said the facts would show Microsoft was competing &quot;vigorously and legally&quot; and that the competition was benefiting consumers.</p>
+<p>The Redmond, Wash.-based company said the request was part of the department's &quot;continuing examination of software industry issues.&quot; The last requests to Microsoft were issued in the summer of 1995.</p>
+<p>In Washington, the Justice Department declined to comment on the request other than to say its investigation into Microsoft was continuing. The government has been investigating Microsoft since 1990 for alleged antitrust practices.</p>
+<p>In an apparent reference to Netscape Communications Corp., Neukom said the latest Justice Department request appeared to be prompted by &quot;complaints from competitors which are reminiscent of allegations that were thoroughly reviewed in the past.&quot;</p>
+<p>Last month, Mountain View, Calif.-based Netscape -- whose dominance of the market for Web browsers is threatened by Microsoft -- accused its archrival of anti-competitive behaviour and urged the Justice Department to take action.</p>
+<p>Among other things, Netscape accused Microsoft of making written offers to computer makers, Internet service providers, large corporations and others on condition that rival browsers would be less accessible than Microsoft's.</p>
+<p>Netscape said the offers consisted of payments or discounts on the Microsoft desktop operating system or payments in the form of &quot;real estate&quot; on the Windows 95 screen.</p>
+<p>Netscape is hardly the first company to take on Microsoft. Most notably, Apple Computer Corp. unsuccessfully sued the software giant, accusing it of copying its Macintosh operating system for Microsoft's Windows system.</p>
+<p>Neukom said Thursday that it was disappointing that Microsoft's competitors &quot;continue to seek government intervention in the competitive process rather than concentrating on improving their products.&quot;</p>
+<p>&quot;Internet Explorer 3.0 is consistently rated better than competing technology and is winning strong consumer support,&quot; he said. &quot;In response, some of our competitors have resorted to a public relations campaign of baseless allegations designed to divert attention from the quality of our technology.</p>
+<p>&quot;The facts will show that Microsoft is competing vigorously and legally, and our efforts are benefiting consumers by spurring greater innovation, better products, and lower prices,&quot; he said. &quot;We intend to cooperate with the Justice Department.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

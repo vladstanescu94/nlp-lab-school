@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114775" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Dataflex names president, COO.</title>
+<headline>Dataflex names president, COO.</headline>
+<dateline>EDISON, N.J. 1996-10-14</dateline>
+<text>
+<p>Dataflex Corp said Monday it has named Anthony Lembo president and chief operating officer.</p>
+<p>Lembo also will assume the duties of chief financial officer.</p>
+<p>The company did not say who Lembo was replacing or if the positions were recently created. Dataflex did not immediately return a telephone call.</p>
+<p>Dataflex provides computer products and services to businesses in the southeastern United States.  </p>
+<p>Dataflex Chairman and Chief Executive Richard Rose said later Monday morning that Lembo is assuming positions essentially created when the company sold off its western region.</p>
+<p>The president's post was previously held by Phil Doganiero, who will remain on the company's board, and Peter Jackson, who left the company when the western region was sold, Rose said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EDISON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

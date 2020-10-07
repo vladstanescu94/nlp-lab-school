@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48605" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: SPSS agrees to acquire CLEAR Software.</title>
+<headline>SPSS agrees to acquire CLEAR Software.</headline>
+<dateline>CHICAGO 1996-09-12</dateline>
+<text>
+<p>SPSS Inc said Thursday it agreed in principle to acquire privately held CLEAR Software, a developer of process management, analysis and documentation products.</p>
+<p>The transaction, expected to be done as a pooling of interests and to close by the end of September, is valued at about $4.5 million, SPSS said.</p>
+<p>Newton, Mass.-based CLEAR had 1995 sales of about $3.1 million.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

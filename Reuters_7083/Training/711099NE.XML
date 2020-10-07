@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="711099" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: RESEARCH ALERT-DataStream started buy.</title>
+<headline>RESEARCH ALERT-DataStream started buy.</headline>
+<dateline>NEW YORK 1997-07-07</dateline>
+<text>
+<p>Datastream Systems Inc was started with a buy rating by Interstate Johnson Lane analyst Stephen Shook.</p>
+<p>-- price target of $36 a share, estimated Datastream would earn $1.14 a share in 1997 and $1.45 in 1998.</p>
+<p>-- cited attractive market with low penetration and significant growth potential, said market is also fragmented with ongoing consolidation and impressive historical results.</p>
+<p>-- Greenville, S.C., company provides maintenance and facility management software, used to cut corporate costs of maintenance, increase overall efficiency of facilities. Software used in government agencies, manufacturing, hospitality, health care, and transportation industries.</p>
+<p>-- Shares closed at 16-3/4 on Thursday ahead of the July 4 Friday holiday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

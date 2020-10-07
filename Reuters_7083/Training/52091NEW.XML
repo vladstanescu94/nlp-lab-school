@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52091" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: U.S. OPTIONS FOCUS/Tech stocks take the spotlight.</title>
+<headline>U.S. OPTIONS FOCUS/Tech stocks take the spotlight.</headline>
+<dateline>CHICAGO 1996-09-13</dateline>
+<text>
+<p>Options on technology stocks drew heavy interest on Friday as the stocks helped fuel a dazzling broad stock market rally, traders said.</p>
+<p>As the tech stocks rallied, so did the tech stock indices. The tech-heavy Nasdaq composite index was ahead 19 points, or 1.65 percent, at 1,185 by 1230 CDT (1730 GMT).</p>
+<p>&quot;The tech indices are way up,&quot; said Harrison Roth, a first vice president at Cowen &amp; Co, noting that there are nine technology stock indices.</p>
+<p>Options on blue chip International Business Machines Corp were among the most active around as the stock surged.  </p>
+<p>IBM shares, helped by an upgraded near term rating by Merrill Lynch, rallied 5-1/4 to 122-1/2 on nearly four million shares. The stock hit an intraday high of 122-7/8.</p>
+<p>Traders said investors were buying a lot of the IBM calls but some were also writing calls, probably against long stock positions.</p>
+<p>The IBM September 120 call was the most active, with 6,263 contracts changing hands. The option, with open interest through Thursday of 6,600, was up 2-5/8 at 3-3/8.</p>
+<p>The October 120 call traded 3,766 contracts, compared with an open interest of 12,692. It gained 2-7/8 to six.  </p>
+<p>On the put side, the IBM September 120 traded more than 3,600 contracts. Its open interest, including an addition of 1,246 on Thursday, was 2,169. The option fell 2-11/16 to 13/16.</p>
+<p>Other active puts included the September 115 and the October 115 and 120s.</p>
+<p>Buying was seen in IBM calls all the way out to April 1997, where more than 500 contracts of the April 125 traded. The option rose 2-5/8 to 10-5/8.</p>
+<p>Options on shares of Oracle Corp were also among the most active.</p>
+<p>Oracle shares were ahead 3-3/8 at 40-7/8 on heavy turnover.  </p>
+<p>&quot;They announced earnings that were in line&quot; with expectations, an Oracle options trader said. &quot;The first quarter is usually slow and they met estimates, which was a fairly bullish indication on the rest of the year for them.&quot;</p>
+<p>He said most of the options activity was from investors closing out speculative or insurance positions they held going into the earnings report.</p>
+<p>Despite the stock's rally, the busiest Oracle option was the September 40 put, which traded more than 5,400 contracts. It was down 2-9/16 at 7/16 and had reached a low of 1/4.  </p>
+<p>One trader said investors were most likely getting out of those positions &quot;before (the option) goes to zero.&quot;</p>
+<p>But the corresponding call traded a heavy 3,670 contracts, suggesting that some investors had crossed a straddle.</p>
+<p>Marty Kearney at PTI Securities noted that volatilities on the September 40 puts and calls remained low.</p>
+<p>Other actives included the September 35 put which traded 3,900 contracts, the October 40 call with 1,350 contracts traded, and the January 1997 45 call with about 1,300 contracts traded. --G.Crawford, (312) 408-8750/E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

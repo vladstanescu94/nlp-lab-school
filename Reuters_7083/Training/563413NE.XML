@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="563413" id="root" date="1997-05-06" xml:lang="en">
+<title>NETHERLANDS: Reed-Elsevier sees boost from Microsoft link.</title>
+<headline>Reed-Elsevier sees boost from Microsoft link.</headline>
+<byline>Andrew Clark</byline>
+<dateline>AMSTERDAM, Netherlands</dateline>
+<text>
+<p>Software giant Microsoft Corp. and the Anlgo-Dutch publishing company Reed Elsevier Plc announced a strategic alliance Tuesday, and Reed Elsevier predicted it would bring both sides major benefits.</p>
+<p>&quot;It is a linkage of the world's largest software provider and the world's largest content owner,&quot; Reed Elsevier co-Chairman Nigel Stapleton said in a telephone interview.</p>
+<p>&quot;And I think you would acknowlege the extent to which the future of information delivery is a closer and closer link between software and content.&quot;</p>
+<p>The five-year agreement, valued at around $30 million, enables Reed-Elsevier to use Microsoft Commercial Internet Systems (MCIS) for the future electronic distribution of its information products to customers.</p>
+<p>&quot;By working with them, we fully expect to accelerate the rate at which we bring products to market. By working with us, they expect their products will be more tailormade to the needs of what will be a major customer group for them,&quot; Stapleton said.</p>
+<p>&quot;Clearly, we have a better knowlege of the scientific, professional and business information markets than they could ever hope to gain alone.&quot;</p>
+<p>The relationship's strategic aspects will be reflected through several cooperative projects, Reed Elsevier said.</p>
+<p>These include using Microsoft's Internet Explorer browser to access and manage Reed-Elsevier information via computer networks, it added.</p>
+<p>&quot;We have a lot of electronic technology capabilities following the acquisition of Lexis/Nexis, but in certain areas those capabilities need to be reinforced by means of technology partnerships,&quot; Stapleton said.</p>
+<p>Reed-Elsevier acquired the Lexis/Nexis database -- a major source of legal, government and general information including newspaper and magazine articles -- in 1994 and launched limited access to specific parts of the service via Web browsers late last year.</p>
+<p>Lexis/Nexis says its service is more than 20 times the size of the entire Web, containing some 875 million documents.</p>
+<p>Stapleton said the alliance with Microsoft was not necessarily a move to shift access to the service away from current delivery through Lexis/Nexis's proprietary software.</p>
+<p>&quot;It will cover the whole gamut from Internet delivery; (corporate) intranet network-type delivery; and the continuation of telecommunications network delivery, the Lexis/Nexis format.&quot;</p>
+<p>The deal is the latest of several by Microsoft, which has been aggressively pursuing key alliances with major players in defined sectors of the market for information.</p>
+<p>Last month, the Redmond, Wash., company announced a pact with Dow Jones &amp; Co. Inc. for the development of new transactions and information systems aimed at financial institutions.</p>
+<p>&quot;Ours obviously covers a much wider product area, and I think is a closer relationship in the product development sense,&quot; Stapleton said.</p>
+<p>Under the terms of the deal, Reed Elsevier will also use Microsoft Office and BackOffice desktop software, the Windows NT Server computer network operating system and other technology to support its worldwide operations.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

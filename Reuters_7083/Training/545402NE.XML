@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="545402" id="root" date="1997-04-28" xml:lang="en">
+<title>TAIWAN: Kingston Technology to invest US$100 mln in Taiwan.</title>
+<headline>Kingston Technology to invest US$100 mln in Taiwan.</headline>
+<dateline>TAIPEI 1997-04-28</dateline>
+<text>
+<p>U.S.-based memory board maker Kingston Technology Corp has decided to invest US$100 million in Taiwan for memory board production and to establish other ventures, the economics ministry said on Monday.</p>
+<p>&quot;Kingston on Sunday announced it will invest US$100 million in Taiwan due to the sound investment environment here for the high-tech industry,&quot; a ministry official said by telephone.</p>
+<p>Taiwan Economics Minister Wang Chih-kang was a high-school classmate of John Tu, one of Kingston's two co-founders.</p>
+<p>Kingston will invest US$20 million to build a plant in Taiwan's northern Hsinchu Science Park to produce and sell memory boards and network cards and carry out research and development, the official said. The plant is expected to start operation in July.</p>
+<p>Kingston will invest the other US$80 million in seeking ventures with local partners to jointly develop international markets, the official said.</p>
+<p>Japanese software retailer Softbank Corp acquired Kingston in August 1996 for US$1.5 billion and planned Kingston's expansion into Asian markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

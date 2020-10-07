@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716905" id="root" date="1997-07-09" xml:lang="en">
+<title>INDIA: India Internet use seen set to soar.</title>
+<headline>India Internet use seen set to soar.</headline>
+<byline>Sanjit Singh</byline>
+<dateline>NEW DELHI 1997-07-09</dateline>
+<text>
+<p>The forthcoming end of a state monopoly on Internet access is set to bring in free market conditions and a host of initiatives to boost the use of the information superhighway, industry officials said on Wednesday.</p>
+<p>&quot;The number of Internet access points will double in a year's time,&quot; Meena Ganesh, a director at the Indian unit of Microsoft Corp, told Reuters.</p>
+<p>Industry officials expect the number of Internet users in India to rise to 1.5 million by 2000 from the current 80,000 as the state-run Videsh Sanchar Nigam Ltd (VSNL) gives up its current monpoly.</p>
+<p>Microsoft India launched Site Server, a product for the management of the World Wide Web on the Internet, on Wednesday and announced an alliance with India's Querisoft Systems to enable secure transactions on the Web in India.</p>
+<p>On Tuesday, the Indo-American Chamber of Commerce (IACC) organised a technology workshop to familiarise corporate executives with the Web.</p>
+<p>&quot;India now has the chance to use the Internet to accelerate the pace of business and economic development,&quot; said Ashok Desai, managing director of Silicon Graphics India, a unit of Silicon Graphics Inc.</p>
+<p>&quot;Free competition will drive prices down, improve the quality of service, and lead to local language content,&quot; Dewang Mehta, executive director, National Association of Software and Service Companies (NASSCOM), told Reuters.</p>
+<p>Indian government officials proposed last week to open up the market to Internet access providers, and cabinet approval is expected to be a formality.</p>
+<p>The only condition is that access providers have to use the international gateways of VSNL.</p>
+<p>VSNL's monopoly has attracted criticism from users over its high cost, poor service and slow speed in connections to the central servers that provide access to the worldwide network of Internet-linked computers.</p>
+<p>&quot;We surveyed 400 software companies in India, and were stunned to find that only 230 have access to the Internet,&quot; Mehta said.</p>
+<p>Competition is expected to bring in aggressive marketing.</p>
+<p>&quot;We will finally see the Internet realise its potential in India and spread to smaller towns and villages,&quot; Mehta said.</p>
+<p>After the end of VSNL's monopoly, the average monthly rate for unlimited access is expected to be about 500 rupees ($14), similar to that in the United States where there are over 7,000 Internet access providers, he stated.</p>
+<p>At present, VSNL charges the equivalent of around 87 U.S. cents an hour, and a subscriber has to buy a minimum of 500 hours of usage.</p>
+<p>-- New Delhi newsroom +91 11 301 2024</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127252" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Wiz Technology sees profit for fiscal year.</title>
+<headline>Wiz Technology sees profit for fiscal year.</headline>
+<dateline>SAN JUAN CAPISTRANO, Calif. 1996-10-18</dateline>
+<text>
+<p>Wiz Technology Inc said it would report a profit for the full fiscal year 1996, despite taking charges in the fourth quarter relating to acquisitions of Q&amp;A Software, marketing rights and amortization of new product development costs.</p>
+<p>It expects to report revenues for the year, ended July 31, of about $8.3 million, up 124 percent from fiscal 1995's $3.7 million.</p>
+<p>It expects profits to be less than the $794,526, or $0.09 a share, reported for the first nine months of the year.</p>
+<p>Wiz Tech lost $562,711, or $0.07 a share, in fiscal 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JUAN CAPISTRANO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

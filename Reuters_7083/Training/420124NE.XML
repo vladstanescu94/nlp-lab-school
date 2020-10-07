@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420124" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: After shearing IPO, Complete Business slips.</title>
+<headline>After shearing IPO, Complete Business slips.</headline>
+<dateline>NEW YORK 1997-03-05</dateline>
+<text>
+<p>Shares of Complete Business Solutions Inc slipped slightly below their initial public offering price of $12 in their market debut on Wednesday.</p>
+<p>The 2.5 million shares, which had been flat for most of the session, lost 1/8 to 11-7/8 in afternoon trading. They had been as high as 12-1/4 earlier.</p>
+<p>The number of shares had been cut back from an initial estimate of 3.7 million and the shares priced below their pricing range of $13 to $15.</p>
+<p>The Farmington Hills, Michigan company provides information technology services. Some analysts had predicted the deal would prosper but the IPO market has been beset by choppy market conditions over the past few weeks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

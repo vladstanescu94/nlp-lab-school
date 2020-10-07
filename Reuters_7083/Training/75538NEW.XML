@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75538" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Intercast hardware, TV shows trickle onto market.</title>
+<headline>Intercast hardware, TV shows trickle onto market.</headline>
+<byline>Michelle V. Rafter</byline>
+<dateline>LOS ANGELES</dateline>
+<text>
+<p>Last October, an Intel-led consortium pledged to develop technology that would let people watch TV programmes and related Web pages on their PCs.</p>
+<p>A little less than a year later, they're beginning to deliver on that promise.</p>
+<p>Computers and add-on cards with the so-called Intercast technology are trickling into stores. NBC, CNN and QVC are &quot;intercasting&quot; selected TV shows. MTV parent Viacom, and Boston's WGBH are preparing programming. Other broadcasters are expected to announce plans in coming weeks.</p>
+<p>But as with the TV shows premiering this fall, it's too soon to tell whether Intercast will be must-see TV.</p>
+<p>Other add-on TV receiver cards for PCs never became as popular as supporters hoped, stymied in part by high prices.</p>
+<p>In the year since Intel announced Intercast, industry attention has shifted away from putting TV inside a PC toward putting a PC -- specifically the Internet -- inside a TV.</p>
+<p>Dozens of companies are now working on various schemes for incorporating access to the World Wide Web and other parts of the Internet into the family TV set.</p>
+<p>Still, Intercast merits watching -- in more ways than one -- because to date, it's one of the most advanced attempts to marry TV and the Net.</p>
+<p>The technology is relatively straightforward.</p>
+<p>Broadcasters use a portion of the TV signal called the vertical blanking interval to send pages written in HTML -- the Web's programming language -- along with regular video transmissions.</p>
+<p>Consumers with Intercast-equipped computers pick up the signals either through the air waves, or where it's available, their local cable company.</p>
+<p>When Intercast software is turned on, people see a TV picture in the upper left corner of the computer screen and related information on a Web-like page across the bottom half. For example: in a televised football game, the quarterback's career statistics or favourite pass plays could appear on the Web page while the TV screen showed him throwing a pass.</p>
+<p>The upper right side of the screen is reserved for controls and a list of other Intercast files stored on the computer's hard drive. (See Intel's demos of how Intercast works at http://www.intel.com/iaweb/intercast/index.htm.)</p>
+<p>Intercast software includes a custom browser that reads the transmitted HTML material, but it's not a full-fledged Web browser, a minus for broadcasters who want to tie online ordering, live chat or other interactive features into their Intercast programming.</p>
+<p>For now, consumers need a separate Internet connection to get onto the Web while they're intercasting.</p>
+<p>Sources said, however, that the problem could be resolved by December, when Intel plans to upgrade the technology to work with popular Web browsers from Netscape and Microsoft.</p>
+<p>Lorie Wigle, Intel home marketing manager, declined to discuss upgrades.</p>
+<p>Plug-in circuit boards that add Intercast technology to an existing Pentium PC started shipping in July, but didn't really take off until earlier this month, when retailer CompUSA discounted the boards to $100.</p>
+<p>Since then, sales have quadrupled to about 10,000 a month, and should jump to 25,000 a month during the holiday shopping season, said Ken Plotkin, marketing vice president at Hauppage Computer Works, the Hauppage, N.Y., company making the boards.</p>
+<p>So far, Compaq and AST Research are the only two computer makers including Intercast technology in new multimedia home PCs. Sony, Diamond Multimedia and ATI have expressed support for the technology, and Intel is negotiating with other PC makers and manufacturers of add-in graphics cards, Intel's Wigle said.</p>
+<p>Eventually, the technology could become standard on high-end home PCs, she said.</p>
+<p>&quot;We joke that the chicken has finally met the egg,&quot; Wigle said.</p>
+<p>For today, what can people watch?</p>
+<p>On NBC, they can tune into one NFL football game a week, or solve murders along with Tim Bayliss, Frank Pembelton and the other Baltimore police detectives on &quot;Homicide: Life on the Streets.&quot;</p>
+<p>NBC will add Intercast programming to &quot;Dateline&quot; in October, and plans to announce additional content next spring, including programming for affiliate cable networks CNBC and MSNBC. NBC's arrangement with the Intercast Industry Group consortium precludes other national networks from offering the interactive programming until July 1997.</p>
+<p>On cable, CNN is offering 24-hour Intercast content with its continuous news coverage. QVC also began offering 24-hour Intercast content a month ago to augment its TV home shopping channel.</p>
+<p>&quot;We do think it's a killer app,&quot; said Stuart Spiegel, head of QVC's interactive endeavours. &quot;Once it becomes a standard, we're talking about something that has real power.&quot;</p>
+<p>(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I9741112">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

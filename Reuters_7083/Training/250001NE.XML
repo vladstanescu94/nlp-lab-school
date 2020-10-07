@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250001" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Inference Corp to buy back 500,000 shares.</title>
+<headline>Inference Corp to buy back 500,000 shares.</headline>
+<dateline>NOVATO, Calif. 1996-12-10</dateline>
+<text>
+<p>Inference Corp said Tuesday it has approved the repurchase on the open market of up to 500,000 shares of its class A common stock.</p>
+<p>The company said in a statement the purpose of the  program was to acquire shares for issuance under its stock option and employee purchase plans.</p>
+<p>&quot;This stock repurchase program will give us the opportunity to enhance shareholder value by offsetting dilution from employee stock option and stock purchase plans,&quot; said Peter Tierney, chairman, president and chief executive officer.</p>
+<p>Inference has about 8.2 million shares of common stock outstanding.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

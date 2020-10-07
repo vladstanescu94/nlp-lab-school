@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13061" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: NetManage to unveil 3 Intranet products.</title>
+<headline>NetManage to unveil 3 Intranet products.</headline>
+<dateline>CUPERTINO, Calif. 1996-08-25</dateline>
+<text>
+<p>NetManage Inc said it will unveil a family of three products on Monday aimed at the corporate market for internal computer networks, or Intranets, which use technology from the Internet.</p>
+<p>The Chameleon ATX family of products are designed to include a complete suite of network applications and desktop management tools which it said are needed to access the corporate Intranet or the public Internet.</p>
+<p>&quot;We are focusing on reducing the cost per seat, while simplifying the product selection process,&quot; Kurt Zeigler, vice president of product marketing, said in a statement.  </p>
+<p>Cost per seat refers to the cost of software used to run a large company divided by the number of individual users.</p>
+<p>The products include ChameleonNFS/X, targeted at users of Microsoft Corp's Windows operating systems who need to access NFS and FTP servers and other capabilities. It will be available in the U.S. market in October priced at $495.</p>
+<p>NetManage said that it ChameleonNFS/X for Windows 95/NT will be available in an early ship program for an introductory promotional price of $375 through September 27.</p>
+<p>The Chameleon HotList, formally known as Swift, enables Windows users to access International Business Machines Corp mainframes, AS/400 minicomputers and Telnet emulation, and will be available in mid-October at a list price of $299.</p>
+<p>The promotional price for HotLink through September 27 is $199 for a one-unit order, the company added.</p>
+<p>NetManage will also announce a third product, Chameleon for Mac OS, Apple Computer Inc's Macintosh operating system, but prices and availability were not immediately available.</p>
+<p>Zeigler said the new product family was designed to assist network managers and desktop users by eliminating the need to install and upgrade separate products, signficantly reducing customer administration and administration time.</p>
+<p>-sam.perry@reuter.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90085" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Microsoft, Rational form alliance.</title>
+<headline>Microsoft, Rational form alliance.</headline>
+<dateline>REDMOND, Calif. 1996-10-02</dateline>
+<text>
+<p>Microsoft Corp and Rational Software Corp said they have signed a multi-faceted set of agreements, including the sale of a Microsoft software tool to Rational.</p>
+<p>Financial terms were undisclosed.</p>
+<p>&quot;Rational's leading products for analysis and design will be tightly integrated with and included in future versions of Microsoft's enterprise development tools,&quot; Bob Muglia, Microsoft vice president developer tools, said in a statement.</p>
+<p>Under the deal, Rational has cross-licensed Microsoft's Developer Studio software to make it part of the framework for Rational's products for component-based development.</p>
+<p>In addition, Rational will add software for change management and process automation to Microsoft's Visueal SourceSafe application.</p>
+<p>Rational also acquired Microsoft's visual test software quality automation tool, giving Rational the ability to focus on lifecycle software and allowing Microsoft to concentrate on its developing new environments for its Visual Basic programming system.</p>
+<p>The two companies have to joint development and marketing of products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

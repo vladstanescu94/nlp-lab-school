@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="805999" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: Netscape goes back to selling Navigator separately.</title>
+<headline>Netscape goes back to selling Navigator separately.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-08-18</dateline>
+<text>
+<p>Netscape Communications Corp., in a bid to keep its lead over rival Microsoft Corp., said Monday it will sell a new version of its Navigator Internet browser as a separate product.</p>
+<p>The Mountain View, Calif., company also unveiled a marketing push aimed at consumers to get 100 million copies of Navigator to home users in the next 12 months.</p>
+<p>In addition, Netscape won the backing of several major computer companies, including International Business Machines Corp. and Digital Equipment Corp., to ship Navigator with their own products.</p>
+<p>With the moves, Netscape appears to be reversing its earlier decision to squeeze more revenue out of its Internet software products in favor of maintaining its share of the consumer market where Microsoft is gaining, analysts said.</p>
+<p>&quot;This reinforces that the browser continues to be a foyer into the desktop experience,&quot; said Ron Rappaport, analyst at market researcher Zona Research Inc. &quot;Any efforts to tweak the browser's role may compromise&quot; Netscape's position in the industry.</p>
+<p>Netscape became one of the largest software companies in just two years by distributing Navigator for free on the Internet, which led to sales of other software products.</p>
+<p>But earlier this year the company decided to make Navigator available only as part of Communicator, a software package aimed at businesses.</p>
+<p>That move jeapordized Netscape's 75 percent share of the browser market among consumers, who increasingly are giving Microsoft's competing Internet Explorer a try.</p>
+<p>Netscape's beefed-up communication programs also alienated key allies such as IBM and Novell Inc., which offer competing group communication products such as Lotus Notes and Groupwise.</p>
+<p>Netscape said it decided to &quot;unbundle&quot; Navigator from Communicator to create an entry-level product for consumers and corporate users. It also announced new pacts to let IBM and Novell, among others, ship Navigator with their own products.</p>
+<p>In addition, the company's new Netscape Everywhere initiative redoubles its efforts to remain the most popular browser among consumers.</p>
+<p>Under the program, Netscape will line up more Internet service providers to distribute its browsers. Netscape also will allow people who have a paid-for copy of Navigator at work or school to use Navigator at home. Under most software licenses, software use is restricted to one site.</p>
+<p>&quot;We now have what we consider a full product line and we'll use Navigator 4.0 to bring new users into the fold,&quot; said Mike Homer, Netscape vice president of marketing.</p>
+<p>Netscape stock fell 62.5 cents to $37.81 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

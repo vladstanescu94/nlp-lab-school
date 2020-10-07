@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270485" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Autodesk sweetens bid for Softedesk.</title>
+<headline>Autodesk sweetens bid for Softedesk.</headline>
+<dateline>SAN RAFAEL, Calif. 1996-12-20</dateline>
+<text>
+<p>Autodesk Inc and Softdesk Inc said Friday they had amended their definitive merger agreement, sweetening Autodesk's bid for Softdesk to $15 a share from $12.</p>
+<p>The $15 will be paid in Autodesk common stock based on the average closing prices on the Nasdaq for the five trading days preceding the closing date, the companies said.</p>
+<p>The merger, to be accounted for as a pooling of interests, was amended because Softdesk said a third party was interested in it.</p>
+<p>&quot;We have increased the purchase price principally in response to an indication of interest received by Softdesk from a third party,&quot; said Carol Bartz, Autodesk chairman and chief executive.</p>
+<p>Dave Arnold, the chief executive of Sofdesk, said the company was committed to the Autodesk merger.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN RAFAEL, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

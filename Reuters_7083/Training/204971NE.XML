@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204971" id="root" date="1996-11-20" xml:lang="en">
+<title>JAPAN: Software Research - 6mth parent results.</title>
+<headline>Software Research - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-20</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  5.80		vs	    5.89</p>
+<p> Operating	 prft 47 million	  vs   loss 173    million</p>
+<p> Current	   prft 40 million	  vs   loss 186    million</p>
+<p> Net	    loss 48    million	  vs   loss 268    million</p>
+<p> EPS	     loss 6.35 yen	  vs    loss 35.19 yen</p>
+<p> Shares		8 million	  vs	   8 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p> NOTE - Software Research Associates Inc is a software development firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

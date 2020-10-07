@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175293" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Integrated Systems falls on estimate cut.</title>
+<headline>Integrated Systems falls on estimate cut.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-08</dateline>
+<text>
+<p>Integrated Systems Inc. shares plunged as much as 28 percent Friday after a Wall Street analyst cut her earnings forecast for the software company.</p>
+<p>Shares of Integrated Systems, based in Sunnyvale, Calif., were down 7-1/8 at 19-1/8 in late morning trading. Earlier, the stock traded as low as 19.</p>
+<p>Hambrecht &amp; Quist analyst Sheila Ennia cut her earnings forecast for Integrates Systems to 61 cents a share from 66 cents a share for fiscal 1997. She also cut the forecast for fiscal 1998 to 84 cents from 90 cents.</p>
+<p>In a report released Friday morning, Ennia cited additional costs related to Integrated's recent acquisition of Diab Data Inc, a rival company that writes software for computer chipmakers.</p>
+<p>Ennia, who could not immediately be reached for comment, reiterated her buy recommendation.</p>
+<p>Integrated Systems officials also could not be reached for comment.</p>
+<p>The company makes software development tools that let computer chipmakers embed software on their microchips.</p>
+<p>-- Kourosh Karimkhany, in Palo Alto, + 1 415 846 5401</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

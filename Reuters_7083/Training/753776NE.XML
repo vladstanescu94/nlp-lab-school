@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753776" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE- Programmer's Paradise Q2 net rises.</title>
+<headline>TABLE- Programmer's Paradise Q2 net rises.</headline>
+<dateline>SHREWSBURY, N.J. 1997-07-24</dateline>
+<text>
+<p>3 Mos ended 6/30	6 Mos ended 6/30</p>
+<p>			   1997	 1996	  1997	  1996</p>
+<p> Net sales    $39,098,622 $25,117,530 $78,038,937 $51,142,727</p>
+<p> Net income	 935,712     528,011   1,820,722     769,089</p>
+<p> EPS		     0.18	  0.10	  0.34	  0.15</p>
+<p> Wgtd avg shrs  5,314,000   5,144,000   5,281,000   5,173,000</p>
+<p>NOTE: Q2  and first half 1996 results do not include the July 1996 acquisition of the Programmer's SuperShop.</p>
+<p>The company said its earnings increase for Q2 and six-month 1997 reflects its SuperShop acquisition in 1996, and market share gains both domestically and internationally.</p>
+<p>Full name is Programmer's Paradise Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHREWSBURY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="685073" id="root" date="1997-06-25" xml:lang="en">
+<title>USA: IMNET acquires Advisoft in for $7.1 mln.</title>
+<headline>IMNET acquires Advisoft in for $7.1 mln.</headline>
+<dateline>ATLANTA 1997-06-25</dateline>
+<text>
+<p>IMNET Systems Inc said Wednesday that it has acquired privately-held Advisoft Consulting SA for $5.1 million in cash and $2 million in IMNET common stock.</p>
+<p>The company said the acquisition will be accounted for as a purchase.</p>
+<p>Advisoft, located in Paris, is a consulting and integration services company which has been an IMNET business partner since 1993.</p>
+<p>IMNET develops and markets electronic healthcare information management systems that capture, index, store, retrieve and display financial information, clinical information and medical images.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I83951">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

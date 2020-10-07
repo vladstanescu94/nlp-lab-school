@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="797939" id="root" date="1997-08-13" xml:lang="en">
+<title>SINGAPORE: MICROSOFT CALLS SINGAPORE NEWS CONFERENCE.</title>
+<headline>MICROSOFT CALLS SINGAPORE NEWS CONFERENCE.</headline>
+<dateline>SINGAPORE 1997-08-13</dateline>
+<text>
+<p>Microsoft Corp and the Business Software Alliance called a news conference on Wednesday to reveal details of a raid they conducted on a leading Singapore company.</p>
+<p>They said in a statement the company was &quot;regarded as one of the best performing listed companies&quot; in Singapore, but did not name it.</p>
+<p>The news conference was set for 0130 GMT.</p>
+<p>-- Singapore Newsroom (65) 870-3080; Fax (65) 776-8112</p>
+<p>-- Email: singapore.newsroom@reuters.com REUTER</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234861" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Quarterdeck says will defend against suit.</title>
+<headline>Quarterdeck says will defend against suit.</headline>
+<dateline>MARINA DEL RAY, Calif. 1996-12-03</dateline>
+<text>
+<p>Quarterdeck Corp said on Tuesday it would vigorously defend against a shareholder lawsuit alleging that the company had made misleading statements about its financial results and certain products.</p>
+<p>Earlier on Tuesday, lawyers representing a shareholder group announced that they had filed a securities lawsuit against the company.</p>
+<p>The suit is on behalf of holders who purchased the company's common stock during the period January 26, 1996, through June 13, 1996, and seeks unspecified damages.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARINA DEL RAY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

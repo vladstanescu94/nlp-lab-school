@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229876" id="root" date="1996-12-02" xml:lang="en">
+<title>JAPAN: NTT Data, Nihon Sun Microsystems tie up on Java.</title>
+<headline>NTT Data, Nihon Sun Microsystems tie up on Java.</headline>
+<dateline>TOKYO 1996-12-02</dateline>
+<text>
+<p>NTT Data Communications Systems said on Monday that it had agreed with Nihon Sun Microsystems KK on a technological tie-up in developing new applications of Java, a computer programming language.</p>
+<p>Under the tie-up, NTT Data, a unit of Nippon Telegraph and Telephone Corp, will be able to develop computer systems based on Java, a company spokesman said.</p>
+<p>NTT Data sees business opportunities in such area as electronic commerce for computer systems based on the platform-independent computer language.</p>
+<p>Nihon Sun Microsystems is a subsidiary of Sun Microsystems Inc of the United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

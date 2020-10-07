@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266164" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Software Artistry upgrades its management software.</title>
+<headline>Software Artistry upgrades its management software.</headline>
+<dateline>INDIANAPOLIS, Ind. 1996-12-19</dateline>
+<text>
+<p>Software Artistry Inc said Thursday the latest version of its SA-Expert Evolution management software is now available.</p>
+<p>The software allows organizations to more efficiently reach decisions in such areas as information technology and human resources management, a Software Artistry spokeswoman said.</p>
+<p>Software Artistry develops business software.</p>
+<p>Its stock was unchanged Thursday afternoon at 7-1/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

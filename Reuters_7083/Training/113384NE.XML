@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113384" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: IBM's Lotus to unveil Web site services.</title>
+<headline>IBM's Lotus to unveil Web site services.</headline>
+<dateline>NEW YORK 1996-10-14</dateline>
+<text>
+<p>International Business Machines Corp's Lotus Development Corp unit is expected to unveil Tuesday software that lets companies and individuals &quot;rent&quot; space on World Wide Web sites, to collaborate on documents.</p>
+<p>Lotus, based in Cambridge, Mass., is expected to unveil software that runs on a new version of Lotus Notes code named Domino, which is designed entirely around Internet technology, analysts said. Notes is software for working in groups.</p>
+<p>The software will be available on a rental basis directly from Internet service providers or Notes service providers, said analysts who asked not to be named.  </p>
+<p>The software will let individuals use a temporary Web site, designed for collaboration with Lotus's Domino software.</p>
+<p>&quot;If I am a services provider, like MCI (Communications Corp), I can create a collaborative Web site and rent it out to people,&quot; said one analyst who asked not to be named.</p>
+<p>The technology could be used by individuals, small businesses, and others who do not want the hassel and cost of maitaining a Web site, but who wish to have a temporary site that stores documents that require input from others.</p>
+<p>The analyst said that Lotus is working with seven different service providers. A Lotus spokesman was not available.  </p>
+<p>Lotus issued an advisory Friday saying it would host a teleconference to announce products that extend its Internet technology to a new set of users, including consumers.</p>
+<p>&quot;It has the potential to be extremely lucrative for Lotus,&quot; said one analyst. &quot;There are a lot of companies who don't want to put in a large, collaborative structure, but they want to have access to this.&quot;</p>
+<p>The service will be similar to its former deal with AT&amp;T Corp, which sold Network Notes to big and small companies that did not want to install or maintain a corporate network, or to run and maintain Lotus Notes software on their networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

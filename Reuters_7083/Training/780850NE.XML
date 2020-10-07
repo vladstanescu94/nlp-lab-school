@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780850" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Microsoft/Apple deal not antitrust problem-lawyers.</title>
+<headline>Microsoft/Apple deal not antitrust problem-lawyers.</headline>
+<dateline>WASHINGTON 1997-08-06</dateline>
+<text>
+<p>Microsoft's decision Wednesday to invest $150 million in Apple Computer is unlikely to raise antitrust issues and might even help competition, according to antitrust lawyers contacted by Reuters.</p>
+<p>Apple Computer Inc adviser Steve Jobs announced that Microsoft Corp will buy the non-voting stock over the next three years, that the two companies will have broad cross-licensing agreements, and that Apple will bundle the Microsoft Internet Explorer browser with its Mac OS as the default browser.</p>
+<p>&quot;It could easily be this would improve competition within the industry as a whole,&quot; said Gordon Spivack, an antitrust lawyer with Coudert Brothers in New York. &quot;Microsoft probably has an interest in helping Apple be one of the competing systems.&quot;</p>
+<p>Steve Sunshine of Shearman and Sterling in Washington was equally untroubled.</p>
+<p>&quot;What's all the fuss?&quot; he said. He said some people had raised questions about making Internet Explorer the default browser on the Mac OS. But he said that the Mac OS accounted for only a small percentage of overall personal computer sales.</p>
+<p>&quot;I don't see how (that) changes much of anything,&quot; he said of the decision to bundle the browser with the Mac OS. &quot;The question of whether the platform has any vitality left is an open issue.&quot;</p>
+<p>Analysts said the investment might deflect criticism that Microsoft has been unfairly  dominating the computing industry. Federal antitrust regulators have been investigating Microsoft since 1989.</p>
+<p>Helping Apple to remain competitive in the personal computer business could  aid Microsoft's contention that it does not hold a monopoly in the computer software business, analysts said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

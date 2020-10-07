@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14027" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: WorldCom shares tumble on dilution concern.</title>
+<headline>WorldCom shares tumble on dilution concern.</headline>
+<dateline>NEW YORK 1996-08-26</dateline>
+<text>
+<p>Shares of WorldCom Inc fell sharply at midday after the company said its proposed acquisition of MFS Communications Co Inc would dilute earnings for three years.</p>
+<p>Although the transaction is viewed as a fundamentally strong move that will transform WorldCom into a leading telecommunications company, concerns about dilution in the capital-intensive sector unsettled investors.</p>
+<p>&quot;Over time, I think the deal will be viewed very positively, but it will take time,&quot; one takeover trader said.  </p>
+<p>Shares of WorldCom fell four to 22-3/8. Shares of MFS jumped 8-3/4 to 43-3/4.</p>
+<p>Although the transaction was valued at $14 billion, or $55.39 per share, based on Friday's closing price, the steep drop in WorldCom's stock brought the value down to $47 per share, takeover traders said.</p>
+<p>Shares of other related companies also rose on views that merger fever has spread through the sector. PSINet gained 3/4 to 11-3/4, and ICG Communications Inc jumped 2-3/4 to 23-5/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

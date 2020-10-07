@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="587256" id="root" date="1997-05-15" xml:lang="en">
+<title>USA: Silicon Graphics targets software growth.</title>
+<headline>Silicon Graphics targets software growth.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-05-14</dateline>
+<text>
+<p>Silicon Graphics Inc. CEO Edward McCracken said the company expects the size of its software applications business to grow four- to five-fold over the next five years.</p>
+<p>&quot;We'd like the applications side of our business to be in the $500 million range,&quot; McCracken told Reuters in an interview following the company's purchase of 3-D Internet graphics software pioneer ParaGraph International.</p>
+<p>McCracken said the company's applications software business, which includes its newly formed Cosmo Software group and its AliasWaveFront entertainment and design software, now has around $100 million in revenues.</p>
+<p>&quot;This Web oriented activity has the potential to be explosive,&quot; the Silicon Graphics chief executive said of the new business unit created to focus on the area.</p>
+<p>&quot;Our company is really an innovative company. We intend to be a major player there,&quot; he said of the Internet.</p>
+<p>McCracken said the company would continue to evaluate potential acquisitions, like ParaGraph, as well as growing its business internally. &quot;We're always looking,&quot; he said.</p>
+<p>McCracken said the company, which has reported a string of quarterly earnings disappointments amid a major product transition, now appears to picking up steam.</p>
+<p>&quot;We are gaining momentum,&quot; he said.</p>
+<p>The CEO, who last week told Reuters he expects nice growth in revenues for this year's fourth quarter compared with the company's year-ago levels, declined to elaborate.</p>
+<p>According to First Call, the Wall Street mean estimate for earnings per share in the fourth quarter is $0.36, off from $0.46 in the year-ago period.</p>
+<p>(sam.perry@reuters.com, Palo Alto Bureau 415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

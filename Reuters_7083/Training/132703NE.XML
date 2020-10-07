@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132703" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PSINet hires chief financial officer.</title>
+<headline>PSINet hires chief financial officer.</headline>
+<dateline>HERNDON, Va. 1996-10-22</dateline>
+<text>
+<p>PSINet Inc said Tuesday it Edward D. Postal will join the company as vice president and chief financial officer, reporting to Chief Executive Officer William L. Schrader. Postal will be responsible for finance, investor relations, human resources and accounting.</p>
+<p>The company's three other executive officers include Schrader, who co-founded PSINet in 1989, Executive Vice President and Chief Operating Officer Pete Wills, who joined in April 1996, and Senior Vice President and General Counsel David Kunkel, who joined PSINet full-time in December 1995 after serving as general counsel since 1989 while a senior partner at Nixon Hargrave Devans and Doyle.</p>
+<p>Prior to joining PSINet, Postal was senior vice president and chief financial officer of The Hunter Group Inc, a privately-held consulting firm which provides on-site integration of computer software systems for a variety of applications. -- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HERNDON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

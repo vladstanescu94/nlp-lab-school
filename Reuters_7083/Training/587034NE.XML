@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="587034" id="root" date="1997-05-15" xml:lang="en">
+<title>INDIA: Microsoft in alliance with India's Wipro.</title>
+<headline>Microsoft in alliance with India's Wipro.</headline>
+<dateline>NEW DELHI 1997-05-15</dateline>
+<text>
+<p>Microsoft Corporation and India's Wipro group on Thursday entered into a strategic alliance to offer complete computer network solutions in India.</p>
+<p>&quot;The combined resources, personnel and skills of our two companies will provide our customers with tailor-made solutions,&quot; Rajiv Nair, managing director, Microsoft India, a fully-owned unit of Microsoft Corp, told reporters.</p>
+<p>The alliance will encompass three Wipro group companies: Wipro Infotech - a system integrator, Wipro Acer - a computer hardware joint venture with Taiwan's Acer Inc, and Wipro BT - a networking and messaging services joint venture with UK's British Telecom.</p>
+<p>All three companies are units of Wipro Ltd and will integrate Microsoft's Windows NT and BackOffice suite of products into their solutions.</p>
+<p>&quot;The initiative includes offerings from Wipro Service and Product Channel Partners all across India,&quot; said Sudhir Sethi, vice president, strategic marketing, Wipro Infotech.</p>
+<p>The alliance will also complement the Microsoft and Acer venture worldwide, under which Acer integrates Microsoft's Windows NT and BackOffice on to its desktop and server platforms. Wipro Acer will now do the same in India.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

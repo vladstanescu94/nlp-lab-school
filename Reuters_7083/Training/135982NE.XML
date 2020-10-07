@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135982" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Rainbow Technologies Q3 shr rises to $0.33.</title>
+<headline>Rainbow Technologies Q3 shr rises to $0.33.</headline>
+<dateline>IRVINE, Calif. 1996-10-23</dateline>
+<text>
+<p>RAINBOW TECHNOLOGIES INC.</p>
+<p>				  Financial Highlights</p>
+<p>					(Unaudited)</p>
+<p>		 (dollars in thousands, except per share amounts)</p>
+<p>					3 Mos Ended	 9 Mos Ended</p>
+<p>					  Sept. 30,	   Sept. 30,</p>
+<p>				     1996	 1995    1996    1995</p>
+<p> Net sales		     $17,607    $15,810 $55,757 $48,224</p>
+<p> Net income			2,520	2,480   7,951   6,891</p>
+<p> Net income per share	   0.33	 0.32    1.03    0.89</p>
+<p>Average number of</p>
+<p>  shares outstanding	   7,691	7,811   7,729   7,700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

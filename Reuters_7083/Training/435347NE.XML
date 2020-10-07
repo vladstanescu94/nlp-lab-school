@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435347" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: Microsoft proposes own &quot;push&quot; standards.</title>
+<headline>Microsoft proposes own &quot;push&quot; standards.</headline>
+<dateline>REDMOND, Wash 1997-03-12</dateline>
+<text>
+<p>Microsoft Corp, moving to make access to the Internet more like watching television, said on Wednesday it proposed a set of so-called &quot;push&quot; software technologies to the World Wide Web's standard-setting body.</p>
+<p>The technology would let Internet news organizations and entertainment sites broadcast their programs to specific computer users interested in getting them.</p>
+<p>The company also said America Online Inc, the nation's biggest online service, has agreed to use CDF to broadcast Internet programs to its 8 million subscribers.  </p>
+<p>PointCast Inc, a closely held broadcasters of news through the Internet, also said it agreed to use Microsoft's push software standards.</p>
+<p>Microsoft said the technology, called channel definition format, will be a part of the next version of its Internet Explorer browser, the program that lets computer users search the Internet.</p>
+<p>Microsoft's set of proposed standards would compete against technologies from several startups such as Marimba Inc.</p>
+<p>Microsoft has a history of proposing its own set of software standards to boost its products in new markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

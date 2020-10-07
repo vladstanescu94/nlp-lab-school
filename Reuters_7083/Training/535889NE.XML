@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535889" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Computer Associates starts Japan subsidiary.</title>
+<headline>Computer Associates starts Japan subsidiary.</headline>
+<dateline>ISLANDIA, N.Y. 1997-04-24</dateline>
+<text>
+<p>Computer Associates International Inc said Thursday it is creating a wholly-owned subsidiary in Japan.</p>
+<p>CA-Japan will offer direct support to its clients and channel partners, and will expand alliances with companies such as Kobelco Systems Corp, Daiwabo Information Systems Co Ltd, Fujitsu Ltd and Softbank Corp.</p>
+<p>Computer Associates said it created the subsidiary in response to growing demand for its products, especially the Unicenter TNG enterprise management software.  </p>
+<p>&quot;With its emergence as a worldwide trading leader and its increasing reliance on client/server computing, Japan continues to be an extremely important market for CA,&quot; said Charles Wang, chairman of Computer Associates.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

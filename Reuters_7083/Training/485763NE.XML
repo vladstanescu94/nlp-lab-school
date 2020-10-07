@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485763" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: Microsoft's Gates woos programmers to Windows.</title>
+<headline>Microsoft's Gates woos programmers to Windows.</headline>
+<dateline>SAN FRANCISCO 1997-04-02</dateline>
+<text>
+<p>Microsoft Corp. Chairman Bill Gates on Wednesday wooed programmers to write more software for the Windows software standard by outlining his company's product strategy for the next several years.</p>
+<p>Gates said writing software for Microsoft's operating system will remain lucrative because Windows will be on all types of computers, from handheld PCs to dumb terminals to powerful servers for giant corporate computer networks.</p>
+<p>The head of the world's biggest software company spoke to several thousand programmers at the Software Development conference. He said Microsoft plans to offer the most powerful and easy-to-use development tools, the type of computer programs that let programmers write other software.</p>
+<p>Part of Microsoft's success has come from the company's efforts to convince commercial programmers to make products that work with Windows. The Windows-based PC has a far bigger library of software available than rival computers from Apple Computer Inc or Sun Microsystems Inc.</p>
+<p>&quot;We're focused on developer success,&quot; Gates said. &quot;That's how the industry's done well and that's how Microsoft's done well.&quot;</p>
+<p>Gates said Microsoft in the next few months will release versions of Windows to run non-traditional types of computers, including video game machines, bare-bone terminals for data entry and DVD players.</p>
+<p>Gates also said Microsoft will embrace Java programming language while trying to help the industry approve it.</p>
+<p>Microsoft competitors are pitching Java as a way to get around having to use Microsoft's Windows to run PCs. Some competitors have said they were concerned that Microsoft, by offering to &quot;improve&quot; Java, might try to co-opt it, making it a less powerful weapon against Windows.</p>
+<p>Alan Baratz, president of Sun's JavaSoft software unit, said Gates seemed to be playing along with the rest of the industry for now. &quot;Right now, they are on the bus,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

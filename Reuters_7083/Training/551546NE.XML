@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551546" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Sanchez Computer Associates names CEO.</title>
+<headline>Sanchez Computer Associates names CEO.</headline>
+<dateline>MALVERN, Pa. 1997-04-29</dateline>
+<text>
+<p>Sanchez Computer Associates Inc said on Tuesday it named four-star Admiral Ronald Zlatoper chief executive officer.</p>
+<p>Zlatoper commanded the U.S. Pacific Fleet until November 1996 and was a top leader in Operation Desert Storm, the company said. Zlatoper holds masters degrees in management and data systems, the company said.</p>
+<p>Company founder Michael Sanchez will continue to serve as chairman, the company said.</p>
+<p>Company representatives were not immediately available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MALVERN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

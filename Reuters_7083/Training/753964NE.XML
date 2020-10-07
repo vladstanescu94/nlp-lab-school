@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753964" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - Altris Software Inc Q2 results.</title>
+<headline>TABLE - Altris Software Inc Q2 results.</headline>
+<dateline>SAN DIEGO 1997-07-23</dateline>
+<text>
+<p>ALTRIS SOFTWARE, INC.</p>
+<p>		   CONSOLIDATED STATEMENT OF OPERATIONS</p>
+<p>				 (Unaudited)</p>
+<p>		   (In thousands except per share data)</p>
+<p>		 For the three months	 For the six months</p>
+<p>		    ended June 30,		ended June 30,</p>
+<p>		    1997	 1996		   1997    1996</p>
+<p> Revenues $     7,076    $6,106		$13,691$ 12,167</p>
+<p>Cost of</p>
+<p>  revenues	2,680     2,133		  5,551   4,646</p>
+<p> Gross profit   4,396     3,973		  8,140   7,521</p>
+<p>Operating expenses:</p>
+<p>Research and</p>
+<p>   development  1,030	 849		  1,842   1,756</p>
+<p>Marketing and</p>
+<p>   sales	  1,936     1,394		  3,576   2,647</p>
+<p>General and</p>
+<p>   administrative 787	 854		  1,516   1,565</p>
+<p>Write-off of</p>
+<p>certain</p>
+<p>   offering costs 270	  --		    270	--</p>
+<p>Total operating</p>
+<p>   expenses     4,023     3,097		  7,204   5,968</p>
+<p>Income from</p>
+<p>  operations	373	 876		    936   1,553</p>
+<p>Interest and</p>
+<p>  other income     30	  20		     52	46</p>
+<p>Interest and</p>
+<p>  other expense  (58)	(21)		  (109)    (47)</p>
+<p>Income  before</p>
+<p>  income taxes    345	 875		    879   1,552</p>
+<p>Income tax</p>
+<p>  benefit	 (205)	  --		  (205)	--</p>
+<p> Net income	 550	 875		  1,084   1,552</p>
+<p>Net income per</p>
+<p>  share	     .06	 .09		    .11     .17</p>
+<p>Weighted average</p>
+<p>shares</p>
+<p>  outstanding   9,622     9,594		  9,634   9,234</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

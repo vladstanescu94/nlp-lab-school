@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248309" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: IMSI sets 3-for-2 stock split.</title>
+<headline>IMSI sets 3-for-2 stock split.</headline>
+<dateline>SAN RAFAEL, Calif 1996-12-11</dateline>
+<text>
+<p>IMSI said it set a three-for-two stock split, to be effected in the form of a common stock dividend, payable to shareholders of record on December 26, 1996.</p>
+<p>IMSI shareholders of record will receive, at the close of business December 26, 1996, stock certificates representing one-half share of IMSI common stock for each share held.</p>
+<p>Distribution of additional shares issued as part of the dividend is expected to occur on or about Jan. 24, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN RAFAEL, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

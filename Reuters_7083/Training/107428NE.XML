@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107428" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Remedy shares rebound almost 11 pct.</title>
+<headline>Remedy shares rebound almost 11 pct.</headline>
+<dateline>PALO ALTO, Calif. 1996-10-10</dateline>
+<text>
+<p>Remedy Corp. shares rose almost 11 percent Thursday in a robust recovery from the previous day.</p>
+<p>Shares of Remedy, which writes software that allows corporate computer technicians to monitor and troubleshoot their network's performance, were up 9 3/4 to 95 at 1420 EDT/1820 GMT.</p>
+<p>A spokeswoman said the company had no comment on stock activity and that it did not release any news that was material.</p>
+<p>Jim Pickrel, an analyst at Hambrecht &amp; Quist in San Francisco, said investors were taking advantage of a sharp drop Wednesday to buy Remedy's stock.</p>
+<p>Remedy's shares have almost doubled in the past month on expectations of surging demand for software to simplify the management of complex computer networks and business processes.</p>
+<p>On October 1, the company said it expected to report third-quarter earnings per share of $0.30, up from $0.15 a year ago. At the time of the announcement, analysts had been expecting Remedy to report a third-quarter profit of about $0.24 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

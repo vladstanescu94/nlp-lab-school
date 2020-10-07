@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44084" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Seagate, Compaq release Windows NT backup.</title>
+<headline>Seagate, Compaq release Windows NT backup.</headline>
+<dateline>ORLANDO, Fla 1996-09-10</dateline>
+<text>
+<p>Seagate Technology Inc., Compaq Computer Corp. and Storage Management Group said on Tuesday the first Proactive Backup solution to support Microsoft Corp's Windows NT workstations and servers was immediately available.</p>
+<p>Proactive Backup is a data protection system that automatically alerts network administrators and triggers a preemptive backup of valuable computer data, the companies said in a statement.  </p>
+<p>The system would help companies protect data stored on desktops, not on servers, the companies said. Until now, most companies only protected their main network servers.</p>
+<p>With Proactive, a backup would start running as soon as an impending disk drive failure was detected, the companies said.</p>
+<p>The solution included several components from Compaq and Seagate Software, like Compaq's desktop management agent software and Seagate Software's Self-Monitoring Analysis and Reporting Technology.</p>
+<p>Seagate Software partnered with Compaq to provide an Intelligent Manageability solution through Proactive Backup for Windows NT that complements the jointly developed solutions already available for Windows 95 and Novell Inc. NetWare environments.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

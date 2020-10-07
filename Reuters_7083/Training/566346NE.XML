@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="566346" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: RESEARCH ALERT - IDX Systems rated a hold.</title>
+<headline>RESEARCH ALERT - IDX Systems rated a hold.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist said it has started coverage of IDX Systems Corp with a hold rating.</p>
+<p>-- In a statement, Hambrecht said IDX has a strong business base providing information systems and services to the healthcare industry. But it is cautious about the near-term investment potential due to the company's planned acquisition of PHAMIS Inc and the stock's current valuation.</p>
+<p>-- Hambrecht said PHAMIS has &quot;ongoing operational hurdles&quot; such as long sales cycles and delayed implementations, that cause concern. Also, it said the near-term upside potential is limited to the current stock price of 30-1/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

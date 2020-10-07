@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="357921" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: Health Systems Design Q1 shr loss widens.</title>
+<headline>Health Systems Design Q1 shr loss widens.</headline>
+<dateline>OAKLAND, Calif. 1997-02-04</dateline>
+<text>
+<p>HEALTH SYSTEMS DESIGN CORPORATION</p>
+<p>			 CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>			(In thousands, except per share amounts)</p>
+<p>				   (Unaudited)</p>
+<p>							Three months ended</p>
+<p>								 Dec. 31,</p>
+<p>							  1996	   1995</p>
+<p>Revenues:</p>
+<p> System sales				    $  2,858    $  1,912</p>
+<p> Services and other				   465	   343</p>
+<p> Total revenues				     3,323	 2,255</p>
+<p> Cost of revenues:				  1,336	   704</p>
+<p> Gross margin					 1,987	 1,551</p>
+<p>Operating expenses:</p>
+<p> General and administrative		     1,334	   665</p>
+<p> Sales and marketing				1,070	   419</p>
+<p> Product development				  857	   690</p>
+<p> Total operating expenses			 3,261	 1,774</p>
+<p> Loss from operations			   (1,274)	 (223)</p>
+<p> Interest income (expense)			  184	  (62)</p>
+<p> Loss before provision for income taxes   (1,090)	 (285)</p>
+<p> Provision for income taxes			  --	    --</p>
+<p> Net loss					   (1,090)	 (285)</p>
+<p> Net loss per share				(0.17)	(0.06)</p>
+<p> Weighted average shares outstanding	  6,436	 4,777</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

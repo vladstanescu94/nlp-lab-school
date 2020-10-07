@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119185" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Informix Q3 shr rises to $0.17.</title>
+<headline>Informix Q3 shr rises to $0.17.</headline>
+<dateline>MENLO PARK, Calif. 1996-10-16</dateline>
+<text>
+<p>INFORMIX CORPORATION</p>
+<p>		  Condensed Consolidated Statements of Income</p>
+<p>		     (in thousands, except per share data)</p>
+<p>				 (Unaudited)</p>
+<p>			  Three months ended  Nine months ended</p>
+<p>			   Sep 29,   Oct. 1,     Sep 29,  Oct. 1,</p>
+<p>				1996   1995(a)	  1996  1995(a)</p>
+<p>Net revenues:</p>
+<p>   Licenses	   $179,617  $137,443    $501,223 $371,399</p>
+<p>   Services	     58,563    45,258     167,260  123,407</p>
+<p>			   238,180   182,701     668,483  494,806</p>
+<p>Costs and expenses:</p>
+<p>Cost of software</p>
+<p>    distribution	13,254     9,040	35,594   25,147</p>
+<p>   Cost of services   35,923    23,478     104,828   63,541</p>
+<p>Sales and</p>
+<p>    marketing	  104,222    78,748     295,085  215,274</p>
+<p>Research and</p>
+<p>    development	 32,122    22,820	87,538   62,032</p>
+<p>General and</p>
+<p>    administrative    16,776    12,325	47,659   36,028</p>
+<p>Merger expenses</p>
+<p>    with Illustra	    -	   -	 5,914	  -</p>
+<p>			   202,297   146,411     576,618  402,022</p>
+<p>   Operating income   35,883    36,290	91,865   92,784</p>
+<p> Interest income	 2,436     2,302	 6,671    5,748</p>
+<p> Interest expense	(856)     (348)     (1,882)    (604)</p>
+<p>Other income/</p>
+<p>   (expense), net	  985     (352)	 1,346     (56)</p>
+<p>Income before</p>
+<p>    income taxes	38,448    37,892	98,000   97,872</p>
+<p> Income taxes	   12,267    13,996	34,300   36,146</p>
+<p> Net income	     26,181    23,896	63,700   61,726</p>
+<p>Net income</p>
+<p>   per share(a)	   0.17	0.16	  0.41     0.41</p>
+<p>Weighted average</p>
+<p>number of common</p>
+<p>and common</p>
+<p>equivalents shares</p>
+<p>   outstanding(a):   155,596   151,677     155,477  150,041</p>
+<p>NOTE: (a) The unaudited quarterly data presented above applicable to the prior period has been restated to reflect the company's business combination with Illustra Information Technologies Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

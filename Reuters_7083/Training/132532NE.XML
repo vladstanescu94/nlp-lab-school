@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132532" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Ross Systems Q1 shr profit vs loss.</title>
+<headline>Ross Systems Q1 shr profit vs loss.</headline>
+<dateline>ATLANTA 1996-10-22</dateline>
+<text>
+<p>Ross Systems, Inc. And Subsidiaries</p>
+<p>		    Consolidated Statements of Operations</p>
+<p>		     (In thousands, except per share data)</p>
+<p>							 Three Months Ended</p>
+<p>							    September 30,</p>
+<p>							   1996	  1995</p>
+<p>Revenues:</p>
+<p>	Software product licenses	    $  6,797     $  4,534</p>
+<p>	Consulting and other services	   4,995	  4,001</p>
+<p>	Maintenance				    6,278	 5,955</p>
+<p>Total					     18,070	14,490</p>
+<p>Operating expenses:</p>
+<p>Costs of software product licenses,</p>
+<p>	including sales and marketing	   4,808	  6,024</p>
+<p>Costs of consulting, maintenance</p>
+<p>	and other services			   6,474	 6,677</p>
+<p>    Product development			    3,166	 3,090</p>
+<p>    General and administrative		   1,901	 1,797</p>
+<p>Provision for doubtful accounts and</p>
+<p>	returns					     654	   82</p>
+<p>    Amortization of other assets		   160	    96</p>
+<p>    Total						17,163     17,766</p>
+<p>    Operating earnings (loss)			907	(3,276)</p>
+<p>    Other expense, net				(189)	 (303)</p>
+<p>    Earnings (loss) before income taxes	 718	 (3,579)</p>
+<p>    Income tax expense				 222	   12</p>
+<p>    Net earnings (loss)			   $  496     $(3,591)</p>
+<p>Net earnings (loss) per common and</p>
+<p>	common equivalent share		 $   0.03     $ (0.25)</p>
+<p>Common and common equivalent shares used in</p>
+<p>computing earnings (loss) per</p>
+<p>	common share				   18,876    14,308</p>
+<p>NOTE: Certain fiscal 1996 amounts have been reclassified to conform with the fiscal 1997 financial statement presentation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

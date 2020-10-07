@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="736857" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: PC sector rally has Intel inside.</title>
+<headline>PC sector rally has Intel inside.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-07-16</dateline>
+<text>
+<p>Renewed confidence that semiconductor giant Intel Corp. is successfully leading the PC industry into a new era of growth sent technology shares soaring Wednesday, many of them rising to new highs.</p>
+<p>Intel and Microsoft Corp., which together provide the key ingredients of most personal computers, led the surge. Both stocks rose to new record levels and pulled the Nasdaq market toward its 10th straight record high.</p>
+<p>Stoking the upswing was Intel's second-quarter earnings report late Tuesday, in which it said it is experiencing strong demand for its new Pentium with MMX multimedia technology and Pentium II processors.</p>
+<p>Intel Chief Executive Officer Andrew Grove said the world's largest computer chip maker is moving at record pace to shift production over to its newest processors, and executives said they have stopped making silicon wafers for Intel's older Pentium chips.</p>
+<p>The Nasdaq composite index, flush with technology stocks, jumped 38.52 points to 1580.63, and the Dow Jones average soared 63.17 points to a record close of 8,038.88, shrugging off Eastman Kodak Co.'s $8.50 fall to $68.375.</p>
+<p>Stock in Intel, based in Santa Clara, Calif., jumped to a record $88.875, over 9 percent, before closing at $88.375, up $7.94 on volume of 47 million shares.</p>
+<p>&quot;We rate the shares 'buy' and expect Intel to continue to control the destiny of the new computer industry,&quot; John Lazlo, an analyst at investment bank PaineWebber, said in a note.</p>
+<p>Microsoft Corp, the Redmond, Wash.-based, supplier of PC software, also hit intraday highs, climbing to a session high of $149.50 and closing at $148.44, up nearly $10, or more than 7 percent, well above its prior peak of $139.25.</p>
+<p>On the Big Board, computer maker Hewlett-Packard Co. rose 44 cents to close at a record $69 after reaching as high as $70.875 in volume of 5.6 million.</p>
+<p>Analysts said the PC industry was lifted by Intel's success at managing the rapid transition to its new-generation computer chips, whose MMX technology is designed to improve sound, video and graphics performance.</p>
+<p>Although MMX-based processors have some of the startling performance of supercomputers, industry experts said the shift in demand is surprising in light of the fact that products are not yet out on the market to fully exploit it.</p>
+<p>&quot;To me one of the amazing things about MMX is the degree to which consumers have latched on to wanting it without it being at all clear that it provides any benefit,&quot; said Nathan Brookwood, a chip analyst at research firm Dataquest.     &quot;This</p>
+<p>is the quintessential marketing, when you can convince people they want something, without necessarily understanding why,&quot; he said. &quot;That is what they put in the marketing textbooks. MMX is clearly in that category.&quot;</p>
+<p>Part of the enthusiasm for the technology and the sector is fanned by investor hopes some companies will become wildly successful in developing software to exploit the MMX chip, further accelerating sales of PCs.</p>
+<p>That person might become the next Bill Gates -- the co-founder and chief executive of Microsoft, whose stake in the software giant topped $40 billion Wednesday.</p>
+<p>Of course, Microsoft's valuation is driven by the expectation the Microsoft CEO himself stands a good chance of being the next Bill Gates, and will bring his company's huge resources to bear in exploiting the new computer chips.</p>
+<p>&quot;There's an opportunity here for software developers to do something with this, and it is not clear yet what they're going to do,&quot; said Brookwood, noting there will be more than 50 million PCs with MMX technology by the end of 1997.</p>
+<p>Meanwhile, analysts said they expect Intel and Microsoft to continue pushing the so-called Wintel juggernaught of Microsoft Windows systems and Intel chips and will continue to spur market demand with ever-speedier computer performance.</p>
+<p>&quot;That's the magic of Intel,&quot; Brookwood said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94826" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: Intuit's InsureMarket starts U.S. policy sales.</title>
+<headline>Intuit's InsureMarket starts U.S. policy sales.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-02</dateline>
+<text>
+<p>Intuit Inc said Wednesday it sold its first insurance policy on the Internet's World Wide Web.</p>
+<p>In June Intuit, the developer of financial software including the popular &quot;Quicken&quot;, launched a large site on the World Wide Web offering links to news, financial services and an insurance page, Quicken InsureMarket.</p>
+<p>Since then, the InsureMarket has offered information and rate quotes from Allstate Life Insurance Co's Lincoln Benefit Life and Zurich Kemper Life's Zurich Direct.</p>
+<p>&quot;For the first time a consumer can get a free, individual rate quotes with no obligation, and make true online insurance purchases at our Web site,&quot; Steven Aldrich, president of Intuit's Interactive Insurance Services, said in a statement.</p>
+<p>Other sites on the Web, such as Quotesmith provide rates or search databases for quotes, but InsureMarket is the first actually to sell policies over the Net, Intuit said.</p>
+<p>In addition, John Hancock Financial Services said it has signed a letter of intent to participate in Quicken InsureMarket with quotes. Policies should be available at a later date.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

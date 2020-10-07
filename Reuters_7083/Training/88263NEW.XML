@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88263" id="root" date="1996-10-01" xml:lang="en">
+<title>SINGAPORE: Creative introduces new products.</title>
+<headline>Creative introduces new products.</headline>
+<dateline>SINGAPORE 1996-10-01</dateline>
+<text>
+<p>Creative Technology Ltd announced on Tuesday several new additions to its Graphics family of products.</p>
+<p>The company said in a statement it had introduced a new 3D Blaster PCI, designed to increase the intensity of 3D graphics in entertainment titles and a new &quot;Graphics Blaster MA334&quot;, a 64-bit graphics accelerator aimed at providing multimedia acceleration with enhanced video playback.</p>
+<p>The company said it had also launched &quot;Falcon&quot;, a workstation-class graphics accelerator for the PC.</p>
+<p>-- Singapore newsroom (65 8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

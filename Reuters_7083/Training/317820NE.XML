@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317820" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: Independent Texas banks to offer on-line banking.</title>
+<headline>Independent Texas banks to offer on-line banking.</headline>
+<dateline>SAN ANTONIO, Texas 1997-01-20</dateline>
+<text>
+<p>Independent Texas banks on Monday said they had joined hands to offer an on-line banking service that would allow them to better compete against large banks.</p>
+<p>&quot;On-line banking is no longer the exclusive domain of the large banks,&quot; Steve Scurlock, executive vice president of the Independent Bankers Association of Texas, said in a news conference.</p>
+<p>Scurlock said the service, known as MoneyXpress, would be available through 700 community banks in the state.</p>
+<p>A seven-company alliance including Microsoft Corp SBC Communications Inc, Visa Interactive, PULSE EFT Association, Mesa Internet Systems Inc, PRIMEVEST Financial Services and CFI ProServices Inc developed the service, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN ANTONIO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

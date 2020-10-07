@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271809" id="root" date="1996-12-21" xml:lang="en">
+<title>USA: Netscape to unveil preview software.</title>
+<headline>Netscape to unveil preview software.</headline>
+<dateline>PALO ALTO, Calif. 1996-12-20</dateline>
+<text>
+<p>Netscape Communications Corp. said Friday it plans to post a preview release of its Communicator software Monday, getting the jump on archrival Microsoft Corp. in the latest salvo of the &quot;browser wars.&quot;</p>
+<p>Communicator includes the latest version of the Mountain View, Calif.-based company's popular software for browsing the Web, Netscape Navigator 4.0, and is also expected to contain electronic mail, a Web editing tool, its Collabra news reader and audio conferencing software.</p>
+<p>&quot;We're saying to people that our plans are to have it up there for the public on Monday,&quot; a Netscape spokeswoman said.</p>
+<p>A Microsoft spokeswoman said a beta, or preview, release of its Internet Explorer 4.0 browser would be available sometime in the first quarter of 1997, with the final version posted on the Internet by the end of the second quarter.</p>
+<p>Microsoft's software will allow users to &quot;browse&quot; their computers and internal networks as well as the Internet, effectively becoming a new interface over Windows 95 and other operating systems.</p>
+<p>Netscape's Communicator is in part designed to provide a broader suite of Internet capabilities as Netscape moves beyond a battle over browsers further into the territory of corporate intranets, internal networks based on Internet technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

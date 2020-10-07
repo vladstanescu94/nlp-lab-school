@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="659477" id="root" date="1997-06-13" xml:lang="en">
+<title>USA: Netscape to supply fix for browser bug.</title>
+<headline>Netscape to supply fix for browser bug.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN JOSE, Calif. 1997-06-13</dateline>
+<text>
+<p>Netscape Communications Corp. Friday confirmed that a bug in its Internet browsers allows unwanted access to users' personal computers and said it plans to fix the problem by next week.</p>
+<p>The bug was first found by a Danish consultant who reported it to Netscape but demanded money in exchange for details, the Mountain View, Calif.-based software company said.</p>
+<p>Company spokeswoman Jennifer O'Mahony said Netscape assigned engineers to find a solution to the problem after the consultant demanded more than the customary $1,000 that Netscape pays for bug reports.</p>
+<p>&quot;We have created a fix which we are currently testing extensively,&quot; said O'Mahony.</p>
+<p>She said the bug was &quot;quite complex to recreate. The bug requires that you create a malicious World Wide Web site and have knowledge of the names and locations of the files on the users' machines.&quot;</p>
+<p>Files consist of data, such as documents or spreadsheets, and programmes that run on a computer.</p>
+<p>The bug can occur in older versions of the product: Navigator 2.0 and 3.0, as well as the browser supplied with the new Communicator software package released on Wednesday.</p>
+<p>The spokeswoman said Netscape had received no reports of incidents involving the bug. &quot;We've never had a loss reported on this,&quot; O'Mahony said.</p>
+<p>She said the first fix will be supplied for Communicator and fixes for the earlier versions right afterward.</p>
+<p>But software industry executives and analysts said the case raised troubling issues over Internet security which could hurt the development of electronic commerce.</p>
+<p>The first public report of the bug was by Cable News Network's CNNfn financial channel, which said it had been contacted by the consultant. CNNfn, working with PC Magazine, confirmed that a Web site accessed by a Navigator-equipped computer could access files on the computer.</p>
+<p>Netscape stock fell $1.06 to $32.25 on Nasdaq.</p>
+<p>The consultant, who was identified by Netscape as Christian Orellana, could not be reached for comment.</p>
+<p>Netscape said it offered the man, a consultant with a company called Cabocomm, compensation under its &quot;Bugs Bounty&quot; programme, in which it pays up to $1,000 to people who report a verifiable bug, but the company said he demanded an unspecified amount over and above $1,000.</p>
+<p>&quot;I'd like to speak to the man with the checkbook,&quot; the consultant repeatedly demanded of Netscape officials, the company said.</p>
+<p>&quot;He called up this morning to invite us to Denmark to meet us,&quot; she said after the fix was developed. &quot;That's obviously not necessary now.&quot;</p>
+<p>Analysts said the bug situation affected all companies doing business on the Web.</p>
+<p>&quot;I think it's going to cast a shadow over the industry in general, where people believe that if they go onto the Web, that one of the issues they're going to face is exposure,&quot; said Allen Weiner at the Dataquest market research firm.</p>
+<p>Security is a major concern for most people and businesses using the Internet for commerce. Weiner said concerns that confidential information could be obtained over the Net could slow the growth of online commerce.</p>
+<p>Navigator, whose introduction three years ago accelerated use of the Web, is used by more than two out of three people on the Net. Software giant Microsoft Corp. has about 30 percent of browser users.</p>
+<p>Some people use more than one browser, and both Microsoft and Netscape have been coping with regular bug reports, many of which involve relatively obscure security loopholes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

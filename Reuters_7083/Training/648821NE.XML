@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="648821" id="root" date="1997-06-10" xml:lang="en">
+<title>USA: Linkon Corp Q1 April 30 net loss widens.</title>
+<headline>Linkon Corp Q1 April 30 net loss widens.</headline>
+<dateline>FAIRFIELD, Conn. 1997-06-10</dateline>
+<text>
+<p>Three Months ended April 30,</p>
+<p>						    1997		1996</p>
+<p> Revenues				    $722,549	  $404,213</p>
+<p> Net Loss				   (520,730)	 (426,394)</p>
+<p> Loss Per Share				(0.05)	    (0.04)</p>
+<p>Weighted Average Number</p>
+<p>  of Shares Outstanding		10,817,252	10,753,252</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

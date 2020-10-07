@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122362" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Symix Systems Inc Q1 Sept 30 full results.</title>
+<headline>Symix Systems Inc Q1 Sept 30 full results.</headline>
+<dateline>COLUMBUS, Ohio 1996-10-17</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>							Three Months</p>
+<p>						     Ended September 30,</p>
+<p>							(unaudited)</p>
+<p>						  1996		   1995</p>
+<p> License fees and turnkey systems    $5,884		$4,752</p>
+<p> Service, maintenance and support     6,806		 5,068</p>
+<p>     Net revenue			   12,690		 9,820</p>
+<p> License fees and turnkey systems     1,952		 1,742</p>
+<p> Service, maintenance and support     2,591		 2,057</p>
+<p>     Cost of revenue			4,543		 3,799</p>
+<p>     Gross margin			   8,147		 6,021</p>
+<p> Selling, general and administrative  6,555		 4,730</p>
+<p> Research and product development     1,100		   858</p>
+<p>Restructuring and other unusual charges</p>
+<p>						     --		   506</p>
+<p>     Total operating expenses	   7,655		 6,094</p>
+<p>     Operating income (loss)		492		  (73)</p>
+<p> Interest and other income, net	    72		    53</p>
+<p> Income (loss) before income taxes	564		  (20)</p>
+<p> Provision (benefit) for income taxes   217		   (8)</p>
+<p>     Net income (loss)			347		 ( 12)</p>
+<p>     Earnings (loss) per share	   0.06		  0.00</p>
+<p>Weighted average number of common and common equivalent</p>
+<p>  shares outstanding			5,989		 5,450</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

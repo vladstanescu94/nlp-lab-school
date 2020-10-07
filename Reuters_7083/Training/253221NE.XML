@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253221" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Borland expects loss for fiscal third quarter.</title>
+<headline>Borland expects loss for fiscal third quarter.</headline>
+<dateline>SCOTTS VALLEY, Calif.</dateline>
+<text>
+<p>Software company Borland International Inc. said Wednesday it expected to report an operating loss for the current quarter.</p>
+<p>The company said it expected a loss of 52 cents to 62 cents a share on revenues of $33 million to $36 million for its fiscal third quarter ending Dec. 31. In the same quarter a year ago, Borland reported a profit of $849,000, or 3 cents per share, on revenues of $47.3 million.</p>
+<p>Borland attributed the loss to not shipping any new products in the quarter and slowing sales of existing, mature products as customers anticipate upcoming and previously announced product releases.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTS VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

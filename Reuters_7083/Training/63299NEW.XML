@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63299" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Computer Language buys eviction-database co.</title>
+<headline>Computer Language buys eviction-database co.</headline>
+<dateline>CARROLLTON, Texas 1996-09-19</dateline>
+<text>
+<p>Computer Language Research Inc said Thursday it has acquired substantially all of the assets of Automated Research Technology Inc, a move the company said would have a positive effect on its 1997 earnings.</p>
+<p>The transaction was completed by Computer Language's wholly owned subsidiary, Rent Roll Inc, which sells residential property management software and services.</p>
+<p>Automated Research markets eviction-database services to apartment communities.  </p>
+<p>Computer Language said the acquisition will have no material effect on this year's earnings, but is expected to have a positive effect in 1997 and in future years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARROLLTON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

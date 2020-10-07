@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248302" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: System Software inks marketing partnership.</title>
+<headline>System Software inks marketing partnership.</headline>
+<dateline>CHICAGO 1996-12-11</dateline>
+<text>
+<p>System Software Associates Inc said Wednesday it signed a joint marketing agreement with Taylor Manufacturing Systems, a unit of Taylor Industrial Software.</p>
+<p>The partnership is expected to extend the production scheduling and execution capabilities of System Software's Business Planning and Control System line of products, it said.</p>
+<p>Improved schedule generation, lower inventory and production costs and fewer downtimes will result from the integration of the Taylor Manufacturing Systems software, said the company, which develops software.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

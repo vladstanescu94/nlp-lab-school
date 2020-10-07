@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="698946" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Westinghouse denies shopping CBS to Microsoft.</title>
+<headline>Westinghouse denies shopping CBS to Microsoft.</headline>
+<dateline>NEW YORK 1997-07-01</dateline>
+<text>
+<p>Westinghouse Electric Corp. and its CBS subsidiary Tuesday denied a New York Post story that it was looking to sell its CBS media business to Microsoft Corp. Microsoft also denied the report.</p>
+<p>&quot;There is no truth to the unattributed rumour reported in today's New York Post, speculating on the possible sale of CBS, nor is any party examining our financial books as reported by the Post,&quot; Westinghouse said in a statement.</p>
+<p>&quot;Our intention is to build CBS into the pre-eminent media company in the industry, not to sell it,&quot; Westinghouse added.</p>
+<p>A top CBS official also denied the Post's story, which said Microsoft was reviewing CBS's finances as it considers making a bid for the network.</p>
+<p>&quot;I can say no, there isn't anything to (the story),&quot; said the CBS executive, who declined to be identified.</p>
+<p>&quot;We're not selling it. We're building it,&quot; the executive added.</p>
+<p>The newspaper said Microsoft, a software superpower, viewed CBS as a potentially powerful weapon in its battle with broadcasters as they seek to define the future of digital television.</p>
+<p>The newspaper later issued a statement saying it stood by its report.</p>
+<p>&quot;We stand by (journalist) Jon Elsen's story, which said Microsoft was among those who had looked at the CBS business. Time will tell how accurate our story is,&quot; said Deputy Editor David Yelland. &quot;Our business section has gained a reputation for getting it right. Let's see what happens.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="487756" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: Boole unveils IBM management software.</title>
+<headline>Boole unveils IBM management software.</headline>
+<dateline>SAN FRANCISCO 1997-04-04</dateline>
+<text>
+<p>Boole &amp; Babbage Inc on Friday unveiled a line of computer network management software for networks based on International Business Machine Corp's MQSeries standard.</p>
+<p>The new AutoOperator for MQSeries software, designed to alert computer technicians about glitches in network operation, will meet the demand of a growing market, said Mike Bunyard, Boole &amp; Babbage senior director of product marketing.</p>
+<p>MQSeries is a set of technology from IBM through which mainframe computers, the storehouses of information for big companies, communicate with networks of personal computers and workstations.</p>
+<p>Boole &amp; Babbage said AutoOperator was available immediately at prices beginning at $18,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

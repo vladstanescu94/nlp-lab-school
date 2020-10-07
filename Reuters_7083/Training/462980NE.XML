@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462980" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: GSE Systems names Suchniak finance chief.</title>
+<headline>GSE Systems names Suchniak finance chief.</headline>
+<dateline>COLUMBIA, Md. 1997-03-24</dateline>
+<text>
+<p>GSE Systems Inc said Monday it appointed David Suchniak as senior vice president and chief financial officer.</p>
+<p>Suchniak will join the company on April 14 and will replace Michael Cromwell III who served as acting chief financial officer, the company said. Cromwell will resume his duties as vice chairman, it said.</p>
+<p>Suchniak, 46, has worked with the accounting firm Coopers &amp; Lybrand, AMC Corp, Hanover Foods Corp, Berwick Industries and GTE Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

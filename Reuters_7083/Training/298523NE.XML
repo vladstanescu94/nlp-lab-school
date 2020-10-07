@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="298523" id="root" date="1997-01-10" xml:lang="en">
+<title>USA: Macromedia falls after earnings shortfall.</title>
+<headline>Macromedia falls after earnings shortfall.</headline>
+<dateline>SAN FRANCISCO 1997-01-10</dateline>
+<text>
+<p>Macromedia Inc shares plunged as much as 44 percent Friday after the software company reported an unexpected third quarter loss because of weak sales of products for Apple Computer Inc's Macintosh computers.</p>
+<p>Shares of the San Francisco software vendor were down 3-5/8 at 9-7/8 in early Nasdaq trade on volume of 5.4 million shares. Macromedia was the second most active stock.</p>
+<p>Earlier, the shares traded as low as 9-3/8.  </p>
+<p>On Thursday Macromedia reported a fiscal third quarter loss of $2.36 million, or $0.06 a share, compared with a profit of $7.15 million, or $0.18 a share, a year earlier.</p>
+<p>Revenue for the quarter, ended December 31, fell 9.0 percent, to $28.1 million from $30.9 million.</p>
+<p>Wall Street had expected Macromedia, which writes graphic design software for artists, to report earnings of $0.14 a share for the quarter.</p>
+<p>Macromedia blamed the loss on weak sales of Authorware and Director, its two main products. The company also said it had weak sales in Europe.</p>
+<p>About 60 percent of Macromedia's revenues come from sales of products for Macintosh computers. Macromedia said Mac software sales declined 10 percent in the third quarter.</p>
+<p>The third quarter loss prompted analysts to slash their ratings on the stock. Alex. Brown &amp; Sons Inc cut its rating to &quot;neutral&quot; from &quot;buy.&quot; A Bear Stearns source said the brokerage cut its rating to &quot;neutral&quot; from &quot;attractive.&quot;</p>
+<p>((-- Kourosh Karimkhany in Palo Alto, 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

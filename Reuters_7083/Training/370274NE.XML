@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="370274" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: Amisys Managed Care Q4 net rises.</title>
+<headline>Amisys Managed Care Q4 net rises.</headline>
+<dateline>ROCKVILLE, Md. 1997-02-11</dateline>
+<text>
+<p>Amisys Managed Care Systems Inc</p>
+<p>		    (dollars in thousands, except per share data)</p>
+<p>			  Three Months Ended     Twelve Months Ended</p>
+<p>				December 31		December 31</p>
+<p>			 1996	     1995     1996	     1995</p>
+<p> Total revs	  14,270	  8,595   46,438	   31,787</p>
+<p> Operating inc	1,790	    970    5,485	    2,175</p>
+<p> Income tax prov	478	     --    2,106		 --</p>
+<p> Net income	 $ 1,673	  $ 853  $ 4,697	  $ 1,675</p>
+<p> Shr		    $0.20	  $0.14    $0.57	   $ 0.28</p>
+<p> Avg shrs	     8,294	  5,949    8,274	    5,949</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKVILLE, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

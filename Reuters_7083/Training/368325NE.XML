@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="368325" id="root" date="1997-02-10" xml:lang="en">
+<title>JAPAN: Softbank rises on buying by dealers.</title>
+<headline>Softbank rises on buying by dealers.</headline>
+<dateline>TOKYO 1997-02-10</dateline>
+<text>
+<p>Shares in Softbank Corp sharply gained ground in Monday morning trade, mainly on buying by dealers, brokers said.</p>
+<p>The shares were up 200 yen at 10,500 yen at 0156 GMT.  </p>
+<p>Participants were encouraged by the issue's firm gains last week, brokers said.</p>
+<p>A dealer at a medium-sized brokerage said the rise in Softbank was brightening overall sentiment in the over-the-counter market.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

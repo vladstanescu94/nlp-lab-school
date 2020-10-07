@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="689281" id="root" date="1997-06-26" xml:lang="en">
+<title>USA: Microsoft, First Data set up venture for online bills.</title>
+<headline>Microsoft, First Data set up venture for online bills.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1997-06-26</dateline>
+<text>
+<p>Microsoft Corp. and First Data Corp. said Thursday they set up a jointly owned company that will let customers pay their monthly bills through the Internet.</p>
+<p>The venture, called MSFDC, will go after a share of the 14 billion paper bills generated each year in the United States, a potentially huge market for electronic payment services.</p>
+<p>MSFDC will use the Internet to send out detailed statements for big billers, like telephone companies, utilities and credit card issuers. It also will provide consumers with software that will allow them to pay bills through Web browsers, e-mail or personal finance software, the companies said.</p>
+<p>The service would be free to consumers. MSFDC will charge the billers a fee, comparable to the cost of a stamp, for each transaction, said Darren Remington, Microsoft's general manager of electronic bill payment.</p>
+<p>&quot;Bill payment through online services has been fairly stagnant,&quot; said Cliff Condon, analyst at market researcher Forrester Research Inc. With better software and Microsoft's marketing clout with consumers, &quot;the adoption rate would go up significantly.&quot;</p>
+<p>Several companies, including Checkfree Corp. and Intuit Inc., have tried to get merchants and consumers to give up paper bills and stamps in favor of online services, but with limited success.</p>
+<p>Banks have been reluctant to let other companies get between them and depositors, analysts say. Consumers also have been reluctant to send out sensitive financial information through the Internet.</p>
+<p>Microsoft and First Data could change that. Microsoft is an expert at selling relatively complex software to consumers. First Data, based in Hackensack, N.J., is an expert at processing the mountains of monthly statements and checks for credit card companies.</p>
+<p>&quot;Many banks are trying to do this today and are paying a lot of money for it,&quot; Remington said. MSFDC can cut those costs significantly, he said.</p>
+<p>MSFDC, which will employ about 100 people, will start a field trial next month. It will have a commercial service ready by early 1998, the company said.</p>
+<p>MSFDC also has set up a committee to get advice from banks and utilities, such as American Express Co., Citicorp and the Edison Electric Institute.</p>
+<p>Microsoft stock fell $1.94 to $128.50 on Nasdaq in late trading. First Data was up 37.5 cents at $42.875 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

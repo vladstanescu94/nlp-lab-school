@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="460072" id="root" date="1997-03-21" xml:lang="en">
+<title>USA: Novell, Netscape to form network software company.</title>
+<headline>Novell, Netscape to form network software company.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1997-03-21</dateline>
+<text>
+<p>Novell Inc and Netscape Communications Corp on Friday said they agreed to form a jointly owned networking software company that would take on Microsoft Corp and International Business Machines Corp.</p>
+<p>The new company, called Novonyx, will develop a version of Netscape's SuiteSpot package of communication and collaboration software to work on Novell's Internetware network operating system -- the most popular software product for shuffling information between PCs in corporate networks.  </p>
+<p>Under the agreement, Novonyx will be set up near Novell's Provo, Utah, headquarters and develop versions of Netscape products for the Internetware operating system. The products, to be delivered within a few months, would be distributed by Novell, Paul said.</p>
+<p>The companies declined to disclose financial terms. Paul also declined to specify the stake of each company in Novonyx.</p>
+<p>Novell's Internetware program serves as the networking software foundation of departments within many of the world's biggest companies.  </p>
+<p>Novonyx's offerings would compete against packages of communication software from Microsoft and IBM's Lotus Development Corp software division, Novell and Netscape said. Until now, Novell and Netscape could not on their own offer a complete product line to take on their bigger rivals.</p>
+<p>&quot;Without a doubt our competition is Microsoft and Lotus,&quot; said John Paul, Netscape's vice president of strategic programs. &quot;We think we'll be quite successful.&quot;  </p>
+<p>The product has lost market share to Microsoft's Windows NT operating system, however, partly because Novell has not been able to develop innovative communication and Internet software on its own.</p>
+<p>Netscape, based in Mountain View, Calif., in the past few months has focused its efforts on selling communication software for internal corporate networks, or intranets.</p>
+<p>Until now, its products did not run on top of Novell's software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="562046" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Microsoft's Maffei repeats FY98 caution.</title>
+<headline>Microsoft's Maffei repeats FY98 caution.</headline>
+<dateline>MONTEREY, Calif. 1997-05-05</dateline>
+<text>
+<p>Microsoft Corp Treasurer Greg Maffei repeated on Monday that the software company will have to work hard to meet Wall Street's lowered revenue and earnings growth expectations for fiscal 1998.</p>
+<p>&quot;These are probably not lay-ups (but) something we're going to have to work hard to achieve,&quot; he said of Wall Street's expectation that Microsoft will grow revenues and earnings by 15 to 20 percent in the next fiscal year.  </p>
+<p>&quot;I think fiscal 98 is a tough year,&quot; he said in an interview after making a presentation on Microsoft's acquisition and investment strategy to venture capitalists and entrepreneurs here.</p>
+<p>Maffei has earlier issued cautious statements about fiscal 1998, noting that no major Office application suite upgrade is planned and the upgrade of its Windows 95 system will be an important product but not provide as big a boost as its predecessor.</p>
+<p>According to First Call, Wall Street expects Microsoft to earn $3.12 a share in fiscal 1998, which would be up from an estimated $2.63 for the current fiscal year.</p>
+<p>Maffei said he expects results to be flat to down sequentially in the current, fourth fiscal quarter compared to the March quarter. According to First Call, analysts expect Microsoft to earn $0.79 a share in the fourth quarter, up from $0.44 a year ago but even with the third quarter profit of $0.79. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTEREY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

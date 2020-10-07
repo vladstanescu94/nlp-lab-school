@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107427" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Microsoft aims to double MSN subscribers.</title>
+<headline>Microsoft aims to double MSN subscribers.</headline>
+<dateline>REDMOND, Wash. 1996-10-10</dateline>
+<text>
+<p>Microsoft Corp plans to &quot;more than double&quot; the number of people who subscribe to its MSN online service by the end of the fiscal year ending June 30, 1997, a company executive said Thursday.</p>
+<p>MSN vice president Laura Jennings also told Reuters at a news briefing that the company has no firm plans to offer the MSN service for the older Windows 3.X operating system.</p>
+<p>Instead, most of the features of the relaunched MSN will be available only to users with Microsoft's Windows 95 operating system and its Internet Explorer browser.</p>
+<p>Among overseas markets, the company has initially  targeted the U.K., France and Germany for international editions of the new MSN, but company officials said they did not yet have launch dates.</p>
+<p>MSN currently has about 1.6 million subscribers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

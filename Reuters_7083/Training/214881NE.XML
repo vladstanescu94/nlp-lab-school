@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214881" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: American Software Q2 Oct 31 net rises.</title>
+<headline>American Software Q2 Oct 31 net rises.</headline>
+<dateline>ATLANTA 1996-11-25</dateline>
+<text>
+<p>AMERICAN SOFTWARE INC.</p>
+<p>				For the Quarter Ended Oct 31, 1996</p>
+<p>							  For the Second</p>
+<p>								Qtr. Ended</p>
+<p>								  Oct. 31,</p>
+<p>							    1996	 1995</p>
+<p> Total revenues					19,949    21,408</p>
+<p> Total cost of revenues			    11,100    11,343</p>
+<p> Total costs					   19,933    21,363</p>
+<p> Operating earnings (loss)			     16	  45</p>
+<p> Other income					     510	 617</p>
+<p>Earnings (loss) before</p>
+<p>  income taxes					    526	 662</p>
+<p> Income tax expense					82	 252</p>
+<p> Net earnings (loss)				    444	 410</p>
+<p> Earnings (loss) per share			   0.02	0.02</p>
+<p> Wtd avg shrs o/s				    23,449    23,725</p>
+<p>							 For the Six Months</p>
+<p>								  Ended</p>
+<p>								 Oct. 31,</p>
+<p>							    1996	 1995</p>
+<p> Total revenues					38,075    42,366</p>
+<p> Total cost of revenues			    21,823    22,714</p>
+<p> Total costs					   39,381    42,296</p>
+<p> Operating earnings (loss)			(1,306)	  70</p>
+<p> Other income					     629     1,206</p>
+<p>Earnings (loss) before</p>
+<p>  income taxes					  (677)     1,276</p>
+<p> Income tax expense					82	 498</p>
+<p> Net earnings (loss)				  (759)	 778</p>
+<p> Earnings (loss) per share			 (0.03)	0.03</p>
+<p> Wtd avg shrs o/s				    22,313    23,744</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

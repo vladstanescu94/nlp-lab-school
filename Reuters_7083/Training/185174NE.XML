@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185174" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Teknowledge Corp Q3 net rises.</title>
+<headline>Teknowledge Corp Q3 net rises.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-13</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>				    1996     1995    1996	 1995</p>
+<p> Revenues			$1,847  $1,480  $5,180	$3,978</p>
+<p> Costs and expenses	   1,705   1,400   4,810	 3,766</p>
+<p> Operating income		 142	80     370	   212</p>
+<p> Nonoperating income	     49	62     151	   179</p>
+<p> Income before tax		191     142     521	   391</p>
+<p> Provision for income tax	 2	--	 8	     3</p>
+<p> Net income			 189     142     513	   388</p>
+<p> Net income per share	  0.01    0.00    0.02	  0.01</p>
+<p>Shares used in computing</p>
+<p>net income per share</p>
+<p>		    30,530,014  3,005,274  30,366,118  29,901,262</p>
+<p>			   Unaudited</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

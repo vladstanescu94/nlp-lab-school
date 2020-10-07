@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162911" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Oracle unveils software transfer for NCs.</title>
+<headline>Oracle unveils software transfer for NCs.</headline>
+<dateline>SAN FRANCISCO 1996-11-04</dateline>
+<text>
+<p>Oracle Corp, aiming to boost the marketability of its network computer technology, announced a software tool that will let companies put programs they have in use on in-house computer networks onto the Internet or intranets without rewriting programming code.</p>
+<p>The new tool, called Developer/2000 for the Web, would mean companies can start using NCs without having to spend a lot of time writing new applications for these machines.</p>
+<p>But it works only on applications written for Oracle databases.</p>
+<p>NCs, stripped-down computers that are less expensive than office PC's or workstations, get their software from the Internet or corporate intranets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

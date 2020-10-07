@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="614735" id="root" date="1997-05-26" xml:lang="en">
+<title>JAPAN: NTT Data says no decision on intl network partners.</title>
+<headline>NTT Data says no decision on intl network partners.</headline>
+<dateline>TOKYO 1997-05-26</dateline>
+<text>
+<p>NTT Data Corp, a unit of Nippon Telegraph and Telephone Corp, said on Monday it plans to create a global communications network, in partnership with foreign telecoms carriers, using the Internet.</p>
+<p>But the firm has yet to make a decision on business partners and the timing of the move, an NTT Data spokesman said.</p>
+<p>He was responding to a report in the evening edition of the Nihon Keizai Shimbun on Monday which said that NTT Data will provide its corporate users with international virtual private network (VPN) services by the end of this year, in collaboration with MCI Communications Corp and British Telecommunications Plc.</p>
+<p>VPNs allow corporate users to cut their phone bills by using public phone networks as if they were their own private communications networks.</p>
+<p>The Nihon Keizai Shimbun said NTT Data is also talking with carriers in Malaysia, Singapore and Taiwan about offering the global network service.</p>
+<p>The planned service will cost less than half that of leased lines because of the use of the Internet, the paper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

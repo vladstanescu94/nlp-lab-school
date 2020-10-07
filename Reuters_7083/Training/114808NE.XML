@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114808" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Spatial Tech IPO postponed - underwriter.</title>
+<headline>Spatial Tech IPO postponed - underwriter.</headline>
+<dateline>NEW YORK 1996-10-14</dateline>
+<text>
+<p>The initial public offering of 2.1 million common shares of Spatial Technology Inc has been postponed due to &quot;market conditions,&quot; lead underwriter Dain Bosworth Inc said Monday.</p>
+<p>The Boulder, Colo.-based company, which develops software used to create and modify three-dimensional shapes on a computer, was expected to make its market debut in mid- October on the Nasdaq National Market under the symbol &quot;STGY.&quot;</p>
+<p>A syndicate representative at Dain Bosworth said he did not know if the deal, with an estimated value of $21 million and expected to price between $9 and $11 a share, would resurface.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73291" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Oracle to buy Datalogix for $94 mln.</title>
+<headline>Oracle to buy Datalogix for $94 mln.</headline>
+<dateline>REDWOOD SHORES, Calif. 1996-09-24</dateline>
+<text>
+<p>Oracle Corp and Datalogix International Inc have signed a definitive agreement under which Oracle is to acquire Datalogix for about $94 million in cash, the two companies said Tuesday.</p>
+<p>Oracle currently owns 13.4 percent of the outstanding shares of Datalogix, a Valhalla, N.Y.-base company that provides software for process manufacturing.</p>
+<p>Oracle is to purchase all of the remaining shares for $81 million, or $8.00 a share. The deal will close once it is approved by shareholders and regulators.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

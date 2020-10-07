@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144288" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: PowerCerv Corp Q3 loss vs profit.</title>
+<headline>PowerCerv Corp Q3 loss vs profit.</headline>
+<dateline>TAMPA, Fla. 1996-10-24</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				Three months ended  Nine months ended</p>
+<p>				    September 30,  September 30,</p>
+<p>			     1996	1995	 1996	  1995</p>
+<p>     Total revenue    7,318	6,878     27,867	19,527</p>
+<p>Total costs and expenses</p>
+<p>			   11,302	6,442     31,280	18,230</p>
+<p>Operating income</p>
+<p>		    (    3,984)	  436  (   3,413)	1,297</p>
+<p>Net income</p>
+<p>		    (    2,311)	  246  (   1,836)	  183</p>
+<p>Net income per share</p>
+<p>		    (     0.17)	 0.02  (    0.15)	 0.02</p>
+<p>Shares used in computing net</p>
+<p>income per share</p>
+<p>		     13,827,000  10,837,000 12,652,000 10,837,000</p>
+<p>NOTE: The company said the Q3 loss is primarily attributable to the company's release of ADAPTlications 6.0 later than expected which impacted license revenues, reduced consulting revenues and resulted in higher R&amp;D expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

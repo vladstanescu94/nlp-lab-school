@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411879" id="root" date="1997-02-28" xml:lang="en">
+<title>UK: Eidos back in black, share price jumps.</title>
+<headline>Eidos back in black, share price jumps.</headline>
+<dateline>LONDON 1997-02-28</dateline>
+<text>
+<p>Software development firm Eidos Plc reported an improved pre-tax profit of 7.8 million stg for the third quarter to December, 1996 compared with a 1.0 million stg loss in the same period in the previous year.</p>
+<p>The company's earning per share for the period under review stood at 54p against a loss of 15 pence.</p>
+<p>Eidos' share price rose 70 pence to 1,040 at 0831 GMT after it announced its results.</p>
+<p>The group's turnover rose to 32.1 million stg from 1.2 million.</p>
+<p>The company said some key corporate and publishing deals had helped it improve its performance.</p>
+<p>The company recently raised $18 million through issue of American Depositary Receipts and is now listed on the Nasdaq.</p>
+<p>The group's nine-month turnover to December 1996 rose to 53 million stg with pretax profit at 3.1 million stg against a loss of 1.4 million.</p>
+<p>-- London Newsroom +44 171 532 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

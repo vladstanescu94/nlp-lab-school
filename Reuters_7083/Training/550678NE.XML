@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="550678" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Cybercash sees rising revenues.</title>
+<headline>Cybercash sees rising revenues.</headline>
+<dateline>SAN FRANCISCO 1997-04-30</dateline>
+<text>
+<p>CyberCash Inc said Wednesday it is confident it will grow revenues to $35 million in fiscal 1998 in line with analysts' expectations.</p>
+<p>The company said that, in order to meet those projections, it will have process as many as two million electronic tranactions on the Internet per day, up from about 10,000 daily at the moment. The company, which has about 500 merchants using CyberCash's services in thier Internet store fronts, is adding new merchants at a rate of about 25 a week. In January of 1996, only 39 merchants were using CyberCash's internet services.  </p>
+<p>In order to meet the 1998 revenue projections, CyberCash, which is paid by the transaction, will need between 10,000 and 20,000 merchants using its services.</p>
+<p>On Tuesday, CyberCash posted a first quarter loss of $9.2 million, or $0.86 a share, on revenues of $155,395. In the comparable year-ago quarter the start-up company lost $4.6 million, or $0.72 a share on revenues of $21,619.</p>
+<p>Chairman and Chief Executive William Melton said the primary challenge was educating the public to use the Internet for commerce.  </p>
+<p>&quot;Just as we know how to drive cars today, over the next two, three or four years everybody needs to know how to use cryptography and not take it as something unusual,&quot; Melton said at the Hambrecht &amp; Quist technology conference here.</p>
+<p>Melton said that CyberCash is well positioned to take advantage of the explosive growth of Internet commerce when it happens since most of the leading companies that sell the software for companies to set up store on the Internet, such as Netscape Communication Corp and Microsoft Corp , incorporate CyberCash in their products.</p>
+<p>The company will roll out Commercial Check in the third quarter, a service that will allow businesses to send checks electronically.A consumer version would follow soon after.</p>
+<p>While almost all Internet transactions today are done with credit cards, Melton said that, in everyday use, check transactions outnumber credit card transactions six to one, highligting the potential for the electronic check.</p>
+<p>Coin-based transactions will become ever more prevalent and eventually become the dominant transaction on the Internet. &quot;Cyber coins&quot; allow consumers to pay for inexpensive items, such as a newspaper, over the Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

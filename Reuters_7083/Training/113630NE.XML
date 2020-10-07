@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113630" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Sterling Commerce names Warner Blow CEO.</title>
+<headline>Sterling Commerce names Warner Blow CEO.</headline>
+<dateline>DALLAS 1996-10-14</dateline>
+<text>
+<p>Sterling Commerce Inc said on Monday it named Warner Blow president and chief executive officer effective October 11.</p>
+<p>Sterling Commerce was just spun off from its former parent company, Sterling Software Inc.</p>
+<p>Blow, who was president and chief operating officer of Sterling Commerce, replaced Sterling Williams, who would remain chairman of the company.  He would also continue in his role of president and chief executive officer of Sterling Software, the company said.  </p>
+<p>Blow worked for Sterling Software for 22 years.</p>
+<p>Sterling Commerce provides electronic software products and network services which enable electronic communications and transactions among businesses.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

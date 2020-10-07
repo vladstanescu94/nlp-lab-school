@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148025" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Netscape, Oracle in Internet software pact.</title>
+<headline>Netscape, Oracle in Internet software pact.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-28</dateline>
+<text>
+<p>Netscape Communications Corp. and Oracle Corp., seeking to limit Microsoft Corp.'s efforts to become a dominant provider of Internet software, Monday announced a plan to market each others' products.</p>
+<p>The deal combines Netscape's Internet prowess with Oracle's dominance of the database software market, and is likely to give Netscape a boost in the corporate market.</p>
+<p>While Netscape's Navigator software is estimated to have as much as 80 percent of the Internet browser market, the Moutain View, Calif.-based  company is eager to move into the more lucrative corporate market.</p>
+<p>The alliance brings together Oracle's Universal Server family of database software products and so-called Network Computer products, with Netscape's commercial applications for the Internet and its market-leading Netscape Navigator browser.</p>
+<p>&quot;While we are enormous proponents of supporting all client technologies, there are times when it's more appropriate to select a closer alliance partner,&quot; said Oracle Chairman Larry Ellison. &quot;We've chosen to work with Netscape.&quot;</p>
+<p>Network computers, or NCs, are stripped-down versions of personal computers that are expected to sell for a fraction of what a standard computer costs.</p>
+<p>Oracle, bsaed in Redwood Shores, Calif., and Sun Microsystems Inc. have been leading proponents of the network computer, and Sun is expected to unveil a line of NCs Tuesday.</p>
+<p>Microsoft, which until recently had dismissed the network computer, Monday announced a new push for inexpensive, easy-to-use personal computers, dubbed the NetPC.</p>
+<p>Unlike the personal computer, which relies on operating system software to run its programmes, the network computer uses Internet technology to access software from large servers.</p>
+<p>Industry analysts said a widespread switch to the network computer from the PC would hurt Microsoft because the software giant relies on sales of its Windows operating system for part of its strong growth.</p>
+<p>Microsoft and Netscape are currently locked in a battle for control of the software market for the Internet and the more lucrative market for intranets, or corporate networks based on Internet standards.</p>
+<p>Netscape stock was up $1.125 at $47.375 in afternoon trading on Nasdaq, while was up 31.25 cents at $42.625.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

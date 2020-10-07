@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119087" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: OneWave Inc Q3 full results.</title>
+<headline>OneWave Inc Q3 full results.</headline>
+<dateline>WATERTOWN, Mass. 1996-10-16</dateline>
+<text>
+<p>Unaudited	    Unaudited</p>
+<p>			     Three Months Ended  Nine Months Ended</p>
+<p>				  September 30,   September 30,</p>
+<p>				 1995	    1996   1995	1996</p>
+<p>Revenues:</p>
+<p>Software license and</p>
+<p>    maintenance	 $   400	$  3,961$   443   $  6,888</p>
+<p>Consulting and</p>
+<p>    education services  1,629	   1,373  2,600	3,979</p>
+<p>     Total revenues     2,029	   5,334  3,043     10,867</p>
+<p>Cost of Revenues: Software license and</p>
+<p>    maintenance	     208	     386    230	  996</p>
+<p>Consulting and</p>
+<p>    education services  1,170	   1,459  1,749	3,277</p>
+<p>Total cost of</p>
+<p>	revenues	    1,378	   1,845  1,979	4,273</p>
+<p>     Gross profit	   651	   3,489  1,064	6,594</p>
+<p>Operating Expenses:</p>
+<p>Selling, general and</p>
+<p>    administrative	  440	   3,371  1,090	7,493</p>
+<p>Research and development</p>
+<p>				  331	   1,073    645	2,425</p>
+<p>Compensation to</p>
+<p>    executive officer	 -	   (109)	-	6,794</p>
+<p>Total operating</p>
+<p>     expenses		 771	   4,335  1,735     16,712</p>
+<p>  Operating loss	  (120)	   (846)  (671)   (10,118)</p>
+<p>Interest income</p>
+<p>   (expense), net	  (20)	     467   (37)	  431</p>
+<p>     Net loss	     (140)	   (379)  (708)	9,687</p>
+<p>Net Loss per Common and Common Equivalent Share</p>
+<p>			     (0.01)	  (0.03) (0.06)     (0.71)</p>
+<p>Weighted Average Number of Common and Common Equivalent shrs  Outstanding	     13,141	  14,729  12,770    13,670</p>
+<p>(in thousands, except per share data)</p>
+<p>-- New York Newsdesk 212 859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WATERTOWN, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

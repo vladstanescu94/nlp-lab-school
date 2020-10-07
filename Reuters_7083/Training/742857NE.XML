@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="742857" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: Microsoft licenses audio, video technology.</title>
+<headline>Microsoft licenses audio, video technology.</headline>
+<dateline>REDMOND, Wash. 1997-07-21</dateline>
+<text>
+<p>Microsoft Corp said Monday it agreed a licensing pact for Progressive Networks Inc's RealAudio and RealVideo technologies for the Internet.</p>
+<p>The two products allow the real-time communication of audio and video signals over the Internet so computer users can communicate with voice and pictures.</p>
+<p>Microsoft also has acquired a non-voting minority interest in Progressive Networks. Financial details were not disclosed.</p>
+<p>Under the deal, Software giant Microsoft will license RealAudio and RealVideo 4.0 technologies and trademarks for use in its information streaming server technology, NetShow.</p>
+<p>The companies will help define future versions of Microsoft's Active Streaming Format (ASF), and both will use ASF as the streaming format for new products.</p>
+<p>Microsoft will include RealPlayer 4.0 and NetShow clients with Microsoft Internet Explorer, its browser software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="145314" id="root" date="1996-10-25" xml:lang="en">
+<title>JAPAN: Hitachi Information - 6mth parent results.</title>
+<headline>Hitachi Information - 6mth parent results.</headline>
+<dateline>TOKYO 1996-10-25</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 44.50		vs	   40.12</p>
+<p> Operating	  465    million    vs	   79    million</p>
+<p> Current	    583    million    vs	  422    million</p>
+<p> Net		  213    million    vs	  182    million</p>
+<p> EPS		    6.41 yen	  vs	    5.48 yen</p>
+<p> Shares	     33 million	  vs	  33 million</p>
+<p> Interim div	  5.00 yen	  vs	    5.00 yen</p>
+<p>NOTE - Hitachi Information Systems Ltd is a leading dataprocessing firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

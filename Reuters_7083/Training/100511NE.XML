@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100511" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Netscape, CyberCash in digital coin pact.</title>
+<headline>Netscape, CyberCash in digital coin pact.</headline>
+<dateline>SAN FRANCISCO 1996-10-07</dateline>
+<text>
+<p>CyberCash Inc has licensed its CyberCoin Internet payment system to Netscape Communications Corp, the companies said on Monday.</p>
+<p>CyberCoin is a payment service that permits online purchases for items costing between $0.25 and $10.</p>
+<p>The technology will be bundled into future versions of Netscape products, including Netscape LivePayment server software for online payment processing.  </p>
+<p>Analysts see this new type of payment system as crucial in enabling merchants to sell low-cost items like news and information, graphics, games and music by allowing larger product offerings to be unbundled and sold in increments.</p>
+<p>Financial institutions to offer the CyberCoin service include First Union Corp First Union Bank, First USA Paymentech Inc, Michigan National Corp's Michigan National Bank, and First Data Corp.</p>
+<p>CyberCash and Netscape also said they will collaborate on building future services, such as CyberCash's electronic check system, into future Netscape commerce offerings.  </p>
+<p>Netscape and CyberCash said they plan to jointly market these Internet payment systems to consumers and businesses and work together to accelerate use of the Secure Electronic Transactions (SET) credit card payment standard.</p>
+<p>&quot;Combined with Netscape's customer base, CyberCoin is filling a need in the marketplace for small payment processing,&quot; said Denis Yaro, executive vice president-products and operations at CyberCash.</p>
+<p>&quot;This is a huge step in our efforts to bring Internet transaction technology to consumers and businesses and to increase online inventory, making the virtual mall a reality.&quot;  </p>
+<p>&quot;We are pleased to see this agreement between Netscape and CyberCash,&quot; said Chuck White, senior vice president of First Data Card Services Group's Electronic Funds Services unit. &quot;The relationship between Netscape and CyberCash will make it easier to deliver integrated payment solutions to our client financial institutions, and their merchant customers that are using Netscape LivePayment.&quot;</p>
+<p>Netscape said it plans to integrate CyberCoin into future versions of its Netscape Navigator client software, which will streamline consumers' shopping experience by creating a uniform way for making purchases over the Internet.</p>
+<p>Similar to a real wallet, this technology will organize into one place a user's credit card numbers, shipping addresses, digital IDs, electronic receipts and other payment instruments needed to purchase goods and services on the Internet, the companies said.</p>
+<p>-- Eric Auchard, New York Newsdesk 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

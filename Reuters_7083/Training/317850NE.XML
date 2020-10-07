@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317850" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: MDL Information Systems Inc Q3 net rises.</title>
+<headline>MDL Information Systems Inc Q3 net rises.</headline>
+<dateline>SAN LEANDRO, Calif. 1997-01-20</dateline>
+<text>
+<p>(in thousands, except per share and share amounts)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					  Dec. 31,	    Dec. 31,</p>
+<p>				     1996	1995     1996     1995</p>
+<p>Revenues:</p>
+<p>  License and other	   $9,235   $7,581  $25,265  $20,599</p>
+<p>  Database			 7,232    5,187   13,895   10,730</p>
+<p>  Maintenance		    4,632    4,666   13,848   13,272</p>
+<p>   Total revenues	     21,099   17,434   53,008   44,601</p>
+<p>Costs and Expenses:</p>
+<p>  Cost of revenues	     3,144    2,568    8,902    7,123</p>
+<p>  Product development	  3,638    2,760   10,999    7,820</p>
+<p>Sales, marketing and customer</p>
+<p>   service			 7,526    6,797   20,744   19,133</p>
+<p>General and administrative</p>
+<p>				     1,607    1,068    4,431    3,095</p>
+<p>Total costs and expenses</p>
+<p>				    15,915   13,193   45,076   37,171</p>
+<p> Income from operations	5,184    4,241    7,932    7,430</p>
+<p>Other income (expense):</p>
+<p>  Interest income (expense)    116	(5)	318     (52)</p>
+<p>  Other				455	285	906	575</p>
+<p>   Total other income, net     571	280    1,224	523</p>
+<p> Income before income taxes  5,755    4,521    9,156    7,953</p>
+<p> Provision for income taxes  (394)    (299)    (967)    (885)</p>
+<p> Net income			5,361    4,222    8,189    7,068</p>
+<p> Net income per common share  0.57     0.45     0.85     0.77</p>
+<p>Shares used in computing net</p>
+<p>income per common share</p>
+<p>			 9,457,642  9,401,521  9,592,913  9,171,867</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN LEANDRO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

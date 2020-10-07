@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="659827" id="root" date="1997-06-13" xml:lang="en">
+<title>USA: Broadway &amp; Seymour names Hall CFO.</title>
+<headline>Broadway &amp; Seymour names Hall CFO.</headline>
+<dateline>CHARLOTTE, N.C. 1997-06-13</dateline>
+<text>
+<p>Broadway &amp; Seymour Inc said Friday that it has named Keith Hall chief financial officer, effective July 1, 1997.</p>
+<p>Hall was previously chief financial officer for Loctite Corp. He succeeds David Finley, who will continue to serve on Broadway &amp; Seymour's board.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

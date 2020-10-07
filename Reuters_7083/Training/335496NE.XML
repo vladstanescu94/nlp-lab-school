@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="335496" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: CyberCash starts Web payment service.</title>
+<headline>CyberCash starts Web payment service.</headline>
+<dateline>RESTON, Va. 1997-01-27</dateline>
+<text>
+<p>CyberCash Inc and three partners are launching an electronic payment service for the Internet with a series of pilot programs expected to lead to a broad rollout in the 1997 second half, CyberCash said Monday.</p>
+<p>Partners include Princeton Telecom ; International Billing Services, a unit of USCS International Inc, and Electronic Funds and Data Corp.</p>
+<p>First Union Corp and National Bank of Canada are also participants.  </p>
+<p>The consumer downloads an electroinc wallet that can be obtained from a CyberCash site or the site of one of the bank participants.</p>
+<p>Crone said the service can be used with a personal computer or Web TV that has access to the Internet. He said the difference between the service and rival products is that PayNow lets the user go to the biller's site on the Internet and see his statement, or the biller will send the statement via electroinc mail.</p>
+<p>Bills can be paid with cash from the electronic wallet, with a credit card, or by debiting against a checking account.</p>
+<p>Crone said the service is compatible with virtually every U.S. bank, thrift and credit union via the National Automated Clearing House Association (NYCHA).</p>
+<p>CyberCash, founded more than two years ago and public since February 1996, will book revenue by charging the biller a transaction fee. Billers are expected to offer PayNow as a free service or at a nominal fee.</p>
+<p>&quot;Billers will be able to cut their costs by more than 50 percent and at the same time increase interaction with their customers on a one-to-one basis,&quot; Crone said. &quot;Consumers will have a new avenue for paying their bills.&quot;</p>
+<p>((-- Cal Mankowski, New York Newsdesk 212 859 1732))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

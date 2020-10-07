@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="683282" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: Oracle unveils database upgrade, NC software.</title>
+<headline>Oracle unveils database upgrade, NC software.</headline>
+<dateline>NEW YORK 1997-06-24</dateline>
+<text>
+<p>Database software company Oracle Corp. unveiled a line of new products Tuesday, including its much-anticipated database upgrade, Oracle8, calling it the lowest cost, most reliable, and safest place to store data.</p>
+<p>At a splashy product introduction at Radio City Music Hall, chairman and CEO Larry Ellison demonstrated both Oracle8, and new software for the Network Computer, a low-cost appliance to access corporate networks and the Internet.</p>
+<p>&quot;Oracle8 offers unprecedented economies of scale,&quot; Ellison said. &quot;It's the lowest cost place for you to put your data, the most economical place to put all of your data, the most reliable place to put all of your data and the safest place.&quot;</p>
+<p>The $5.6 billion database software company said that Oracle8 can support 10 times as many users and it is about 10., times as fast as its previous version, Oracle7.</p>
+<p>&quot;Oracle8 is simply ten times better than Oracle7,&quot; Ellison said. He demonstrated Oracle8 as it searched a database of 1.3 billion records, stored on four Hewlett-Packard computers, with mirroring capabilities so that the data would be able to be retrieved in the event of a system failure. Oracle8 found the answer to the complex query in 11 seconds.</p>
+<p>Oracle8 is available immediately in 26 languages, at a base price of $1,475 in the U.S. for a five-user license.</p>
+<p>Oracle shares were up $1.625 to $49.875 on Nasdaq.</p>
+<p>Ellison said Oracle8 can be the repository of all data on a corporate network, as he evangelized the concept of network computing, with all data stored in centralized Oracle databases in secure systems that never crash. Oracle databases currently store and manage up to 55 percent of the world's structured information, the company said.</p>
+<p>Oracle dominates the database software business but it is seeing increased competition from Microsoft Corp.'s lower cost SQL Server software. Intertional Business Machines Corp.'s DB2 software is dominant in some sectors of the market, such as banking transactions, and it is number two behind Oracle.</p>
+<p>&quot;We are here to talk about the next generation of computing, network computing,&quot; he said. &quot;This new generation is overdue, it's the beginning of a new age.&quot;</p>
+<p>Ellison made plenty of Microsoft Corp. jabs throughout his demonstration, especially when he showed the Network Computer, saying that the PC is a difficult, expensive device that many families still cannot afford or understand. Ellison likened the NC to an appliance like the television or the telephone.</p>
+<p>&quot;The Network Computer is just another simple appliance that you plug in and turn on,&quot; he said. &quot;I'd like to pat myself on the back and say this simple idea was mine, but it's not my idea, it seems every network we use is built using this idea. The television network is accesssed by a simple, low-cost appliance that everyone can afford.&quot;</p>
+<p>He said new NCs from both RCA and Zenith will be available in stores in September starting at around $295.</p>
+<p>Oracle's Network Computer Inc. subsidiary unveiled its NC Server software, which delivers a low-cost method for deploying network computers. NC Server software provides all of the software needed to quickly set up and support a network of NCs.</p>
+<p>Oracle also unveiled its &quot;Network-In-a-Box&quot; programme, a network computer system. It consists of NCI's software and NCI hardware partners' products, and will be available in July for $4,995, the company said.</p>
+<p>Ellison also announced the formation of Oracle's Promise, a non-profit foundation chartered with placing a network computer on every child's desk with $100 million from Oracle.</p>
+<p>Ellison was briefly joined on the stage by General Colin Powell, chairman of &quot;America's Promise,&quot; a non-profit organisation chartered to improve the lives of disadvantaged youths, thanking Ellison for his contribution.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

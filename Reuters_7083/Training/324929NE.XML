@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="324929" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Today's software makes cleaning Windows easier.</title>
+<headline>Today's software makes cleaning Windows easier.</headline>
+<byline>Gene Emery</byline>
+<dateline>PROVIDENCE, R.I.</dateline>
+<text>
+<p>It's time for tips for people whose New Year resolutions included cleaning out some of the unused software cluttering up their hard drives.</p>
+<p>The good news is that many software developers have matured beyond the days when they believed that nobody in their right mind would want to remove their Windows programme from a machine, which meant that the de-installation process was a major chore best left to specialised programmes.</p>
+<p>Today, all the good, consumer-friendly software comes with a programme for removing the product with the click of a mouse. The main challenge is finding where the programme is located.</p>
+<p>For PC owners, particularly those running Windows 95, here are a few things to try.</p>
+<p>First, put the game's CD-ROM in your computer. Windows 95 users may discover that the screen that pops up has its own &quot;uninstall&quot; button. Click on it.</p>
+<p>You may find that the programme stops short of completely uninstalling the game because it knows that some of the associated software may be needed by other programmes. In such cases, it's best to leave the associated software on your hard disk.</p>
+<p>If you don't see an &quot;uninstall&quot; button on the opening screen, go to the area where you activate the game, such as its Programme Group in Windows 3.1 or the &quot;Programs&quot; area of Windows 95. There may be a separate icon (or a separate line for Windows 95 users) that says &quot;Uninstall.&quot; Again, simply clicking on it should do the trick.</p>
+<p>Uninstall programmes aren't perfect, even if they come from the software's developer. When I tried to remove the cartoon game &quot;ToonStruck,&quot; I found some lingering files and folders disguised under the name &quot;Burst&quot; hiding in a odd area.</p>
+<p>If the game doesn't have an uninstall programme built in, open up the &quot;Read Me&quot; file. It may have directions on how to properly remove the game.</p>
+<p>If you strike out there, Windows 95 users can check to see if the game is designed to be removed using the Windows 95 uninstall feature. Click the &quot;Start&quot; button, then &quot;Settings,&quot; then &quot;Control Panel,&quot; and then the &quot;Add/Remove Programs&quot; icon. At the Install/Uninstall tab, scroll down to see if your programme is listed. If it is, click on the name, then click on the &quot;Add/Remove&quot; button.</p>
+<p>If that doesn't work, act as if you're trying to re-install the programme. Sometimes, during the first few steps, you'll be given the option to remove the game. If you don't see that option appear, cancel out of the installation process.</p>
+<p>Beyond this, things get more complicated.</p>
+<p>Consider a fictious game like &quot;The Blubber Brothers Breathe Benzene.&quot;</p>
+<p>To find where the game is located, find its icon. For Windows 95, use the right mouse button to click on the &quot;Start&quot; button, then use the left mouse button to click on &quot;Open&quot; and &quot;Programs.&quot; From there, keep opening the various folders until you find the icon you want. Highlight it. (Windows 3.1 users can simply highlight the icon when they find the right programme group).</p>
+<p>Next, pull down the &quot;File&quot; menu and click on &quot;Properties.&quot; Click on the &quot;Shortcut&quot; tab and look for a line that says something like C:/ProgramFiles/blubber/blubber.exe. When in doubt, choose the longest line and look for the words that seem associated with the game.</p>
+<p>Be careful. In this case, &quot;blubber&quot; and &quot;blubber.exe&quot; apply to the game. If you go to the &quot;Files&quot; section of Windows 3.1 (or the &quot;Windows Explorer&quot; area of Windows 95) and delete everything in the &quot;ProgramFiles&quot; subdirectory, you'll probably destroy something you don't want touched.</p>
+<p>This technique may also miss chunks of the programme that reside in other corners of the computer. Activating the &quot;Find&quot; command, then telling the computer to search for every programme with the word &quot;blubber,&quot; &quot;brothers,&quot; &quot;breathe&quot; or &quot;benzene&quot; may help pinpoint wayward files, but there's no guarantee.</p>
+<p>All of this complexity explains why programmes that specialise in removing Windows-based software have been so popular.</p>
+<p>There's less risk in removing games that run on DOS. Many won't show up as icons on a Windows screen. You have to go to the &quot;Files&quot; or &quot;Windows Explorer&quot; programme and pinpoint their subdirectory. &quot;Duke Nukem 3-D,&quot; for example, is found in the &quot;Duke3d&quot; subdirectory. But you still have to be wary of command lines in other files that refer to the game. Searching for a phrase like &quot;duke&quot; in all the files on your hard disk might help you pinpoint and remove imbedded instructions you no longer need.</p>
+<p>A lot of the headaches can be avoided by keeping an &quot;Installation log&quot; at your computer. Each time you install a programme, note the date, the name of the programme, the subdirectory where it is being placed, and any information you notice about how to uninstall it.</p>
+<p>Then, when it's time to remove it, you won't have to remember how.</p>
+<p>    -   -   -   -</p>
+<p>(Gene Emery is a columnist who covers science and technology. His Internet address is gene.emery(at)prodigy.com. Any opinions in the column are his alone.)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PROVIDENCE, R.I."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

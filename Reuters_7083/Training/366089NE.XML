@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366089" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: PeopleSoft shares drop amid broad sell-off.</title>
+<headline>PeopleSoft shares drop amid broad sell-off.</headline>
+<dateline>NEW YORK 1997-02-10</dateline>
+<text>
+<p>PeopleSoft Inc stock tumbled as much as six points on Monday, pulled down by a broad sell-off in the technology sector and specific concerns that the company share price no longer could command a mutiple to earnings of more than 100 times.</p>
+<p>Traders and analysts said PeopleSoft's decline came in the absence of any fresh news from the company since it reported slightly better-than-expected fourth-quarter results last Tuesday. The company was not immediately available to comment.  </p>
+<p>The earnings report was followed by a wave of upgrades by analysts, including Goldman Sachs' Rick Sherlunds, who placed the stock on the firm's recommended list. He previously rated the stock as market outperform.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

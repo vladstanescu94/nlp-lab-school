@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167300" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Oracle to unveil NC based on Intel Pentium.</title>
+<headline>Oracle to unveil NC based on Intel Pentium.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-11-04</dateline>
+<text>
+<p>Oracle Corp will unveil on Tuesday a version of its network computer (NC) based on Intel Corp's Pentium chip -- a development it hopes will help NCs battle for market share against new rivals based on Pentiums and Microsoft Corp's Windows software.</p>
+<p>Jerry Baker, president of Oracle's Network Computer Inc subsidiary, said Oracle will demonstrate a NC built around Pentium at its Oracle Open World show which opens Tuesday.</p>
+<p>Baker said in an interview that he believes Intel will be &quot;lining up PC suppliers&quot; to build the NC devices.  </p>
+<p>Oracle's new Pentium-based computer will be simpler than standard PCs, with no hard disk and no floppy disk drive. But Baker said its design includes PCI bus technology developed by Intel and 16 megabytes of memory. He said Pentium-based NCs should be available within the first three months of 1997.</p>
+<p>&quot;This device is going to be marketed toward the corporate market,&quot; Baker said. &quot;We believe we can produce the device for under $700.</p>
+<p>Intel's backing of the new Oracle computer obfuscates the sides in the upcoming battle for market share between NCs and a new rival to the NC produced by Intel and Microsoft.  </p>
+<p>A week ago, Intel and Microsoft -- the &quot;Wintel&quot; duo that dominates the PC market Oracle is trying to weaken with its NC -- launched its own new &quot;networking computer.&quot;</p>
+<p>Intel had previously been cool in its support of Oracle's NC, with Intel officials saying they are happy to sell chips to whoever wants to buy them but are not advocating NCs to the market. Intel Vice president Pat Gelsinger, in charge of Internet based products, reiterated that stance last week when Microsoft and Intel unveiled their networking computer idea.  </p>
+<p>However Baker today said that &quot;Intel has been very supportive as we've been developing this Intel-based architecture.&quot; Also, he said, &quot;I think they'll be lining up PC suppliers to build these devices.&quot;</p>
+<p>Oracle itself is in discussions with &quot;several&quot; PC makers to manufacture Pentium-based NCs, he said. He would not disclose their names.</p>
+<p>Oracle's existing NC design is based on an Advanced Risc Machines Corp chip. No major U.S. PC maker has said it would make an NC based on Oracle's NC design, although International Business Machines Corp is making a similar machine based on similar open Internet standards.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

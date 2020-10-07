@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565201" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Borland sues Microsoft. [corrected 23:40 gmt]</title>
+<headline>Borland sues Microsoft. [corrected 23:40 gmt]</headline>
+<dateline>SCOTTS VALLEY, Calif. 1997-05-07</dateline>
+<text>
+<p>Software company Borland International Inc. said Wednesday it has filed a lawsuit against Microsoft Corp. alleging unfair competition that Borland said impaired its financial turnaround plans.</p>
+<p>Borland said the lawsuit, filed in California's Santa Clara County, charges Microsoft with recruiting and hiring Borland employees &quot;for the specific purpose of damaging Borland's ability to compete with Microsoft in the development tools market and to slow the company's financial turnaround.&quot;  </p>
+<p>Specifically, Borland said Microsoft has over the last 30 months hired at least 34 of what Borland said were its top software architects, engineers and marketing managers.</p>
+<p>The lawsuit, filed in California Superior Court, said these actions were undertaken &quot;for wrongful purposes: to acquire Borland confidential information and to inhibit Borland's competitive position.&quot;</p>
+<p>Senior executives of Microsoft's legal department were not immediately available to comment on the action, which is the latest in a series of corporate lawsuits and antitrust actions filed on behalf of Silicon Valley companies, many of them by the Palo Alto law firm of Wilson Sonsini Goodrich &amp; Rosati.</p>
+<p>One well known case brought by another law firm was Apple Computer Inc.'s lawsuit against Microsoft and Hewlett-Packard Co. over charges they absconded with the &quot;look and feel&quot; of Apple's Macintosh computer, fizzled in the early 1990s as court rulings eliminated the basis for Apple's claims. (Corrects to clarify Wilson Sonsini Goodrich &amp; Rosati was not the law firm that represented Apple Computer).</p>
+<p>Accusations of rivals seeking to steal company secrets have heated up this year, with Informix Software Inc. suing its neighbor and database rival Oracle Corp. after Oracle hired away several Informix engineers.</p>
+<p>Delbert Yocam, chief executive officer of Borland, said in a statement he believes the lawsuit has important ramifications for the industry.</p>
+<p>Borland's strategy of enabling customers to operate across a variety of computer systems he said was a &quot;a significant threat to Microsoft's goal of a single operating system dominating the enterprise,&quot; he said.</p>
+<p>&quot;We must protect ourselves from what we believe is a systematic and unfair effort to impair our company's ability to compete and continue to deliver leading development tools that support open industry standards,&quot; he said.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau +1415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTS VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

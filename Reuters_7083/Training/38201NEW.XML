@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38201" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Xcellenet names CFO Sack COO, exec VP.</title>
+<headline>Xcellenet names CFO Sack COO, exec VP.</headline>
+<dateline>ATLANTA 1996-09-06</dateline>
+<text>
+<p>XcelleNet Inc said on Friday it had promoted chief financial officer Sidney V. Sack to executive vice president and chief operating officer.</p>
+<p>As chief operating officer, Sack will be responsible for global sales, customer operations and relationships with Microsoft Solution Partners and other channel partners.</p>
+<p>Sack joined XcelleNet as CFO in September 1990 after 10 years in financial and operational management positions with several software companies in Atlanta. Further details were not immediately available.</p>
+<p>In other management changes, the company said Robert I. Apollo was recently hired as vice president and general manager - Europe and will report to Sack.</p>
+<p>Joseph W. Owen also was recently promoted to vice president of product technology. He joined XcelleNet in 1989 and was director of product management in the marketing department.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

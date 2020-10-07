@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115923" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Multicom sees Q1 revs below estimates.</title>
+<headline>Multicom sees Q1 revs below estimates.</headline>
+<dateline>SAN FRANCISCO 1996-10-15</dateline>
+<text>
+<p>Multicom Publishing Inc said Tuesday it expects revenues for its first fiscal quarter to be $1.5 million, 20 percent above the year-ago result but below but lower than analysts' expectations.</p>
+<p>Analysts' estimates, for the quarter ended September 30, were not available.</p>
+<p>The company attributed the lower than expected increase in revenue primarily to changes in purchasing patterns and lower stocking of inventories for CD-ROM products in the traditional software distribution channel and the recent industry-wide consolidation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

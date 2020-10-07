@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="482651" id="root" date="1997-04-02" xml:lang="en">
+<title>USA: Firm buys majority stake in Software AG U.S. unit.</title>
+<headline>Firm buys majority stake in Software AG U.S. unit.</headline>
+<dateline>RESTON, Va. 1997-04-02</dateline>
+<text>
+<p>Software AG Americas said Wednesday that Thayer Capital Partners has purchased a majority stake in the company, creating a new independent software and services company.</p>
+<p>The terms of the purchase were not disclosed.</p>
+<p>Thayer Capital Partners is a private equity investment firm based in Washington, D.C.</p>
+<p>Software AG Americas is the U.S. unit of Software AG of Germany.  </p>
+<p>Software AG Americas, which was founded in 1972, said it will continue to sell and support existing products as well as future products developed by Software AG, Germany.</p>
+<p>It said the members of the board of the new Software AG Americas will be Philip Dauber; Daniel Gillis;  Erwin Koenigs, chairman of Software AG, Germany; Rick Rickertsen; and Paul Stern, Thayer's founder and partner.</p>
+<p>Software AG Americas had 1996 revenues of over $162 million. It employs more than 700 and serves the financial, insurance, transportation, state and local government, and higher education markets. It has exclusive rights to distribute and service SOFTWARE AG products in North and South America, Japan, and Israel.</p>
+<p>Thayer manages Thayer Equity Investors III, a private fund whose goal is to profit from acquisitions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

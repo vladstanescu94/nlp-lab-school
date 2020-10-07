@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13068" id="root" date="1996-08-25" xml:lang="en">
+<title>USA: Computer Associates starting Web unit - sources.</title>
+<headline>Computer Associates starting Web unit - sources.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1996-08-25</dateline>
+<text>
+<p>Computer Associates International Inc will unveil on Monday a new Internet business unit that provides one-stop hosting and managing of corporate Web sites, sources close to the company told Reuters.</p>
+<p>Launching the new business unit is one of several major announcements the company is expected to make at its three-day CA World conference that starts Sunday in New Orleans.</p>
+<p>In addition, the business software firm has slated separate press events with Microsoft Corp, Intel Corp and Tandem Computers Inc Monday and Tuesday.  </p>
+<p>Microsoft chairman Bill Gates is scheduled to deliver a keynote speech Tuesday evening that is likely to center on the further integration of CA and Microsoft software strategies.</p>
+<p>Computer Associates declined to comment on announcements that may be in the works. Specifically, CA officials would not discuss plans to launch a separate Internet business unit.</p>
+<p>But sources familiar with CA's plans confirmed that a new Internet unit has been formed to help customers create dynamic Web sites tied to internal corporate database systems.  </p>
+<p>&quot;Computer Associates wants to ride the electronic commerce wave that is coming down the pike,&quot; said one source familiar with the CA Internet unit strategy.</p>
+<p>&quot;CA will provide a company the capacity for electronic commerce sites in return for a revenue-sharing arrangement,&quot; he said.</p>
+<p>Customers would be offered turn-key systems that would allow them to erect a sophisticated business presence on the Web. A special CA focus would be to make customer information stored on legacy mainframe systems available via the Web.  </p>
+<p>Web-based electronic commerce tools would tie the system directly to a company's back-office accounting department.</p>
+<p>A set of basic pricing plans for the services will be disclosed Monday, starting at a minimum of $5,000 to $20,000. Pricing will be kept low by revenue sharing deals in which CA takes a cut of transactions done on the customer's Web site.</p>
+<p>Morgan Stanley analyst Chuck Philips, who is attending the show, said he expected that the unit's main focus would be to provide Internet infrastructure equipment rather than making an extensive push into the computer consulting business.  </p>
+<p>Company information would be delivered to a Web browser using CA-OpenIngres database software and CA-Unicenter TNG systems management tools and other Web management software.</p>
+<p>CA's Internet system also will take advantage of its Jasmine multimedia object-oriented database for combining not just text but voice, graphics and video into an information management system that can be used for electronic commerce.</p>
+<p>For example, a shoe company's catalog could be published over the Internet with detailed product descriptions and pricing which could be instantly updated as changes occurred.  </p>
+<p>The division will account for only a few hundred out of CA's 9,000 total employees, the sources said.</p>
+<p>The planned business, which has been in the works since April, would be a natural extension of CA's systems management and database products target its existing customer base of the world's largest corporations, as well as smaller firms.</p>
+<p>The new unit would involve CA providing customers various levels of operations managment support, the sources said.</p>
+<p>Customer data storage would be hosted on CA mainframes, an unusual feature compared to the hundreds of other Web service providers, who tend to leave information management in the hands of customers once Web site development work is complete.</p>
+<p>In effect, Computer Associates' plans would resurrect the mainframe time-sharing business, where companies rent time and space on remote computers and pay service providers to assume responsibility for the headaches of managing the systems.</p>
+<p>Computer Associates stock, which has been trading at historic highs recently, closed at 58-1/4, up 1 point Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

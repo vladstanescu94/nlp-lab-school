@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366084" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Take-Two Interactive Software Inc files IPO.</title>
+<headline>Take-Two Interactive Software Inc files IPO.</headline>
+<dateline>WASHINGTON 1997-02-10</dateline>
+<text>
+<p>Take-Two Interactive Software Inc filed Monday an initial public offering with the Securities and Exchange Commission for 1.6 million common shares and 1.6 million warrants to buy shares.</p>
+<p>The New York City-based developer and publisher of interactive software games said it will use net proceeds from the offering for software development, product acquisition, expansion of production capacity, working capital and general corporate purposes.</p>
+<p>The company said net proceeds from the sale of the securities are estimated to be about $6,539,200.  </p>
+<p>Underwriter Whale Securities Co LP has an overallotment option on 240,000 additional shares and/or 240,000 additional warrants.</p>
+<p>The company anticipates its common stock will be traded on Nasdaq under &quot;TTWO&quot; and its warrants under &quot;TTWOW.&quot;</p>
+<p>The filing did not list an initial public offering price for the stocks but it said each warrant entitles the holder to buy one share of common stock for $5 per share at an undisclosed date from 1998 through 2002.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

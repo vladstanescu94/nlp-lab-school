@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560912" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Ex-Novell engineers accused of theft - WSJ.</title>
+<headline>Ex-Novell engineers accused of theft - WSJ.</headline>
+<dateline>NEW YORK 1997-05-05</dateline>
+<text>
+<p>Novell Inc has filed a suit against three former engineers and their start-up company, alleging they stole software technology and breached employment contracts with Novell, the Wall Street Journal said in Monday's electronic edition.</p>
+<p>The Journal said the suit also alleged trademark infringement, as Wolf Mountain, the name of their start-up company, is also the name of a new Novell product the men helped develop.</p>
+<p>The company's Wolf Mountain technology used a clustering technique which enabled dozens of computers to act together like one machine, the newspaper said.</p>
+<p>Some analysts viewed the software technology as a good weapon against rival Microsoft Corp, it said.</p>
+<p>The three men named in the suit have denied charges but changed the company's name after Novell won a temporary restraining order in the case, the paper said.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

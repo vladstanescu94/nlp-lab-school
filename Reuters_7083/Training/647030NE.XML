@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647030" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Compaq unveils aggressive new NT-based workstations.</title>
+<headline>Compaq unveils aggressive new NT-based workstations.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO, Calif.</dateline>
+<text>
+<p>Compaq Computer Corp. Corp. Monday unveiled two powerful workstation models just seven months after entering the market for high-end desktops based on Intel processors and Microsoft's Windows NT.</p>
+<p>The new products, offered at prices below what some in the industry had expected, represent another aggressive move by the PC maker, which Dataquest said captured second place in the Windows NT workstation market in the first quarter.</p>
+<p>Shares of Compaq rose 87.5 cents to $103.875 in consolidated trading on the New York Stock Exchange.</p>
+<p>Workstations are powerful, number-crunching computers used on the desktops of engineers and graphics designer.</p>
+<p>For years, the machines have been the domain of companies like Sun Microsystems Inc., Hewlett-Packard Co., Digital Equipment Corp., International Business Machines Corp. and Silicon Graphics Inc.</p>
+<p>But while those systems have been based on various proprietary products and customized implementations of the Unix operating system, Windows NT and speedier Intel processors are shifting the market toward cheaper, high-volume technology.</p>
+<p>For example, Compaq said its new Compaq Professional Worrkstation 6000, configured with a 17-inch monitor at an estimated street price of $13,018, outperforms in benchmark tests a Sun Ultra 2-2300, priced with monitor at $38,295.</p>
+<p>Compaq said its Intel Pentium II-based 6000 model line was available now starting at $4,200, while its Compaq Professional Workstation 8000, equipped with two Intel Pentium Pro processors, will be available next week starting at $11,400.</p>
+<p>Compaq also said it was also reducing the price of its 3D models of its original Professional Workstation 5000, introduced in late October, by up to 18 percent.</p>
+<p>John Rose, senior vice president of Compaq and general manager of its Enterprise Computing Group, said the company expects to exceed its goal of shipping 100,000 workstations within the first 12-15 months after it entered the business.</p>
+<p>Rose said the company's higher-end, so-called &quot;enterprise computer&quot; business accounted for 29 percent of Compaq's revenues in the first quarter, comprised mostly of powerful server computers that run networks of workstations.</p>
+<p>With the help of the new workstation lines, Compaq plans to increase this business to account for 50 percent of Compaq's revenues by the year 2000, Rose told Reuters in an interview.</p>
+<p>&quot;The enterprise is clearly strategic,&quot; Rose said.</p>
+<p>Peter ffoulkes, an analyst at market research firm Dataquest, said Compaq in its first full quarter of NT workstation delivery ranked second in the market with 29 percent of unit shipments after Hewlett-Packard's 37.3 percent, and second-ranking revenue market share, with 24.9 percent after Intergraph Group Inc.'s 25.3 percent.</p>
+<p>This was &quot;a remarkable performance&quot; for a company with no prior established workstation business, he said.</p>
+<p>Although ffoulkes said it was premature to predict more than potential Windows NT workstation market leaders, NT-based workstations made up 23.6 percent of overall workstation unit shipments and 12.4 percent of the overall workstation industry's nearly $3.5 billion in first quarter-revenues.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

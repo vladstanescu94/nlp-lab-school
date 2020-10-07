@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118157" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Netscape to outline new products and strategy.</title>
+<headline>Netscape to outline new products and strategy.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-10-14</dateline>
+<text>
+<p>Netscape Communications Corp., in the thick of battle against Microsoft Corp. for the Internet market, will outline its strategy for maintaining its lead on Tuesday at a meeting with press and analysts.</p>
+<p>Dubbed &quot;Netscape Strategy Day,&quot; Netscape officials will describe product plans in the market for corporate intranets -- the part of the Internet market where Netscape makes 80 percent of its revenues and which analysts say Netscape needs to shore up its dominance to avoid being shoved aside by Microsoft.</p>
+<p>&quot;We will unveil our vision and direction for 1997, which is to meet the needs of the enterprise customers who are building intranets and Internet applications using Netscape software,&quot; said Netscape's spokeswoman Andrea Cook.</p>
+<p>What Netscape needs to describe, analysts say, are the details behind its many announcements of the past six months about its server and browser products constituting a computer &quot;platform&quot; for Internet/intranets applications.</p>
+<p>Specifically, analysts are interested in details of the company's Netscape ONE and AppFoundry, which they view as key to its strategy to continue as an Internet leader.</p>
+<p>&quot;A key component will be Netscape ONE and AppFoundry,&quot; said Clay Ryder, analyst and Netscape watcher from Zona Research Inc. &quot;I fully expect them to build on those and make some additional statements of people participating and involved in the platform.</p>
+<p>Netscape ONE is software that developers can use to write programs for the Internet based on Netscape Internet browsers and servers. Netscape AppFoundry provides programming tools and assistance to software developers developing Internet programs.</p>
+<p>&quot;They need to justify what they've been doing. A large portion of Netscape's servers is as an alternative development platform to Windows,&quot; Ryder said. &quot;They need to articulate that but also show they have the tools and partnerships to allow people to affect applications.&quot;</p>
+<p>Windows is Microsoft's operating system used by 80 percent of all personal computers, but is not the platform of choice for the Internet, which is typically done on Unix-based machines from corporations and universities.</p>
+<p>Gartner Group analyst David Smith expects some new product announcements integrating e-mail, collaboration and Internet directories into Netscape existing browser and server technologies.</p>
+<p>&quot;I expect Netscape to outline their plan for fulfilling a lot of the things they've been talking about recently -- a next generation server and browser and the Netscape ONE platform. I expect them to demonstrate that and an e-mail strategy,&quot; Smith said. &quot;This is an opportunity for them to crystalize all they've been talking about for the last six months, to bring it all together and show people it is real.&quot;</p>
+<p>James Barksdale, Netscape president and chief executive officer, and Marc Andreessen, senior vice president and chief technology officer, will speak to press simultaneously in New York and London, while Eric Hahn, senior vice president for enterprise technologies, will address a group in Mountain View, California.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

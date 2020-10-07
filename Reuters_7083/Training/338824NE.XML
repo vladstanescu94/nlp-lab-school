@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="338824" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: Health Systems sees Q1 loss $0.17-0.19 shr.</title>
+<headline>Health Systems sees Q1 loss $0.17-0.19 shr.</headline>
+<dateline>OAKLAND, California 1997-01-27</dateline>
+<text>
+<p>Health Systems Design Corp said late on Monday it would report a loss of $0.17 to $0.19 per share and revenues of about $3.3 million for the first quarter ended December 31.</p>
+<p>Wall Street was expecting earnings of $0.02 per share, according to the First Call estimate.</p>
+<p>The company attributed its projection to softness in the quarter and a delay in signing a major contract for its Diamond Client/Server product.</p>
+<p>However, it said in a statement that it expects to be profitable in the full year.</p>
+<p>The company plans to release results in early February.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

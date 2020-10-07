@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254972" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: IBM halts Windows NT development for PowerPC.</title>
+<headline>IBM halts Windows NT development for PowerPC.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>International Business Machines Corp said it and its partners will discontinue development of Microsoft Corp's Windows NT software to run on systems running the PowerPC chip IBM developed with Motorola Inc and Apple Computer Inc.</p>
+<p>IBM was working with Microsoft and Motorola to develop a version of Windows NT for the PowerPC chip, but an IBM spokesman said that they will no longer develop the product.</p>
+<p>An IBM spokesman said that IBM will continue to work with Microsoft to develop PC servers running Windows NT and Intel Corp PentiumPro processors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

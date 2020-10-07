@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141698" id="root" date="1996-10-24" xml:lang="en">
+<title>GERMANY: James Capel cuts SAP EPS estimates.</title>
+<headline>James Capel cuts SAP EPS estimates.</headline>
+<dateline>FRANKFURT 1996-10-24</dateline>
+<text>
+<p>HSBC James Capel said on Thursday it had significantly cut its earnings per share estimates for German software firm SAP AG, after the company issued a profit warning on Tuesday.</p>
+<p>James Capel said it had cut its earnings per share estimate for 1996 to 4.4 marks from 5.8 marks, to 5.9 marks from 7.9 marks for 1997 and to 7.9 marks from 10.5 for 1998.</p>
+<p>&quot;What people had missed before was the slowing of sales growth,&quot; said Brian Wilkinson, German analyst at James Capel.</p>
+<p>SAP shares dived over 20 percent on Wednesday after the company cut its 1996 profit growth forecast to just over 30 percent from 40 percent.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

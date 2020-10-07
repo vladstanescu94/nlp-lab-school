@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="354300" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: AFTER THE BELL - Cisco down at 65.</title>
+<headline>AFTER THE BELL - Cisco down at 65.</headline>
+<dateline>NEW YORK 1997-02-04</dateline>
+<text>
+<p>Cisco Systems Inc was trading at 65 against a close of 67-1/8 on the NASDAQ National Market in after-hours trading after it released second-quarter earnings, traders said Tuesday.  </p>
+<p>After the market closed, Cisco reported second-quarter earnings per share of $0.49, compared to $0.31 for the same period the year before.</p>
+<p>One trader said high-tech stocks had been rebounding near the end of the day, spilling over into after-hours trading. &quot;The market was very strong at the end of the day,&quot; he said.</p>
+<p>Mercury Finance Co was holding at 2-1/4, while Informix was trading at 21-1/4, up from 20-5/8 at the day's close.  </p>
+<p>The New York Stock Exchange said session one had a volume of 57,800 shares against Monday's 10,200. Session two had a volume of 14,624,776. There was no session two on the previous day.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

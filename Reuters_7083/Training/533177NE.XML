@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="533177" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Microsoft Network to add virtual reality service.</title>
+<headline>Microsoft Network to add virtual reality service.</headline>
+<dateline>SEATTLE 1997-04-22</dateline>
+<text>
+<p>ParaGraph International Inc., a Silicon Valley company founded by Russian engineers, will develop a virtual-reality world for Microsoft Corp.'s online Microsoft Network, the two companies said Tuesday.</p>
+<p>Under the arrangement ParaGraph, based in Campbell, Calif., will supply content for the project, code-named &quot;Magic Resort,&quot; and will license its technology for three-dimensional environments to the software giant.</p>
+<p>Terms were not disclosed.</p>
+<p>ParaGraph officials said the project will allow users to create &quot;avatars,&quot; or animated versions of themselves, that can visit online versions of world cities, beginning with Moscow and Paris.</p>
+<p>&quot;This project is a stage in our strategy to create a virtual time machine, in which anybody can visit any city of the world, while at the same time experimenting with his or her identity and behaviour,&quot; said Stepan Pachikov, chairman and chief executive officer of ParaGraph.</p>
+<p>Officials did not say when the service would be available on the Microsoft Network, but a similar project will go live within the next several weeks on People World, Japan's No. 2 online service, a company spokesman said.</p>
+<p>Paragraph, which is privately held, was founded in 1989 by Pachikov, world chess champion Garry Kasparov and several engineers from the Russian Academy of Sciences.</p>
+<p>It currently employs about 150 people, most of whom are based in the company's Moscow development centre.</p>
+<p>In addition to its virtual reality technology, ParaGraph makes handwriting recognition software including a forthcoming version for hand-held computers that use Microsoft's Windows CE operating system.</p>
+<p>Company officials predict that revenues will double to $14 million this year from $7 million in 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

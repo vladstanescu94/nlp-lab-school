@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="414807" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: Intuit finds MacInTax software problem.</title>
+<headline>Intuit finds MacInTax software problem.</headline>
+<dateline>SAN DIEGO</dateline>
+<text>
+<p>Intuit Inc. said Monday it notified all customers who electronically filed their tax returns using its MacInTax programme that they may have filed an incomplete return because of a software problem.</p>
+<p>It said it estimates the problem affects less than one-half percent of all the returns filed electronically with MacInTax.</p>
+<p>A company spokeswoman said the problem affects only those customers who filed their returns prior to March 1, and who failed to save their work immediately prior to electronically filing.</p>
+<p>&quot;We understand the importance of accuracy in financial matters, which is why we stand 100 percent behind our customers,&quot; said Larry Wolfe, vice president and general manager of Intuit's Personal Tax Division.</p>
+<p>&quot;This situation involving MacInTax is absolutely covered under our guarantee. If a customer has filed an incomplete electronic return with MacInTax, Intuit will pay the penalty plus any interest assessed by the IRS.&quot;</p>
+<p>Those returns were sent in an incomplete form, containing only the material that was last saved. However, after March 1, the company added a feature to detect those incomplete filings and notify customers.</p>
+<p>Intuit's stock was off $1.125 at $21.50 on the Nasdaq market.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

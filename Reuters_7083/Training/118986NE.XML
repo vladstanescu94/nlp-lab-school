@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118986" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Informix says Q3 database sales grew 50 pct.</title>
+<headline>Informix says Q3 database sales grew 50 pct.</headline>
+<dateline>MENLO PARK 1996-10-16</dateline>
+<text>
+<p>Informix Corp said revenues from its core product, database software, grew 50 percent in the third quarter from a year ago, which it said means it is the fastest growing database company.</p>
+<p>Total revenues grew 30 percent in the third quarter.</p>
+<p>Informix's earnings of $0.17 a share for the third quarter were one cent short of Wall Street's $0.18 a share mean estimate as compiled by First Call.</p>
+<p>Year-ago earnings, restated to reflect acquisitions, were $0.16 a share for the quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

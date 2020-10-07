@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="617502" id="root" date="1997-05-27" xml:lang="en">
+<title>USA: LanVision Q1 April 30 loss widens.</title>
+<headline>LanVision Q1 April 30 loss widens.</headline>
+<dateline>CINCINNATI 1997-05-27</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss		   $0.32     loss	 $0.12</p>
+<p> Net loss		   2,846     loss	   780</p>
+<p> Revs			 2,113		    2,113</p>
+<p> Avg shrs		   8,886		    6,405</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE:  LanVision Systems Inc said its net income for the first quarter of 1997 included about $250,000 of non-recurring expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

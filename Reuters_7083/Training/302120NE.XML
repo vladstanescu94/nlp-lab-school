@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302120" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Microsoft set to launch new version of Office.</title>
+<headline>Microsoft set to launch new version of Office.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-01-13</dateline>
+<text>
+<p>Microsoft Corp. faces increasingly stiff competition and some skeptical corporate customers as it launches the latest version of its hugely profitable Office suite of applications.</p>
+<p>Company Chairman Bill Gates has predicted Office 97 will be the biggest upgrade ever in percentage terms for the market-dominating product, which has an installed base approaching 50 million users including component applications such as Word and Excel.</p>
+<p>While early reviews of Office 97 have been positive, industry analysts said corporate users in particular will take a hard look before deciding whether the dozens of new features are worth an upgrade investment of $200 per seat or more.</p>
+<p>&quot;Corporations are realizing they don't need to upgrade their office suite environment nearly as often as Microsoft would like them to,&quot; said Michael Pinckney, research director for the Gartner Group.</p>
+<p>By most estimates Microsoft dominates the market for desktop productivity suites, capturing more than 90 percent of revenues.</p>
+<p>Office and its component applications have been a key driver for the company's earnings, contributing some $1.8 billion of Microsoft's $8.4 billion in sales for the fiscal year that ended June 30, 1996, estimated analyst Scott McAdams of Ragen MacKenzie.</p>
+<p>He projected Office would account for nearly $3 billion of a total $10.2 billion in revenues this year.</p>
+<p>&quot;There's no question, it's enormous,&quot; he said.</p>
+<p>In addition to its financial importance the new Office is filled with Internet hooks designed to drive broader acceptance of Microsoft's Internet Explorer browser, &quot;so it's an important product strategically,&quot; McAdams said.</p>
+<p>But Microsoft, which will launch the product Thursday at a glitzy media event featuring Gates on the stage of New York's Alice Tully Hall, faces increasingly aggressive competition from Canada's Corel Corp. and International Business Machines Corp.'s Lotus unit.</p>
+<p>Corel, which uses WordPerfect word-processing software as the core of its suite, made a significant dent in Microsoft's retail market share in the second half of last year, according to PC Data.</p>
+<p>&quot;Corel has proven that if a competitor has the right offering at the right price point, even Microsoft is vulnerable -- at least temporarily,&quot; said Liz Buyer of T.Rowe Price in a newsletter.</p>
+<p>And Corel has gotten a jump on the market by announcing a new version of its suite based on Java, the Internet-friendly programming language.</p>
+<p>Analysts say the emergence of network computers and their &quot;thin client&quot; applications pose no immediate threat to Microsoft Office, which demands over 100 megabytes of hard disk space for a standard installation.</p>
+<p>&quot;Over time you will move toward a more Internet-intranet driven model, where the basic applications reside inside your Internet structure and you download it as you need it, but that's going to take a few years,&quot; said Tim Bajarain, president of Creative Strategies consulting.</p>
+<p>In the near term, the biggest threat to Office 97 is intertia, analysts said.</p>
+<p>Most Office users take advantage of only a small percentage of features as it is.</p>
+<p>Analysts are divided on whether significant demand will be driven by Office 97 features including a built-in system to track appointments and phone numbers and animated assistants to guide users through tasks.</p>
+<p>More importantly, many large enterprise users have not upgraded to the Windows 95 or Windows NT operating systems, which are required to use Office 97.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

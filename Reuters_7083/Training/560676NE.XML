@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560676" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Microsoft chief accents service firms' importance.</title>
+<headline>Microsoft chief accents service firms' importance.</headline>
+<dateline>ORLANDO, Fla. 1997-05-04</dateline>
+<text>
+<p>Microsoft chairman Bill Gates told a legion of independent Microsoft service providers that the software giant's future depended on its success with computer networks and the Internet, and that the independent service providers were a key to that success.</p>
+<p>He said others in the industry, such as IBM and Oracle, derive up to a third of their revenue from service divisions that work directly with business clients, while Microsoft relies on independent companies to show the firms how Microsoft software can meet their individual needs.  </p>
+<p>Some of Microsoft's independent service providers are as small as three or four person operations and others have as many as several hundred employees, a Microsoft spokesman said. &quot;Every business today is asking, 'what is our electronic presence?',&quot; Gates said, referring to increasing corporate trends toward meeting their customers' needs via the Internet.</p>
+<p>&quot;If you want to help a person's business, you have to understand that person's business.&quot; he said. &quot;We don't have that expertise at Microsoft.&quot;</p>
+<p>&quot;You do,&quot; he told the 2,300 service providers at Orlando's Orange County Convention Center.</p>
+<p>Worldwide, Microsoft has more than 13,000 companies working as service providers up from zero four years ago, a company statement said.</p>
+<p>Gates said the explosive growth of the independent service support system is due largely to the recent success of Microsoft NT network software and the company's parallel success with the Internet.</p>
+<p>Gate's appearance at the Orlando convention called Fusion 97 was  meant to signal the growing importance of Microsoft's partnership with independent service providers, a company spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

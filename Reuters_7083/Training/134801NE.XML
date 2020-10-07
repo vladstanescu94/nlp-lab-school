@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134801" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Microsoft CFO sees $10 billion revs in FY.</title>
+<headline>Microsoft CFO sees $10 billion revs in FY.</headline>
+<dateline>SEATTLE 1996-10-21</dateline>
+<text>
+<p>Microsoft Corp chief financial officer Mike Brown said he thought the company could top $10 billion in revenues for the current fiscal year ending in June 1997.</p>
+<p>&quot;I think we can get there this year,&quot; he said in a conference call with analysts monitored by Reuters.</p>
+<p>The computer software giant posted revenues of about $2.30 billion in the fiscal first quarter that ended September 30.</p>
+<p>Brown said he expected the company to post a sequential increase similar to the $121 million rise in last year's fiscal second quarter, despite more difficult comparisons this year because of last year's introduction of the Windows 95 operating system.</p>
+<p>Brown also estimated Microsoft would defer about 30 percent of its Office 97 upgrade revenues over the first 12 months of availability.</p>
+<p>He said the upgrade, which he called &quot;very important&quot;, would become available late in the current quarter, with no significant revenues until the March quarter.  </p>
+<p>Microsoft defers revenues from cyclical products such as Office and its Windows operating systems to account for costs incurred after the sale, such as technical support and components delivered later.</p>
+<p>Microsoft also defers revenues from sales through its software licensing and maintenance programmes. Brown said Microsoft planned to launch a new licensing programme next year that would &quot;strengthen our long-term franchise at the expense of near-term reported revenues&quot;.</p>
+<p>-- Martin Wolk 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

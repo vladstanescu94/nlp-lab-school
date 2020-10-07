@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20009" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: CBT appoints James Buckley COO, president.</title>
+<headline>CBT appoints James Buckley COO, president.</headline>
+<dateline>MENLO PARK, Calif. 1996-08-26</dateline>
+<text>
+<p>CBT Group Plc said on Tuesday it had named former Apple Computer Inc executive James Buckley to the position of president and chief operating officer of CBT Group.</p>
+<p>Buckley resigned in late May from Apple Computer, where he had been president of Apple Americas and senior vice president of Apple, as Apple head Gil Amelio completed a reshuffling of senior executives of the struggling personal computer maker.</p>
+<p>Buckley, 45, will report to CBT Chairman and Chief Executive William McCabe. CBT Group develops interactive education software for users of information technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

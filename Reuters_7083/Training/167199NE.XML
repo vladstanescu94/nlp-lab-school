@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167199" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Microsoft to simplify Windows.</title>
+<headline>Microsoft to simplify Windows.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>LOS ANGELES</dateline>
+<text>
+<p>A motto of Bill Gates, chairman of Microsoft Corp., has been: &quot;A computer on every desk running Microsoft software.&quot;</p>
+<p>With that goal almost accomplished, Microsoft executives have set their sights on other flat surfaces, such as the kitchen counter, the living room's entertainment console and the back of airline seats.</p>
+<p>At a Los Angeles conference for professional programmers, Microsoft executives outlined the company's plans to take its Windows family of operating systems into more types of computers, such as subway token vending machines, handheld portables and arcade video games.</p>
+<p>The company also said it plans to spend much of its research and development budget to automate management tasks of personal computers and to simplify the machines' operations.</p>
+<p>In recent weeks, Microsoft's competitors Sun Microsystems Inc. and Oracle Corp. have outlined their plans to build new types of computers, called network computers, that are simpler and cheaper to use than personal computers.</p>
+<p>At Monday's Professional Developers Conference, Microsoft executives said future versions of its Windows -- which control about 80 percent of the world's desktop computers -- will do the same things.</p>
+<p>&quot;We are focusing now on the investments people have put in their computing technology and on increasing their returns,&quot; said Paul Maritz, Microsoft group vice president.</p>
+<p>Maritz demonstrated software products that can recognize spoken commands. He also demonstrated programs that automatically take care of network chores without human help.</p>
+<p>Features like these will help companies get more out of their investment in Microsoft products already in place, Maritz said.</p>
+<p>He also demonstrated how programmers can use Windows in non-traditional types of computers. He showed a bullet-proof vending machine for New York subways that uses Windows software to dispense fares on smart cards.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

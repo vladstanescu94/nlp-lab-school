@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641183" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: INTERVIEW-Oracle set-top device due in Sept.</title>
+<headline>INTERVIEW-Oracle set-top device due in Sept.</headline>
+<byline>Franklin Paul</byline>
+<dateline>ATLANTA 1997-06-05</dateline>
+<text>
+<p>Database software company Oracle Corp will later this year introduce a set-top box that will allow consumers to perform interactive Internet functions while they receive regular television signals, Larry Ellison, Oracle's chairman and chief executive, said Wednesday.</p>
+<p>The device, called NCTV, will be available in stores around September for &quot;a couple hundred&quot; dollars. But Ellison hopes that broadcast industry will be persuaded before then to adopt the technology into their services and offer it to subscribers.  </p>
+<p>&quot;My hope is that we will be selling this to cable TV and to direct broadcast satellite companies, and it will be the next standard box,&quot; he told Reuters in an Interview.</p>
+<p>Ellison made the comments after the unveiling of CNN Custom News, the personalized Internet news site developed jointly by Oracle and CNN, a unit of Time Warner Inc.</p>
+<p>He explained that a unique feature of the site -- the CNN News Stream, a personalized ticker of stock quotes, sports scores and news -- can be made visible at the bottom of televisions equipped to receive a separate Internet feed.  </p>
+<p>Ellison said he sees the next generation of home and mobile appliances, beginning with NCTV, being equipped with the capability of blending video signals and Web information, thereby allowing consumers to make purchases or receive information from advertisers by clicking on the screen.</p>
+<p>&quot;I think that it is a very interesting service that advertisers and consumers will find attractive,&quot; he said. &quot;And it is a wonderful way to answer the question, 'How do I make money on the Web?'&quot;  </p>
+<p>The new hardware represents yet another salvo launched by Ellison in his battle for the acceptance of server-based computing and the Network Computer.  Network Computers, or NC's, are bare bones PCs with no real memory, operating system or resident software.  They get all of their programming from powerful remote computers, or servers.</p>
+<p>The NC initiative is aimed directly at breaking Microsoft Corp's firm grip on the desktop software market.</p>
+<p>Oracle is pushing for the NC because the underlying network would run on Oracle software.  Further, the NC can function without using any Windows software.  </p>
+<p>Microsoft has tried to poke holes in claims by NC proponants, saying that NCs are slower, incapable of mobile uses and susceptible to massive shutdowns if the server fails.</p>
+<p>At the Comdex show here Tuesday, Microsoft chairman William Gates joked that &quot;NC&quot; stands for &quot;not compatible&quot; and that its acceptance would thrust the technology industry into reverse, as control of software standards would shift back into hardware makers' hands.</p>
+<p>But Ellison shrugged off Gates' comments, noting that Microsoft itself has entered the set top box business with its recent purchase of WebTV.  He also says that Microsoft plans to support a scaled down, $500 computer called Winterm, which is made by privately-held Wyse Technology.</p>
+<p>&quot;Winterm allows you to run Windows applications from a terminal off of a (Windows NT) server, and the NC does exactly the same thing,&quot; he said.</p>
+<p>&quot;Either he (Gates) has to 'de-announce' the Winterm or say that the Winterm is not compatible,&quot; he continued.  &quot;Either he's confused, mistaken or he's intentionally being deceptive.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113436" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Intel, other tech stocks rise after hours.</title>
+<headline>Intel, other tech stocks rise after hours.</headline>
+<dateline>NEW YORK 1996-10-14</dateline>
+<text>
+<p>Shares of Intel Corp rose 6-7/8 to 114-1/2 after hours, traders said.</p>
+<p>After the market closed, Intel said it earned $1.48 a share in the third quarter, versus $1.05 the previous third quarter. The First Call consensus estimate was $1.25 a share.</p>
+<p>Bay Networks Inc rose 1/2 to 24-1/2. The company, which said its chief executive officer resigned, reported third quarter earnings of $0.25 a share before a charge. The company's year ago net income per share was $0.32.</p>
+<p>LSI Logic Corp rose one point to 28 and Compaq Computer Corp was up 7/8 to 72-3/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

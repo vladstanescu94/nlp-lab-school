@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61931" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: RESEARCH ALERT - Netscape cut.</title>
+<headline>RESEARCH ALERT - Netscape cut.</headline>
+<text>
+<p>-- Merrill Lynch said analyst Bruce Smith downgraded Netscape Communications Corp to near-term neutral from accumulate, and to long-term neutral from buy.  </p>
+<p>-- Smith said in a research report that Netscape's recent product introductions are &quot;sound first steps, but much more is needed to compete in the long run.&quot;</p>
+<p>-- said company has made &quot;very little progress on major strategic alliances.&quot;</p>
+<p>-- said &quot;recent conversations with industry sources indicate that Netscape is not inclined to enter into the kinds of partnerships that we believe would improve its competitive position versus Microsoft Corp.&quot;  </p>
+<p>-- Smith believes he has &quot;underestimated Microsoft, and the window of opportunity for Netscape to partner is closing much more rapidly than we originally thought.&quot;</p>
+<p>-- Netscape's third-quarter results &quot;appear on track, and we are comfortable with our estimate of $85.6 million in revenues and net income of $6.8 million, or $0.08 per share.</p>
+<p>-- shares dropped 4-1/4 to 41-3/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

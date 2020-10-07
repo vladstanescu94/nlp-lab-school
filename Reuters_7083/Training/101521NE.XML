@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101521" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Netscape says battle will be for corporate networks.</title>
+<headline>Netscape says battle will be for corporate networks.</headline>
+<byline>Russell Blinch</byline>
+<dateline>LAKE BUENA VISTA, Fla.</dateline>
+<text>
+<p>The Internet browser war between Netscape and Microsoft will look like child's play once the real battle begins for the multi-billion dollar corporate &quot;intranet&quot; market, Netscape President Jim Barksdale said Tuesday.</p>
+<p>Barksdale said the battle between Netscape Communications Corp.'s Navigator program and the competing Explorer browser offered free by Microsoft Corp. was not all that important in the company's long-term business plans.</p>
+<p>&quot;Navigator was designed to get us known and the next step is to get in there with the enterprise solution,&quot; Barksdale said in an interview while attending a technology conference.</p>
+<p>Browsers offer Internet users a point-and-click system to read and find information on the World Wide Web, the popular part of the Internet.</p>
+<p>Barksdale said the crown jewel in the cyberspace market were so-called intranets, or internal company networks that look and feel like the Internet. Barksdale said independent analysts have forecast the market could grow to about $12 billion by the turn of the century.</p>
+<p>&quot;We'd like to get a significant portion of that,&quot; he said. &quot;I don't know what significant means but maybe it's a third to a half of it.&quot;</p>
+<p>In the intranet market, Netscape has made big inroads against Microsoft's BackOffice software and Lotus Notes, now owned by International Business Machines Corp.</p>
+<p>&quot;We're rather new to the market,&quot; said Barksdale. &quot;But we are finding we are being successful.&quot;</p>
+<p>He said a recent survey conducted by Hambrecht &amp; Quist of about 200 respondents implementing intranets for their corporations found that 57 percent would use Netscape internally, 20 percent Microsoft and 10 percent Lotus Notes.</p>
+<p>Barksdale also said Netscape was not turning its back on the consumer market and was working on another update of Navigator. Details of that would be released next week at the company's software developers conference in New York, he said.</p>
+<p>Both Netscape and Microsoft just introduced the latest updates to their browsers.</p>
+<p>Barksdale said his company still held a dominant position, which has been estimated at 70 percent to 80 percent, of the Internet browser market. He said at the retail level, Navigator was the No. 1 selling product in the communications segment of the market.</p>
+<p>He said any inroads Microsoft was making with its software was likely at the expense of other competing browsers on the market. He also noted that Navigator runs across 16 computing platforms while Microsoft was limited to Windows 3.1, Window 95, and Windows NT.</p>
+<p>&quot;We think we have a very good offering against them,&quot; he said.</p>
+<p>Some analysts have forecast that Microsoft could steal sales from Netscape when it weaves its browser into its operating software, which could make it easier to use than Navigator.</p>
+<p>Barksdale said he was well aware of the threat that Microsoft plans to weave Explorer into some future update of Windows and that it would take a long time before people would move to adopt another new system.</p>
+<p>In the meantime, he said the company had plans to combat the threat in its future updates of Navigator.</p>
+<p>&quot;We think we are dealing with strategies that will deal with that,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAKE BUENA VISTA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

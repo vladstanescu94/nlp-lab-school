@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167293" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: INTERVIEW - Sun Micro CEO sees Java at home.</title>
+<headline>INTERVIEW - Sun Micro CEO sees Java at home.</headline>
+<dateline>SAN FRANCISCO, Calif. 1996-11-04</dateline>
+<text>
+<p>Sun Microsystems Inc Chief Executive Scott McNealy said although his company is focused on expanding Java network computing in the corporate and large organization markets, it expects consumer-oriented companies to spread use of the technology into the home.</p>
+<p>&quot;We'll go through our partners, through AT&amp;T and through the telcos,&quot; he told Reuters in an interview.</p>
+<p>&quot;We don't go in (to homes) directly. We're not a consumer (company),&quot; he said. &quot;Why fight with the AT&amp;T, the TCI, the PacBell ? Why fight those brands? We'll use those brands...Let them go into the home.&quot;</p>
+<p>Sun Microsystems last week introduced its JavaStation, two models of scaled-back computers designed to sharply cut back on the cost of computing in comparison to personal computers linked to a corporate network.</p>
+<p>The Network Computer, or NC, has been heralded by Oracle Corp chief executive Larry Ellison as a device for a new wave of computing which could challenge Microsoft Corp and Intel Corp, which have built powerful industry positions through the personal computer market.</p>
+<p>Basic Sun JavaStations start at just under $750, or less than $1,000 for a system with keyboard, mouse and monitor.</p>
+<p>While Ellison has touted a $500 machine which could be used in the home, Sun has targeted somewhat higher price points and aimed its emphasis on larger customers who could realize savings by linking networks of the machines to its servers.</p>
+<p>Sun estimates each JavaStation can cost as little as $2,500 a year to administer, compared with estimates of around $12,000 a year per personal computer in a network.</p>
+<p>Although the new Sun network computer will not ship until late December, hitting volume shipment levels in February, the launch has generated a building public debate over the merits of the proposed new computing model.</p>
+<p>Sun's products are based around its Java environment, which is a nascent, 18-month old system that promises to enable programmers to write one piece of software that would be able to run on virtually all computers without revision.</p>
+<p>Microsoft and Intel moved to upstage the Sun launch by announcing plans for their own scaled-down systems, dubbed NetPCs, and a new effort to shave ownership costs of PCs.</p>
+<p>Microsoft Chief Executive Bill Gates said last week the company places the same priority now on making PCs easier and cheaper to administer, and other such improvements, as it did a year ago on entering the Internet software market.</p>
+<p>The statement was viewed as a signal Microsoft will devote a good chunk of its vast research and development resources to the issue over coming months.</p>
+<p>In a keynote address to Oracle's OpenWorld trade show and a news briefing with reporters earlier on Monday, McNealy had mocked the PC platform, citing a Gartner Group finding that 43 percent of PC users' time was spent 'futzing' with their PCs.</p>
+<p>&quot;The home market, face it, is a network activity market,&quot; he said, saying it requires a high amount of maintenance to keep up and running. &quot;I'm just not focused on that market.&quot;</p>
+<p>But he later said Sun expects the popularity of its Java computing environment will make it an attractive platform on which consumer-oriented companies may develop home products.</p>
+<p>Some have criticised the network computing model as touting greater savings than will likely be achieved and for being too restrictive, because end-users can be centrally limited from the flexibility available on personal computers.</p>
+<p>But McNealy discounted this, noting Sun intends to make its computers work with existing machines, including PCs, but without extending its own brand into the home market.</p>
+<p>&quot;We don't need 'Sun inside' on the front of every computer,&quot; he said, in a reference to microprocessor giant Intel's PC branding campaign over the last several years.</p>
+<p>Instead, Sun would act as a supplier of a range of possible technologies and let its customers define the specifications for specific home market products.</p>
+<p>&quot;We'll either make chips, chips plus software, chips plus software plus a board, or the entire piece of equipment with their logo on it,&quot; he said in the interview.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

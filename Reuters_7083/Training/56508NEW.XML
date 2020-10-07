@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56508" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Intuit to connect its software to Internet.</title>
+<headline>Intuit to connect its software to Internet.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-09-16</dateline>
+<text>
+<p>Intuit Inc said Monday it plans to open up its software products for direct access to the Internet, in moves designed to accelerate the exchange of financial data between customers and banks.</p>
+<p>The company said the new Internet initiative will give financial institutions direct acccess to their customers over the Internet via its products, including its flagship Quicken personal financial software.</p>
+<p>It said the capability will arrive in stages beginning with a capacity to exchange investment data, which is expected to become available next spring.  </p>
+<p>In addition, Intuit said it plans to offer financial service providers a series of software specifications to give banks and other such institutions full control over their electronic communications with customers.</p>
+<p>It said these specifications, to be known as OpenExchange, will be licensed for free and without restriction to financial service providers.</p>
+<p>The company said the OpenExchange guidelines will enable the secure exchange via the Internet of banking and investment data, bill paying and other financial transactions and services.  </p>
+<p>Intuit said the comprehensive specifications will support a full range of financial interactions between financial service providers and their customers. Rival approaches focus primarily on checking account transactions.</p>
+<p>It said OpenExchange will embrace top industry security methods such as RSA data encryption for secure communications and authentication of the respective parties in a transaction.</p>
+<p>Intuit said OpenExchange will also cover data exchange between customers and government agencies -- an apparent reference to Intuit's tax preparation software products.</p>
+<p>Intuit said that after working in conjunction with its technology partners, transaction processing companies and financial service institutions, it plans to publish the OpenExchange framework by the end of 1996.</p>
+<p>Intuit also announced plans sell its bill payment processing subsidiary to CheckFree Corp in exchange for 12.6 million CheckFree shares, or about 23 percent of the CheckFree shares outstanding.</p>
+<p>Intuit said the move allows it to reallocate management and financial resources to its growing emphasis on the Internet and its successful core businesses.</p>
+<p>-- Eric Auchard, New York Newsdesk 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

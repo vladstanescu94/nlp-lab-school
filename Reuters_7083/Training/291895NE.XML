@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291895" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Microsoft plans Apple office suite software.</title>
+<headline>Microsoft plans Apple office suite software.</headline>
+<dateline>REDMOND, Wash. 1997-01-07</dateline>
+<text>
+<p>Microsoft Corp. said Tuesday it created a new Macintosh product unit responsible for the design and development of a Macintosh version of its widely used Microsoft Office software.</p>
+<p>The Microsoft Office suite consists of a variety of business productivity software, including a word processor, spreadsheet, presentation programme and database management programme.</p>
+<p>While Microsoft remains Apple's great nemesis in the operating systems software business, Microsoft also has long served as the leading independent developer of software applications that run on Apple Macintosh computers.</p>
+<p>Macintosh computers are built by Apple Computer Inc. and several clone manufacturers.</p>
+<p>&quot;When Apple's biggest third-party developer decides to commit new resources to its Macintosh applications business, that's a pretty clear sign that there's still money to be made in the Macintosh market,&quot; said Jeffrey Tarter, an industry analyst and publisher of Soft*Letter.</p>
+<p>The new Macintosh product unit will be headed by Ben Waldman. It will have about 100 employees.</p>
+<p>Waldman most recently served as the development manager of the Office product unit, where he led the team responsible for the core of Microsoft Office 97 for the Windows operating system.</p>
+<p>The creation of the new Macintosh product unit, part of the Microsoft desktop applications division, marks the first time in the history of the division that an entire product unit has focused exclusively on the Macintosh, Microsoft said.</p>
+<p>Apple said Friday that it expected a loss of up to $150 million in the latest quarter, sparking a slide in its stock price and prompting even some of the company's most loyal customers to question its survival.</p>
+<p>Apple's stock gained 25 cents to $18.125 in early trading on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

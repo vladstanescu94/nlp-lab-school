@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263207" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Integrated Systems names Smith CFO.</title>
+<headline>Integrated Systems names Smith CFO.</headline>
+<dateline>SUNNYVALE, Calif. 1996-12-18</dateline>
+<text>
+<p>Integrated Systems Inc said it named William Smith chief financial officer and vice president of finance, effective January 6.</p>
+<p>Previously he was chief financial officer of Meta-Software, an electronic design software company.</p>
+<p>Integrated Systems was not immediately available to say who Smith replaced as CFO.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70986" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: TouchStone Software adopts rights plan.</title>
+<headline>TouchStone Software adopts rights plan.</headline>
+<dateline>HUNTINGTON BEACH, Calif. 1996-09-23</dateline>
+<text>
+<p>TouchStone Software Corp said Monday its board had approved the adoption of a shareholder rights plan with a 15 percent trigger.</p>
+<p>The plan was not adopted in response to any takeover attempt, and no takeover proposals have been directed at the company, TouchStone said.</p>
+<p>Under the rights plan, TouchStone stockholders will receive one preferred stock purchase right for each share of TouchStone common held, the company said.</p>
+<p>The rights, which have an exercise price of $15 each, initially will trade with the company's common stock. The rights will not be exercisable until certain takeover-related events occur, the company said.</p>
+<p>The rights plan becomes effective if a person or group acquires 15 percent or more of the company's common stock without the approval of the board.</p>
+<p>At that time, the rights holders would be able to purchase additional shares of common stock having a market value equal to two times the exercise price of the right, the company said.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTINGTON BEACH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

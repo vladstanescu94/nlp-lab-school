@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="383428" id="root" date="1997-02-17" xml:lang="en">
+<title>JAPAN: Square ask-only on dimmer forecast.</title>
+<headline>Square ask-only on dimmer forecast.</headline>
+<dateline>TOKYO 1997-02-17</dateline>
+<text>
+<p>Shares in software manufacturer Square Co Ltd were ask-only on Monday morning after its announcement of a downward revision in its earnings forecast for the current business year late on Friday, traders said.</p>
+<p>At 0046 GMT, the share was quoted ask-only at 5,860 yen on the over-the-counter (OTC) market. Its Friday&quot;s close was 6,060 yen.  </p>
+<p>Square said on Friday that it expects a parent current profit for the business year to March 31 of 1.5 billion yen, lower than its previous forecast of 9.1 billion yen.</p>
+<p>Its parent current profit last financial year was 8.07 billion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83742" id="root" date="1996-09-29" xml:lang="en">
+<title>CHINA: Strong words force Microsoft to halt Chinese software.</title>
+<headline>Strong words force Microsoft to halt Chinese software.</headline>
+<byline>Mure Dickie</byline>
+<dateline>BEIJING</dateline>
+<text>
+<p>Microsoft Corp. has been forced to stop shipping its Chinese language Windows 95 operating system in China after the discovery of politically offensive phrases hidden in the software, officials said Sunday.</p>
+<p>Beijing has ordered the software giant, once snubbed in China amid official anger at its political insensitivity, to halt sales of the mainland China version of Windows 95 and to cut out the offending language, a Chinese software official said.</p>
+<p>Chinese computer users said the phrases included the once commonly used Taiwan epithet &quot;communist bandits&quot; and &quot;Taiwan independence,&quot; a phrase always likely to infuriate members of Beijing's Marxist-Leninist leadership, as well as a graphic showing a map of China without Taiwan.</p>
+<p>A free software update designed to eliminate the offending phrases will be posted on the Internet worldwide computer network and sent to all registered users and distributed to retailers, Microsoft spokesman Bryan Nelson said.</p>
+<p>The offending phrases and graphic appeared to have been introduced by contracted programmers in Taiwan, Nelson said.</p>
+<p>Users found the problem phrases hidden among the thousands of Chinese words in a Windows 95 dictionary that could be inserted in text using keystroke shortcuts, Nelson said by telephone from Hong Kong.</p>
+<p>&quot;Under certain combinations of keystrokes you could come up with some phrases that we didn't think are culturally appropriate,&quot; Nelson said. &quot;We have ... developed a fix to take care of the issue.&quot;</p>
+<p>Few Chinese customers have been aware of any problems with Windows 95's political vocabulary, because the keystrokes in question were rarely used, said an official of Microsoft's Beijing agent Xinlong International Co.</p>
+<p>Halting shipping would have some impact on sales, said the official, who declined to be named.</p>
+<p>Microsoft on Monday halted shipment of new copies of the mainland version of Windows 95, which uses simplified Chinese characters unlike the traditional forms used in Taiwan and Hong Kong.</p>
+<p>Microsoft said in March it expected sales of Windows 95 in China to be worth at least $5 million.</p>
+<p>The discovery in Windows 95 of phrases once favoured by Beijing's Nationalist rivals in Taiwan has marred a hard-won return to Chinese favour for Redmond, Wash.-based Microsoft.</p>
+<p>Microsoft, whose negotiations with Beijing were once described by a Chinese official as &quot;a battle of strength,&quot; in recent months has noted its improved ties with the leaders guiding one of the world's fastest-growing software markets.</p>
+<p>The March 1996 launch of the mainland version of Windows 95 in Beijing's Forbidden City received a warm welcome from some of China's senior software officials, in stark contrast with the reception accorded Windows 3.1 in early 1994.</p>
+<p>The earlier operating system was snubbed by the government partly because it was brought to the market by a team stacked with executives from Taiwan and featured a character input system favoured by Beijing's island archrival.</p>
+<p>Sino-Microsoft ties warmed after a change of approach by the U.S. firm that included the transfer of its regional headquarters from Taiwan to Hong Kong and promises of joint software development with Chinese firms.</p>
+<p>Microsoft's Nelson said the total cost of issuing the update and producing a new version of Windows 95 was unclear.</p>
+<p>&quot;I don't think it's huge sums,&quot; he said, adding Microsoft would spare no expense to ensure satisfaction among its hundreds of thousands of Chinese customers. About 75 percent of Chinese computer users have the software, he said.</p>
+<p>The goodwill Microsoft had built up over the past few years with Chinese officials was far from threatened, he said.</p>
+<p>&quot;We've had an incredibly positive experience working with the Chinese government this week,&quot; he said. &quot;It just kind of furthers some of the relationship that we've been building.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

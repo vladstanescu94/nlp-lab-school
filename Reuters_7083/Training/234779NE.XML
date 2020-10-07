@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234779" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Marcam Corp adopts shareholder rights plan.</title>
+<headline>Marcam Corp adopts shareholder rights plan.</headline>
+<dateline>NEWTON, Mass. 1996-12-04</dateline>
+<text>
+<p>Marcam Corp on Wednesday said it has adopted a stockholder rights plan to prevent a prospective acquirer from buying the company without offering a fair price to all stockholders.</p>
+<p>Under the plan, stockholders will receive one preferred stock purchase Right for each outstanding share of common stock. Also, for each outstanding share of convertible preferred stock, they will receive a number of Rights equal to the number of shares of common stock issuable upon conversion of such convertible preferred stock.</p>
+<p>The rights will be distributed to holders of record on Dec. 16, 1996.</p>
+<p>In a statement, Michael Quinlan, the firms's president and chief executive, said, &quot;This Rights plan was not adopted by the Board in response to any specific offer or threat, but rather is designed to protect the stockholders of the Company against future takeover tactics that are coercive or unfair.&quot;</p>
+<p>The Rights will expire on Dec. 16, 2006 unless earlier redeemed or exchanged. The Rights will be exercisable only if a person or group acquires beneficial ownership of 20 percent or more of the common stock of the company.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

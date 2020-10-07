@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74621" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Integrated chief financial officer resigns.</title>
+<headline>Integrated chief financial officer resigns.</headline>
+<dateline>SUNNYVALE, Calif. 1996-09-25</dateline>
+<text>
+<p>Software company Integrated Systems Inc said Wednesday its Chief Financial Officer Steven Sipowicz has resigned, effective October 1.</p>
+<p>Sipowicz will join Intrinsa Corp, a privately-held software company.</p>
+<p>Integrated said in a statement it has begun a search for a replacement, which is expected to take three months to complete.</p>
+<p>Shares of Integrated closed down 2 at 36-1/4 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

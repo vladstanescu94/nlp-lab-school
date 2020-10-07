@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234787" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: GT Interactive sinks after profit warning.</title>
+<headline>GT Interactive sinks after profit warning.</headline>
+<dateline>NEW YORK 1996-12-04</dateline>
+<text>
+<p>GT Interactive Software Corp shares dropped about 35 percent in early trading Wednesday after the company said last night it expects fourth quarter pre-tax income and revenues to fall short of Wall Street expectations.</p>
+<p>Shares fell 4-1/2 to 8-1/8. GT Interactive was the most active stock on the Nasdaq.</p>
+<p>Both Lehman Brothers and UBS Securites cut their ratings on the stock. Lehman analyst Michael Stanek cut GT to neutral from buy, and UBS cut it to hold from buy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

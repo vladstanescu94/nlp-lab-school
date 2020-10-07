@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56797" id="root" date="1996-09-16" xml:lang="en">
+<title>FRANCE: Compaq plans Windows NT 4.0 workstations.</title>
+<headline>Compaq plans Windows NT 4.0 workstations.</headline>
+<dateline>PARIS 1996-09-16</dateline>
+<text>
+<p>Compaq Computer Corp  plans to start shipping computer workstations for the Windows NT 4.0 network software by Microsoft in two months, chairman and chief executive officer Eckhard Pfeiffer said on Monday.</p>
+<p>&quot;In two months we will start to ship pentium-based workstations for the Windows NT 4.0 platform,&quot; Pfeiffer told a news conference in Paris to mark what he called a major product announcement for the fourth quarter.  </p>
+<p>Pfeiffer said he expected the market for such equipment to pick up following the recent launch of Windows 4.0.</p>
+<p>Many corporate users had been waiting for this launch rather than move to Windows '95, he said.</p>
+<p>Pfeiffer was in Paris to address IDG's &quot;European IT Forum&quot;.</p>
+<p>-- Paris newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302017">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

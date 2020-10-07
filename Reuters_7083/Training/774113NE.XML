@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="774113" id="root" date="1997-08-01" xml:lang="en">
+<title>GERMANY: SAP, Intel to form Internet venture.</title>
+<headline>SAP, Intel to form Internet venture.</headline>
+<dateline>WALLDORF, Germany 1997-08-01</dateline>
+<text>
+<p>German software group SAP AG and  computer chip maker Intel Corp. plan to announce an Internet commerce  joint venture on August 5, SAP said on Friday.</p>
+<p>SAP said the goal of the venture between its U.S. unit and the world's  largest chip maker was to develop a software product that supports  business applications on the Internet.</p>
+<p>The company said SAP America Inc. and Intel would release further  details August 5 at 9 a.m. San Francisco time.  </p>
+<p>An SAP spokesman, when asked by Reuters, confirmed that the product  would be jointly developed by SAP America and Intel. He declined to  say if development had already begun.</p>
+<p>Earlier this month, PC Week, a U.S.-based computer industry newspaper,  reported that the two were about to announce a product would be the  first from SAP that is separate from its core R/3 business management  software.</p>
+<p>The partners planned to &quot;build, market and sell open- platform electronic  commerce software,&quot; PC Week reported, citing industry sources.</p>
+<p>Previously SAP has sold only software components that work with R/3,  its vast flagship program used by large companies to control manufacturing,  purchasing, personnel and accounting data collecte from computers  throughout their organisations.</p>
+<p>SAP only added Internet feaures to R/3 earlier this year in version  3.1, and last year was criticised by industry consultancy Forrester  Research for failing to tailor R/3 for the Internet.</p>
+<p>Another version of R/3, version 4.0, is due in the first quarter of  1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

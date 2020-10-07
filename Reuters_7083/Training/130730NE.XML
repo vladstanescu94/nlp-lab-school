@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130730" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: INTERVIEW - Microsoft CFO sees sales rise.</title>
+<headline>INTERVIEW - Microsoft CFO sees sales rise.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-10-21</dateline>
+<text>
+<p>Microsoft Corp Chief Financial Officer Mike Brown Monday said he expected the company's revenues to rise sequentially in the next two quarters from the $2.3 billion reported for the three months ended September 30.</p>
+<p>In an interview, Brown also said he thought the company's cost of goods sold could decline &quot;a little bit&quot; in the long term from the 10.9 percent of revenue just reported, already down from 16 percent a year ago.  </p>
+<p>&quot;We'll grow a little bit in December and then a little bit more in March, I think,&quot; Brown said. &quot;I'm very happy with the general revenue trend, and I was very pleased with the pattern of costs in the quarter.&quot;</p>
+<p>Brown said revenue in the December quarter would be driven in part by holiday season cyclicality, while the March quarter would get a boost from the release of the company's Office 97 suite of business applications, an upgrade to one of the software company's core products.  </p>
+<p>Brown said cost ratios were falling because of increased use of CD-ROMs for distributing software, rather than more costly diskettes, and because of the growing popularity of enterprise software licenses over sales through the retail and reseller channels.</p>
+<p>Brown also said the company's spending on research and development was &quot;right on target,&quot; with its announced plans to spend $2.1 billion in the current fiscal year ending June 30.</p>
+<p>In addition, he said unearned revenue on the company's balance sheet -- up to $651 million as of September 30 from $560 million three months earlier -- would rise further as a result of growth in the &quot;subscription&quot; model of sales, such as licenses and upgrade.</p>
+<p>					-- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

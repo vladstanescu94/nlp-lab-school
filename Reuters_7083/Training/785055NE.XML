@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="785055" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: MILLENIUM BUG FIX SEEN COSTING $200 BLN OVER 5 YRS.</title>
+<headline>MILLENIUM BUG FIX SEEN COSTING $200 BLN OVER 5 YRS.</headline>
+<dateline>PALO ALTO, Calif. 1997-08-07</dateline>
+<text>
+<p>Spending on systems integration, professional services and outsourcing for solving the year 2000 problem in computers will reach $280 billion between 1997-2002, according to a new study by Killen &amp; Associates.</p>
+<p>Killen also said $145 billion will be spent in North America.</p>
+<p>The Year 2000 problem refers to the fact that many older computers and software programs will be unable to process two-digit dates correctly after December 31, 1999.</p>
+<p>When the year 2000 changes over, these systems may misinterpret the &quot;00&quot; date field as &quot;1900,&quot; and crash or lose data.</p>
+<p>The Killen study projected that 52 percent of the money spent on solving the year 2000 problem between 1997 and 2002 will be in North America, while 28 percent of the spending will be in Europe, 17 percent will be in Asia, two percent will be in South &amp; Latin America, and one percent will be in Africa and the Middle East.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

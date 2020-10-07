@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="731167" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: TABLE - Midisoft Corp Q2 shr loss shrinks.</title>
+<headline>TABLE - Midisoft Corp Q2 shr loss shrinks.</headline>
+<dateline>ISSAQUAH, Wash. 1997-07-16</dateline>
+<text>
+<p>Three Months Ended   Six Months Ended</p>
+<p>				   June 30,		June 30,</p>
+<p>			   1997	  1996	  1997	 1996</p>
+<p> Revenues	   $819,000    $491,000  $1,356,000 $1,003,000</p>
+<p> Cost of revenues  344,000     391,000     672,000    812,000</p>
+<p> Gross profit	475,000     100,000     684,000    191,000</p>
+<p>Operating loss (628,000) (1,817,000)  (1,593,000)(3,187,000)</p>
+<p>Interest and other</p>
+<p>income/(expense)</p>
+<p>			(25,000)	33,000    (32,000)     78,000</p>
+<p> Net loss	 (653,000) (1,784,000) (1,625,000) (3,109,000)</p>
+<p> Net loss per share (0.11)	(0.38)	(0.28)     (0.66)</p>
+<p>Weighted average</p>
+<p>shares outstanding</p>
+<p>		     5,890,000   4,673,000   5,863,000  4,677,000</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISSAQUAH, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

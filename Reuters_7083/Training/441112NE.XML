@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="441112" id="root" date="1997-03-13" xml:lang="en">
+<title>UK: Microsoft creates cyberstreet to promote Internet.</title>
+<headline>Microsoft creates cyberstreet to promote Internet.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>Software giant Microsoft Corp. provided free computers and Internet access for 23 homes on a street in a London neighbourhood Thursday as part of a global marketing push for its Internet software.</p>
+<p>Redmond, Wash.-based Microsoft, which offers the Microsoft Network Internet access service, known as MSN, dubbed the street in northern London's Islington neighbourhood &quot;MSN Street.&quot;</p>
+<p>&quot;We think it's the first attempt to dump the Internet into the laps of a real live comunity,&quot; Andrew Baiden, a Microsoft spokesman said at a briefing for MSN Street participants.</p>
+<p>The 23 participating households in London -- out of 70 total on the street -- are linked to the Internet via personal computers supplied at no cost by Microsoft and free subscriptions to the Microsoft Network.</p>
+<p>Microsoft spokesmen asked journalists not to specify the name of the street, in order to protect residents' privacy.</p>
+<p>The company created an &quot;electronic bulletin board&quot; and a &quot;chat room&quot; for the 23 households -- part of efforts to demonstrate the Internet links people from far-flung corners of the globe and can also strengthen local community ties.</p>
+<p>The market research project will last six months. Participants will keep logs of their Internet usage.</p>
+<p>&quot;Journalists would ask us, 'What are people using the Internet for?' Taylor Collyer, marketing director for the Microsoft Network in the UK. &quot;We thought that's probably a good thing to know.&quot;</p>
+<p>The Microsoft Network has 2 million subscribers worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

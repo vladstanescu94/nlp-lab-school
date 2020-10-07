@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202609" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: LifeRate Systems doubling customer base.</title>
+<headline>LifeRate Systems doubling customer base.</headline>
+<dateline>MINNEAPOLIS 1996-11-20</dateline>
+<text>
+<p>LifeRate Systems Inc said Wednesday it signed four new contracts that will double the customer base for its proprietary clinical information systems.</p>
+<p>The new contracts are with Central Cardiovascular Clinic in San Antonio, Texas; Allergy &amp; Asthma Medical Group &amp; Research Center in San Diego, Calif.; Aaronson Asthma &amp; Allergy Associates Ltd in Chicago and Cardiovascular Consultants of Tacoma Park, Md. Financial terms were not disclosed.</p>
+<p>LifeRite, which develops software for the health care industry, said it is also negotiating with eight additional cardiovascular and three allergy and asthma practice groups.</p>
+<p>- Chicago newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

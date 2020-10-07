@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60462" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Halliburton lets Landmark keep Stratworks.</title>
+<headline>Halliburton lets Landmark keep Stratworks.</headline>
+<dateline>HOUSTON 1996-09-18</dateline>
+<text>
+<p>Landmark Graphics Corp said on Wednesday that Halliburton Co had waived a requirement that would have obliged Landmark to sell Stratworks software application in order to complete its purchase of Landmark.  </p>
+<p>Landmark said it planned to keep Stratworks after Halliburton acquires it.</p>
+<p>Under the terms of the $557 million acquisition, Halliburton is to issue about 10 million shares, or 0.574 of a share of its common stock for each share of Landmark common stock.</p>
+<p>Landmark, which will become a wholly-owned subsidiary of Halliburton, is holding a special shareholders meeting on October 4 to vote on whether or not to accept the proposed acquisition.</p>
+<p>Halliburton is an industrial and engineering company, while Landmark supplies exploration and production information systems for oil companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

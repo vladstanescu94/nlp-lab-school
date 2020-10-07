@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530564" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: BMC Software Q4 March 31 shr $0.50 vs $0.37.</title>
+<headline>BMC Software Q4 March 31 shr $0.50 vs $0.37.</headline>
+<dateline>HOUSTON 1997-04-23</dateline>
+<text>
+<p>BMC SOFTWARE INC. AND SUBSIDIARIES</p>
+<p>			     Statements of Earnings</p>
+<p>				    (Unaudited)</p>
+<p>				     Three Months Ended</p>
+<p>					    March 31,</p>
+<p>			   Fiscal 1997     Fiscal 1996   % Increase</p>
+<p>			  (In thousands, except per share data)</p>
+<p>  Total Revenues	     160,600	   128,300	   25%</p>
+<p>  Net Earnings		$ 53,413	 $  38,757	   38%</p>
+<p>Earnings per share	  $    .50	 $     .37	   35%</p>
+<p>Shares used in computing</p>
+<p>  earnings per share	 107,858	    105,358	   2%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

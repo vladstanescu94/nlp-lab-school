@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51883" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: RESEARCH ALERT - H&amp;Q maintains buy on Oracle.</title>
+<headline>RESEARCH ALERT - H&amp;Q maintains buy on Oracle.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist maintains buy rating on Oracle Corp. Notes Q197 EPS of $0.17 a share in line with expectations.</p>
+<p>-- Notes strong database growth offset by surprising drop off in applications, tools business continues weak.</p>
+<p>-- New product cycles in intranet products, applications and tools, coupled with strong universal server acceptance, should feed pipeline throughout 1997.</p>
+<p>-- revising estimates slightly downward based on new product mix assumptions.</p>
+<p>-- Sees Q297 EPS of $0.26, Q397 of $0.30, Q497 of $0.54 and FY97 $1.26 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141321" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Visigenic Software Q2 shr loss $0.18.</title>
+<headline>Visigenic Software Q2 shr loss $0.18.</headline>
+<dateline>SAN MATEO, Calif. 1996-10-23</dateline>
+<text>
+<p>VISIGENIC SOFTWARE, INC.</p>
+<p>		   CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>(in thousands, except per share amounts) (unaudited)</p>
+<p>			     Three Months Ended    Six Months Ended</p>
+<p>				   September 30,	  September 30,</p>
+<p>				 1996	 1995	 1996	1995</p>
+<p>REVENUE:</p>
+<p> Software licenses	$3,222    $1,033     $5,727    $1,577</p>
+<p>Consulting services,</p>
+<p>  maintenance and other    600	 268	1,056	 635</p>
+<p> Total revenue	     3,822     1,301	6,783     2,212</p>
+<p>COST OF REVENUE:</p>
+<p> Software licenses	   130	  62	  268	 105</p>
+<p>Consulting services,</p>
+<p>  maintenance and other    402	 180	  697	 326</p>
+<p> Total cost of revenue     532	 242	  965	 431</p>
+<p> GROSS PROFIT		3,290     1,059	5,818     1,781</p>
+<p>OPERATING EXPENSES:</p>
+<p> Product development     2,481	 972	4,138     1,701</p>
+<p> Sales &amp; marketing	 2,397	 770	4,403     1,406</p>
+<p> General &amp; administrative  628	 336	1,101	 671</p>
+<p>Purchased in process</p>
+<p>  product development	---	 ---     12,014	 ---</p>
+<p>Amortization of excess</p>
+<p>purchase price over</p>
+<p>  net assets acquired	129	 ---	  172	 ---</p>
+<p>Total operating</p>
+<p>  expenses		   5,635     2,078     21,828     3,778</p>
+<p> Loss from operations  (2,345)   (1,019)   (16,010)   (1,997)</p>
+<p>INTEREST AND</p>
+<p>  OTHER INCOME, net	   42	  28	   48	  29</p>
+<p> NET LOSS		 ( 2,303)    ( 991)  ( 15,962)  ( 1,968)</p>
+<p>PRO FORMA NET</p>
+<p>  LOSS PER SHARE	 ( 0.18)   ( 0.09)    ( 1.34)   ( 0.18)</p>
+<p>PRO FORMA WEIGHTED</p>
+<p>AVERAGE COMMON</p>
+<p>AND COMMON</p>
+<p>  EQUIVALENT SHARES     12,565    11,240     11,900    11,241</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MATEO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

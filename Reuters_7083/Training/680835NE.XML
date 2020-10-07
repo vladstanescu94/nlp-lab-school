@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="680835" id="root" date="1997-06-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - Compuware started.</title>
+<headline>RESEARCH ALERT - Compuware started.</headline>
+<dateline>NEW YORK 1997-06-23</dateline>
+<text>
+<p>SoundView Financial Group said analyst Kris Tuttle initiated coverage of Compuware Corp with a short-term buy rating and a long-term hold.</p>
+<p>-- set earnings per share estimates of $1.66 for fiscal 1998 and $2.13 for fiscal 1999.</p>
+<p>-- put 12-month price target of $68 on the stock.</p>
+<p>-- The stock was off 5/16 at 49 in late morning trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

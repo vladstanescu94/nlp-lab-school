@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="235708" id="root" date="1996-12-04" xml:lang="en">
+<title>JAPAN: Konami says its finance firm to start up Dec 10.</title>
+<headline>Konami says its finance firm to start up Dec 10.</headline>
+<dateline>TOKYO 1996-12-04</dateline>
+<text>
+<p>Japanese game machine maker Konami Co Ltd said on Wednesday that a finance firm it set up earlier this year would start operating from December 10 after obtaining permission from the Tokyo metropolitan government.</p>
+<p>The new firm was set up in October to procure funds necessary for expanding the Konami group's business, the company said in a statement.</p>
+<p>The finance firm, capitalised at 50 million yen, will procure funds by bank loans and issuing commercial paper and bonds, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

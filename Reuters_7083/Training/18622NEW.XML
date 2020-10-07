@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18622" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Secure Computing completes acquisition.</title>
+<headline>Secure Computing completes acquisition.</headline>
+<dateline>ST. PAUL, Minn. 1996-08-28</dateline>
+<text>
+<p>Secure Computing Corp said Wednesday it has completed its acquisition of Enigma Logic and expects to close its acquisition of Border Network Technologies Thursday.</p>
+<p>Under the terms of the Enigma acquisition, the company issued about 2.7 million shares of stock and options for all outstanding shares and options of Enigma Logic.  Secure Computing has shareholder approval to issue 6.6 million shares, options and warrants for all outstanding shares, options and warrants of Border, the company said, adding that both transactions are tax-free reorganizations and will be accounted for as a pooling of interests.</p>
+<p>Secure Computing also said it is opening offices in Kuala Lumpur, Malaysia, and in Amsterdam.  These offices will provide marketing, selling and customer support to their respective geographic regions.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

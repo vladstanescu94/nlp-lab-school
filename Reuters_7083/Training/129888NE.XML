@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129888" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Novell Internet standard gets support.</title>
+<headline>Novell Internet standard gets support.</headline>
+<dateline>OREM, Utah 1996-10-21</dateline>
+<text>
+<p>Novell Inc said on Monday that it is getting support from 12 print industry leaders for its drive to create a new technology standard to enable printing across the Internet.</p>
+<p>If adopted, this proposed standard will simplify the ISO 10175 protocol used by major print vendors for ease of printing over the Internet and corporate intranets, a statement from Novell said.</p>
+<p>The company said this will also present print vendors with the compatibility they need to support new and existing systems their customers use.</p>
+<p>&quot;There is a great need for creating a standard that will enable users to send and control print jobs to remote printers attached to the Internet,&quot; said Marc Epstein, vice president and general manager of Novell's Network Services Division.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

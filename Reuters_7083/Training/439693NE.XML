@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="439693" id="root" date="1997-03-13" xml:lang="en">
+<title>USA: Wang to build new headquarters building.</title>
+<headline>Wang to build new headquarters building.</headline>
+<dateline>BILLERICA, Mass. 1997-03-13</dateline>
+<text>
+<p>Wang Laboratories Inc said on Thursday it will build a new headquarters building on a 72-acre parcel it owns next to its current headquarters.</p>
+<p>Gutierrez Co, which owns Wang's current building, will lease the space to Bay Networks Inc of Santa Clara, Calif., which plans to move 400 employees into it by mid-summer 1997.</p>
+<p>Wang's new building, a three-story, 150,000-square-foot facility, is scheduled for completion in the summer of 1998. Meanwhile, Wang will temporarily relocate some employees within the current headquarters building or to another Wang site to make way for Bay Networks, which plans to use the site as its East Coast anchor.</p>
+<p>Wang is a network and desktop integration and services company. Bay Networks provides internetworking products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BILLERICA, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

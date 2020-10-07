@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74514" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Adobe Q3 shr falls on seasonality, delays. [CORRECTED 22:03 GMT]</title>
+<headline>Adobe Q3 shr falls on seasonality, delays. [CORRECTED 22:03 GMT]</headline>
+<dateline>SAN JOSE 1996-09-25</dateline>
+<text>
+<p>Adobe Systems Inc, a maker of printing and graphics software, said on Wednesday third quarter earnings fell from year ago levels due to fewer sales of Macintosh products, new product delays and seasonality.</p>
+<p>The company earned $0.40 a share in the quarter after a gain of $0.05 a share for gains on investments. That figure is right on target with analysts's forecasts of $0.35 a share before the gain, but below year ago earnings of $0.44 a share.</p>
+<p>In after hours trading immediately after the earnings announcement, Adobe shares rose 2-1/2 to 37-1/2 from Wednesday's closing price of 35.  </p>
+<p>Macintosh computers, made by Apple Computer Inc, appeal strongly to graphics and design professionals who are also more likely to purchase Adobe products.</p>
+<p>Sales of products based on Microsoft Corp's Windows operating system now make up nearly 44 percent of total sales.</p>
+<p>Sales of application products fell to $130 million from $138 million last year, while revenues from licensing its software rose to $50.4 million from $45 million one year ago, reflecting an increase in the popularity of color printers, among other reasons, Adobe said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

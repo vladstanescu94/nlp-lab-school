@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="347005" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: Delphi completes $5.6 million placement.</title>
+<headline>Delphi completes $5.6 million placement.</headline>
+<dateline>ROLLING MEADOWS, Ill. 1997-01-31</dateline>
+<text>
+<p>Delphi Information Systems Inc on Friday said it completed a private placement providing gross proceeds of $5.6 million.</p>
+<p>As part of the private placement, Delphi said it issued warrants that may provide additional capital to the company in the future.  </p>
+<p>Proceeds from the placement will be used in consolidating Delphi's operations, continuing to build product platforms and exploiting significant revenue opportunities, Delphi said.</p>
+<p>The company said it is pleased with this placement and the recently signed $4.0 million line of credit.</p>
+<p>&quot;We are now achieving operational and financial stability and are poised to capitalize on the notable revenue opportunities at hand,&quot; said Yuval Almog, chairman of Delphi.</p>
+<p>Delphi provides business information solutions to the property and casualty insurance industry.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROLLING MEADOWS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

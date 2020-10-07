@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="436646" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: AirMedia releases personal portfolio software.</title>
+<headline>AirMedia releases personal portfolio software.</headline>
+<dateline>LOS ANGELES 1997-03-12</dateline>
+<text>
+<p>AirMedia Inc said Wednesday it released its Personal Portfolio software for its Internet broadcast network.</p>
+<p>AirMedia also said Microsoft Corp will integrate AirMedia technology and wireless services, including the new Personal Portfolio, into Microsoft's Internet Explorer 4.0 and the Active Desktop.</p>
+<p>The software &quot;listens&quot; to the constant, almost real-time broadcast of financial information from the company's wireless network and then delivers stock prices, alerts to changes in price levels and late-breaking news customized to a subscriber's portfolio.</p>
+<p>The company said the information arrives through a wireless receiver, even when the subscriber's modem is not connected.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

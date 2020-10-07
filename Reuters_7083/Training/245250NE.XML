@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245250" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Netscape signs browser pact with 5 Bell cos.</title>
+<headline>Netscape signs browser pact with 5 Bell cos.</headline>
+<dateline>MOUNTAIN VIEW 1996-12-10</dateline>
+<text>
+<p>Netscape Communications Corp and five U.S. regional Bell phone companies said Tuesday they agreed to a marketing pact that sets Netscape Navigator as the main browser for their Internet service offerings.</p>
+<p>Taking part in the deal with Netscape were the Internet service provision units of Ameritech Corp, Bell Atlantic Corp, BellSouth Corp, Pacific Telesis Group and SBC Communications Inc.  </p>
+<p>The pact includes a plan to simplify how computer users select an Internet Service Provider, or ISP.</p>
+<p>Users running Netscape Navigator software would be able to contact telephone company ISPs through the new Netscape ISP Select feature on its Navigator browser software, they said.</p>
+<p>Netscape said the ISP Select service will allow people to set up a personal Internet account and establish an Internet connection easily and quickly.  In addition, phone company customers would have free access to information available via the Netscape In-Box Direct service, the companies said.  </p>
+<p>Netscape In-Box is a service recently introduced by Netscape to provide information from 40 selected content providers.</p>
+<p>Together, the five Bell companies represent a potential market of 72 million consumers and businesses in 26 states, including Washington, D.C., and in 15 of the nation's 20 largest markets.</p>
+<p>The companies said the ISP Select feature will make it easy for customers to select the five regional Bell Internet companies for Internet access services.  </p>
+<p>Netscape and its partners said the new service is designed to meet the needs of business users wanting to establish home accounts, new customers looking to choose an ISP and users who want to establish an Internet connection.</p>
+<p>It said future plans include offering the ability for ISP Select users who choose their local telephone company's Internet access service to bill their Internet fees directly to their phone bill.</p>
+<p>Netscape ISP Select also provides the local telephone companies with an easy way to market information about their services directly to potential customers, it said.</p>
+<p>The system works like this: ISP Select will be accessible through a section of Netscape's Internet site which will take users through the necessary steps for easily creating an account, selecting an ISP or choosing a different ISP.</p>
+<p>After users enter their area code and phone number, they will be presented with a list of service providers with coverage in their particular area.</p>
+<p>ISP Select enables users to create a new account automatically with their local telephone company, directly from their computer.  Accounts are fully active at the completion of the sign-up process.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

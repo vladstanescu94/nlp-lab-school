@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276290" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: NYSE Unavailables.</title>
+<headline>NYSE Unavailables.</headline>
+<dateline>NEW YORK 1996-12-26</dateline>
+<text>
+<p>The New York Stock Exchange said Thursday that Computer Associates International Inc was unavailable for after-hours trading for news pending.</p>
+<p>Computer Associates later announced it foresaw revenues for its third quarter would be lower than Wall Street estimates.</p>
+<p>Oneita Industries Inc, Westmoreland Coal Co, Westmoreland's preferred A stock and Corimon SACA were also unavailable, the exchange said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

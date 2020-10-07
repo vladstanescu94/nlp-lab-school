@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91230" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Remedy sets operating profits target.</title>
+<headline>Remedy sets operating profits target.</headline>
+<dateline>SAN FRANCISCO 1996-10-02</dateline>
+<text>
+<p>Remedy Corp Chief Financial Officer George De Urioste said on Wednesday that the company's financial model targets operating profits of 22-24 percent after 1997.</p>
+<p>De Urioste was speaking at a presentation at the Montgomergy Securities conference here.</p>
+<p>De Urioste told analysts that operating profits were running at a rate of 26 percent in the first half of 1996.</p>
+<p>Remedy, maker of customer support software, said on Tuesday that it expected to report third-quarter earnings per share of about $0.30, exceeding analysts' expectations.</p>
+<p>The company announced a two-for-one stock split on Tuesday. It will take the form of a stock dividend entitling each shareholder of record on October 14 to receive two shares for every one share of common stock held. The stock split takes effect October 25. Shares of Remedy closed 8-1/2 higher on Wednesday at 87 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

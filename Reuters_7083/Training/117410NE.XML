@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117410" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Oracle unveils online commerce software.</title>
+<headline>Oracle unveils online commerce software.</headline>
+<dateline>SAN FRANCISCO 1996-10-15</dateline>
+<text>
+<p>Oracle Corp unveiled a collection of software products that it said enables customers set up online businesses that can handle transactions securely.</p>
+<p>Oracle, the world's second biggest software company after Microsoft Corp, also said it formed partnerships with other software and computer companies to sell products that make it easier to manage online merchandise sales, service and payments.</p>
+<p>The company has been developing modified versions of its database management programs -- which can handle huge amounts of rapid transactions such as credit card purchases -- to handle commerce on the Internet's World Wide Web of computer networks. Microsoft and Netscape Communications Corp. are developing similar products.</p>
+<p>At a conference here, Oracle unveiled a program that lets small businesses quickly set up online catalogs; a program that handles customer's payment information; a security program that verifies customer identification; and partnerships with companies such as CyberCash Inc and Hewlett-Packard Co to provide tools to move retailers to the Web.</p>
+<p>Oracle said its products can be used with existing supply, inventory and merchandising systems.</p>
+<p>The company also said it will modify all its financial and management applications to let business suppliers and purchasers conduct their commerce through the Web.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

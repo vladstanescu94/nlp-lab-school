@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242562" id="root" date="1996-12-09" xml:lang="en">
+<title>CANADA: DataMirror plans IPO to raise C$11 million.</title>
+<headline>DataMirror plans IPO to raise C$11 million.</headline>
+<dateline>TORONTO 1996-12-09</dateline>
+<text>
+<p>DataMirror Corp said it filed a final prospectus with securities regulators in each province of Canada for an initial public offering of two million common shares at C$5.50 each for total proceeds of C$11 million.</p>
+<p>The underwriting, which is expected to close Dec 16, is led by RBC Dominion Securities and includes Midland Walwyn Capital Inc and ScotiaMcLeod Inc.</p>
+<p>DataMirror, which makes data management software, said it will use the C$9,400,000 in net proceeds for research and development, opening additional sales offices and expanding marketing and sales.</p>
+<p>((Reuters Toronto bureau 416-941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

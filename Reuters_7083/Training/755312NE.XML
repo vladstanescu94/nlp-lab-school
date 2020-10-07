@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="755312" id="root" date="1997-07-24" xml:lang="en">
+<title>GERMANY: TABLE-SAP six-month results breakdown.</title>
+<headline>TABLE-SAP six-month results breakdown.</headline>
+<dateline>FRANKFURT 1997-07-24</dateline>
+<text>
+<p>First half 1997 (in millions of marks unless stated):</p>
+<p>						H1 97	Pct change</p>
+<p>    Group sales			  2,400	    +51</p>
+<p>    Group pretax profit		  582	    +56</p>
+<p>Sales breakdown:</p>
+<p>	America				995	    +85</p>
+<p>	Germany				507	    +15</p>
+<p>	Rest of Europe		     542	    +40</p>
+<p>	Asia-Pacific			 315	    +55</p>
+<p>	Product sales		    1,600	    +43</p>
+<p>	Consulting			   522	    +60</p>
+<p>	Training			     253	    +89</p>
+<p>    Personnel costs		    1,900	    +49</p>
+<p>NOTE - Full name of the German software group is SAP AG.</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

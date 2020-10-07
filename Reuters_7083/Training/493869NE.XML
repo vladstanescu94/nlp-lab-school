@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="493869" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: Microsoft unveils new version of Internet browser.</title>
+<headline>Microsoft unveils new version of Internet browser.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-04-08</dateline>
+<text>
+<p>Microsoft Corp. Tuesday fired the latest salvo in its battle with rival Netscape Communications Corp. as it unveiled the latest version of its Internet Explorer browser.</p>
+<p>Version 4.0 of the Microsoft browser was posted on the Internet (http://www.microsoft.com/ie), but the company cautioned that the &quot;platform preview release&quot; was only for developers and technical evaluators.</p>
+<p>Meanwhile Netscape this week released a third &quot;platform preview&quot; version of its competing Communicator suite of Internet products, which includes its popular Navigator browser.</p>
+<p>Microsoft's browser will be finalized by sometime in &quot;midsummer,&quot; a company executive said, while the Netscape package will be available commercially this quarter.</p>
+<p>&quot;Having a browser beta that is such an early beta out in the public hands is something that would never have happened two years ago,&quot; said Annette Hamilton of ZDNet AnchorDesk, referring to the Microsoft preview release.</p>
+<p>&quot;The reason it is happening is there is so much intense competition,&quot;she said. &quot;They don't want to lose momentum.&quot;</p>
+<p>Until last year Navigator dominated the emerging Internet market with an overwhelming market share of about 90 percent, but with the release of version 3.0 of Internet Explorer, Microsoft has come back to capture up to one third of the market.</p>
+<p>Microsoft gives away its browser for free, and many customers pay only small licensing fees for current Navigator versions. But the market battle is crucial in Microsoft's effort to maintain its dominance of the personal computer industry by controlling the operating system.</p>
+<p>In fact the new version of Internet Explorer can be integrated into the Windows 95 desktop and so users can &quot;browse&quot; for information either on the individual computer or out on the Internet.</p>
+<p>The browser ultimately will be integrated into an update of the Windows 95 operating system, expected sometime next year.</p>
+<p>Microsoft also said the new browser can be programmed to automatically check for updates to frequent Web sites and to allow for &quot;Webcasting&quot; by content providers that will be able to offer subscriptions.</p>
+<p>&quot;We've combined push capabilities, (computer) desktop integration and the latest in browsing and communication technologies to deliver the best of the PC and the best of the Web,&quot; said Brad Chase, vice president of Microsoft's applications and Internet client group.</p>
+<p>The initial version of Internet Explorer 4.0 will be available only for Microsoft's Windows 95 platofrm, although the company also is working on versions for Windows 3.1, Macintosh and Unix, officials said.</p>
+<p>Meanwhile Netscape's Communicator, which will cost $59 for individual licenses, will work on all platforms, said Daniel Klaussen, a group product manager for the company.</p>
+<p>&quot;Not much is given away in the world,&quot; he said, referring to Microsoft's browser. &quot;For its business model to work Microsoft really needs users to upgrade to their latest operating system, and of course that is not free.&quot;</p>
+<p>Internet Explorer 4.0 also includes Outlook Express, which gives users advanced e-mail and other capabilities; Microsoft NetMeeting, software that allows video conferencing; and Microsoft NetShow, software that enables Web publishers to offer live &quot;Webcasts&quot; as well as video and multimedia on demand by computer users.</p>
+<p>Microsoft stock rose $2.375 to $98.25 in Nasdaq trading Tuesday, while Netscape dipped 37.5 cents to $27.625.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

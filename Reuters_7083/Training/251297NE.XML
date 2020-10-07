@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251297" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: SPSS Inc opens sales office in Taiwan.</title>
+<headline>SPSS Inc opens sales office in Taiwan.</headline>
+<dateline>CHICAGO 1996-12-12</dateline>
+<text>
+<p>SPSS Inc said Thursday it opened an office in Taiwan, its sixth new office in 1996.</p>
+<p>Opening an office in Taipei exemplifies the expanding use of the company's statistical products in that nation, said SPSS. The company released a traditional Chinese version of its flagship product, SPSS for Windows, earlier this year.</p>
+<p>SPSS said it was the first company to market a statistical software product in traditional Chinese, the official lanugage of Taiwan.</p>
+<p>SPSS develops and markets statistical software programs.</p>
+<p>Its stock was up 3/4 at 29-1/4.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

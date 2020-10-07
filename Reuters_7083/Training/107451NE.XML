@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107451" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Optika Imaging Systems Q3 full results.</title>
+<headline>Optika Imaging Systems Q3 full results.</headline>
+<dateline>COLORADO SPRINGS, Colo. 1996-10-10</dateline>
+<text>
+<p>Optika Imaging Systems Inc.</p>
+<p>		   (In thousands, except per share amounts)</p>
+<p>				   Quarter Ended  Nine Months Ended</p>
+<p>				 Sep 30, Sept 30,   Sep 30, Sep 30,</p>
+<p>				    1996	1995     1996    1995</p>
+<p>Revenues:</p>
+<p>  Licenses		    $ 3,309  $ 2,132  $ 8,957 $ 5,576</p>
+<p>  Maintenance and other     1,002	549    2,315   1,538</p>
+<p>    Total revenues	    4,311    2,681   11,272   7,114</p>
+<p>Cost of revenues:</p>
+<p>  Licenses			  150	 63	427     167</p>
+<p>  Maintenance and other	 439	480    1,306   1,322</p>
+<p>    Total cost of revenues    589	543    1,733   1,489</p>
+<p> Gross profit		   3,722    2,138    9,539   5,625</p>
+<p>Operating expenses:</p>
+<p>  Sales &amp; marketing	   1,998	893    4,924   2,488</p>
+<p>  Research &amp; development    1,233	841    3,463   2,622</p>
+<p>  General &amp; administrative    302	297	915   1,128</p>
+<p>Total operating expenses</p>
+<p>				    3,533    2,031    9,302   6,238</p>
+<p>Income (loss) from operations:</p>
+<p>					189	107	237   (613)</p>
+<p> Total other income (expense)  72	(6)	 69    (29)</p>
+<p>Income (loss) before</p>
+<p>   provision for income taxes 261	101	306   (642)</p>
+<p> Provision for income taxes  (27)	(6)     (27)    (19)</p>
+<p> Net income (loss)		234	 95	279   (661)</p>
+<p>Weighted average shares</p>
+<p>  outstanding		   7,114    5,062    6,191   4,787</p>
+<p> Earnings per share	    0.03     0.02     0.05  (0.14)</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLORADO SPRINGS, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

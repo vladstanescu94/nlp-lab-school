@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652215" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: Netscape plans Java-type Communicator in '98.</title>
+<headline>Netscape plans Java-type Communicator in '98.</headline>
+<dateline>SAN JOSE, Calif. 1997-06-11</dateline>
+<text>
+<p>Netscape Communications Corp. co-founder Marc Andreessen said Wednesday the company plans to release a 100-percent Java-based version of its Communicator client software in 1998.</p>
+<p>Andreessen, vice president of technology at the Internet software company, said Netscape is now working on two new generations of software to follow the initial version of Communicator software it released this week.</p>
+<p>It is due to ship its next version of Communicator, code named Mercury, in early 1998 and will ship the Java- based version later in the year, he told Reuters.  </p>
+<p>Netscape, which was the initial licensee of Sun Microsystems' Java programming language two years ago, has used Java in parts of its Internet software programs - such as the Netcaster feature now in beta testing - but next year's version will be the first based entirely in Java, Andreessen said in an interview.</p>
+<p>Java is a programming environment created by Sun and licensed widely by makers of virtually every significant computer system. Among other features, it promises to enable software to run on non-compatible computers.</p>
+<p>Netscape Tuesday joined with Sun, International Business Machines Corp. and Oracle Corp. to embrace JavaBeans, a component model in which developers can simply plug in pre-built software parts.</p>
+<p>Component  software models have long been a holy grail of the industry and carry the promise of enabling people with few programming skills to assemble their own programs.</p>
+<p>Netscape and its partners also agreed to make an older component model known as CORBA to work with JavaBeans to take advantage of work already done in the area.</p>
+<p>The confederation of major high tech companies behind JavaBeans is likely to put pressure on Microsoft Corp., the dominant supplier of personal computer operating systems.</p>
+<p>Although Microsoft has said it will support JavaBeans, it is promoting its own model with features collectively known as ActiveX, which rival companies argue is designed to lock computer users into Microsoft 's Windows systems.</p>
+<p>Microsoft has said it naturally wants software to work best on its own systems, which are used with roughly 90 percent of the word's personal computers.</p>
+<p>Mike Homer, senior vice president of marketing at Netscape, said ActiveX trails Java use significantly in Internet use, according to a recent survey he conducted.</p>
+<p>Specifically, he said he found 587,000 locations using the Java-based JavaScript, compared with 35,000 using ActiveX. &quot;It's Microsoft-specific,&quot; he said of ActiveX.</p>
+<p>Kimball Brown, an industry consultant at Dataquest, the San Jose, Calif.-based market research firm, said the companies had ralled behind JavaBeans to blunt Microsoft, which has recently struck a deal with Hewlett-Packard Co. to help lead it into corporate data centers.</p>
+<p>&quot;Microsoft will kill them unless they do something,&quot; he said, adding that succeeding in getting software to work together could unlock stronger hardware sales. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

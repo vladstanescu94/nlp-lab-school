@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139464" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: SQA Inc Q3 net rises.</title>
+<headline>SQA Inc Q3 net rises.</headline>
+<dateline>BURLINGTON, Mass. 1996-10-24</dateline>
+<text>
+<p>Three Months	Nine Months</p>
+<p>					1996    1995	  1996   1995</p>
+<p>    License fees		$4,807  $2,318     $11,335 $5,964</p>
+<p>    Services		     1,995   1,123	 5,417  2,722</p>
+<p>	  Total revenue	  6,802   3,441	16,752  8,686</p>
+<p>    License fees		   293     144	   603    366</p>
+<p>    Services			 632     416	 1,704  1,079</p>
+<p>	Total cost of revenue    925     560	 2,307  1,445</p>
+<p>    Gross profit		 5,877   2,881	14,445  7,241</p>
+<p>    Sales and marketing	2,809   1,531	 7,233  4,272</p>
+<p>    Research and development 1,219     565	 2,956  1,742</p>
+<p>    General and admin	    838     573	 1,936  1,539</p>
+<p>	 Total oper expenses   4,866   2,669	12,125  7,553</p>
+<p> Income from operations	1,011     212	 2,320  (312)</p>
+<p> Other income, net		 464	77	 1,315    162</p>
+<p> Income (loss) taxes	   1,475     289	 3,635  (150)</p>
+<p> Provision for income taxes    148     ---	   338    ---</p>
+<p> Net income (loss)	     1,327     289	 3,297  (150)</p>
+<p> Net income (loss) per share  0.15    0.05	  0.38 (0.03)</p>
+<p> Wtd avg shrs outstanding    8,858   5,980	 8,786  5,875</p>
+<p>(In thousands, except per share data)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

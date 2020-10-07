@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="741839" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: STAC to incur charge in Sept 1997 quarter.</title>
+<headline>STAC to incur charge in Sept 1997 quarter.</headline>
+<dateline>SAN DIEGO 1997-07-21</dateline>
+<text>
+<p>Stac Inc said during the September 1997 quarter, the company expects to incur a charge of about $750,000, or $0.02 per share, in connection with the reorganization of its sales and marketing departments.</p>
+<p>Research and development expenses for the June 1997 quarter increased to $3,002,000 from $2,132,000 a year earlier due to the addition of development personnel to support the ReachOut, Replica and Hi/fn product lines.</p>
+<p>The company expects to continue to spend significant amounts on the development of the Replica product line and on Hi/fn's coprocessor products.  </p>
+<p>Sales and marketing expenses for the June 1997 quarter were $4,714,000 versus $3,402,000 in the year earlier quarter.</p>
+<p>The increase in sales and marketing expenses was the result of the addition of personnel and program costs intended to create end user demand for the Company's products.</p>
+<p>The company plans to focus its sales and marketing efforts on its primary customer profile and, as a result, expects its sales and marketing expenses to decrease in the September 1997 quarter. General and administrative expenses in the June 1997 quarter were $1,385,000 compared with $1,016,000 in the year earlier quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

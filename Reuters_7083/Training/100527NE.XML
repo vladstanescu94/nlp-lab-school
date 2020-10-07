@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100527" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Microsoft opposes new TV standards - NYT.</title>
+<headline>Microsoft opposes new TV standards - NYT.</headline>
+<dateline>NEW YORK 1996-10-07</dateline>
+<text>
+<p>Microsoft Corp is trying to get the U.S. Federal Communications Commission to accommodate the computer software company and its industry allies by altering planned technical standards for digital television broadcasting, the New York Times reported on Monday.</p>
+<p>The newspaper said the company was arguing in its lobbying to the commission that the standards could hamper the computer industry's future use of the broadcast spectrum.</p>
+<p>The television industry has rejected Microsoft's arguments, saying the standard would enhance the computer industry's entry into broadcasting by digitising transmissions and allowing data to be sent while video was played, it added.</p>
+<p>The newspaper said the debate was over whether the 18 video formats specified in the standard should be retained.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

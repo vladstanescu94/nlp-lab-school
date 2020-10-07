@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273521" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - SPSS rating, estimate upped.</title>
+<headline>RESEARCH ALERT - SPSS rating, estimate upped.</headline>
+<text>
+<p>-- EVEREN Securities Inc said Monday it raised its rating and estimates for SPSS Inc. The statistical software company's intermediate-term rating is now outperformer, compared to market performer, and its six-month price target is $35, up from $30. Its 18-month price target is $41, up from $35.</p>
+<p>-- EVEREN's fiscal 1997 earnings estimate was raised to $1.48 from $1.42 to reflect improving internal growth and the expected contribution from recent acquisitions.</p>
+<p>-- EVEREN said SPSS is also positioned to drive productivity and enhance data usage in commercial, academic and governmental institutions.</p>
+<p>-- The company's stock was up 7/8 Monday at 27-7/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

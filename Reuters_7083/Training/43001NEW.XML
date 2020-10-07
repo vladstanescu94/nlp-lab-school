@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43001" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Microsoft to launch photo-editing software product.</title>
+<headline>Microsoft to launch photo-editing software product.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-09-10</dateline>
+<text>
+<p>Microsoft Corp. plans to launch a photo-editing product for consumers Wednesday, aiming to exploit the booming growth of both the Internet and color printers.</p>
+<p>Microsoft Picture It, to be available in stores by late October for about $80, will allow consumers to manipulate their photos onscreen, correcting colors, eliminating &quot;redeye&quot; and adding borders, text and other features.</p>
+<p>&quot;For the first time consumers are going to be able to create photographic quality print output using nothing more than a typical home PC,&quot; said Kirsty Ellison, a Microsoft product manager.</p>
+<p>In the past, photo manipulation typically was limited to professionals with high-powered computers and costly software such as Adobe Systems Inc's Photoshop.</p>
+<p>Recently Adobe made a stripped-down version of its software known as PhotoDeluxe available to the consumer for about $89.</p>
+<p>Now Microsoft, Eastman Kodak Inc., Hewlett Packard Co. and Live Picture Inc. have teamed up to develop image compression technology called FlashPix which speeds image processing on screen while retaining the ability to produce high-resolution prints.</p>
+<p>Live Picture Inc., a California photography software company headed by former Apple Computer Inc. Chief Executive John Sculley, this week launched a product called LivePix that will be available in time for the holiday season and will compete with Microsoft's offering.</p>
+<p>Kodak hopes the products will help it expand its digital photography business, including providing CD-ROM disks in addition to standard prints and offering electronic versions of photographs by computer modem.</p>
+<p>Consumers also can get their photos put onto computer diskette or CD-ROM through many processing services or can scan them in using increasingly popular scanner devices.</p>
+<p>Another option is to use a digital camera, which uses a computer chip rather than film to capture images and can be plugged directly into a PC.</p>
+<p>Microsoft's Ellison said some 7 million U.S. homes acquired color inkjet printers within the past year, and new models from Hewlett-Packard will be optimized for the FlashPix format.</p>
+<p>Picture It, which requires Microsoft's Windows 95 operating system, also can be used to send images, collages and electronic &quot;slide shows&quot; over the Internet, even to recipients who do not have the software, Ellison said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I49300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

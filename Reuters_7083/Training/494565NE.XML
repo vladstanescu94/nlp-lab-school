@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494565" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: Microsoft unveils Internet Explorer 4.0.</title>
+<headline>Microsoft unveils Internet Explorer 4.0.</headline>
+<dateline>REDMOND, Wash. 1997-04-08</dateline>
+<text>
+<p>Microsoft Corp said Tuesday it unveiled its Microsoft Internet Explorer 4.0, the next-generation Internet browser software.</p>
+<p>Microsoft also said it delivered the Platform Preview Release of Microsoft Internet Explorer 4.0, a test version for content and software developers as well as technical corporate evaluators.  </p>
+<p>The Internet Explorer 4.0 offers &quot;seamless integration&quot; with the user interface in the Windows operating system and will include advanced browser capabilities, e-mail, data and video conferencing, applications sharing, editing and webcasting &quot;push&quot; capabilities, Microsoft said.</p>
+<p>&quot;We've combined push capabilities, desktop integration and the latest in browsing and communication technologies to deliver the best of the PC and the best of the Web,&quot; said Brad Chase, vice president of Microsoft's applications and Internet client group.  </p>
+<p>With webcasting, users can &quot;subscribe&quot; to any Web site, be notified of changes without having to visit the site, and have the Web site content delivered, or &quot;pushed&quot; to them, Microsoft said.</p>
+<p>Full integration with the Windows user interface is unique to Microsoft Internet Explorer 4.0, the company said. It provides users single access to information, regardless of where it is located, whether on a local machine, a local area network (LAN) or the Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

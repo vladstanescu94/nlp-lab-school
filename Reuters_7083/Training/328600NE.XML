@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328600" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: INTERVIEW - Boole &amp; Babbage seeks acquisitions.</title>
+<headline>INTERVIEW - Boole &amp; Babbage seeks acquisitions.</headline>
+<dateline>SAN JOSE, Calif. 1997-01-22</dateline>
+<text>
+<p>Flush with cash and a rising share price, Boole &amp; Babbage Inc is looking to buy rival software companies, aiming to double its revenue in three years, the company's chief executive said on Wednesday.</p>
+<p>With size comes clout, which relatively tiny Boole &amp; Babbage needs to fend off its rivals in the field of system-management software, including the likes of International Business Machines Corp and Computer Associates International Inc.</p>
+<p>&quot;We want to be in a position where people have to consider us when they are looking for this type of software,&quot; Paul Newton, Boole &amp; Babbage's chief cxecutive said in an interview.  </p>
+<p>Boole &amp; Babbage, based in San Jose, writes software that helps technicians keep track of the performance of sprawling computer networks such as airline reservation systems or telephone operations.</p>
+<p>The system-management software niche -- estimated by brokerage Hambrecht &amp; Quist to generate about $1.5 billion to $2 billion in revenue annually -- has proven lucrative for IBM and Computer Associates. Increasingly, however, smaller players have struggled as customers choose just one or two vendors.  </p>
+<p>Since Newton took control of Boole &amp; Babbage in October 1991, he has bulked up the company, seeking to build it into one of the big boys.</p>
+<p>Revenue has increase 51 percent to $167.2 million in the fiscal year ended September 1996 from $110.5 million in 1992. Total assets have more than doubled to $207.1 million in the same period, while Boole &amp; Babbage's stock in the past 12 months has doubled to 23.</p>
+<p>In December, Boole &amp; Babbage used $25 million of that stock to buy rival software supplier MAXM Systems Corp, a closely held company with $20 million in revenue in 1996.  </p>
+<p>That's just the start, Newton said.</p>
+<p>&quot;We would like to do a couple more of these,&quot; he said. &quot;We have a decent stock price, we got a reasonable amount of cash, and we have a much more efficient engine for selling and distributing product.&quot;</p>
+<p>Newton also plans to wean Boole &amp; Babbage from sales of mainframe software and to expand the company's product line to include so-called client-server programs for managing networks made of personal computers and workstations, he said.  </p>
+<p>With its acquisition plans, half of Boole &amp; Babbage's revenue would come from client-server management tools by 1998, up from about a third currently, Newton said.</p>
+<p>Wall Street analysts who track Boole &amp; Babbage said they liked the strategy.</p>
+<p>&quot;The acquisitions help,&quot; said Joseph Farley, an analyst at UBS Securities in New York. &quot;It's something that will give them more visibility.&quot;</p>
+<p>Farley also praised Newton for managing Boole &amp; Babbage's growth. &quot;This is one the best-run technology companies.&quot;  </p>
+<p>Still, Boole &amp; Babbage has to contend with IBM and Computer Associates, companies that dwarf Boole &amp; Babbage in revenue and marketing resources.</p>
+<p>IBM on Tuesday said that revenue from its Tivoli systems-management unit tripled in the fourth quarter from the year-earlier period.</p>
+<p>Computer Associates, the second-largest software company after Microsoft Corp, has spent lavishly and lined up marquee partnerships with computer vendors to promote its CA-Unicenter systems-management product.  </p>
+<p>Newton said he recognized the competitive threat. To deal with it, Boole &amp; Babbage focuses tightly on selling so-called console management software -- programs that give technicians at a glance an overview of the performance of the network.</p>
+<p>While IBM and Computer Associates sell similar products, some customers prefer Boole &amp; Babbage's Command/Post.</p>
+<p>&quot;We have been running Command/Post for years,&quot; said Russell Guinn, an enterprise-monitoring specialist at Shell Services Co, a computer services company specializing in the energy industry. &quot;It has some keen features that the others don't.&quot;</p>
+<p>((Kourosh Karimkhany in Palo Alto, + 1 415 846-5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

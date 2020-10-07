@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789579" id="root" date="1997-08-08" xml:lang="en">
+<title>USA: Informix reports loss, to restate 1996 results.</title>
+<headline>Informix reports loss, to restate 1996 results.</headline>
+<text>
+<p>MENLO PARK, Calif., Reuter - Informix Corp. on Thursday reported a substantial second-quarter loss and said it plans to restate 1996 results to reflect errors in the way the computer software company recorded revenues.</p>
+<p>The maker of tools and software for database management reported a loss of $120.5 million, or 79 cents a share, for the period, including a restructuring charge of $62.1 million related to job cuts and writedowns of certain assets.</p>
+<p>In the second quarter of 1996, Informix earned $21.6 million, or 14 cents a share.</p>
+<p>Revenues slid to $164.7 million from $226 million over the same period.</p>
+<p>The company and its auditors are determining how much revenue should not have been recognised in 1996. At least some revenue from the transactions being reviewed should have been deferred to later periods, the company said.</p>
+<p>Based on reviews so far, Informix estimated that about $70 million to $100 million of revenue will be adjusted. The company said it will provide restated 1996 results as soon as possible.</p>
+<p>&quot;We have applied our revenue recognition policies very conservatively in Q2, resulting in recording revenue only for products and services sold directly to end users or through our partners for identified customers,&quot; said Bob Finocchio, who was named chairman and chief executive officer in July.</p>
+<p>&quot;There were no increases in general &quot;pool of funds&quot; revenues from resellers this quarter.&quot;</p>
+<p>The company also said it will cut another 10 percent to 15 percent of its work force in the third quarter, mainly in sales and marketing. The company cut 440 employees, lowering its work force to 4,190, in the second quarter. An unspecified charge will be taken to cover severance and asset writedowns.</p>
+<p>News of the second-quarter loss and 1996 revenue errors comes a week after Chief Executive Bob Finocchio replaced Phil White as chairman. White had accepted blame for a sharp drop in sales earlier this year after placing a bad bet on new database technology. Informix writes computer programmes that store libraries of vital data in corporate computer networks.</p>
+<p>In addition, the company said it is reorganizing its centralizing European and U.S. administrative and finance functions, technical support, and operations. The company said it will not build a new headquarters campus in Santa Clara, Calif., on land acquired in January, and will put the Santa Clara real estate on the market.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125378" id="root" date="1996-10-17" xml:lang="en">
+<title>JAPAN: Roland to supply digital musical data to Microsoft.</title>
+<headline>Roland to supply digital musical data to Microsoft.</headline>
+<dateline>TOKYO 1996-10-17</dateline>
+<text>
+<p>Roland Corp said on Thursday it would provide Microsoft Corp with digital data for musical sounds to be used in personal computer software.</p>
+<p>A spokesman for the Osaka-based maker of electronic keyboard instruments declined to disclose how much the contract was worth or to give any other details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I49200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

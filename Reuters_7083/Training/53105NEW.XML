@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53105" id="root" date="1996-09-13" xml:lang="en">
+<title>JAPAN: Fukui Computer bid-only on stock split.</title>
+<headline>Fukui Computer bid-only on stock split.</headline>
+<dateline>TOKYO 1996-09-13</dateline>
+<text>
+<p>Shares in Fukui Computer Inc were bid-only in mid-morning trade on Friday on the company's plans to conduct a stock split, brokers said.</p>
+<p>At 0143 GMT, the shares were bid-only at 5,450 yen after closing at 5,050 on Thursday.</p>
+<p>On Thursday the firm said it planned a 1.5-for-1 share split on November 20 for shareholders as of September 30.</p>
+<p>The share split will increase the number of outstanding shares by 3,765,000 to a total 11,295,000 shares, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

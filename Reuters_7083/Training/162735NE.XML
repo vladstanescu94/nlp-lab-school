@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162735" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: ForeFront Group Inc Q3 shr loss increases.</title>
+<headline>ForeFront Group Inc Q3 shr loss increases.</headline>
+<dateline>HOUSTON 1996-11-04</dateline>
+<text>
+<p>For the Three Months	 For the Nine Months</p>
+<p>		    Ended Sept. 30,	     Ended Sept. 30,</p>
+<p>			1995	  1996	   1995	   1996</p>
+<p>Total revenues</p>
+<p>		 1,514,838    3,593,750    4,502,164    9,457,534</p>
+<p>Operating loss</p>
+<p>		 (204,052)  (2,797,594)     (97,054)  (6,070,478)</p>
+<p> Net loss     (216,962)  (2,685,804)    (116,556)  (5,638,056)</p>
+<p>Net loss</p>
+<p>   per share (0.05)	 (0.44)	 (0.03)	 (0.95)</p>
+<p>Shares used in</p>
+<p>computing net</p>
+<p>loss per share</p>
+<p>		 4,319,465    6,119,516    4,304,733    5,949,484</p>
+<p>/a  Includes one-time charge of $.41 million due to</p>
+<p>purchase of several software licenses intended for future</p>
+<p>product development.</p>
+<p>/b  Includes one-time charge of $1.56 million due to</p>
+<p>acquisition of AllMicro, Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

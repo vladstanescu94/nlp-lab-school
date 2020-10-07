@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13919" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Informix CFO to resign at year end.</title>
+<headline>Informix CFO to resign at year end.</headline>
+<text>
+<p>MENLO PARK, Calif., Aug. 26 (REUTER) - Informix Software Inc said on Monday that Howard Graham, chief financial officer, will leave the company at the end of this year.</p>
+<p>&quot;At this point, I have made a personal choice to help find a replacement CFO, finish the year at Informix, and then evaluate potential opportunities in smaller environments,&quot; Graham said in a statement.  </p>
+<p>Graham joined Informix in February 1990 as vice president, finance and chief financial officer and became senior vice president, finance and CFO in March 1991.</p>
+<p>From 1988 to February 1990, he served as senior vice president, finance and administration, for Wyse Technology. Prior to that, he spent 15 years with Zenith Electronics, most recently as vice president finance and CFO.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

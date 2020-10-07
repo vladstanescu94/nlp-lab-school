@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32256" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: AT&amp;T unit ships Macintosh browser.</title>
+<headline>AT&amp;T unit ships Macintosh browser.</headline>
+<dateline>BRIDGEWATER, N.J. 1996-09-04</dateline>
+<text>
+<p>AT&amp;T Corp said on Wednesday that it has begun shipping a Macintosh version of dial-up software for AT&amp;T WorldNet Service, AT&amp;T's Internet access service.</p>
+<p>AT&amp;T said that the co-branded version of the Netscape Navigator browser for Macintosh enables users of the Apple Computer Inc platform to join Windows-based customers who subscribe to AT&amp;T WorldNet Service.</p>
+<p>The company said that the AT&amp;T WorldNet Service Mac browser is bundled with the service's software at no extra charge.</p>
+<p>Windows is a registered trademark of Microsoft Corp.</p>
+<p>Netscape Navigator is a trademark of Netscape Communications Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRIDGEWATER, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

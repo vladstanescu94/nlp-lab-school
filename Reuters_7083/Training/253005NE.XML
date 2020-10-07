@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253005" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Borland sees Q3 operating loss.</title>
+<headline>Borland sees Q3 operating loss.</headline>
+<dateline>SCOTTS VALLEY, Calif. 1996-12-11</dateline>
+<text>
+<p>Borland International Inc said on Wednesday it expects to report an operating loss for the third quarter ending December 31 of between $0.52 and $0.62 a share on revenues of about $33 to $36 million.  </p>
+<p>In a statement, Borland said it will also incur one-time costs associated with the acquisition of Open Environment Corp. and for restructuring actions taken during the quarter. Borland acquired Open Environment, a provider of scalable, multi-tier technology, on November 18.</p>
+<p>&quot;The anticipated loss is due, in part, to not shipping any new products in the quarter and slowing sales of existing, mature products as customers are anticipating Borland's upcoming and previously announced product releases,&quot; the company said. &quot;Another contributing factor is the inclusion of Open Environment's operating losses for the quarter.&quot;  </p>
+<p>According to First Call, analysts were expecting the company to report a third quarter loss of about $0.16 a share versus a profit of $0.03 a share in the year-ago period. It was not clear if the consensus estimate reflected the Open Environment costs and/or the restructuring charges.</p>
+<p>In October, restructuring actions reduced Borland's corporate headcount by approximately 15 percent, or 125 individuals, the company said.</p>
+<p>&quot;Borland is continuing to take steps aimed at returning to profitability and achieving sustainable growth in fiscal 1998,&quot; said Chief Financial Officer Paul Emery.  </p>
+<p>&quot;This quarter's expected lower revenues are largely a result of not shipping new products in the quarter. Additionally, costs associated with the acquisition of Open Environment and our organizational restructuring actions in October are expected to substantially increase our expenses for this quarter,&quot; he said.</p>
+<p>Delbert Yocam, who joined Borland as chairman and chief executive officer on December 2, said he will be carefully evaluating Borland's cost structure and product strategy over the next quarter, and expects to put in place a turnaround strategy for the company in the first quarter of fiscal 1998.</p>
+<p>&quot;At this point, it's too early for me to give detailed information on the steps we will need to take to return to profitability,&quot; he said. &quot;However, one high-priority objective is to strengthen Borland's management and operations, and successfully launch three new products over the next three quarters.&quot;</p>
+<p>The three products -- called Borland JBuilder, Delphi 97 and C++ Builder -- are designed for client/server and Internet developers building business applications.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTS VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

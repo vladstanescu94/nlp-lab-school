@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="590151" id="root" date="1997-05-16" xml:lang="en">
+<title>USA: Oracle to buy Netscape Internet unit - executives.</title>
+<headline>Oracle to buy Netscape Internet unit - executives.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1997-05-16</dateline>
+<text>
+<p>Oracle Corp. is expected to announce on Monday that it plans to buy a unit of Netscape Communications Corp. that designs Internet-access devices, industry executives said Friday.</p>
+<p>The chief executives of both companies -- Oracle's Larry Ellison and Netscape's James Barksdale -- plan to hold a press conference on Monday. Netscape and Oracle officials declined to say what they will dicuss.</p>
+<p>Executives close to the companies said, however, that the Network Computer Inc. unit of Oracle may buy Netscape's Navio Communications Inc., which makes software for browsing the World Wide Web through devices other than personal computers such as television sets and video game machines.</p>
+<p>Netscape established its Navio affiliate nine months ago, and Oracle and several consumer electronics companies announced support for the venture when it was first announced.</p>
+<p>Terms of the possible sale to Oracle could not be learned immediately.</p>
+<p>Oracle's NCI unit is designing software for so-called network computers, or NCs. These relatively cheap devices are stripped-down computers that get much of their horsepower from corporate or public computer networks, such as the Internet.</p>
+<p>Oracle's Ellison, who runs the nation's second-biggest software company after Microsoft Corp., has been pushing the NC concept as a way for big companies to cut computer costs, and to get computers into the homes of less affluent consumers.</p>
+<p>Until now, NCI has been concentrating on corporate markets. A Navio acquisition would give the unit expertise in making consumer-oriented devices, analysts said.</p>
+<p>&quot;It's tough to get Internet technology to work in the context of consumer electronics, because the processors are so simple, the memory is so limited and you don't have a hard drive,&quot; said Josh Bernoff, analyst at market researcher Forrester Research Inc. Navio is developing that expertise.</p>
+<p>In addition, buying Navio would help Oracle get consumer electronics companies to rally around the NC as a standard, Bernoff said.</p>
+<p>Oracle also could use Navio to stave off Microsoft in the battle for primacy in consumer's homes.</p>
+<p>In March, Microsoft paid $425 million to buy WebTV Networks, a company based in Palo Alto, Calif., that designs set-top devices for Internet access on TVs.</p>
+<p>Netscape shares fell Friday after the company said its revenue in coming quarter could be less than investors expected partly because of competition with Microsoft.</p>
+<p>In recent months, Netscape executives have said they would concentrate less on selling software to consumers and more on software to help corporate employees communicate.</p>
+<p>Netscape stock fell $5.31 to $29.25, while Oracle slid $1.56 to $44.375 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87476" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: U.S. to ease data codes export limits - newspaper.</title>
+<headline>U.S. to ease data codes export limits - newspaper.</headline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>U.S. President Bill Clinton has decided to allow U.S. computer companies to export more powerful data scrambling software so long as they establish a system that will enable keys to the code to be obtained by law enforcement officials with a court warrant, the New York Times reported Tuesday.</p>
+<p>The newspaper cited unidentified sources as saying Vice President Al Gore would announce the decision on October 2 or October 3.</p>
+<p>The decision would come into effect January 1, it added.</p>
+<p>Although several companies like IBM Corp had agreed to the system suggested by Clinton's administration, many others would likely reject it, the newspaper said.</p>
+<p>Computer companies have frequently criticized the export restriction imposed on them, saying it put them at a disadvantage against products sold by their foreign competitors, it said.</p>
+<p>The newspaper said the government had feared that a lighter restriction would allow terrorists and other criminal organizations to use the software.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

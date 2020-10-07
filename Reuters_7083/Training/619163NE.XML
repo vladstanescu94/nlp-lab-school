@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="619163" id="root" date="1997-05-28" xml:lang="en">
+<title>USA: Novell Inc Q2 net loss narrows.</title>
+<headline>Novell Inc Q2 net loss narrows.</headline>
+<dateline>PROVO, Utah 1997-05-28</dateline>
+<text>
+<p>Fiscal Quarter Ended     Six Months Ended</p>
+<p>		   Apr. 30,     Apr. 27,    Apr. 30,    Apr. 27,</p>
+<p>			  1997	 1996	   1997	  1996</p>
+<p> Net sales    $  273,107  $  188,180  $  647,954  $  626,099</p>
+<p> Cost of sales    77,175	68,614     153,146     164,625</p>
+<p> Gross profit    195,932     119,566     494,808     461,474</p>
+<p>Operating expenses</p>
+<p> Sales and mktg. 116,068     127,292     243,958     250,757</p>
+<p> Product dev.     68,442	69,723     140,197     148,356</p>
+<p> General &amp; admin  39,517	34,731	77,248	73,269</p>
+<p>Restructuring</p>
+<p>    charges	     --	    --	    --	18,442</p>
+<p>Total operating</p>
+<p>    expenses     224,027     231,746     461,403     490,824</p>
+<p>Income (loss)</p>
+<p>from operations (28,095)   (112,180)	33,405    (29,350)</p>
+<p>Other income</p>
+<p>(expense)</p>
+<p>Investment</p>
+<p>    income	   9,921	11,257	26,535	26,157</p>
+<p>Gain on sale</p>
+<p>    of assets	   --	19,815	    --	19,815</p>
+<p>    Other, net   (3,506)     (2,138)     (6,343)     (4,288)</p>
+<p>Total other</p>
+<p>income</p>
+<p>    (expense)	6,415	28,934	20,192	41,684</p>
+<p>Income</p>
+<p>    before taxes (21,680)   (83,246)	53,597	12,334</p>
+<p> Income taxes   ( 7,046)    (27,887)	17,419	 4,132</p>
+<p> Net income     (14,634)    (55,359)	36,178	 8,202</p>
+<p>Weighted average</p>
+<p>shares</p>
+<p>    outstanding  347,904     362,442     347,499     367,013</p>
+<p>Net income</p>
+<p>    per share     (0.04)	(0.15)	  0.10	  0.02</p>
+<p>(In thousands, except per share data)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PROVO, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

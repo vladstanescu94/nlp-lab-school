@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="224076" id="root" date="1996-11-28" xml:lang="en">
+<title>JAPAN: Japan consortium wins China financial system order.</title>
+<headline>Japan consortium wins China financial system order.</headline>
+<dateline>TOKYO 1996-11-28</dateline>
+<text>
+<p>A Japanese consortium, including Hitachi Ltd, Nippon Telegraph and Telephone Corp (NTT) and NTT Data Communications System Corp, said on Thursday it had won an order for a financial settlement system from the People's Bank of China.  </p>
+<p>The consortium also includes Itochu Corp and Marubeni Corp, the companies said in a statement.</p>
+<p>The statement did not say what the order was worth.  </p>
+<p>The system, called &quot;China National Automated Payment System,&quot; would become the core of financial modernisation in China, the statement said.</p>
+<p>The Chinese Academy of Science will also take part in the project, it said.</p>
+<p>The agreement was signed between NTT Data and the People's Bank of China together with the China National Instruments Import and Export Corp, the statement said.</p>
+<p>It said NTT Data would be responsible for system integration and would develop application software, in addition to overseeing the project as a whole.</p>
+<p>The statement said the Chinese Academy of Science would cooperate with NTT Data in developing application software, while NTT would be in charge of the communications network system.</p>
+<p>Hitachi and International Business Machines Corp (IBM) would have responsibility for computer systems and Marubeni and Itochu would be in charge of commercial affairs and trading duties, it said.  </p>
+<p>The new system would use both satellite and ground networks to link 100 branches of the People's Bank of China and 500 branches of five commercial banks, the statement said.</p>
+<p>The People's Bank of China has outlined a rough schedule to start in the first half of 1997 to build a pilot system for the network. The pilot system is expected to be completed within two and a half years, the statement said.</p>
+<p>It said the system would initially be used in 100 cities and was eventually expected to be used nationwide.</p>
+<p>The People's Bank of China has branches in more than 2,000 cities throughout China.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

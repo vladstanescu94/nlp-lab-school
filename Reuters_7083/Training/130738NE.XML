@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130738" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Microsoft Q1 cash, investments at $7.1 bln.</title>
+<headline>Microsoft Q1 cash, investments at $7.1 bln.</headline>
+<dateline>REDMOND, Wash 1996-10-21</dateline>
+<text>
+<p>Microsoft Corp said cash and short-term investments totalled $7.1 billion in the quarter ended September 30, 1996.</p>
+<p>This compared with $6.9 billion in the quarter ended June 30 and $5.1 billion in the year-ago first quarter ended September 30, 1995.  </p>
+<p>Microsoft reported first quarter net income of $614 million, and $0.95 per share, up 22 percent from the $0.78 reported for the corresponding quarter last year.</p>
+<p>Microsoft cited strong momentum behind its version 4.0 of Windows NT(R).</p>
+<p>&quot;Corporate customers made the decision to adopt Windows NT Servers and Workstations in record numbers, driving 19 percent revenue growth over last quarter in the U.S. and Canada,&quot; said Jeff Raikes, group vice president, sales and marketing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

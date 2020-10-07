@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="741795" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: OSI sees wider than expected Q4 loss.</title>
+<headline>OSI sees wider than expected Q4 loss.</headline>
+<dateline>FOLSOM, Calif. 1997-07-21</dateline>
+<text>
+<p>Objective Systems Integrators Inc said Monday it expects to report a wider than expected loss for its fourth quarter.</p>
+<p>The company said in a statement it expects revenues for the quarter, ended June 30, will be lower than expected at about $5 million, with a net loss of about $14 million to $15.5 million, or between $0.43 a share and $0.47 a share.</p>
+<p>Analysts had forecast the company would post a loss for the quarter of $0.16 a share, according to First Call. OSI reported profits of $2.4 million, or $0.07 a share, on revenues of $16 million in the comparable yaer-ago period.</p>
+<p>OSI attributed the wider than expected loss to weaker revenues and charges. The company provided about $5 million of additional reserves for doubtful accounts, of which $2.5 million related to a single customer that is experiencing cash flow shortages. One-time charges of about $2 million were taken for a previously announced management restructuring.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOLSOM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

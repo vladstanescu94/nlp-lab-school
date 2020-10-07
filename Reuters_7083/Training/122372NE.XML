@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122372" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Document Sciences Corp Q3 net rises.</title>
+<headline>Document Sciences Corp Q3 net rises.</headline>
+<dateline>SAN DIEGO 1996-10-17</dateline>
+<text>
+<p>Document Sciences Corp.</p>
+<p>			    Consolidated Statements of Income</p>
+<p>			     (Unaudited)</p>
+<p>			    Quarter Ended	  Nine Months Ended</p>
+<p>				Sept. 30,		  Sept. 30,</p>
+<p>			    1996	 1995	  1996	 1995</p>
+<p>Revenues:</p>
+<p>Initial license fees</p>
+<p>		     $2,526,772 $1,237,850  $6,030,064 $3,730,257</p>
+<p>Annual renewal license</p>
+<p>and support fees</p>
+<p>			  631,140    514,043   1,731,495  1,408,064</p>
+<p>Services and other</p>
+<p>			  951,691    538,715   2,698,098  1,316,766</p>
+<p>Total revenues    4,109,603  2,290,608  10,459,657  6,455,087</p>
+<p>Cost of revenues:</p>
+<p>Initial license fees</p>
+<p>			  212,780     34,345     526,444    132,677</p>
+<p>Annual renewal license</p>
+<p>and support fees</p>
+<p>			  122,646     86,447     367,234    266,122</p>
+<p>Services and other</p>
+<p>			  288,020    114,909     609,592    293,763</p>
+<p>Total cost of revenues</p>
+<p>			  623,446    235,701   1,503,270    692,562</p>
+<p> Gross margin     3,486,157  2,054,907   8,956,387  5,762,525</p>
+<p>Operating expenses:</p>
+<p>Research and development</p>
+<p>			  652,865    512,168   1,738,335  1,331,539</p>
+<p>Selling and marketing</p>
+<p>			1,893,053  1,058,380   5,142,062  2,924,451</p>
+<p>General and</p>
+<p>   administrative   411,079    386,988   1,146,696  1,119,262</p>
+<p>Total operating</p>
+<p>   expenses	 2,956,997  1,957,536   8,027,093  5,375,252</p>
+<p>Income from operations</p>
+<p>			  529,160     97,371     929,294    387,273</p>
+<p>Interest income, net</p>
+<p>			   25,644	  444	41,483	9,671</p>
+<p>Income before income</p>
+<p>  taxes		 554,804     97,815     970,777    396,944</p>
+<p>Provision for income</p>
+<p>  taxes		 221,922     36,940     391,478    147,899</p>
+<p> Net income	   332,882     60,875     579,299    249,045</p>
+<p>Net income per share</p>
+<p>			    4 cts	 1 ct	 6 cts	3 cts</p>
+<p>Shares used in</p>
+<p>per-share calculations</p>
+<p>			9,144,517  8,256,165   8,977,371  8,256,165</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568411" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Concentra Corp Q4 net loss vs profit.</title>
+<headline>Concentra Corp Q4 net loss vs profit.</headline>
+<dateline>BURLINGTON, Mass. 1997-05-08</dateline>
+<text>
+<p>Three months ended  Year ended</p>
+<p>					     March 31,	March 31,</p>
+<p>					    1997   1996    1997    1996</p>
+<p> Total revenues			4,062  6,827  24,053  20,720</p>
+<p> Restructuring		     239	0     239     196</p>
+<p> Total operating expenses	  9,716  5,964  28,502  21,293</p>
+<p>(Loss) income from operations</p>
+<p>					 (5,654)    863  (4,449)  (573)</p>
+<p>(Benefit) provision for income   taxes				  (319)	9     140	 9</p>
+<p> Net (loss) income		 (5,319)    850 (3,940)	36</p>
+<p>Net (loss) income per common and   common equivalent shares	(0.97)   0.15  (0.73)    0.01</p>
+<p>Weighted average number of common and common equivalent   shares outstanding		 5,479  5,535   5,391   5,750</p>
+<p>	     (in thousands, except per share data)</p>
+<p>NOTE: Concentra Corp said its fiscal year ended March 31.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

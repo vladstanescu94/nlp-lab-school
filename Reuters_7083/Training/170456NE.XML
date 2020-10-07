@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170456" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Oracle seeks to lead next computing era.</title>
+<headline>Oracle seeks to lead next computing era.</headline>
+<dateline>SAN FRANCISCO 1996-11-05</dateline>
+<text>
+<p>Oracle Corp, not known for taking a low profile, plans for nothing less than to be the leader of the next trend in computing, its president said.</p>
+<p>&quot;We don't think it is so pretentious to say we can lead the networking computing era,&quot; President Ray Lane said at a briefing for analysts and the media.</p>
+<p>&quot;Just as IBM led the first phase of computing in the 1960s, and Microsoft the second phase, we think Oracle will lead this next phase,&quot; he said.  </p>
+<p>Oracle is redefining itself around its so-called network computer architecture, top executives said at a weeklong developers conference in San Francisco.</p>
+<p>In doing so, it is transforming what not long ago was a side project of chief executive Larry Ellison -- championing the development of stripped-down computers for Internet surfing -- into a major focus.</p>
+<p>That is not to say that Oracle is jettisoning its core database business, which experiences 40 percent sales growth a year in a market that Oracle leads with a 66 percent share.  </p>
+<p>Rather, executives are advocating a three-tier network computer architecture in which database servers represent one important tier, an applications server stands as a second tier and simpler network computers, or personal computers, make up a third.</p>
+<p>Applications would not reside on the end user's personal or network computer, but instead on the applications server or a few on the database server.</p>
+<p>That model, if it takes off, could in fact fuel sales for Oracle's database and applications businesses because the concept makes servers more important.  </p>
+<p>&quot;Marrying up the Internet as a distribution system and our core competency in managing data is why we will lead the networking era,&quot; Lane said.</p>
+<p>But within the same half hour as Lane outlined this aggressive goal, he also publicly aired some of Oracle's internal problems. He conceded that Oracle must undergo some cultural changes before it could assume the leadership it seeks.</p>
+<p>He said Oracle had to change from being a &quot;database provider&quot; to a &quot;strategic partner&quot; with its customers.  </p>
+<p>Lane said Oracle had to move beyond its traditional niche of serving mid-size corporations with Unix systems, reaching out to a broader market of small and large businesses and even individuals tapping the Internet.</p>
+<p>&quot;We want to be the essential choice for network computing solutions,&quot; just as IBM was the essential choice in the 1960s and 1970s for the mainframes, Lane said.</p>
+<p>&quot;But we haven't proved to the world we can deliver the technology as a holistic solution,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

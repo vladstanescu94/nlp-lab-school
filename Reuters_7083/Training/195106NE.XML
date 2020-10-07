@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195106" id="root" date="1996-11-17" xml:lang="en">
+<title>USA: Sharp launches new pocket Zaurus.</title>
+<headline>Sharp launches new pocket Zaurus.</headline>
+<dateline>LAS VEGAS, Nevada 1996-11-17</dateline>
+<text>
+<p>Sharp Electronics Corp said it is launching the Zaurus ZR-3000, a new pocket-sized handheld computer device bundled with software to synchronize with Microsoft Corp's Windows 95 operating system.</p>
+<p>The ZR-3000 is expected to sell at retail stores for around $399, Sharp said, and will be capable of sending and receiving electronic mail and synchronizing with scheduling programs.</p>
+<p>The machine weighs under 11 ounces, but offers both keyboardand touch screen interfaces wtih a 320 by 240 pixel screen and an optional fax modem, and communicates with Windows 95-equipped personal computers via an infrared port.</p>
+<p>A fax modem is available for around $99.</p>
+<p>In May, Osaka, Japan-based Sharp Corp said it was introducing into the Japanese market its M-10 Color Zaurus, which featured a bright 5-inch color TFT LCD screen capable of displaying over 65,000 colors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS, Nevada"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="748314" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Spyglass sees signs device market growing.</title>
+<headline>Spyglass sees signs device market growing.</headline>
+<dateline>NAPERVILLE, Ill. 1997-07-23</dateline>
+<text>
+<p>Spyglass Inc on Wednesday called its third quarter results &quot;disappointing,&quot; but said there are signs the company's new focus market, Internet device market, is growing.</p>
+<p>Spyglass reported a fiscal third quarter loss of $0.45 a share versus income of $0.07 a share last year.  The company said, however, that it decided not to recognize a tax benefit associated with the loss.  Had it booked the benefit, the loss for the quarter would have been $0.30 a share, it said.  </p>
+<p>&quot;Even though the results for the quarter are disappointing, there are encouraging signs that the market for Internet devices is growing,&quot; Doug Colbeth, president and chief executive of Spyglass, said in a statement.</p>
+<p>Spyglass said last month that it expected to report a third quarter net loss of $0.26 to $0.28 a share and revenues of $2.0 million to $2.3 million. Revenues for the quarter ended June 30 were $2.2 million.</p>
+<p>In October 1996, Spyglass outlined its strategy to provide software to connect everyday devices such as cellular phones and photocopiers to the Internet.  </p>
+<p>Colbeth said the market for Internet-enabled devices remains in the early adoption stage, and revenues are limited to initial development licenses and professional services fees, such as custom software development.</p>
+<p>Spyglass said it continues to make significant investments in product development and its corporate infrastructure as it moves ahead with the transition.  Spyglass was previously known for its World Wide Web browser technology.</p>
+<p>The company said it believes the device market has &quot;huge potential,&quot; citing an industry research firm's forecast that by the year 2001 more than 48 million non-personal computer Internet devices will be sold worldwide.</p>
+<p>During the third quarter, Spyglass announced new agreements with companies that supply the operating systems used in the devices, such as Wind River Systems Inc and GeoWorks Inc.  It said these companies are becoming important distribution channels for Spyglass.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

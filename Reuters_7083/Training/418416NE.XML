@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418416" id="root" date="1997-03-04" xml:lang="en">
+<title>INDIA: Gates says Windows NT version &quot;probably&quot; in 1998.</title>
+<headline>Gates says Windows NT version &quot;probably&quot; in 1998.</headline>
+<dateline>NEW DELHI 1997-03-04</dateline>
+<text>
+<p>Microsoft Corp chairman Bill Gates said on Tuesday that the next version of Windows NT networking software would probably be launched in 1998.</p>
+<p>&quot;Actually we have not given a date. It would probably be in 1998,&quot; Gates said in response to a question at a news conference in New Delhi during a visit to India that began on Monday.</p>
+<p>He added that there was no commitment on the date of the release, which would depend on feedback from customers on its trial versions.</p>
+<p>&quot;NT 5.0 is such a major step forward that people are quite anxious to see us get it out there,&quot; Gates said.</p>
+<p>On February 28 a report on the Computer Reseller News Web site said Microsoft Corp officials had informed a core group of developers that Windows NT 5.0 will not ship until the first quarter of 1998.</p>
+<p>The publication said at a nondisclosure briefing Microsoft operating systems experts told a group of about 50 developers that the initial beta for Windows NT 5.0 will not be ready until late this summer, at the earliest.</p>
+<p>The final versions of Windows NT Workstation and Server 5.0 are now slated for early next year, rather than late 1997, as Microsoft had said previously, officials said.</p>
+<p>-- Narayanan Madhavan, New Delhi newsroom (+91-11) 3012024</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

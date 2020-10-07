@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750296" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Citation Computer Q1 June 30 full results.</title>
+<headline>Citation Computer Q1 June 30 full results.</headline>
+<dateline>ST. LOUIS 1997-07-22</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>					   Three Months Ending June 30,</p>
+<p>							  1997	   1996</p>
+<p> Total revenues				    4,282	  6,662</p>
+<p> Total cost of products and services sold  2,167	  2,720</p>
+<p> Gross profit					2,115	  3,942</p>
+<p> Research and development expense		532	    602</p>
+<p> Selling and administrative expenses	 1,789	  2,289</p>
+<p> Operating income (loss)			 (206)	  1,051</p>
+<p> Other income (expense)			   (41)	     15</p>
+<p> Income (loss) before income taxes	   (247)	  1,066</p>
+<p> Provision (benefit) for income taxes	 (94)	    416</p>
+<p> Net income (loss)				 (153)	    650</p>
+<p> Earnings (loss) per share		    (0.04)	   0.16</p>
+<p> Weighted average shares outstanding	 3,803	  3,957</p>
+<p>NOTE: Full co name is Citation Computer Systems Inc.</p>
+<p>((--Chicago Newsdesk 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

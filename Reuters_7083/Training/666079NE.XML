@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666079" id="root" date="1997-06-17" xml:lang="en">
+<title>UK: FOCUS-Microsoft invests $80 million in UK.</title>
+<headline>FOCUS-Microsoft invests $80 million in UK.</headline>
+<byline>Patricia Reaney</byline>
+<dateline>LONDON 1997-06-17</dateline>
+<text>
+<p>Software giant Microsoft Corp said on Tuesday it would invest $80 million in establishing a research laboratory at Cambridge University, one of Britain's most famous seats of learning.</p>
+<p>The new venture, which will be known as Microsoft Research Ltd, is the company's first research complex outside the United States and will form a base for its researchers in Europe.</p>
+<p>It also marks the start of a close collaboration with the British university, a renowned centre for computer sciences, Nathan Myhrvold, Microsoft's chief technology officer, said.</p>
+<p>Microsoft had considered other universities in the United States and Europe but chose Cambridge because of its reputation, its talented researchers and students, and its role as the hub for more than 300 technology firms in eastern England.</p>
+<p>The centre will concentrate on developing new technologies, forecasting and making what the industry will need in the coming decades.</p>
+<p>&quot;We need to invest in new technology. We have one of the greatest commitments to research of any company in our industry,&quot; Myhrvold told a news conference. &quot;We anticipate investing 50 million pounds ($80 million).&quot;</p>
+<p>Microsoft said it would also invest $16 million in companies in the area. Half of that amount will be placed in Amadeus I, a new venture capital fund created to support early stage technology companies with global potential, and the remainder will be reserved for future investment opportunities.</p>
+<p>Trade and Industry Minister Margaret Beckett said she and Prime Minister Tony Blair welcomed Microsoft's decision.</p>
+<p>&quot;I think they made the right decision in coming to Cambridge and coming to Britain,&quot; she told the news conference. &quot;The scale (of the investment) is extremely welcome.&quot;</p>
+<p>Roger Needham, a professor of computer systems in Cambridge's computer laboratory and a senior university official, will head Microsoft Research in Cambridge. Microsoft expects to recruit 40 of Europe's top researchers to work at the new lab, up to 25 in the first year.</p>
+<p>Myhrvold said the new team will work on making computers easier to use and more powerful, but their brief will be broad.</p>
+<p>&quot;We're going to hire the best people you can get and see what they want to do,&quot; added Needham.</p>
+<p>Microsoft Research, the research arm of the company which was founded six years ago, will also create a European technical advisory board, or TAB, that will be composed of researchers and academics from across Europe.</p>
+<p>The board will help to attract researchers to the project and to advise on which areas are important to the industry.</p>
+<p>&quot;We're confident this will be a great success,&quot; said Alec Broers, vice chancellor of the univeristy.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

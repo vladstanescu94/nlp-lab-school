@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276400" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: Advanced Visual Systems forms new business unit.</title>
+<headline>Advanced Visual Systems forms new business unit.</headline>
+<dateline>WALTHAM, Mass. 1996-12-26</dateline>
+<text>
+<p>Advanced Visual Systems Inc, a privately owned maker of visualization software, said Thursday it is starting a new business unit to focus on complex engineering products.</p>
+<p>The company, which makes software that converts data into computerized two- and three-dimensional models, said the unit will provide software, technical support and consulting for the aerospace, automotive, chemical and semiconductor industries.</p>
+<p>&quot;With the formation of this group, AVS is well positioned to capitalize on the increased emphasis on visualization capabilities in the engineering marketplace,&quot; the company said in a release.</p>
+<p>Advanced Visual Systems was founded in 1992 and posted revenues of about $19 million in fiscal 1995, said company spokesman Bernie Buelow.</p>
+<p>The company said its customers include government labs, such as Los Alamos National Laboratories and the National Aeronautics and Space Administration. It also has commercial customers such as Boeing Computer Services, Rockwell International Corp, Ericsson and Fuji Electric Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

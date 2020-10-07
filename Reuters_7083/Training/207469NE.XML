@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207469" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Boeing renews deal with IBM, Dassault.</title>
+<headline>Boeing renews deal with IBM, Dassault.</headline>
+<dateline>CHARLOTTE, N.C. 1996-11-21</dateline>
+<text>
+<p>Boeing Co has decided to renew a CATIA licensing agreement with IBM Corp and France's Dassault Systemes SA, signing a multi-million-dollar, five-year agreement, IBM announced in a statement.</p>
+<p>IBM, which did not disclose the value of the deal, said Boeing had committed itself to a minimum of 8,000 seats of CATIA products for its aerospace operations.</p>
+<p>It said Boeing had used CATIA in the design and assembly of its 777, making the carrier's system completely digital.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

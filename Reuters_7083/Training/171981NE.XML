@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171981" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Sprint, Viacom in Blockbuster/Internet deal.</title>
+<headline>Sprint, Viacom in Blockbuster/Internet deal.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-11-07</dateline>
+<text>
+<p>Sprint Corp and Viacom Inc's Blockbuster Entertainment Group on Thursday said they were offering a free Internet access software package via Blockbuster's 3,200 music and video stores across the U.S.</p>
+<p>&quot;Blockbuster can be every family's ticket to the entertainment experiences available on the Internet,&quot; said Tom Byrne, vice chairman of Blockbuster.</p>
+<p>Confirming an earlier Reuters story, the two said they would combine Sprint's Internet access product with software focused on entertainment to provide music and video clips from a Blockbuster home page. Users can buy music online.  </p>
+<p>Sprint's Internet Passport software, which uses a customized version of Netscape Communications Corp's Navigator, will be provided free with a Blockbuster video or music rental or purchase.</p>
+<p>The partners plan to support the launch with an advertising blitz in 50 cities this month. Blockbuster will also mail the promotion to its six million video members.</p>
+<p>The software includes includes an electronic white pages -- telephone directory -- for the entire U.S., and a listing of online stores where users may shop. Later the partners will add online games, chatlines and electronic shopping for books, videos and games.</p>
+<p>Though the software is free, and comes on a CD-ROM, users will still need to pay monthly $19.95 flat monthly Internet access fee, or $1.50 per hour to use the service after a first free month.</p>
+<p>Users do not need to be customers of Sprint's long distance service.</p>
+<p>-- Nick Louth, New York Newsroom  212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

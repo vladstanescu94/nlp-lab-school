@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="745824" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: Bay Networks reports better-than-expected profit.</title>
+<headline>Bay Networks reports better-than-expected profit.</headline>
+<dateline>SANTA CLARA, Calif. 1997-07-22</dateline>
+<text>
+<p>Bay Networks Inc. on Tuesday reported better-than-expected earnings for its fiscal fourth quarter, showing the first signs that a new strategy from a new chief executive is working.</p>
+<p>Bay Networks, the third-largest independent maker of computer networking gear, said it had profit from operations of $30.5 million, or 15 cents a share, compared with $55.1 million, or 28 cents a share, in the same quarter a year ago.</p>
+<p>With a $148.5 million charge for an acquisition, Bay Networks had a loss of $118 million, or 59 cents, in the most recent quarter.</p>
+<p>Wall Street expected Bay Networks, based in Santa Clara, Calif., to report profit from operations of 12 cents a share, according to analyst tracking service First Call.</p>
+<p>Fourth-quarter revenue rose 1.4 percent to $542.98 million from $535.5 million.</p>
+<p>Bay Networks makes equipment and software that control the flow of information between computers operating in a network. The company's growth stalled this year because of delays in introducing new products, inefficient operations split between the East and West coasts, and tougher competition against bigger rivals like Cisco Systems Inc.</p>
+<p>Late last yeaar, Bay Networks hired David House, a senior executive from Intel Corp., to trim its operations and come up with new product strategies.</p>
+<p>Analysts said House has done a good job of shoring up the company in a few short months.</p>
+<p>&quot;He has an understanding of the basics of blocking and tackling at the company, like holding people accountable and forcing the company to make tough decisions on picking product development,&quot; said Noel Lindsey, networking analyst at investment bank Deutsche Morgan Grenfell. The company had lost much of its momentum, Lindsey said, because no one was held accountable for late products or slow development.</p>
+<p>&quot;The revenue growth will happen sequentially in coming quarters as we introduce new products,&quot; House said in an interview. &quot;We think, based on the stregth of our product line, we'll (have a) modest increase in revenue&quot; in the traditionally weak September quarter, he said.</p>
+<p>Bay said shipments of one of its new products, the BayStack 350T switch, &quot;significantly exceeded&quot; the company's expectations. Another product, the 5399 Remote Access Concentrator Module, was also off to a strong start, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

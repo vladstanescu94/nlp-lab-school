@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58615" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Olicom to supply hardware to Unisys unit.</title>
+<headline>Olicom to supply hardware to Unisys unit.</headline>
+<dateline>DALLAS 1996-09-17</dateline>
+<text>
+<p>Olicom A/S said on Tuesday it had been selected by Unisys Federal Systems Division to supply hardware and software for more than 1,700 local area networks to be installed at the U.S. Social Security Administration.</p>
+<p>Unisys Federal Systems Division would install 56,500 workstations in more than 1,500 Social Security Administration offices nationwide as part of a single wide-area Token-Ring network, Olicom said.  </p>
+<p>Olicom said the seven-year contract was worth over $10 million. Olicom would supply networking hardware and software products, including about 40,000 Token-Ring adapters as well as bridges, control access units and lobe attachment modules.</p>
+<p>Olicom USA President and Chief Executive Officer Michael Camp said it was one of the larget Token-Ring installations worldwide.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

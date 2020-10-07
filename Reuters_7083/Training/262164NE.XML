@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262164" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Acclaim 1996 shr loss $4.47 vs profit.</title>
+<headline>Acclaim 1996 shr loss $4.47 vs profit.</headline>
+<dateline>GLEN COVE, N.Y. 1996-12-17</dateline>
+<text>
+<p>Fiscal Year Ended Aug. 31,</p>
+<p>						 1996	1995	1994</p>
+<p> GROSS REVENUES			 $376,024  $591,804 $520,771</p>
+<p> SALES CREDITS AND ALLOWANCES	214,079    25,081   40,015</p>
+<p> NET REVENUES			    161,945   566,723  480,756</p>
+<p> COST OF REVENUES			180,072   268,501  220,744</p>
+<p> GROSS (LOSS) PROFIT		  (18,127)   298,222  260,012</p>
+<p>OPERATING EXPENSES</p>
+<p>Selling, advertising, general</p>
+<p>  and administrative expenses	200,440   203,930  172,099</p>
+<p> Product development		    34,582    10,126    4,626</p>
+<p> Operating interest			6,417     3,957    1,979</p>
+<p> Depreciation and amortization	14,910     9,543    3,838</p>
+<p> TOTAL OPERATING EXPENSES	    256,349   227,556  182,542</p>
+<p>(LOSS) EARNINGS FROM OPERATIONS</p>
+<p>					   (274,476)    70,666   77,470</p>
+<p> OTHER INCOME (EXPENSE)		  5,609     5,608    (475)</p>
+<p>(LOSS) EARNINGS BEFORE INCOME</p>
+<p>  TAXES				  (268,867)    76,274   76,995</p>
+<p>(BENEFIT FROM) PROVISION FOR</p>
+<p>  INCOME TAXES			  (46,393)    31,625   31,940</p>
+<p>(LOSS) EARNINGS BEFORE MINORITY</p>
+<p>  INTEREST			     (222,474)    44,649   45,055</p>
+<p> MINORITY INTEREST			 1,106     (121)	---</p>
+<p> NET (LOSS) EARNINGS		 (221,368)    44,770   45,055</p>
+<p>NET (LOSS) EARNINGS PER COMMON</p>
+<p>  AND COMMON EQUIVALENT SHARE	 (4.47)	0.86     1.00</p>
+<p>WEIGHTED AVERAGE NUMBER OF</p>
+<p>COMMON AND COMMON EQUIVALENT</p>
+<p>  SHARES OUTSTANDING		    49,515    52,300   45,150</p>
+<p>Note: Full company name is Acclaim Entertainment Inc.</p>
+<p>(in 000s, except per share data)</p>
+<p>((-- New York Newsdesk 212-859-1611))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLEN COVE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

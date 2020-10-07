@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="686155" id="root" date="1997-06-25" xml:lang="en">
+<title>USA: Netscape, Concentric offer office services.</title>
+<headline>Netscape, Concentric offer office services.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-06-25</dateline>
+<text>
+<p>Netscape Communications Corp. said it and privately held Concentric Network Corp. have formed a partnership to offer customers office services over the Internet.</p>
+<p>The services enable individuals and small businesses to use an Internet connection to establish a &quot;virtual office&quot; accessible through Netscape's Internet site.</p>
+<p>Netscape Virtual Office by Concentric will include e-mail accounts, private discussion groups and project collaboration, without the expense of extensive hardware, software and technical personnel, the companies said.</p>
+<p>Users need Internet access and Netscape software to access the services, along with a credit card for billing purposes, the companies said.</p>
+<p>Concentric, based in Cupertino, Calif., supplies computer network services.</p>
+<p>Netscape stock added 75 cents to $36.50 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

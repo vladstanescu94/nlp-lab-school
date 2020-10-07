@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="293922" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: Tandem CFO resigns.</title>
+<headline>Tandem CFO resigns.</headline>
+<dateline>CUPERTINO, Calif.</dateline>
+<text>
+<p>Tandem Computers Inc., a maker of computer systems, said Wednesday that its chief financial officer has resigned to accept a position as CFO of Bay Networks Inc.</p>
+<p>David Rynne's resignation comes in the wake of Tandem's loss of $22.8 million in its 1996 fiscal year ended on Sept. 30 on flat revenues of $1.5 billion. The loss compared with earnings of $107.5 million a year earlier.</p>
+<p>Tandem also announced a realignment of its senior management.</p>
+<p>Tandem said that it promoted Kenneth Barber to senior vice president, finance and corporate controller, reporting to Enrico Pesatori, president and chief operating officer.</p>
+<p>Barber, 51, will assume responsibility for global business planning, financial planning and financial management. Pesatori will assume responsibility for operational units formerly reporting to Rynne, who was with Tandem 14 years, the company said.</p>
+<p>Tandem said Pesatori will be the interim chief financial officer until a replacement is named.</p>
+<p>Barber was most recently vice president of finance, sales and support as well as vice president of finance for Tandem's systems development and manufacturing group. He joined Tandem in 1989.</p>
+<p>Tandem's stock was off 12.5 cents at $13.625 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

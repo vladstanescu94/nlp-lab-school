@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="356068" id="root" date="1997-02-05" xml:lang="en">
+<title>CANADA: Eicon Technology Q2 Dec 31 shr net falls.</title>
+<headline>Eicon Technology Q2 Dec 31 shr net falls.</headline>
+<dateline>MONTREAL 1997-02-05</dateline>
+<text>
+<p>1996			    1995</p>
+<p> Shr	 profit	C$0.02   profit	C$0.08</p>
+<p> Net	 profit	   667   profit	 2,660</p>
+<p> Revs			29,550		   32,163</p>
+<p>	    6 MONTHS</p>
+<p> Shr	   loss	C$0.04   profit	C$0.08</p>
+<p> Net	   loss	 1,478   profit	 2,685</p>
+<p> Revs			51,978		   57,200</p>
+<p> Avg shrs		  34,358		   34,363</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: Full name is Eicon Technology Corp.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

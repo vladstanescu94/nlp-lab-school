@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344759" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: Datawatch Corp Q1 shr $0.05 vs $0.01.</title>
+<headline>Datawatch Corp Q1 shr $0.05 vs $0.01.</headline>
+<dateline>WILMINGTON, Mass. 1997-01-29</dateline>
+<text>
+<p>Amounts in Thousands (except per share data)</p>
+<p>						  Three Months Ended</p>
+<p>						 12/31/96  12/31/95</p>
+<p> Net sales					$8,219   $6,765</p>
+<p>Costs and expenses:</p>
+<p>  Cost of sales				  1,460    1,074</p>
+<p>  Product development			    659	519</p>
+<p>  Selling, general and administration    5,711    5,116</p>
+<p> Income from operations			  389	 56</p>
+<p> Other income (expense)			   33	  9</p>
+<p> Net income					  422	 65</p>
+<p> Income per share				  .05	.01</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

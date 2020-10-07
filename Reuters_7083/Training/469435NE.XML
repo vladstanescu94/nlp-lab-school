@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="469435" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Corporate PC purchases still strong in February.</title>
+<headline>Corporate PC purchases still strong in February.</headline>
+<dateline>LA JOLLA, Calif. 1997-03-26</dateline>
+<text>
+<p>Corporate purchases of personal computers stayed strong in February as companies continued to buy beefy PCs to run software designed for Microsoft Corp's Windows NT program, a market researcher said Wednesday.</p>
+<p>&quot;The Windows NT upgrade cycle that started in the fall continues to charge along, maintaining U.S. corporate PC sales at levels higher than last year's at this time,&quot; said Matt Sargent, analyst at Computer Intelligence, a La Jolla, Calif., PC sales tracker.</p>
+<p>In February, Computer Intelligence's PC Purchase Index was 1.11, compared with 0.90 in the same month in 1996. Values above 1.0 mean that unit purchases grew as compared to the same month one year earlier. The index was at 1.12 in January.</p>
+<p>The index supports recent optimism on Wall Street that major computer companies, such as International Business Machines Corp, Compaq Computer Corp, Intel Corp and Microsoft are likely to report solid earnings in the first quarter, analysts said.</p>
+<p>The technology stock-laden Nasdaq composite index gained 21 points to 1269 on Wednesday.</p>
+<p>((--Kourosh Karimkhany, in Palo Alto, 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA JOLLA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

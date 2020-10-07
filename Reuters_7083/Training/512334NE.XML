@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512334" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: @Home financing round values network above $1 bln.</title>
+<headline>@Home financing round values network above $1 bln.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1997-04-16</dateline>
+<text>
+<p>@Home Network said it has concluded a $48 million private placement of preferred stock representing 4.5 percent of the company.</p>
+<p>The prices paid for the shares offered value the company at roughly $1.07 billion, Mountain View, Calif.-based @Home said.</p>
+<p>@Home said the investors included five high technology and cable companies. The investors it disclosed were were Bay Networks, Motorola Inc, Rogers Cablesystems, Shaw Communications Inc and Sun Microsystems Inc.  </p>
+<p>@Home Network, which is targeted at providing highspeed access for improved Internet performance, is stepping up its drive to expand into both the home and business markets as other technologies are also moving to speed Internet access.</p>
+<p>Telephone companies are rolling out service based on a new standard, known as xDSL, later this year which will provide incoming speeds at up to six megabits per second, while other groups are developing speedy satellite downlink capabilities.</p>
+<p>@Home is also targeting connections of 10 million bits (megabits) per second or more -- orders of magnitude faster than today's 28.8 kilobit (28,800 bits) per second modems.  </p>
+<p>The company, which is owned by cable television giants Tele-Communictions Inc, Comcast Corp COMCSA.O and Cox Communications along with venture capital firm Kleiner Perkins Caufield &amp; Byers, said the new funding will enable it to keep expanding high-speed services to the home.</p>
+<p>@Home and its cable partners have launched residential services in seven communities across the United States, but industry executives noted that substantial investment will be necessary by @Home's partners to speed up its rollout.</p>
+<p>Last week's agreement with Rogers and Shaw is targeted at delivering access to at least 50 percent of Canadian homes.  </p>
+<p>In addition to the residential effort, the company is also deploying high-speed business services through its @Work offering in a number of major metropolitan regions and recently inked a deal with Teleport Communications Inc to help it provide high-speed business access around the country.</p>
+<p>@Home was founded in May 1995, but it took until mid-year last year before it began offering pilot services.</p>
+<p>In recent weeks, it has sped up its efforts.</p>
+<p>The service aims to use the company's own network and the cable industry's hybrid-fiber coaxial infrastructure to deliver better interactive content than has been available on the Web.</p>
+<p>The financing was assisted by Deutsche Morgan Grenfell, which has built its Silicon Valley operations into a high tech investment banking powerhouse over the last 18 months.</p>
+<p>@Home said it has reached affiliate agreements with seven top cable companies in North America, including TCI, Comcast, Cox, Intermedia Partners, Marcus Cable, Rogers and Shaw.</p>
+<p>Other cable companies, including Time Warner Inc, which has been conducting interactive multimedia trials, are also developing high-speed Internet cable services.</p>
+<p>Motorola and Bay Networks supply network access equipment.</p>
+<p>(sam.perry@reuters.com, Palo Alto Bureau +415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

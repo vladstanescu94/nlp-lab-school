@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162926" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Spyglass licenses technology to PowerTV.</title>
+<headline>Spyglass licenses technology to PowerTV.</headline>
+<dateline>NAPERVILLE, Ill. 1996-11-04</dateline>
+<text>
+<p>Spyglass Inc, as expected, said Monday that PowerTV Inc is licensing Spyglass' Client Software Development Kit (SDK) technology.</p>
+<p>PowerTV, a leading provider of software and hardware solutions for interactive entertainment, will take components from the Spyglass Client SDK to make its operating system work on the Internet.</p>
+<p>The license agreement for Internet technology between Spyglass and PowerTv was reported by Reuters on November 1, quoting a source close to the deal.</p>
+<p>PowerTV's operating system is currently used in interactive networks from BellSouth Corp and Pacific Telesis Group.</p>
+<p>Reuters Chicago Newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

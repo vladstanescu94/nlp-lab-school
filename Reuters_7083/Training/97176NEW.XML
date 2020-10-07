@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97176" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Microsoft files three copyright lawsuits.</title>
+<headline>Microsoft files three copyright lawsuits.</headline>
+<dateline>REDMOND, Wash. 1996-10-04</dateline>
+<text>
+<p>Microsoft Corp. said on Friday it has filed copyright infringement lawsuits against three computer resellers for alleged illegal distribution of pirated software.</p>
+<p>Based on consumer tips from the Microsoft Anti-Piracy Hotline and purchases made by &quot;mystery shoppers&quot; deployed at local computer stores, Microsoft said it had identified 11 computer dealers who were allegedly selling pirated software.</p>
+<p>The company alleged that the dealers were either selling counterfeit software or installing unauthorised versions of software on computers for sale to the public -- an illegal practice known as hard-disk loading.</p>
+<p>&quot;Unlike legitimate software, pirated software doesn't come with any assurance of quality, any technical support, or any warranty,&quot; warned Jim Lowe, Microsoft's corporate attorney.</p>
+<p>&quot;And pirated software can infect your entire computer system with a virus, which can damage your hard disk or destroy all of your data.&quot;</p>
+<p>Eight of the dealers signed voluntary settlements, agreeing to stop any software piracy and to compensate Microsoft for past losses, the company said.</p>
+<p>Three dealers refused to sign settlement agreements, resulting in lawsuits being filed against the them, Microsoft said.</p>
+<p>Redmond, Wash.-based Microsoft's stock rose 50 cents to $134.50 early on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

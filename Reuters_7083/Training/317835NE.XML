@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317835" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: Tech strength pushes Nasdaq to another record high.</title>
+<headline>Tech strength pushes Nasdaq to another record high.</headline>
+<dateline>NEW YORK 1997-01-20</dateline>
+<text>
+<p>Nasdaq shares leapt to record highs on Monday lifted by strength in technology stocks.</p>
+<p>The Nasdaq Composite Index gained 15.46 points or 1.13 percent to close unofficially at 1364.51, topping the record of 1349.05 set on Friday. The Dow Jones industrials gained about 11 points or 0.16 percent to close unofficially at 6843.</p>
+<p>The bond market was closed in observance of Martin Luther King Jr Day.</p>
+<p>&quot;Records are a daily occurrence these days. The tech stocks are strong and remain strong and that's driving the market higher,&quot; one trader said.</p>
+<p>Microsoft Corp, the most heavily-traded Nasdaq issue, gained 3-5/8 to 90-3/4 despite the company's warning of slower growth in fiscal 1998. The software giant posted better-than-expected second quarter earnings after the market closed Friday.</p>
+<p>Intel Corp gained 1-3/16 to 145-1/4 and Sun Microsystems Inc increased 1-3/16 to 32-3/8.</p>
+<p>Other winners included credit card stocks, which surged after Banc One Corp said it would buy First USA Inc in a $7.3 billion deal. Advanta Corp's class A shares surged 5-9/16 to 48-11/16 in heavy trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

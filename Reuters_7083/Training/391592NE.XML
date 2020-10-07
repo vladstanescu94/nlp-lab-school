@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391592" id="root" date="1997-02-20" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Irish company announces mad cow test.</title>
+<headline>Irish company announces mad cow test.</headline>
+<dateline>DUBLIN 1997-02-20</dateline>
+<text>
+<p>An Irish research company said on Thursday it had developed a diagnostic test that can be used to screen beef carcasses for mad cow disease.</p>
+<p>Enfer Scientific Ltd, working under licence from Britain's Proteus International Plc, said its system could be used on up to 1,000 beef carcasses a day.</p>
+<p>&quot;The application of this technology can be expected to provide a new public confidence amongst beef consumers,&quot; it said in a statement. &quot;Enfer scientific will install their detection system in any country or market requiring BSE (bovine spongiform encephalopathy or mad cow disease) detection.&quot;</p>
+<p>Enfer's test uses brain tissue and a chemical luminescent agent to point up antibodies to the abnormal prion protein that is believed to cause BSE.</p>
+<p>It said the test has been independently validated by the department of agriculture veterinary research laboratory in Abbotstown, Ireland.</p>
+<p>Enfer, already contracted by the Irish government to inspect carcasses for the illegal growth promoting chemical clenbuterol, said it was negotiating to test Irish beef for BSE.</p>
+<p>&quot;There currently aren't any commercial tests on carcasses,&quot; David Gration, chairman of Proteus, told Reuters. He said Proteus would get &quot;double-digit&quot; royalties from Enfer on each test sold.</p>
+<p>&quot;The real significance of the test is that it can test large number of carcasses and get the results back before the meat enters the human food chain. This whole area of unknown carcasses is now over,&quot; Michael O'Connor, Enfer's technical director, said.</p>
+<p>Arthur Rushton, medical director of Proteus, said current tests were based on actual examination of brain tissue under a microscope.</p>
+<p>&quot;The basis of this test is radically different in that it will allow samples of brain tissue to be taken out of the animal at the abbatoir and taken through a high-input system,&quot; he said.</p>
+<p>&quot;Enfer have added their own technology to our proprietary technology and know-how and increased the sensitivity of a testing system of this nature.&quot;</p>
+<p>Enfer is a privately owned Irish animal diagnostic service company. Proteus, based in Macclesfield, England, is a drug discovery company.</p>
+<p>California Institute of Technology scientists said last September they had developed a test that could be used in live animals, also using antibodies.</p>
+<p>British scientists admitted last March that a new form of Creutzfeldt-Jakob Disease, a deadly brain-wasting illness, was probably caused by eating infected beef. Since then, exports of British beef have been banned for fear of infection.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

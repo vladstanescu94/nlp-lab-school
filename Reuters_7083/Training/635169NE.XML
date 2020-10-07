@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="635169" id="root" date="1997-06-03" xml:lang="en">
+<title>UK: Kalamazoo says in talks for possible offer.</title>
+<headline>Kalamazoo says in talks for possible offer.</headline>
+<dateline>LONDON 1997-06-03</dateline>
+<text>
+<p>Britain's Kalamazoo Computer Group Plc said on Tuesday it was in discussions which might or might not lead to an offer for the company.</p>
+<p>&quot;The board is in discussion which may or may not lead to an offer being made for the whole of the issued share capital of the company,&quot; it said in reaction to recent press speculation and subsequent movement in its share price.  </p>
+<p>The share price of Kalamazoo gained further ground on Tuesday and was marked up 14 1/2 pence at 93 1/2.</p>
+<p>---London Newsroom +44 171 542 4366</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

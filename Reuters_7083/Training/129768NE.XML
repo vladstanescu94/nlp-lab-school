@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129768" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: McAfee Q3 shr rises to $0.24 vs $0.01.</title>
+<headline>McAfee Q3 shr rises to $0.24 vs $0.01.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-21</dateline>
+<text>
+<p>Three Months		 Nine Months</p>
+<p>		    Ended September 30	Ended September 30</p>
+<p>		    1996(A)     1995(B)     1996(C)	1995(B)</p>
+<p> Revenue     $47,290,000 $25,613,000 $121,902,000 $60,703,000</p>
+<p>Income before taxes</p>
+<p>		  21,526,000  12,432,000  55,799,000   24,366,000</p>
+<p> Net income   12,898,000  7,459,000   33,396,000   14,635,000</p>
+<p> Earnings per share  $.24  .15  .63	    .30</p>
+<p>Shares used in</p>
+<p>computation</p>
+<p>		  52,020,000  49,518,000  52,810,000   48,492,000</p>
+<p>NOTES: (A) No material acquisition related charges were recorded in Q3 1996.</p>
+<p>(B) Excludes the write-off of $10,784,000 associated with the acquisition of Saber Software and two McAfee European distributors during Q3 1995.</p>
+<p>With this charge, earnings before taxes for Q3 1995 were $1,648,000, net income was $430,000 and earnings per share were $0.01.</p>
+<p>For the first nine months of 1995, earnings before taxes were $13,582,000, net income was $7,606,000, and earnings per share were $0.16.</p>
+<p>(C) Excludes the write-off of $2,868,000 taken in the second quarter arising primarily from the write-off of in-process R&amp;D associated with the acquisition of the Remote Desktop product line.</p>
+<p>These figures also excluded the write-off of $8,297,000 associated with McAfee's cash acquisition in March, 1996 of help desk vendor, Vycor Corp.</p>
+<p>With these acquisition related charges, earnings before taxes for the first nine months of 1996 were a record $44,634,000, net income was $23,381,000 and earnings per share were $0.44.</p>
+<p>Earnings per share figures reflect a three-for-two stock split, effected as a stock dividend, which was distributed on October 17, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

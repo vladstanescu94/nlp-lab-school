@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773550" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: TABLE - Versant Object Technology Q2 results.</title>
+<headline>TABLE - Versant Object Technology Q2 results.</headline>
+<dateline>FREMONT, Calif. 1997-07-30</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>				Three Months Ended   Six Months Ended</p>
+<p>					 June 30,		 June  30,</p>
+<p>				    1997	 1996	1997    1996</p>
+<p>Revenue:</p>
+<p>  License		   $  5,587   $  3,000  $  7,499$  4,971</p>
+<p>  Services		     1,777	1,616     3,649   2,823</p>
+<p>   Total revenue	     7,364	4,616    11,148   7,794</p>
+<p>Cost of revenue:</p>
+<p>  License			  114	  202	 351     491</p>
+<p>  Services		     1,182	  645     1,965   1,190</p>
+<p>   Total cost of revenue   1,296	  847     2,316   1,681</p>
+<p> Gross profit		  6,068	3,769     8,833   6,113</p>
+<p>Operating expenses:</p>
+<p>  Marketing and sales	3,902	2,127     6,506   3,855</p>
+<p>Research and development</p>
+<p>				   1,221	  835     2,158   1,522</p>
+<p>General and administrative</p>
+<p>				     796	  310     1,283     586</p>
+<p> Amortization of goodwill    121	    -	 129	 -</p>
+<p>Total operating expenses</p>
+<p>				   6,041	3,273    10,077   5,964</p>
+<p>Income (loss) from operations</p>
+<p>					28	  497   (1,244)     150</p>
+<p>Interest income and other,</p>
+<p>   net			     163	  (9)	 379    (18)</p>
+<p>Currency translation loss</p>
+<p>				    (10)	    -	(23)	 -</p>
+<p> Income (loss) before taxes  181	  488     (887)     132</p>
+<p>  Provision for income taxes  16	   12	  16	16</p>
+<p>Foreign withholding tax</p>
+<p>   expense			   2	    2	   5	11</p>
+<p> Net income (loss)	     163	  474     (908)     105</p>
+<p>Net income (loss) per</p>
+<p>  share			   0.02		   (0.10)</p>
+<p>Pro forma net income per</p>
+<p>  share					  0.07		  0.02</p>
+<p>Weighted average common and</p>
+<p>  common equivalent shares  9,139		   9,033</p>
+<p>Pro forma weighted average</p>
+<p>common and common</p>
+<p>   equivalent shares			6,877		 6,466</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

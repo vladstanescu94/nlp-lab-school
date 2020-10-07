@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84248" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: U.S. seen relaxing export laws on data encryption.</title>
+<headline>U.S. seen relaxing export laws on data encryption.</headline>
+<dateline>NEW YORK 1996-09-30</dateline>
+<text>
+<p>The Clinton administration is expected to announce, possibly as soon as Tuesday, that it is easing export controls on software that uses data encryption, a method of encoding data for privacy, industry sources said.</p>
+<p>The industry sources said the White House is expected to make an announcement that it will allow a general license of software products using unlimited encryption algorithms to scramble the data, if the company provides the government or a third party clearing house duplicate software keys to decrypt or decode the data, in escrow.</p>
+<p>Many U.S. firms have been seeking a change in export laws.  </p>
+<p>White House officials could not be reached for comment.</p>
+<p>Many U.S. firms said that current export laws threaten the continued success of the U.S. software industry, because U.S. firms are not able to export software with the security features that are required by multi-national corporations.</p>
+<p>Under current U.S. export laws, data encryption, which scrambles data with lengthy and complex mathematical algorithms, is viewed as a munition and only software with weak encryption can be sold outside the U.S.</p>
+<p>&quot;This is a very big deal if we want the Internet to grow up and be used for all sorts of activities,&quot; said one source.  </p>
+<p>The administration is also expected to announce that it will allow the export of products that use encyrption algorithms the length of 56 bits, if the developer of the software proves that the company is working on incorporating a key recovery program into the software within two years.</p>
+<p>Most companies have been objecting to key escrow recovery, which would let the government unscramble the data using a software &quot;key&quot; to unlock the mathematical code.</p>
+<p>&quot;I think there are some companies who are not going to vomit all over this and there are some who will,&quot; said another industry source.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

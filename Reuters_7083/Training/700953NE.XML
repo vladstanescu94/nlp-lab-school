@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700953" id="root" date="1997-07-02" xml:lang="en">
+<title>USA: Inso says sees Q2 eps less than $0.10/shr.</title>
+<headline>Inso says sees Q2 eps less than $0.10/shr.</headline>
+<dateline>BOSTON, Mass. 1997-07-02</dateline>
+<text>
+<p>Inso Corp on Wednesday predicted second quarter earnings of less than $0.10 per share before a restructuring charge of roughly $5 million to $6 million.</p>
+<p>As part of its restructuring plan, also announced Wednesday, Inso said it would reduce 40 positions.</p>
+<p>In addition, the company said it expects revenues for the quarter ending June 30, 1997, of about $19.5 million to $20.5 million.</p>
+<p>Inso posted 1996 second quarter earnings of $0.29 per share on revenues of $15.1 million.</p>
+<p>Inso attributed lower-than-planned revenues in part to the deterioration of the original equipment manufacturer (OEM) markets served by IP and certain IMT products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

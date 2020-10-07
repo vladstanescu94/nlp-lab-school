@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="274995" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: Shareholders OK Allegro-Software Publishing merger.</title>
+<headline>Shareholders OK Allegro-Software Publishing merger.</headline>
+<dateline>FAIRFIELD, N.J. 1996-12-24</dateline>
+<text>
+<p>Allegro New Media Inc and Software Publishing Corp said their shareholders voted to approve the merger of Software with a wholly owned subsidiary of Allegro.</p>
+<p>The merger is expected to become effective on December 27.</p>
+<p>Each share of Softweare common will be converted into 0.26805 share of Allegro.</p>
+<p>Allegro is expected to be listed under the symbol SPCO on the Nasdaq Small-Cap market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

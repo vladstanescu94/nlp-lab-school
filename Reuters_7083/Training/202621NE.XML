@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202621" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Platinum launches 6.75 pct note offering.</title>
+<headline>Platinum launches 6.75 pct note offering.</headline>
+<dateline>OAKBROOK TERRACE, Ill. 1996-11-20</dateline>
+<text>
+<p>Platinum Technology Inc said Wednesday it launched a public offering of $100 million of aggregate principal of 6.75 percent convertible subordinated notes, due 2001.</p>
+<p>Notes are priced at 100 percent of their principal amount and will initially be convertible into shares of Platinum's common stock at a conversion price of $13.95 a share.</p>
+<p>Notes will be redeemable, in whole or in part, at the option of Platinum, from November 15, 1999 to November 14, 2000 at 102.70 percent of their principal amount, and from November 15, 2000 to November 14, 2001 at 101.35 percent of their principal amount.</p>
+<p>The underwriters are Donaldson, Lufkin &amp; Jenrette Securities, Hambrecht &amp; Quist and Robertson, Stephens &amp; Co.</p>
+<p>Platinum granted the underwriters an option to purchase up to an additional $15 million principal amount of notes to cover overallotments.</p>
+<p>Platinum provides infrastructure software products and services.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKBROOK TERRACE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

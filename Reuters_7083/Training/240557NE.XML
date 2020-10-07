@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240557" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: VeriSign closes $30 million in private financing.</title>
+<headline>VeriSign closes $30 million in private financing.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-12-05</dateline>
+<text>
+<p>VeriSign Inc said it has closed $30 million in private financing, primarily through strategic investments from ten leading companies who it said are shaping Internet infrastructure and businesses.</p>
+<p>Verisign Digital ID's are used for applications which include web site access, secure electronic mail, software publisher validation and credit card authentication.</p>
+<p>Investing companies include internetworking supplier Cisco Systems Inc, software giant Microsoft Corp, investment bank Merrill Lynch &amp; Co and Reuters Holdings Ltd. </p>
+<p>Cable and communications company Comcast Corp, payment systems company First Data Corp, France-based smart card maker Gemplus Card International, financial software firm Intuit Inc, AT&amp;T Corp's AT&amp;T Ventures arm and the Softbank Ventures unit of Japan's Softbank Corp are the other corporate investors, VeriSign said.</p>
+<p>Three institutional investors also participated in the financing round: Chancellor LGT Asset Management, Amerindo Investment Advisors, and Attractor Investment Managegement.</p>
+<p>Morgan Stanley &amp; Co managed the financing round.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77414" id="root" date="1996-09-26" xml:lang="en">
+<title>SINGAPORE: INTERVIEW - NOVELL banks on Intranet.</title>
+<headline>INTERVIEW - NOVELL banks on Intranet.</headline>
+<byline>Josephine Ng</byline>
+<dateline>SINGAPORE 1996-09-26</dateline>
+<text>
+<p>U.S. networking company Novell Inc is returning to its basic strength with an aggressive focus on the Intranet and Internet, a top official said on Wednesday.</p>
+<p>&quot;The market's changed and it's growing such that everyone is talking about Intranets. That's where the growth is. So we're now focused in providing solutions for the Intranet,&quot; Vic Langford, senior vice president and general manager of Novell's Internet/Intranet services business unit, told Reuters.</p>
+<p>&quot;If you look at us two years ago, we weren't threatened by anyone. Yes, we probably took it easy. As a result we tried to get into a number of new businesses, some of which we've faltered and we've exited from those,&quot; he said in an interview.</p>
+<p>&quot;The result is we've seen Microsoft focus on us. We've seen this huge market opportunity in the Internet and the Intranet come. It is fair to say we could have done a lot better two years ago. We probably took things for granted a little bit,&quot; he said.</p>
+<p>Langford said Novell was moving to open systems and was now supporting Web server standards and Internet browsers and investing in Intranets and the Internet.</p>
+<p>&quot;Everything we do is targetted towards Intranets and Internet. We invest US$300 million a year in R&amp;D,&quot; he said.</p>
+<p>Langford said despite competition from Microsoft's Windows NT software, Novell had kept its lead in networking software.</p>
+<p>&quot;We maintained 63 percent market share. In Asia it is between 70 and 90 percent market share. In terms of every server in the world, over 50 percent is NetWare server. We haven't lost any market share to NT.&quot;</p>
+<p>Langford said NT had taken market share from Unix and had been successful in the fast-growing small business market. Novell would release products for that market around November.</p>
+<p>He said one product that showed Novell's muscle in the Intranet market was GroupWise, whose latest version gives users one place to access their calender, group scheduling, voice mail and electronic mail via a corporate network or the Internet.</p>
+<p>Langford said GroupWise had an installed base of seven million users compared 5.5 million for Lotus' Notes. &quot;Our immediate target is 8.0 million by the end of this year,&quot; he said.</p>
+<p>Growth for Groupwise was about 70 percent in the financial year ended October 1995. &quot;It's the fastest growing messaging product in the world. We're currently number three in position. Most of that, 83 percent, had been attained just within the U.S., so now we've got a huge opportunity internationally to increase the growth rate.&quot;</p>
+<p>GroupWise was expected to grow 70 percent again in the fiscal year ending October and Novell would aim for a long-term growth of 40 percent, he said.</p>
+<p>GroupWise 5, the latest version, was being released immediately with multiple languages, something Novell has not done before, and it hoped the four Asian language versions would quickly give it market share in Asia.</p>
+<p>The region is one of Novell's fastest growing markets, with revenues seen rising more than 25 percent in the 1995/96 financial year, company  officials said.</p>
+<p>Langford said Novell saw its new IntranetWare software replacing NetWare. The product is based on open platforms and allows corporate networks to link into the Internet.</p>
+<p>&quot;IntranetWare will replace NetWare over time...but it doesn't really matter which we sell. NetWare is US$1.0 billion worth of sales, out of total revenue of US$1.5 billion. People are thinking about one or the other,&quot; Langford said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164362" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Structural Dynamics searches for president.</title>
+<headline>Structural Dynamics searches for president.</headline>
+<dateline>MILFORD, Ohio 1996-11-04</dateline>
+<text>
+<p>Structural Dynamics Research Corp said Monday it has created a new position of president and chief operating officer and has begun a search to fill the post.</p>
+<p>The new position will report to President and Chief Executive Albert Peter, who is to become chairman and chief executive.</p>
+<p>The company said it has hired Lamalie Amrop International, an executive-search firm, to find someone to fill the newly created post.</p>
+<p>William Conlin, current chairman, will continue in his advisory role as lead director on the company's board of directors, Structural Dynamics said.</p>
+<p>The position of president and chief operating officer will carry responsibility for all profit and loss operations within the company and will focus on continuing rapid growth, increasing market share and steadily improving profitability, it said.</p>
+<p>Structural Dynamic is an international supplier of mechanical design automation software, product data management software, and related services.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILFORD, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

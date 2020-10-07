@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69121" id="root" date="1996-09-22" xml:lang="en">
+<title>CANADA: Plugged In: On the Internet, talk is cheap.</title>
+<headline>Plugged In: On the Internet, talk is cheap.</headline>
+<byline>Russell Blinch</byline>
+<dateline>TORONTO</dateline>
+<text>
+<p>Getting that long distance feeling over the Internet appears to be a rapidly growing phenomenon.</p>
+<p>Companies from small start up firms to the big chip maker Intel Corp. have been intent on getting surfers hooked on Internet chatting.</p>
+<p>For consumers it has one big drawing card: it is a lot cheaper than paying long distance tolls.</p>
+<p>&quot;I can see in the future that it's just going to grow,&quot; said Ian Pulver, author of the Internet Telephone Toolkit and editor of The Pulver Report newsletter (www.pulver.come:80/reports).</p>
+<p>Some have predicted there are already more than a million people using the Internet to make telephone calls. Pulver, however, said his best estimate has 55,000 people a week phoning over the Net, but that was up from 30,000 two months ago. He believes users will be counted in the hundreds of thousands or even millions within a few years.</p>
+<p>The idea behind Internet telephony is simple. Online, a surfer may go anywhere in the world and the only charge has usually been the monthly fee from an Internet service provider.</p>
+<p>So why not hook up a phone, and with help from some software, conduct calls at no extra charge to Tampa, Tokyo or Tuktoyaktuc. Of course, the person at the other end would have to have compatible software and be on line to make this all work.</p>
+<p>Such a concept has been enough to make devotees of Alexander Graham Bell shudder. The thought of all those Internet packets containing voices running willy nilly over the globe was not something they welcomed with open arms, or open circuits.</p>
+<p>Why anyone would want to leave the safe world of precise switching to the vagaries of the Internet was beyond comprehension for them. You might as well just string up two cans with some thread in your backyard if you wanted free talk time.</p>
+<p>But in a measure of their concern that maybe, just maybe, Internet telephony could prove to be a threat, a number of telephone firms in the United States and in Canada have appealed to regulatory authorities for -- what else -- regulations against this new phenomenon.</p>
+<p>The chairman of the Federal Communications Commission, Reed Hundt, however, said in a speech last Wednesday he was against roping in the Internet with rules from the conventional telephone world, including making Internet service providers pay long distance access charges.</p>
+<p>&quot;You don't pour new wine into old bottles and if we applied these old access rules to new technologies, you'd have every reason to whine,&quot; he said in a speech to a Washington conference.</p>
+<p>Pulver said Internet telephony probably began when startup VocalTec Ltd. of New Jersey launched a product in 1995.</p>
+<p>Internet telephony started out as a rather crude service, about as fun as communicating with walkie talkies. Pulver said it has gotten a lot better, not unlike overseas communications a few years ago when slow satellite relays caused delays in talking.</p>
+<p>A number of things have been driving its use. Not the least of all was Intel handing out free software to allow users to make phone calls over the Net, all with the aim of getting more and more people to buy personal computers.</p>
+<p>As well, Netscape Communications Corp. has included the Internet telephone program &quot;Cool Talk,&quot; in its latest Navigator browser software -- a veritable Trojan Horse that could really spur the forces for Internet telephony.</p>
+<p>Pulver said a number of new uses will likely draw more and users into the concept. Businesses have been attracted to cheaper long distance calling methods, including sending faxes, a transaction well suited for the Internet.</p>
+<p>Corporations with Web sites might soon offer an icon where a customer could click on to have a quick conversation with a sales or technical representative to talk about a certain product.</p>
+<p>In the world of Internet games or chat rooms, adding the possibility of direct conversations could prove wildly popular too. But most of all, the idea of talking to someone new anywhere in the world for little cost will probably be key to it all.</p>
+<p>&quot;It offers the ability for people to meet others anywhere in the world, in the spirit of ham radio,&quot; said Pulver.</p>
+<p>--To comment on this weekly column:</p>
+<p>russell.blinch(at)reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

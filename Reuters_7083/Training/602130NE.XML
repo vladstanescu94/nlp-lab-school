@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602130" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: At Home Network  to offer Microsoft Network.</title>
+<headline>At Home Network  to offer Microsoft Network.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-05-21</dateline>
+<text>
+<p>At Home Corp, the high speeed internet access provider, on Wednseday said that Microsoft Corp's Microsoft Network will be available to subscibers of the At Home (@Home) Network.</p>
+<p>The network will deliver multimedia content and interactive services via At Home's cable modem delivery system, which transmits data at speeds as much as 300 times faster than traditional dial-up modems, the company said.</p>
+<p>Microsoft Network programming is scheduled to be available to At Home subscribers during the third quarter of 1997 for a flat fee of $6.95 per month.</p>
+<p>At Home is a consortium of cable partners Tele-Communications Inc, Comcast Corp, Cox Communications Inc and venture capital firm Kleiner Perkins Caufield &amp; Byers.</p>
+<p>Last week, At Home filed for an initial public offering with the U.S. Securities and Exchange Commission.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

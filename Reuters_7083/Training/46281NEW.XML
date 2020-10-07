@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46281" id="root" date="1996-09-11" xml:lang="en">
+<title>CHINA: Software makers brace for wave of China surfers.</title>
+<headline>Software makers brace for wave of China surfers.</headline>
+<byline>Mure Dickie</byline>
+<dateline>BEIJING 1996-09-11</dateline>
+<text>
+<p>Software firms are rushing to give mainland computer users Chinese-language access to the Internet, undaunted that state controls could slow the growth of the net-surfing community, company officials said on Wednesday.</p>
+<p>U.S. software giant Microsoft Corp on Tuesday released a mainland Chinese version of its Explorer 3.0 Internet browser, hoping to bring a whole new audience to the global computer network.</p>
+<p>Officials of Microsoft's arch-rival Netscape Communications Corp said the world's most ubiquitous browser would fight back with the release of a Chinese version next month.</p>
+<p>Both companies are fighting to stamp their logos on China's nascent but rapidly growing Internet market.</p>
+<p>A Microsoft official who declined to be identified said the company was not dismayed by reports that Beijing was stepping up domestic controls on sensitive sites on the Internet's World Wide Web.</p>
+<p>Western Internet users in China have reported difficulty in accessing popular news sites and those operated by Tibetan exile groups and other activists considered hostile by Beijing.</p>
+<p>&quot;We see this as being an opportunity and also a threat to the Internet community,&quot; the Microsoft official said in an interview at a Beijing computer exhibition that has attracted thousands of residents eager to catch up with the computer revolution.</p>
+<p>Controls could cool enthusiasm for the Internet and slow market growth, but it would also create opportunites for software makers that could supply the technology needed to block data deemed undesirable, he said.</p>
+<p>&quot;Internet control is something that is being considered almost everywhere in the world,&quot; the Microsoft official said. &quot;In China, perhaps they are being more enthusiastic than elsewhere.&quot;</p>
+<p>While Microsoft will distribute its Chinese browser free of charge, bundling it with other software and allowing users to download it from local Internet websites, Netscape is confident it can sell its Navigator program for hard cash.</p>
+<p>Existing browsers can access Chinese-language sites, but the new programs are actually operated in Chinese.</p>
+<p>Netscape distributer Icer Yu said that when the Navigator 3.0 Chinese version came out in October it would cost a hefty 550 yuan ($66), but superior service would make it an attractive buy for Chinese eager to link up worldwide.</p>
+<p>Yu told Reuters that Netscape had just created a software alliance with five major regional telecommunications providers and had few doubts about prospects for the Internet in China.</p>
+<p>&quot;As China opens more and more to the outside world, the Internet should develop very well,&quot; he said.</p>
+<p>Industry experts put the number of signed-up Internet users in China at around 100,000, but say the sheer pace of growth make reliable statistics hard to come by.</p>
+<p>Service providers, which have proliferated in recent months, say they have had few complaints from clients unable to access some sites and that enthusiasm for the Internet is undiminished.</p>
+<p>China has no public policy of restricting sites on the Internet, a network notoriously resistant to censorship, but officials say known pornographic sources are routinely blocked.</p>
+<p>&quot;We have the ability to control them,&quot; said one official of the Ministry of Posts and Telecommunications, who declined to be identified. &quot;We have measures to protect our nation's security.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

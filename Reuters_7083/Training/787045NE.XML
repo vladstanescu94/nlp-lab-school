@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="787045" id="root" date="1997-08-08" xml:lang="en">
+<title>USA: CBOE to list Information Management options Aug 15.</title>
+<headline>CBOE to list Information Management options Aug 15.</headline>
+<dateline>CHICAGO 1997-08-08</dateline>
+<text>
+<p>The Chicago Board Options Exchange (CBOE) said Friday it will begin trading options on Information Management Resources Inc on August 15.</p>
+<p>The exchange said the options will have opening strike prices of 30, 35 and 40, with introductory expirations in September, October, November and February.</p>
+<p>Susquehanna Investment Group has been named the designated primary market maker (DPM) for the options.</p>
+<p>Information Resources Management shares were up 3/8 at 34-5/8 Friday afternoon.</p>
+<p>((--Chicago derivatives desk, 312 408 8750))</p>
+<p>E-mail: chicago.derivatives.newsroom@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

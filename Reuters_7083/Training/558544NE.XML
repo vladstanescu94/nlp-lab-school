@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="558544" id="root" date="1997-05-04" xml:lang="en">
+<title>HONG KONG: Hong Kong merchants defy Microsoft.</title>
+<headline>Hong Kong merchants defy Microsoft.</headline>
+<dateline>HONG KONG</dateline>
+<text>
+<p>Pirate copies of Windows 97 remained on sale in Hong Kong Sunday, despite complaints from Microsoft Corp. that the sales were confusing consumers.</p>
+<p>One &quot;Windows 97&quot; disk obtained by Reuters appeared to contain only a test version of the programme. Software companies often issue free test versions of new products before releasing them formally, though it was unclear if Microsoft had released such versions in Hong Kong.</p>
+<p>Hong Kong had the worst record in Asia for failing to clamp down on the sale of pirated goods, the South China Morning Post newspaper quoted Microsoft lawyer Valerie Colbourn as saying.</p>
+<p>&quot;Windows 97 is out in the arcades and consumers are completely confused because it hasn't been officially launched in Hong Kong or anywhere else,&quot; Colbourn said.</p>
+<p>Hong Kong has come under increasing pressure to crack down on vendors of pirate software sellers, who ply their trade openly in many of the territory's numerous computer arcades.</p>
+<p>Last week, the United States put Hong Kong on a list of countries targeted for intellectual property theft, a step toward possible economic sanctions if steps are not taken to curb copyright infringements.</p>
+<p>In one arcade named by the South China Morning Post, vendors continued to sell computer disks claiming to contain final versions of Windows 97, the newest edition of Microsoft's top-selling Windows operating system.</p>
+<p>One vendor said he was unaware of any complaints over sales of the pirated software, which he said sold for about $5.25.</p>
+<p>&quot;It has been selling very well,&quot; he said as he wrapped up one disk for a foreign tourist lured into the shop by its large displays of cut-price pirate versions of computer programmes, games and pornographic video disks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

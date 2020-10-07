@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="572844" id="root" date="1997-05-09" xml:lang="en">
+<title>USA: Novell CEO's first order - Get on the Net.</title>
+<headline>Novell CEO's first order - Get on the Net.</headline>
+<byline>Eric Auchard</byline>
+<dateline>LAS VEGAS 1997-05-08</dateline>
+<text>
+<p>Eric Schmidt joined Novell Inc as chairman and chief executive a month ago, but little seemed changed except his job title as he took the stage Thursday at an industry trade show and launched into another sermon on the virtues of the Internet.</p>
+<p>In a keynote speech at the Networld+Interop trade show here, Schmidt once again pounded the table for Java, the Internet software development language he evangelized into an industrywide standard.</p>
+<p>The vision he proposes is consistent with the one he long advocated in his previous job as chief technology officer at Sun Microsystems Inc, but it conflicts with a slow-moving legacy at Novell.</p>
+<p>&quot;I am not changing religions,&quot; Schmidt said afterward, when asked about his tireless advocacy of Java. &quot;I believed my beliefs independent of who I worked for,&quot; he said of his work at Sun and now for Novell.</p>
+<p>It will take time before his new company practises what he has long preached -- NetWare, the Novell software that connects roughly 60 million computer users to networks, will not be Internet-ready itself until a major new version is released around the end of the year.</p>
+<p>&quot;That's our number one priority,&quot; he said of Novell's plans for NetWare to embrace widely accepted Internet standards as a basis for all its key products instead of what he called the &quot;little space&quot; Novell had carved out for itself in protecting its proprietary NetWare system.</p>
+<p>Over time, Schmidt said he sees the company deriving an ever larger part of its revenues by providing a variety of Internet-friendly services that make the business of locating and managing information in cyberspace simpler and more comprehensible.</p>
+<p>The company's embrace of the Internet poses an inherent threat to the company's established operating system business, which still accounts for more than 50 percent of its revenues.</p>
+<p>Novell's services business is growing, but at roughly 30 percent of revenues -- including ManageWise and GroupWise, its management and messaging services products, the transition will not be an easy one.</p>
+<p>In his speech, Schmidt said he wanted to communicate the message that Novell has stopped hesitating now and learned to love the Internet. &quot;Novell will be a pure Internet/intranet leader,&quot; he said. &quot;Right now we are in a transition.&quot;</p>
+<p>&quot;In an explosion of things, how you find them? How do you name them?&quot; Schmidt said of the need to assert discipline over the wealth of information available from the Internet.</p>
+<p>His credo can be paraphrased like this:</p>
+<p>* Communications should be open and based on widely available Internet standards.</p>
+<p>* Network management should be left to professional technicians. Security should extend from the individual computer desktop through the network and out onto the public Internet.</p>
+<p>* Compatibility of information types should never be an issue. People should be able to send and receive voice, video and data via a range of information devices using a single password.</p>
+<p>&quot;The right model is where you have local networks use encryption to collaborate with your friends, partners and customers,&quot; he said.</p>
+<p>Novell's business plan is to seed its NetWare Directory Services (NDS) by giving the basic access software away for free in a bid to make it ubiquitously available.</p>
+<p>Directory services software is used to establish a computer user's identity, in other words, that persons are who they say they are.</p>
+<p>The company then charges a fee for centrally-managed features running on server computers like firewall security, network management, electronic messaging and replication, or the process of real-time database updating.</p>
+<p>The strategy sounds remarkably similar to the one he applied at Sun Microsystems in promoting Java as the basis for a new model of Internet-based computing, or by Netscape in giving away its Navigator browser software initially as a means of building its own server business.</p>
+<p>Novell plans to announce on May 19 a set of security features for intranets -- the project is code-named Border Services -- which will be available at the end of the summer, company officials confirmed.</p>
+<p>Novell is by all accounts late in staking its claim to the intranets -- supplying businesses with Internet-based tools to run on internal office networks -- a market many analysts believe Novell could have once dominated as an extension of its franchise of office networks.</p>
+<p>Rivals include not just Microsoft Corp, but Netscape Communications Corp, International Business Machines Corp and Oracle Corp, among many others.</p>
+<p>The company already has made progress in moving onto the Internet in recent quarters. In fall 1996, it began shipping a version of NetWare it calls InternetWare that adds browsing and other Internet features to NetWare, but it is a distinct product from the widely used versions of NetWare running IPX, Novell's proprietary network system standard.</p>
+<p>The next major release of NetWare, code-named Moab, but likely to be known as NetWare 5.0 on release, will make users able to operate according to both Internet standards and Novell's own IPX standard.</p>
+<p>&quot;We are going to be completely compatible with our base (of existing NetWare users),&quot; Schmidt cautioned. &quot;We're not breaking compatiblity -- that would be a death sentence.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

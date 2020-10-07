@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="314062" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: Microsoft Q2 shr rises to $0.57.</title>
+<headline>Microsoft Q2 shr rises to $0.57.</headline>
+<dateline>REDMOND, Wash. 1997-01-17</dateline>
+<text>
+<p>Microsoft Corporation Income Statements</p>
+<p>		    (In millions, except earnings per share)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>						 December 31  December 31</p>
+<p>					  1995	 1996   1995   1996</p>
+<p> Net revenues		     $ 2,195   $ 2,680$ 4,211$ 4,975</p>
+<p>Operating expenses:</p>
+<p>  Cost of revenues		    330	 296    652    546</p>
+<p>  Research and development	  313	 485    615    917</p>
+<p>  Sales and marketing		 690	 737  1,311  1,362</p>
+<p>  General and administrative	 76	  81    139    167</p>
+<p>   Total operating expenses     1,409     1,599  2,717  2,992</p>
+<p> Operating income		     786     1,081  1,494  1,983</p>
+<p> Interest income			 76	 105    142    197</p>
+<p> Other income (expense)		23	(46)     19   (95)</p>
+<p> Income before income taxes	 885     1,140  1,655  2,085</p>
+<p> Provision for income taxes	 310	 399    581    730</p>
+<p> Net income			     575	 741  1,074  1,355</p>
+<p> Preferred stock dividends	   --	   1     --	1</p>
+<p>Net income available for common</p>
+<p>  shareholders			  575	 740  1,074  1,354</p>
+<p> Earnings per share (a)	    0.45	0.57   0.84   1.04</p>
+<p>Weighted average shares</p>
+<p>  outstanding (a)		   1,276     1,304  1,278  1,299</p>
+<p>NOTE: (a) Share and per share amounts for the three and six months ended December 31, 1995 have been restated to reflect a two-for-one stock split in December 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

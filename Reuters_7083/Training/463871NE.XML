@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="463871" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: RESEARCH ALERT - IONA Technologies Plc.</title>
+<headline>RESEARCH ALERT - IONA Technologies Plc.</headline>
+<text>
+<p>-- SoundView Financial Group Inc said it initiated coverage of IONA Technologies Plc as a short- and long-term buy.</p>
+<p>-- set 1997 earnings estimate of $0.32 a share and a 1998 estimate of $0.74 a share.</p>
+<p>-- set a &quot;long-term&quot; price target of $35 a share.</p>
+<p>-- SoundView said it was a co-manager of IONA's recent initial public offering.</p>
+<p>-- Additional details were not immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

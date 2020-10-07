@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90086" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: AT&amp;T, Microsoft in Internet deal.</title>
+<headline>AT&amp;T, Microsoft in Internet deal.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-10-02</dateline>
+<text>
+<p>AT&amp;T Corp and Microsoft Corp are expected to announce on Thursday that AT&amp;T's WorldNet Service will begin offering Microsoft's Internet Explorer software as its preferred Internet browser software, the latest of blows to Netscape Communications Corp.</p>
+<p>The companies will also announce that Microsoft will be offering AT&amp;T's WorldNet Service software as a folder on its Windows 95 operating system, pre-bundled with PCs.</p>
+<p>&quot;It's a frontal attack on Navigator,&quot; said Steve Harmon, a senior investment analyst at MecklerMedia Internet Consulting.  </p>
+<p>An AT&amp;T spokesman declined to comment on specifics, but said AT&amp;T and Microsoft will hold a conference call with reporters on Thursday to discuss the extension of their relationship to make Internet connections easier.</p>
+<p>Analysts said the deal, the latest in the Internet browser feud between Microsoft's Internet Explorer and Netscape Navigator, was not surprising, but it is further evidence of the momentum Microsoft is gaining in the Internet market.</p>
+<p>&quot;It's not a big surprise,&quot; said Emily Green, a Forrester Research analyst. &quot;Microsoft has been absolutely determined that it had every possible vehicle for consumers.&quot;  </p>
+<p>Since the beginning of this year, Microsoft has been cutting deals with all the major online services, starting with America Online Inc, then CompuServe Inc, to become their preferred browser for Internet access. In return, the online services get bundled with Windows 95, where users can simply click on an icon to join that service.</p>
+<p>&quot;No one wants to be left out of the Windows 95 desktop,&quot; said Green. &quot;But the marketing for consumers has to be a little bit more clever than being on the Windows 95 desktop... What is the value when there are 20 others up there.&quot;</p>
+<p>The deals pushed aside Netscape as an alternate choice.  </p>
+<p>&quot;We've known for a couple of months that folks like AT&amp;T would offer a choice, we fully expect that,&quot; said a spokeswoman for Netscape. &quot;Our position is that when offered a choice, many folks still continue to use Navigator...From our point of view, the customer will have to decide. In the AOL situation where AOL has given a preference to Microsoft, many download Navigator.&quot; Netscape said its leading position in the Internet browser market fluctuates between 80 to 85 percent.</p>
+<p>Analysts said Microsoft officials said Internet Explorer's share of this market has risen to about 10 to 20 percent, up from five to 10 percent, in recent weeks.  </p>
+<p>But analysts said that, while Microsoft is beginning to gain market share in the browser market, Netscape still has unrivaled dominance in the Internet server software market, where the real revenues are coming from in the Internet space.</p>
+<p>&quot;They are losing out on some of the high profile market. But (Netscape is) gaining in the market where the revenue is,&quot; Harmon said, referring to Internet server software.</p>
+<p>Analysts also said that AT&amp;T's WorldNet Internet access service is also gaining momentum after a bumpy start when it did not have enough floppy disks to respond to the unexpected massive consumer demand and of service complaints by users.  </p>
+<p>AT&amp;T currently has about 425,000 users since it launched its service six months ago and it is expected by some analysts eventually to surpass Netcom Communications Inc as the leading consumer Internet access service.</p>
+<p>One analyst who asked not to be identified said AT&amp;T is projecting internally that it will reach five million subscribers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

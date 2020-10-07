@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120520" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Voluntary web privacy effort gets business backing.</title>
+<headline>Voluntary web privacy effort gets business backing.</headline>
+<dateline>PALO ALTO 1996-10-16</dateline>
+<text>
+<p>Electronic Frontier Foundation, a leading advocate for civil liberties in cyberspace, received a high profile endorsement on Wednesday in its effort to create a voluntary rating system for the World Wide Web.</p>
+<p>CommerceNet, an association of 175 telecommunications providers, online services, banks and other companies, endorsed the system, known as eTrust.</p>
+<p>&quot;The eTrust project is critical to building public trust in online transactions,&quot; said Marty Tenenbaum, chairman of CommerceNet.  </p>
+<p>&quot;It assures individuals will receive full disclosure on how and where information will be used and gives them an opportunity to opt out of a transaction,&quot; Tenebaum said.</p>
+<p>Under the system, announced by the foundation in July, web sites would carry licensed logos indicating what kinds of information could be collected on consumers who visit the page and what uses would be made of such information.</p>
+<p>CommerceNet includes well known computer companies, such as Hewlett Packard Corp and Netscape Communications Corp, along with companies in other industries, like Wells Fargo Bank and Federal Express.  </p>
+<p>Lori Fena, executive director of the foundation, said CommerceNet was an ideal partner to implement the eTrust system.</p>
+<p>&quot;They already have a strong group of member companies focused in e-commerce and they are in the process of developing a worldwide infrastructure to deliver programs like eTrust,&quot; Fena said.</p>
+<p>Fena said the foundation has completed guidelines for an accreditation program for eTrust and a pilot program will run through the fourth quarter. The foundation will launch the commercial version of eTrust in the first quarter of 1997.  </p>
+<p>Sites that display the logos will pay a licensing fee, but the pricing structure has not been developed yet.</p>
+<p>Privacy concerns about the Internet have arisen because whenever a person uses a browser like Netscape Navigator to visit a web site, the site can collect information about the person, including where else on the web that person visited.</p>
+<p>Some sites also ask people to register and divulge more personal information, such as addresses, phone numbers, or annual income.</p>
+<p>--Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

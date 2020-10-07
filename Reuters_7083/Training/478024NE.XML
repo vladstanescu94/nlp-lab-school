@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478024" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Microsoft warns Office 97 sales could slow.</title>
+<headline>Microsoft warns Office 97 sales could slow.</headline>
+<dateline>SEATTLE 1997-04-01</dateline>
+<text>
+<p>Microsoft Corp Chief Financial Officer Mike Brown on Tuesday said the company's Office 97 software package had been a &quot;sizzling success,&quot; but he warned of saturation in the category and tough comparisons next year.</p>
+<p>Brown, speaking to investors at a conference sponsored by the Ragen MacKenzie brokerage, reiterated that Microsoft had sold about 5.0 million copies of the Office software bundle, which was launched in January.</p>
+<p>&quot;As you look forward ... you have to be a little more cautious,&quot; he said. &quot;I think it will be likely to continue to grow, but it's the slowest growing part of our revenue pie.&quot;  </p>
+<p>During the past 12 months, Office and other applications generated $4.0 billion in revenues, or about 43 percent of Microsoft's total, Brown said.</p>
+<p>He said the BackOffice suite of server products, tailored for Microsoft's Windows NT operating system, generated $1.8 billion and was the fastest-growing component.</p>
+<p>Sales of Microsoft's Windows operating systems, generally installed on new computers, accounted for $2.8 billion, while the remaining $800 million came from other categories, including hardware and interactive media.</p>
+<p>Brown said he expected a &quot;substantial&quot; increase in spending on research and development in the fiscal year that begins July 1 over the estimated $2.1 billion this year, but he declined to be specific.</p>
+<p>And Brown indicated that the so-called Windows 97 operating system update, now expected to be released in the second half of fiscal 1998, would not have a significant impact on Microsoft's revenue growth.</p>
+<p>Based on early customer feedback, the product would largely be a &quot;technical&quot; upgrade, and Microsoft did not plan to impose a price increase over Windows 95, he said.</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

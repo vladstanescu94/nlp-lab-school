@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="525000" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: Informix Corp sued again by shareholders.</title>
+<headline>Informix Corp sued again by shareholders.</headline>
+<dateline>NEW YORK 1997-04-21</dateline>
+<text>
+<p>Attorneys representing shareholders of Informix Corp said Monday they filed a lawsuit against the company, alleging Informix hid information about the true value of its stock.</p>
+<p>The suit, intended as a class action, is the second such suit in one week.</p>
+<p>Philadelphia, Pa.-based lawfirm Berger &amp; Montague said the suit was filed April 18 in U.S. District Court for the Northern District of California. Informix is based in Menlo Park, Calif.</p>
+<p>The suit covers stockholders who bought Informix shares between Oct 16, 1996, and April 1, 1997.</p>
+<p>A spokeswoman at Informix Corp said Monday the company had not seen the complaint and that it would not comment now.</p>
+<p>&quot;The complaint alleges that Informix and three of its current and former officers and directors violated the federal securities laws by issuing false and misleading statements and omitting material facts regarding Informix's financial results and operations during the class period,&quot; the law firm said in a press release.</p>
+<p>&quot;The complaint also alleges that by issuing these false and misleading statements, the defendants artificially inflated the market price of Informix stock throughout the class period and that certain Informix officers and directors took advantage of the inflated price to sell over $5.6 million of their personal Informix common stock holdings.</p>
+<p>&quot;The complaint further alleges that, as a result of defendants' violations, the market price of Informix stock during the class period closed as high as $26.50 per share, and fell over 40 percent at the close of trading on April 1, 1997, the last day of the class period,&quot; the law firm said.</p>
+<p>((-New York Newsdesk 212.859.1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

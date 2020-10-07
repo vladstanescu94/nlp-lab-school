@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="176971" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Egghead sells software over Internet - WSJ.</title>
+<headline>Egghead sells software over Internet - WSJ.</headline>
+<dateline>NEW YORK 1996-11-08</dateline>
+<text>
+<p>Egghead Inc has begun selling computer software from a page on the World Wide Web, becoming the first major software retailer to deliver programs over the Internet to customers, the Wall Street Journal reported on Friday.</p>
+<p>The newspaper said the initiative, which began last week with three software programs, was the first of a number of pilot projects supported by Microsoft Corp.</p>
+<p>It said the retailer hoped the initiative would assist its diminishing store sales.</p>
+<p>During the company's fiscal second quarter, same store sales fell 22 percent compared to the same period last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

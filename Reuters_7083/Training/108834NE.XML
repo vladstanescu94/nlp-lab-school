@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108834" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Microsoft unveils new web-based MSN.</title>
+<headline>Microsoft unveils new web-based MSN.</headline>
+<dateline>REDMOND, Wash. 1996-10-10</dateline>
+<text>
+<p>Microsoft Corp, stepping up its campaign to increase its share of the Internet market, Thursday unveiled a new Web-based version of its  Microsoft Network (MSN).</p>
+<p>In a news statement, the software leader also announced new pricing plans for the service. The Premier Monthly Plan offers five hours of access to the Internet, e-mail and all MSN services and original programming for $6.95 per month, with additional hours at $2.50. The MSN Premier Unlimited Plan for $19.95 per month offers unlimited access.  </p>
+<p>For those  who already have access to the Internet, Microsoft said a number of MSN services such as Expedia travel services, MSNBC and Microsoft Investor are free with Internet access.</p>
+<p>The MSN Premier Destinations Monthly Plan, aimed at users who already have Internet access, provides unlimited usage of all MSN content for only $6.95 per month.</p>
+<p>Microsoft said the new version of its online service features new services, original entertainment programming and a new program viewer that puts MSN members just one click away from any major area on MSN or any other site on the Internet.</p>
+<p>&quot;People tell us two things about going on the Internet: that there is nothing there, and that there's so much there, they can't find anything,&quot; said Pete Higgins, group vice president, applications and content at Microsoft. &quot;Our goal with the new Microsoft Network is to address both issues, combining a lot of essential services, original entertainment and new information in one place and making the rest of the Internet easier to approach and enjoy.&quot;</p>
+<p>The Web-based MSN is scheduled to be launched in early November. MSN is the third-largest online service worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

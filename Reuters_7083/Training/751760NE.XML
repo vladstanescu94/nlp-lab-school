@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751760" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - Boole &amp; Babbage Inc Q3 results.</title>
+<headline>TABLE - Boole &amp; Babbage Inc Q3 results.</headline>
+<dateline>SAN JOSE, Calif. 1997-07-24</dateline>
+<text>
+<p>Boole &amp; Babbage, Inc.</p>
+<p>			Consolidated Statements of Income</p>
+<p>		As restated for 97Q2 pooling with MAXM Systems</p>
+<p>	   (Amounts in thousands, except net income per share)</p>
+<p>			     Three Months Ended   Nine Months Ended</p>
+<p>				     June 30,	     June 30,</p>
+<p>				 1997	  1996     1997	 1996</p>
+<p>Revenue:</p>
+<p> Product licensing    $26,784     $24,169  $79,119    $70,276</p>
+<p>Maintenance fees</p>
+<p>  and other		21,972	21,426   65,849     62,021</p>
+<p> Total revenue	   48,756	45,595  144,968    132,297</p>
+<p>Costs and expenses:</p>
+<p>Cost of product</p>
+<p>  licensing		 3,676	 3,863   10,966     11,698</p>
+<p>Cost of maintenance</p>
+<p>  fees and other	  4,495	 5,968   14,711     14,315</p>
+<p> Product development    6,310	 5,482   18,573     15,843</p>
+<p> Sales &amp; marketing     23,277	22,403   70,535     67,292</p>
+<p>General and</p>
+<p>  administrative	  4,344	 4,615   14,017     13,727</p>
+<p>Acquisition and</p>
+<p>  nonrecurring costs	 --	    --   11,309	   --</p>
+<p>Total costs and</p>
+<p>  expenses		 42,102	42,331  140,111    122,875</p>
+<p> Operating income	 6,654	 3,264    4,857	9,422</p>
+<p>Interest and other</p>
+<p>  income, net	     2,758	 1,411    6,574	3,999</p>
+<p>Income before provision</p>
+<p>  for income taxes	9,412	 4,675   11,431     13,421</p>
+<p>Provision for</p>
+<p>  income taxes	    2,820	 1,585    5,225	4,940</p>
+<p> Net income		 6,592	 3,090    6,206	8,481</p>
+<p>Shares used in per</p>
+<p>  share calculations   20,095	19,317   19,940     19,130</p>
+<p>Net income per share:</p>
+<p>Before acquisition and</p>
+<p>  nonrecurring costs     0.33	  0.16     0.74	 0.44</p>
+<p> As reported		 0.33	  0.16     0.31	 0.44</p>
+<p>Supplemental Data:</p>
+<p>				  --Q3 Licensing revenue growth--</p>
+<p>					As reported  Proforma (1)</p>
+<p> Client/server products   10%			56%</p>
+<p> Mainframe products	 11%			20%</p>
+<p>				  11%			28%</p>
+<p> Domestic channels	  10%			33%</p>
+<p> International channels   11%			25%</p>
+<p>				  11%			28% (1)</p>
+<p>Proforma excludes impact of MAXM acquisition and currency rates</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

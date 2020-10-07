@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450789" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Sun Internet strategist to head Novell.</title>
+<headline>Sun Internet strategist to head Novell.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-03-18</dateline>
+<text>
+<p>Novell Inc. Tuesday named Eric Schmidt, a prime architect of Sun Microsystems Inc.'s Internet and Java language strategy, as its chairman and chief executive officer.</p>
+<p>Schmidt, who will join Novell April 7, will be charged with re-energising the network software company, which has been involved in a head-to-head battle with software giant Microsoft Corp..</p>
+<p>Over the last 18 months, Novell has managed to dispose of software applications WordPerfect and Quattro Pro, which had been acquired by former Novell chief executive officer Ray Noorda in a failed effort take on industry leader Microsoft.</p>
+<p>Analysts and industry executives, some of whom were startled by the move, said Schmidt had the energy and intellect to help hone the company's strategy and to draw talented but scarce developers to its ranks.</p>
+<p>&quot;A lot of guys want to ride at the front,&quot; one analyst said of Schmidt's move to the chief executive position.</p>
+<p>Schmidt, who joined Sun in 1983 as a manager of software, said the opportunity to run Novell would fulfil &quot;a lifelong dream&quot; of heading up a company in the industry.</p>
+<p>In recent months, Schmidt has emerged as a main spokesman for development of the Internet and of Sun's effort to promote the Java language, designed to enable software to run on virtually all computer systems.</p>
+<p>These skills will be critical at Novell, analysts said, where former Hewlett-Packard Co. Chairman John Young has been serving as chairman since last August when former Novell CEO Robert Frankenberg stepped down, just as the company was gearing up a new Internet focus.</p>
+<p>Young will move to the post of vice-chairman.</p>
+<p>Chris Le Tocq, an industry analyst at Dataquest, said Schmidt &quot;will bring the vision&quot; Novell has been lacking.</p>
+<p>Despite facing competitive pressure from Microsoft, Novell still has the No. 1 market share in network operating systems.</p>
+<p>Joe Marengi, Novell's president and chief operating officer who was serving as acting CEO since Frankenberg's departure, said Novell currently claims 60 million users worldwide.</p>
+<p>&quot;I think it's a very defensible position and, in fact, one that we can grow very rapidly, in my personal view,&quot; Schmidt said of Novell's market position.</p>
+<p>In addition to competing with Microsoft in advanced networking features, Schmidt said the company will work to make sure its software works well on both Microsoft's Windows NT and Unix networking environments.</p>
+<p>Schmidt received a degree in electrical engineering from Princeton University and a doctorate in computer science from the University of California at Berkeley. He has worked at Xerox Corp.'s Palo Alto Research Centre, at Bell Laboratories and Zilog Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

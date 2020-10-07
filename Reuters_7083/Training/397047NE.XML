@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="397047" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: E*TRADE, Microsoft sign pact.</title>
+<headline>E*TRADE, Microsoft sign pact.</headline>
+<dateline>PALO ALTO, Calif. 1997-02-24</dateline>
+<text>
+<p>E*TRADE Group on Monday said Microsoft Corp will use E*TRADE's online investing services as part of Microsoft Investor online Web site.</p>
+<p>E*Trade's service include free value-added news, research, charts and the ability to invest online at low commissions.</p>
+<p>E*Trade shares closed up 2-3/4 at 22-1/8, a new year high.</p>
+<p>Microsoft ended 5-1/8 higher at 100-1/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

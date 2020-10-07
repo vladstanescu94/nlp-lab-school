@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476913" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: IBM wins info management pact from DuPont.</title>
+<headline>IBM wins info management pact from DuPont.</headline>
+<dateline>NEW YORK 1997-03-31</dateline>
+<text>
+<p>International Business Machines Corp, continuing its push into the oil and chemical industries, said Monday it had won a contract to take charge of DuPont Co's global business management system.</p>
+<p>Terms were not disclosed.</p>
+<p>Noting DuPont was lured away from its existing providers by IBM's competitive bidding and the 'one-stop-shopping' IBM could offer, the company said be it will be charged with both hardware and database software in the DuPont system.</p>
+<p>Previously, Hewlett-Packward Co had provided DuPont with hardware, and Oracle provided database software.</p>
+<p>IBM said the system will be used for production scheduling, inventory control, customer information, and other functions across DuPon't operations, which span the Americas, the Asia-Pacific region, Europe, the Middle East and Africa.</p>
+<p>The system will include IBM's RS/6000 workstations and DB2 database software, which will be installed to run the SAP R/3 enterprise resource planning software made by Germany's SAP AG, the world's largest maker of software used on personal computer networks for corporate operations planning.</p>
+<p>IBM said the contract was won by its Process and Petroleum Industry Solutions unit.</p>
+<p>-- New York Energy Desk +1 212 859 1633</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

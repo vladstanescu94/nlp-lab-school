@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="745013" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: HOT STOCKS HIGHLIGHTS-Friede up, IBM off.</title>
+<headline>HOT STOCKS HIGHLIGHTS-Friede up, IBM off.</headline>
+<dateline>NEW YORK 1997-07-22</dateline>
+<text>
+<p>* Friede Goldman International Inc jumped 6-1/4 to 23-1/4 after launching its initial public offering at $17 per share.</p>
+<p>* International Business Machines Corp fell 1-3/4 to 102 after reporting second quarter earnings of $1.46 per share, up from $1.26 a year ago and $0.04 ahead of estimates.</p>
+<p>* Philip Morris Cos Inc gained 1-3/4 to 42-1/4 after reporting second quarter earnings of $0.76 versus $0.66.  </p>
+<p>The earnings were in line with the First Call consensus estimate.</p>
+<p>* Tupperware Corp fell 2-5/8 to 34-7/8 after reporting second quarter earnings fell to $0.61 per share from $0.77 a year ago.</p>
+<p>* McAfee Associates Inc fell 8-5/16 to 68-15/16. Late Monday, Symantec Corp said it had amended a lawsuit against McAfee, alleging McAfee copied Symantec code for use in its products. McAfee denied the allegations.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I48300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

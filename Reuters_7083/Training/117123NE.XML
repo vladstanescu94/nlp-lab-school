@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117123" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: RESEARCH ALERT - Bay Networks net view cut.</title>
+<headline>RESEARCH ALERT - Bay Networks net view cut.</headline>
+<text>
+<p>-- SoundView Financial Group analyst Michael Karfopoulos said on Tuesday he had reduced earnings estimates for Bay Networks Inc.</p>
+<p>-- In a report, he cut his estimate of earnings per share for fiscal 1997 to $1.10 from $1.40 and to $1.50 from an estimated $1.70 in fiscal 1998.</p>
+<p>-- Bay Networks was off 3-1/4 to 20-3/4 in mid-morning trade.</p>
+<p>-- Wall Street desk, (212) 859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

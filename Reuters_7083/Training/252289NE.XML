@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252289" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: &quot;Push&quot; technology hot topic at US Internet show.</title>
+<headline>&quot;Push&quot; technology hot topic at US Internet show.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-12-12</dateline>
+<text>
+<p>One of the hottest topics this week at an Internet show is so-called &quot;push technology,&quot; which directly broadcasts customized news to a networked PC, but it is also already seen as the next area ripe for a shakeout.</p>
+<p>Internet broadcasters are lead by companies like PointCast Inc., a privately-held firm in Santa Clara, Calif., which announced a major deal with Microsoft Corp on Tuesday.</p>
+<p>PointCast of Cupertino, Calif., and several other start-up companies deliver customized news, or specific Web sites, depending on the service, to consumer or corporate users, several times a day, so that a user doesn't have to go to the Internet and wait, the content is delivered.</p>
+<p>&quot;Making the Internet a broadcast medium is a direction that a lot of companies are going in, but that's already really crowded,&quot; said Ted Julian, an analyst with IDC Corp.</p>
+<p>At Internet World, there are several privately-held push technology companies that are exhibiting and demonstrating their service, and trying to differentiate themselves amid all the hype about Internet broadcasting.</p>
+<p>PointCast was the first company to develop these systems, called personalized broadcast systems, and it now has 1.7 million subscribers. It delivers news from the New York Times, the Boston Globe, Reuters Holdings Plc, and now, MSNBC, the online venture of Microsoft and General Electric's NBC.</p>
+<p>PointCast and most of the other startup companies all operate on the same model, which is an advertising-based model. These companies sell advertising space on their service and offer the service for free to subscribers. By building up lots of subscribers, they can gain more advertising revenue.</p>
+<p>The deal PointCast signed Tuesday with Microsoft has the potential to significantly expand its subscriber base, because PointCast will become part of its next generation desktop software.</p>
+<p>The Boston-based Yankee Group said in a study to be soon released that the Internet broadcasting market will significantly affect the way companies collect advertising dollars on the World Wide Web.</p>
+<p>Yankee is predicting that by 2000, Internet broadcasting will be worth $5.7 billion in revenues.</p>
+<p>But with many more companies arriving on the scene and Microsoft and Netscape Communications Corp getting into this market, consolidation in on the horizon, because media companies will not want to develop a channel for each delivery system, most of which for now are proprietary.</p>
+<p>&quot;There is no way I am going to download all four of these, and I am in the industry,&quot; said Jerry Yang, one of the founders of Yahoo! Corp. &quot;This is a huge issue.&quot;</p>
+<p>Even the players themselves are also predicting a shakeout, but each company predicts it will be one of the winners.</p>
+<p>Some of the other players include Freeloader, which was recently purchased by Individual Inc. Freeloader lets subcribers customize whatever Web sites they want delivered to their desktop, plus the news that is available on Individual.</p>
+<p>&quot;Clearly there will be a big shakeout,&quot; said Sunil Paul, president of Freeloader. &quot;PointCast clearly stands out and we will be one of them (survivors).&quot;</p>
+<p>Another talked about startup, called IFusion, is offering television-like content with video and audio in its service which will be introduced early next year, called Arrive. The company also offers development for media companies.</p>
+<p>&quot;Ultimately there will be some sort of shakeout and we will be left standing,&quot; said Candice Meyers, director of content development at IFusion, based in New York.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

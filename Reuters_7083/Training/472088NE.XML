@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="472088" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: System Software secures $12 mln loan.</title>
+<headline>System Software secures $12 mln loan.</headline>
+<dateline>CHICAGO 1997-03-27</dateline>
+<text>
+<p>System Software Associates Inc on Thursday said it secured a $12 million loan from a strategic investor.</p>
+<p>The company, which develops and markets business application software, said the loan should resolve concerns over its short-term liquidity requirements.  </p>
+<p>System Software said the loan carries interest at the prime rate plus one percentage point and is convertible into its common stock at $3.33 per share or 80 percent of the stock fair market value at the time of conversion, which ever is less.</p>
+<p>The loan, due in three years, is not convertible during the first year, except in the event of prepayment, System Software said.</p>
+<p>System Software and its strategic investor, who the company did not identify in its statement, are starting discussions about a larger transaction involving an equity investment in the company at fair market value.</p>
+<p>&quot;The possible equity investment is not a precursor to the acquisition of System Software Associates,&quot; said chief executive officer Roger Covey in a statement.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

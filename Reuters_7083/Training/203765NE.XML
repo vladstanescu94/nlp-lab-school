@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203765" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: MacNeal-Schwendler Corp Q3 net falls.</title>
+<headline>MacNeal-Schwendler Corp Q3 net falls.</headline>
+<dateline>LOS ANGELES 1996-11-19</dateline>
+<text>
+<p>The MacNeal-Schwendler Corp.</p>
+<p>		     Condensed Consolidated Statements of Income</p>
+<p>	   (amounts in thousands, except for earnings per share</p>
+<p>				 and cash dividends declared)</p>
+<p>			     Three months		Nine months</p>
+<p>			    Ended Oct. 31,	   Ended Oct. 31,</p>
+<p>			     1996	 1995	  1996	 1995</p>
+<p>		     (unaudited)	     (unaudited)</p>
+<p>Revenue</p>
+<p> Analysis software $ 17,889   $ 17,867    $ 56,168   $ 54,638</p>
+<p> Modeling software   11,566     12,548	34,330     33,498</p>
+<p> Other		    2,135	1,593	 6,043	6,408</p>
+<p>  Total revenue	31,590     32,008	96,541     94,544</p>
+<p>Operating expenses</p>
+<p> Cost of revenue	2,891	2,733	 8,793	8,199</p>
+<p> Goodwill amortization  567	  525	 1,701	1,640</p>
+<p>Research and</p>
+<p>   development	  7,649	7,461	24,234     22,890</p>
+<p>Selling, general and</p>
+<p>   administrative    15,972     15,531	50,259     45,712</p>
+<p>Capitalized software</p>
+<p>   costs, net	 (1,811)    (2,767)     (6,294)    (7,839)</p>
+<p>Software costs,</p>
+<p>   amortized	    1,661	2,367	 5,243	6,546</p>
+<p>Total operating</p>
+<p>    expense	    26,929     25,850	83,936     77,148</p>
+<p> Operating income     4,661	6,158	12,605     17,396</p>
+<p>Other income (expense)</p>
+<p>Other income</p>
+<p>   (expense), net	(74)	 (15)	 (565)	  792</p>
+<p>Debenture interest</p>
+<p>			  (1,114)    (1,114)     (3,342)    (3,350)</p>
+<p> Income before taxes  3,473	5,029	 8,698     14,838</p>
+<p>Provision for income</p>
+<p>   taxes		  1,129	1,498	 2,827	4,823</p>
+<p> Net income	     2,344	3,531	 5,871     10,015</p>
+<p>Primary earnings</p>
+<p>   per share	     0.17	 0.26	  0.43	 0.74</p>
+<p>Weighted average</p>
+<p>shares</p>
+<p>   outstanding	 13,480     13,476	13,499     13,464</p>
+<p>Cash dividends</p>
+<p>   declared		  --	 0.16	  0.22	 0.48</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207693" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Netscape CEO sees new information model.</title>
+<headline>Netscape CEO sees new information model.</headline>
+<byline>Samuel Perry</byline>
+<dateline>LAS VEGAS 1996-11-20</dateline>
+<text>
+<p>Netscape Communications Corp. President Jim Barksdale Wednesday unveiled new software that will allow users to receive personalized information anywhere on a computer network.</p>
+<p>The new software, code-named Constellation, will also allow users to merge and customize information on computer desktops and networks, posing a fresh challenge to archrival Microsoft Corp..</p>
+<p>In a keynote speech at the annual Comdex computer trade show in Las Vegas, Barksdale described Constellation -- due for release in mid-1997 -- as part of an Internet &quot;third wave&quot; of information that can be displayed according to individual preferences.</p>
+<p>&quot;While the first waves of the Internet focused on users being able to easily find information, the mark of this third wave is that information finds the user,&quot; he said. &quot;Our new products will have the intelligence to help you focus on the information you care about.&quot;</p>
+<p>Constellation, which will be part of Netscape's next-generation Netscape Communicator corporate software, will allow users to log on or off computers throughout a network -- or even across the Internet -- and see a computer desktop with the user's personal setup.</p>
+<p>This &quot;roaming&quot; capability, like using mobile telephones in cities outside one's home base, can free people to work in different locations using the same basic tools and calling up application software such as spreadsheets and word processors.</p>
+<p>That provides a different approach than the one used currently by Microsoft, which requires computer makers using its Windows operating systems, for example, to show the Windows logo first.</p>
+<p>Although Microsoft has moved aggressively over the last 11 months into the Internet market, and produces a rival browser called Internet Explorer, Netscape has so far retained the leading role in the browser market.</p>
+<p>Microsoft, however, holds 90 percent of the market for the operating systems that run computers.</p>
+<p>Barksdale said that with 48 million copies of Netscape's browser software sold, it is the most popular application ever, and he said recent data shows Netscape with 78 percent of all browsers.</p>
+<p>Contrary to speculation since Netscape's red-hot stock offering in August 1995 that it would one day compete with Microsoft in operating systems, company executives said Netscape was deliberately focusing on the ability to work across some 17 different operating systems instead.</p>
+<p>&quot;Constellation is not an operating systems, but is a new user interface,&quot; Netscape Senior Vice President Mike Homer told reporters.</p>
+<p>Although Netscape executives acknowledged there was some difficulty in making its software run on some environments, such as Windows 3.1, the company was succeeding and committed to continuing to support a variety of operating systems.</p>
+<p>Analysts have said this is a major distinction from Microsoft, which earlier used the Comdex show to unveil a new operating system for hand-held computers, Windows CE, and its new Office 97 software package.</p>
+<p>Although Microsoft demonstrated powerful features and Web capabilities for its new Office package, analysts said companies would only get the full benefit of it if they chose to deploy it throughout departments or the company.</p>
+<p>The problem of distributing information to individuals in the fast-growing Internet, with its tens of millions of sites, has increasingly captured the attention of Silicon Valley's sharpest engineers.</p>
+<p>Two start-up companies widely regarded in this area -- Marimba Inc. and PointCast Inc.'s PointCast Network -- will have their products integrated into Constellation, Netscape said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

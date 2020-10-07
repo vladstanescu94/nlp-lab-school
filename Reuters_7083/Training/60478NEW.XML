@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60478" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Integrated Systems Q2 shr falls to $0.10.</title>
+<headline>Integrated Systems Q2 shr falls to $0.10.</headline>
+<dateline>SUNNYVALE, Calif. 1996-09-18</dateline>
+<text>
+<p>Condensed Consolidated Statements of Income</p>
+<p>			(in thousands, except per share data)</p>
+<p>				Three Months Ended   Six Months Ended</p>
+<p>				     August 31,	    August 31,</p>
+<p>				     1996     1995	1996     1995</p>
+<p>Revenue:</p>
+<p>  Product		     $17,107  $12,146   $30,825  $23,768</p>
+<p>  Services			8,998    7,705    18,431   14,541</p>
+<p> Total revenue		 26,105   19,851    49,256   38,309</p>
+<p>Costs and expenses:</p>
+<p>  Cost of product revenue   2,086    2,073     4,097    4,539</p>
+<p>  Cost of services revenue  3,892    3,971     8,066    7,394</p>
+<p>  Marketing and sales	 9,842    6,246    18,663   12,625</p>
+<p>  Research and development  4,409    2,843     8,121    5,428</p>
+<p>General and</p>
+<p>   administrative	     1,937    1,604     3,948    3,161</p>
+<p>Amortization of intangible</p>
+<p>   assets			   104	186	 207	372</p>
+<p>  Acquisition and other	 926	 --	 926	 --</p>
+<p> Total costs and expenses  23,196   16,923    44,028   33,519</p>
+<p> Income from operations     2,909    2,928     5,228    4,790</p>
+<p> Interest and other income    798	691     2,192    1,216</p>
+<p>Income before income taxes</p>
+<p>				    3,707    3,619     7,420    6,006</p>
+<p>Provision for income taxes</p>
+<p>				    1,335    1,185     2,597    1,994</p>
+<p> Net income		     2,372    2,434     4,823    4,012</p>
+<p> Earnings per share	    0.10     0.11	0.21     0.18</p>
+<p>Shares used in per</p>
+<p> share calculations	  23,511   21,994    23,110   21,854</p>
+<p>NOTE: Excluding merger and related charges, Q2 1996 shr would have been $0.13.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

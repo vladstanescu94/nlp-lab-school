@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203524" id="root" date="1996-11-20" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Irish Delta buys stake in N.Ireland Lorien.</title>
+<headline>Irish Delta buys stake in N.Ireland Lorien.</headline>
+<dateline>DUBLIN 1996-11-20</dateline>
+<text>
+<p>Irish private venture capital firm Delta Partners said on Wednesday it had bought a 27.5 percent stake in Northern Ireland software company Lorien Systems for 0.25 million Irish pounds.</p>
+<p>&quot;This investment is in line with our strategy of investing in fast growth companies who have developed products for the international market,&quot; Delta Partners' Maurice Roche said in a statement.</p>
+<p>Lorien developed a software product that allows people with dyslexia and other learning difficulties correct their most common spelling mistakes.</p>
+<p>The product is currently being sold on a licence basis to educational establishments, Delta said. It plans to release the product to the business market in January 1997.</p>
+<p>Delta Partners has a capital fund of 23 million punts, supported by Bank of Ireland and Irish pension funds.</p>
+<p>-- Dublin Newsroom + 353 1 660 3377</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

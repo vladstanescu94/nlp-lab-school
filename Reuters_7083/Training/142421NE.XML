@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142421" id="root" date="1996-10-24" xml:lang="en">
+<title>FRANCE: Dassault Systemes Q3 net rises.</title>
+<headline>Dassault Systemes Q3 net rises.</headline>
+<dateline>PARIS 1996-10-24</dateline>
+<text>
+<p>Three months to September 30, 1996.</p>
+<p>(Figures in millions of French francs unless stated)</p>
+<p>    Net					     72.9  vs	    53.9</p>
+<p>    Net per share (pro forma) (francs)    1.42  vs	    0.96</p>
+<p>    Pre-tax					124.2  vs	    94.8</p>
+<p>    Operating				    103.9  vs	    74.5</p>
+<p>    Financial result			    20.3  vs	    20.3</p>
+<p>    Turnover				     337.3  vs	   262.1</p>
+<p>NOTE - The computer-aided design and engineering software manufacturer gave the results in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

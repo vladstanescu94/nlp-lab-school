@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521214" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: Sybase Inc Q1 shr profit $0.05.</title>
+<headline>Sybase Inc Q1 shr profit $0.05.</headline>
+<text>
+<p>EMERYVILLE, Calif., April 17 (Reuter)</p>
+<p>					   SYBASE, INC.</p>
+<p>		     CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>(In thousands, except per share data)</p>
+<p>					Quarter Ended March 31,</p>
+<p>					     1997	  1996</p>
+<p>Revenues:</p>
+<p>     License fees		    $135,173     $147,945</p>
+<p>     Services			   106,729	 95,719</p>
+<p>	Total revenues		  241,902	243,664</p>
+<p>Costs and expenses:</p>
+<p>     Cost of license fees	     8,058	  7,117</p>
+<p>     Cost of services		  61,878	 56,139</p>
+<p>     Sales and marketing	    114,597	130,293</p>
+<p>Product development and engineering</p>
+<p>					     35,300	 43,091</p>
+<p>     General and administrative    17,363	 18,726</p>
+<p>	 Total costs and expenses    237,196	255,366</p>
+<p>    Operating income (loss)	    4,706	(11,702)</p>
+<p>    Other income and expense, net    1,006	  2,494</p>
+<p>Income (loss) before Income taxes</p>
+<p>						 5,712	 (9,208)</p>
+<p>    Provision for income taxes	 2,171	 (2,302)</p>
+<p>    Net income (loss)		   $3,541	 $6,906</p>
+<p>    Net income (loss) per share	$0.05	 ($0.09)</p>
+<p>Shares used in per share computation</p>
+<p>						78,524	 73,360</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

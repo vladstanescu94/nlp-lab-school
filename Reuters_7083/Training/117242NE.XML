@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117242" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Clarify sees Q4 rev growth slower than Q3.</title>
+<headline>Clarify sees Q4 rev growth slower than Q3.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-15</dateline>
+<text>
+<p>Clarify Inc said Tuesday it expects revenue growth in its fourth quarter from its third quarter to be significantly less than the revenue growth seen from the second to third quarters.</p>
+<p>The company made its comments in a statement after the it reported third quarter revenues of $17 million, up some 52 percent from the second quarter.</p>
+<p>Clarify posted third quarter profits of $3.16 million, or $0.15 a share, up from $12,000 or $0.001 a share in the comparable year-ago period.</p>
+<p>The company also said it expects its effective income tax rate to increase to 37 percent in the first quarter of 1997, up from 20 in the third quarter of 1996.</p>
+<p>The company expects it will have used its remaining federal and state operating loss carryforwards in fiscal year 1996, which have had the effect of decreasing the company's effective tax rate in 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

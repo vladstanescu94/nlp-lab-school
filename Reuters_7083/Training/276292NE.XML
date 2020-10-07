@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276292" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: Computer Associates sees revs below estimates.</title>
+<headline>Computer Associates sees revs below estimates.</headline>
+<dateline>ISLANDIA, N.Y. 1996-12-26</dateline>
+<text>
+<p>Computer Associates International Inc, citing softness in the European market, said Thursday it expects its revenues for the third quarter ending December 31 to come in below Wall Street estimates.</p>
+<p>The company said it expects to post revenues of between $1 billion and $1.1 billion, rather than the consensus estimate of $1.2 billion.</p>
+<p>Despite the revenues projection, the company said in a statement that consensus estimates of $0.75 per share for the quarter &quot;appeared achievable.&quot;  </p>
+<p>&quot;We are disappointed that European revenues are coming in lower than expected this quarter,&quot; Computer Associates President and Chief Operating Officer Sanjay Kumar said in a statement. Kumar said in a statement the company's transition to &quot;new client/server platform opportunities&quot; has been going smoother in North America than in Europe.</p>
+<p>&quot;We have to continue to do a better job of near-term execution in Europe and we have taken the appropriate actions to support our European business through this transition,&quot; he added. The company said it expects to issue the quarter's results on January 21 after the close of the stock market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

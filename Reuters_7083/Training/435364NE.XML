@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435364" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: Cisco, Intel, Microsoft back multimedia standards.</title>
+<headline>Cisco, Intel, Microsoft back multimedia standards.</headline>
+<dateline>LOS ANGELES 1997-03-12</dateline>
+<text>
+<p>Cisco Systems Inc, Intel Corp and Microsoft Corp said they had joined forces to promote the widespread adoption of multimedia network communication technology.</p>
+<p>The triumverate, leaders in the networking, semiconductor and software industries, said they had created the Networked Multimedia Connection (NMC) for businesses using intranets or the Internet to conduct voice and video-based communications.</p>
+<p>The program is aimed at making it easier for software and hardware developers to create interactive learning, information publishing and video conferencing applications.  </p>
+<p>Networked multimedia extends computer communication beyond static text and graphics into dynamic images and sounds.</p>
+<p>Together, the three companies said they are working to establish standards for related multimedia networking technologies with international computer industry groups.</p>
+<p>But while the alliance by the three underscores their ongoing commitment to improve the functioning of the Internet, analysts said there was little new in the proposals.  </p>
+<p>Standards the three companies support include:</p>
+<p>-- IP Multicast, a set of groundrules for reducing network traffic congestion by sending one copy of a computer document to many recipients over a network.</p>
+<p>-- The H.323 standard, which defines how personal computers share audio and video data over computer networks.</p>
+<p>-- The ReSource reserVation Protocol (RSVP), another means of relieving Internet bottlenecks that provides networks with a means of giving priority to certain types of communication transmissions like voice and real-time video.</p>
+<p>The three also said they will work jointly to develop and implement other open standards to make networked multimedia applications possible.</p>
+<p>To speed development and deployment of networked multimedia in 1997, Cisco, Intel and Microsoft said they are working closely with independent software vendors (ISVs), Internet service providers (ISPs), systems integrators and value-added resellers (VARs) and corporations themselves.</p>
+<p>&quot;This alliance signals that the networked computing age will be more about industry cooperation than industry fragmentation,&quot; noted Don Listwin, senior vice president of market development at Cisco Systems.</p>
+<p>((-- E. Auchard, New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

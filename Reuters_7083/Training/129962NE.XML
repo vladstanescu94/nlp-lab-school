@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129962" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Adobe /Nova settle, other claims pending.</title>
+<headline>Adobe /Nova settle, other claims pending.</headline>
+<dateline>SAN JOSE, Calif 1996-10-21</dateline>
+<text>
+<p>Adobe Systems Inc said it settled its lawsuit against Nova Development Corp alleging Nova's distribution of its 1500 Font Mega Pack product infringed registered copyrights owned by Adobe.</p>
+<p>Nova licensed the product from another developer.</p>
+<p>Under the settlement, Nova will discontinue marketing the 1500 Font Mega Pack and will pay an undisclosed sum to Adobe.</p>
+<p>Nova will also seek to avoid purchasing from type vendors font software created through unauthorized copying of font software from Adobe or any other font software publisher.</p>
+<p>Adobe's claims against the two other defendants to the lawsuit, Softkey International Inc and Southern Software Inc are still pending and are set for trial in 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

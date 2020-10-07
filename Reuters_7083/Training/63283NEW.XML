@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63283" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Microsoft expects new US Justice Dept query.</title>
+<headline>Microsoft expects new US Justice Dept query.</headline>
+<dateline>REDMOND, Wash. 1996-09-19</dateline>
+<text>
+<p>Microsoft Corp Thursday said the U.S. Justice Department has notified the company that it will seek additional information from the software giant regarding competitive practices.</p>
+<p>In a statement, Microsoft said the request was part of the department's &quot;continuing examination of software industry issues&quot;. The last requests to Microsoft were issued in the summer of 1995.  </p>
+<p>The U.S. government has been investigating Microsoft since 1990 for alleged anti-trust practices.</p>
+<p>William Neukom, Microsoft's senior vice president for Law and Corporate Affairs, said the latest request appears to be prompted by &quot;complaints from competitors which are reminiscent of allegations that were thoroughly reviewed in the past.&quot;</p>
+<p>&quot;Internet Explorer 3.0 is consistently rated better than competing technology and is winning strong consumer support,&quot; he addded. &quot;In response, some of our competitors have resorted to a public relations campaign of baseless allegations designed to divert attention from the quality of our technology.&quot;  </p>
+<p>He said it is disappointing that Microsoft's competitors &quot;continue to seek government intervention in the competitive process rather than concentrating on improving their products.</p>
+<p>&quot;The facts will show that Microsoft is competing vigorously and legally, and our efforts are benefiting consumers by spurring greater innovation, better products, and lower prices,&quot; he said. &quot;We intend to cooperate with the Justice Department.&quot;</p>
+<p>In Washington, the Justice Department declined to comment on the request other than to say its investigation into Microsoft is continuing.  </p>
+<p>Last month, Netscape Communications Corp accused Microsoft of anti-competitive behavior and urged the Justice Department to take action.</p>
+<p>Among other things, the letter accused Microsoft of having made written offers to computer makers, Internet service providers, systems integrators and large corporations providing for payments or discounts on the Microsoft desktop operating system or payments in the form of &quot;real estate&quot; on the Windows 95 screen on the condition that rival browsers would be less accessible than Microsoft's browser.  </p>
+<p>Microsoft has denied the allegations.</p>
+<p>The latest Justice Department request is part of a long-standing government investigation of Microsoft. In 1990, the Federal Trade Commission opened an investigation focusing on possible collusion collusion between Microsoft and International Business Machines Corp.</p>
+<p>The investigation was later forwarded to the Justice Department. In 1994, Microsoft and the Justice Department announce a settlement of federal antitrust charges, under which the computer software maker agrees to modify its licensing practices.</p>
+<p>In 1995, the company's acquisition of home banking software firm Intuit Inc was challenged by the government, prompting the company to abandon the merger.</p>
+<p>In June of 1995, the Justice Department started investigating the company's use of Microsoft Network on its new operating system Windows 95 but it decided to take no action.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

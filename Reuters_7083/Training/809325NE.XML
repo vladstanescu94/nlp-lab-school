@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809325" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: TABLE - Touchstone Q3 July 31 loss.</title>
+<headline>TABLE - Touchstone Q3 July 31 loss.</headline>
+<dateline>BREWSTER, N.Y. 1997-08-19</dateline>
+<text>
+<p>1997		    1996</p>
+<p> Total Sales			$ 1,472,765	  $  563,829</p>
+<p>Operating Income exclusive</p>
+<p>of partial write-off of</p>
+<p>   goodwill and bad debt	    298,686	    (42,281)</p>
+<p> Net Income			 (1,660,969)		 (673)</p>
+<p> Earnings (Loss) per Share	    (.20)		 (.20)</p>
+<p>NOTE: The company said that for the nine months ended July 31, 1997, net revenues were $3,064,932 vs $1,848,925.</p>
+<p>Exclusive of partial write-off of purchased goodwill, operating income for the nine months was $379,890 vs $133,920.</p>
+<p>Full name is Touchtsone Applied Science Associates Inc.</p>
+<p>((--New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BREWSTER, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

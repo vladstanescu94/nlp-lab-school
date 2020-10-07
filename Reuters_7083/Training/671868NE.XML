@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="671868" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: Think New Ideas completes acquisition.</title>
+<headline>Think New Ideas completes acquisition.</headline>
+<dateline>NEW YORK 1997-06-19</dateline>
+<text>
+<p>Think New Ideas Inc said on Thursday that it completed its acquisition of the assets of Fathom Advertising from Omnicom Group Inc for stock.</p>
+<p>The transaction, valued at about $500,000, increases Omnicom's stake in Think New Ideas to about 19 percent from 16.6 percent.</p>
+<p>Fathom is the agency for Oracle Corp, and the account will be handled by the expanded Think New Ideas operation, the company said in a news release.</p>
+<p>About 25 Fathom employees will join Think's Los Angeles office. Think New Idea is based in New York. Its shares closed up 15/16 to 4-1/16.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

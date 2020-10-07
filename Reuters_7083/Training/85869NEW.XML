@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85869" id="root" date="1996-09-30" xml:lang="en">
+<title>UK: U.S. stocks off in London, Microsoft off $2-3/8.</title>
+<headline>U.S. stocks off in London, Microsoft off $2-3/8.</headline>
+<dateline>LONDON 1996-09-30</dateline>
+<text>
+<p>Shares in Microsoft Corp tumbled in London after the software giant warned that its sales growth and profit margins may fall in 1997, dealers said.</p>
+<p>The shares were off $2-3/8 at $132 in London, erasing what they gained on Friday in New York.</p>
+<p>Shares in International Business Machines Corp, meanwhile, rose $1/4 in London to $125, reacting to a report in the New York Times quoting analysts who were forecasting a rise in the share price.</p>
+<p>Most other technology shares were unchanged from Friday's closing levels on Wall Street, dealers said.</p>
+<p>They noted light bargain hunting in PepsiCo shares, quoted at $28-1/4 in London, up $1/8 from New York's close on Friday when they lost $2-1/8 after the drinks maker issued a profit warning.</p>
+<p>An anticipated acceleration in Pepsico's share buyback programme also helped the stock rebound, dealers said.</p>
+<p>Most U.S. shares were quoted in London near New York's closing levels as investors awaited a spate of economic data due through the week, ending with the September employment report.</p>
+<p>The government will report on U.S. personal income and spending for August at 1230 GMT and on new home sales for August at 1400 GMT. Chicago Purchasing Managers will release their monthly survey for September at 1400 GMT.</p>
+<p>Wall Street's direction is likely to be influenced by these reports and the bond market's reaction to the figures, traders said.</p>
+<p>On Globex, the December S&amp;P 500 futures contract was down 1.00 point at 690.40 at 1025 GMT. The December 30-year Treasury bond futures contract was up 4/32 at 109-19/32.</p>
+<p>--Debra Sherman, London newsroom +44 171 542 4026</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

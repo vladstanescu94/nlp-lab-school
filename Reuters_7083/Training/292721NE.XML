@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292721" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: Sales of MMX-powered PCs seen tepid at first.</title>
+<headline>Sales of MMX-powered PCs seen tepid at first.</headline>
+<dateline>SAN FRANCISCO 1997-01-08</dateline>
+<text>
+<p>Sales of personal computers powered by Intel Corp's new MMX multimedia chip are likely to be tepid at first, though the pace should quicken sometime after the first quarter, analysts said on Wednesday.</p>
+<p>&quot;I don't think it will be a quick fix to retail market demand,&quot; said analyst Charles Boucher of UBS Securities Inc. &quot;There aren't that many customized applications&quot; on the retail market yet, he said.</p>
+<p>&quot;Longer term, it will bring new users,&quot; he added.  </p>
+<p>About 19 software companies on Wednesday announced software written for use with the MMX chip, including Adobe Systems Inc,  Macromedia Inc, DK Multimedia, Microsoft Corp, Omniview Inc and others.</p>
+<p>Intel's stated goal in developing the MMX is to generate more interest in personal computers by making them more enjoyable use.</p>
+<p>Still, Michael Slater, president of MicroDesign Resources Inc, said the chip alone can't accomplish that.</p>
+<p>&quot;It is an enabler, but in itself it is not going to do anything,&quot; Slater said. &quot;The thing that will draw more users is more compelling applications and lower prices.&quot;  </p>
+<p>Personal computer makers have experienced lower-than-expected sales in recent months, with the crucial holiday season proving a disappointment. The industry is now eager to get a boost, and many expecting it to come from the introduction of the MMX chip.</p>
+<p>On Wednesday, most major PC makers also announced new systems built with the new Intel chip. They include Compaq Computer, International Business Machines, Dell Computer Gateway 2000 Inc and Packard Bell.</p>
+<p>Hitachi Ltd's PC Corp announced that its flagship notebook computer line will feature MMX chips. Toshiba Corp is also offering MMX machines.  </p>
+<p>Bear Stearns analyst Andrew Neff said the introduction of MMX-based PCs could actually lead to slower-than-normal January sales, as consumers pause to assess the new producets from multiple vendors.</p>
+<p>To be sure, Neff expects the MMX machines will eventually boost overall sales of consumer PCs, probably after end of the first quarter.</p>
+<p>In 1997, analysts expect Intel will ship 30 million to 45 million MMX processors, accounting for as much as 50 percent of its its 1997 unit volume.</p>
+<p>((San Francisco bureau, 415-677-2542))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

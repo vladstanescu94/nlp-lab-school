@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39269" id="root" date="1996-09-07" xml:lang="en">
+<title>USA: RESEARCH ALERT - Visigenic started.</title>
+<headline>RESEARCH ALERT - Visigenic started.</headline>
+<text>
+<p>-- Robertson Stephens &amp; Co said its analyst Marshall Senk has started coverage of Visigenic Software Inc with a long-term attractive rating, based on its position in the early stages of a developing market.</p>
+<p>-- Visigenics provides software and services designed to help corporations build software applications that run in a distributed computing environment.</p>
+<p>-- Senk estimates the company will post net losses of $0.60 a share in fiscal 1997 and $0.08 a share in fiscal 1998.</p>
+<p>-- In midday trade, shares were up 3/8 at 12-5/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

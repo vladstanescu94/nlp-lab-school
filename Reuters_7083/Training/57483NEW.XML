@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57483" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Lycos new search engine finds video.</title>
+<headline>Lycos new search engine finds video.</headline>
+<dateline>MARLBORO, Mass. 1996-09-17</dateline>
+<text>
+<p>Lycos Inc unveiled a new kind of search engine Tuesday that brings pictures, video, audio and multimedia images, as well as text to those surfing the Internet.</p>
+<p>&quot;This does for the Web what CD-ROMs did to software. It puts the fun factor back into it,&quot; said Lycos chief executive officer Bob Davis in a telephone interview.</p>
+<p>Lycos, which offers its search engine for free on the Web, generates a large part of its revenues from advertising on its site and Davis expects the new searching capabilities to bring even more viewers to Lycos' home page.  </p>
+<p>&quot;On any given day we have something in excess of four million paid views...and I fully expect an increase in traffic with this multimedia service.&quot; Davis said, noting that so far Lycos has 160 companies advertising on its site.</p>
+<p>The Lycos product differs from both the offerings of MSNBC, the cable television-computer product from Microsoft and General Electric owned NBC television, Davis said.</p>
+<p>&quot;MSNBC will give you its own stuff... I'm going to give you a pictorial archive of everything that has ever been posted on the Web,&quot; he said, adding &quot;and then I'll give you any audio.&quot;</p>
+<p>Lycos can be found on the Web at http://www.lycos.com.</p>
+<p>--Leslie Gevirtz, 617-367-4142</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

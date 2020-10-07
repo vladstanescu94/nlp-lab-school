@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48413" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Quote.com to provide news and charts for E-Trade site.</title>
+<headline>Quote.com to provide news and charts for E-Trade site.</headline>
+<dateline>SANTA CLARA, Calif.</dateline>
+<text>
+<p>Financial market information firm Quote.com Inc., said Thursday it will provide real-time news and charts for E-TRADE Group Inc.'s online Internet securities trading service.</p>
+<p>Quote.com, a privately-held company with venture funding from Sequoia Capital Corp., said the strategic partnership agreement allows E-Trade users single-click access to stock quotes, charts and real-time news capabililities.</p>
+<p>Quote.com said it has 150,000 registered users with an average net worth of $1.2 millionm and that one-third of its subscribers manage securities valued at $50,000-$250,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

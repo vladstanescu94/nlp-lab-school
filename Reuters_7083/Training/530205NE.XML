@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530205" id="root" date="1997-04-22" xml:lang="en">
+<title>GERMANY: SAP Q1 sales boosted by forex moves.</title>
+<headline>SAP Q1 sales boosted by forex moves.</headline>
+<dateline>WALLDORF, Germany 1997-04-22</dateline>
+<text>
+<p>Favourable exchange rate moves boosted sales at German software company SAP AG by 55 million marks during the first quarter of this year, a company spokesman said on Tuesday.</p>
+<p>The currency effect accounted for eight percentage points out of total first quarter sales growth of 49 percent to 1.032 billion marks.</p>
+<p>The spokesman declined to say, however, how exchange rate movements impacted on earnings.</p>
+<p>The German mark depreciated from 1.54 marks to the U.S. dollar at the start of this year to 1.67 marks at the end of the first quarter. A weaker home currency tends to boost the revenues of export-oriented companies.</p>
+<p>-- Bonn newsroom, 49-228-26097 150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="376599" id="root" date="1997-02-13" xml:lang="en">
+<title>USA: Netscape raises prices, ups intranet ante.</title>
+<headline>Netscape raises prices, ups intranet ante.</headline>
+<byline>Samuel Perry</byline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-02-12</dateline>
+<text>
+<p>Netscape Communications Corp. on Wednesday raised the ante in the Internet software wars, announcing a price increase effective April 1 as it prepares to release new products this spring.</p>
+<p>Netscape also introduced a five-level support program, beginning next month, which allows customers to pick the level of service they are willing to pay for.</p>
+<p>The price of Communicator, the integrated communications package which includes Netscape's Navigator browser, will rise to $59 from $49, the Mountain View, Calif.-based company said. Its enterprise server software, used on the server computers that run networks, will cost $1,295, up from $995.</p>
+<p>Under the new pricing, Netscape will charge an average 10 percent to 15 percent more for service, it said.</p>
+<p>But, by delaying the price increases until April 1, Netscape has made a pre-release version of Communicator a more attractive buy and positioned itself for higher sales this quarter, executives said.</p>
+<p>People who pay now for the software, which is available in a preview version, will be able to get the final version for free when it becomes available in the next quarter.</p>
+<p>Michael Homer, Netscape's vice president of marketing, said the new prices still offer a better deal than rival products from Microsoft Corp. and the Lotus Development Corp. unit of International Business Machines Corp..</p>
+<p>Lotus President Jeff Papows quickly challenged that and accused Netscape executives of &quot;childish behavior&quot; in making pricing comparisons that Papows said were misleading.</p>
+<p>&quot;There's very little difference in the price points, actually,&quot; Papows said after making a presentation to a Goldman Sachs conference at which Netscape's vice president of engineering, Eric Hahn, disclosed the price increases.</p>
+<p>&quot;Our servers are much cheaper to acquire,&quot; he said, noting that Lotus Domino server software is priced at $2,995 compared with Netscape's SuiteSpot 3.0, which allows customers to chose five of its nine server products for $3,995, or $4,995 after April 1.</p>
+<p>A Microsoft executive also disputed Netscape's pricing claim.</p>
+<p>&quot;Our browser and our server are still free, so we've got to be less expensive,&quot; said Mike Nash, a marketing director in the company's personal and business systems group.</p>
+<p>Microsoft's Internet Explorer browser is free for all platforms, and its Internet Information Service is included as a feature of the Windows NT Server operating systems for large networks.</p>
+<p>The three companies are competing fiercely in the fast-growing market for electronic mail, scheduling and so-called workgroup software for intranets, the corporate networks that make use of cost-effective Internet technologies.</p>
+<p>Netscape stock rose 87.5 cents to $35.625, and Microsoft climbed $1.375 to $99.875, both on the Nasdaq market. IBM rose 12.5 cents to $144.875 on the New York Stock Exchange.</p>
+<p>Homer said a configuration for 1,000 users combining Communicator and Netscape's server software only costs $58 per user computer -- just $23 a user for those already using Navigator -- compared to $77 for Lotus.</p>
+<p>But Papows contested this, saying the true list price figure would be around $58, or roughly the same.</p>
+<p>&quot;They are quoting irrelevent data, doing it deliberately, and posting it to their Web site,&quot; he said, adding he recently discussed his concerns with Homer and Netscape Chief Executive Officer James Barksdale.</p>
+<p>The Lotus executive added, however, that he expects the market for all players to continue to expand briskly, with Lotus aiming to increase the number of electronic mail users of its software by up to 8.5 million this year to 18 million.</p>
+<p>&quot;We're doing enormously well. I suspect they're doing well, too. There's a big market,&quot; he said, adding Netscape &quot;ought to be well credited for invigorating the Internet market.&quot;</p>
+<p>Homer said Netscape's price advantage was even greater, according to recent studies by third parties, when the total cost of acquiring, installing and using its systems was taken into account, including training and other factors.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

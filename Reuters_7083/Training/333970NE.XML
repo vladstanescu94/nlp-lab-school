@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333970" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Sterling Commerce Inc names CFO.</title>
+<headline>Sterling Commerce Inc names CFO.</headline>
+<dateline>DALLAS, Texas 1997-01-27</dateline>
+<text>
+<p>Sterling Commerce Inc said Monday it had named Steven Shiflet chief financial officer.</p>
+<p>Shiflet succeeds Jeannette Meier, who is to continue with the company as executive vice president, general counsel and secretary.</p>
+<p>Shiflet previously was group vice president of finance and administration of the electronic commerce group of its unit, Sterling Software, the company said.</p>
+<p>Sterling Commerce provides electronic software products and services.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

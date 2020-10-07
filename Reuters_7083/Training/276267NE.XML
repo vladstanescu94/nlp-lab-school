@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276267" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: PSInet expects positive EBITDA results.</title>
+<headline>PSInet expects positive EBITDA results.</headline>
+<dateline>HERNDON 1996-12-26</dateline>
+<text>
+<p>PSINet Inc said Thursday it expected earnings before interest, taxes, depreciation and amortization to become positive on consolidated operations for the first time in the first half of 1997.  </p>
+<p>PSINet, a commercial Internet service provider, said it had &quot;substantially&quot; modified its business plans by refocusing on its core commercial Internet business during the last half of 1996.</p>
+<p>PSINet, which is based in Herndon, Va, also said it had signed agreements with more than 20 U.S. consumer Internet service providers to its recently introduced Wholesale services product line. The providers will use PSINet's modems, routers and network to provide services to their customers on both flat rate and variable rate pricing models, it said.</p>
+<p>It said PSINet Europe had begun providing Internet access services to several beta-test customers in Europe.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HERNDON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

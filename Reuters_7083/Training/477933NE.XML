@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477933" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Parametric Technology to join S&amp;P 500.</title>
+<headline>Parametric Technology to join S&amp;P 500.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>Standard &amp; Poor's said on Tuesday that it will replace Pacific Telesis Group in the S&amp;P 500 Index with Parametric Technology Corp after the close of trading April 2.</p>
+<p>Pacific Telesis Group has been acquired by component SBC Communications Inc in a friendly stock merger that closed Tuesday.</p>
+<p>Parametric Technology will be replaced in the S&amp;P MidCap 400 Index by Union Planters Corp, Standard &amp; Poor's said.  </p>
+<p>Tel-Save Holdings Inc, a telecommunications services firm, will replace Union Planters, a bank holding company, in the S&amp;P SmallCap 600 Index, Standard &amp; Poor's said.</p>
+<p>Parametric Technology is a leading developer and marketer of fully integrated software products used to automate the design-through-manufacturing process for the mechanical computer-aided design, manufacturing, and engineering industries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

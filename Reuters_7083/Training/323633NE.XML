@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323633" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Control Data sees Q1 gain on sale.</title>
+<headline>Control Data sees Q1 gain on sale.</headline>
+<dateline>ARDEN HILLS, Minn. 1997-01-22</dateline>
+<text>
+<p>Control Data Systems Inc said Wednesday it expects to report a first quarter gain of $0.75 to $1 a share on the sale of its 50 percent interest in Metaphase Technology Inc and certain assets of the company's product data management business segment.</p>
+<p>The sale was to Structural Dynamics Research Corp.  </p>
+<p>The sale was effective January 1, and Control Data said the amount of the gain will be determined in the next 60 days.</p>
+<p>Control Data said it will concentrate all of its resources and investments on its electronic commerce business.</p>
+<p>Control Data Systems is a global software and services company.</p>
+<p>	     ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARDEN HILLS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

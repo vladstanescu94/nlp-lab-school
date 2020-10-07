@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151061" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: The battle between Bill and Larry gets uglier.</title>
+<headline>The battle between Bill and Larry gets uglier.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The battle between Bill Gates and Larry Ellison over the ballyhooed network computer is getting rougher.</p>
+<p>For the past year, Oracle Corp. Chairman Larry Ellison has been evangelizing his vision of a low-cost, diskless PC to access corporate networks and the Internet, a PC without a hefty operating system like Windows.</p>
+<p>Ellison's vision has captivated many in the industry, who are weary of the domination by the Wintel combination of Microsoft Corp.'s Windows operating systems and Intel Corp. processors in PCs.</p>
+<p>Sun Microsystems Inc. has jumped on the network computer bandwagon with Oracle and on Tuesday it will introduce its much-anticipated JavaStation.</p>
+<p>But Monday, in a blatant move to steal Sun's thunder, Microsoft Chairman Bill Gates struck back.</p>
+<p>Microsoft gathered together a Who's Who list of the PC industry and announced its own low-cost solution to the growing interest in the network computer.</p>
+<p>&quot;Obviously, Microsoft is feeling the heat from all the hype that Oracle and Sun are getting,&quot; said Eileen O'Brien, an analyst at International Data Corp., in Framingham, Mass. Microsoft's initiative left many industry analysts underwhelmed. The software behemoth unveiled a &quot;new&quot; PC design, a standard PC design with an Intel processor, memory, a hard disk drive, and of course, the Windows operating systems, with features to automate software upgrades.</p>
+<p>But Microsoft zoomed in on the key point of the pro-network computer argument that is striking a nerve with many corporate information technology managers: the high cost of owning large numbers of PCs.</p>
+<p>Some industry analysts estimate that a PC, which can range from $1,500 to $3,000 to purchase, can cost anywhere from $6,000 to $12,000 and more annually to maintain.</p>
+<p>Redmond, Wash.-based Microsoft unveiled &quot;Zero Administration&quot; features in its roadmap for its NetPC, which will be built into future versions of its Windows 95 and Windows NT operating systems.</p>
+<p>&quot;That's the biggest advantage of the NC, is the lower cost of ownership&quot; said Tom Rhinelander, an analyst with Forrester Research, in Cambridge, Mass. &quot;They are trying to get to that and say, 'we can create something that is just as low-cost.'&quot;</p>
+<p>The concept behind the network computer, which &quot;rents&quot; software such as a word processing package, or a spreadsheet, from a main computer, or server, is that it does not need continuous upgrades for the operating system or applications.</p>
+<p>&quot;PCs have two huge liabilities, high cost and high complexity,&quot; Marc Andreessen, the co-founder and senior vice president of Netscape Communications Corp., told reporters on a conference call.</p>
+<p>As Microsoft was holding a press conference in the backyard of its Silicon Valley foes on Monday, Mountain View, Calif.-based Netscape and Oracle, headquartered in Redwood Shores, Calif., unveiled their own alliance.</p>
+<p>Oracle agreed to use the Netscape Navigator as the main browser on the Intel version of its network computer, which is expected to ship early next year, and Netscape will offer Oracle database software in its server packages for corporate intranets, or internal networks modeled on the Internet.</p>
+<p>&quot;The rise of the NC ... it's a profound shift in the industry,&quot; Andreessen said.</p>
+<p>While Netscape has much to gain with the adoption of devices that access the Internet and corporate networks -- its browser holds about an 80 percent share of the Internet market -- analysts said the current Navigator is a bit too bulky and has limited functionality on a network computer.</p>
+<p>Netscape has a subsidiary, called Navio, which is developing a &quot;thinner&quot; version of Navigator that will be more tailored to NC-like devices, mostly aimed at the home market.</p>
+<p>For now, the hype is surrounding the corporate market, where analysts expect the network computer to have an impact.</p>
+<p>&quot;I am skeptical about the NC as a consumer device,&quot; said Josh Bernoff, another Forrester analyst. &quot;In corporations, there is a lot more hope for it.&quot;</p>
+<p>Even International Business Machines Corp. has jumped into the fray. The world's largest computer maker was the first company to begin shipping its version of a network computer, which it calls the Network Station, to a limited number of customers, last month.</p>
+<p>&quot;To us, it's not about network computers replacing PCs, it is the right technology for the right problem,&quot; said Phil Hester, vice president, network computing, at IBM. &quot;We have been through three phases of computing, from the mainframe to the minicomputer to the PC and none of them have replaced the ones that came before them.&quot;</p>
+<p>Indeed, most market researchers do not believe that the NC will replace the PC, but it will make a dent in the market.</p>
+<p>International Data predicts that by the year 2000, there will be about 5.5 million to 6 million NCs shipped, or &quot;non-PC type devices&quot; vs. 80 million PCs.</p>
+<p>But when asked which companies will dominate the burgeoning NC sector, analysts hedge.</p>
+<p>&quot;Who knows who is going to be around that long,&quot; said International Data's O'Brien.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

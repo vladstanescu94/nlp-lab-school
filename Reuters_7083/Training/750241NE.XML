@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750241" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Wind River prices notes due 2002.</title>
+<headline>Wind River prices notes due 2002.</headline>
+<dateline>ALAMEDA, Calif. 1997-07-23</dateline>
+<text>
+<p>Wind River Systems Inc said Wednesday that it priced its $125 million of convertible subordinated notes due 2002 sold in an offering to certain investors in the United States and outside the United States.</p>
+<p>The notes have a 5 percent coupon, are convertible into common stock of the Company at $48.50 per share and have a five-year term, the company said.</p>
+<p>The company said it has granted the initial purchasers an option for 30 days to purchase up to $15 million of additional notes to cover overallotments, if any.</p>
+<p>The transaction is expected to close August 1, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

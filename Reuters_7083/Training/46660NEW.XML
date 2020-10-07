@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46660" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Smedvig to buy Scientific.</title>
+<headline>Smedvig to buy Scientific.</headline>
+<dateline>DENVER 1996-09-11</dateline>
+<text>
+<p>Scientific Software-Intercomp Inc (SSI) said on Wednesday it had signed a letter of intent for substantially all of its assets to be bought by Norway's Smedvig A/S for $23 million and assumption of debt.</p>
+<p>Smedvig would assume the current liabilities of SSI, with SSI satisfying its long-term debt liabilities to Lindner Funds, Renaissance Capital Partners and Banc One Corp for about $7 million and the SSI preferred stock from the proceeds of the sale.</p>
+<p>SSI will also be responsible for the pending settlement of a class action lawsuit, which is to be substantially funded from the proceeds of insurance.</p>
+<p>Preliminary terms for the sale have been approved by SSI's Board of Directors. Closing is expected at year-end.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

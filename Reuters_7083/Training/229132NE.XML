@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229132" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Image Entertain in talks to buy Essex unit.</title>
+<headline>Image Entertain in talks to buy Essex unit.</headline>
+<dateline>CHATSWORTH, Calif. 1996-12-02</dateline>
+<text>
+<p>Image Entertainment Inc said Monday it is in negotiations to acquire Essex Entertainment Inc's music business.</p>
+<p>Image said that if a definitive agreement is reached, it expects the deal to close by the end of the year.</p>
+<p>It would be financed primarily with the proceeds of a five-year convertible subordinated loan from Image Investors Co, a principal stockholder of Image owned and controlled by John Kluge and Stuart Subotnick.</p>
+<p>If the acquisition is consummated, Essex's current principal executive officers, Sam Goff and Richard Greener, will head a new Image subsidiary that will conduct the business acquired from Essex.</p>
+<p>Image is the largest licensee and distributor of laserdiscs in the United States. Essex is an independent music company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHATSWORTH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

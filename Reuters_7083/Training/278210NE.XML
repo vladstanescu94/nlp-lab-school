@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278210" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS - Issues to Watch - Dec 27.</title>
+<headline>U.S. HEADLINE STOCKS - Issues to Watch - Dec 27.</headline>
+<dateline>NEW YORK 1996-12-27</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>-- Computer Associates Inc said it expects third quarter revenues to fall below Wall Street estimates, citing softness in the European market. But it said per share earnings estimates appeared achievable. Shares closed Thursday off 1/8 to 61-3/4.</p>
+<p>-- A Louisiana judge approved a settlement agreement in the long-disputed class action case concerning General Motors Corp's C/K pickup truck, the Wall Street Journal reported. GM might have to give $1,000 coupons to more than five million pickup owners and pay about $28 million in fees and expenses.  </p>
+<p>GM shares closed at 56.</p>
+<p>-- InVision Technologies won a $52 million contract from the U.S. Federal Aviation Administration to provide 54 systems to scan baggage and other materials at the nation's busiest airports for explosives.</p>
+<p>InVision shares closed at 25-1/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

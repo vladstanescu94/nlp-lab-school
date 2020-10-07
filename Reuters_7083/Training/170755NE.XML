@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170755" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Acclaim, Spectrum to settle suit.</title>
+<headline>Acclaim, Spectrum to settle suit.</headline>
+<dateline>ALAMEDA, Calif. 1996-11-05</dateline>
+<text>
+<p>Spectrum HoloByte Inc and Acclaim Entertainment Inc said on Tuesday they had reached agreement on settling litigation regarding their games in development for use on personal computers.</p>
+<p>Acclaim and Spectrum have been involved in litigation since July 9, 1996, over their respective license rights to the &quot;Magic: The Gathering&quot; card game and intellectual property.</p>
+<p>Terms of the agreement include differentiation of each of the titles in the market.</p>
+<p>Acclaim Entertainment will market its product for Windows 95 under the name &quot;Magic: The Gathering - BattleMage.&quot; The product is being developed and positioned as a real-time, multi-player strategy game, based on the characters and scenarios of the fantasy adventure world of &quot;Magic: The Gathering&quot;.</p>
+<p>To further differentiate the products and avoid confusion at the time of product launch, Spectrum HoloByte and Acclaim have agreed to coordinate release dates for their respective products.</p>
+<p>Acclaim anticipates releasing &quot;Magic: The Gathering - BattleMage&quot; prior to Christmas.  Spectrum HoloByte has agreed, subject to Acclaim completing its release by January 10, 1997, to release its &quot;Magic: The Gathering&quot; game no earlier than February 1, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

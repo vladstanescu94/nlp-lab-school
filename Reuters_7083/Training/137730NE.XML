@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137730" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Data I/O Corp Q3 shr turns to loss.</title>
+<headline>Data I/O Corp Q3 shr turns to loss.</headline>
+<dateline>REDMOND, Wash. 1996-10-22</dateline>
+<text>
+<p>Third Quarter		     9/26/96     9/28/95  Pct Change</p>
+<p> Net sales			 $14,529    $15,648	  (7.2%)</p>
+<p> Gross margin			7,185	7,985	 (10.0%)</p>
+<p> Net Income			 ( 258)	  244	(205.7%)</p>
+<p> EPS				 ( 0.04)	 0.03</p>
+<p> Wgtd avg shrs		     6,773	8,045</p>
+<p>Nine Months Ended	   9/26/96     9/28/95  Percent Change</p>
+<p> Net sales			 $45,493    $47,982	  (5.2%)</p>
+<p> Gross margin		     22,319     25,625	 (12.9%)</p>
+<p> Net Income			 ( 902)	2,574	(135.0%)</p>
+<p> Net EPS			   ( 0.13)	 0.32</p>
+<p> Wgtd avg shrs		     6,884	7,947</p>
+<p>			(in thousands except per share data)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="407599" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Lawmakers seek free export of computer encryption.</title>
+<headline>Lawmakers seek free export of computer encryption.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-02-27</dateline>
+<text>
+<p>Legislators introduced two bills Thursday to overturn the Clinton administration's export limits on computer encryption technology, a key component of online commerce and global communications.</p>
+<p>Encryption products, which scramble information and render it unreadable without a password or software &quot;key,&quot; were once the realm of spies and generals.</p>
+<p>But with the booming growth of the Internet, secret coding is now used for everything from keeping a business's e-mail confidential to protecting a consumer's credit card number if it is transmitted online.</p>
+<p>Senators said export restrictions on encryption products were hindering the development of the Internet and making it impossible for U.S. companies to compete with foreign firms.</p>
+<p>The bills &quot;roll back current restrictions on the export of strong cryptography so that high-tech U.S. firms are free to compete in the global marketplace and meet the demand of customers,&quot; Sen. Pat Leahy, a Vermont Democrat and co-sponsor of both bills, said at a Capitol Hill news conference.</p>
+<p>&quot;Online commerce will never reach its full potential under the policies of this and past administrations,&quot; said Sen. Conrad Burns, a Montana Republican , also a co-sponsor.</p>
+<p>The bills would generally allow a U.S. company to export a product with strong encryption features if similiar products were being offered for sale by a foreign supplier. Leahy and Burns introduced similiar measures in the last Congress.</p>
+<p>Under the current Clinton administration policy, a company may export strong encryption only if the product also includes a feature to allow the U.S. government to crack the code by recovering the software &quot;key&quot; when acting under a court order or similiar authority. The administration says it must be able to crack the codes to catch international criminals and terrorists.</p>
+<p>If the bills became law, mandatory key recovery would be banned but the government would still be permitted to restrict the export of encryption for military use or to countries posing terrorist threats.</p>
+<p>The legislation would also write into law the current policy permitting unrestricted domestic use of encryption -- but one bill would criminalize the use of codes to obstruct justice.</p>
+<p>The Clinton administration signalled its displeasure with the new bills.</p>
+<p>&quot;We continue to be disappointed with Senator Burns' approach because it does not balance the needs of individual privacy and economic growth with national security and public safety,&quot; Undersecretary of Commerce William Reinsch said. &quot;We believe there is a market for key recovery products from businesses who recognise the need for a back door to their own corporate data.&quot;</p>
+<p>Computer companies and privacy advocates hailed the bills.</p>
+<p>&quot;Both bills promote the freedom of this nation's fastest-growing industry to provide customers here and abroad with products they demand,&quot; said Robert Holleyman, president of the Business Software Alliance. The group includes Microsoft Corp., International Business Machines Corp.'s Lotus Development and Apple Computer Inc., among others.</p>
+<p>&quot;This is the most important privacy legislation before the Congress today,&quot; said Jerry Berman, executive director of the Centre for Democracy and Technology.</p>
+<p>Berman, who strongly opposes mandatory key recovery, said the policy ought to be &quot;my lock, my key.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

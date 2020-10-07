@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404308" id="root" date="1997-02-26" xml:lang="en">
+<title>SINGAPORE: Creative announces video web phone.</title>
+<headline>Creative announces video web phone.</headline>
+<dateline>SINGAPORE 1997-02-26</dateline>
+<text>
+<p>Multi-media company Creative Technology announced on Wednesday a software-based PC Internet telephone that is priced at under U.S.$10.</p>
+<p>Creative said in an announcement that its Creative Video WebPhone, Personal Version, is available at an introductory price of $9.95. It described the product as easy to use, and enabling users to see and speak to another person anywhere in the world for the price of a local Internet connection.</p>
+<p>Users see the person they are speaking with in full colour at up to 12 frames a second, Creative said.  </p>
+<p>Creative said it would sell the unit through its distribution network in mid-March. A more advanced version would be available for $49.95, it said.</p>
+<p>-- Singapore newsroom 65-8703080</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

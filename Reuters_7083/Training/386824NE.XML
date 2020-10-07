@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386824" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: INTERSOLV Q3 Jan 31 shr $0.16 vs $0.22.</title>
+<headline>INTERSOLV Q3 Jan 31 shr $0.16 vs $0.22.</headline>
+<dateline>ROCKVILLE, Md. 1997-02-19</dateline>
+<text>
+<p>(in 000's, except per share amounts)</p>
+<p>		   Three Months Ended January 31, 1997</p>
+<p>		(dollars in thousands, except per share amounts)</p>
+<p>						    Q3  Increase	 Q3</p>
+<p>					   1/31/97  (Decrease)  1/31/96</p>
+<p> REVENUES				  $42,083	8%    $38,894</p>
+<p> NET INCOME				  3,369   (28%)	4,651</p>
+<p> Shares used in computing EPS	 20,913    (1%)     21,080</p>
+<p> FULLY DILUTED EPS			  0.16   (27%)	 0.22</p>
+<p>		    Nine Months Ended January 31,</p>
+<p>		(dollars in thousands, except per share amounts)</p>
+<p>					  9 Mos  Increase	   9 Mos</p>
+<p>					1/31/97  (Decrease)     1/31/96</p>
+<p> REVENUES			  $112,495	 7%	 $105,272</p>
+<p>   Acquisition charges		 --	 --	   13,600</p>
+<p> NET INCOME (LOSS)		  4,801	 --	 ( 6,824)</p>
+<p> Shares used in computing EPS  20,897	 --	   19,256</p>
+<p> FULLY DILUTED EPS		   0.23	 --	  ( 0.35)</p>
+<p>NOTE: Nine months ended Jan. 1996 includes acquisition charge of $0.68 a share on an after tax basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKVILLE, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="299819" id="root" date="1997-01-10" xml:lang="en">
+<title>USA: Microsoft technology would merge PCs, TVs.</title>
+<headline>Microsoft technology would merge PCs, TVs.</headline>
+<dateline>SEATTLE 1997-01-09</dateline>
+<text>
+<p>Microsoft Corp on Thursday announced plans to adapt its Windows operating system for an emerging class of home entertainment devices that are both computers and televisions.</p>
+<p>In an announcement tied to a trade show in Las Vegas, Microsoft said it would begin publishing standards for the new architecture next month so electronics manufacturers and entertainment producers could develop products in time for Christmas.  </p>
+<p>Microsoft said more than 50 companies, including General Electric Co's NBC unit, Spelling Entertainment, Sony Corp's Sony Electronics Inc and Compaq Computer Corp planned to support the standards.</p>
+<p>Phil Holden, a Microsoft product manager, said he expected the architecture to allow content developers to create &quot;new applications that combine the power of broadcast television, the Internet and personal computers.&quot;  </p>
+<p>For example, users could watch a sporting event in one part of a large screen while using a remote control device to access statistics or relevant information from the Internet, or they might have the opportunity to provide feedback to producers.</p>
+<p>A special version of a Hollywood movie might be released with production notes and links to the Internet.</p>
+<p>The Microsoft effort is the latest outgrowth of the company's push into interactive television, which fizzled in the face of massive infrastructure costs.  </p>
+<p>To be sure, a growing number of companies now are offering to bring the Internet into the living room through set-top boxes, cable modems and other products that make the television more like a computer screen.</p>
+<p>Microsoft's solution envisions a new class of multimedia personal computers built to receive television signals over cable or by direct satellite broadcast. Consumers then would need to buy a special digital television set to view the images, Holden said.</p>
+<p>&quot;We think this is for people who want to make a decision on a fairly substantial entertainment system,&quot; Holden said.</p>
+<p>He said Microsoft was working with Gateway 2000 Inc, which last year launched a line of big-screen multimedia personal computers that sell for about $3,000 and up.</p>
+<p>Microsoft's yet-unnamed broadcast technology includes its &quot;electronic TV guide,&quot; an application that allows consumers to search through available programming with a remote control device, Holden said.</p>
+<p>((-- Martin Wolk, Reuters Seattle bureau,  206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

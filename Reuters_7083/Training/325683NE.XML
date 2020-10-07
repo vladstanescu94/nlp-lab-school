@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325683" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Sanchez Computer signs agreement with IBM.</title>
+<headline>Sanchez Computer signs agreement with IBM.</headline>
+<dateline>MALVERN, Penn. 1997-01-21</dateline>
+<text>
+<p>Sanchez Computer Associates Inc said on Tuesday that it signed an international business partner agreement with IBM Corp.</p>
+<p>Sanchez Computer, a Safeguard Scientifics Inc partnership company said the agreement covers the marketing and support of an AIX version of the PROFILE/Anyware banking system running on IBM's RS/6000* platform in 34 countries around the world.</p>
+<p>Sanchez Computer agreed in the summer of 1996 to port its software to AIX, IBM's implementation of UNIX, and to begin joint U.S. marketing as an IBM business partner.</p>
+<p>-- ((New York newsdesk 212-859-1611))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MALVERN, Penn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="446008" id="root" date="1997-03-17" xml:lang="en">
+<title>USA: Citation Computer closes UK sale.</title>
+<headline>Citation Computer closes UK sale.</headline>
+<dateline>ST. LOUIS 1997-03-17</dateline>
+<text>
+<p>Citation Computer Systems Inc said Monday it has closed the previously announced sale of its United Kingdom operations to Health Systems Ltd, a new UK-based company.</p>
+<p>The sale price was not disclosed.</p>
+<p>Under the terms of the transaction, Health Systems will acquire Citation's operating assets, retain the majority of the company's employees in the UK and assume responsibility for Citation's existing customers and contracted commitments in the UK.</p>
+<p>A product licensing agreement provides Citation with royalties on any future sales made by Health Systems of Citation clinical software products in the UK, the company said.</p>
+<p>As previously announced, the transaction will result in a loss in Citation's fiscal fourth quarter, which ends March 31, 1997. That loss now is estimated at between $0.43 and $0.46 a share, Citation said.</p>
+<p>But among other benefits, Citation expects to receive about $800,000 in income tax refunds related to the transaction over the next nine months, the company said.</p>
+<p>((Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

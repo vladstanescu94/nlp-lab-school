@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565011" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Information Management Q1 net, shr rise.</title>
+<headline>Information Management Q1 net, shr rise.</headline>
+<dateline>CLEARWATER, Fla 1997-05-07</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr		 $0.10		    $0.04</p>
+<p> Net		 1,432		    423</p>
+<p> Revs		14,347		   6,090</p>
+<p> Avg shrs	  14,629		   11,175</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTES: 1996 Q1 net income and net per share presented on a pro forma basis as if the company had been fully subject to federal and state income taxes for all periods presented.</p>
+<p>Full company name is Information Management Resources Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEARWATER, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456927" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: Eltrax Systems sets executive changes.</title>
+<headline>Eltrax Systems sets executive changes.</headline>
+<dateline>MINNETONKA, Minn. 1997-03-20</dateline>
+<text>
+<p>Eltrax Systems Inc said Thursday that chairman William O'Reilly has assumed the duties of chief executive officer. Mack Traynor, who had been CEO, will continue as president and chief operating officer.</p>
+<p>The company also said it hired Nicholas Pyett as new chief financial officer, effective in April.  </p>
+<p>Clunet Lewis, who has been acting CFO, will concentrate his efforts as general counsel, corporate secretary and director of strategic planning for the company.</p>
+<p>Unrelated to the management changes, Eltrax said it received confirmation from the Federal Reserve Board that its common stock, traded on the Nasdaq SmallCap exchange, now meets the board's margin requirements.</p>
+<p>Eltrax integrates communications products and services for networks serving private, public and government customers.</p>
+<p>		((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNETONKA, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

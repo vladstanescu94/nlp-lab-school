@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="439947" id="root" date="1997-03-13" xml:lang="en">
+<title>GERMANY: SAP says Q1 results are on track.</title>
+<headline>SAP says Q1 results are on track.</headline>
+<byline>Neal Boudette</byline>
+<dateline>HANOVER, Germany 1997-03-13</dateline>
+<text>
+<p>German business software developer SAP AG, with its share price rebounding after a tumble last fall, said on Thursday the first quarter of 1997 was running according to expectations.</p>
+<p>&quot;We have said we expect sales to grow 25 to 30 percent and pretax profit to increase at a slightly faster rate, by a few percentage points,&quot; management board member Henning Kagermann told Reuters at the CeBIT computer trade fair. &quot;So far we see no reason to give the market different indications.&quot;</p>
+<p>&quot;Today, at the beginning of March, business looks like what we expected, but the next three weeks will tell,&quot; he said. &quot;The last month of the quarter always has the most business.&quot;</p>
+<p>SAP planned to discuss first quarter business at a news conference next week.</p>
+<p>The company's shares, which in October plunged about 70 points to around 210 marks after a surprisingly weak third quarter, have climbed steadily since SAP showed a robust final quarter of 1996.</p>
+<p>Shares closed in electronic trading on Thursday at 273 marks, down 2.6 marks, as the German blue chip DAX index slipped two percent.</p>
+<p>At CeBIT SAP announced a series of improvements to its R/3 software to enable companies to take orders and display product catalogs over Internet. R/3 lets firms closely monitor manufacturing, payroll, accountingand purchasing data.</p>
+<p>SAP last year came under criticism from consultants who said the company was moving too slowly to adapt R/3 for the Internet.</p>
+<p>The company also announced other features in R/3 that make it easier to customise the software for different businesses.</p>
+<p>&quot;In our next product, it will be much easier to pick and choose the modules you want,&quot; Kagermann said. &quot;It will be flexible, but you will get a consistent base.&quot;</p>
+<p>Kagermann said the company had few concerns about results easing in the next few years because of lagging technology investment in Europe, where SAP gets 49 percent of its business.</p>
+<p>&quot;I am concerned as a European but not from an SAP perspective,&quot; he said. &quot;We are growing rapidly in the United States and other regions.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOVER, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

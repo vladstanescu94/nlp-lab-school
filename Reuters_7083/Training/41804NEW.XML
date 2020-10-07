@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41804" id="root" date="1996-09-09" xml:lang="en">
+<title>ISRAEL: Logal brings products to the Internet.</title>
+<headline>Logal brings products to the Internet.</headline>
+<dateline>TEL AVIV 1996-09-09</dateline>
+<text>
+<p>Logal Educational Software &amp; Systems Ltd has implemented the first of its interactive educational products on the Internet, a company spokesman said.</p>
+<p>The product, called Function Investigator, is one of Logal's 27 high school science and math products.</p>
+<p>The Israeli company said the Internet will expand its market.</p>
+<p>&quot;We have constructed a new model to bring all our software products to the Internet with full activity,&quot; Logal chief executive Yoel Givol said in a statement.</p>
+<p>He said the new model enabled the company to cut about a year from its Internet implementation schedule and means that the full product line should be available on the Internet by the beginning of 1997.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="396291" id="root" date="1997-02-22" xml:lang="en">
+<title>USA: Microsoft says online travel service growing.</title>
+<headline>Microsoft says online travel service growing.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-02-21</dateline>
+<text>
+<p>Microsoft Corp.'s 4-month-old Expedia Internet travel service sold more than $1 million in travel tickets this week, its best ever, executives said Friday.</p>
+<p>Josh Herst, lead product manager for Expedia, said business has been building but enjoyed a flurry of sales this week when American Airlines launched a fare war after President Clinton blocked a strike by its pilots.</p>
+<p>&quot;We had a nice spike,&quot; he said. &quot;If they wanted to have more of those, we wouldn't complain.&quot;</p>
+<p>Herst said Microsoft is investing heavily in the travel arena, seen as a potentially lucrative form of electronic commerce.</p>
+<p>Forrester Research analyst Bill Bass said travel generated $126 million in retail sales over the Internet in 1996, second only to computer software and hardware, which generated $140 million.</p>
+<p>By 2000, the travel industry will generate $1.6 billion in annual sales over the Internet, Forrester estimates.</p>
+<p>&quot;Airline tickets are a great thing to be able to buy online,&quot; Bass said. &quot;You don't have to hold it -- it's not like clothes, where it helps to be able to see it and touch it.&quot;</p>
+<p>Bass also said travel sites on the Internet are able to include related information such as maps and hotel listings that would be impossible to provide over the telephone.</p>
+<p>Microsoft is far from the only company seeking a piece of the Internet travel market, but analysts give Expedia high marks so far and say Microsoft is likely to remain one of the major players.</p>
+<p>Other online travel agencies include Travelocity, operated by American Airlines' parent company AMR Corp., Preview Travel and Internet Travel Network.</p>
+<p>Airlines themselves also operate sites, which have proven to be an excellent way to sell seats that would otherwise go empty, Bass said. American Airlines has sold $10 million in tickets in the past year through a weekly electronic mail bulletin offering discount seats for weekend travel on lightly booked flights, he said.</p>
+<p>Herst said Microsoft has about 100 people working on Expedia, including journalists building a database of information about destinations. The service plans to add several &quot;big-name columnists&quot; soon, said Erik Blachford, Expedia product manager.</p>
+<p>Microsoft is believed to keep slightly less than the usual 10 percent travel agent's commission, and it has a relationship with Worldspan Travel Partners in Atlanta to print and mail tickets and provide 24-hour telephone support for travelers.</p>
+<p>Microsoft also expects to generate substantial advertising revenue, Herst said.</p>
+<p>While Expedia is designed for individuals and small businesses, Microsoft also is working with American Express Co. on a related project to develop a corporate travel application.</p>
+<p>Expedia can be found at http://expedia.msn.com/.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-22"/>
+  </code>
+  <code code="I77001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

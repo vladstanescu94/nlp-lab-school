@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="491321" id="root" date="1997-04-07" xml:lang="en">
+<title>USA: Epson drops prices, adds software to scanners.</title>
+<headline>Epson drops prices, adds software to scanners.</headline>
+<dateline>TORRANCE, Calif 1997-04-07</dateline>
+<text>
+<p>Epson America said Monday it was introducing new software bundles and lower prices for each configuration of one of its scanners.</p>
+<p>Epson, an affiliate of Seiko Corp, said it was lowering prices by as much as 30 percent for configurations of its Expression 636 color flatbed scanner, beginning April 1.</p>
+<p>The percentage drop will vary depending on the scanner configuration, it added.</p>
+<p>Epson said it had also enhanced software bundles in the Executive, Artist and Professional models with Caere's OmniPage LE optical character recognition software. Caere Corp's software will replace Xerox Corp's Textbridge 3.0 software, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I37400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORRANCE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

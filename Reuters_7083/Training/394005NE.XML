@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394005" id="root" date="1997-02-21" xml:lang="en">
+<title>USA: JDA Software Group Inc names officer.</title>
+<headline>JDA Software Group Inc names officer.</headline>
+<dateline>PHOENIX 1997-02-21</dateline>
+<text>
+<p>JDA Software Group Inc said it named Brent Lippman to the newly-created position of chief operating officer.</p>
+<p>Lippman joined JDA as director of marketing in 1990 and last year was named senior vice president of sales and marketing worldwide.</p>
+<p>In his new position he will continue to oversee sales and marketing, while also assuming the day-to-day responsibilities for product development, consulting services and operations.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

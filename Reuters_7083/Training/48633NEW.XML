@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48633" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Novell launches GroupWise 5.</title>
+<headline>Novell launches GroupWise 5.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>Novell Inc said Thursday it had launched GroupWise 5, its extended client/serve electronic mail system.</p>
+<p>The company said the system's pricing would be the same as GroupWise 4.1  </p>
+<p>It said the new version of GroupWise, an electronic messaging and workgroup application software, has a new Universal Mail Box feature, which lets users have one single place to access their calendar, group scheduling, voice mail, and electronic mail, via a corporate network or the Internet.</p>
+<p>GroupWise 5 supports Internet standards, plus the software can be customized for internal corporate &quot;intranets&quot; networks.</p>
+<p>GroupWise 5 will start at $718 for a five-user license and goes to $32,625 for a 250-user license. GroupWise client versions for Microsoft's Windows 95, Windows NT and Windows 3.1 will be available in the third week of October.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

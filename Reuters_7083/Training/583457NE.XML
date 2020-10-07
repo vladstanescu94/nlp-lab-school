@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583457" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Startup firm taps wallets of high-tech executives.</title>
+<headline>Startup firm taps wallets of high-tech executives.</headline>
+<byline>Samuel Perry</byline>
+<dateline>BURLINGAME, Calif. 1997-05-13</dateline>
+<text>
+<p>Crossroads Software, a Silicon Valley startup, recently raised funds by tapping the wallets of executives of some key customers -- and their rivals, as well.</p>
+<p>Founded a year ago, Crossroads aims to build products that will link huge business application software programs from different vendors by creating reusable &quot;bridges&quot; that can be used to integrate incompatible systems.</p>
+<p>CrossRoads chief executive Katrina Garnett said the company recently raised $12.6 million from a financing round which included three corporate investors and 50 influential individuals, half of whom are top high-tech executives.</p>
+<p>The carefully choreographed team of investors includes manufacturing and financial software giant SAP AG  -- a leader in the industry around whose products many companies have rebuilt their entire businesses - and the services and consulting firm Ernst &amp; Young LLP.</p>
+<p>But the investor pool also includes a Who's Who of the software business applications universe, including PeopleSoft CEO Dave Duffield, Vantive Corp CEO John Luongo, Scopus Technology CEO Ori Sasson, and Clarify CEO Dave Stamm.</p>
+<p>CrossRoads plans to tie together products of these companies through a combination of application-independent modules and connectors which work with specific programs.</p>
+<p>Already the company has lined up strategic alliances with those companies and with Baan. It expects to offer &quot;out-of-the-box&quot; products to support their software.</p>
+<p>Garnett, a veteran of Oracle Corp and Sybase, said that by drawing investors from among its partners, CrossRoads has created an additional barrier to entry to other potential competitors.</p>
+<p>&quot;Basically, I targeted the companies that are my partners, to build a real defense (against new entrants) - the presidents and CEOs, the COOs, the vice chairman and VPs of sales of all my partner companies,&quot; she said.</p>
+<p>Garnett said such investors can be more purposeful allies than the so-called &quot;angel&quot; investors, friends and family of entrepreneurs who often help with startup capital.</p>
+<p>&quot;They need this solution to make their own businesses successful,&quot; said Garnett. &quot;They're in a position every single day of their jobs to say something great, or to facilitate the relationship.&quot;</p>
+<p>Furthermore, the investor pool brings together some ardent adversaries behind one company. &quot;They're out there just as eager to share the risk with all their other competitors to make sure we're successful,&quot; she said.</p>
+<p>Some Silicon Valley venture investors said the structure may make it more difficult for others to enter the business, but may also create a potential for conflicts of interest in their own business down the road.</p>
+<p>Others, including Terence Garnett, husband of CrossRoads's and a venture partner at Venrock Associates, believe it could be a model for other startups, however.</p>
+<p>The Garnetts provided initial capital for the venture, and Venrock, the Rockefeller family's venture capital group, participated in the recent funding.</p>
+<p>The annual worldwide market for packaged software -- used in tasks ranging from running corporate resources, to manufacturing and procurement, to tracking employee records -- is estimated at $27 billion, or $44 billion including computer hardware.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGAME, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277562" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: 1996 worst 10 IPOs, by aftermarket performance.</title>
+<headline>1996 worst 10 IPOs, by aftermarket performance.</headline>
+<dateline>NEW YORK 1996-12-27</dateline>
+<text>
+<p>The following IPOs were 1996's worst performing initial public offerings, ranked by the percentage change between their IPO price and their closing price on December 26, according to Securities Data Co:  </p>
+<p>COMPANY		     IPO   IPO   CLOSING     PCT   MANAGER</p>
+<p>				DATE PRICE PRICE 12-26 CHANGE</p>
+<p>--------------------------------------------------------------</p>
+<p>n-Vision	  5-29   5    0.563   -88.7%  STRATTON</p>
+<p>RISCORP	   2-28  19    3.563   -81.2%  SMITH B</p>
+<p>Dignity Partners 2-14  12    2.50    -79.2%  OPPCO</p>
+<p>Multicom Publishg 6-24   6.50 1.50    -76.9%  LAIDLAW</p>
+<p>Thermo Mizer    2-27   5    1.156   -76.9%  NATNWIDE</p>
+<p>Kaye Kotts	2-22   5    1.2     -75.6%  JW BARC</p>
+<p>Black Rock Golf  7-19   5    1.25    -75 %   HAMPSHIRE</p>
+<p>PowerCerv	 3-01  15    3.75    -73.2%  ROBERTSON</p>
+<p>SoftQuad 2-13  10.75 3	 -72.1%  VOLPE W</p>
+<p>Infonautics     4-29  14    4	 -71.4%  H&amp;Q</p>
+<p>NOTE: Figures are adjusted for stock splits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

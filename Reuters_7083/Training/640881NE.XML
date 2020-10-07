@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="640881" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: WebTV launches developers program for Internet TV.</title>
+<headline>WebTV launches developers program for Internet TV.</headline>
+<dateline>PALO ALTO, Calif. 1997-06-04</dateline>
+<text>
+<p>WebTV Networks Inc said Wednesday it has launched &quot;WebTV PrimeTime for Developers&quot; -- a package of technical, artistic and marketing resources to help developers of on-line content for broadcast television.</p>
+<p>WebTV listed private companies Colossal Pictures, Silicon Reef, and Zentropy Interactive along with 30 other companies as initial members ofthe developers group, which it said will be managed by its own network developer evangelism team.</p>
+<p>WebTV cited a survey by the Find/SVP research group which projected that 55 million non-Internet users in the United States aim to learn more about the Internet or will begin using it in the next 12 months -- a major market for TV access.</p>
+<p>The program will help developers reach this growing market by providing software tools like WebTV Simulator for desktop computers, and WebTV said it will hot its first &quot;Producer's Ball&quot; in August to link developers with content producers.</p>
+<p>Founded in June 1995, WebTV signed an agreement in early April with Microsoft Corp. to allow Microsoft to acquire the company in a mostly stock deal valued at more than $425 million, pending regulatory approvals.</p>
+<p>WebTV provides network service and the design for television set-top boxes made and sold by Sony Corp and Philips Electronics NV.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

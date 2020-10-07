@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="437589" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: Intel, Microsoft seen outlining NetPC.</title>
+<headline>Intel, Microsoft seen outlining NetPC.</headline>
+<dateline>PALO ALTO, California 1997-03-12</dateline>
+<text>
+<p>Intel Corp and Microsoft Corp may announce as early as Wednesday additional specifications for their proposed NetPC alternative to rivals' network computer devices, industry sources said.</p>
+<p>The network computer devices being launched by industry rivals, including Oracle Corp., Sun Microsystems Inc. and International Business Machines Corp., aim to cut down on the costs of owning networked computers.</p>
+<p>Industry executives said the NetPC announcement could also include further partners of Microsoft and Intel, whose &quot;Wintel platform&quot; of Microsoft Windows and Intel's Pentium family of computer chips are the basis for most personal computers.</p>
+<p>Hewlett-Packard Co. is among personal computer makers that have committed to market NetPC computers, which are designed to be less costly to operate, with fewer stand-alone features, than personal computers.</p>
+<p>Network computers, such as Sun Microsystems Inc.'s JavaStations, cost anywhere from $750 to about $1,500, and NetPCs are expected to have a similar price range.</p>
+<p>Computer industry executives argue that costs of keeping up networked personal computers -- estimated by independent research firms at up to $12,000 a year -- is far more critical than the initial cost of the machines. An Intel spokesman declined comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

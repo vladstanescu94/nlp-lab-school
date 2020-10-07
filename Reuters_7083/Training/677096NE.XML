@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="677096" id="root" date="1997-06-20" xml:lang="en">
+<title>USA: WebTV adds Hitachi and Mitsubishi.</title>
+<headline>WebTV adds Hitachi and Mitsubishi.</headline>
+<dateline>PALO ALTO, Calif. 1997-06-19</dateline>
+<text>
+<p>WebTV Networks Inc. said Thursday it has struck a deal with units of consumer electronics giants Hitachi Ltd. and Mitsubishi Corp. to market devices based on WebTV's TV-based Internet access design.</p>
+<p>Chip Herman, WebTV's top marketing executive, said in a telephone interview from the E3 consumer entertainment industry trade show in Atlanta that the companies plan to have television set top boxes available in the U.S. market later this year.</p>
+<p>&quot;We expect the products to be available in the Christmas season here in the United States,&quot; said Herman, adding that the companies' arrangements would enable them to produce integrated television-WebTV devices in the future.</p>
+<p>WebTV currently boasts more than 85,000 customers. The company has said customer satisfaction levels have exceeded 90 percent and that 67 percent of WebTV subscribers connect to the Internet through WebTV Network each day.</p>
+<p>WebTV's initial partners include Sony Corp. and Philips Electronics NV.</p>
+<p>But WebTV, which Microsoft Corp. agreed to buy in a deal valued at roughly $425 million in cash and mostly stock, is also facing increased competition from a flurry of new entrants to the market.</p>
+<p>These include NetChannel, Inc., which said it has inked a deal with Thomson Consumer Electronics to provide an Internet delivery service for $19.95 a month., the same as WebTV charges, and plans to offer $300 set-top boxes this year.</p>
+<p>A third Internet access network, Los Gatos, Calif.-based ICTV Inc., connects a keyboard to a small set-top box and a television set to provide access to Internet and to video games through a cable television connection.</p>
+<p>Semiconductor maker Zilog and privately-held software company PlanetWeb are teaming up to unveil a design that will allow manufacturers to build set-top boxes to sell at street prices of less than $200.</p>
+<p>This is $50 less than current prices of WebTV units.</p>
+<p>Curtis Mathes Holding, a Dallas, Texas-based television manufacturer, has also unveiled a $400 set-top box that turns a TV into a fax machine and speaker phone in addition to an Internet and electronic mail device.</p>
+<p>On Tuesday,  WebTV said it will deliver a free software upgrade by the end of the month which will include support for secure online transactions, printing capabilities and features which will enhance the use of multimedia formats.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

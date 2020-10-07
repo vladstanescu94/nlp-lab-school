@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103205" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Prodigy to use Microsoft Internet explorer.</title>
+<headline>Prodigy to use Microsoft Internet explorer.</headline>
+<dateline>WHITE PLAINS, N.Y. 1996-10-08</dateline>
+<text>
+<p>Prodigy Inc said Tuesday it has chosen Microsoft Corp's Internet Explorer 3.0 software for the default browswer on its upcoming Internet-based service.</p>
+<p>In exchange, Prodigy's new service will be available through the Online Services folder on the Microsoft Windows 95 operating system desktop.</p>
+<p>Prodigy Internet, the company's World Wide Web-based service is scheduled to be available in the coming weeks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHITE PLAINS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

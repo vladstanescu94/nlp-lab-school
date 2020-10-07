@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32695" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Macromedia CEO sees flat Q2.</title>
+<headline>Macromedia CEO sees flat Q2.</headline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>Macromedia Inc chief executive officer Bud Colligan reiterated the company expects flat results in its second fiscal quarter, but he said he is &quot;very bullish&quot; about the December and March quarters.</p>
+<p>&quot;A lot of new products will ship in the December and March quarters,&quot; Colligan said in an interview during the Macromedia users conference here. &quot;We are very bullish&quot; about growth in revenues and earnings in those quarters, he said.  </p>
+<p>Macromedia, a leading supplier of software tools for Internet publishing and multimedia creations, has been a fast grower, reaping benefits from the popularity of multimedia and the Internet. However, when it reported first-quarter earnings in July, it said its sales growth appeared to be slowing largely because of uncertainty about Apple Computer Inc, whose Macintosh platform is used by many Macromedia customers. It said September quarter results could be flat.  </p>
+<p>Macromedia introduced a new  product suite Wednesday called FreeHand Graphics Studio 7, to be available in the fall for $449. It holds new versions of four of its products, FreeHand software for print and Internet graphics, Extreme 3D, Fontographer and xRes software.</p>
+<p>Macromedia also announced that it slashed the price of its software tools for creating and delivering intranet content, Authorware Interactive Studio to $1,999 from $4,999.</p>
+<p>Colligan said he expected a revenue boost from the new products and from stronger demand after the price cuts.  </p>
+<p>Macromedia should also gain from a broad deal it announced with Netscape Communications Corp in which Netscape will bundle Macromedia's Shockwave into the next version of its best selling Navigator browser as well as support for Macromedia's Fireworks developer tools.</p>
+<p>Shockwave is a plug-in application tool that allows a user to stream graphics or audio from the Internet in real time. Introduced only nine months ago, it has an installed base of 9 million users now, Colligan said. However, Macromedia allows individuals to download Shockwave free from the Internet and makes only &quot;minimal revenues&quot; from licensing it to other software companies.</p>
+<p>But Colligan said the time is coming when Macromedia can leverage Shockwave's popularity into a money-making product. Because of its licensing deals with Netscape as well as Microsoft Corp and Apple, Macromedia expects Shockwave to be in 20 million browsers by year end and 60 million in a few years.</p>
+<p>&quot;When we get 60 million users, we are going to leverage that,&quot; Colligan said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

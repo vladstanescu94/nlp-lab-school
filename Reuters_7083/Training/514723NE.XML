@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514723" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: Olicom A/S Q1 shr profit $0.31 vs loss.</title>
+<headline>Olicom A/S Q1 shr profit $0.31 vs loss.</headline>
+<dateline>NEW YORK 1997-04-16</dateline>
+<text>
+<p>OLICOM A/S</p>
+<p>						 Three mos	Three mos</p>
+<p>						    Mar 31	   Mar 31</p>
+<p>						     1996		1997</p>
+<p>			   (In thousands, except per share amounts)</p>
+<p> Net sales				    $ 32,147	 $ 48,404</p>
+<p> Cost of sales				  20,330	   26,149</p>
+<p> Gross Profit				   11,817	   22,255</p>
+<p>						     36.8%	    46.0%</p>
+<p>Operating expenses</p>
+<p>   Sales and marketing			 9,843	   10,486</p>
+<p>   Research and development		  3,131	    2,896</p>
+<p>   General and administrative		1,540	    2,095</p>
+<p>   Acquisition related expenses	    3,787		  0</p>
+<p>   Special charge re. management change  1,402		  0</p>
+<p>   Total operating expenses		 19,703	   15,477</p>
+<p> Income from operations		    (7,886)	    6,778</p>
+<p>Sale of minority interest in Contex</p>
+<p>     A/S					   2,878		  0</p>
+<p>Interest income (expense) and other,</p>
+<p>   net						 860		420</p>
+<p> Income before income taxes		(4,148)	    7,198</p>
+<p>   Income taxes				(1,283)	    2,520</p>
+<p> Income before minority interests	(2,865)	    4,678</p>
+<p>   Minority interests			    373		 82</p>
+<p> Net income				    (3,238)	    4,596</p>
+<p> Net income per share			 (0.22)	     0.31</p>
+<p> Weighted average shares outstanding    14,810	   14,934</p>
+<p>Company based in Copenhagen, Denmark. U.S. operations are based in Plano, Texas.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

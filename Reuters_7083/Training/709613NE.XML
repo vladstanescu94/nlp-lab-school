@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709613" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: Wall Data sees lower-than-expected Q2 net, charge.</title>
+<headline>Wall Data sees lower-than-expected Q2 net, charge.</headline>
+<dateline>KIRKLAND, Wash. 1997-07-07</dateline>
+<text>
+<p>Wall Data Inc said Monday its second-quarter earnings will be just half of what Wall Street expected, and that it will take a $10.7 million charge to settle a shareholder lawsuit.</p>
+<p>The networking software company, based in Kirkland, Washington, also said Jim Simpson, chairman and chief executive, will retire at the end of July. John Wall, the company's founder and current president, will take over those positions.</p>
+<p>Wall Data said it expects to report second-quarter earnings, before charges, of $0.17 to $0.20 a share.  </p>
+<p>Wall Street expected Wall Data to earn $0.34 a share, according to a recent analyst survey by Zacks Investment Research.</p>
+<p>Revenue for the quarter will be about $35.5 million, slightly higher than the $35.5 million reported in the same quarter a year ago, the company said.</p>
+<p>Wall Data will take a $10.7 million charge in the quarter to settle shareholder lawsuits filed shortly after the company suffered a huge stock drop in early 1995. The charge also covers costs for restructuring the company's Salsa Business Unit, which writes multi-user PC software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIRKLAND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

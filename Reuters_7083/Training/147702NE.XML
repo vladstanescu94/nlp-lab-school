@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147702" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Microsoft, U S West invest in Internet video firm.</title>
+<headline>Microsoft, U S West invest in Internet video firm.</headline>
+<dateline>PALO ALTO, Calif.</dateline>
+<text>
+<p>Microsoft Corp. and U S West Interactive Services said they had acquired stakes in VDOnet Corp., the developer of technology that eliminates some of the major hurdles now constraining Internet communications.</p>
+<p>The VDOnet software automatically adjusts communications travelling over the Internet to take account of the variety of transmission speeds and capacities found within data networks.</p>
+<p>Microsoft said it agreed to license VDOnet technology to enhance its own software for delivering video communications over the Internet. In a statement, Microsoft described the deal as &quot;a major milestone for Internet communication.&quot;</p>
+<p>U S West Interactive is an Internet-related business unit of U S West Media Group, the holding group for a variety of operations outside its core local telephone business.</p>
+<p>Financial terms of the deals were not disclosed.</p>
+<p>VDOnet's technology, known as VDOWave, makes computer applications such as video conferencing and video broadcasting possible.</p>
+<p>In a separate statement, U S West Interactive said it planned to use VDOnet technology in high-speed Internet communications services it plans to offer using cable modem and other technologies.</p>
+<p>U S West said its participation in the investment is part of its strategy to become the third-largest cable company in the United States, which will occur when its parent company, U S West Media Group, completes its merger with Continental Cablevision Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

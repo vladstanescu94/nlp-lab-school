@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="298425" id="root" date="1997-01-10" xml:lang="en">
+<title>USA: AFTER THE BELL - Amgen trades lower.</title>
+<headline>AFTER THE BELL - Amgen trades lower.</headline>
+<dateline>NEW YORK 1997-01-10</dateline>
+<text>
+<p>Amgen Inc was trading at 54 in after-hours trading, down from 55-1/16 at the close, traders said Friday.</p>
+<p>The company said earlier in the day that it planned to file for Food and Drug Administration approval of its Stem Cell Factor in the next few months.</p>
+<p>It said phase three clinical trials showed positive results for its factor when tested in breast cancer patients receiving chemotherapy. Intel Corp was down at 144-1/8 from the closing quote of 144-1/2, while Microsoft Corp was higher at 84-1/2 against the close's 84-1/4, one trader said.  </p>
+<p>The New York Stock Exchange said session one had a volume of 109,000 shares against 277,500 on Thursday. It said there was no session two, while the day before the session had a volume of 987,800 shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

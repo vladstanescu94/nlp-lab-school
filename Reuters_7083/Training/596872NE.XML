@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="596872" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: Computer Assoc encouraged by product line.</title>
+<headline>Computer Assoc encouraged by product line.</headline>
+<dateline>ISLANDIA, N.Y. 1997-05-20</dateline>
+<text>
+<p>Computer Associates International Inc said on Tuesday it was encouraged by the strength of its client/server product line, particularly Unicenter TNG, and that it continues to improve product offerings faster than competitors.</p>
+<p>&quot;Our fourth-quarter performance was on track,&quot; said Sanjay Kumar, president and chief operating officer. &quot;Client/server revenue for the fiscal year totaled over $1.36 billion, 48 percent greater than the prior year,&quot; he added.</p>
+<p>The remarks accompanied CA's fourth quarter earnings results, in which it reported net income of $336 million, compared with last year's $265.1 million. Income per share increased 29 percent to $0.90, up from $0.70 a year ago, the company said.</p>
+<p>Computer Associates International develops and supports business software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

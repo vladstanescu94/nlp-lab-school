@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44631" id="root" date="1996-09-10" xml:lang="en">
+<title>CANADA: JetForm buys Delrina forms from Symantec.</title>
+<headline>JetForm buys Delrina forms from Symantec.</headline>
+<dateline>OTTAWA 1996-09-10</dateline>
+<text>
+<p>JetForm Corp said on Tuesday it acquired Delrina Group's electronic forms business from Symantec Corp for about US$100 million over a period of four years, which has a net present value of about US$65 million.</p>
+<p>The deal would give JetForm immediate full ownership and rights to all of Delrina's electronic forms-related products and technology, JetForm said.</p>
+<p>It said it also acquired 65 people from the Delrina Group, more than half of whom were involved in research and development activities in Toronto.  </p>
+<p>JetForm said payment will be made quarterly in cash or stock at JetForm's option over next four years.</p>
+<p>Delrina was acquired by California-based Symantec in 1995.</p>
+<p>The acquisition will effectively leverage the research and development, sales, marketing and service and support for the Delrina product line and give JetForm access to all current Symantec electronic forms and workflow customers.</p>
+<p>-- Reuters Toronto Bureau  (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

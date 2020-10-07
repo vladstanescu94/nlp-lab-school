@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186973" id="root" date="1996-11-13" xml:lang="en">
+<title>ISRAEL: Memco targets data security market.</title>
+<headline>Memco targets data security market.</headline>
+<dateline>TEL AVIV 1996-11-13</dateline>
+<text>
+<p>Israel's Memco Software Ltd is positioning its SeOS software as the industry standard for a specialised segment of the data security market that protects open system servers.</p>
+<p>&quot;Our strategic goal is to form partnerships with big companies so that we can achieve our goal to be the industry standard,&quot; chairman and chief executive Israel Mazin told Reuters.</p>
+<p>The company has signed a series of marketing alliances with leading software companies, most recently IBM subsidiary Tivoli Systems Inc and is armed with $58 million in cash, most of it raised in an initial public offering on October 16.</p>
+<p>Mazin said the proceeds would go to setting up new marketing subsidiaries, starting in Europe, and to stepped-up product support and research, most immediately to bring out a Windows NT version by second-quarter 1997. Right now, SeOS runs only on UNIX platforms.</p>
+<p>Mazin said Memco would also be looking to acquire other companies with related technology. &quot;But we don't have any plan for any specific technology,&quot; he added.</p>
+<p>Tel Aviv-based Memco reported on Tuesday third-quarter net income of $0.86 million, or $0.07 a share, compared with a loss of $1.12 million, or $0.09 a share, a year earlier. Revenues climbed to $4.20 million from just $0.18 million in third-quarter 1995, the first that the company registered sales.</p>
+<p>Memco now sells directly to users, most of them Fortune 100 companies, as well as through strategic partners that embed the software in their own data-security packages. &quot;In the next few years, most of our sales will be indirect,&quot; said Mazin.</p>
+<p>Mazin said Memco has no direct competition for open system server security, which has helped it to forge alliances so quickly. &quot;The security market is highly fragmented,&quot; said marketing vice-president Dorin Miller. &quot;The problems are numerous and so are the solutions.&quot;</p>
+<p>The market research concern Dataquest estimates the worldwide information security market to be $5 billion, growing to $13 billion in the year 2000. Mazin said it was difficult to estimate the size of the open-server segment alone because it overlapped with others.</p>
+<p>- David Rosenberg, Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

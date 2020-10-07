@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="354214" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: Borland gets big boost from Oracle pact.</title>
+<headline>Borland gets big boost from Oracle pact.</headline>
+<dateline>NEW YORK 1997-02-04</dateline>
+<text>
+<p>Database software power Oracle Corp. will license financially troubled Borland International Inc.'s computer programming languages and software development tools to develop Internet applications, the companies announced Tuesday.</p>
+<p>Borland Chief Executive Del Yocam called the deal a big boost for his company.</p>
+<p>&quot;We believe this licensing agreement is the start of a new beginning,&quot; Yocam told reporters in a conference call. &quot;We believe this agreement will play a significant role in Borland's future success.&quot;</p>
+<p>Redwood City, Calif.-based Oracle and Scotts Valley, Calif.-based Borland declined to give any financial details of their pact, under which Oracle will license Borland's Java and C++ development tools in Oracle's current and future products.</p>
+<p>The announcement, made while stock markets were open, apparently prompted a rise in both companies' stocks. Oracle stock rose 50 cents to $39.875, while Borland climbed 12.5 cents to $6.56, both on the Nasdaq.</p>
+<p>Borland, which has been mired in financial losses and a corporate restructuring, said last month it hoped to be profitable in fiscal 1998, beginning in April.</p>
+<p>Oracle said it would incorporate Borland's C++ Builder and JBuilder into many of its software development tools with a number of its existing and future products and that the tools will help propel the development of software for network computers.</p>
+<p>&quot;The good news about JBuilder is that it's brand new,&quot; Oracle Chief Executive Officer Larry Ellison said in the conference call. &quot;We think it's the best Java development environment. ... It's the most advanced technology.&quot;</p>
+<p>Borland's JBuilder is a tool for creating software written in Sun Microsystems Inc.'s Java language. JBuilder is scheduled for general availability in the second quarter of Borland's fiscal 1998.</p>
+<p>Borland's C++ Builder is a new tool that combines the C++ programming language with the rapid software development of Borland's Delphi products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

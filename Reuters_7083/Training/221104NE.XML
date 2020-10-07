@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221104" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Novell says intranet platform boosts Q4.</title>
+<headline>Novell says intranet platform boosts Q4.</headline>
+<dateline>OREM, Utah 1996-11-26</dateline>
+<text>
+<p>Novell Inc said on Tuesday that first shipments of its IntranetWare platform drove sales of its directory enabled servers up 38 percent in the fourth quarter, to $181 million, from the third quarter.</p>
+<p>Total server software sales for the fourth quarter were $247 million, the company said.</p>
+<p>IntranetWare provides a full-service intranet platform, allowing customers to access information on intranets and the Internet with a Web server, browser and Internet connectivity, the company said.</p>
+<p>Earlier in the day, the company reported earnings of $0.17 per share for the fourth quarter ended October 31, compared with $0.16 per share in the year ago period. Revenues were down to $383.7 million from $480.5 million in the 1995 fourth quarter.</p>
+<p>The company attributed the decline in revenues to the sale or discontinuation of product lines in the past year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="745001" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE - Dendrite Q2 profit vs loss.</title>
+<headline>TABLE - Dendrite Q2 profit vs loss.</headline>
+<dateline>MORRISTOWN, N.J. 1997-07-22</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr profit		 $0.06     loss	 $0.13</p>
+<p> Net profit		   647     loss	 1,411</p>
+<p> Revs			18,067		   17,260</p>
+<p> Avg shrs		  11,416		   11,121</p>
+<p>	  6  MONTHS</p>
+<p> Shr profit		 $0.03     loss	 $0.03</p>
+<p> Net profit		   381     loss	   336</p>
+<p> Revs			34,709		   31,484</p>
+<p> Avg shrs		  11,435		   10,962</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Dendrite International Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MORRISTOWN, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

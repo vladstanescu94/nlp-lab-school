@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239922" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: S.Korea eyes major hike in software production.</title>
+<headline>S.Korea eyes major hike in software production.</headline>
+<dateline>SEOUL 1996-12-06</dateline>
+<text>
+<p>South Korea's software industry plans to increase the value of software production to $17.2 billion by 2001 from an estimated $3.8 billion this year, a government statement said on Friday.</p>
+<p>The Ministry of Information and Communication said investment in research and development would be raised to 12 percent of production value in 2001, from five percent in 1995.</p>
+<p>It projected a rise in software exports to $2.5 billion by 2001 from an estimated $30 million this year, the ministry said.</p>
+<p>Exports of multimedia products were expected to reach $500 million by 2001, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

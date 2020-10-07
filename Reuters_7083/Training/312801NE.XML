@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312801" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: HP to integrate Informix software.</title>
+<headline>HP to integrate Informix software.</headline>
+<dateline>PALO ALTO, Calif. 1997-01-15</dateline>
+<text>
+<p>Hewlett-Packard Co. will on Thursday unveil plans to integrate Informix Corp's Universal Server software into its Internet and intranet products to provide object-relational database capabilities.</p>
+<p>The new capability will be built into a new product line, HP Domain XE, which will be unveiled by Hewlett-Packard, along with new levels of price performace in the company's HP Domain Enterprise server family, audio streaming features and other enhancements to its HP Domain Business Suite.</p>
+<p>Informix Chairman and Chief Executive Philip White said in an interview the deal will give HP a critical boost in the time to market of an integrated database product with Informix's latest database technology.</p>
+<p>The deal is not exclusive, he said, but added that time to market is increasingly a key product differentiator.</p>
+<p>&quot;In this business, time to market is everything and you never get a second chance,&quot; he said.</p>
+<p>White said the offering gives customers &quot;the advantage of rich content in an object relational database. They get templates that will make the application development much easier.&quot;</p>
+<p>Informix's Universal Server is a database management software that can handle video, sound and images as well as the text and numbers handled in traditional database management software known as relational databases.</p>
+<p>The HP Informix Intelligent Web solution will include HP's OpenView and OpenMail management and messaging software and Netscape Communications Corp's SuiteSpot integrated server software, the companies said.</p>
+<p>The products are an extension of the family of Internet products which HP announced just two months ago and which the company said has been selling ahead of plan.</p>
+<p>&quot;We've really had a very successful reception to the Domain family,&quot; said Dick Watts, vice president of HP's Computer Systems Organisation. &quot;The fact that it's ready for business on the Internet is resonating with our customers.&quot;</p>
+<p>&quot;This announcement is making it easy for customers to get real work done on the Internet, with robust business-class solutions, pre-configured, easy to order, easy to set up and easy to manage,&quot; he added.</p>
+<p>Watts said the Informix-powered package will be available in the second quarter, with a single list price configuration Domain XE, fully integrated, available in the third quarter.</p>
+<p>&quot;By the summer you can come to HP and order this total solution with the support services, with the consulting and professional services bundled in,&quot; he said.</p>
+<p>Informix said it has also chosen Hewlett-Packard Co's HP 9000 computers as the primary development platform for its Universal database software.</p>
+<p>HP said it is upgrading the low end of its HP Domain Enterprise server family by boosting performance by more than 40 percent while lowering prices by up to 15 percent on previous models announced in November.</p>
+<p>HP said it now offers five HP Domain Enterprise Servers at prices ranging from $7,995 to $85,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

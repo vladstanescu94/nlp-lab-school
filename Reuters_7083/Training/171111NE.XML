@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171111" id="root" date="1996-11-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Symantec in A$7 mln Australia project.</title>
+<headline>RTRS-Symantec in A$7 mln Australia project.</headline>
+<dateline>CANBERRA 1996-11-06</dateline>
+<text>
+<p>The Australian government said on Wednesday it had signed a A$7 million fixed term arrangement (FTA) agreement with the Australian subsidiary of United States-based software company Symantec Corp.</p>
+<p>Industry Minister John Moore said a regional anti-virus research centre and user support centre would form the centrepiece of the four-year agreement.</p>
+<p>The company would also develop and produce point-of-sale marketing material for the Asia Pacific region.  </p>
+<p>Moore said the agreement would focus the attention of international information technology and telecommunications companies on investment opportunities in Australia.</p>
+<p>&quot;I welcome the FTA investment commitments made by Symantec,&quot; Moore said in a statement.</p>
+<p>&quot;They will benefit Symantec and assist the continued development of a world competitive information technology infrastructure in this country.&quot;</p>
+<p>The fixed term arrangement programme was designed to boost international companies' investment in Australia.  </p>
+<p>Symantec Asia Pacific vice president Garry Sexton said the user support centre would take on an increasingly regional focus as demand for support services grew.</p>
+<p>Symantec Corp develops, markets and supports a complete line of application and system software products designed to enhance individual and work group productivity as well as manage networked computer environments.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

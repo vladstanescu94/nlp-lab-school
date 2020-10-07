@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="446092" id="root" date="1997-03-17" xml:lang="en">
+<title>USA: Eastman Kodak completes Wang unit purchase.</title>
+<headline>Eastman Kodak completes Wang unit purchase.</headline>
+<dateline>ROCHESTER, N.Y. 1997-03-17</dateline>
+<text>
+<p>Eastman Kodak Co said Monday it had completed the purchase of Wang Laboratories Inc's software business unit in a cash deal worth $260 million.</p>
+<p>Under its new name Eastman Software Inc, the unit will work alongside the company's Business Imaging Systems organization, it said.</p>
+<p>Kodak reached a definitive agreement to acquire the unit in January.</p>
+<p>It said the technical and marketing alliance Wang Software established with Microsoft Corp will be transferred to Eastman Software.</p>
+<p>As part of the alliance, Wang Software's imaging viewer was incorporated as a standard accessory in Microsoft's Windows 95 and Windows NT software, it said. Also included in the transaction is a preferred vendor status with Microsoft for imaging and workflow software, along with the joint marketing activities promoting that relationship, and a joint development relationship for next generation storage management software, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCHESTER, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

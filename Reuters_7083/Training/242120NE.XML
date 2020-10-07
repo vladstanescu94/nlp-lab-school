@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242120" id="root" date="1996-12-08" xml:lang="en">
+<title>USA: Reuters' Tibco leads move to cut Web traffic.</title>
+<headline>Reuters' Tibco leads move to cut Web traffic.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1996-12-08</dateline>
+<text>
+<p>Reuters Holdings Plc's Tibco Inc. unit Monday will announce it is providing proven technology to help curb traffic jams on the World Wide Web in an initiative backed by over a dozen top Internet companies.</p>
+<p>Cisco Systems Inc., Informix Software Inc. and Sun Microsystems Inc. are among the leading firms which are backing the technology, which enables data to be delivered automatically and reduces congestion.</p>
+<p>&quot;We have a dream team of industry partners -- I call it the dream team of push computing,&quot; said Tibco President Vivek Ranadive.</p>
+<p>The technologies, some of them under development for more than a decade at Tibco, make it possible to replace random browsing with a &quot;push&quot; model, where information can be updated continuously.</p>
+<p>The technology has already been tested in financial market trading rooms around the world.</p>
+<p>Tibco and Cisco Systems said they are developing an open specification which they plan to submit to the Internet standards body, the Internet Engineering Task Force (IETF).</p>
+<p>&quot;We are making open the key part of our technology, reliable subject-based multicast, which is what unclogs the Internet and allows you to get the information that you need targeted at you,&quot; Ranadive said in an interview.</p>
+<p>The &quot;publish and subscribe&quot; technology enables people to subscribe to information without having to constantly access Web sites to find out if content has changed. Publishers can actively send that information to all subscribers at the same time.</p>
+<p>Sluggish responses on the Internet have been one of the leading roadblocks to wider acceptance of the Web because many people within an organization may request exactly the same information, forcing Web sites to respond repeatedly.</p>
+<p>Tibco's patented technology enables companies interested in getting data out to customers or suppliers to broadcast that information once, like a television or radio station, rather than having to respond to each inquiry individually.</p>
+<p>This method, in which subscribers can &quot;tune in&quot; for live updates, can now become part of the embedded &quot;plumbing&quot; of the Internet, cutting message traffic by at least 50 percent, and often much more, wherever it is deployed, Tibco said.</p>
+<p>&quot;Instead of going around the Internet looking at different locations ... I can now go out and search for information by simply describing it and allowing it to find me,&quot; said Charles Giancarlo, Cisco vice president of business development.</p>
+<p>&quot;Because software vendors and content providers are trying to get market information down to consumers, publish and subscribe will be a tool consumers can flock to,&quot; he said.</p>
+<p>Cisco, whose devices carry over 80 percent of Internet traffic worldwide, plans to embed the technology next year in its internetwor operating system.</p>
+<p>The initiative should help the technology move into the mainstream from the realm of early adapters, such as global financial institutions with vast private networks.</p>
+<p>It is also likely to foster greater competition in the market for distribution services across the Internet in which Tibco and a number of industry start-ups are expected to play.</p>
+<p>In addition to whatever royalties Tibco can charge for using its core technologies, the company plans to market an array of products that exploit the technology.</p>
+<p>&quot;That's a good way to get other people to speak off of your menu,&quot; said research analyst Ed Acly.</p>
+<p>Acly, research director at International Data Corp. in Framingham, Mass., estimates the overall market for this type of software will grow to nearly $6 billion in the year 2000, from under $1 billion in 1995.</p>
+<p>Tibco's technology falls into the messaging segment of this market, which totaled $114 million in 1995 and is estimated to grow fivefold to $545 million by 2000, he said.</p>
+<p>&quot;This is plumbing, this is serious and we believe this is an area that we uniquely occupy,&quot; Ranadive said. &quot;This is not something that six people can recreate in their garage in six months, like a lot of the start-ups have done.&quot;</p>
+<p>Tibco's software is already used in systems ranging from Intuit Corp.'s Quicken financial management software and Yahoo Inc.'s stock quote service on the Web to major oil company systems.</p>
+<p>&quot;Reuters deals in seconds and for demanding tasks we deal in subseconds,&quot; said Reuters Holdings Chief Executive Peter Job. &quot;That is what makes us worry, as an information provider, about technology more than others.</p>
+<p>&quot;And that's why we first got interested in the TIB and why we think it has huge potential now,&quot; he said, referring to Tibco's The Information Bus (TIB) technology.</p>
+<p>Tibco is also unveiling a set of products, to be available in the first and second quarters of 1997, which will help developers work with its publish and subscribe multicasting, including enabling it to be used across firewalls, the hardware and software set up to protect networks from hacking.</p>
+<p>More than 35 organizations are expressing support for the greater availability of Tibco technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

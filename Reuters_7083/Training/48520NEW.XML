@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48520" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: AFTER THE BELL -- Oracle shares fall after hours.</title>
+<headline>AFTER THE BELL -- Oracle shares fall after hours.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>Traders said Oracle Corp shares fell after hours on Thursday, shortly after the company posted its first-quarter results.</p>
+<p>Oracle shares slid 1/4 to 37-1/4, traders said. The stock had climbed 7/8 during market hours in heavy volume.</p>
+<p>Oracle reported net income of $0.17 per share compared to $0.08 per share, including a charge. The First Call consensus estimate for the quarter was $0.17 per share.</p>
+<p>After the bell, International Rectifier Corp said it its first-quarter earnings would fall below expectations and Northstar Health Services Inc said it filed a lawsuit against its former chairman/CEO and former auditor.  </p>
+<p>Later in the after-hours market, traders said Oracle shares started to rebound, trading at 38 in light volume.</p>
+<p>The New York Stock Exchange said its session two volume was 2,500 shares compared with 645,600 shares on Wednesday. There was no session two volume compared with 1,039,500 shares yesterday.</p>
+<p>The American Stock Exchange said it had no after-hours volume.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

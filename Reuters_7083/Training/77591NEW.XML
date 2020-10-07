@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77591" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: AMEX to list options on three stocks next week.</title>
+<headline>AMEX to list options on three stocks next week.</headline>
+<dateline>CHICAGO 1996-09-26</dateline>
+<text>
+<p>The American Stock Exchange (AMEX) said Thursday it would list options on Western Resources Inc on October 1.</p>
+<p>The exchange also said it would list options on Vans Inc and Comshare Inc on October 2.</p>
+<p>Western Resources, which closed Thursday at 28-7/8, will have opening strike prices of 25, 30 and 35. Initial expiration months will be October, November, February and May.</p>
+<p>The AMEX said Spear, Leeds &amp; Kellogg will be the specialist.  </p>
+<p>For Vans, opening strike prices will be 15, 17-1/2 and 20, with initial expirations of October, November, January and April.</p>
+<p>Charlton, Goin, SLK will be the specialist unit.</p>
+<p>Vans closed Thursday at 18-3/4.</p>
+<p>Comshare options will have opening strikes of 12-1/2, 15 adn 17-1/2. Initial expirations will be October, November, February and May.</p>
+<p>Group One Trading LP will be the specialist.</p>
+<p>--Derivatives desk, (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

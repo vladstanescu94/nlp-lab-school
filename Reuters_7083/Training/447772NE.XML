@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="447772" id="root" date="1997-03-17" xml:lang="en">
+<title>USA: Digital offers low-cost alpha chip for PCs.</title>
+<headline>Digital offers low-cost alpha chip for PCs.</headline>
+<dateline>MAYNARD, Mass. 1997-03-17</dateline>
+<text>
+<p>Digital Equipment Corp on Monday said it will offer a low-cost chip designed for its Alpha personal computers that will sell for less than $2,600.</p>
+<p>The Alpha 21164PC chip, which will run at 400MHz, 466MHz and 533MHz, will be sold by Digital for $295, $395 and $495, respectively, in quantities of 1,000.</p>
+<p>Digital said the chip was co-designed with Mitsubishi Electric Corp and will be marketed by Digital, Mitsubishi and Samsung Electronics Co Ltd.  </p>
+<p>The company said the Alpha chip, built to run on computers using MIcrosoft Corp's Windows NT operating system, offers superior performance over Intel Corp's Pentium Pro processor.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAYNARD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

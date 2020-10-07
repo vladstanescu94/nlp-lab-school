@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="800091" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: Stac sets Dutch Auction for 6.0 mln shrs.</title>
+<headline>Stac sets Dutch Auction for 6.0 mln shrs.</headline>
+<dateline>SAN DIEGO 1997-08-14</dateline>
+<text>
+<p>Stac Inc Thursday announced a Dutch Auction tender offer for up to 6.0 million shares of its common stock, beginning today and expiring Sept. 11, unless extended.</p>
+<p>Terms of the offer include a purchase price ranging from $4.75 to $5.50 a share, net to the seller in cash.</p>
+<p>The offer replaces Stac's plans to buy back $20 million of its common stock. As of August 13, the company had repurchased about 165,000 shares, leaving 30.6 million shares outstanding.</p>
+<p>The offer's dealer manager is Smith Barney Inc.</p>
+<p>Shares of Stac were up 11/16 at 4-13/16 by mid-morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

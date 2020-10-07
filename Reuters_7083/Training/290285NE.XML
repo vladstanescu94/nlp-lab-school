@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="290285" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Mechanical Dynamics sees Q4 below consensus.</title>
+<headline>Mechanical Dynamics sees Q4 below consensus.</headline>
+<dateline>ANN ARBOR, Mich. 1997-01-07</dateline>
+<text>
+<p>Mechanical Dynamics Inc, a supplier of software and services for the virtual prototyping market, said on Tuesday its fourth-quarter revenue rose by about 10 percent from a year ago but both revenue and earnings fell short of investment analysts' estimates.</p>
+<p>The company said street expectations were for quarterly earnings of $0.16 per share on revenues in a range of $7.4 million to $7.6 million. A year ago, the company earned $0.10 a share in the quarter on revenues of $6.0 million.  </p>
+<p>President Michael Korybalski attributed the company's disappointing fourth-quarter performance primarily to lower-than-expected revenue from the Asia/Pacific region.</p>
+<p>&quot;Another contributing factor was the strength of the U.S. dollar versus the Japanese yen and German mark,&quot; he said in a statement.</p>
+<p>Korybalski added, &quot;While we had expected better performance in the fourth quarter, we remain extremely positive about our immediate and long-term growth prospects. Demand for our ADAMS virtual prototyping software remains strong worldwide, and we're seeing increasing acceptance of the new products we're bringing to market, especially our ADAMS/Car specialized vehicle simulation software.&quot;</p>
+<p>Mechanical Dynamics will report results for the quarter and year ended December 31 later this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANN ARBOR, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

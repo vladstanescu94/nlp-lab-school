@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238815" id="root" date="1996-12-05" xml:lang="en">
+<title>JAPAN: Microsoft plans Japan version of Net sale software.</title>
+<headline>Microsoft plans Japan version of Net sale software.</headline>
+<dateline>TOKYO 1996-12-05</dateline>
+<text>
+<p>Microsoft Co Ltd, a Japanese unit of U.S. software giant Microsoft Corp, said on Thursday it would offer a Japanese version of its Merchant Server software for businesses to sell products over the Internet.</p>
+<p>A Microsoft spokesman said the Japanese version of its Merchant Server Version 1.0 will go on sale on February 3 in Japan, following the launch of the original version in the United States earlier this year.</p>
+<p>Server licences will cost 1.95 million yen and administration licences, required to host a live domain, will be 480,000 yen, it said in a statement. But it will offer administration licences at a special price of 320,000 yen during a campaign period until next June 30.</p>
+<p>Merchant Server enables companies to establish selling sites on the Internet's World Wide Web with minimal development costs, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191410" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: H-P says to unveil encryption breakthrough.</title>
+<headline>H-P says to unveil encryption breakthrough.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-15</dateline>
+<text>
+<p>Hewlett-Packard Co said Chairman and Chief Executive Lewis Platt will on Monday unveil a breakthrough in the long-deadlocked encryption debate which will be &quot;a milestone&quot; in enabling widespread deployment and use of electronic commerce.</p>
+<p>A spokesman for the Palo Alto-based computer giant said Platt will provide details of the arrangement, which he said is backed by Washington and other governments, at a news briefing at the National Press Club on Monday morning.</p>
+<p>Executives from microprocessor giant Intel Corp and Microsoft Corp will also speak at the briefing.  </p>
+<p>Hewlett-Packard officials said the advance which Platt will detail on Monday involves technology patented by Hewlett-Packard which can be used to rresolve a long-standing standoff between Washington and Silicon Valley.</p>
+<p>&quot;It involves a framework for secure electronic commerce and Internet transactions,&quot; a Hewlett-Packard spokesman said of the technology, which he said has been backed by U.S. and other, unspecified governments.</p>
+<p>The spokesman declined to provide further details about the technology, however, saying this would be outlined in detail at the Washington, D.C. news conference.  </p>
+<p>The Clinton administration has kept in place export restrictions dating back to the Cold War which bar the export of certain strong encryption technology without a license under U.S. munitions control laws.</p>
+<p>Washington argues that the most advanced capabilities to encode computer traffic should be able to be read by the government for law enforcement purposes.</p>
+<p>But the computer industry argues the restriction of exports on strong encryption only harms U.S. companies, since overseas companies have no similar constraints. Also foreign companies and governments may not want U.S. surveillance, they add.  </p>
+<p>Microsoft Senior Vice President Brad Silverberg and Intel Senior Vice President Ron Smith would also make presentations at the briefing in Washington on Monday.</p>
+<p>Hewlett-Packard officials also said the technology of RSA Data Security Inc, the computer security pioneer acquired this year by Security Dynamics Technologies Inc was also involved in the Monday announcement.</p>
+<p>RSA Data has become a de-facto standard-setter for security over the Internet by licensing rights and technology to use its public key encryption systems. H-P declined to identify other companies or technology that may be involved.</p>
+<p>Secure coding is viewed as critical for electronic commerce, which is poised to take off next year, but the industry has been worried over continued U.S. restrictions.</p>
+<p>Silicon Valley executives have said the use of so-called &quot;strong cryptography&quot; -- using secure key codes of 128 bits, or characters, to encode and decode signals -- in a television Internet browsing box designed by Palo Alto startup WebTV Networks has brought new light to the debate.</p>
+<p>WebTV's service is used by ordinary Americans for simple tasks like browsing the Web, they note, but the encryption technology is similar to that used by the military.</p>
+<p>Executives have said that by using the technology to reassure consumers that their communications are secure, WebTV has demonstrated it should be used more widely than top-security military and government communications.</p>
+<p>An HP spokeswoman declined to discuss levels of encryption which would be addressed, but said the technologies will be able to be used as the moving target of increasingly-strong encryption advances into the future.</p>
+<p>&quot;This is going to allow very strong encryption,&quot; the spokeswoman said, adding this may be an understatement.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau, +1415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

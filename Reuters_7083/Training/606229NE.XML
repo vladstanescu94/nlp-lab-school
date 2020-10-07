@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="606229" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Microsoft, Netscape fight over push power.</title>
+<headline>Microsoft, Netscape fight over push power.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO, Calif. 1997-05-21</dateline>
+<text>
+<p>Microsoft Corp. and Netscape Communications Corp. Wednesday escalated efforts to move Internet software from simple Web browsers to so-called push technologies that end the need to surf the Web for information and allow users to poll Internet sites for updates.</p>
+<p>Both companies announced partnerships for companies that want to publish directly on the Internet and corporate intranets, or self-contained company networks.</p>
+<p>Push technology has become the lastest battleground between Internet software pioneer Netscape and the largest independent software company, Microsoft. Microsoft promotes a standard known as Channel Definition Format, while Netscape has the channel finder.</p>
+<p>&quot;The key thing we're doing on our site is trying to communicate to people how easy it is to create channels for Netscaster,&quot; said Rosanne Siino, vice president of corporate communications at Netscape.</p>
+<p>Microsoft's latest strategy is to provide information suppliers a spot on its planned Internet Explorer Administration Kit 4.0 to allow corporate information managers to customize information to be delivered internally.</p>
+<p>By taking this approach, Microsoft is providing sales opportunities for providers, but also giving corporate customers the ability to block or control the channels employees pay for and use.</p>
+<p>Netscape said its channels provide a preview and it expects to act more as an aggregator of information through which customers can subscribe for specific information.</p>
+<p>But increased traffic by people sending out Internet &quot;crawlers&quot; to check Web sites for updates are still a problem for corporations that want to avoid network congestion.</p>
+<p>One Microsoft representative said of his company's technology, &quot;It's really smart pulling, it's not pushing.&quot;</p>
+<p>For more businesses that require instant data, Microsoft said users may need multicast capabilities such as the publish and subscribe technology developed by Tibco Software Inc.</p>
+<p>Tibco said it will support Microsoft Internet Explorer 4.0 and Microsoft's CDF standard to enable the broadcast of real-time information over the World Wide Web.</p>
+<p>Tibco, based in Palo Alto, Calif., was acquired by Reuters Holdings Plc in 1994. Earlier Wednesday, Cisco Systems Inc. said it purchased a minority equity stake in Tibco.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

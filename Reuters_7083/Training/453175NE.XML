@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453175" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: AFTER THE BELL - Intel Corp keeps falling.</title>
+<headline>AFTER THE BELL - Intel Corp keeps falling.</headline>
+<dateline>NEW YORK 1997-03-19</dateline>
+<text>
+<p>Intel Corp, which fell 3-3/8 during regular trading hours, continued its decline after the bell on Wednesday, traders said.</p>
+<p>&quot;Intel's trading a little lower after the close, at 132-7/8,&quot; one trader said. Intel had closed at 133-3/8.</p>
+<p>Also moving down was Avant! Corp, which fell a point to 25-3/4 after the close. Avant! had gained two points during regular trading hours.</p>
+<p>Speedfam International Inc rose more than a point, to 34-1/4 from 333, after releasing third-quarter results. During regular trading hours the stock had plunged 4-1/4 points.  </p>
+<p>The New York Stock Exchange said session one volume was 26,700, while it was 31,700 on Tuesday. Session two volume was 3,617,892, compared to 192,400 on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

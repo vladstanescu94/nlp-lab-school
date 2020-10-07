@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40540" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Oracle sees NC equipment given away free.</title>
+<headline>Oracle sees NC equipment given away free.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-09-09</dateline>
+<text>
+<p>A new type of computer made with Oracle Corp's vaunted &quot;network computer&quot; technology will be given away free to consumers by a major U.S. telephone company in about six months, Oracle said on Monday.</p>
+<p>Larry Ellison, Oracle chairman and chief executive officer, said the telephone concern, which he would not name, intended to use the units to promote network services such as Internet access. It would give the equipment away much in the way wireless companies give away cellular telephones to those who buy their services.  </p>
+<p>Preparing for the September launch of its Network Computer NCsoftware product, Oracle's Ellison revealed a few details about the product to a group of reporters.</p>
+<p>Network computers, or &quot;NCs,&quot; as envisioned by Oracle, are inexpensive, stripped-down computers suitable for sending e-mail and browsing the Internet or other networks. They would use the network as their operating system. Having no memory or disk drive, the equipment will be unable to handle applications without access to a network.</p>
+<p>Manufacturers that will sell equipment based on Oracle's NC technology include most personal computer makers, he said.  </p>
+<p>&quot;Everyone who makes PCs will also make NCs, even if they don't know it,&quot; he said, predicting that market forces will eventually compel most personal computer makers to make network computers.</p>
+<p>The initial appliances will be based on RISC microprocessing technology made by Advanced Risc Machines Ltd. Versions due out in a few more months will be based on Intel Corp microprocessors, he said.</p>
+<p>For its software, Oracle will charge $25 per machine to the manufacturers, which will then set retail prices for the equipment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

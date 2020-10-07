@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183362" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Delphi Information Systems Inc Q2 loss.</title>
+<headline>Delphi Information Systems Inc Q2 loss.</headline>
+<dateline>ROLLING MEADOWS, Ill. 1996-11-12</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>				     1996	1995     1996     1995</p>
+<p>					    (Unaudited)   (Unaudited)</p>
+<p> Total revenues		  7,243   11,271   15,412   23,292</p>
+<p> Total costs of revenues     5,631    7,436   11,448   15,101</p>
+<p> Total gross margin	    1,612    3,835    3,964    8,191</p>
+<p> Total operating expenses    5,543    4,977   10,003    9,972</p>
+<p> Loss from operations	(3,931)  (1,142)  (6,039)  (1,781)</p>
+<p> Interest income (expense) net  21    (169)	 27    (310)</p>
+<p>Loss before income taxes  (3,910)  (1,311)  (6,012)  (2,091)</p>
+<p> Provision for income taxes	7     (26)     (28)     (57)</p>
+<p> Net loss			(3,903)  (1,337)  (6,040)  (2,148)</p>
+<p> Net loss per share	   (0.13)   (0.16)   (0.21)   (0.26)</p>
+<p> Weighted average shares    30,374    8,551   29,347    8,334</p>
+<p>Net loss without</p>
+<p>   restructuring charges   (2,606)  (1,337)  (4,743)  (2,148)</p>
+<p>Net loss per share without</p>
+<p>   restructuring charges    (0.09)   (0.16)   (0.16)   (0.26)</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROLLING MEADOWS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

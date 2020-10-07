@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213427" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: XOX completes IPO, raises about $5 mln.</title>
+<headline>XOX completes IPO, raises about $5 mln.</headline>
+<dateline>ST. PAUL, Minn. 1996-11-25</dateline>
+<text>
+<p>XOX Corp said Monday it completed its initial public offering of 870,000 units and raised net proceeds of about $5 million.</p>
+<p>It said the offering consisted of 870,000 units including 20,000 additional units purchased and sold by the underwriter for an over-allotment option.</p>
+<p>Each unit was priced at $7 and consisted of one share of common stock and one warrant to buy a share of common at $8 per share.</p>
+<p>The company develops specialized geometry software and licenses it to applications software developers in the geoscience, CAD/CAM, scientific visualization and medical imaging industries. Equity Securities Trading Co Inc underwrote the initial offering.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

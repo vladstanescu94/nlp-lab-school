@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="761944" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: TABLE - Mentor Graphics Corp Q2 results.</title>
+<headline>TABLE - Mentor Graphics Corp Q2 results.</headline>
+<dateline>WILSONVILLE, Ore. 1997-07-29</dateline>
+<text>
+<p>MENTOR GRAPHICS CORPORATION</p>
+<p>		    CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>	    (In thousands, except net income (loss) per share)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>						 June 30,    June 30,</p>
+<p>					1997     1996     1997     1996</p>
+<p>Revenues:</p>
+<p> System and software	$ 56,437 $ 65,801 $111,877 $127,028</p>
+<p> Service and support	  58,201   51,478  104,320   99,304</p>
+<p>  Total revenues	     114,638  117,279  216,197  226,332</p>
+<p>Cost of revenues:</p>
+<p> System and software	  10,854   10,483   30,007   21,226</p>
+<p> Service and support	  26,816   22,907   55,490   45,725</p>
+<p>  Total cost of revenues    37,670   33,390   85,497   66,951</p>
+<p>  Gross margin		  76,968   83,889  130,700  159,381</p>
+<p>Operating expenses:</p>
+<p> Research and development   26,903   21,532   54,180   45,229</p>
+<p> Marketing and selling	37,102   35,899   76,852   70,471</p>
+<p>General and administration</p>
+<p>				    10,132    9,973   20,421   19,980</p>
+<p> Special charges		    --	 --    8,560    4,410</p>
+<p>Merger and acquisition</p>
+<p>  related charges		   --   12,423	 --   12,423</p>
+<p>  Total expenses		74,137   79,827  160,013  152,513</p>
+<p>  Operating income (loss)    2,831    4,062  (29,313)   6,868</p>
+<p>Other income (expense), net</p>
+<p>				     1,362    (165)    1,877    1,640</p>
+<p>Income (loss) before income</p>
+<p>   taxes			   4,193    3,897  (27,436)   8,508</p>
+<p>Provision (benefit) for</p>
+<p>  income taxes		     461    1,370  (3,019)    2,210</p>
+<p>  Net income (loss)	    3,732    2,527 (24,417)    6,298</p>
+<p>Net income (loss) per common</p>
+<p> and common equivalent share   .06	.04    (.38)	.10</p>
+<p>Weighted average number of</p>
+<p>common and common equivalent</p>
+<p> shares outstanding	   64,825   65,692   64,848   65,451</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILSONVILLE, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

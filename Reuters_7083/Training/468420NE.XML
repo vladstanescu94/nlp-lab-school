@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468420" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: IBM, Hewlett-Packard in UNIX marketing pact.</title>
+<headline>IBM, Hewlett-Packard in UNIX marketing pact.</headline>
+<dateline>SOMERS, N.Y. 1997-03-26</dateline>
+<text>
+<p>International Business Machines Corp and Hewlett-Packard Co on Wednesday said they had formed an alliance to develop and market IBM software products on current and future HP platforms.</p>
+<p>The companies say they are working together to make sure that users of HP's HP-UX UNIX operating system continue to get a range of choice of IBM software as HP moves to a high end processor, called Merced, developed by HP and Intel Corp.</p>
+<p>The Merced processors are designed to run both HP's version of UNIX and Microsoft Corp's Windows NT systems.</p>
+<p>HP says it expects that this architecture will make its future 64-bit computers significantly faster and more powerful, while keeping them compatible with today's RISC and Intel-based systems.</p>
+<p>&quot;The combination of IBM's Web-enabled software and HP's next-generation computing architecture based on the Merced microprocessor will help customers succeed in an era when the Internet enables customers to make partners, suppliers and multiple locations within the enterprise work as a seamless, integrated organization,&quot; said Richard Sevcik, HP vice president and general manager of the Systems Technology Group.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOMERS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

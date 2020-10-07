@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249914" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Sun Microsystems' Java initiative supported.</title>
+<headline>Sun Microsystems' Java initiative supported.</headline>
+<dateline>NEW YORK 1996-12-11</dateline>
+<text>
+<p>Sun Microsystems Inc said more than 100 companies Wednesday announced their support for its 100 percent Pure Java initiative, a Sun-led effort to help software developers build, market and sell 100 percent Pure Java applications that can be written once and run anywhere.</p>
+<p>Among the companies that announced their support for the initiative were International Business Machines Corp, Apple Computer Inc and Netscape Communications Corp, Sun said.</p>
+<p>Sun said the support will help guarantee Java programs written will run on any Java Compatible virtual machine.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

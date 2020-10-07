@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257995" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: IBM, SAP AG in database/software pact.</title>
+<headline>IBM, SAP AG in database/software pact.</headline>
+<dateline>PHILADELPHIA 1996-12-16</dateline>
+<text>
+<p>SAP AG and International Business Machines Corp Monday said that SAP will use the IBM System/390 platform as a database server for the R/3 System.</p>
+<p>After concluding a 10-month joint-development effort, the companies this month will begin delivering the R/3 Database Server for S/390 to five pilot customers: Amoco Corp, IBM PC Company, a unit of IBM Corp, Lufthansa Systems GmbH, Motorola Inc and Carl Zeiss Jena GmbH.</p>
+<p>SAP and IBM expect to begin a phased rollout of the product in April 1997, and customer availability is planned for mid-1997.</p>
+<p>R/3 is a comprehensive suite of client/server business applications that combines all of the activities within a company into a single, integrated software product.</p>
+<p>IBM S/390 is a platform that helps ensure data security, system availability, integrity and total systems management for applications with large numbers of concurrent users, the company said.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

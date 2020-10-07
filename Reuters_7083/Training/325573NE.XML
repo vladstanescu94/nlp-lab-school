@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325573" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Fourth Shift Corp Q4 full results.</title>
+<headline>Fourth Shift Corp Q4 full results.</headline>
+<dateline>MINNEAPOLIS 1997-01-21</dateline>
+<text>
+<p>Consolidated Statements of Operations</p>
+<p>		  (In thousands, except per share data)</p>
+<p>			    Three months ended  Twelve months ended</p>
+<p>					December 31	  December 31</p>
+<p>					 1996    1995	1996    1995</p>
+<p>				   (Unaudited)</p>
+<p>REVENUE:</p>
+<p> Software license		$7,268  $4,928   $22,947 $17,128</p>
+<p> Service			    6,518   4,969    23,822  18,097</p>
+<p>Third-party software and other</p>
+<p>					  638     875     2,541   1,999</p>
+<p>     Total revenue	     14,424  10,772    49,310  37,224</p>
+<p>OPERATING EXPENSES:</p>
+<p> Cost of licenses		   896     495     2,601   1,708</p>
+<p> Cost of services		 3,368   2,411    11,747   8,868</p>
+<p>Cost of third-party software</p>
+<p>  and other			   537     650     2,008   1,386</p>
+<p>Selling, general and</p>
+<p>  administrative		  7,059   5,040    23,046  18,720</p>
+<p> Product development	    2,322   1,669     8,674   5,732</p>
+<p> Restructuring charge		 -	 -	   -     149</p>
+<p>Total operating expenses</p>
+<p>				     14,182  10,265    48,076  36,563</p>
+<p> Operating profit		   242     507     1,234     661</p>
+<p> Other expense, net		(77)    (44)	(36)   (158)</p>
+<p>INCOME FROM CONTINUING</p>
+<p>OPERATIONS BEFORE PROVISION</p>
+<p>  FOR INCOME TAXES		  165     463     1,198     503</p>
+<p>Provision for income taxes</p>
+<p>					   11     115	 189     298</p>
+<p>INCOME FROM CONTINUING</p>
+<p> OPERATIONS			   154     348     1,009     205</p>
+<p>DISCONTINUED OPERATIONS:</p>
+<p>Income (loss) from discontinued</p>
+<p>  operations			   -     165	   -  (7,642)</p>
+<p>Net gain on sale of discontinued</p>
+<p>  operations			  196   2,037	 761   2,037</p>
+<p> Total discontinued operations 196   2,202	 761  (5,605)</p>
+<p> NET INCOME (LOSS)		  350   2,550     1,770 (5,400)</p>
+<p>EARNINGS (LOSS) PER COMMON SHARE:</p>
+<p> Continuing operations	   0.02    0.04	0.10    0.02</p>
+<p> Discontinued operations	 0.02    0.23	0.08  (0.59)</p>
+<p> Net income (loss)		 0.04    0.27	0.18  (0.57)</p>
+<p>SHARES USED IN PER COMMON SHARE</p>
+<p> COMPUTATION			9,904   9,563     9,865   9,452</p>
+<p>((--Chicago Newsdesk 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

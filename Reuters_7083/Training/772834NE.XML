@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="772834" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: TABLE - Dataflex Corp Q1 net, shr rise.</title>
+<headline>TABLE - Dataflex Corp Q1 net, shr rise.</headline>
+<dateline>CLEARWATER, Fla 1997-08-01</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr     profit  $0.06	    loss  $0.10</p>
+<p> Net     profit  378		loss  534</p>
+<p> Revs		34,578		   86,031</p>
+<p> Avg shrs	  6,149		    5,482</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTES: The company attributed the decline in revenues to the sale  of its Eastern and Midwestern divisions on October 4, 1996, and the  sale of the Education division in April. Excluding the impact of the  sale of the Eastern, Midwestern and Education divisions, revenues  decreased by $3.2 million from the year-ago period, due to what the  company said was a decrease in hardware sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEARWATER, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

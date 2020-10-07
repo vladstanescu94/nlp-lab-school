@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773598" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: TABLE - TSI International Q2 shr rises.</title>
+<headline>TABLE - TSI International Q2 shr rises.</headline>
+<dateline>WILTON, Conn. 1997-07-31</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				  Quarter Ended	Six Months Ended</p>
+<p>					June 30		  June 30</p>
+<p>				   1997     1996	  1997     1996</p>
+<p>Revenues</p>
+<p>    Software Licensing    $3,175  $1,878     $ 5,906   $3,661</p>
+<p>Service, Maintenance</p>
+<p>     and Other		 2,980   2,358	 5,757    4,664</p>
+<p>    Total Revenues	   6,155   4,236	11,663    8,325</p>
+<p> Cost of Revenues		666     555	 1,388    1,080</p>
+<p> Gross Profit		  5,489   3,681	10,275    7,245</p>
+<p> Operating Expenses	  5,150   3,460	 9,584    6,862</p>
+<p> Operating Income		339     221	   691	383</p>
+<p>Other Income</p>
+<p>		 (Expense), Net (72)    (35)	 (111)     (76)</p>
+<p> Net Income			267     186	   580	307</p>
+<p> Net Income Per Share	 0.04    0.03	  0.09     0.05</p>
+<p>Weighted average no.</p>
+<p>of common and common</p>
+<p>equivalent shares</p>
+<p> outstanding:		  6,561   5,880	 6,510    5,805</p>
+<p>NOTE - Full company name is TSI International Software Ltd</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILTON, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

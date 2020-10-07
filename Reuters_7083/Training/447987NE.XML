@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="447987" id="root" date="1997-03-17" xml:lang="en">
+<title>DUBAI: Saudi software producers form anti-piracy group.</title>
+<headline>Saudi software producers form anti-piracy group.</headline>
+<dateline>DUBAI 1997-03-17</dateline>
+<text>
+<p>Nine local software producers have formed an association to combat software piracy in Saudi Arabia where analysts say nine out of 10 programmes are unlicensed, the Arabic-language al-Hayat daily said on Monday.</p>
+<p>&quot;A subcommittee of the group would operate under the umbrella of the Riyadh Chamber of Commerce and in coordination with the international Business Software Alliance (BSA),&quot; the London-based newspaper said.</p>
+<p>&quot;The group aims at limiting losses resulting from software piracy (in Saudi Arabia), which the BSA put at $120 million in 1995,&quot; a group spokesman was qouted by al-Hayat as saying at a news conference in Riyadh.</p>
+<p>Saudi authorities in December raided several outlets of pirated software, seizing programmes worth $2 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

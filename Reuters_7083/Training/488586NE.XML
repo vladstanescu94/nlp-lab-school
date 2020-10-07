@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488586" id="root" date="1997-04-04" xml:lang="en">
+<title>UK: FEATURE - Technology pretenders see millennium bug opportunity.</title>
+<headline>FEATURE - Technology pretenders see millennium bug opportunity.</headline>
+<dateline>LONDON 1997-04-04</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>While industrialised nations nervously await fallout from the millennium computer bug, developing countries can afford to be a little smug.</p>
+<p>Technology leaders like the United States are the most exposed to computer failure, but some emerging countries are likely to prevail for two reasons.</p>
+<p>They are too poor to have &quot;modernised&quot; their industries with computers and therefore don't fear any catastrophic failure as clocks tick past midnight on December 31, 1999.</p>
+<p>And many countries like India and Ukraine have invested heavily in training computer specialists who can make fortunes helping to sort out the problems for western companies.</p>
+<p>At the end of 1999 many computers will either crash, or start pumping out erroneous data because of shortcuts taken by programmers in the 1970s and 1980s.</p>
+<p>Programmers tried to save computer memory by abbreviating years to &quot;81&quot; or &quot;97&quot;. But as the next century dawns, this short cut will explode inside many computers when they read the year 2000 as a meaningless 00.</p>
+<p>INDUSTRIALISED NATIONS BIG MILLENNIUM BUG LOSERS</p>
+<p>Not surprisingly countries and industries which invested most in computers will suffer the most from any failures. They will have to spend heavily to fix the problem.</p>
+<p>&quot;Although the Year 2000 problem is of global concern, it is starting to appear that the most heavily industrialised and computer-intensive countries are going to bear the brunt of the expenses -- the United States, Japan, Germany, France, Britain and Brazil will probably be the most heavily impacted,&quot; said a report by Capers Jones, chairman of Software Productivity Research (SPR), a research firm based in Burlington, Massachusetts.</p>
+<p>Jones said crashing company computers could isolate businesses from customers, freeze cash flow, and inevitably lead to the demise of some firms.</p>
+<p>Some business sectors were particularly vulnerable.</p>
+<p>&quot;The industries most likely to be affected are those that utilise software for key business operations: banks, brokers, health care, insurance, manufacturing, retail, wholesale. All of these probably have a two percent chance of going out of business or declaring bankruptcy to stave off damages and litigation,&quot; Jones said.</p>
+<p>&quot;Some business failure will probably occur, especially among mid-sized financial and insurance companies which have lagged in beginning Year 2000 repairs,&quot; Jones said.</p>
+<p>LOCAL, NATIONAL GOVERNMENTS LOOK VULNERABLE</p>
+<p>&quot;Perhaps the most hazardous of any of these is not an industry at all, but the effect of the Year 2000 problem on state, provincial, country and city government operations,&quot; Jones said.</p>
+<p>Experts in Europe have similar worries.</p>
+<p>Robin Guenier, executive director of Britain's Taskforce 2000, doesn't believe there will be catastrophic breakdowns from the millennium bug, but fears a creeping fracture of civilised society from an accumulation of small problems.</p>
+<p>&quot;We don't see major disasters on 2000, we're not going to see nuclear power stations blowing up or planes falling out of the sky,&quot; Guenier said.</p>
+<p>&quot;I fear a series of incremental problems nibbling at the infrastructure. Social security payments being calculated wrongly, intermittent failure of power supplies, railway breakdowns, and some food and commodity shortages.</p>
+<p>&quot;There really could be a social crisis if this begins to happen. People will get angry and point to those at the top and say 'Why is this happening',&quot; Guenier said.</p>
+<p>INDIA, CHINA EYE U.S. SOFTWARE LEADERSHIP</p>
+<p>While trouble brews in the West, unlikely pretenders will be gearing up.</p>
+<p>&quot;A possible outcome of the Year 2000 problem is that the United States will lose its dominant market position in the software industry,&quot; SPR's Jones said.</p>
+<p>&quot;Countries such as India, China, Russia, and Ukraine will gain market share since they are not as heavily impacted by Year 2000 work, and will have a substantial surplus of software technical personnel while the U.S. enters a period of shortage.&quot;</p>
+<p>Millennium bug problems won't just cluster around New Year's day, 2000.</p>
+<p>There is the leap year date in February, and later in the year on the 10th October, 2000, computers will have to handle the first 10 digit date.</p>
+<p>Jones said expense and disruption will persist for years, as repairs fail, fixes themselves induce breakdowns, and law suits fly.</p>
+<p>EMU PREPARATIONS CRIPPLE EUROPE'S BUG PLANS</p>
+<p>In Europe, pressure to repair software for 2000 is hampered by demand for programmers to prepare for monetary union. EMU can be postponed but 2000 can't.</p>
+<p>&quot;Europe is concentrating on EMU rather than 2000. All computer projects come in late and over budget and under specification, and coming in late for 2000 is not a very good idea,&quot; said Anthony Parish, director general of Britain's Federation of the Electronics Industry.</p>
+<p>Taskforce 2000's Guenier is also worried about EMU's impact.</p>
+<p>&quot;We are very bad at doing projects on time and to do two at the same time is astonishingly daring. 1999 is the worst possible year to pick (for EMU),&quot; Guenier said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEVGCO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

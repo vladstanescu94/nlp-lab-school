@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551453" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS -- Issues to watch - April 30.</title>
+<headline>U.S. HEADLINE STOCKS -- Issues to watch - April 30.</headline>
+<dateline>NEW YORK 1997-04-30</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>* Occidental Petroleum Corp president says trading boosted revenues -- Wall Street Journal.</p>
+<p>* Union Pacific Corp to join Mexico rail bid -- Wall Street Journal.</p>
+<p>* Columbia/HCA Healthcare Corp, Seagram Co Ltd among companies reporting financial results today.  </p>
+<p>* Apple Computer Inc has no comment on decision by Oracle Corp Chairman Larry Ellis to put off, for now, his attempt to gain control of Apple.</p>
+<p>* Wisconsin Central Transportation Corp Q1 net rises.</p>
+<p>((--Wall Street Desk (212) 859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

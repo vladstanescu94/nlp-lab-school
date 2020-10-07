@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107220" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surprise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surprise data.</headline>
+<text>
+<p>Earnings surprise for October 10, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks.</p>
+<p>COMPANY		 ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>OPTIKA IMAGING	    0.02     0.03	50.00%</p>
+<p>BURLINGTN RES	     0.43     0.62	44.19%</p>
+<p>GRACO INC		   0.42     0.58	38.10%</p>
+<p>REPUBLIC GROUP	    0.35     0.47	34.29%</p>
+<p>PLUM CREEK LP	     0.59     0.75	27.12%</p>
+<p>BARNES GRP		  1.04     1.31	25.96%</p>
+<p>TELETECH HLDGS	    0.06     0.07	16.67%</p>
+<p>MEDIA GENL A		0.51     0.59	15.69%</p>
+<p>FIRST ESSEX BCP	   0.36     0.41	13.89%</p>
+<p>MISSISSIPPI VY	    0.67     0.76	13.43%</p>
+<p>MATHSOFT INC	     -0.02    -0.05    -150.00%</p>
+<p>INTL RECTIFIER	    0.17     0.06     -64.71%</p>
+<p>CHOCK FULL NUTS	   0.07     0.04     -42.86%</p>
+<p>FRANKLIN ELECTRIC	 0.46     0.30     -34.78%</p>
+<p>EXABYTE CORP		0.23     0.17     -26.09%</p>
+<p>ENRON OIL &amp; GAS	   0.25     0.20     -20.00%</p>
+<p>STOLT-NIELSEN	     0.81     0.68     -16.05%</p>
+<p>MICHAEL FOODS	     0.08     0.07     -12.50%</p>
+<p>PHELPS DODGE CO	   1.35     1.22	-9.63%</p>
+<p>MILLIPORE CORP	    0.52     0.47	-9.62%</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I24100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

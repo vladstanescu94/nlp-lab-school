@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="390033" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: SAP to resell Aspect software.</title>
+<headline>SAP to resell Aspect software.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1997-02-20</dateline>
+<text>
+<p>SAP AG said Thursday it agreed to resell Aspect Development Inc's line of manufacturing software products along with its own suite of manufacturing computer programs.</p>
+<p>Terms were not disclosed.</p>
+<p>The agreement with SAP gives Aspect, a fledgling software company, huge clout in the rapidly growing manufacturing management software niche, analysts said.</p>
+<p>&quot;Aspect is a company with 65 customers that's going to be resold by a company with 9,000 customers,&quot; said Chris Mortenson, analyst at Alex. Brown &amp; Sons Inc.</p>
+<p>Aspect announced the agreement after the market closed. Its shares rose 1-1/8 to 30-1/8.</p>
+<p>Aspect, based in Mountain View, Calif, writes computer programs that help manufacturers keep track of parts, costs and their suppliers. SAP, based in Walldorf, Germany, writes software that helps the world's biggest companies plan and keep track of entire manufacturing processes -- from product design to production to transportation.</p>
+<p>&quot;We have a number of customers that are anxious to integrate Aspect's solution with ours,&quot; said Alex Ott, vice president of global partnerships at SAP.</p>
+<p>As part of the agreement, SAP's sales force will be trained to sell Aspect's software, the companies said. SAP also will pitch Aspect products as a compliment to its own R/3 enterprise resource planning software.</p>
+<p>The agreement is a strong endorsement for Aspect because SAP rarely resells the products of other companies, said Eric Upin, an analyst at Robertson Stephens &amp; Co.</p>
+<p>&quot;With SAP, Aspect can theoretically have more feet on the street than any other company&quot; in the niche, Upin said.</p>
+<p>Romesh Wadhwani, Aspect chief executive and chairman, declined to estimate by how much the agreement could boost Aspect's revenue but said &quot;it clearly will have a positive impact.&quot;</p>
+<p>In 1996, Aspects' revenue almost doubled to $24.2 million from the year before. The company went public last spring.</p>
+<p>-- Kourosh Karimkhany, in Palo Alto, +1 415 846 5401</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

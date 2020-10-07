@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="513272" id="root" date="1997-04-16" xml:lang="en">
+<title>JAPAN: Oracle CEO knocks Microsoft, touts NC system.</title>
+<headline>Oracle CEO knocks Microsoft, touts NC system.</headline>
+<byline>Yuko Inoue</byline>
+<dateline>TOKYO 1997-04-16</dateline>
+<text>
+<p>Oracle Corp's outspoken chief executive officer Larry Ellison on Wednesday launched a new salvo at Microsoft Corp, stating that information and computers do not belong to &quot;one company and one person&quot;.</p>
+<p>Ellison, a major promoter of new stripped-down, low-cost network computers (NCs) that can access the Internet, said one of the problems of personal computers was that they depended on Microsoft's Windows software.</p>
+<p>&quot;Windows belongs to one company and one person...but information never belongs to one country, one company, one person,&quot; Ellison said.</p>
+<p>He touted the advantages of NCs, saying they were simple, inexpensive and easy for everyone to build, while PCs were &quot;expensive and complex&quot;.</p>
+<p>Ellison made the comments during the Oracle Open World exhibition in Tokyo, where Oracle and 30 Japanese partners supporting NCs displayed their NC software.</p>
+<p>The 30 manufacturers and systems integrators included NEC Corp and Akai Electric Co.</p>
+<p>&quot;Now, our NC project has moved on to reality from vision,&quot; said Tsutomu Sano, president of Oracle's Japan unit.</p>
+<p>Ellison said in a news conference that he expected sales of 100 million NC units in 2000.</p>
+<p>This would represent 90 percent of the global market for personal-use computers.</p>
+<p>&quot;Network computers will greatly outsell personal computers (PCs),&quot; he said.</p>
+<p>Ellison said Oracle and its partners planned to package five client appliances and one server, together with cables, keyboards and other equipment necessary for a complete network, for $4,999.</p>
+<p>The product would be called &quot;Network in a Box&quot;, he said.</p>
+<p>Ellison said the cost of a network computer terminal would range from $295 to $795. The cost of a server would range from $1,495 to $9,999.</p>
+<p>Oracle last year formed a new company to promote network computers.</p>
+<p>International Business Machines Corp, Apple Computer Inc, Netscape Communications Corp and Sun Microsystems Inc have expressed support for the idea of network computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

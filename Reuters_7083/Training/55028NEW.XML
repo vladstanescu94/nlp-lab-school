@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55028" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Microsoft sees wave of handheld devices.</title>
+<headline>Microsoft sees wave of handheld devices.</headline>
+<dateline>SEATTLE 1996-09-16</dateline>
+<text>
+<p>Microsoft Corp executives said Monday they expected the first wave of products based on the new Windows CE operating system to be shipped before or shortly after the Comdex trade show in November.</p>
+<p>Casio Computer Co Ltd, Hewlett-Packard Co, LG Electronics Inc, Philips Electronics NV and NEC Corp will announce Windows-based &quot;handheld personal computers&quot; in November, Microsoft senior vice president Craig Mundie said in a conference call.  </p>
+<p>The initial products will be based on so-called RISC and MIPS microprocessors, although the operating system also is compatible with the X86 processors made by Intel Corp and others and used in most personal computers.</p>
+<p>A key feature of the new devices is that users will be able to place them in a &quot;docking cradle&quot; that will automatically synchronize all information between the handheld unit and desktop computer, Mundie said in the call with reporters and analysts.  </p>
+<p>Ultimately the Windows CE operating system will be adapted for other devices, such as two-way pagers and &quot;smart&quot; telephones with Internet capability likely to be available in 1997, Mundie said.</p>
+<p>He also said the Windows CE platform will be the basis for Microsoft's planned system for television set-top boxes. While Microsoft has been working for several years on the interactive television project, the needed infrastructure has been slow to develop.  </p>
+<p>Microsoft officials said the handheld personal computers, or HPCs, will be small enough to fit in a coat pocket and feature a &quot;clamshell&quot; design with a small monochrome screen on one side and a tiny but standard typewriter-style keyboard on the other.</p>
+<p>The operating system will include a personal information manager, a version of the Internet Explorer browser, an electronic mail client and applications based on the company's Office suite of productcs, Mundie said.</p>
+<p>The devices also will have a touch-sensitive screen that can be used in conjunction with a stylus or fingertip, and a user interface very similar or identical to the Windows 95 system of desktop folders.</p>
+<p>Mundie said the devices will be designed to run normally for several weeks on two AA batteries.</p>
+<p>Mundie said previous &quot;personal digital assistants&quot; and similar devices had failed in part because of their reliance on handwriting recognition technology that worked poorly.</p>
+<p>He said the company expected keyboard and touch-screen inputting to remain more popular in the United States, while handwriting systems were likely to continue to gain favor in Asia.</p>
+<p>			     -- Martin Wolk 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

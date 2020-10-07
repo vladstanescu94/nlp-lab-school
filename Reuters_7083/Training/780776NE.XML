@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780776" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Scanvec names Rothman as new president.</title>
+<headline>Scanvec names Rothman as new president.</headline>
+<dateline>NEW YORK 1997-08-06</dateline>
+<text>
+<p>ScanVec Co said on Wednesday that it had appointed Shmuel Rothman as president and chief executive officer, effective immediately.</p>
+<p>In a statement, ScanVec said Rothman will be responsible for the company's worldwide operations, which includes ScanVec Inc, the company's U.S. subsidiary.</p>
+<p>Rothman previously served in senior management positions at ELTA, Electronic Industries Inc, a subsidiary of Israel Aircraft Industries, ScanVec said.</p>
+<p>Ramon Harel, who held the position of chairman and chief executive before Rothman's placement, will now assume full time responsibilities as chairman of the board, the company said.</p>
+<p>ScanVec Co designs software for the graphic arts, textile and machining industries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

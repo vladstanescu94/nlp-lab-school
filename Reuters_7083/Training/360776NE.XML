@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360776" id="root" date="1997-02-06" xml:lang="en">
+<title>INDIA: India Tata plans to integrate software companies.</title>
+<headline>India Tata plans to integrate software companies.</headline>
+<dateline>BOMBAY 1997-02-06</dateline>
+<text>
+<p>India's Tata group is trying to integrate operations of the various software companies within its fold, its chairman said on Thursday.</p>
+<p>&quot;Consolidation (of these firms into one firm) is a difficult issue,&quot; Tata group chairman Ratan Tata told a news conference.</p>
+<p>&quot;In the first phase, we should see if they can work together in synergy,&quot; Tata said.</p>
+<p>He said his group, India's largest business house, was often criticised by the media for the multiplicity of information technology firms in its fold.</p>
+<p>These include Tata Consultancy Services, Tata Unisys Ltd (now renamed Tata Infotech) and Tata Elxsi.</p>
+<p>Tata was addressing a news conference to launch a new firm Tata Technologies Ltd to market engineering software in association with SAP AG, Concentra Corporation, Tata Elxsi and Tata Informationn Systems Ltd.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

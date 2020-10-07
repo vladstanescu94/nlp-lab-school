@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149621" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Santa Cruz Operation Q4 net profit.</title>
+<headline>Santa Cruz Operation Q4 net profit.</headline>
+<dateline>SANTA CRUZ, Calif. 1996-10-29</dateline>
+<text>
+<p>(In thousands, except earnings per share)</p>
+<p>				  Three Months Ended    Year Ended</p>
+<p>					Sept. 30,	    Sept. 30,</p>
+<p>				    1996	1995     1996	1995</p>
+<p>Net revenues:</p>
+<p>  Licenses		    $50,162  $41,935  $189,032 $177,534</p>
+<p>  Services			5,052    5,217    18,858   21,795</p>
+<p>  Net revenues		 55,214   47,152   207,890  199,329</p>
+<p>Cost of revenues:</p>
+<p>  Licenses			9,152    8,318    34,135   33,688</p>
+<p>  Services			4,333    5,006    17,769   19,791</p>
+<p> Total cost of revenues    13,485   13,324    51,904   53,479</p>
+<p> Gross margin		  41,729   33,828   155,986  145,850</p>
+<p>Operating expenses:</p>
+<p>Research and development</p>
+<p>				   11,071    8,051    39,009   32,208</p>
+<p>  Sales and marketing	20,386   20,609    79,359   82,493</p>
+<p>General and administrative</p>
+<p>				    5,901    5,097    22,836   19,547</p>
+<p>  Non-recurring charges	   0    3,999    38,363   18,094</p>
+<p>Total operating expenses</p>
+<p>				   37,358   37,756   179,567  152,342</p>
+<p>Operating earnings (loss)</p>
+<p>				    4,371  (3,928)  (23,581)  (6,492)</p>
+<p>Other income (expense):</p>
+<p>   Interest income, net	 646	527     2,302    2,703</p>
+<p>   Other income, net	   (90)    (207)     (394)    (363)</p>
+<p>Profit (loss) before</p>
+<p>    income taxes		4,927  (3,608)  (21,673)  (4,152)</p>
+<p>  Income taxes		    855  (1,028)	 741    1,956</p>
+<p>  Net profit (loss)	   4,072  (2,580)  (22,414)  (6,108)</p>
+<p>Net profit (loss)</p>
+<p>   per share		     0.11   (0.08)    (0.62)   (0.20)</p>
+<p>Common and common equivalents used in</p>
+<p>computing net profit (loss)</p>
+<p>  per share		    38,150   30,896    36,179   30,922</p>
+<p>NOTE: Excluding the after-tax impact of non-recurring</p>
+<p>charges, the year-ago fourth quarter profit was $279,000 or $0.01 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CRUZ, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

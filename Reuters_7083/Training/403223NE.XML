@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403223" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: TouchStone Software Corp Q4 loss narrows.</title>
+<headline>TouchStone Software Corp Q4 loss narrows.</headline>
+<dateline>HUNTINGTON BEACH, Calif. 1997-02-26</dateline>
+<text>
+<p>TOUCHSTONE SOFTWARE CORP.</p>
+<p>		     Consolidated Statements of Operations</p>
+<p>		    Three months ended	    Year ended</p>
+<p>			   Dec. 31,		    Dec. 31,</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p>Revenues:</p>
+<p>Product sales</p>
+<p>		  $ 2,697,982 $ 1,564,234 $ 7,339,192 $12,135,620</p>
+<p>Product return and price</p>
+<p>discount reserves (a)</p>
+<p>			    --  (2,000,000)	   --  (3,100,000)</p>
+<p>   Royalty income  69,846	93,421     327,843     320,125</p>
+<p>Total revenues</p>
+<p>		    2,767,828   (342,345)   7,667,035   9,355,745</p>
+<p> Cost of sales  1,099,063   1,481,634   3,514,794   4,303,217</p>
+<p> Gross profit   1,668,765  (1,823,979)  4,152,241   5,052,528</p>
+<p>Operating expenses:</p>
+<p>Sales and marketing</p>
+<p>		    1,288,246   1,422,935   4,737,533   4,569,990</p>
+<p>General and</p>
+<p>administrative</p>
+<p>			325,208     167,610   1,449,661   1,430,283</p>
+<p>Research and development</p>
+<p>			458,184     284,627   1,470,356     728,624</p>
+<p>Litigation settlement and</p>
+<p>   related costs	 --	    --   1,811,941	    --</p>
+<p>Total operating expenses</p>
+<p>		    2,071,638   1,875,172   9,469,491   6,728,897</p>
+<p>Loss from operations</p>
+<p>		    (402,873) (3,699,151) (5,317,250) (1,676,369)</p>
+<p>Other income, net</p>
+<p>			175,331     197,649     788,581     326,852</p>
+<p>Loss before provision</p>
+<p>for income taxes</p>
+<p>		    (227,542) (3,501,502) (4,528,669) (1,349,517)</p>
+<p>Provision for income taxes</p>
+<p>			    800   (536,800)	   800     275,500</p>
+<p> Net loss	 (228,342) (2,964,702) (4,529,469) (1,625,017)</p>
+<p>Net loss per share</p>
+<p>			(3 cts)    (40 cts)    (60 cts)    (26 cts)</p>
+<p>Weighted average shares</p>
+<p>		    7,721,000   7,340,000   7,573,000   6,367,000</p>
+<p>(a) Relates to reserves for price-protection rebates and product returns of WIN'95 Advisor and WINCheckIt 2.0.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTINGTON BEACH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

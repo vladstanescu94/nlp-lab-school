@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="598653" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: Microsoft touts Windows NT for big corporate users.</title>
+<headline>Microsoft touts Windows NT for big corporate users.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1997-05-20</dateline>
+<text>
+<p>Microsoft Corp. Tuesday set out to prove that its Windows NT operating system was ready to run the largest, most complex business tasks usually handled by big mainframe computers.</p>
+<p>&quot;This was an opportunity to articulate that Windows NT is a lot further along than most people realise,&quot; said Paul Maritz, a Microsoft group vice president. &quot;It's an area where we can sustain growth in the future.</p>
+<p>Microsoft was joined at its much-touted &quot;Scalability Day&quot; by many computer makers as it launched a big attack on the systems managing data at the largest corporations.</p>
+<p>Mainframe computer companies such as Unisys Corp. and Amdahl Corp. joined in support of Windows NT.</p>
+<p>Unisys, Tandem Computers Inc. and other computer makers also highlighted powerful systems running Windows NT software. Tandem, which develops fail-safe computers, demonstrated a &quot;clustered system&quot; which links two or more servers, or host computers, in one system.</p>
+<p>At a news conference, Microsoft demonstrated a system made up of 20 Compaq server computers running Microsoft software that achieved a computing milestone of more than 1 billion transactions a second, using Microsoft's clustering technology, code-named &quot;Wolfpack.&quot; Clustering technology helps computers operate together as a single system.</p>
+<p>Maritz said that much computing power could be used by a company such as AT&amp;T Corp., which completes 210 million calls a day.</p>
+<p>Microsoft said its Wolfpack clustering technology will be a standard component in its future Windows NT Enterprise Server software, to be delivered in the third quarter, aimed at big corporate users.</p>
+<p>But Microsoft said it was not trying to become like a mainframe software company. It seeks customers who are gradually moving from mainframes to networks or who are thinking of unplugging their mainframes.</p>
+<p>Microsoft hopes to convince them to embrace the Windows NT operating system, instead of the UNIX operating system, which runs on systems offered by companies such as Sun Microsystems Inc. and Hewlett-Packard Co.</p>
+<p>&quot;You aren't going to run into customers who say, 'Hey I just bought my first mainframe yesterday,'&quot; Microsoft Chairman Bill Gates said. &quot;We take inter-operability with the mainframe very seriously.&quot;</p>
+<p>Microsoft also said its BackOffice family of products will include editions aimed at giant corporate networks. These applications can manage large applications such as online banking systems, data warehouses and mail systems.</p>
+<p>While some analysts said Windows NT still lacks the ability of UNIX to process systems with more than 16 processors -- UNIX can handle as many as 64 -- they said the company is on the right track to address new customers.</p>
+<p>&quot;I view Windows NT as Microsoft's Trojan horse for getting Microsoft into the enterprise,&quot; said Walter Winnitzki, a PaineWebber analyst. &quot;This will be the primary driver of growth for Microsoft over the next few years.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

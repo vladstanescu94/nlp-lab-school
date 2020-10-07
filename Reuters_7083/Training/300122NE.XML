@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300122" id="root" date="1997-01-10" xml:lang="en">
+<title>USA: VDOnet adds former Time executive to board.</title>
+<headline>VDOnet adds former Time executive to board.</headline>
+<dateline>PALO ALTO 1997-01-09</dateline>
+<text>
+<p>VDOnet Corp said on Thursday it has named the former editor of new media at Time Warner Inc's Time Inc to VDOnet's board of directors.</p>
+<p>Paul Sagan, 37, was president and editor of the new media division at Time until last month and held senior management responsibility for the development of Time Inc's on-line, cable on-line, electronic publishing and Internet publishing activities.</p>
+<p>&quot;Video is an important bridge from where the Internet is today -- in many ways a novelty -- to a future where it will be the next true medium of business, entertainment and information,&quot; Sagan said in a statement.</p>
+<p>Palo Alto-based VDOnet develops products for video broadcasting and telephony over computer networks, including the Internet global network. Investors in the privately-held company include Microsoft Corp, US West's USWest Media Group, NYNEX and Battery Ventures.</p>
+<p>-- Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248216" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Linkon Corp Q3 net loss narrows.</title>
+<headline>Linkon Corp Q3 net loss narrows.</headline>
+<dateline>FAIRFIELD, Conn. 1996-12-11</dateline>
+<text>
+<p>LINKON CORPORATION AND SUBSIDIARY</p>
+<p>  (Unaudited)	  Three Months Ended   Three Months Ended</p>
+<p>			     October 31, 1996     October 31, 1995</p>
+<p>Revenues		   $1,252,146		 $200,113</p>
+<p>Net Profit or (Loss)   $(191,589)	     $(614,548)</p>
+<p>Profit or (Loss) per Share</p>
+<p>				  $(0.02)		  $(0.06)</p>
+<p>Weighted average number</p>
+<p>of shares outstanding  10,753,252		9,466,146</p>
+<p>			    Nine Months Ended    Nine Months Ended</p>
+<p>			     October 31, 1996     October 31, 1995</p>
+<p>Revenues			   $2,117,127	     $1,181,010</p>
+<p>Net Loss			   $(364,707)	   $(1,742,432)</p>
+<p>Loss per Share			 $(.03)		  $(0.19)</p>
+<p>Weighted average number</p>
+<p>of shares outstanding	  10,753,252		9,037,797</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

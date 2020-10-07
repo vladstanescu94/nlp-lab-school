@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="215254" id="root" date="1996-11-25" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Three firms to create 151 new jobs in Ireland.</title>
+<headline>Three firms to create 151 new jobs in Ireland.</headline>
+<dateline>DUBLIN 1996-11-25</dateline>
+<text>
+<p>Irish enterprise and employment minister Richard Bruton said on Monday that three new investments will create 151 new jobs in Ireland.</p>
+<p>U.S. computer group Bay Networks Inc will invest six million Irish pounds in its Limerick plant, with the support of Irish industrial agency IDA Ireland, creating 75 new jobs there.</p>
+<p>Theo Benning GmbH and Serco Holland Group will be involved in two separate investments in Wexford, creating 76 new jobs, Bruton said in a statement.</p>
+<p>--Dublin Newsroom +353 1 676 9779</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

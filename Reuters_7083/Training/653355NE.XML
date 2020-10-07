@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653355" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: Netscape pushes software development pace.</title>
+<headline>Netscape pushes software development pace.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN JOSE, Calif. 1997-06-11</dateline>
+<text>
+<p>Netscape Communications Corp. co-founder Marc Andreessen urged software developers Wednesday to use its products as a platform to create a new breed of business application.</p>
+<p>Andreessen, Netscape's vice president of technology, kicked off the company's third developers conference by describing it as &quot;the centre of gravity for Internet development&quot; and urging programmers to support Netscape's vision of applications that can work across platforms and companies.</p>
+<p>&quot;We think this makes development as easy as dragging and dropping components,&quot; he said in a keynote address.</p>
+<p>He also said Netscape's development platform provides a new form of &quot;Crossware&quot; software which makes it easier to create applications and to link businesses.</p>
+<p>&quot;For the first time you'll be able to build sophisticated corporate applications in a development environment that is very easy to use,&quot; he said.</p>
+<p>The presentation included demonstrations by five companies, including Powersoft, that showed how tools and applications can be developed for business uses.</p>
+<p>In an interview after the address, Andreessen said Netscape is forging ahead at the same frantic pace of software development it has fostered since it pioneered the commercial Web browser market three years ago.</p>
+<p>Although Netscape has just this week released the final versions of its new Communicator software and of its SuiteSpot 3.0 server software, Andreessen said it already working on two new significant upgrades to Communicator.</p>
+<p>In addition to the version code-named Mercury, which is due to begin beta testing by year end and could ship as early as the first quarter of 1998, it aims to write a &quot;100 percent pure&quot; Java version based on Sun Microsystems Inc.'s Java environment for release next year.</p>
+<p>Java, which has been widely licensed by the owners of virtually all computing platforms, offers the promise that programmes can run on a variety of computer systems without revision, particularly important for use on the Web.</p>
+<p>Meanwhile, he said software giant Microsoft Corp., which roared into the Internet software market last year now seems to be taking longer than Netscape to develop, test and deploy its Internet software.</p>
+<p>&quot;In all three areas we are faster,&quot; he said. Netscape has estimated its latest software may lead Microsoft's next version of Internet Explorer web browser by five months or more.</p>
+<p>Andreesen also commented on an earlier announcement that Microsoft had agreed to work with Netscape and privately held Firefly Networks on creating a profiling standard which protects individuals' privacy. He said this was in part due to &quot;threatening moves coming from Washington, D.C.,&quot; where the Federal Trade Commission was holding hearings on the subject.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

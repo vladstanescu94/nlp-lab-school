@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121208" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Olicom Q3 shr $0.28 vs $0.23.</title>
+<headline>Olicom Q3 shr $0.28 vs $0.23.</headline>
+<dateline>DALLAS 1996-10-16</dateline>
+<text>
+<p>Condensed Consolidated Statements of Income</p>
+<p>			     Nine months	     Three months</p>
+<p>				     Ended			Ended</p>
+<p>				  Sept. 30,		 Sept. 30,</p>
+<p>				  1995	1996    1995	   1996</p>
+<p>			   (In thousands, except per share amounts)</p>
+<p>					     (Unaudited)</p>
+<p> Net sales		  $91,452 $117,917 $33,404	$45,453</p>
+<p> Income from operations  10,828	912   4,317	  6,272</p>
+<p>Income before income</p>
+<p>  taxes			13,254    5,477   4,997	  6,492</p>
+<p>    Income taxes	    4,415    2,094   1,649	  2,343</p>
+<p> Net income		   8,839    2,943   3,348	  4,142</p>
+<p> Net income per share	0.60     0.20    0.23	   0.28</p>
+<p>Weighted average</p>
+<p>  shares outstanding     14,769   14,793  14,734	 14,849</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

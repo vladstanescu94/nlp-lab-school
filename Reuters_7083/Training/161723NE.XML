@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161723" id="root" date="1996-11-02" xml:lang="en">
+<title>USA: StarBase Corp responds to BCSC.</title>
+<headline>StarBase Corp responds to BCSC.</headline>
+<dateline>IRVINE, Calif 1996-11-01</dateline>
+<text>
+<p>StarBase Corp, which voluntarily delisted from the Vancouver Stock Exchange on August 20, said it is now being reported as a delinquent filer by the British Columbia Securities Commission (BCSC).</p>
+<p>Starbase said it is in the process of responding to the BCSC and expects the situation will be resolved shortly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

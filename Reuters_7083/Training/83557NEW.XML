@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83557" id="root" date="1996-09-29" xml:lang="en">
+<title>USA: Truevision Inc sees Q1 1997 loss.</title>
+<headline>Truevision Inc sees Q1 1997 loss.</headline>
+<dateline>SANTA CLARA, Calif. 1996-09-29</dateline>
+<text>
+<p>Truevision Inc said it expects to record a &quot;significant&quot; operating and net loss for the first quarter of fiscal 1997, which ended September 28, due to accounting changes.</p>
+<p>The company said it will change its accounting practices regarding the recognition of revenues related to sales through its domestic retail and international distribution channels.</p>
+<p>As a result, Truevision said it will record a special charge in the first quarter of fiscal 1997.</p>
+<p>Also, first quarter revenues will be &quot;substantially&quot; below those reported in the previous quarter and the first quarter last year, Truevision said.</p>
+<p>The company was not immediately available to provide comparison revenue figures.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

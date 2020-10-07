@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647608" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Microsoft nears Comcast deal - reports.</title>
+<headline>Microsoft nears Comcast deal - reports.</headline>
+<dateline>NEW YORK 1997-06-09</dateline>
+<text>
+<p>Microsoft Corp is nearing a deal to invest $1 billion in cable television operator Comcast Corp, according to published reports.</p>
+<p>Neither Comcast nor Microsoft was immediately available to comment on the reports.</p>
+<p>The New York Times quoted executives familiar with the talks as saying Microsoft was seeking to acquire a roughly 15 percent stake in Comcast.</p>
+<p>Microsoft would thus gain an avenue into the control and distribution of television programming, it said.</p>
+<p>The Times said Microsoft appeared immediately interested in using Comcast's distribution pipeline for Microsoft Network, but Microsoft's interests could extend beyond Internet access.</p>
+<p>The Wall Street Journal, also quoting people familiar with the talks, said specific terms of the deal were not available and some issues were not yet settled.</p>
+<p>The Journal said Microsoft would likely get Comcast stock in exchange for its investment. It was unclear if the Comcast stock would be newly issued stock, common shares or a combination of the two, the newspaper said.</p>
+<p>((--New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

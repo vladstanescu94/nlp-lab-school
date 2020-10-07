@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236969" id="root" date="1996-12-05" xml:lang="en">
+<title>SINGAPORE: Oracle makes Singapore Asia Pacific hub.</title>
+<headline>Oracle makes Singapore Asia Pacific hub.</headline>
+<dateline>SINGAPORE 1996-12-05</dateline>
+<text>
+<p>Oracle Asia Pacific (Oracle), a unit of U.S. computer company Oracle Corp, said it had made Singapore its Asia Pacific network hub with the opening of a new data centre on the island republic.</p>
+<p>Oracle said in a statement the US$1 million centre would provide all business systems support for the company's network of 60 offices throughout the Asia Pacific region.</p>
+<p>It quoted Martin Buchholz, Oracle Corp director of Information Technology, as saying the focus of the data centre was to implement and maintain financial systems.</p>
+<p>The data centre is located within Telepark, a Singapore $150 million facility for computer data and telecommunications operations launched by Singapore Telecommunications Ltd in November.</p>
+<p>Buchholz said Oracle had made Singapore its regional hub because of its multi-cultural society and its strategic location. &quot;The multinational environment makes doing business in the region advantageous as many of our customers come from multi-ethnic backgrounds,&quot; he said.</p>
+<p>&quot;Where business is concerned, this is the region of growth, especially China, India and Korea and these places are easily accessible from here,&quot; Buchholz added.</p>
+<p>-- Singapore newsroom (65 8703011)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

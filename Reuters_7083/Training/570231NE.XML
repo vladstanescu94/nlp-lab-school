@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570231" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: CA to resell Novell's ManageWise.</title>
+<headline>CA to resell Novell's ManageWise.</headline>
+<dateline>LAS VEGAS 1997-05-07</dateline>
+<text>
+<p>Computer Associates International, Inc. and Novell Inc. said they have reached a global agremeent to provide unified management of Novell's IntranetWare and NetWare for large organizations.</p>
+<p>Under the agreement, Novell agreed to endorse CA's Unicenter TNG as its preferred supplier of management software for large systems and Computer Associates agreed to endorse Novell's ManageWise as its preferred local area network management product for the Novell networking software.</p>
+<p>CA President and Chief Operating Officer Sanjay Kumar said Unicenter is deployed in more than 5,000 customer sites around the world and Novell President and Chief Operating Officer Joe Marengi noted Novell's software runs on around four million network servers with 60 million users around the world.</p>
+<p>The companies said there was not specific business model for combining the products going forward, but the two companies would collaborate to ensure the products work well together in an effort to boost overall sales.</p>
+<p>CA will resell MangeWise as a Unicenter TNG option for users of its customers using IntranetWare and NetWare and bundle a specialized version of the product with certain selected versions of Unicenter TNG, it said.</p>
+<p>Novell will also bundle a specialized version of Unicenter TNG for IntranetWare with certain versions of its IntranetWare and ManageWise offerings, in addition to a version of CA's ARCserve product.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

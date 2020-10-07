@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406383" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Microsoft sees development without Citrix.</title>
+<headline>Microsoft sees development without Citrix.</headline>
+<dateline>NEW YORK 1997-02-27</dateline>
+<text>
+<p>A Microsoft Corp product team is working on integrating a multi-user capability into its Windows NT server software, now offered by Citrix Systems Inc, Senior Vice President Jim Allchin said on Thursday.</p>
+<p>&quot;We have a development team under way,&quot; Allchin said in a phone interview. &quot;Today, we have no plans other than to build it ourselves,&quot; he said when asked about Citrix's statement on Wednesday that Microsoft was looking at licensing certain Citrix technologies. Allchin said Microsoft is &quot;always talking&quot; to other companies about licensing technology. But, he emphasized, &quot;Today, we are on our own path.&quot;  </p>
+<p>Allchin said Microsoft already had a team of &quot;reasonable&quot; size working on developing multi-user capability, which would allow, with remote access, users on multiple devices to access a server running Windows NT and applications.</p>
+<p>&quot;We always have people working on future technologies,&quot; said Allchin, who is senior vice president of personal and business systems at Microsoft. &quot;We have determined that we are going to complete this and make it available.&quot;</p>
+<p>Allchin declined to say how long Microsoft had been developing the software or when the capability would become available.  </p>
+<p>&quot;Citrix and Microsoft have a partnership today,&quot; Allchin said. &quot;It's complete speculation to talk about what might happen in the future.&quot;</p>
+<p>Late Wednesday, Citrix said that as part of cross-licensing talks, Microsoft informed Citrix that it may develop the multi-user capability for Windows NT internally, or look to other companies.</p>
+<p>&quot;Because of a contractual agreement with Citrix, we have to tell them that we are going to do this,&quot; Allchin said. &quot;Customers are asking for this....It's a natural extension of the family that we already have.&quot;  </p>
+<p>&quot;It should not be a surprise to anyone. It's just another part of the Windows family,&quot; Allchin said.</p>
+<p>Last year, for example, Microsoft introduced Windows CE, a slimmed-down version of Windows, and Windows applications for personal digital assistants.</p>
+<p>Allchin said Microsoft was talking to other companies in addition to Citrix but declined to give any further details.</p>
+<p>&quot;We talk to people all the time. There is nothing of consequence to be said today,&quot; he said. &quot;We have a team doing it (the development) and we would consider other technology if it accelerates it.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

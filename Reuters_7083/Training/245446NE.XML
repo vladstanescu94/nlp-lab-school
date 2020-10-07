@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245446" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Navarre, Southern Star in marketing pact.</title>
+<headline>Navarre, Southern Star in marketing pact.</headline>
+<dateline>MINNEAPOLIS 1996-12-10</dateline>
+<text>
+<p>Navarre Corp said Tuesday its multimedia publishing subsidiary, Digital Entertainment, signed a long-term sales and marketing agreement with Southern Star Interactive.</p>
+<p>Under the agreement, Digital Entertainment will distribute Southern Star's educational multimedia Knowledge Revolution series of CD-ROMs. Initial releases for the first quarter of 1997 include such titles as &quot;Adventures of Huckleberry Finn&quot; and &quot;The Scarlet Letter.&quot;</p>
+<p>Navarre is an Internet content provider.</p>
+<p>Southern Star Interactive is a unit of Australia-based Southern Star Group.</p>
+<p>	    ((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

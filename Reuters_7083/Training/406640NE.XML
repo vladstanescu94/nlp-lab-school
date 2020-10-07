@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406640" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Citrix may face competition from Microsoft.</title>
+<headline>Citrix may face competition from Microsoft.</headline>
+<dateline>SAN FRANCISCO 1997-02-26</dateline>
+<text>
+<p>Citrix Systems Inc said on Wednesday that Microsoft Corp may include certain features in Microsoft Windows NT that would compete with Citrix's chief products.</p>
+<p>If Microsoft does include so-called concurrent user features in Windows NT, Citrix's sales could fall significantly, Citrix said.</p>
+<p>During the course of recent negotiations, Microsoft executives told Citrix executives that Microsoft plans to include multi-user capabilities in Windows NT -- a capability that until now has only been possible with Citrix products.</p>
+<p>Citrix is negotiating to license its technology to Microsoft under terms acceptable to Citrix, said James Felcyn, Citrix chief financial officer.</p>
+<p>If the companies do not reach an agreement, Microsoft would develop the technology internally or license it from someone else, which could slash Citrix's sales.</p>
+<p>Citrix, based in Ft. Lauderdale, Florida, writes computer programs that let two or more computer users, using separate terminals, share one copy of Microsoft's Windows NT operating system. Citrix customers buy its products to cut down on software purchases.  </p>
+<p>Currently, Windows NT -- a program that serves as a foundation for many popular business computer programs -- does not have the concurrent-user capability.</p>
+<p>Historically, dozens of small software companies have exploited shortcomings in Microsoft's Windows family of operating systems by selling stand-alone utilities that enhance Windows.</p>
+<p>But Microsoft is including more features in Windows, which has undermined the sales of many of the utility software companies.</p>
+<p>Citrix announced Microsoft's plans after the U.S. market closed.</p>
+<p>--Kourosh Karimkhany in San Francisco, 1 415 269 6931</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

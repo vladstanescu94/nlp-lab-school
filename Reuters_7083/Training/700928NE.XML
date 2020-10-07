@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700928" id="root" date="1997-07-02" xml:lang="en">
+<title>USA: CBOE to list 10 new equity options next week.</title>
+<headline>CBOE to list 10 new equity options next week.</headline>
+<dateline>CHICAGO 1997-07-02</dateline>
+<text>
+<p>The Chicago Board Options Exchange (CBOE) said Wednesday it will list options on eight stocks on July 7.</p>
+<p>The stocks include Class B shares of DeKalb Genetics Corp, HUBCO Inc, Kellstrom Industries Inc, Keystone Financial Inc, National Commerce Bancorp, Northland Cranberries Inc, Signature Resorts Inc and USCS International Inc.</p>
+<p>The CBOE also said it will list options on Premier Laser Systems Inc and ProxyMed Inc on July 9.  </p>
+<p>((--Chicago derivatives desk, 312 408 8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I0100206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I64300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

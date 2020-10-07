@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88760" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Datalogix sees $2 million loss in first quarter.</title>
+<headline>Datalogix sees $2 million loss in first quarter.</headline>
+<dateline>VALHALLA, N.Y. 1996-10-01</dateline>
+<text>
+<p>Datalogix International Inc., a provider of manufacturing software, Tuesday reported an $8 million loss for fiscal 1996, and warned of an estimated $2 million loss for its first quarter ended Sept. 30.</p>
+<p>Datalogix, which agreed to be acquired by Oracle Corp. for $94 million in cash last week, lost 70 cents a share, for the year ended June 30, compared with profits of $5.3 million, or 59 cents a share, in the previous year. This is despite a 14 percent rise in revenues to $49.2 million from $43.2 million.</p>
+<p>The 1995 results included a $3.5 million income tax benefit related to recognition of prior years' net operating loss carryforwards.</p>
+<p>The fiscal 1996 loss reflects lower than expected license revenues from Datalogix's principal product, the company said. It also set up substantial reserves to meet warranty claims and deal with other customer issues, and had other accounting adjustments.</p>
+<p>&quot;These factors are expected to continue to impact the company through at least the first half of fiscal 1997,&quot; said Datalogix President and Acting Chief Executive Raymond Sozzi. &quot;No tax benefit on this loss will be recognised.&quot;</p>
+<p>Valhalla, N.Y.-based Datalogix also named Richard Willemin as chief financial officer. Willemin was vice president and chief financial officer of National Electronic Information Corp. before joining Datalogix.</p>
+<p>Willemin succeeds Rick Smith, who left the company in May to join a start-up in California, said company spokesman John Cingari.</p>
+<p>Datalogix's software is used by manufacturers of food, beverages, health and beauty aids, and industrial products.</p>
+<p>Its stock was unchanged at $7.75 on Nasdaq shortly before midday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALHALLA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

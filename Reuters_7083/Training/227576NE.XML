@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227576" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Siebel sets stock split, names CFO.</title>
+<headline>Siebel sets stock split, names CFO.</headline>
+<dateline>SAN MATEO, Calif. 1996-12-02</dateline>
+<text>
+<p>Siebel Systems Inc Monday declared a two-for-one stock split and named Howard Graham senior vice president and chief financial officer.</p>
+<p>In a statement, Siebel said the stock split will be payable on December 19 in the form of a 100 percent stock dividend to shareholders of record on December 13.</p>
+<p>Graham comes to Siebel from Informix Corp where he had been Senior Vice President and CFO since 1990.  </p>
+<p>A spokesman for the company was not immediately available to comment on who Graham replaced.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MATEO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

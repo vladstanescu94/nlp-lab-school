@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133809" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Netscape posts $7.7 million profit.</title>
+<headline>Netscape posts $7.7 million profit.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-22</dateline>
+<text>
+<p>Netscape Communications Corp. said Tuesday it earned $7.7 million on sales of $100 million in the third quarter amid strong demand for its software among companies seeking to build so-called &quot;intranet&quot; internal networks.</p>
+<p>Netscape, maker of the popular Netscape Navigator Internet browser said it earned 9 cents a share. A year ago, the fledgling company earned $175,000 on sales of $23.3 million.</p>
+<p>&quot;The third quarter of 1996 was another landmark quarter for Netscape, as Netscape server and client software solutions made significant inroads into the global enterprise market,&quot; said Jim Barksdale, president of Netscape.</p>
+<p>Barksdale said several major corporations chose the Netscape software to build computer applications for their computer network communications, or intranet applications. Intranets are internal corporate networks based on Internet standards.</p>
+<p>In addition, resellers contributed more than half of Netscape's revenues for the quarter, he said.</p>
+<p>A recent report from Zona Research showed that Netscape holds a commanding lead in the Web server software market that is similar to its 80 percent share of the browser market, with 74 percent of the Web site managers surveyed on the Windows NT platform and 84 percent on UNIX running Netscape Web server software, Netscape said. Servers are computers that link other computers in a network.</p>
+<p>For the first nine months, Netscape earned $12 million, or 14 cents a share, on sales of $231 million. A year earlier, the company lost $7 million, or 10 cents a share, on sales of $44 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

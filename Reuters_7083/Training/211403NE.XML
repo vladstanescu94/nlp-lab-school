@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="211403" id="root" date="1996-11-22" xml:lang="en">
+<title>JAPAN: Square -96/97 parent forecast.</title>
+<headline>Square -96/97 parent forecast.</headline>
+<dateline>TOKYO 1996-11-22</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    ACTUAL</p>
+<p> (Parent)	     FORECAST	  YEAR-AGO</p>
+<p> Sales		 31.30		28.16</p>
+<p> Current		9.10		 8.07</p>
+<p> Net		    4.60		 4.02</p>
+<p> EPS		  140.82 yen	 123.13 yen</p>
+<p> Ord div	     56.50 yen	  49.50 yen</p>
+<p>NOTE - Square Co Ltd is a family game software maker.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

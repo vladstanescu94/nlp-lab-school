@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744879" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: Amer Education sues Jostens Learning.</title>
+<headline>Amer Education sues Jostens Learning.</headline>
+<dateline>OKLAHOMA CITY 1997-07-22</dateline>
+<text>
+<p>American Education Corp said Tuesday that it has filed a trademark infringement action against Jostens Learning Corp for Jostens' use of the company's registered A+ trademark.</p>
+<p>American Education said that this trademark was initially granted to the company for use with educational software in 1987 as a registered mark.</p>
+<p>The company said that Jostens adopted the use of the A+ symbol for its A+dvantage Learning System.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OKLAHOMA CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

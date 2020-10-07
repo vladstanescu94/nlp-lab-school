@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132435" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Micrografx, SAP in license pact.</title>
+<headline>Micrografx, SAP in license pact.</headline>
+<dateline>RICHARDSON, Texas 1996-10-22</dateline>
+<text>
+<p>Micrografx Inc said on Tuesday it signed a licensing agreement with Germany's SAP AG that would enable corporate customers to view SAP's R/3 reference models using Micrografx ABC FlowCharter business-diagramming software.</p>
+<p>Micrografx said it would develop ABC FlowCharter process models of the R/3 reference model, set for release in mid-1997. That would allow SAP customers to analyze the 800 different business-process models within the R/3 system, the company said.</p>
+<p>J. Paul Grayson, chairman and chief executive officer, said: &quot;Our goal is for Micrografx to become the front-end graphics standard for bringing the process models of the R/3 system to the Microsoft Windows desktop.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHARDSON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576094" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Citrix shares surge after Microsoft agrees to license.</title>
+<headline>Citrix shares surge after Microsoft agrees to license.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1997-05-12</dateline>
+<text>
+<p>Citrix Systems Inc. stock surged 69 percent Monday after Microsoft Corp. agreed to license its software technology and include it in upcoming versions of Microsoft Windows NT.</p>
+<p>As part of the agreement, Citrix, based in Fort Lauderdale, Fla., will get an initial $75 million fee from Microsoft and as much as $100 million in royalties tied to sales of Microsoft products using Citrix technology, the companies said.</p>
+<p>Citrix shares jumped $13.375 to $32.625 on trading of 12.9 million shares on Nasdaq, where it was the most active stock.</p>
+<p>Citrix writes software that lets an old PC or an outdated terminal -- a type of computer that gets its computing horsepower from a corporate network -- run programmes written for Microsoft's Windows.</p>
+<p>Monday's agreement erased much of the concern in recent months about Citrix. In February, Citrix's stock plunged after Microsoft told Citrix executives that if the companies could not agree to develop the technology together, Microsoft would go it alone.</p>
+<p>Microsoft agreed to add Citrix's so-called multi-user technology to Windows NT, which would let several terminal users share one server for running common business software, such as data-entry and word processing.</p>
+<p>The agreement makes it easier for Citrix to sell additional products to Windows NT customers, analysts said.</p>
+<p>&quot;Basically, Citrix now has Windows NT pre-enabled for their products,&quot; said John Powers, analyst at Robertson Stephens &amp; Co. in San Francisco. &quot;For Citrix, it's good that Microsoft has multi-user capabilites. It's even better that it's from Citrix.&quot;</p>
+<p>The agreement also is a shift in strategy for Microsoft. In recent months, Microsoft, after initially ridiculing the idea, has taken the idea of stripped-down network computers seriously. Big corporate customers have been clamouring for cheaper and easier-to-use machines that do not require the latest in software and hardware gadgets.</p>
+<p>Microsoft also said Monday it agreed to license technology from France's Prologue Software SA, another company that writes terminal software.</p>
+<p>Microsoft, based in Redmond, Wash., owns a 6 percent stake in Citrix. Microsoft's treasurer, Greg Maffei, also sits on Citrix's board.</p>
+<p>Some analysts, however, were cautious about Citrix's outlook in coming years. As Microsoft adds more multi-user functions to Windows NT, customers might not need separate Citrix products.</p>
+<p>&quot;That's what I have warned our investors about,&quot; said Dawn Simon, analyst at investment bank Furman Selz in New York. &quot;It's a truce between the companies, but the burden will be on Citrix to innovate.&quot;</p>
+<p>Under the agreement, Citrix will get up to $100 million in royalties from Microsoft. Mark Templeton, Citrix vice president of worldwide marketing, said it is not clear whether Citrix will get a new royalty contract once Citrix gets all of the original $100 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344767" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: California student unscrambles Internet code.</title>
+<headline>California student unscrambles Internet code.</headline>
+<byline>Barbara Grady</byline>
+<dateline>BERKELEY, Calif. 1997-01-29</dateline>
+<text>
+<p>As the White House and the Internet community battle over U.S. encryption laws, a University of California graduate student said he broke a code said to have the strongest encryption that U.S. law allows to be exported without restrictions.</p>
+<p>It took him a mere three and a half hours, he said.</p>
+<p>&quot;It shows how silly the export restrictions are because 40-bit key length is ridiculously weak,&quot; Ian Goldberg, a graduate student of computer science at the University of Calfiornia at Berkeley, told Reuters.</p>
+<p>The 40-bit encrypted message was published on Tuesday morning by RSA Data Security Inc, a software firm in Redwood City, Calif., which developed encryption widely used on the Internet, as a challenge to code breakers.</p>
+<p>RSA, which is owned by Security Dynamics Technologies Inc, is one of dozens of companies trying to get the U.S. government to loosen its restrictions on export of encryption, which currently prohibit U.S. firms or citizens from putting encrypted code of more than 40-bits of length on the Internet unless the government is supplied a code key.</p>
+<p>U.S. law allows encryptions of up to 56-bits if the government is given a key to the code, which it will hold in escrow in case a national security need arises.</p>
+<p>The government has argued that distribution of encryption codes outside of the United States would impede its ability to fight drug trafficking and political terrorism. Congress is considering bills to loosen these restrictions.</p>
+<p>But Internet users and Internet technology companies argue that the restrictions impede electronic commerce and widespred use of the Internet for many private business transactions. Because the Internet has no national borders, anything posted on it by a U.S. based company would be considered exporting.</p>
+<p>Goldberg used about 250 computer workstations networked together to test various computations to break the code, which the university said would be resources pretty commonly available to people in univeristy settings.</p>
+<p>At a data security and encryption conference being held here this week by RSA Data Security, people said Goldberg's break of the code is proof that U.S. laws need changing.</p>
+<p>&quot;Nobody in that room's going to trust 40-bit (cryptography) any more,&quot; said Peter Trei, senior software engineer at Framingham, Mass.-based Process Software Corp., nodding towards the San Francisco auditorium where 2,500 people were attending a cryptography conference hosted by RSA.</p>
+<p>The gathering included some of the world's leading experts on cryptography, and a number of panelists in presentations were openly critical of the White House policy of prohibiting export of strong cryptography.</p>
+<p>Cryptography experts said the goverment policy must enable businesses to stay ahead of the capabilities of computer hackers, but that current standards do not allow this to be exported, which also can limit Internet distribution.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERKELEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

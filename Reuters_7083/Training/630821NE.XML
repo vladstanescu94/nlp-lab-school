@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="630821" id="root" date="1997-06-02" xml:lang="en">
+<title>USA: Digital video among products showcased at Industry.</title>
+<headline>Digital video among products showcased at Industry.</headline>
+<dateline>ATLANTA 1997-06-02</dateline>
+<text>
+<p>Digital video cameras and editing software, and a preview of Microsoft Corp's update to its popular Windows 95 operating system were some of the most sought after items on Monday at the huge Comdex Spring conference here.</p>
+<p>Cheryl Currid, president of Currid and Co, a Houston-based consultant firm, demonstrated some of the strength of new digital video cameras and editing software, which allow companies to develop corporate web site and videoconferencing, along with uses in the home.</p>
+<p>&quot;Whether we do filming on kids or on developing corporate web sites, all of us will soon be our own digital video editors,&quot; she said.</p>
+<p>The video systems allow users to film, process and output digit video to a PC or TV, using cameras about the size of one's palm. The images are stored on a chip and can be duplicated or transmited via electronic mail over the Internet.</p>
+<p>Currid noted, however, that cost may prohibit individuals from rushing to the digital video phenomenon. Most high-grade camaras still cost more than $2,000, and the consumers may have to beef up their computers to store the memory-hungry video.</p>
+<p>&quot;If you don't have a lot of storage devices, you could be in for trouble,&quot; she said.</p>
+<p>Also at Comdex, privately-held software firm Live Pictures Inc unveiled a low-cost product that allows fast editing of high-detail digital still pictures, using technology jointly developed with Eastman Kodak Co, Hewlett-Packard Co and Microsoft Corp.</p>
+<p>The show also included demonstrations of Microsoft Corp's next major version of its Windows operating systems, code named &quot;Memphis,&quot; which will include integration with the Internet Explorer 4.0 browser, and support for Universal Serial Bus and Digital Video Disk (DVD) hardware.</p>
+<p>The company said test, or 'beta' versions of the program will ship in this quarter.</p>
+<p>Other products of note included ultra-light handheld PC's from Toshiba Corp and Hewlett-Packard Co, which use Microsoft's Windows CE operating system.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

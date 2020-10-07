@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202604" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Excalibur Technologies Q3 loss vs profit.</title>
+<headline>Excalibur Technologies Q3 loss vs profit.</headline>
+<dateline>VIENNA, Va. 1996-11-20</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>					     October 31,  October 31,</p>
+<p>					 1996    1995     1996     1995</p>
+<p> Revenues			  $5,811  $5,006  $14,131  $12,905</p>
+<p>Expenses:</p>
+<p>  Sales and marketing	   3,832   2,381   10,456    6,244</p>
+<p>Research and product development</p>
+<p>					2,136   1,226    5,557    3,522</p>
+<p>  General and administrative  1,000     861    2,940    2,610</p>
+<p>  Cost of sales		     621     599    1,349    1,448</p>
+<p>  Merger Costs			 --	--	 --	490</p>
+<p>    Total expenses		7,589   5,067   20,302   14,314</p>
+<p> Operating Loss		 (1,778)    (61)  (6,171)  (1,409)</p>
+<p> Interest and Other Income, net  54     169	409	414</p>
+<p> Net (Loss) Income	    (1,724)     108  (5,762)    (995)</p>
+<p>Net (Loss) Income Per</p>
+<p>   Common Share		  (0.14)    0.01   (0.47)   (0.09)</p>
+<p>Weighted-Average Number of</p>
+<p>Common Shares Outstanding</p>
+<p>   (in thousands)		12,413  11,540   12,321   11,403</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

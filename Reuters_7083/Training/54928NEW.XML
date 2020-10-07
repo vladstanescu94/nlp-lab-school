@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54928" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Microleague Multimedia to buy Micro Sports.</title>
+<headline>Microleague Multimedia to buy Micro Sports.</headline>
+<dateline>NEWARK, Del. 1996-09-16</dateline>
+<text>
+<p>Microleague Multimedia Inc said on Monday it signed a letter of intent to buy Tennessee-based Micro Sports Inc in a stock swap valued at $2 million.</p>
+<p>Microleague said in a statement it would exchange about 300,000 shares of its common stock for Micro Sports, which develops sport simulation software games.</p>
+<p>Microleague Chairman and Chief Executive Officer Neil Swartz said the transaction demonstrated the ongoing consolidation in the software industry.  </p>
+<p>As a result of the acquisition, Microleague said it would delay the introduction of its Sports Illustrated Presents MicroLeague Baseball 6.0 until the start of the 1997 baseball season.</p>
+<p>&quot;We are taking advantage of the opportunity to enhance this product through the skills of the Micro Sports programming staff,and the marketing energy that comes with the start of a new baseball season,&quot; Swartz said.</p>
+<p>Microleague also said it intended to release a professional football and college football game this year.</p>
+<p>Micro Sports developed Micro Sports NFL Pro Football and Micro Sports Pro League Baseball.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWARK, Del."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344783" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: A.D.A.M. Q3 Dec 31 full results.</title>
+<headline>A.D.A.M. Q3 Dec 31 full results.</headline>
+<dateline>ATLANTA 1997-01-29</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>			 12/31/96    12/31/95    12/31/96  12/31/95</p>
+<p> Net revenues	    $1,503     $2,017	$3,464   $5,896</p>
+<p> Cost of revenues:	  274	  316	   929    1,113</p>
+<p>  Gross profit	    1,229	1,701	 2,535    4,783</p>
+<p>  Gross profit margin     82%	  84%	   73%	81%</p>
+<p>Operating expenses:</p>
+<p>  Sales and marketing   1,064	1,062	 3,499    2,954</p>
+<p>  Product development     400	  701	 1,939    2,079</p>
+<p>General &amp;</p>
+<p>   administration	   565	  502	 1,869    1,331</p>
+<p>  Restructuring charge    ---	  ---	   490	---</p>
+<p> Total operating exp.   2,029	2,265	 7,797    6,364</p>
+<p> Operating loss	   (800)	(564)     (5,262)  (1,581)</p>
+<p>Interest income</p>
+<p>  (expense), net	    163	   75	   714    (131)</p>
+<p>Income (loss) before</p>
+<p>  income taxes	    (637)	(489)     (4,548)  (1,712)</p>
+<p> Income tax expense	 ---	  ---	   ---	---</p>
+<p>Income (loss) before</p>
+<p>  extraord. item	  (637)	(489)     (4,548)  (1,712)</p>
+<p>Extraord. loss from early extinguishment of debt, net of income tax benefit</p>
+<p>  of $29			---	 (46)	   ---     (46)</p>
+<p> Net income (loss)     ( 637)     ( 535)    ( 4,548) ( 1,758)</p>
+<p>Income (loss) per common</p>
+<p>  share		   ( 0.12)    ( 0.13)     ( 0.87)  ( 0.56)</p>
+<p>Weighted average number of share equivalents</p>
+<p>  outstanding	     5,255	4,102	 5,252    3,151</p>
+<p>Note: Full Company name is  A.D.A.M. Software Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

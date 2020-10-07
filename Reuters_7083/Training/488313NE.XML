@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488313" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: Intel,Microsoft,Compaq to set digital TV plan -WSJ.</title>
+<headline>Intel,Microsoft,Compaq to set digital TV plan -WSJ.</headline>
+<dateline>NEW YORK 1997-04-04</dateline>
+<text>
+<p>Intel Corp, Microsoft Corp and Compaq Computer Corp will propose a digital-TV strategy on Monday at a conference in Las Vegas, the Wall Street Journal said in its electronic edition.</p>
+<p>The companies will try to convince television broadcasters to adopt their digital television standards, to ensure personal computers have a large role in home entertainment, the newspaper said on Friday.</p>
+<p>At the National Association of Broadcasters conference, the companies would propose a strategy emphasizing Internet-based information services and interactivity, the newspaper said.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

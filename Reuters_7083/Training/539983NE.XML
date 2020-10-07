@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="539983" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: Software Artistry Q1 net up with revenues.</title>
+<headline>Software Artistry Q1 net up with revenues.</headline>
+<dateline>INDIANAPOLIS 1997-04-24</dateline>
+<text>
+<p>Software Artistry Inc cited a 37-percent increase in its average contract revenue for a sharp rise in earnings in the first quarter ended March 31 versus a loss a year ago.</p>
+<p>Net income in the period rose to $304,000, or $0.04 a share, compared to a loss of $148,000, or $0.02, in the same period in 1996, Software Artistry said.</p>
+<p>Total revenues climbed to $8.7 million from $6.5 million as new and renewed license fees revenues both increased, the company said.</p>
+<p>Software Artistry is a software development firm.</p>
+<p>Its shares were up 3/4 Thursday at 8-1/4.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

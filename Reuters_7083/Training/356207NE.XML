@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="356207" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: Smith Micro Q4 pro forma shr drops.</title>
+<headline>Smith Micro Q4 pro forma shr drops.</headline>
+<dateline>ALISO VIEJO, Calif. 1997-02-05</dateline>
+<text>
+<p>SMITH MICRO SOFTWARE, INC.</p>
+<p>		PRO FORMA CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>	     (in thousands, except share and per-share amounts)</p>
+<p>					Quarter Ended    Year Ended</p>
+<p>					 December 31,  December 31,</p>
+<p>					  Unaudited    Unaudited</p>
+<p>				  1996	 1995     1996	1995</p>
+<p> Net Revenues	     $4,944     $4,935   $22,091   $18,012</p>
+<p> Cost of Sales	     1,254	1,700     6,795     5,887</p>
+<p> Gross Margin		3,690	3,235    15,296    12,125</p>
+<p>Operating Expenses:</p>
+<p>   Sales &amp; Marketing     1,082	  527     2,939     1,995</p>
+<p>   Research &amp; Development  915	  420     3,324     1,621</p>
+<p>General &amp; Administrative</p>
+<p>				   967	  575     3,796     2,555</p>
+<p>Acquired Research &amp;</p>
+<p>   Development		 ---	  ---     5,169	 ---</p>
+<p>Total Operating Expenses</p>
+<p>				 2,964	1,522    15,228     6,171</p>
+<p> Operating Income	    726	1,713	  68     5,954</p>
+<p> Other Income, net	   175	  248	 849	 308</p>
+<p>Income Before</p>
+<p>   Income Tax		  901	1,961	 917     6,262</p>
+<p> Income Tax Expense	  360	  634     2,436	 811</p>
+<p> Net Income		    541	1,327   (1,519)     5,451</p>
+<p>Pro Forma Information</p>
+<p>Income Before Income</p>
+<p>   Tax Expense		 901	1,961	 917     6,262</p>
+<p>Pro Forma Provision for</p>
+<p>   Income Tax Expense	360     784(a)     2,436  2,505(a)</p>
+<p>Pro Forma Net Income</p>
+<p>  (Loss)			 541	1,177   (1,519)     3,757</p>
+<p>Pro Forma Net Income (Loss)</p>
+<p>   per Share		  0.04	 0.09    (0.11)	0.30</p>
+<p>Pro Forma Net Income Prior to</p>
+<p>Acquired Research</p>
+<p>   &amp; Development	     541	1,177  3,650(b)     3,757</p>
+<p>Pro Forma Net Income per Share Prior to</p>
+<p>Research &amp; Development</p>
+<p>   Expenses		   0.03	 0.09	0.26	0.30</p>
+<p>Weighted Average</p>
+<p>   Shares Outstanding   14,076     13,787    13,992    12,627</p>
+<p>Note (a):  Prior to the public offering of the Company's common stock, the Company was taxed as an S Corporation for Federal and State tax purposes. Concurrent with the public offering concluded in September, 1995, the Company began to be taxed as a C Corporation.  Pro Forma income data is presented to show the tax provision as if the Company had been a C Corporation throughout all periods.</p>
+<p>Note (b):  During the first quarter of 1996, Smith Micro acquired Performance Computing Inc.  This resulted in a one-time pre-tax charge in the first quarter of $5.169 million.  As a result, all financial tables include financial results of Performance Computing Inc. from the date of acquisition. Pro Forma income data is presented to show the comparable business operations exclusive of this one-time charge.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALISO VIEJO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="734351" id="root" date="1997-07-16" xml:lang="en">
+<title>JAPAN: Netscape says Communicator users to hit 10 mln.</title>
+<headline>Netscape says Communicator users to hit 10 mln.</headline>
+<dateline>TOKYO 1997-07-16</dateline>
+<text>
+<p>The number of users of Netscape Communications Corp's Communicator software will reach 10 million in the near future, Bob Lisbonne, vice president of client product marketing, told reporters on Wednesday.  </p>
+<p>&quot;We have been incredibly excited by the reception of Communicator,&quot; Lisbonne said.</p>
+<p>He said the U.S.-based company will make an announcement in the near future when the number of Communicator users reaches the 10 million mark.</p>
+<p>Lisbonne also said that Netscape would start shipments of the Japanese version of the Communicator 4.0 Internet software in Japan on July 19, two weeks after the release of the original version in the United States.</p>
+<p>&quot;Japan is a very, very important market for Netscape,&quot; he said, adding that the Japanese market is Netscape's largest after the United States.</p>
+<p>Lisbonne also said Netscape will develop software for Apple Computer Inc's next-generation operating system, Rhapsody.</p>
+<p>Communicator, available in preliminary, or beta, versions since late last year, combines a number of new features, including upgraded electronic-mail capabilities, collaboration and a &quot;Netcaster&quot; capability which enables users to receive updated information from the Internet.  </p>
+<p>Netscape also said two major Japanese newspapers would be among providers of Japanese content for its Internet broadcasting services.</p>
+<p>It said the Japanese mass circulation daily Mainichi Shimbun has agreed to provide stories to Netscape's InBox-Direct service, which automatically downloads contents to a Netscape software user's mailbox.</p>
+<p>Another major daily, Asahi Shimbun, will in August start providing information to a channel of Netscape Netcaster, which enables Communicator users to receive updated information from the Internet, Netscape said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

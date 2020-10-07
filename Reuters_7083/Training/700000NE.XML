@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700000" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Microsoft eyes CBS -- New York Post.</title>
+<headline>Microsoft eyes CBS -- New York Post.</headline>
+<dateline>NEW YORK 1997-07-01</dateline>
+<text>
+<p>Microsoft Corp. is reviewing the finances of Westinghouse Electric Corp.'s CBS unit as it considers making a bid to buy the network, the New York Post reported Tuesday.</p>
+<p>The newspaper, quoting sources close to the situation, said four Microsoft executives were reviewing CBS finances.</p>
+<p>Neither Microsoft nor CBS was immediately available to comment, but the Post quoted sources close to CBS as saying the company was not for sale.</p>
+<p>The newspaper said Microsoft, the world's biggest computer software company, viewed CBS as a valuable weapon in its battle with broadcasters as they seek to define the future of digital television.</p>
+<p>The newspaper also reported that Seagram Co. Ltd. &quot;is also said to be looking at CBS.&quot; Seagram owns Universal Studios.</p>
+<p>The Microsoft and Seagram interest in CBS was said to be preliminary and it was not clear if offers would be made, the Post said.</p>
+<p>Microsoft, Seagram and Westinghouse were quoted as declining to comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753238" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - JDA Software Q2 results.</title>
+<headline>TABLE - JDA Software Q2 results.</headline>
+<dateline>PHOENIX 1997-07-24</dateline>
+<text>
+<p>JDA Software Group Inc.</p>
+<p>	     Condensed Consolidated Statements of Income</p>
+<p>		(in thousands, except per share amounts)</p>
+<p>				(unaudited)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					   June 30,	   June 30,</p>
+<p>					1997	1996    1997     1996</p>
+<p>Revenues:</p>
+<p>   Software licenses	   $9,557   $5,042 $17,423  $10,055</p>
+<p>Consulting, maintenance</p>
+<p>    and other services	 11,540    5,394  20,518    9,785</p>
+<p>     Total revenues	    21,097   10,436  37,941   19,840</p>
+<p>Cost of revenues:</p>
+<p>   Software licenses		233	220     433	245</p>
+<p>Consulting, maintenance</p>
+<p>    and other services	  9,093    3,563  15,797    6,521</p>
+<p>     Total cost of revenues   9,326    3,783  16,230    6,766</p>
+<p> Gross profit		    11,771    6,653  21,711   13,074</p>
+<p>Operating expenses:</p>
+<p>   Product development	  2,351    1,645   4,586    2,865</p>
+<p>   Sales and marketing	  3,059    1,525   5,576    3,153</p>
+<p>General and administrative</p>
+<p>					2,407    1,055   4,096    2,195</p>
+<p>Total operating expenses</p>
+<p>					7,817    4,225  14,258    8,213</p>
+<p> Income from operations	 3,954    2,428   7,453    4,861</p>
+<p>   Other income - net	     364	169     720	104</p>
+<p> Income before income taxes   4,318    2,597   8,173    4,965</p>
+<p>Provision for income taxes</p>
+<p>					1,728    1,038   3,270    1,979</p>
+<p> Net income			 2,590    1,559   4,903    2,986</p>
+<p> Net income per share	    0.20     0.13    0.38     0.26</p>
+<p>Shares used in per share</p>
+<p>  calculation:		   13,081   12,183  13,070   11,682</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

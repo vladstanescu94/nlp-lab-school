@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="784169" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: Netscape sees little Microsoft-Apple linkup impact.</title>
+<headline>Netscape sees little Microsoft-Apple linkup impact.</headline>
+<dateline>PALO ALTO, Calif. 1997-08-06</dateline>
+<text>
+<p>Netscape Communications Corp said Wednesday it did not expect a technology and product alliance between Apple Computer Inc and Microsoft Corp to disrupt its own distribution agreement with Apple.</p>
+<p>&quot;We don't feel this is going to have a huge impact on the marketplace. Apple will continue to bundle Netscape,&quot; said Netscape spokeswoman Jennifer O'Mahony.</p>
+<p>&quot;Apple customers have not been fanatical Microsoft users to date ... I think those users will continue to opt for a non-Microsoft choice,&quot; she added.</p>
+<p>O'Mahony also said Netscape expects to continue to remain strong in the education market, where it offers a product at no charge and has a roughly 90 percent market share, she said.  </p>
+<p>Microsoft and Apple said as part of the agreement that Apple will bundle the Microsoft Internet Explorer browser with the Mac OS, making it the default browser in its future releases of the operating system software.</p>
+<p>Netscape has marketed its Internet software partly on its commitment to support the software on more than a dozen systems, including Microsoft's Windows systems and Apple's Macintosh system.  </p>
+<p>Apple Chief Financial Officer Fred Anderson said in a conference call with analysts Wednesday that Apple expected to continue to work with Netscape, but it had been barred from talking with Netscape under its Microsoft nondisclosure pact. Separately, Netscape said it is still considering whether or not it will offer a &quot;thin&quot; version of its Navigator browser which would be decoupled from its broad Communicator suite of products, introduced in June.</p>
+<p>&quot;This is something we're looking at internally,&quot; the company's spokeswoman said.  </p>
+<p>Analysts have said that Microsoft's deal last week to more tightly integrate its Internet Explorer browser and other technology with International Business Machines Corp's Lotus Notes could force Netscape to unbundle its Navigator browser from Communicator.</p>
+<p>Industry publications have reported Netscape would unbundle Navigator for IBM, but some analysts said it may be difficult now due to the tight integration into Communicator.</p>
+<p>Microsoft's software component architecture enables it to provide better integration with Notes, according to Lotus.</p>
+<p>&quot;In a nutshell, the browser continues to be a foyer to the desktop experience,&quot; said Ron Rappaport, a Zona Research analyst. &quot;If Netscape wants to avoid the type of situation that it was put in with the Lotus announcement, it needs to have something other than a Communicator version of Navigator.&quot;</p>
+<p>(sam.perry@reuters.com, in Palo Alto, +1 415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

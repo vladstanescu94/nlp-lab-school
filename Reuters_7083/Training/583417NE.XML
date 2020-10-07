@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583417" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Tandem unveils nonstop database for NT.</title>
+<headline>Tandem unveils nonstop database for NT.</headline>
+<dateline>CUPERTINO, California 1997-05-14</dateline>
+<text>
+<p>Tandem Computers Inc on Wednesday unveiled database software that will let companies store huge amounts of vital information on a network of cheap computers running Microsoft Corp's Windows NT.</p>
+<p>The Tandem software, dubbed Nonstop Sequel MX Database, divides a library of corporate information, such as customer or inventory lists, among up to 16 Windows NT server computers.</p>
+<p>But the software coordinates the functions of the 16 machines to operate as if they were one, speeding up searches, Tandem said.</p>
+<p>Until now, giant databases had to be stored on relatively expensive mainframe computers or servers based on the Unix software standard.</p>
+<p>Tandem, based in Cupertino, California, specialises in making computers and hardware that never shut off and can handle massive amount of transactions.</p>
+<p>Some of the world's biggest banks, telephone companies and stock exchanges rely on its fail-safe products to run their businesses.</p>
+<p>But the company's sales have been declining for the past two years as some of its traditional customers have set up information systems using networks of cheap PCs.</p>
+<p>The new database software is part of the company's strategy to use the popularity of Microsoft's Window NT networking software to get a jump on competitors, such as International Business Machines Corp and Oracle Corp, said Bill Heil, Tandem senior vice president.</p>
+<p>&quot;The people that are successful in the software industry have been able to get their products out early&quot; as new standards emerge, Heil said.</p>
+<p>He said Dayton Hudson Corp, owner of the retailing chain Target, will demonstrate on Wednesday that standard PC servers -- tied together with Tandem software and running Tandem's new database -- can handle Target's giant library of inventory and price information.</p>
+<p>((--Kourosh Karimkhany, in Palo Alto, 415 946 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

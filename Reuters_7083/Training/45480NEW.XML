@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45480" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Ziff-Davis Consumer acquires assets of Videogames.</title>
+<headline>Ziff-Davis Consumer acquires assets of Videogames.</headline>
+<dateline>NEW YORK 1996-09-11</dateline>
+<text>
+<p>Ziff-Davis Consumer Media Group said on Wednesday it had acquired assets of Videogames magazine from LFP Inc, including its list of subscribers.</p>
+<p>Videogames, a monthly magazine founded in 1993, will cease publication from its September 1996 issue while subscriptions for Videogames will be fulfilled by Electronic Gaming Monthly, published by Ziff-Davis.</p>
+<p>Videogames had an average paid circulation of 118,219, according to its December 1995 publisher's statement. Ziff Davis publishes computer magazines for the business and Internet market.</p>
+<p>Terms of the deal were not disclosed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I47520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

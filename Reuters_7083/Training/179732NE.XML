@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179732" id="root" date="1996-11-11" xml:lang="en">
+<title>CANADA: Corel to sell NC computer next year.</title>
+<headline>Corel to sell NC computer next year.</headline>
+<dateline>TORONTO 1996-11-11</dateline>
+<text>
+<p>Corel Corp said on Monday it will begin shipping a multimedia network computer by the end of the first quarter of next year.</p>
+<p>A number of computer companies have announced plans to sell the new so-called network computers, which are stripped down versions of personal computers used mainly for accessing the Internet.</p>
+<p>Corel said its computer, called the Corel Video NC, will come with the software package, Corel Office for Java. The computer will use Motorola Inc's MPC 821 Power PC processor chip. The computer can be expanded to include a floppy or hard drive through two PCMCIA slots.</p>
+<p>A digital camera can also be added to work with the built in microphone and speaker.</p>
+<p>--Reuters Toronto bureau 416-941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

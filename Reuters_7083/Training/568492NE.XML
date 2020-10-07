@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568492" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: TouchStone Software Q1 shr loss narrows.</title>
+<headline>TouchStone Software Q1 shr loss narrows.</headline>
+<dateline>HUNTINGTON BEACH, Calif. 1997-05-08</dateline>
+<text>
+<p>TOUCHSTONE SOFTWARE CORPORATION</p>
+<p>		   CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>				    (unaudited)</p>
+<p>							 Three Months Ended</p>
+<p>							     March 31,</p>
+<p>							1997	    1996</p>
+<p>Revenues:</p>
+<p>  Product sales			     $ 2,868,212   $  654,544</p>
+<p>  Royalty income				   70,811	101,526</p>
+<p>  Total revenue				 2,939,023	756,070</p>
+<p>Cost of revenue				 1,084,797	698,961</p>
+<p>    Gross Profit				1,854,226	 57,109</p>
+<p>Operating expenses:</p>
+<p>  Sales and marketing			 1,365,977	950,308</p>
+<p>  General and administrative		  328,210	457,316</p>
+<p>  Research and development		    555,650	260,550</p>
+<p>  Litigation costs				  -	    436,941</p>
+<p>Total costs and expenses		    2,249,837    2,105,115</p>
+<p>Loss from operations			  (395,611)  (2,048,006)</p>
+<p>Other income, net				 179,505	190,270</p>
+<p>Net loss					$ (216,106) $(1,857,736)</p>
+<p>Net loss per share			  $    (0.03) $     (0.25)</p>
+<p>Weighted average shares		     7,811,000    7,366,000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTINGTON BEACH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

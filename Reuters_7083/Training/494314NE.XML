@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494314" id="root" date="1997-04-08" xml:lang="en">
+<title>GERMANY: Germany's SAP sees big '97 sales, profit gains. [corrected 17:45 gmt]</title>
+<headline>Germany's SAP sees big '97 sales, profit gains. [corrected 17:45 gmt]</headline>
+<dateline>BONN 1997-04-08</dateline>
+<text>
+<p>German business software group SAP AG, confirming a newspaper report, said on Tuesday it expects sales to surge to 4.8 billion marks (corrects forecast from &quot;between 4.8 billion and 5.0 billion marks&quot;) and profits to jump to over 700 million marks this year.</p>
+<p>In 1996, SAP net profit totalled 567.5 million marks and group sales were 3.72 billion marks. The company said recently that it expected sales to increase 25 to 30 percent this year and that profits would grow slightly stronger than sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

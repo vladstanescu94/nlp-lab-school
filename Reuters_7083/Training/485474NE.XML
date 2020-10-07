@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485474" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: WebTV Networks enters &quot;Java for TV&quot; pact.</title>
+<headline>WebTV Networks enters &quot;Java for TV&quot; pact.</headline>
+<dateline>SAN FRANCISCO, Calif. 1997-04-02</dateline>
+<text>
+<p>Web TV Networks Inc said on Wednesday it will work with Sun Microsystems Inc to develop a &quot;Java for TV&quot; initiative bringing new features of the Internet to television.</p>
+<p>In a keynote address at Sun's JavaOne industry conference here, Sun executives demonstrated how a WebTV could use Java on a television set to browse through TV programs and select TV channels or Internet pages.</p>
+<p>WebTV launched a set-top box along with licensees Sony Corp and Philips Electronics last fall and runs an Internet service delivered over normal telephone lines to televisions.</p>
+<p>WebTV spokeswoman Marcy Dockery said the company had co-developed the PersonalJava system Sun unveiled on Wednesday and is the first company to license the implementation, which enables devices like televisions, set-top boxes and screen-equipped phones to run Java.</p>
+<p>Java is a programming language popular for use on the Internet which enables software programmers to write one piece of software to run on a broad variety of computers.</p>
+<p>Investors in WebTV include Seagate Technology, Microsoft Corp, Citicorp, Times-Mirror Inc., the Washington Post, and Verifone.</p>
+<p>Venture capital investors include Asia Pacific Ventures, Brentwood Venture Capital, Microsoft co-founder Paul Allen's Vulcan Ventures, St. Paul Capital, George Soros Capital and Lauder Partners. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

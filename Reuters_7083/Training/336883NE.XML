@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="336883" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: StarBase Corp Q3 full results.</title>
+<headline>StarBase Corp Q3 full results.</headline>
+<dateline>IRVINE, Calif 1997-01-28</dateline>
+<text>
+<p>For the Quarter and Nine Months Ended December 31, 1996</p>
+<p>		 (In thousands, except per share amounts)</p>
+<p>				 Three months	    Nine months</p>
+<p>				ended December		ended</p>
+<p>				     31,		  December 31,</p>
+<p>				  (unaudited)	    (unaudited)</p>
+<p>				 1996	 1995	1996	 1995</p>
+<p> Net revenue	     $   385   $    15   $   766    $   728</p>
+<p> Gross margin		  361	  11	 714	   26</p>
+<p> Net loss		  (1,268)   (1,047)   (3,845)    (4,612)</p>
+<p> Net loss per share     (0.10)    (0.13)    (0.32)     (0.65)</p>
+<p>Weighted average</p>
+<p>  shares outstanding    13,210     7,823    12,053	7,045</p>
+<p>Cash and cash</p>
+<p>  equivalents		4,439     3,077</p>
+<p> Total assets		5,441     4,134</p>
+<p> Total liabilities	   709     3,100</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

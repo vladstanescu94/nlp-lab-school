@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146994" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Netscape, Oracle in pact.</title>
+<headline>Netscape, Oracle in pact.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-28</dateline>
+<text>
+<p>Netscape Communications Corp and Oracle Corp, seeking to limit Microsoft Corp's efforts to become a dominant provider of Internet software, on Monday announced a plan to integrate, market and distribute each others' products.</p>
+<p>Netscape, whose Navigator software has more than 80 percent of the Internet browser market, and Oracle said the alliance brings together Oracle's Universal Server and so-called Network Computer products with Netscape Commercial Applications for the Internet and Netscape's market-leading Netscape Navigator.  </p>
+<p>Under terms of the alliance, Oracle will bundle Netscape Navigator with the Intel Corp -based Network Computer (NC) software operating environment produced by Oracle's wholly owned subsidiary, Network Computer Inc. Netscape Navigator will be a standard feature of the Intel-based NCs, which are expected to ship in the first half of 1997. Oracle said it will not offer other third party browser products bundled with its Intel-based NCs. Additionally, Netscape Navigator will be Oracle's preferred third party Internet client for selected future Oracle products.  </p>
+<p>In a second agreement, Oracle enterprise and workgroup database servers will be the only databases bundled with Netscape Commercial Applications, including Netscape Merchant System, Netscape Publishing System and Netscape Community System. Netscape will not offer non-Oracle database software bundled with these Commercial Applications.</p>
+<p>Also, the agreement establishes Oracle Universal Server as Netscape's preferred database for Commercial Applications, and Netscape will bring Oracle Universal Server-based versions of Netscape Livewire Pro and Netscape SuiteSpot server family to the market.  </p>
+<p>Network Computers, or NC's as they are more commonly known, are stripped-down versions of personal computers that are expected to sell for a fraction of what a standard computer costs. Oracle and Sun Microsystems Inc plan to introduce separate versions of the NC soon. Microsoft, which until now has dismissed the NC, plans to announce its own version of the device later today.</p>
+<p>Unlike the personal computer, which relies on operating system software to run its programs, the NC uses Internet technology to access software from large servers.</p>
+<p>Industry analysts said such a switch would hurt Microsoft because the software giant relies on sales of its Windows operating system for part of its strong growth.</p>
+<p>Microsoft and Netscape are currently locked in a battle for control of the software market for the Internet and more-lucrative intranet technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

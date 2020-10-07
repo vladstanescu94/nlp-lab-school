@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="785085" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: Microsoft co-founder Allen sells part of stake.</title>
+<headline>Microsoft co-founder Allen sells part of stake.</headline>
+<dateline>SEATTLE 1997-08-07</dateline>
+<text>
+<p>Microsoft Corp. co-founder Paul Allen has sold more than $700 million of stock in the software giant to fund other investments including his purchase of the Seattle Seahawks football team, officials said Thursday.</p>
+<p>Allen has sold 5.45 million shares of Microsoft over the past several weeks to fund &quot;a variety of investments that are contemplated or already have been agreed to,&quot; said Bill Savoy, president of Allen's Vulcan Ventures Inc.</p>
+<p>At Microsoft's recent average stock price of about $140, the sales would have brought in some $763 million, less commissions.</p>
+<p>While Allen has sold stock nearly every quarter since the company went public in 1986, the sales in the latest period were by far a record for the technology mogul.</p>
+<p>Part of the money is going to pay for the Seahawks, which Allen recently purchased for a reported $200 million. Allen also has committed up to $100 million toward a new football stadium that will be funded mostly through taxes.</p>
+<p>Even after the sale Allen retains about 100 million shares of Microsoft, a stake of nearly 9 percent, worth more than $14 billion and good enough for third place on the latest Forbes magazine list of the wealthiest Americans.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I97911">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

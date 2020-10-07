@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144277" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Mustang Software Inc Q3 loss.</title>
+<headline>Mustang Software Inc Q3 loss.</headline>
+<dateline>BAKERSFIELD, Calif. 1996-10-24</dateline>
+<text>
+<p>(Unaudited)</p>
+<p>			Three Months Ended     Nine Months Ended</p>
+<p>			    Sept. 30,		  Sept. 30,</p>
+<p>			    1996	1995	  1996	  1995</p>
+<p> REVENUE	  $  755,235 $2,602,972  $3,224,233  $4,586,560</p>
+<p> COSTS OF REVENUE  114,903    411,396     579,122     780,634</p>
+<p>   Gross profit    640,332  2,191,576   2,645,111   3,805,926</p>
+<p>OPERATING EXPENSES:</p>
+<p>Research and development</p>
+<p>			 242,096    264,068     733,144     542,811</p>
+<p>Selling and marketing</p>
+<p>		     1,028,439    841,688   2,780,308   1,571,150</p>
+<p>General and administrative</p>
+<p>			 518,917    542,666   1,716,235   1,364,303</p>
+<p>Total operating</p>
+<p>	expenses   1,789,452  1,648,422   5,229,687   3,478,264</p>
+<p>Income (loss) from   operations   (1,149,120)    543,154  (2,584,576)    327,662</p>
+<p>Interest income</p>
+<p>    (expense), net  30,953     71,085     166,845     135,393</p>
+<p>Income (loss) before</p>
+<p>provision for</p>
+<p>income taxes</p>
+<p>		   (1,118,167)    614,239  (2,417,731)    463,055</p>
+<p>PROVISION FOR INCOME TAXES</p>
+<p>			     ---    195,500	   ---     150,000</p>
+<p>NET INCOME (LOSS)</p>
+<p>		   (1,118,167)    418,739 (2,417,731)     313,055</p>
+<p>NET INCOME (LOSS)   PER COMMON SHARE   (.33)	  .12	 (.72)	   .11</p>
+<p>WEIGHTED AVERAGE NUMBER OF SHARES OUTSTANDING</p>
+<p>		     3,362,940  3,390,000   3,360,570   2,965,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAKERSFIELD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183259" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Sun cuts server prices.</title>
+<headline>Sun cuts server prices.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-11-12</dateline>
+<text>
+<p>Sun Microsystems Inc on Tuesday slashed prices as much as 38 percent on its most popular lines of UltraComputing workstations and workgroup servers.</p>
+<p>Sun also announced a new entry configuration for its accelerated 24-bit, 3D graphics UltraTM 1 workstation line.</p>
+<p>In a statement, Sun said the price cuts, which range from 10 percent on some models to 38 percent on others are effective today.  </p>
+<p>Sun officials said the move was aimed at building the company's share of the workstation and workgroup server market.</p>
+<p>&quot;The Ultra workstation's success over the past year has been phenomenal,&quot; Gene Banman, vice president and general manager of Sun Microsystems' Desktop Systems Group, said in a statement. &quot;We expect these price reductions to help us to continue to grow our market share.&quot;</p>
+<p>Prices for the Ultra Enterprise workgroup servers, introduced last spring, were cut by up to 38 percent while memory is being doubled in most configurations, Sun said.  </p>
+<p>Prices now start at $7,495 for the new entry-level Ultra Enterprise 1 server, which comes with one 143-megahertz processor, a 10 megabit Ethernet connection, 64 megabytes of memory and two gigabytes of storage.</p>
+<p>The price cuts follow recent introductions by Hewlett-Packard Co, which touted its machines as the world's fastest, and Silicon Graphics Inc, which delivered its largest product launch in years.</p>
+<p>Sun cited a Dataquest report that found the company's share of the market had risen to 41.7 percent in the second quarter from 36.1 percent 12 months earlier.  </p>
+<p>Its share was greater than the shares of Hewlett Packard, Silicon Graphics, Digital Equipment Corp and International Business Machines Corp combined.</p>
+<p>Compaq Computer Corp, which made its name in sales of personal computers based on Microsoft Corp's software and Intel Corp's microprocessors, also recently launched an effort to market higher-end workstations.</p>
+<p>Sun said its Ultra 1 model 140 -- with a 17-inch color monitor, 64 megabytes of memory, a two-gigabyte disk and TurboGX graphics -- now starts at $7,995.  </p>
+<p>With volume discounts, Sun said prices were comparable to high-end personal computers.</p>
+<p>Sun said its Ultra 1 model 140 Creator 3D machine with a similar configuration is priced at $13,995. The price could fall to less than $10,000 when purchased in volume.</p>
+<p>Analysts said the pricing move would help Sun maintain its momentum in the face of intensifying competition.</p>
+<p>The workstation maker said it was also bundling its Solaris Internet Access PlusPack at no charge with all its SPARC and Ultra SPARC desktop systems, starting late this month. It credits  its Java programming platform used on the World Wide Web with opening the doors of new customers.</p>
+<p>The price cuts take effect immediately, Sun said.</p>
+<p>--sam.perry@reuters.com, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

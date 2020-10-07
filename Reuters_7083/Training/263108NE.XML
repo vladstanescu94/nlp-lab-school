@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263108" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: RESEARCH ALERT - Electronic Arts raised.</title>
+<headline>RESEARCH ALERT - Electronic Arts raised.</headline>
+<text>
+<p>-- Robertson Stephens &amp; Co said its analyst Keith Benjamin raised his rating on shares of video game maker Electronic Arts Inc to buy from long-term attractive based on price.</p>
+<p>-- In a statement, he said the stock's recent weakness does not seem to be justified given its positioning on major video game platforms.</p>
+<p>-- Benjamin sees &quot;a strong product line-up&quot; for the next several quarters, and he expects earnings in the company's third quarter, ending December 31, &quot;will be at least in line with expectations with some room for positive surprises.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

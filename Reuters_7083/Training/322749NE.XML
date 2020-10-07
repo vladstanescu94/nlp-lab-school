@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="322749" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: Be takes lone path after Apple fallout.</title>
+<headline>Be takes lone path after Apple fallout.</headline>
+<dateline>LA QUINTA, Calif. 1997-01-20</dateline>
+<text>
+<p>Jean-Louis Gassee, the chairman and chief executive of Be Inc, said on Monday his company would revert back to its previous game plan after failing to woo Apple Computer Inc into buying it.</p>
+<p>In late December, Apple announced a deal to buy NeXT Software for $400 million, ending months of speculation that Apple would be acquire Be Inc instead to update Apple's ageing Macintosh OS computer operating system.</p>
+<p>&quot;I certainly appreciate the exposure they've given us -- without them we wouldn't be here tonight,&quot; Gassee said in an evening keynote presentation at the Upside Technology Summit.</p>
+<p>Be executives demonstrated the software system's ability to perform multiple video graphics-intensive tasks on a PowerPC based computer using four microprocessors.</p>
+<p>Gassee, a former Apple executive, said Apple's choice was understandable in that his startup's software is still largely untested in large organizations which had been a major focus at NeXT, which was headed by Apple co-founder Steve Jobs.</p>
+<p>&quot;We have no credibility in the enterprise market -- I accept that,&quot; Gassee told an audience of industry executives.</p>
+<p>Gassee said despite the distraction of the Apple merger talks, which had begun in June, his company was prepared to go it alone on its original business plan, noting its financial backers' support predates the merger prospect.</p>
+<p>The Be executive said more than 2,000 developers had their hands on its software and that Be would go back to working with Apple Macintosh-compatible computer maker Power Computing and focus itself on the creative multimedia market.</p>
+<p>In the company's favor, he said, were the rapidly changing dynamics of the computer marketplace, the prospect of cheaply marketing and delivering software over the Internet, and Be's working relationship with Power Computing and others in the PowerPC grouping of Apple, Motorola and IBM.</p>
+<p>&quot;We are still a high risk, high reward company,&quot; he said of the Menlo Park, Calif.-based startup, which he described as &quot;a minuscule company&quot; of 52 employees.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA QUINTA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

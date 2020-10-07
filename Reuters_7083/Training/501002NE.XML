@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="501002" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: Oracle tops '96 database market - Dataquest.</title>
+<headline>Oracle tops '96 database market - Dataquest.</headline>
+<dateline>SAN JOSE, Calif. 1997-04-10</dateline>
+<text>
+<p>Oracle Corp was the top vendor in the global database market in 1996 with 30 percent market share, according to a Dataquest study.</p>
+<p>International Business Machines Corp was in second place with 26 percent market share, followed by Informix Corp, Dataquest said.</p>
+<p>Driven by the strong growth in the relational database management system (RDBMS) market, the worldwide database market grew 15 percent in 1996, reaching revenues of $5.7 billion compared to $4.9 billion in 1995, the study said.  </p>
+<p>Dataquest, a market research company that is part of Gartner Group, said the report is offered as part of its Client/Server Software Worldwide program.</p>
+<p>The report predicts that the database market will reach $10.1 billion in the year 2001, with most of the revenue coming from RDBMS products and with UNIX, the platform for half of the overall revenue base.</p>
+<p>&quot;The emergence of the Universal Server has prompted renewed activity in the RDBMS market, which has benefited all participating vendors,&quot; said Carolyn DiCenzo, director of Dataquest's client/server software program.  </p>
+<p>Dataquest said Oracle posted 1996 database revenues of $1.70 billion. IBM posted $1.46 billion and Informix reported $527 million. All the other, unnamed vendors accounted for $2.01 billion in revenues, the report said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

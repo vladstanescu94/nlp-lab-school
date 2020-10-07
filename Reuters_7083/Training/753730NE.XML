@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753730" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: Informix to pin growth on Windows NT products.</title>
+<headline>Informix to pin growth on Windows NT products.</headline>
+<dateline>SAN FRANCISCO</dateline>
+<text>
+<p>Informix Corp., looking for new sources of revenue, said Wednesday it will focus its marketing and technical resources on developing database software products that would run on high-powered personal computers.</p>
+<p>Informix, the second-largest independent developer of data management software, will release new versions of all its key products to run on Microsoft Corp.'s Windows NT software standard, the company said.</p>
+<p>Until now, Informix software had been written to run mostly on relatively expensive computers that use the Unix software standard.</p>
+<p>Informix executives said they expect revenues from sales of Windows NT-based products to grow much more rapidly than Unix products.</p>
+<p>&quot;If you go back a year, we thought Windows NT was the enemy,&quot; Informix Chairman Phil White told customers at the Informix User Conference in San Francisco. &quot;We, in fact, are expanding what we think is a tremendous opportunity.&quot;</p>
+<p>Informix shares jumped 62.6 cents, or 6 percent, to $11.44, partly on its prospects in the new market.</p>
+<p>The company Tuesday also named Bob Finocchio, a veteran executive from 3Com Corp., as chief executive. He is expected to improve Informix's financial performance, analysts said.</p>
+<p>Informix writes database software, the computer programs that store huge amounts of information in corporate computer networks.</p>
+<p>Until a couple of years ago, most of the world's biggest companies preferred to use Unix software to control the flow of information through their networks. But as cheap personal computers became more popular, many of those companies switched their software foundation to Microsoft's Windows NT.</p>
+<p>Sales of database products based on Windows NT are expected to more than triple to about $1.5 billion by the year 2000, according to some industry estimates.</p>
+<p>Informix executives said they are planning to have 50 percent of the NT database market by 2000. The company had about $21 million of sales from NT-based products last year.</p>
+<p>Some analysts said Informix's goals are perhaps too optimistic, given competition with companies such as database giant Oracle Corp. and Microsoft Corp.</p>
+<p>Informix also trumpeted its Windows NT plans at last year's user conference, &quot;but they really didn't make much progress,&quot; said Jim Pickrel, analyst at investment bank Hambrecht &amp; Quist. &quot;You got Oracle and Microsoft going after the same market, so Informix has an uphill battle.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

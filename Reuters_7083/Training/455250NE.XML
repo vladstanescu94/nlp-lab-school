@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="455250" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: Geoworks sees lower than forecast Q4 sales.</title>
+<headline>Geoworks sees lower than forecast Q4 sales.</headline>
+<dateline>ALAMEDA, Calif. 1997-03-20</dateline>
+<text>
+<p>Geoworks said Thursday it expects to report fourth quarter revenues of between $1.8 million and $2.2 million, which is lower than earlier anticipated.</p>
+<p>The company said the shortfall results from delays in recognition of non-recurring engineering fees and the adoption of a more conservative approach to estimating product revenues. Under the new approach, Geoworks said it is focusing estimates on product sell-through to the ultimate customer.</p>
+<p>Geoworks makes software and mobile communicating devices for the cellular industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

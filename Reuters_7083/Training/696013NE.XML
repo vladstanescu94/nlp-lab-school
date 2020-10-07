@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="696013" id="root" date="1997-06-30" xml:lang="en">
+<title>AUSTRALIA: Solution buys Computer Automated Business.</title>
+<headline>Solution buys Computer Automated Business.</headline>
+<dateline>SYDNEY 1996-07-01</dateline>
+<text>
+<p>Software group Solution 6 Holdings said on Tuesday it had a conditional agreement to acquire the assets and undertakings of Computer Automated Business Systems Pty Ltd (CABS) for A$3 million in cash and an issue of seven million shares ordinary shares in Solution 6.</p>
+<p>CABS is a privately-owned Australian company and an international supplier of practise management systems for large accountancy firms.</p>
+<p>The deal is due to be completed on August 7. CABS current managing director Guy Galipenzo will join the Solution 6 board.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

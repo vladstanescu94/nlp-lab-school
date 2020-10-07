@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="306399" id="root" date="1997-01-14" xml:lang="en">
+<title>USA: Computer Associates, NCR in pact.</title>
+<headline>Computer Associates, NCR in pact.</headline>
+<dateline>NEW YORK 1997-01-14</dateline>
+<text>
+<p>Computer Associates International Inc and NCR Corp said they had formed a product licensing pact in which NCR has agreed to license CA's systems management software to run on its computer systems.</p>
+<p>NCR, the former computer arm of AT&amp;T Corp, began trading separately this month. NCR sells computer servers used to run the so-called mission-critical operations of large companies, including data warehousing and transaction processing systems.</p>
+<p>The systems are popular among retailers and financial service firms.  </p>
+<p>The deal furthers Computer Associates strategy aimed at making its CA-Unicenter systems management software the dominant standard for managing organizational computer systems running a variety of different computer operating systems.</p>
+<p>Computer Associates said Unicenter will be available on NCR's Windows NT operating system in the first quarter of 1997 and for NCR's UNIX-based systems in the second quarter.</p>
+<p>The deal could give a boost to Computer Associates where it needs it most -- in Europe, where NCR has a strong presence. NCR derived 31 percent of its roughly $8 billion in 1995 revenues from its Europe, Middle East and Africa region.  </p>
+<p>In late December, Computer Associates warned its revenues for the third quarter ended December 31 would fall short of Wall Street expectations. It said it expected revenues in the range of $1 to $1.1 billion, below the $1.2 billion consensus.</p>
+<p>Computer Associates blamed the shortfall on its European operations, where it said the company's transition to a greater focus on client/server software has had a bumpy reception compared with its business in North America.</p>
+<p>In the fall, Computer Associates announced plans to shift its focus to client/server-based products, which account for a third of its revenues, instead of its traditional focus on mainframe software, from which it derives most of the rest.</p>
+<p>NCR is based in Dayton, Ohio.  Computer Associates is headquartered in Islandia, N.Y.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

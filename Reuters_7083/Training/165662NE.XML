@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165662" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Penril DataComm sets stock dividend.</title>
+<headline>Penril DataComm sets stock dividend.</headline>
+<dateline>GAITHERSBURG, Md. 1996-11-05</dateline>
+<text>
+<p>Penril DataComm Networks said it has declared a stock dividend in connection with the spin-off of its networking products business, to be named Access Beyond Inc.</p>
+<p>Penril said its shareholders will receive one share of Access Beyond stock for each share of Penril stock held as of the record date, set at the close of business November 14. Pay date is on or about November 19, the company said.  </p>
+<p>Penril said distribution of the dividend is contingent upon conditions involved in the sale of its modem business to Bay Networks Inc, including approval of the sale by its shareholders at a special meeting November 15.</p>
+<p>Penril plans to sell its modem business to Bay for $10 per share in stock and make its networking products business a publicly traded company called Access Beyond Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GAITHERSBURG, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

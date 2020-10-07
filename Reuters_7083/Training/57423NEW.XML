@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57423" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Motorola launches next PowerStack line.</title>
+<headline>Motorola launches next PowerStack line.</headline>
+<dateline>ATLANTA 1996-09-17</dateline>
+<text>
+<p>Motorola Inc said on Tuesday that it launched the next generation of its PowerStack computer system that will be compatible with Microsoft Corp's latest Windows NT 4.0 and systems compatible with Apple Computer Inc's MacIntosh systems.  </p>
+<p>The company said six new workstation and server systems comprised the PowerStack II series, which were based on PowerPC microprocessors.</p>
+<p>It said it had also launched is StarMax systems, as well as enhanced its PowerStack Series E Servers.</p>
+<p>StarMax is based on PowerPC and compatible with Mac OS, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

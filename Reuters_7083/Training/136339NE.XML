@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136339" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: Jetform, Xerox form alliance.</title>
+<headline>Jetform, Xerox form alliance.</headline>
+<dateline>OTTAWA 1996-10-23</dateline>
+<text>
+<p>Jetform Corp said it formed an alliance with Xerox Corp to bring improved electronic form products to market.</p>
+<p>Terms of the alliance were not disclosed.</p>
+<p>It said the alliance will help streamline business processes for organizations that produce a high volume of business forms.</p>
+<p>Xerox will integrate JetForm software with Xerox Print Services Manager. The Service Manager manages access to Xerox production printers and provides other printing services, from an RS/6000-based platform.</p>
+<p>Xerox and JetForm will also jointly provide marketing and customer support for the products.</p>
+<p>--Reuters Toronto bureau 416-941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127336" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: ULTRADATA Corp Q3 loss vs profit.</title>
+<headline>ULTRADATA Corp Q3 loss vs profit.</headline>
+<dateline>PLEASANTON, Calif. 1996-10-17</dateline>
+<text>
+<p>ULTRADATA CORPORATION</p>
+<p>			 CONDENSED STATEMENTS OF INCOME</p>
+<p>	    FOR THE QUARTERS ENDED SEPTEMBER 30, 1996 AND 1995</p>
+<p>		     (In thousands, except share data)</p>
+<p>				 (Unaudited)</p>
+<p>					    Three Months Ended</p>
+<p>					     September 30,</p>
+<p>						 1996	 1995</p>
+<p>Revenue</p>
+<p>	Software			    $1,929    $3,453</p>
+<p>	Maintenance			  2,290     1,817</p>
+<p>	Services and other		 1,877     1,094</p>
+<p>	Hardware			     2,595     2,717</p>
+<p> Total revenue			     8,692     9,081</p>
+<p>Cost of Goods Sold</p>
+<p>	Software				 408	 563</p>
+<p>	Maintenance			  1,359	 785</p>
+<p>	Services and other		 1,732	 880</p>
+<p>	Hardware			     1,801     1,882</p>
+<p> Total cost of goods sold		5,301     4,110</p>
+<p> Gross margin				3,391     4,971</p>
+<p>	Product development		1,627	 911</p>
+<p>Selling,General and</p>
+<p>	 Administrative		    4,375     3,084</p>
+<p>						 6,003     3,995</p>
+<p> Operating (loss) income	    ( 2,611)	 976</p>
+<p> Interest income (expense), net	   96	(49)</p>
+<p> (Loss) income before income taxes ($2,516)	928</p>
+<p> Income tax (benefit) expense	  (931)	 352</p>
+<p> Net (loss) income after taxes     (1,585)	 576</p>
+<p> Net (loss) income per share	  (0.21)	0.09</p>
+<p>Shares used in per share</p>
+<p>  computations			     7,432     6,092</p>
+<p>					    Nine Months Ended</p>
+<p>						 Sept. 30,</p>
+<p>						  1996	1995</p>
+<p>Revenue</p>
+<p>	Software			   $10,059    $6,396</p>
+<p>	Maintenance			  6,246     5,335</p>
+<p>	Services and other		 5,807     3,162</p>
+<p>	Hardware			    11,629     5,734</p>
+<p> Total revenue			    33,741    20,627</p>
+<p>Cost of Goods Sold</p>
+<p>	Software			     2,077	 972</p>
+<p>	Maintenance			  3,553     2,414</p>
+<p>	Services and other		 5,598     2,500</p>
+<p>	Hardware			     8,097     4,274</p>
+<p> Total cost of goods sold	     19,325    10,160</p>
+<p> Gross margin			     14,416    10,467</p>
+<p>	Product development		4,402     2,785</p>
+<p>Selling, General and</p>
+<p>	Administrative		    11,125     8,370</p>
+<p>						15,527    11,155</p>
+<p> Operating loss			 ( 1,111)    ( 688)</p>
+<p> Interest income (expense), net	  316     ( 26)</p>
+<p> Loss before income taxes	     ( 795)    ( 714)</p>
+<p> Income tax benefit			(294)     (270)</p>
+<p> Net loss after taxes		   ( 501)    ( 444)</p>
+<p> Net loss per share		    ( 0.07)   ( 0.07)</p>
+<p>Shares used in per share</p>
+<p>  computation				7,086     6,040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

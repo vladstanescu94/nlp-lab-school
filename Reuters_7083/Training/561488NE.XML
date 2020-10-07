@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561488" id="root" date="1997-05-05" xml:lang="en">
+<title>GERMANY: SAP faces probe for insider trading.</title>
+<headline>SAP faces probe for insider trading.</headline>
+<dateline>BONN 1997-05-05</dateline>
+<text>
+<p>Frankfurt prosecutors said on Monday they were investigating possible insider trading in shares of software maker SAP AG in one of the most serious cases seen in Germany to date.</p>
+<p>&quot;The investigation is looking at the use of insider knowledge in the trading of shares,&quot; prosecutor spokesman Job Tilmann told Reuters.  </p>
+<p>Tillmann declined to identify individuals targeted in the probe. &quot;At the moment we are not naming specific people,&quot; he said. &quot;The investigation is just beginning. It is too early.&quot;</p>
+<p>Business daily Handelsblatt on Monday reported the probe was looking at trades by more than 100 persons, including members of SAP's supervisory and management boards.</p>
+<p>The newspaper quoted SAP spokesman Michael Pfister as saying, &quot;We are aware of the investigations.&quot;</p>
+<p>Pfister said the investigations were routine, in connection with sharp price movements in the company's shares. All necessary records haD been handed over to the oversight authority, Pfister said.  </p>
+<p>SAP was not immediately available for comment on Monday.</p>
+<p>The investigation covered trading by employees, their relatives and friends immediately prior to a company announcement on October 23, 1996, Tilmann said.</p>
+<p>Within minutes of the announcement -- that nine-month profit was below expectations -- SAP shares fell 23.6 percent to 212 marks on the Frankfurt Stock Exchange.</p>
+<p>Tilmann said the initial investigation could be finished in about a month.</p>
+<p>Telephone records are being examined as evidence in the case, Handelsblatt said.</p>
+<p>Germany's Federal Authority for Securities Trading notified prosecutors of suspicions of insider trading in January, Tilmann said.</p>
+<p>Handelsblatt quoted authority spokesman Juergen Oberfrank as saying the case was one of the largest and most serious since a new German insider trading law took effect in 1994.</p>
+<p>-- Neal Boudette, Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

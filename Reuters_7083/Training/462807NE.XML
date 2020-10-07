@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462807" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: LittleBrother is watching YOU.</title>
+<headline>LittleBrother is watching YOU.</headline>
+<dateline>MILPITAS, Calif. 1997-03-24</dateline>
+<text>
+<p>Attention, corporate Web surfers -- LittleBrother may be watching you.</p>
+<p>Kansmen Corp. on Monday unveiled the latest version of its LittleBrother software, which enables companies to monitor employee use of the Internet and the Internet-like computer networks known as intranets -- and can even block worker access to certain Web sites.</p>
+<p>&quot;LittleBrother is not a censorship tool -- it is a business productivity tool,&quot; Kan Ng, president of the Milpitas, Calif.-based company, said in a statement.</p>
+<p>&quot;Employees should not make excessive personal long-distance calls or take office supplies for personal use because it wastes company time and money,&quot; Ng said. &quot;In the same sense, employees should not waste company time and money at unproductive Internet sites.&quot;</p>
+<p>The Internet is a vast treasurehouse of information, such as corporate filings with the Securities and Exchange Commission or constantly updated satellite weather maps.</p>
+<p>But the Net also has destinations many bosses might frown on, such as the Dilbert cartoon site (&quot;It's better than working&quot;) or Playboy magazine's cyberspace counterpart.</p>
+<p>The version of LittleBrother version 1.2 released Monday comes in two varieties: a $295 product that tracks and analyzes computer network use and a $495 LittleBrother Professional Edition that also blocks access to certain Internet sites.</p>
+<p>The software, first released in December, can identify who uses the Internet, where they go and how long they stay; identify who is downloading material unrelated to work and finger people playing network games or using chat rooms, Kansmen said.</p>
+<p>The higher-priced software includes a list of blocked sites in categories like pornography and game-playing, and companies can create their own lists of banned sites, the private company said.</p>
+<p>But LittleBrother isn't a total drag on the fun-loving corporate Web-head. The software can be configured to allow full Web access before work hours, during lunch and after work.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILPITAS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

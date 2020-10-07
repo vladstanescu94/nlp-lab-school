@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268155" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: PC-Quote loses Charles Schwab contract.</title>
+<headline>PC-Quote loses Charles Schwab contract.</headline>
+<dateline>CHICAGO 1996-12-19</dateline>
+<text>
+<p>PC Quote Inc, which provides online stock and market quotes, said the company's agreement to provide securities quotes and financial news to Charles Schwab &amp; Co offices across the United States will end on December 31.</p>
+<p>In a statement released late Wednesday, the company said the agreement made up 10 percent of PC Quote's overall revenues.  </p>
+<p>&quot;This working agreement has been beneficial for both companies, but we were unable to resolve some pricing issues in our latest round of service negotiations,&quot; Howard Meltzer, president and chief operating officer, said.</p>
+<p>&quot;We do hope to be able to work with Schwab again at some point in the future,&quot; he said.</p>
+<p>PC Quote said it is seeing new revenues from its Internet products and services, in subscriptions, co-branding and advertising, which will help offset the short-term revenue loss.</p>
+<p>In addition, PC Quote said it will now accelerate its efforts to close on other current revenue opportunities.</p>
+<p>&quot;We have a lot of seeds planted right now,&quot; Meltzer said. &quot;We are talking to other financial institutions about adding our on-line quotes and news products.&quot;</p>
+<p>The company said it has seen increased interest in its recently-launched electronic equities transaction product called RealTrade, and it is working on further ways to leverage its agreement with Microsoft Excel 97.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242678" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Microsoft surges after stock split.</title>
+<headline>Microsoft surges after stock split.</headline>
+<dateline>SEATTLE 1996-12-09</dateline>
+<text>
+<p>Microsoft Corp's shares surged about seven percent on Monday, the first day of trading after a two-for-one stock split.</p>
+<p>Microsoft was up 5-3/8 at 81-3/4 in late trading on the Nasdaq, where it was the most active issue with more than 11.7 million shares changing hands.</p>
+<p>Analysts said the split, announced November 12, apparently attracted retail investors to the stock.</p>
+<p>&quot;There doesn't seem to be any fundamental news today,&quot; said analyst Scott McAdams of Ragen MacKenzie. &quot;My guess is that this is being driven by retail investors trying to take advantage of the new lower price of the stock.&quot;</p>
+<p>Microsoft stock has nearly doubled this year and is up 20 percent in the last month alone, raising questions among some analysts about whether the computer software company is overvalued.</p>
+<p>-- Reuters Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

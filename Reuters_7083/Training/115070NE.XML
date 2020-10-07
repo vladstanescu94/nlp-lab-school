@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115070" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Netscape, 40 companies in real-time media pact.</title>
+<headline>Netscape, 40 companies in real-time media pact.</headline>
+<dateline>SEATTLE 1996-10-14</dateline>
+<text>
+<p>Netscape Communications Corp. and Progressive Networks Inc. said they and 40 other companies agreed to a proposed open standard governing delivery of real-time multimedia information over the Internet.</p>
+<p>Backers of the new standard include computer industry giants such as Apple Computer Inc., Autodesk Inc.'s Kinetix unit, Cisco Systems Inc., Hewlett-Packard Co., International Business Machines Corp., Silicon Graphics Inc., Sun Microsystems Inc. and Macromedia Inc.</p>
+<p>Absent from the list was Microsoft Corp.</p>
+<p>The new standard, which is known as the Real Time Streaming Protocol, or RTSP, is a communications protocol for control and delivery of real-time media.</p>
+<p>Its backers compare development of the standard to similar standards efforts in other broadcast media such as FM, or Frequency Modulation, in radio and the NTSC, or National Television Standards Committee, which is the U.S. and Canadian television industry standard broadcast quality video.</p>
+<p>Widespread support for this unified standard is considered crucial to ensure interoperability and give software developers more flexibility in developing multimedia programmes.</p>
+<p>&quot;Until now, each vendor of Internet multimedia systems had a different approach, which has led to confusion,&quot; said analyst Jerry Michalski, managing editor of Release 1.0, a computer industry newsletter.</p>
+<p>&quot;This, combined with the impressive group of industry-leading companies that support RTSP, should catalyze streaming media development on the Web.&quot;</p>
+<p>RTSP evolved from work done at Progressive Networks and Netscape. Progressive Networks is a leading provider of Internet voice transmission technology based in Seattle, Wash.</p>
+<p>The RTSP incorporates aspects of the International Telecommunications Unions H.323 videoconferencing standard and is designed to minimise the amount of data necessary to produce high quality sound and pictures over the Internet.</p>
+<p>The standard anticipates the convergence of telephones, videoconferencing and multimedia broadcasting over the Internet, its supporters said.</p>
+<p>Microsoft was not immediately available to comment on whether it planned to support the industry standards-setting effort.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

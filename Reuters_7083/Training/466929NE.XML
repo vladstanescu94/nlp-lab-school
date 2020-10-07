@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466929" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: Pharsight says Glaxo to embrace virtual trials.</title>
+<headline>Pharsight says Glaxo to embrace virtual trials.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-24</dateline>
+<text>
+<p>Pharsight Corp. said it will on Tuesday unveil a partnership with U.K.-based pharmaceutical giant Glaxo Wellcome to accelerate the clinical drug trial process using Pharsight software.</p>
+<p>Pharsight, a private company whose software is designed to trim the expense and duration of the most costly phase of drug development, enables drug developers to optimize clinical trials by using computer modelling techniques.</p>
+<p>The so-called &quot;virtual clinical trials&quot; allow clinical teams to use computer assisted trial design (CATD) to assess known scientific information about a new drug to make it more likely a trial can be successfully completed.</p>
+<p>Camilla Olson, co-founder and vice president of marketing at Pharsight, said the technology can be used to forecast the outcome of clinical trials and eliminate unnecessary scenarios by more complete data analysis.</p>
+<p>Glaxo Wellcome will become a charter member of Pharsight's developer partner programme, through which the Palo Alto company will provide an implementation of its Pharsight Trial Designer core CATD software.  </p>
+<p>It can take up to 12 years and $400 million to bring a new drug to market, with clinical trials accounting for approximately one-half the time and one-third the cost.</p>
+<p>A new drug undergoes an average of 64 trials before it is submitted for U.S. Food and Drug Administration review, with up to 50 percent of these failing to provide useful or conclusive results, the company said.</p>
+<p>Pharsight executives said even by eliminating one Phase 3 trial, its software could save six months or more and millions of dollars in development time and cost, while increasing sales by bringing drugs to market sooner.</p>
+<p>In a statement Glaxo Wellcome's associate director of clinical Pharmacology, Keith Muir, said the company believes Pharsight can help to better utilize existing information like patient demographic data.</p>
+<p>Greg Lee, who heads a five-person engineering team among the startup's 16 full-time employees, said the data can also be used by companies seeking to develop label extensions or competitive drugs about which data is known.  </p>
+<p>The software runs on Microsoft Windows systems and is accompanied by support services, with pricing to be determined, but likely to be in the neighborhood of $25,000 a seat.</p>
+<p>The company was started in February 1996 and was self- funded with around $380,000 in startup capital and a first venture round of roughly $2.1 million from investors Asset Management, Stanford University and Solstice Capital.</p>
+<p>Executives said a further investment round is under way.</p>
+<p>Pharsight has acquired exclusive worldwide rights to drug trial simulation software developed at the European Centre of Pharmaceutical Medicine, formed by Hoffman-La Roche, Sandoz, Ciba-Geigy and Eli Lilly.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

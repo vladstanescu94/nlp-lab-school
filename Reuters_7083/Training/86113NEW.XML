@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86113" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Comdisco, Asset Software in alliance.</title>
+<headline>Comdisco, Asset Software in alliance.</headline>
+<dateline>ROSEMONT, Ill. 1996-09-30</dateline>
+<text>
+<p>Comdisco Inc and Asset Software International Corp said Monday they entered into an agreement to provide cooperatively asset management software and services worldwide.</p>
+<p>Financial terms were not disclosed.</p>
+<p>Under the agreement, the companies said they will develop a common data exchange interface for Comdisco's CLASS and Asset Software's AssetPRO products. This will allow customers to take advantage of both products.</p>
+<p>The companies said they also will coordinate future development of their products.</p>
+<p>Comdisco also will be an authorized worldwide distributor of Asset Software's full suite of asset management software, including AssetPRO, AssetREQUEST and AssetRADAR.</p>
+<p>Comdisco is a technology services company that addresses asset management, equipment leasing and remarketing, business continuity, technology integration and network services.</p>
+<p>Asset Software, based in Ottawa, Canada, provides asset management solutions.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I8394007">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROSEMONT, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

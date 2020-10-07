@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="749526" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: TABLE - Broadvision Q2 results.</title>
+<headline>TABLE - Broadvision Q2 results.</headline>
+<dateline>LOS ALTOS, Calif. 1997-07-23</dateline>
+<text>
+<p>BROADVISION, INC. AND SUBSIDIARIES</p>
+<p>		 CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>		(In thousands, except per share amounts)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					     June 30,	June 30,</p>
+<p>				     1997	1996     1997     1996</p>
+<p>					   (unaudited)    (unaudited)</p>
+<p>Revenues:</p>
+<p>     Software licenses    $  4,098 $  1,564 $  7,246 $  2,663</p>
+<p>     Services		    1,929	738    4,072    1,037</p>
+<p>	   Total revenues	6,027    2,302   11,318    3,700</p>
+<p>Cost of revenues</p>
+<p>     Cost of license revenues  425	 93	639	189</p>
+<p>Cost of service revenues</p>
+<p>				     1,001	331    2,144	497</p>
+<p>	   Total cost of revenues</p>
+<p>				     1,426	424    2,783	686</p>
+<p> Gross profit		    4,601    1,878    8,535    3,014</p>
+<p>Operating expenses</p>
+<p>Research and development</p>
+<p>				     1,802    1,277    3,482    2,193</p>
+<p>     Sales and marketing     4,257    2,486    8,461    4,093</p>
+<p>General and administrative</p>
+<p>					 700	320    1,446	638</p>
+<p>	   Total operating expenses</p>
+<p>				     6,759    4,083   13,389    6,924</p>
+<p> Operating (loss)	    (2,158)  (2,205)  (4,854)  (3,910)</p>
+<p>Interest and other income</p>
+<p>					 187	 51	408	 94</p>
+<p>Interest and other expense</p>
+<p>				     (138)     (26)    (150)     (62)</p>
+<p> Net loss			(2,109)  (2,180)  (4,596)  (3,878)</p>
+<p> Net per share		  (0.10)   (0.13)   (0.23)   (0.22)</p>
+<p>Shares used in computing net   loss per share		20,219   16,822   20,111   17,699</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ALTOS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

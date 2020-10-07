@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247481" id="root" date="1996-12-10" xml:lang="en">
+<title>GERMANY: SAP to launch euro software package.</title>
+<headline>SAP to launch euro software package.</headline>
+<dateline>MANNHEIM, Germany 1996-12-10</dateline>
+<text>
+<p>Germany's SAP AG said on Tuesday it would launch new versions of its standard business software products in 1998 to help firms handle the transition to European monetary union (EMU) scheduled in 1999.</p>
+<p>SAP, operating in the booming market for client/server business management software, says its products can already cope with the period envisaged under EMU during which national currencies and the euro unit will circulate in parallel.</p>
+<p>But board member Henning Kagermann told reporters the new conversion software for SAP's R/3 and R/2 programmes would enable companies to start book-keeping in euros and manage the phasing out of the German mark in EMU.</p>
+<p>Kagermann said clients would be charged a percentage surcharge on top of existing service costs, with larger customers likely to pay more than smaller ones.</p>
+<p>SAP said it was still not sure what impact EMU would have on its own business, but a spokesman said the company hoped that the shift would help attract more customers for its standard software products.</p>
+<p>-- Douglas Busvine, Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANNHEIM, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

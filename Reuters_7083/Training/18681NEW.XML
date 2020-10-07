@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18681" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: NeXT Software sees $15 mln in WebObject sales.</title>
+<headline>NeXT Software sees $15 mln in WebObject sales.</headline>
+<dateline>SAN FRANCISCO 1996-08-28</dateline>
+<text>
+<p>NeXT Software Inc chairman Steve Jobs said WebObjects, software introduced four months ago for developing applications on Web servers, will do $15 million in sales this year - a fourth of NeXT's revenues.</p>
+<p>Jobs, who founded NeXT as well as Apple Computer Inc and Pixar Animation Studios Inc, has encountered frustrations at NeXT in its 10-year history trying to get the company on the map. It only turned profitable last year.</p>
+<p>But Jobs, speaking to an audience at the Windows NT Intranet Solutions trade show here, said WebObjects has given NeXT clout in the market and with many Fortune 100 customers.  </p>
+<p>&quot;Analysts tell me this will make NeXT one of the top five web software companies this year,&quot; Jobs said about WebObject's expected $15 million in revenues.</p>
+<p>He said customers using Web Objects to build so-called &quot;mission critical&quot; applications, or those important to the whole enterprise, include AT&amp;T Corp's AT&amp;T Wireless unit, Dell Computer Corp, DreamWorks Studio, Reebok International Ltd, and Sharper Image Corp.</p>
+<p>Jobs said he believes the next direction in corporate use of the Internet will be as a place to launch applications rather than just as a publishing vehicle.  </p>
+<p>&quot;So far, the Web has been a publishing architecture,&quot; Jobs said. &quot;That means you create these Web pages, stick them in a file server and the Web server knows how to dish them out when people request them.&quot;</p>
+<p>&quot;The Web is great as a publishing architecture but it runs out of headroom when you want to do more ambituous things. You really need to turn the Web into an applications architecture and lay that on top of the publishing architecture. That is what Web Objects is about,&quot; Jobs said.</p>
+<p>Dell Computer uses it to answer customers' detailed questions about computer products and transact sales to be mailed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353075" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: Informix CFO says growth, market share key.</title>
+<headline>Informix CFO says growth, market share key.</headline>
+<dateline>MENLO PARK, Calif. 1997-02-04</dateline>
+<text>
+<p>Informix Corp Chief Financial Officer Alan Henricks said the company continues to set growth in revenues and market share as top priorities as it rolls out extensions to its Universal Server products in 1997.</p>
+<p>Henricks said the company's database license revenue rose 35 percent in its fourth quarter to December 31, 1996 from the prior-year period. The company said its license revenues for the full year rose 48 percent over 1995.  </p>
+<p>Henricks said he expects absolute dollar spending to rise in the first quarter sequentially from the final quarter of 1996, and to generally increase sequentially after that.</p>
+<p>&quot;Our objective is clearly to continue to grow share to grow our database business in 1997,&quot; Henricks told Reuters in an interview after the company posted 1996 results. &quot;In general I would expect our expenses to generally go up sequentially.&quot;  </p>
+<p>He added this would not necessarily be the case each quarter, but noted the company has concentrated on its investments in research and development and in sales and marketing to fuel its drive for market share.</p>
+<p>Henricks said 1996 research and development as a percent of revenue rose by one percent from 1995 to 13 percent, and sales and marketing was 45 percent, up from 42 percent in 1995.  </p>
+<p>Informix executives noted market share figures recently released by International Data Corp for 1996 showed Informix surpassing Sybase Inc to become the second-largest database vendor in the worldwide market.</p>
+<p>Specifically, Informix said the preliminary IDC data showed the Informix share of the worldwide Unix, Windows NT, OS/2 and Netware database market had grown by 38.6 percent to $708.4 million in 1996, or 15.6 percent of the total market.</p>
+<p>Oracle grew 11.2 percent to $1.67 billion, or 36.8 percent, while Sybase's share slid by 16.6 percent to $467.2 million, or just over 10 percent of the market.  </p>
+<p>Henricks said Informix exceeded the growth of Oracle Corp each quarter. He said Informix's fourth-quarter results came after a strong fourth quarter of 1995.</p>
+<p>&quot;We would expect our absolute dollar spending to be up sequentially in Q1,&quot; he said of the company's plan to continue investing in research and development and sales and marketing.</p>
+<p>&quot;We believe this is focussed spending,&quot; he said.</p>
+<p>((-sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

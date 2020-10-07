@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116151" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Spyglass software included in Microsoft kit.</title>
+<headline>Spyglass software included in Microsoft kit.</headline>
+<dateline>NAPERVILLE, Ill. 1996-10-15</dateline>
+<text>
+<p>Spyglass Inc said Tuesday its SurfWatch content filtering software will be included in all retail versions of the Microsoft Corp Internet Explorer Starter Kit.  </p>
+<p>SurfWatch allows users to block some content.</p>
+<p>&quot;The Internet Explorer Starter Kit is aimed at new Internet users, including many families with children. It's especially important that they have a way to block access to objectionable or other unwanted online material,&quot; said David Fester, Internet Explorer product manager in the Internet platform and tools division of Microsoft Corp, in a news release.</p>
+<p>The Internet Explorer Starter Kit is scheduled to be available Tuesday as a stand-alone retail product, for about $24.95, software company Spyglass said.</p>
+<p>Spyglass stock jumped 2 to 18-3/8 on Nasdaq Tuesday.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

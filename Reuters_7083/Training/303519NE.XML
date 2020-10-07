@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303519" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Sun widens UNIX workstation lead in '96 - IDC.</title>
+<headline>Sun widens UNIX workstation lead in '96 - IDC.</headline>
+<dateline>FRAMINGHAM, Mass. 1997-01-13</dateline>
+<text>
+<p>Sun Microsystems Inc boosted its share of the UNIX workstation business in 1996, with a greater share than its closest three rivals combined, according to preliminary data from International Data Corp.</p>
+<p>However, the technology market research firm cautioned that overall revenues for workstations declined by one percent during the year to $15 billion.</p>
+<p>It pointed to the rising threat from workstations running Microsoft Corp Windows NT software, which IDC expects to continue to gain share at the expense of UNIX in 1997.  </p>
+<p>The IDC report said the top five UNIX vendors continued to dominate the traditional workstation market, accounting for 87 percent of the units shipped and 85 percent of revenues. But all UNIX workstation vendors showed less growth than in 1995.</p>
+<p>The market research firm said Sun boosted its number one position in the UNIX market with 41 percent of the units shipped versus 38.1 percent in 1995. Sun also gained share in revenue terms with 32 percent of the total market in 1996.</p>
+<p>It said Hewlett-Packard Co retained second place, but its share dropped off slightly compared to 1995. Hewlett had 19 percent of 1996 units and 21.4 percent of revenues.  </p>
+<p>Silicon Graphics Inc maintained its third place position in the UNIX workstation market with 10.6 percent of units shipped and 14.5 percent of overall revenues.</p>
+<p>The market research firm predicted that new higher levels of performance and capability  at lower prices will provide continued appeal to the existing base of UNIX system users.</p>
+<p>It maintained that traditional workstation vendors will continue to have a solid position in the mid-range of technical markets during 1997, but will experience flat growth.  </p>
+<p>By contrast, it said shipments of lower cost &quot;personal workstation&quot; in 1996 grew 38 percent worldwide to 831,000 units, surpassing traditional workstation shipments (712,000) for the first time, the market resesearch firm said.</p>
+<p>Personal workstations offer comparable processing speeds but are designed to use Windows NT software and Intel Corp processors as alternatives to UNIX software and proprietary processors.</p>
+<p>IDC said 1996 personal workstation revenues grew a healthy 16 percent to $3.7 billion compared to the slight decline in overall workstation revenues to $15 billion.  </p>
+<p>The research firm noted that several computer vendors entered the personal workstation market, including Intergraph Corp, Hewlett, and Compaq Computer Corp.</p>
+<p>It noted Sun and Silicon Graphics held steadfastly to a UNIX-only computer strategy, relying on increased performance from mature UNIX technology to ward off the Windows NT threat.</p>
+<p>IDC said Sun faced rising competition from Microsoft based systems, especially in the financial services market. Hewlett lost momentum in 1996 as a result of product transition issues and consequently lost share.  </p>
+<p>The research firm said a survey of workstation users indicated an increasing willingness from users to consider Windows NT systems.</p>
+<p>Slightly lower average selling prices and the effect of exchange rates on U.S. vendors contributed to a six percent decline in traditional workstation revenue to $11.5 billion, it noted.</p>
+<p>Still, in terms of units shipped during 1996, the overall worldwide workstation client market, buoyed by personal workstations, grew 18 percent.</p>
+<p>&quot;Windows NT is making inroads into selected UNIX markets, such as financial services, animation and CAD,&quot; said Dr. Thomas Copeland, IDC research director. CAD refers to computer aided design systems used in architecture and manufacturing.</p>
+<p>&quot;However, traditional UNIX vendors are still holding their own,&quot; Copeland added. &quot;Users are not about to scrap their productive UNIX infrastructures overnight.&quot;</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRAMINGHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

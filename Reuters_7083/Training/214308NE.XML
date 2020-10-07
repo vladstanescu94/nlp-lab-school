@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214308" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Quarterdeck posts loss in fourth quarter.</title>
+<headline>Quarterdeck posts loss in fourth quarter.</headline>
+<dateline>MARINA DEL REY, Calif.</dateline>
+<text>
+<p>Quarterdeck Corp. Monday reported a loss for its fourth quarter after paying for acquisitions and a restructuring and said demand for its computer memory management products declined.</p>
+<p>Quarterdeck, which develops personal computer and Internet software, also said it set aside additional reserves for product returns during the quarter.</p>
+<p>Quarterdeck had a net loss of $54.8 million, or $1.53 a share, in the quarter ended Sept. 30, compared with profits of $277 million, or 1 cent a share, in the year-ago period. Revenues edged down to $32.1 million from $34.2 million.</p>
+<p>The results include about $15 million in non-cash write-offs relating to acquisitions, $13 million of restructuring charges and $8.4 million of additional return reserves.</p>
+<p>&quot;During the September quarter, we took important steps in our restructuring efforts aimed at implementing our new strategic plan,&quot; said King R. Lee, a member of the Office of the President.</p>
+<p>&quot;Additionally, we required higher than anticipated return reserves which contributed to the negative impact on our bottom line.&quot;</p>
+<p>The restructuring was aimed at re-establishing Marina Del Rey, Calif.-based Quarterdeck as a leading provider of software products with solid revenue and earnings growth.</p>
+<p>Quarterdeck's stock was unchanged at $5.125 early on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARINA DEL REY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

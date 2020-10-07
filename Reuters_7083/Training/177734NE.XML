@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="177734" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Radnet says sued by IBM's Lotus unit.</title>
+<headline>Radnet says sued by IBM's Lotus unit.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-11-07</dateline>
+<text>
+<p>Radnet Inc., which develops software that competes with Lotus Notes and Domino, said Thursday it is being sued by Lotus Development Corp., a unit of International Business Machines Corp.</p>
+<p>The suit alleges that Radnet President and CEO Don Bulens, a former Lotus vice president, violated the terms of his employment agreement by recruiting a former Lotus sales executive away from Lotus, it said.</p>
+<p>Radnet, a privately-held company based in Cambridge, Mass., said the suit was without merit. &quot;This is a nuisance suit, plain and simple,&quot; said Bulens in a statement.</p>
+<p>Radnet said the charges are groundless because it has not violated any agreements with Lotus and that is has &quot;bent over backwards&quot; to compete fairly with Lotus.</p>
+<p>&quot;This is a thinly-veined attempt by Lotus to stem the tide of employees who are leaving the company for Internet software companies by threatening legal action,&quot; Bulens said.</p>
+<p>&quot;Don was a Lotus vice president...This is a standard agreement entered into by the company's executive and the company believes he violated it and we are taking action on that basis, not on the basis of some market conditions,&quot; a Lotus spokesman said.</p>
+<p>Radnet was founded in 1995 by three former Lotus executives who developed WebShare, its first family of Web-browser groupware products for corporate intranets and the Internet. WebShare is groupware software designed using Internet technology and standards.</p>
+<p>Groupware lets computer users work on and share documents, send e-mail and collaborate over corporate networks and the Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

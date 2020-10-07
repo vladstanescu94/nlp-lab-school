@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="640742" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: Delphi Information names Aetna exec as CEO.</title>
+<headline>Delphi Information names Aetna exec as CEO.</headline>
+<dateline>ROLLING MEADOWS, Ill. 1997-06-05</dateline>
+<text>
+<p>Delphi Information Systems Inc on Thursday named John Trustman, formerly chief information officer of Aetna Inc, as president and chief executive.  </p>
+<p>Last August, Delphi, which develops and markets software for the insurance industry, announced Denis Connaghan resigned as president and chief executive for personal reasons.</p>
+<p>&quot;We are extremely pleased to attract someone of John's caliber to Delphi,&quot; said Yuval Almog, chairman of the board of directors in a statement. &quot;John's background of leadership positions in information technology, consulting and the insurance industry is unique and provides the necessary insights to continue Delphi's transition toward being the leading provider of high-quality solutions to insurance industry participants' data management needs. We are confident that John will provide the hands-on leadership required for us to continue our path toward creating the 'New Delphi'.&quot;</p>
+<p>Trustman, in a statement, said Delphi was poised to take advantage of consolidation and a changing distribution structure trend in the insurance industry.</p>
+<p>Delphi said Trustman was responsible for restructuring and leading Aetna's transformation from a product-focused company to a customer-focused organization using technical solutions that created an interactive, recurring linkage between Aetna and its customers.</p>
+<p>	   -- Reuter Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROLLING MEADOWS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

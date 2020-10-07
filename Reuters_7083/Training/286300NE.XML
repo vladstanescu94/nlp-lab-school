@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="286300" id="root" date="1997-01-03" xml:lang="en">
+<title>USA: FileNet Corp sees 4Q share down.</title>
+<headline>FileNet Corp sees 4Q share down.</headline>
+<dateline>COSTA MESA, Calif. 1997-01-02</dateline>
+<text>
+<p>FileNet Corp said on Thursday it expects fourth quarter revenue will be about $73 million against $67.7 million in the same quarter last year.</p>
+<p>Net income will be about $0.20 per share compared with $0.32 last year, the company said.</p>
+<p>FileNet said the results are preliminary and subject to its year-end audit.</p>
+<p>Revenues and earnings were hurt by a number of customers either delaying their orders or, in some cases, reducing the size of orders late in the quarter, a statement issued by FileNet said.</p>
+<p>Revenue for the whole of 1996 year will be about $269 million compared with $229 million last year, the company said.</p>
+<p>Net income before one-time after-tax charges for merger, restructuring and write-off of purchased in-process research and development costs will be about $0.82 per share for 1996, compared to $0.83 per share last year, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COSTA MESA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

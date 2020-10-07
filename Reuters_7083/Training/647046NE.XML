@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647046" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Avant! moves to disqualify criminal suit prosecutor.</title>
+<headline>Avant! moves to disqualify criminal suit prosecutor.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1997-06-09</dateline>
+<text>
+<p>Avant! Corp., whose executives face felony charges of stealing business secrets, filed a court motion Monday to disqualify the district attorney handling the case, citing conflict of interest and unfair access to evidence.</p>
+<p>The software company, which writes engineering programmes for designers of computer chips, said in its motion that the district attorney for Santa Clara, Calif., based his criminal investigation on experts paid for by Cadence Design Systems Inc., a company that competes with Avant!</p>
+<p>Avant! also said in the motion filed in a San Jose, Calif., court that the district attorney will not provide access to key evidence, contrary to normal practice, until after the preliminary hearing.</p>
+<p>Avant! has been fighting lawsuits alleging trade secret thefts for years. In 1994, Cadence filed a civil lawsuit against the Sunnyvale, Calif., company charging that Avant! executives stole some of its programming codes and based key software products on Cadence technology.</p>
+<p>Cadence is seeking a court order to stop the sale of some of Avant!'s products and $100 million in damages.</p>
+<p>In April, the Santa Clara district attorney increased the pressure on Avant! by filing criminal charges against several Avant! executives, including Chief Executive Gerald Hsu.</p>
+<p>Avant! said Deputy District Attorney Julius Finkelstein should be disqualified from handling the criminal case because of conflict of interest.</p>
+<p>Finkelstein had asked Avant! and Cadence to pay for the experts necessary to conduct his investigation, Avant! said. Avant! declined, but Cadence complied. Finkelstein then based his investigation solely on experts and consultants hired by Cadence, Avant! said.</p>
+<p>Finkelstein said that was not true. He has documents produced by experts that were paid for by both companies. There also is nothing improper about using testimony paid for by the alleged victim.</p>
+<p>&quot;The idea that we cannot see information produced by a victim is nothing short of nonsense,&quot; Finkelstein said in an interview. He is not surprised that Avant! is trying to disqualify him because of his background in computer science, Finkelstein said.</p>
+<p>Avant! also said that because Cadence executives knew of the district attorney's investigation, they allegedly profited by selling Avant!'s stock &quot;short&quot; just before the prosecutor raided Avant! for evidence.</p>
+<p>In a short sale, the investor profits from a stock decline. He borrows the shares from another investor, sells them immediately, and buys them back to return to the owner after the stock price drops.</p>
+<p>&quot;Not true,&quot; said Cadence spokesman Mike Sottak said of the short-sale accusation. None of Cadence's employees have traded shares illegally to the best of his knowledge, he said.</p>
+<p>The Wall Street Journal also reported Monday, citing unidentified sources, that the U.S. Securities and Exchange Commission is investigating Cadence employees for possible illegal trading of Avant! shares.</p>
+<p>Sottak said he is unaware of any SEC investigation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

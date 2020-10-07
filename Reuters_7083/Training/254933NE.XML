@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254933" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Pretty Good Privacy sees IPO in mid-1997.</title>
+<headline>Pretty Good Privacy sees IPO in mid-1997.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>Pretty Good Privacy Inc, which makes computer encryption software, said on Friday it was on track to hold an initial public offering in the middle of next year, and that its market position was strong.</p>
+<p>&quot;In general, the company is more than six months ahead of schedule,&quot; Thomas Steding, president and chief executive officer, told Reuters.</p>
+<p>The San Mateo, Calif.-based company said it was in the process of raising its second round of financing, after receiving an initial tranche of about $7 million from a variety of private sources in August.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

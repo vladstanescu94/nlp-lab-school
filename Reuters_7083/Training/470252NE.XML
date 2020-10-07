@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="470252" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Chevron shifting away from Netscape's browser.</title>
+<headline>Chevron shifting away from Netscape's browser.</headline>
+<dateline>SAN FRANCISCO, Calif. 1997-03-25</dateline>
+<text>
+<p>Tech-savvy oil giant Chevron Corp., one of the earliest companies to embrace Netscape Communications Corp.'s Netscape Navigator browser, said on Tuesday it has decided to gradually shift to Microsoft Corp.'s Internet Explorer instead.</p>
+<p>Although the decision will not be materially significant for either company -- Microsoft gives away its Web browser and Netscape's volume discounts for major corporations reduce the cost to a few dollars each -- the move is seen as a blow to Netscape, coming from a well-regarded early adapter.</p>
+<p>&quot;We have a technical architecture that recommends Windows 95 right now, moving to Windows NT and Microsoft Office,&quot; said Jim Moen, an official at the oil company's Chevron Information Technology Corp. (CITC) in San Ramone, California.</p>
+<p>Jim Nathlich, a technical analyst at CITC, said the company has some 30,000 desktop computers.</p>
+<p>&quot;As far as a purchasing decision, it's really a moot point,&quot; he said. &quot;Most of the machines we get today have both. Basically those products are free.&quot;</p>
+<p>The Chevron officials said the decision had actually been taken by a guidance review group a few months ago, and would be implemented gradually over a one-year period.</p>
+<p>News of the shift was reported earlier Tuesday on the news page of C/Net Inc., an Internet publishing and television programming company based in San Francisco.</p>
+<p>Chevron officials said Netscape browsers will still be used on Unix and Apple Computer machines and Netscape server products as part of its firewall, which protects an internal network from outside hackers, at the moment.</p>
+<p>One analyst at Chevron, who participated in the decision but had opposed the shift, noted it complicated the company's browser strategy, since 10 to 20 percent of computers do not run Windows and therefore will continue to use Navigator.</p>
+<p>Moen said Chevron's decision to shift to the Microsoft browser after having originally endorsed Netscape was based on five major criteria -- the cost of running and supporting the software, strategic decisions, user satisfaction, business value to Chevron and future product directions.</p>
+<p>Microsoft did not win in all categories, but was helped by Chevron's strategic commitment to the Microsoft Windows platform and Office, in addition to ownership costs, he said.</p>
+<p>&quot;There was a slight cost edge on the Microsoft side because it was free. That was certainly an edge toward Microsoft but not a big edge,&quot; said Eric Parnell, CITC Internet coordinator.</p>
+<p>Revenues from Navigator, whose retail pricetag is due to go up to $59 in April, still provided a majority of Netscape's revenue in the fourth quarter of 1996.</p>
+<p>According to Zona Research, Netscape's share of the browser market slid to 70 percent recently from roughly 80 percent in September 1996, while Microsoft's rose to 28 percent from less than 10 percent. Some people use more than one browser, Zona said.</p>
+<p>A Netscape spokeswoman later said Chevron remains a customer, using Netscape Navigator particularly on Unix.</p>
+<p>&quot;They plan to upgrade to Communicator,&quot; she said, referring to Netscape's next generation of software, which will include a browser, e-mail and collaboration software.</p>
+<p>&quot;They will definitely still continue to be a customer of ours, but they will also use IE. So they will be one of these multiple browser companies,&quot; she said.</p>
+<p>Netscape shares closed up $3.4375 at $32.75 Tuesday in Nasdaq trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

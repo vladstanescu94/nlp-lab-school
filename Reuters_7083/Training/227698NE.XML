@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227698" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Spyglass rises, focusing on device market.</title>
+<headline>Spyglass rises, focusing on device market.</headline>
+<dateline>CHICAGO 1996-12-02</dateline>
+<text>
+<p>Shares of Spyglass Inc rose 1-7/16 to 11-3/4 at midday Monday after the company said it is implementing its previously announced strategy to focus on technology to connect devices other than personal computers to the Internet.</p>
+<p>&quot;Now they are putting more meat on the bones,&quot; Mary McCaffrey, an analyst for Alex, Brown &amp; Sons, said of Spyglass' announcement today.</p>
+<p>The company said in October that it was focusing on the &quot;device market&quot;, or connecting everyday products such as televisions, telephones, and business products to the Internet.</p>
+<p>Earlier Monday, the company said it will double the size of its Partner Services division which handles technical support and custom product design. It also said it will release various new device-related products.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

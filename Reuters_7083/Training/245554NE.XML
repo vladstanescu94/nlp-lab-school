@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245554" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Netscape to form pact with 5 Baby Bells.</title>
+<headline>Netscape to form pact with 5 Baby Bells.</headline>
+<dateline>LOS ANGELES 1996-12-09</dateline>
+<text>
+<p>Netscape Communications Corp. plans to announce a marketing agreement on Tuesday with the Internet units of five regional bells.</p>
+<p>Netscape officials declined to discuss details but they said the potential market includes 72 million consumers and businesses in 26 States.</p>
+<p>The five regional bells include Ameritech Corp's Interactive Media Services, Bell Atlantic Internet Solutions, BellSouth Corp., Pacific Telesis Group's Pacific Bell Services and SBC Communications According to people familar with Netscape's plans, the agreement will allow customers from the regional bell Internet services to use Netscape's popular browser software free of charge as the default browser. The agreement, however, does not prevent the telephone companies from offering Microsoft Corp's browser.</p>
+<p>In return, customers will be able to log onto Netscape's Web page and sign up for Internet service from one of the five regional phone companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

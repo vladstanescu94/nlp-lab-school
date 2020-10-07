@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15982" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Quarterdeck says CEO resigns.</title>
+<headline>Quarterdeck says CEO resigns.</headline>
+<dateline>MARINA DEL REY, Calif 1996-08-27</dateline>
+<text>
+<p>Quarterdeck Corp said that Gaston Bastiaens has resigned as chief executive to pursue other business opportunities.</p>
+<p>He will continue as a director and consultant to the firm, which will be managed by a newly created temporary office of the president consisting of King Lee and Anatoly Tikhman.  </p>
+<p>Lee, a member of the board and Chief Executive Officer of Wynd Communications Corp, served as interim chief executive and chief operating officer of Quarterdeck from July 1994 to January 1995.</p>
+<p>Tikhman, who currently is a Senior Vice President of the Company and head of its Utilities Business Unit, was president and Chief Executive Officer of Vertisoft prior to its recent acquisition by Quarterdeck.  Additions to the Office of the President are also expected, the company said.</p>
+<p>It also said it retained an executive search firm to seek a new permanent chief executive officer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARINA DEL REY, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

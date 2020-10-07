@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571998" id="root" date="1997-05-09" xml:lang="en">
+<title>USA: ASA Intl Ltd Q1 full results.</title>
+<headline>ASA Intl Ltd Q1 full results.</headline>
+<dateline>FRAMINGHAM, Mass. 1997-05-09</dateline>
+<text>
+<p>Three months ended March 31,</p>
+<p>						1997	     1996</p>
+<p> Gross Revenue		     5,080,000	$6,725,000</p>
+<p> Earnings (Loss) from Operations 169,000	   116,000</p>
+<p> Net Earnings (Loss)		  42,000	   (8,000)</p>
+<p> Net Earnings (Loss) per Share	.011	   ( .002)</p>
+<p>Weighted Average Number of</p>
+<p>Common &amp; Common Equivalent</p>
+<p>  Shares Outstanding	     3,660,060	 4,126,000</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRAMINGHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47883" id="root" date="1996-09-11" xml:lang="en">
+<title>JAPAN: Microsoft, others say Japan piracy case settled.</title>
+<headline>Microsoft, others say Japan piracy case settled.</headline>
+<dateline>OSAKA, Japan 1996-09-11</dateline>
+<text>
+<p>Microsoft Corp, Lotus Development Corp, an IBM subsidiary, and Just System Corp said on Wednesday they had settled a dispute in which they said an Osaka-based software maker was illegally copying their programmes.</p>
+<p>Under the conditions of the out-of-court settlement, the Osaka company will pay a total of 140 million yen to the two U.S. firms and to Just System, the three firms said.</p>
+<p>&quot;As far as we know, it is the largest compensation for damages paid for illegal computer software copying in Japan,&quot; a spokesman at Microsoft said.</p>
+<p>The case started when the three firms received a letter from an employee of the Osaka firm, a Lotus spokeswoman said.</p>
+<p>Microsoft, Lotus, Just System and the Osaka District Court declined to reveal the name of the Osaka software company.</p>
+<p>A probe by the court in March found that the Osaka firm had illegally copied and was using 20 computer software programmes developed by the three companies, the Lotus spokeswoman said.</p>
+<p>Microsoft's &quot;Microsoft Excel&quot;, Lotus's &quot;1-2-3-&quot; and Just System's &quot;Ichitaro&quot; were among the programmes, she said. The Microsoft spokesman said: &quot;We believe the settlement is a step forward in protecting computer software copyrights in Japan.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSAKA, Japan"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

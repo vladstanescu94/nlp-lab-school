@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134788" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Quote.com offers 30-day trial, enhances Q-News.</title>
+<headline>Quote.com offers 30-day trial, enhances Q-News.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-21</dateline>
+<text>
+<p>Internet financial market information provider Quote.com said it is offering a special 30-day trial for individual investors, including an enhanced version of its Q-News service.</p>
+<p>The trial provides market data and research and offers unlimited delayed quotes for U.S. and Canadian exchanges, with end-of-day portfolio updates.</p>
+<p>With new features, users can also use a customised news filter to sift through information, with more than 600 topic codes due to be available by the end of the 1997 first quarter, the company said.</p>
+<p>Last week, Quote.com unveiled a real-time stock quote capability for 12 markets, including the New York Stock Exchange, the American Stock Exchange, the Nasdaq stock market and the Toronto Stock Exchange along with commodities markets.</p>
+<p>The Santa Clara-based company recently linked up with four online trade brokerages -- Charles Schwab, eBroker, E*TRADE and PC Financial Network -- to offer direct access to online trades from Quote.com.</p>
+<p>Quote.com is a privately-held company with venture funding from Sequoia Capital Corp of Menlo Park, Calif.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="684225" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: Bill Gates and wife set up Internet library fund.</title>
+<headline>Bill Gates and wife set up Internet library fund.</headline>
+<dateline>REDMOND, Wash. 1997-06-23</dateline>
+<text>
+<p>Microsoft Corp. founder and CEO Bill Gates and his wife Melinda French Gates announced on Monday the formation of the Gates Library Foundation to bring the Internet to public libraries in low-income areas.</p>
+<p>The couple said in a statement the foundation would be funded with $200 million from them, which Microsoft has agreed to match with software of equal value, for a total commitment to the project of $400 million.</p>
+<p>&quot;Bill and I are excited to be helping libraries ensure that children and adults from all walks of life will have access to the wealth of information and understanding that computers and digital information make possible,&quot; Melinda Gates said.</p>
+<p>The foundation will expand on a Microsoft community affairs initiative, Libraries Online, which was launched in December 1995 with support from the American Libraries Assocation to bring information technology and training to public libraries.</p>
+<p>The pilot program has reached more than 200 libraries in over 40 North American library systems with $17 million in cash and software donations, the statement said.</p>
+<p>Patty Stonesifer, a former senior vice president of Microsoft's Interactive Multimedia Division and a consultant to DreamWorks SKG, has been named the Foundation's president and chairman to run the five-year project.</p>
+<p>Libraries in lower-income communities in the United States and Canada will be eligible, Stonesifer said in an interview, adding that further information could be found on the foundation's home page at (http://www.glf.org).</p>
+<p>&quot;We have not finalized the grant process,&quot; Stonesifer said. &quot;Over the next 60 to 90 days we're going to be going to the library leadership and work on our final strategy.&quot;</p>
+<p>The foundation hopes to work with more than half of the libraries in the United States and Canada, she added, especially in communities where personal computers are not generally available in homes.</p>
+<p>The foundation will work to connect libraries to the Internet with computers and also fund technical training and support for tens of thousands of people, she said.</p>
+<p>Gates dropped out of Harvard University to start up Microsoft with Paul Allen, a high school friend, in the late 1970s and the company has since made them multibillionaires, with Gates routinely topping lists as the wealthiest American.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

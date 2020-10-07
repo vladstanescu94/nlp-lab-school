@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119024" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Desktop Data Inc Q3 net rises.</title>
+<headline>Desktop Data Inc Q3 net rises.</headline>
+<dateline>BURLINGTON, Mass. 1996-10-16</dateline>
+<text>
+<p>DESKTOP DATA, INC. AND SUBSIDIARIES</p>
+<p>CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>(UNAUDITED) (in thousands, except per share data and other operating data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				     September 30,    September 30,</p>
+<p>					1996    1995     1996	1995</p>
+<p>Subscription and royalty</p>
+<p>   revenues		    $ 8,062 $ 5,609 $ 22,457  $ 15,430</p>
+<p> Other revenues		    690     334    1,645     1,012</p>
+<p>  Total revenues		 8,752   5,943   24,102    16,442</p>
+<p> Cost of revenues		2,409   1,631    6,519     4,534</p>
+<p> Customer support expenses     898     683    2,547     1,813</p>
+<p> Development expenses	  1,024     747    3,184     2,036</p>
+<p>Sales and marketing</p>
+<p>   expenses			3,199   2,271    8,649     6,416</p>
+<p>General and administrative</p>
+<p>   expenses			  359     281    1,124	 835</p>
+<p>  Total costs and expenses   7,889   5,613   22,023    15,634</p>
+<p>  Income from operations	 863     330    2,079	 808</p>
+<p> Interest income, net	    490     283    1,370	 440</p>
+<p>Income before provision   for income taxes	     1,353     613    3,449     1,248</p>
+<p> Provision for income taxes    151	49	384	  81</p>
+<p>  Net income		     1,202     564    3,065     1,167</p>
+<p>Net income per common and</p>
+<p>  common equivalent share     0.14    0.07     0.35	0.15</p>
+<p>Weighted average number of</p>
+<p>common and common equivalent</p>
+<p>  shares outstanding	   8,795   7,935    8,811     7,219</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

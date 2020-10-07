@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="579318" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: StarSight files arbitration vs General.</title>
+<headline>StarSight files arbitration vs General.</headline>
+<dateline>FREMONT, Calif 1997-05-13</dateline>
+<text>
+<p>StarSight Telecast Inc said Tuesday that it had filed an arbitration demand against General Instrument Corp to settle a dispute over a pact between the two to develop set-top boxes.</p>
+<p>StarSight, which recently merged with Gemstar International Group Ltd, said in a statement that it is seeking &quot;a permanent injunction, significant monetary damages and other relief in the arbitration.&quot;</p>
+<p>It said General Instrument violated a licensing pact under which it agreed to develop and make a StarSight IPG-equipped set-top box. A call to General Instrument's offices in Chicago Tuesday evening was not immediately returned.</p>
+<p>Starsight said it filed its arbitration demand with the American Arbitration Association in San Francisco.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I34100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

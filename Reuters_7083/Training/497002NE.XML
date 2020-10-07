@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="497002" id="root" date="1997-04-09" xml:lang="en">
+<title>USA: Digital TV sets off high definition race in U.S..</title>
+<headline>Digital TV sets off high definition race in U.S..</headline>
+<byline>Lisa Marie Pane</byline>
+<dateline>LAS VEGAS 1997-04-09</dateline>
+<text>
+<p>As the U.S. moves toward the digital television era, computer makers and consumer- electronics companies are racing to dominate the field.</p>
+<p>Each is hoping to win the loyalty and the dollars of consumers who will someday see TV sets, computers and other home electronics all merged into one.</p>
+<p>&quot;There will be a huge scramble for the marketplace,&quot; said National Association of Broadcasters President and Chief Executive Edward Fritts. &quot;The race is on. The race is between consumer-electronic manufacturers and the computer industry.&quot;  </p>
+<p>The first heat is taking place at this year's NAB convention, only about a week after the Federal Communications Commission called for the first high-definition television stations to be on air within 18 months.</p>
+<p>But the FCC did not mandate which digital formats or standards should be used.</p>
+<p>The computer industry, led by Microsoft Corp, Compaq Computer Corp and Intel Corp, are pushing for the &quot;progressive-scan&quot; format now used with computer monitors.  </p>
+<p>The three companies used a forum attended by an estimated 100,000 people from around the world to present their digital- television technology. They suggested their method would speed-up the transition to digital TV by allowing less expensive entry than sets using full specifications and by allowing interactivity by viewers.</p>
+<p>&quot;We believe the PC is the future of broadcasting and we want to work with broadcasters to create (digital TV) with the widest range of options possible for consumers,&quot; said Ron Whittier, senior vice president of Intel's content group.  </p>
+<p>The three favor progressive-scan transmissions by broadcasters of 480 lines per screen for live action, such as sports, and 720 lines for film-based material.</p>
+<p>They maintain that format would provide enough channels to allow more interactivity and entertainment programming, giving TV viewers a computer-like experience.</p>
+<p>But the broadcasting industry prefers a method known as &quot;interlace&quot;, which they contend offers sharper images, providing the full benefits of digital television. At 1,080 lines per screen, however, that format would leave little room for the interactivity that is the hallmark of computers.  </p>
+<p>&quot;For those who want high definition as soon as possible, the computer industry doesn't provide that,&quot; Patrick Griffis, vice president of technology and strategic product development at Panasonic, said in an interview with Reuters.</p>
+<p>Sony Electronics President and Chief Operating Officer Carl Yankowski said other parts of the world have settled on a format that uses more than 1,000 lines.</p>
+<p>&quot;It would be questionable to have a U.S. standard that is the only standard under 1,000 lines,&quot; Yankowski said in an interview. &quot;They've all settled on 1,000-plus...We're the only ones mired in a debate.&quot;</p>
+<p>However it plays out, NAB's Fritts would like to see every device on the receiving end compatible with the digital television standard.</p>
+<p>&quot;Microsoft's standard would preclude HDTV&quot; signals from being received by personal computers, he said.</p>
+<p>&quot;Broadcasters would like to hit every machine, every box on the market.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

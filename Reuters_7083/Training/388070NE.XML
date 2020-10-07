@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="388070" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: A company offers a brain for electronic help desks.</title>
+<headline>A company offers a brain for electronic help desks.</headline>
+<byline>Samuel Fromartz</byline>
+<dateline>WASHINGTON</dateline>
+<text>
+<p>For anyone who has ever gotten stuck with a computer problem and then faced even greater frustration trying to use a &quot;help&quot; menu, one small, fast growing company has what it claims is the answer -- an electronic brain.</p>
+<p>The software uses cognitive processing to solve problems, which means it can understand ordinary phrases, engage in a dialogue to arrive at a solution and remember what transpired so it knows what to do the next time the same problem occurs.</p>
+<p>With personal computer use in both homes and offices growing exponentially, the Molloy Group has targeted a business niche that can only get larger.</p>
+<p>Company founder Bruce Molloy, a physicist by training, peppers his speech with terms like &quot;neural networks,&quot; &quot;fuzzy logic&quot; and &quot;text association&quot; to describe what the programmes do, but it may be easier to think of a digital librarian.</p>
+<p>After all, a librarian talks to you about your research needs, knows where to look for the material and helps you find it. With the right material at hand, you can go to work on your research project -- such as fixing your PC.</p>
+<p>&quot;Neural networks mimic the way the brain works. It sounds crazy but it works,&quot; Molloy said in a telephone interview from the company's Parsippany, N.J., headquarters.</p>
+<p>Apparently customers, who use the software to run help desks, think so too. The Molloy Group has been doubling in size every year. Molloy, who owns the company, said annual sales are in the range of $5 million to $10 million. It has about 60 employees.</p>
+<p>Unlike most start-ups, Molloy financed the company entirely from cash flow for the first few years of existence, with all employees working from their homes. He has scraped by on more than a few occasions.</p>
+<p>Molloy recalled that when a potential client asked to see his offices a couple of years ago, he took a gamble and spent $50,000 on office space. With the employees in place, the client showed up.</p>
+<p>&quot;The phones weren't even working yet but I had everyone talk on the them anyway,&quot; he said with a chuckle. The company won the contract.</p>
+<p>The company's applications are diverse, allowing a technician to help fix a bug in a complex network or a user to get help with Microsoft Windows, Excel or Word. (The help programmes for specific applications come in Knowledge Cubes, which can be tailored to what the customer needs.)</p>
+<p>To use the software, you type in a phrase like &quot;my computer crashes a lot&quot; or &quot;my modem doesn't work&quot; or &quot;how do I split a page of text into columns.&quot; The programme will come up with a range of answers, complete with charts, to fix the problem.</p>
+<p>For anyone who has used conventional help programmes -- paging though electronic tables of contents, scrolling down frequently asked questions, scanning alphabetical lists of problems, or trying a keyword search -- the power of a plain language aid is apparent.</p>
+<p>Other conventional help programmes use a tree model, narrowing the source of a problem through a series of menus and sub-menus to arrive at a solution. One drawback of this model is that you can take a wrong turn up a branch and then have to backtrack. Another is that tree networks can't evolve with your system.</p>
+<p>&quot;There is a need for adaptability,&quot; Molloy said. &quot;As things change so quickly, you need to adapt just as quickly because you don't know where you're going to be two months from now.&quot;</p>
+<p>Formed as a corporation in 1992, the Molloy Group has targeted its main product, called Top of Mind, at help desks.</p>
+<p>Clients range from retailers COMP USA and Toys 'R Us to Danka Business Systems, an office equipment company that reported its turnaround on customer inquiries dropped from 1-2 days to less than 30 minutes with the system. Molloy says Danka also saved $700,000 a year on staffing since it no longer needed a full team of experts at each help desk location.</p>
+<p>A more recent version of the product in beta testing offers the software on a Web sight, so users can log in to find answers to problems rather than phone a help desk. These programmes, for the Internet or closed company networks called intranets, can be tailored for each user, whether an accountant or technician.</p>
+<p>&quot;It's a very different model than a technician arriving at your workstation with a 2,000 page document to wade through,&quot; Molloy said.</p>
+<p>Although the market has grown &quot;exponentially&quot; and competitors have entered the field, Molloy said his company has an edge in technology. Recently, Molloy turned to New York investment bank Unterberg Harris for $1 million in financing.</p>
+<p>Aside from help desks, the company's larger strategy is to provide software for three service areas: consumer, internal and sales support.</p>
+<p>Molloy envisions systems can be set up to help customers programme their VCRs or discuss what they might want to buy, with the software spitting out suggestions based on the comments the customer makes.</p>
+<p>If you have ever tried to use a search engine on the World Wide Web, the advantage of plain language commands -- and a dialogue -- is obvious. Molloy thinks it's only a matter of time before the Net scraps frequently asked questions, or FAQs, and keyword searches and adopts neural networks and fuzzy logic.</p>
+<p>(To reach Sam Fromartz about the new business column, send e-mail to Sam.Fromartz (at) Reuters.com)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="515871" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: Smith Micro Software Inc Q1 full results.</title>
+<headline>Smith Micro Software Inc Q1 full results.</headline>
+<dateline>ALISO VIEJO, Calif. 1997-04-17</dateline>
+<text>
+<p>(in thousands except share and per-share amounts )</p>
+<p>						     First Quarter Ended</p>
+<p>							    March 31,</p>
+<p>						     1997		1996</p>
+<p>							    (unaudited)</p>
+<p> Net Revenues				  $2,658	     7,290</p>
+<p> Cost of Sales				  1,246	     2,899</p>
+<p> Gross Margin				   1,412	     4,391</p>
+<p>Operating Expenses:</p>
+<p> Sales &amp; Marketing				995		 608</p>
+<p> Research &amp; Development			 882		 504</p>
+<p> Acquired in Process R &amp; D		    ---	     5,169</p>
+<p> General &amp; Administrative		   1,536		 804</p>
+<p> Total Operating Expenses		   3,413	     7,085</p>
+<p> Operating Loss			     (2,001)	   (2,694)</p>
+<p> Other Income, net				180		 207</p>
+<p> Loss Before Income Tax		   (1,821)	   (2,487)</p>
+<p> Income Tax (Benefit) Expense	     (637)	     1,073</p>
+<p> Net Loss				     (1,184)	   (3,560)</p>
+<p> Net Loss Per Share			  (0.08)	    (0.26)</p>
+<p>Pro Forma Information:</p>
+<p> Pro Forma Net Income (1)					 1,609</p>
+<p> Pro Forma Net Income Per Share (1)			    0.12</p>
+<p> Weighted Average Shares Outstanding   14,075	    13,814</p>
+<p>Note 1: During the first quarter of 1996, Smith Micro acquired Performance Computing, Inc.  This resulted in a one-time pre-tax charge in the first quarter 0f $5.169 million.  Pro Forma income data is presented to show the comparable business operations exclusive of this one-time charge.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALISO VIEJO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

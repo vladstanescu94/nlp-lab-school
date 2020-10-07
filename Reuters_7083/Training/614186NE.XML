@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="614186" id="root" date="1997-05-26" xml:lang="en">
+<title>USA: Hewlett-Packard to reassert NT/Unix strategy.</title>
+<headline>Hewlett-Packard to reassert NT/Unix strategy.</headline>
+<dateline>PALO ALTO, Calif. 1997-05-26</dateline>
+<text>
+<p>Hewlett-Packard Co will Tuesday reiterate its two-pronged strategy of developing its technology to support both Microsoft Corp's Windows NT and its own blend of the Unix system.</p>
+<p>The strategy, which the company calls its Pervasive Solutions Foundation, encompasses its shift to new 64-bit chips it is designing with Intel Corp to run either of the two systems in the future.</p>
+<p>The new Intel microprocessor, code-named the Merced, is expected to be available by 1999.  </p>
+<p>HP repeated that it expects current applications will perform at least as well on the new systems, which will run five to 15 times faster than existing systems.</p>
+<p>In briefings with media last week HP managers said they would release a statement Tuesday outlining the company's strategy.</p>
+<p>Although HP executives said the announcement Tuesday will effectively be a repeat of a briefing by senior HP executives unveiling the same roadmap on April 7, some analysts said HP needs to keep honing its message.  </p>
+<p>&quot;They have been doing a poor job of communicating their ongoing commitment to Unix,&quot; said Andrew Allison, the Carmel, Calif.-based industry consultant who publishes the newsletter, Inside the New Computer Industry.</p>
+<p>Allison said analysts had voiced their concern at a recent a briefing for analysts in Montreal that company officials - not just senior management - have been talking so much about Intel's Merced chip and Microsoft's Windows NT they were giving the impression that HP has gone soft on Unix.  </p>
+<p>&quot;I don't believe it,&quot; Allison said of that impression, but he said management now must demonstrate they can deliver on the two-tier strategy without diluting their commitment to lucrative Unix products at the high end.</p>
+<p>&quot;I'd rather have bread today than jam tomorrow,&quot; he said of the importance for HP of continuing to drive its highest performance machines while building support for the growing Windows NT market.  </p>
+<p>&quot;They may have been taking Unix for granted, which is a big mistake, but I believe they've had a wake-up call,&quot; added Allison. &quot;Certainly the issue is that they were for two long Unix centric.&quot;</p>
+<p>In March, HP chief executive officer Lewis Platt and Microsoft chief executive officer Bill Gates stood together on a stage at HP's corporate headquarters here to announce closer cooperation over Microsoft's Windows NT platform, cementing a strategy which has been years in the making.  </p>
+<p>Last week, HP moved to shore up its position at the high end by announcing a new generation of performance servers - the powerful machines which can run a vast array of computers over a network - and computer workstations.</p>
+<p>Although the servers are not expected to ship until September or to reach general availability until the fourth quarter, HP said they are designed to outperform more costly International Business Machines Corp mainframes priced at more than $1 million.  </p>
+<p>Even more prominent on HP's radar screen is nearby rival Sun Microsystems Inc, analysts said, which has recorded such strong sales for its Starfire high-end server unveiled in January that it is raising production.</p>
+<p>But unlike HP, Sun's chief executive officer Scott McNealy has steered away from Windows NT with a fervor which some analysts fear could make Sun vulnerable to incursions from an increasingly successful NT platform in future.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450197" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Transaction Systems completes acquisition.</title>
+<headline>Transaction Systems completes acquisition.</headline>
+<dateline>OMAHA, Neb. 1997-03-18</dateline>
+<text>
+<p>Transaction Systems Architects Inc said Tuesday it has completed the acquisition of Shamrock Systems Corp, a privately held corporation based in Crofton, Maryland.</p>
+<p>The purchase price, which was paid in cash, was not material to Transaction Systems Architects, the company said.</p>
+<p>Shamrock Systems markets ClaimTrack, an electronic funds transfer product.</p>
+<p>Transaction Systems Architects is an electronic financial transaction software company.</p>
+<p>Transaction Systems shares were unchanged at 26 Tuesday.</p>
+<p>((Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA, Neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

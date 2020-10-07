@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608060" id="root" date="1997-05-22" xml:lang="en">
+<title>GERMANY: SAP says insider probe clears own staff.</title>
+<headline>SAP says insider probe clears own staff.</headline>
+<dateline>WALLDORF, Germany 1997-05-22</dateline>
+<text>
+<p>German software firm SAP AG said on Thursday that Frankfurt prosecutors and stock exchange supervisors no longer suspected some of its staff of illegal insider share dealings last year.</p>
+<p>SAP said in a statement that, after questioning company workers, the suspicion of illegal trading by so-called primary insiders had been &quot;largely refuted&quot;.  </p>
+<p>&quot;Fortunately, the serious suspicion that primary insiders at SAP AG did insider deals has not been confirmed,&quot; chief executive Dietmar Hopp said in the statement.</p>
+<p>&quot;We were able to significantly accelerate investigations through our helpful cooperation with the Frankfurt prosecutor, so that the results of the probe will probably be released in a few weeks rather than in a year,&quot; Hopp added.</p>
+<p>Prosecutors had investigated whether around 100 SAP staff had dealt in shares and derivatives year to try and cash in ahead of poor quarterly results announced last October which led to a fall of nearly a quarter in the company's share price.</p>
+<p>The SAP statement added that further preventive measures would be taken to prevent insider trading. Hopp told a magazine recently that staff would be asked to observe a ban on trading company stock in the three weeks before results are announced.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

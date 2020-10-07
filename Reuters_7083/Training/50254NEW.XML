@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50254" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Cadence, Cooper resolves dispute.</title>
+<headline>Cadence, Cooper resolves dispute.</headline>
+<dateline>SAN JOSE, Calif. 1996-09-12</dateline>
+<text>
+<p>Cadence Design Systems Inc said Thursday it has settled a contract dispute with Cooper &amp; Chyan Technology Inc centering on an interface between the two companies' products.</p>
+<p>Cadence said it also agreed to dismiss its lawsuit against STX Cadware, a company that developed the interface between a layout tool for Cadence's Virtuoso integrated circuit and Cooper &amp; Chyan's Craftsman integrated circuit.</p>
+<p>Under the deal between Cadence and Cooper &amp; Chyan, Cadence becomes a preferred services provider for Cooper &amp; Chyan's integrated circuit and printed-circuit board design tools.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

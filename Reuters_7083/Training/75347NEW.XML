@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75347" id="root" date="1996-09-25" xml:lang="en">
+<title>SINGAPORE: Digital sees Windows NT key to Asia Pacific.</title>
+<headline>Digital sees Windows NT key to Asia Pacific.</headline>
+<dateline>SINGAPORE 1996-09-25</dateline>
+<text>
+<p>Digital Equipment Corp(DEC) sees Windows NT as one of its key focus areas for business in the Asia-Pacific region, senior officials said on Wednesday.</p>
+<p>&quot;We are finding more and more demand from our customers,&quot; said Bobby Choonavala, president of DEC Asia Pacific told Reuters after a press briefing at Comdex/Asia, a major computer exhibition held in Singapore.</p>
+<p>Windows NT is a computer operating system from Microsoft. DEC has an alliance with Microsoft for NT technology. &quot;Growth rate was over 100 percent (in Asia Pacific for financial year ended June 1996,&quot; he said. He declined to give the volume.</p>
+<p>He said growth was helped by offering NT technology on both Intel systems and its own Alpha platform.</p>
+<p>The Asia Pacific region had been fast in adopting NT, said Choonavala, as there was less need to move from older operating systems and the markets liked to move to new technology.</p>
+<p>He saw shifts in the market from Windows 95 to NT and some movement from Unix and from mainframe operating systems like VMS.</p>
+<p>On a worldwide basis, NT-based workstation demand was projected at 5.0 million units in 1999, officials said.</p>
+<p>&quot;We would be very happy with a 20 percent market share,&quot; said Choonavala.</p>
+<p>DEC's other key areas of business for Asia Pacific are in 64-bit Unix systems and Internet business.</p>
+<p>--Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="726381" id="root" date="1997-07-14" xml:lang="en">
+<title>USA: Avant! 2nd-quarter earnings rise 41 pct.</title>
+<headline>Avant! 2nd-quarter earnings rise 41 pct.</headline>
+<dateline>FREMONT, Calif. 1997-07-14</dateline>
+<text>
+<p>Avant! Corp said Monday its second-quarter earnings jumped 41 percent, bettering Wall Street expectations on strong sales of its chip engineering software products.</p>
+<p>The Fremont, California, company said net income rose to $7.59 million, or $0.28 a share, from $5.37 million, or $0.20 a share, in the same quarter a year ago. Second-quarter revenue rose 34 percent to $34.5 million from $25.8 million.</p>
+<p>Analysts expected Avant! to earn $0.26 a share, according to a recent survey by Zacks Investment Research.  </p>
+<p>Avant! writes software that helps electrical engineers design the microscopic circuits of computer chips. The company has been embroiled in lawsuits for allegedly stealing trade secrets from rival Cadence Design Systems Inc.</p>
+<p>Avant! said despite bad publicity from Cadence, it continued to win contracts for products during the quarter, which ended June 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50322" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: IBM to unveil speech software - NYTimes.</title>
+<headline>IBM to unveil speech software - NYTimes.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>International Business Machines Corp plans to announce its latest speech-recognition software on Thursday, the New York Times reported.</p>
+<p>The software, currently designed for radiologists who dictate repetitive reports, recognises about 25,000 English words, the article said.</p>
+<p>It achieves 95-percent accuracy upon first use, but the accuracy improves once the software is &quot;trained&quot; to the user's specific voice.</p>
+<p>The software runs on a personal computer using Microsoft Corp's Windows NT operating system and a 200-megahertz Pentium processor made by Intel Corp, the Times said.</p>
+<p>The system -- including hardware and software -- will sell for $12,000 to $15,000 per unit, the article said.</p>
+<p>--New York Newsdesk  (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

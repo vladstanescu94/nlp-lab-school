@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106535" id="root" date="1996-10-09" xml:lang="en">
+<title>BELGIUM: BELGIAN LERNOUT CONSIDERS INTERNET FIRM.</title>
+<headline>BELGIAN LERNOUT CONSIDERS INTERNET FIRM.</headline>
+<dateline>BRUSSELS 1996-10-09</dateline>
+<text>
+<p>Belgium's Lernout &amp; Hauspie Speech Products is considering setting up a company to develop speech recognition and translation products to make it easier for a wider public to access the Internet network.</p>
+<p>Chairman Gaston Bastiaens told Belgian daily De Financieel Economische Tijd in an interview the new products could help those who did not speak English to use and explore the Internet where 90 percent of information is in English.</p>
+<p>Comparing the Internet to a large library where all the books lie scattered on the floor, he said that with the new products &quot;that library will be within everybody's reach, irrespective of the language they speak.&quot;</p>
+<p>In reply to a question from the Tijd on a possible takeover, potentially by Bill Gates who has said he wants speech technology in his Microsoft Corp products, founder Jo Lernout said he and co-founder Pol Hauspie would never give up their majority in the company.</p>
+<p>Microsoft chose Lernout &amp; Hauspie's text-to-speech technology as the linguistic standard in software development.</p>
+<p>Hauspie also said Nasdaq-listed Lernout &amp; Hauspie was not looking for a takeover.</p>
+<p>The firm, set up in 1987, currently employs some 500 people. Its technology allows computers to recognize speech automatically, transform computer text into speech, or convert speech into digital signals. It is available in a number of languages including Dutch, French, German, Italian, and Korean.</p>
+<p>The company is working on speech recognition in other lanaguages including Russian and Chinese.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

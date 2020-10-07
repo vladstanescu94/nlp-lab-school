@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14915" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Netscape, others launch Internet affiliate.</title>
+<headline>Netscape, others launch Internet affiliate.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-08-26</dateline>
+<text>
+<p>Netscape Communications Corp said it and seven other investors have formed an independent company to provide Internet software for consumer devices such as phones, video games and pagers.</p>
+<p>Jim Clark, the entrepreneur who co-founded Netscape and serves as its chairman, said in a statement the business aims to address a market which has a potential base of 500 million such devices over the next five years alone.</p>
+<p>Netscape said it will have a major equity holding in the new company, Navio Communications Inc, which a spokeswoman said already has 50 employees and is &quot;growing rapidly&quot;.  </p>
+<p>Netscape said Navio is working with leading consumer electronics and technology companies, including International Business Machines Corp, Sony Corp, Sega Enterprises Ltd, Nintendo Co Ltd and NEC Corp and Oracle Corp.</p>
+<p>Netscape said Dr. Wei Yen will be president, chief executive officer and a board director of Navio. Yen was previously senior vice president of products and technologies at Silicon Graphics Inc.</p>
+<p>Netscape declined to elaborate on the other seven investors or on the size of individual investments.  </p>
+<p>Netscape said Navio would first work to enhance existing Internet content by making it readily viewable on consumer devices and equipment other than personal computers.</p>
+<p>Navio's software will be based on Netscape technology as part of a strategy to extend Netscape's reach to a broader range of devices which may become increasingly programmable and interconnected using the Internet global computer network.</p>
+<p>&quot;The Internet is already transforming the way people work. After today, it will transform the way people live,&quot; Clark said of the formation of Navio.  </p>
+<p>The strategy is similar to one launched by Microsoft Corp in the early 1990s which had been aimed at installing a scaled down version of Microsoft's Windows operating systems on a range of office machines, such as photocopiers, beyond its use in Personal Computers, a market it dominates.</p>
+<p>The announcement comes as a battle is escalating between Netscape, which despite its youth has about 80 percent of the market for Internet browsers, and the much larger Microsoft.</p>
+<p>A Netscape lawyer has asked the Department of Justice to investigate allegations Microsoft has been improperly using inducements to promote its own browser software.  </p>
+<p>Microsoft denies any wrongdoing and has countered with its own complaints that Netscape has not kept its technology open.</p>
+<p>The war of words comes as the two companies have launched new versions of their browser software -- Netscape Navigator 3.0 and Microsoft's Internet Explorer 3.0 -- in a fierce battle for control over a key Internet software market.</p>
+<p>Navio is working to make Netscape Navigator into smaller, modular software which can be easily integrated into the less powerful hardware of non-PC devices in a scalable fashion that will be compatible with existing sites.  </p>
+<p>&quot;Today, Netscape Navigator has reached more than 40 million users on traditional computer platforms. In the next five years, Navio and Netscape together can bring the Netscape Navigator platform to potentially more than 500 million devices applicable to consumers and businesses,&quot; said Marc Andreessen, Netscape senior vice president of technology.</p>
+<p>Yen said the types of devices the software will address range from game devices and phones to automobiles.</p>
+<p>Netscape plans a news conference in San Francisco at 10:30 a.m. PDT (1:30 p.m. EDT) to unveil the new company.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

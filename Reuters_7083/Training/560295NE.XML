@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560295" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Compuware Corp Q4 March 31 net rises.</title>
+<headline>Compuware Corp Q4 March 31 net rises.</headline>
+<dateline>FARMINGTON HILLS, Mich. 1997-05-05</dateline>
+<text>
+<p>(In Thousands, Except Per Share Data)</p>
+<p>					  QUARTER ENDED   YEAR ENDED</p>
+<p>					    MARCH 31,	MARCH 31,</p>
+<p>				     1997	1996     1997     1996</p>
+<p> REVENUES			252,579  186,933  812,896  614,359</p>
+<p>OPERATING EXPENSES:</p>
+<p>Cost of software license fees</p>
+<p>				     6,062    6,149   20,881   20,146</p>
+<p>  Cost of maintenance	  6,544    6,727   27,278   26,867</p>
+<p>Cost of professional services</p>
+<p>				    70,331   47,680  250,405  174,215</p>
+<p>Software product development</p>
+<p>				    10,778   10,608   44,494   42,792</p>
+<p>  Sales and marketing	 77,500   59,395  256,139  204,403</p>
+<p>Administrative and general</p>
+<p>				    14,005    9,492   48,233   38,537</p>
+<p>Purchased research and development</p>
+<p>							    21,790   24,943</p>
+<p>  Restructuring costs		    10,688		10,688</p>
+<p>Total operating expenses</p>
+<p>				   185,220  150,739  669,220  542,591</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARMINGTON HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

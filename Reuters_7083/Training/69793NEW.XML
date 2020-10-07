@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69793" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Sterling Software spinoff gets IRS approval.</title>
+<headline>Sterling Software spinoff gets IRS approval.</headline>
+<dateline>DALLAS 1996-09-23</dateline>
+<text>
+<p>Sterling Software Inc said Monday that the Internal Revenue Service approved its spinoff to shareholders of the company's 81.6 percent interest in Sterling Commerce Inc.</p>
+<p>If all options and warrants on Sterling Software stock are exercized, about 1.58960 shares of Sterling Commerce will be distributed for each share of Sterling Software held, the company said.</p>
+<p>No fractional shares of Sterling Commerce will be distributed. Fractional shares will be paid in cash, the company said.</p>
+<p>Sterling Software holders of record on September 30 will participate in the tax-free spinoff, it said.</p>
+<p>As of September 20, about 37,853,800 shares of Sterling Software were outstanding. Options and warrants to buy another 646,400 shares were also outstanding, the company said.</p>
+<p>Sterling Software provides software products and services for the federal government. Sterling Commerce provides software for businesses to conduct electronic communications and transactions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

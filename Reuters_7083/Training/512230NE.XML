@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512230" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: Documentum Q1 shr rises.</title>
+<headline>Documentum Q1 shr rises.</headline>
+<dateline>PLEASANTON, Calif. 1997-04-16</dateline>
+<text>
+<p>DOCUMENTUM, Inc.</p>
+<p>		   Condensed Consolidated Statement of Operations</p>
+<p>		 (in thousands, except per share data; unaudited)</p>
+<p>							 Three Months Ended</p>
+<p>								 March 31,</p>
+<p>							   1997	  1996</p>
+<p>Revenues:</p>
+<p>   Licenses					  $11,062    $ 6,988</p>
+<p>   Services					    3,975	1,694</p>
+<p>	Total revenues				15,037	8,682</p>
+<p>Cost of revenues:</p>
+<p>   Licenses						386	  503</p>
+<p>   Services					    2,490	1,176</p>
+<p>	Total cost of revenues		     2,876	1,679</p>
+<p> Gross profit					 12,161	7,003</p>
+<p>Operating expenses:</p>
+<p>   Sales and marketing			     7,285	4,022</p>
+<p>   Research and development			2,298	1,541</p>
+<p>   General and administrative		    1,304	  959</p>
+<p>	Total operating expenses		  10,887	6,522</p>
+<p> Income from operations			    1,274	  481</p>
+<p> Interest and other income, net		    445	  338</p>
+<p> Income before income tax provision	    1,719	  819</p>
+<p> Provision for income taxes			(602)	(287)</p>
+<p> Net income					    1,117	  532</p>
+<p> Net income per share				 0.08	 0.04</p>
+<p>Shares used to compute net income per share</p>
+<p>							  14,880     14,132</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

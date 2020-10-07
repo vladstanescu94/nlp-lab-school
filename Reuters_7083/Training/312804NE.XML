@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312804" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Microsoft, Intuit, Checkfree in Net banking pact.</title>
+<headline>Microsoft, Intuit, Checkfree in Net banking pact.</headline>
+<byline>Franklin Paul</byline>
+<dateline>NEW YORK 1997-01-15</dateline>
+<text>
+<p>Microsoft Corp. and Intuit Inc., formerly rivals in the Internet consumer banking sector, will unveil Thursday a common specification for online banking and financial transactions, industry analysts said Wednesday.</p>
+<p>The so-called &quot;Open Financial Exchange&quot; will create a common platform for electronic banking for banks that want to offer home banking to customers.</p>
+<p>This will allow a direct link over the Internet between consumers, using Intuit's Quicken or Microsoft's Money personal finance software, and their financial institutions.</p>
+<p>CheckFree Corp., which purchased Intuit's online processing unit last September, will provide the bill processing and payment component, they said.</p>
+<p>&quot;They all have been writing to different specifications for people to plug into their software or their services,&quot; said one analyst familiar with the agreement. &quot;Instead of going in separate directions, they are going in a single direction.&quot;</p>
+<p>The three firms have scheduled a conference call for Thursday morning to anounce the agreement.</p>
+<p>A Microsoft spokesman refused to comment on details of the call. Neither Checkfree nor Menlo Park, Calif.-based Intuit were available for comment.</p>
+<p>Gary Arlen, President of Arlen Communications, said Intuit and Microsoft had been working on the standard for two months.</p>
+<p>&quot;They got together in November and have emerged with a common platform that can be used for home banking ... so that banks who want to offer home banking won't have to choose between these two.&quot;</p>
+<p>Arlan said the platform will remain open, and that the companies were inviting other firms to create software that supports what could be a de facto Web banking standard.</p>
+<p>In May 1995, Microsoft's plans to buy Intuit were scuttled by the Department of Justice, and the Redmond, Wash.-based software giant has since earmarked a large portion of its research and development budget for financial software and online banking services.</p>
+<p>But Intuit's Quicken remains the market leader with about 70 percent of the market.</p>
+<p>((-- Franklin Paul, New York Newsdesk +1 212 859 1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

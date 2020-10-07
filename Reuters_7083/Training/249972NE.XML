@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249972" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Netscape unveils SuiteTools components.</title>
+<headline>Netscape unveils SuiteTools components.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-12-11</dateline>
+<text>
+<p>Netscape Communications Corp Wednesday unveiled Netscape SuiteTools, a family of tools for developing and managing Intranet applications, interactive content and Web sites.</p>
+<p>The Mountain View, Calif.-based Internet software company said SuiteTools, available directly from Netscape, includes the company's LiveWire Pro development environment and products from NetDynamics, NetObjects and Symantec Corp.  </p>
+<p>Netscape SuiteTools, based on the company's Netscape ONE open network environment, was created to offer customers, especially developers at large organizations, a range of leading tools to build their own Web sites.</p>
+<p>The tools include NetDynamics, a Java-based enterprise database application tool for developing Intranet applications and extending existing corporate applications to the Web.</p>
+<p>NetDynamics includes a development studio that lets developers use Java to leverage existing skills and a high performance application server which makes those applications immediately available to industry-standard Web browsers.  </p>
+<p>NetObjects unveiled Fusion 2.0, a visual, site-oriented Web site development tool which combines automated site building with professional-quality design and data publishing.</p>
+<p>Also part of SuiteTools is Symantec's Visual Caf Pro, a visual tool for developing Java applets and applications and quickly connecting them to existing databases.</p>
+<p>The Netscape SuiteTools products will be sold individually and are expected to be available from Netscape beginning in the first quarter of 1997. Pricing for each of the tools is expected to be set by individual vendors.</p>
+<p>Netscape LiveWire Pro is also available now and is priced at $695 as a stand-alone product and at no charge as part of the Netscape SuiteSpot integrated suite of server software for deploying Intranets, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

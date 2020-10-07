@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32635" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Oracle sees InterOffice as huge product.</title>
+<headline>Oracle sees InterOffice as huge product.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Oracle Corp chairman and CEO Larry Ellison said the company's new group software, InterOffice, will be one of Oracle's most important products and that it may become its biggest product, in terms of users.</p>
+<p>&quot;We think InterOffice will be a gigantic seller,&quot; Ellison told a group of reporters while in New York for a customer meeting. &quot;The product will be launched more aggressively than any other product we have ever launched.&quot;</p>
+<p>InterOffice includes a major feature that Ellison said could become the &quot;killer application&quot; of the much-vaunted network computer device, multi-media electronic mail.  </p>
+<p>InterOffice, which will cost about $100 per user, will also be less expensive than Lotus Notes, which is now owned by International Business Machines Corp and Microsoft Corp's Exchange, Ellison said.</p>
+<p>InterOffice can run over a corporate intranet, with PCs hooked together in an internal network, or on the lower-cost network computers, which are scaled down PCs to access the Internet and corporate networks. Oracle has been touting the NC and now about 100 hardware manufacturers have endorsed the Oracle specifications to design their own versions of the NC.</p>
+<p>InterOffice was unveiled in June and will ship this month.  </p>
+<p>Ellison said that, in the first six months to a year, the embryonic phase of the new device will likely be rocky, as Oracle works on improving the user interface, etc., but after the first year on the market, NC sales will be &quot;explosive.&quot;</p>
+<p>He said that among the many companies evaluating the NC is a telecommunications carrier in Europe, which is looking at giving the NC to families for free and charge a monthly service for Internet access, which will likely become one business model in the future for these devices.</p>
+<p>Oracle will make money through sales of InterOffice, software development tools and on the NC operating system.  </p>
+<p>&quot;I don't think surfing the Web is the killer application for the NC,&quot; Ellison said. &quot;I think the killer application is multimedia e-mail. Make electronic mail multi-media and life gets interesting.&quot;</p>
+<p>Users can attach video into a document in InterOffice, or other executable file attachments.</p>
+<p>&quot;This is an incredible growth opportunity,&quot; Ellison said. &quot;We will be going into the Microsoft business, with TV advertising. All this is new....We will make some mistakes too.&quot; Oracle is primarily known for its relational database management system, database software used by corporations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

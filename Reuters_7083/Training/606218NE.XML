@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="606218" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Computer Concepts Corp Q1 net loss lessens.</title>
+<headline>Computer Concepts Corp Q1 net loss lessens.</headline>
+<dateline>BOHEMIA, N.Y. 1997-05-21</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss		   $0.02     loss	 $0.08</p>
+<p> Net loss		   2,436     loss	 4,420</p>
+<p> Revs			 5,851		    4,109</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The loss for the three months ended March 31 1996 includes an unusual, non-recurring charge in the first quarter of $2,075,000 relating to a settlement of a class action suit.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOHEMIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

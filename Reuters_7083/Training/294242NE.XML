@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294242" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: Zenith, partners launch Internet TV products.</title>
+<headline>Zenith, partners launch Internet TV products.</headline>
+<dateline>LAS VEGAS 1997-01-08</dateline>
+<text>
+<p>Zenith Electronics Corp said Wednesday it is teaming up with Network Computer Inc, a unit of Oracle Corp, and with Navio Communications Inc, the consumer affiliate of Netscape Communications Corp, to launch new Internet television products.</p>
+<p>Zenith, based in Glenview, Ill., said it plans to offer a family of Internet television products -- set-top boxes and integrated television sets -- with interactive capabilities based on Network Computer's System Software.  </p>
+<p>In a separate statement, released from Las Vegas where the Winter Consumer Electronics Show is being held, Zenith said it plans to collaborate on consumer-based Internet software and services with Navio.</p>
+<p>Zenith said its &quot;NetVision&quot; Internet TV products are planned for introduction in 1997.  The products will allow TV viewers to access the World Web Web, send and receive multimedia e-mail, and participate in a variety of interactive and electronic commerce services.  NetVision will use Zenith's &quot;Z-Track&quot; track-ball remote control, which operates like a computer mouse, it added.  </p>
+<p>Zenith said the set-top boxes and televisions will feature a printer port and smart card slot for home shopping, banking and other transactional services.</p>
+<p>The product will also include a built-in 33.6 kilobit-per-second telephone modem and an Ethernet port for connection to high-speed cable modems.</p>
+<p>Zenith said its agreement with Oracle's Network Computer unit marks a new direction for its Internet televison product strategy and is another step toward establishing the software developed by Network Computer as the industry standard platform for Internet appliances.</p>
+<p>&quot;Working with Oracle, Zenith is redefining the experience of television and marrying channel surfing and net-surfing in a new exciting way,&quot; Peter Willmott, Zenith president, said in a statement.</p>
+<p>Willmott added that Navio's Internet software -- based on the Netscape Navigator, but designed for consumer applications -- is &quot;a terrific fit with our Internet TV strategy.&quot;</p>
+<p>James Barksdale, president of Netscape and a director of privately held Navio, said the Zenith alliance brings Netscape's Internet browser technology into the television market for the first time.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

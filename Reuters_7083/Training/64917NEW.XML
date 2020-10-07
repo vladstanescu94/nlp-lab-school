@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64917" id="root" date="1996-09-19" xml:lang="en">
+<title>CANADA: Discreet Logic Q4 July 31 turns to loss.</title>
+<headline>Discreet Logic Q4 July 31 turns to loss.</headline>
+<dateline>MONTREAL 1996-09-19</dateline>
+<text>
+<p>Q4 ended July 31</p>
+<p>				1996			    1995</p>
+<p> Shr	   loss     US$0.89   profit     US$0.10</p>
+<p> Net	   loss	24,600   profit	 2,493</p>
+<p> Revs			19,052		   22,219</p>
+<p>	   12 MONTHS</p>
+<p> Shr	   loss     US$1.64   profit     US$0.31</p>
+<p> Net	   loss	44,141   profit	 7,786</p>
+<p> Revs			83,997		   64,549</p>
+<p> Avg shrs		  26,837		   24,886</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Full name is Discreet Logic Inc. Results in 1996's fourth quarter included a C$15 million restructuring charge while full year 1996 loss included a C$8.5 million write-off of purchased research and development.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

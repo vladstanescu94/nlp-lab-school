@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="408430" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Novell making progress on CEO search.</title>
+<headline>Novell making progress on CEO search.</headline>
+<dateline>DENVER 1997-02-26</dateline>
+<text>
+<p>Software company Novell Inc is making progress in its search for a new chief executive officer, chairman John Young said on Wednesday.</p>
+<p>Young, speaking on a teleconference call, said Novell expected to name the new CEO &quot;before too long&quot;.</p>
+<p>Some had speculated Novell would announce its selection on Wednesday when it released its first quarter earnings.</p>
+<p>The company has been without a CEO since the last northern summer when Bob Frankenberg resigned.</p>
+<p>President and chief operating officer Joseph Marengi said Novell this year will build new network services for &quot;what we call the border&quot;, that will work between any network, not just Novell's, and the Internet.</p>
+<p>Services for the so-called border will include firewall, or security services, and virtual private networks, Marengi said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

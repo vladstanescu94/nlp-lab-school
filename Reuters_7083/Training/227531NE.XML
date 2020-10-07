@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227531" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: NCR says it is a leading Windows NT vendor.</title>
+<headline>NCR says it is a leading Windows NT vendor.</headline>
+<dateline>DAYTON, Ohio 1996-12-02</dateline>
+<text>
+<p>NCR Corp said on Monday that a study showed NCR is a leading vendor of large computer systems using Microsoft Corp's Windows NT operating system.</p>
+<p>AT&amp;T Corp plans to spin off its NCR unit by the year-end.</p>
+<p>&quot;Our research indicates NCR is the leader in shipments of large NT systems (those costing more than $50,000),&quot; Steve Josselyn of International Data Corp, an independent computer industry analyst firm, said in an NCR statement.</p>
+<p>The study said that, based on shipment revenues of U.S.-based computer vendors, NCR has 65.8 percent of world market share of large NT-based systems, NCR said.</p>
+<p>Last year it had 11.2 percent, or second largest market share, it said.</p>
+<p>Separately, NCR said it has improved availability levels for NCR systems using PeopleSoft Inc's Human Resource Management software and Informix Corp's database management system. A spokesman said the enhanced availability will enable more users to use such a system at the same time and reduce down time.</p>
+<p>((Cleveland Newsdesk, Susan Zimmerman 216-579-0077))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAYTON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

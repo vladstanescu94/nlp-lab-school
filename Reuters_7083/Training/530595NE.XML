@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530595" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Netscape Q1 shr $0.09 vs $0.04.</title>
+<headline>Netscape Q1 shr $0.09 vs $0.04.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-04-23</dateline>
+<text>
+<p>NETSCAPE COMMUNICATIONS CORPORATION</p>
+<p>		CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>	     (in thousands, except per share data, Unaudited)</p>
+<p>							 Three Months Ended</p>
+<p>								 March 31,</p>
+<p>							     1996     1997</p>
+<p>Revenues:</p>
+<p>   Product revenues				  $49,051  $89,769</p>
+<p>   Service revenues				    7,070   30,472</p>
+<p>     Total revenues				   56,121  120,241</p>
+<p>Cost of revenues:</p>
+<p>   Cost of product revenues			  6,811    9,751</p>
+<p>   Cost of service revenues			  1,683    6,067</p>
+<p>     Total cost of revenues			  8,494   15,818</p>
+<p> Gross profit					   47,627  104,423</p>
+<p>Operating expenses:</p>
+<p>   Research and development			 14,126   28,975</p>
+<p>   Sales and marketing				25,805   54,042</p>
+<p>   General and administrative			5,206    9,691</p>
+<p>     Total operating expenses		     45,137   92,708</p>
+<p> Operating income					2,490   11,715</p>
+<p>   Interest income, net				2,431    2,395</p>
+<p>Equity in net losses of joint</p>
+<p>    ventures						  --  (1,501)</p>
+<p>   Interest and other income, net		  2,431	894</p>
+<p> Income before income taxes			  4,921   12,609</p>
+<p> Provision for income taxes			  1,332    4,665</p>
+<p> Net income						3,589    7,944</p>
+<p> Net income per share				   0.04     0.09</p>
+<p>Shares used in computing net income per share</p>
+<p>							    85,003   90,785</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

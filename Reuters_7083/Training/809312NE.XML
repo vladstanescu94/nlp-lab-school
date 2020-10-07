@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809312" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: Bay Networks sees Q1 revs above estimates.</title>
+<headline>Bay Networks sees Q1 revs above estimates.</headline>
+<dateline>SANTA CLARA, Calif. 1997-08-19</dateline>
+<text>
+<p>Bay Networks Inc said Tuesday it expected its revenues in the first quarter ending September 26 to top analysts' estimates amidst strong demand for its products.</p>
+<p>&quot;Based on bookings for the first seven weeks of the first fiscal quarter ... revenue for the quarter is likely to exceed consensus market expectations,&quot; a company statement said.</p>
+<p>It added it expected to record more than half of the quarter's revenue in the remaining six weeks of the period, based on historical seasonal trends.  </p>
+<p>A company spokeswoman was not immediately available to say what Bay networks sees as the market consensus for its first-quarter revenues.</p>
+<p>A July 22 First Call poll of 26 analysts put the company's earnings at $0.16 a share for the first quarter ending September 26.</p>
+<p>Bay Networks offers frame and ATM swtiches, routers, remote and Internet access solutions, and network management applications.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

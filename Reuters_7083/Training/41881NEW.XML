@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41881" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Logal does not expect to meet Q3 estimates.</title>
+<headline>Logal does not expect to meet Q3 estimates.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-09-09</dateline>
+<text>
+<p>Logal Educational Software &amp; Systems Ltd said on Monday that it does not expect to meet analysts' revenue and earnings estimates of $0.05 in the third quarter ending September 30, due primarily to a shortfall in revenues from outside sales channels.</p>
+<p>The company said that although orders for its products have been increasing in the past several weeks, it expects to incur a loss for the quarter.  </p>
+<p>The company said that due to the significant amount of time remaining in the quarter, it was unable to estimate the exact amount of loss.</p>
+<p>Logal Educational intends to focus its outside sales force on selling large Internet-based installations at the school district, university, and state levels and has also hired four additional salespeople to concentrate sales efforts at the school level.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

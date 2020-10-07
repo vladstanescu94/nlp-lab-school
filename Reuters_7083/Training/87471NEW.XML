@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87471" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Datalogix year loss vs profit.</title>
+<headline>Datalogix year loss vs profit.</headline>
+<dateline>VALHALLA, N.Y. 1996-10-01</dateline>
+<text>
+<p>DATALOGIX INTERNATIONAL INC.</p>
+<p>		     (In thousands, except per share data)</p>
+<p>						Year Ended June 30,</p>
+<p>						    1996    1995     1994</p>
+<p> Total revenues			     49,183  43,178   24,748</p>
+<p> Total operating expenses		 58,993  40,326   23,341</p>
+<p> Income (loss) from operations	 (9,810)   2,852    1,407</p>
+<p> Interest income			     1,950     186	 57</p>
+<p> Income (loss) before taxes	    (7,982)   2,925    1,315</p>
+<p> Provision (benefit) for income taxes     50  (2,405)	--</p>
+<p> Net income (loss)			 (8,032)   5,330    1,315</p>
+<p> Earnings (loss) per share		(0.70)    0.59     0.16</p>
+<p>Weighted average number of common</p>
+<p>and common equivalent shares</p>
+<p>  outstanding				 11,426   9,048    8,313</p>
+<p>NOTE: The loss reflects the combined impact of lower than expected license revenues from principal product, GEMMS, and the establishment of substantial reserves to reflect anticipated costs required to meet warranty claims and customer satisfaction issues, as well as other accounting adjustments.</p>
+<p>The 1995 results included a $3.5 million income tax benefit related to recognition of prior years' net operating loss carryforwards.  No tax benefit was recognized on the $8.0 million loss in fiscal 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALHALLA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

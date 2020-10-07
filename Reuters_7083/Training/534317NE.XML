@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="534317" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Indus Group Inc Q1 profit vs loss.</title>
+<headline>Indus Group Inc Q1 profit vs loss.</headline>
+<dateline>SAN FRANCISCO 1997-04-24</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>						   For the Three Months</p>
+<p>							Ended March 31,</p>
+<p>						     1997		1996</p>
+<p>Revenues:</p>
+<p>	Software licensing fees	   $  3,722	 $  3,958</p>
+<p>	Services and maintenance	    18,700	   12,901</p>
+<p>	Total revenues			  22,422	   16,859</p>
+<p> Cost of revenues				9,518	    6,649</p>
+<p> Research and development		    2,931	    3,415</p>
+<p> Sales and marketing			   3,238	    1,936</p>
+<p> General and administrative		  2,296	    1,843</p>
+<p> Income (loss) from operations	     4,439	    3,016</p>
+<p> Other income, net				 411		 47</p>
+<p> Income (loss) before income taxes	 4,850	    3,063</p>
+<p> Provision for income taxes		  2,037	    1,260</p>
+<p>Income (loss) before effect of</p>
+<p>	conversion to C Corporation	  2,813	    1,803</p>
+<p>Cumulative effect of deferred</p>
+<p>income taxes provided upon</p>
+<p>January 1, 1996 conversion to</p>
+<p>	C Corporation				  -	    6,700</p>
+<p> Net income (loss)			     2,813	  (4,897)</p>
+<p> Pro forma net income  (1)		   2,813	    1,803</p>
+<p> Per share  (2)				   0.14	     0.10</p>
+<p>Shares used in computing per</p>
+<p>	share data				19,609	   17,686</p>
+<p>(1)  Pro forma net income for the three months ended March 31, 1996 is exclusive of the $6,700 cumulative effect adjustment.</p>
+<p>(2)  Based on pro forma net income for three months ended March 31, 1996.  Based on net income for the three months ended March 31, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

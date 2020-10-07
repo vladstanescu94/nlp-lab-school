@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="187978" id="root" date="1996-11-14" xml:lang="en">
+<title>UK: Briton seeks law averting Year 2000 computer chaos.</title>
+<headline>Briton seeks law averting Year 2000 computer chaos.</headline>
+<byline>Dale Faulken</byline>
+<dateline>LONDON</dateline>
+<text>
+<p>A global computer problem that could trigger disaster for the new millennium prompted a British member of Parliament Thursday to announce a bid for special legislation.</p>
+<p>David Atkinson, MP, said he would introduce a draft law next month forcing British companies to correct a feared hitch caused by the so-called Millenium Bug -- which may prevent computers from recognising the date 2000 properly.</p>
+<p>&quot;We cannot rely on the voluntary initiatives of companies,&quot; Atkinson said in an interview.</p>
+<p>Experts say that as clocks tick past midnight on Dec. 31, 1999, many computers across the world will either crash or start pumping out erroneous data.</p>
+<p>Most computers log years by the final two digits, this year being &quot;96.&quot; So, lacking human intuiton, they may treat 2000 as 1900 or reject it completely as an invalid date.</p>
+<p>Without safeguards and costly reprogramming, this could snarl almost any aspect of modern life, including communications, credit card transactions, banking, payrolls, air traffic movements and nuclear power plant cooling.</p>
+<p>Atkinson's bill will seek to compel businesses to eradicate the Millennium Bug to prevent computer breakdowns.</p>
+<p>&quot;The problem is so immense and the consequences so awful, that it requires legislation to concentrate business leaders' minds to ensure the problem is solved on time,&quot; he said.</p>
+<p>Atkinson, a member of the ruling Conservative Party, said he would seek cross-party support for the bill, which he will introduce sometime before Christmas.</p>
+<p>Some experts say the damage caused at the turn of the century could be enough to trigger a global recession and that the cost of correcting the problem could be as high as several hundred billion dollars.</p>
+<p>Robin Guenier, executive director of Taskforce 2000, a government-funded group set up to raise awareness of the bug, said the vast majority of British businesses leaders were &quot;not taking the problem seriously.&quot;</p>
+<p>&quot;Most directors just don't believe the problem is so serious. It seems like such a silly, stupid problem,&quot; Guenier said. &quot;It is silly and stupid but it is also deadly serious. For some companies, it will be cheaper to go out of business than to fix the problem.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

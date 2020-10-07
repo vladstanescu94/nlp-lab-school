@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14040" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Tandem, CA in software cross-licensing pact.</title>
+<headline>Tandem, CA in software cross-licensing pact.</headline>
+<dateline>NEW ORLEANS 1996-08-26</dateline>
+<text>
+<p>Tandem Computers Inc and Computer Associates International Inc have reached a joint development and cross-licensing agreement.</p>
+<p>The companies also announced they will jointly deliver a cluster-aware version of CA-Unicenter for the management of Tandem and other clustered environments, including Windows NT, UNIX and Tandem Himalaya servers. Tandem will standardize on CA-Unicenter for all its server platforms.</p>
+<p>Under the pact, Tandem will standardize on CA-Unicenter for all Tandem and Tandem-enabled cluster systems, including the Microsoft Windows NT Server platform and parallel processing Himalaya systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

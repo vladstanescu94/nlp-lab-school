@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="764901" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: WebTV sees 250,000 subscribers by year end.</title>
+<headline>WebTV sees 250,000 subscribers by year end.</headline>
+<dateline>SAN FRANCISCO, California 1997-07-28</dateline>
+<text>
+<p>WebTV Networks Inc chief executive officer Steve Perlman said the company expects to reach 250,000 subscribers by the end of 1997, more than double its current 115,000 users.</p>
+<p>&quot;We'll be about a quarter of a million by the end of December,&quot; Perlman said in answer to investor questions at a Robertson Stephens &amp; Co. investment conference on Monday.</p>
+<p>Perlman, who with other executives of WebTV agreed to sell the company to Microsoft Corp in April in a deal valued at the time at $425 million in cash and stock, outlined how the company grew out of his own curiosity two years ago.</p>
+<p>Perlman, a veteran of Apple Computer Corp. and high-tech startups, was installing a Web browser on his computer in 1995 and decided to see if he could access the Internet on his television using off-the-shelf parts.</p>
+<p>Three days later and armed with $3,000 of parts from a local computer store, Perlman, who had been involved in multimedia video technology during his six years at Apple, said he had succeeded in calling up Web pages on his TV.</p>
+<p>Working with co-founders Bruce Leek and Phil Goldman, the company that was to become WebTV was founded the next day and they set up shop in an abandoned car dealership in downtown Palo Alto, California.</p>
+<p>Now the company has nearly 400 employees and inhabits nine buildings in the town, south of San Francisco.</p>
+<p>WebTV designs the specifications for TV set-top boxes and built-in television Internet connections, and offers Internet service through agreements with service providers that supply connections around the United States.</p>
+<p>WebTV recently added a partnership with Mitsubishi Consumer Electronics America to its original consumer electronics partners, Sony Corp and Philips Electronics NV .</p>
+<p>Although some half-dozen would-be competitors have said they will enter the market for offering various types of Internet access using televisions, Perlman said they have yet to begin shipping products.</p>
+<p>&quot;All joking aside, it's lonely out here,&quot; he said. &quot;It's easier to sell a product if there's somebody out there like you (to give consumers a comparison).&quot;</p>
+<p>The industry is sufficiently nascent that he said it would take years before a true leader emerges, although WebTV intends to keep building on its early leadership.</p>
+<p>(sam.perry@reuters.com, Palo Alto bureau 415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

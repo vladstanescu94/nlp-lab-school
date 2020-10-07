@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="638971" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: Indus Group, TSW International to merge.</title>
+<headline>Indus Group, TSW International to merge.</headline>
+<dateline>SAN FRANCISCO 1997-06-05</dateline>
+<text>
+<p>The Indus Group Inc said Thursday it has signed a definitive agreement to merge with privately-held TSW International Inc in tax-free pooling of interests valued at $280 million, based on the recent price of INDUS shares.</p>
+<p>Both companies will be brought together within a new entity, resulting in a company in which  INDUS shareholders will own about 54 percent of the new company and TSW shareholders owing the rest.</p>
+<p>The merger is subject to regulatory and shareholder approval and customary closing conditions, and is expected to close, said Indus, within 90 days.</p>
+<p>The company added that holders of more than 50 percent of the voting stock of each company have agreed to vote in favor of the merger.</p>
+<p>INDUS develops systems, software and services that help energy-related and other process companies rapidly achieve the benefits of business process improvement</p>
+<p>TSW is a leading provider of Asset Care solutions to discrete manufacturers, utilities, process companies, hospitals, educational systems, government and transportation authorities.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

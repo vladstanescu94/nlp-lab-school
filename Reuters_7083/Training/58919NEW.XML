@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58919" id="root" date="1996-09-17" xml:lang="en">
+<title>INDIA: Indian stocks recommendations - Birla Marlin.</title>
+<headline>Indian stocks recommendations - Birla Marlin.</headline>
+<dateline>BOMBAY 1996-09-17</dateline>
+<text>
+<p>The following is a list of stock recommendations from securities firm Birla Marlin.</p>
+<p>.</p>
+<p>SECTOR	  SCRIPS	 FY 97 (Rs)  RECOMMENDATION</p>
+<p>				   -----------</p>
+<p>				   EPS    PER</p>
+<p>---------------------------------------------------------------</p>
+<p>AUTO ANC.     MICO	   202.2  35.6  Strong Buy</p>
+<p>.</p>
+<p>BANKS	   Orient Bank   11.4   7.5    Buy</p>
+<p>		  State Bank     31.0   9.0    Buy</p>
+<p>.</p>
+<p>CONSUMER	Cadbury	 14.9  19.8    Buy</p>
+<p>NON-DURABLES  ITC		15.9  18.7  Strong Buy</p>
+<p>		  Tata Tea	14.5  18.2  Strong Buy</p>
+<p>.</p>
+<p>LUBRICANTS    Castrol	 18.7  25.9  Strong Buy</p>
+<p>.</p>
+<p>PAINTS	  ICI		15.8  11.2    Buy</p>
+<p>.</p>
+<p>PETROLEUM     BPCL	    33.8   8.3  Strong Buy</p>
+<p>		  HPCL	    28.5  12.1    Buy</p>
+<p>.</p>
+<p>PHARMA	  Orchid Chem   17.3   6.4    Buy</p>
+<p>		  Ranbaxy Labs  34.7  16.4    Buy</p>
+<p>.</p>
+<p>NBFC's	  Sundaram Fin  32.7   8.8  Strong Buy</p>
+<p>.</p>
+<p>SOFTWARE	Digital Equ.   8.2   9.6    Buy</p>
+<p>		  Infosys	 43.0  15.6    Buy</p>
+<p>		  NIIT	    17.0  15.6    Buy</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I0100142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I25650">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

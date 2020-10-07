@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291927" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Document Sciences sees lower Q4 earnings.</title>
+<headline>Document Sciences sees lower Q4 earnings.</headline>
+<dateline>SAN DIEGO 1997-01-06</dateline>
+<text>
+<p>Document Sciences Corp said on Monday that revenues for the fourth quarter were expected to be between $4.6 million and $4.7 million.</p>
+<p>This compares with $4.0 million reported for the fourth quarter of 1995 and $4.1 million reported for the third quarter of 1996.</p>
+<p>Net income is expected to be about $640,000 or $0.06 per share compared with $802,000 or $0.10 cents per share for the same quarter a year ago and $333,000 or $0.04 cents per share for the immediately preceding quarter, the company said.  </p>
+<p>For 1996, total revenues would be about $15.1 million and net income about $1.2 million, or $0.12 cents to $0.13 cents per share. This compares with total revenues of $10.5 million and net income of $1.05 million or $0.12 cents per share in 1995, the company said.</p>
+<p>Final financial results for the fourth quarter and for 1996 will be announced January 27, the company said.</p>
+<p>Document Sciences provides document automation software and services used in high-volume electronic publishing applications.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

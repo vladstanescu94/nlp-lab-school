@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="794170" id="root" date="1997-08-12" xml:lang="en">
+<title>USA: AMERICAN SOFTWARE NAMES CFO OF LOGILITY.</title>
+<headline>AMERICAN SOFTWARE NAMES CFO OF LOGILITY.</headline>
+<dateline>ATLANTA, Ga. 1997-08-12</dateline>
+<text>
+<p>American Software said on Tuesday that it had appointed James Modak as senior vice president and chief financial officer of Logility Inc, its value chain management software subsidiary.</p>
+<p>Modak previously served as senior vice president of finance at Total Systems Services Inc, and at First Financial Management Corp, American Software said.</p>
+<p>The company also said it had filed an initial public offering of about 16 percent of the common stock of Logility, or 2.2 million shares.</p>
+<p>Underwriters for the offering, Montgomery Securities and Cowen &amp; Co, were granted an option to buy up to 330,000 additional shares to cover over-allotments.</p>
+<p>In a statement, the company said proceeds from the offering would fund expansions in research, development, marketing and possible acquisitions.</p>
+<p>American Software develops supply chain management and manufacturing systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

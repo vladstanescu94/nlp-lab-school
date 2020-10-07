@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49692" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Microsoft sets agressive Net product launch.</title>
+<headline>Microsoft sets agressive Net product launch.</headline>
+<dateline>ANAHEIM, Calif. 1996-09-12</dateline>
+<text>
+<p>Microsoft Corp Chief Operating Officer Bob Herbold on Thursday outlined an aggressive rollout of several new Internet-based products and services, speeding its efforts to grab a lion's share of the emmerging market.</p>
+<p>&quot;The world is not standing still,&quot; Herbold told Reuters following his speech at the Internet Commerce Expo here.</p>
+<p>Herbold said Windows 3.1 and Macintosh versions of its new Explorer web browser will be launched in &quot;late fall&quot; of this year.  </p>
+<p>Moreover, a re-launch of the Microsoft Network On-line service as a comprehensive Web site is now set for mid-October, he said.</p>
+<p>Part of that re-launch is a new software package targeted to retailers who want to make Internet shopping easy and secure for consumers.</p>
+<p>The software, called Merchant System, already has 200 retailers using it in beta tests, Herbold said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

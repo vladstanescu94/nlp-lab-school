@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185384" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Timeline Inc Q2 loss.</title>
+<headline>Timeline Inc Q2 loss.</headline>
+<dateline>BELLEVUE, Wash. 1996-11-12</dateline>
+<text>
+<p>($ in thousands, except per share data)</p>
+<p>					     Second Quarter  Six Months</p>
+<p>					   September 30,  September 30,</p>
+<p>					  1996     1995    1996    1995</p>
+<p>REVENUES:</p>
+<p> Software Licenses		$  216   $  673  $  991  $1,387</p>
+<p> Maintenance			   236	192     413     431</p>
+<p> Consulting			    810	536   1,338     890</p>
+<p> Other				    41	  8	41	15</p>
+<p> Total Revenue		     1,303    1,409   2,783   2,723</p>
+<p> COST OF REVENUE		     534	384     951     679</p>
+<p> Gross Profit			  769    1,025   1,832   2,044</p>
+<p>OPERATING EXPENSES</p>
+<p> Sales and Marketing		 841	366   1,712     738</p>
+<p> General and Administrative	513	352     913     755</p>
+<p> Research and Development	  483	185     819     325</p>
+<p> Depreciation			   63	 35     125	64</p>
+<p> TOTAL OPERATING EXPENSES	1,900	938   3,569   1,882</p>
+<p>Income (loss) from operations</p>
+<p>				     (1,131)	 87  (1,737)    162</p>
+<p> OTHER INCOME (EXPENSES)	(  20)	 35  (  46)	68</p>
+<p> Net Income (Loss)	    ( 1,151)	 12  ( 1,783)   230</p>
+<p>Net Income (Loss) per share</p>
+<p>				    (   .38)	.05  (   .62)   .09</p>
+<p> Weighted Shares Outstanding   3,041    2,519   2,867   2,519</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELLEVUE, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

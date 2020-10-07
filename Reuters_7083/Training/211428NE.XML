@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="211428" id="root" date="1996-11-22" xml:lang="en">
+<title>JAPAN: Jaleco - 6mth parent results.</title>
+<headline>Jaleco - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-22</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  4.03		vs	    3.00</p>
+<p> Operating	  118 million	 vs	    8 million</p>
+<p> Current	   prft 82 million    vs    loss 35 million</p>
+<p> Net		 prft 77 million    vs    loss 39 million</p>
+<p> EPS	     prft 7.38 yen	  vs     loss 3.77 yen</p>
+<p> Shares	     10 million	  vs	  10 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Jaleco Ltd is a maker of commercial-use game machines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

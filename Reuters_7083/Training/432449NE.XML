@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432449" id="root" date="1997-03-11" xml:lang="en">
+<title>USA: IBM, others to announce NC compatibility.</title>
+<headline>IBM, others to announce NC compatibility.</headline>
+<dateline>NEW YORK 1997-03-10</dateline>
+<text>
+<p>International Business Machines Corp, Oracle Corp, Sun Microsystems Inc and Netscape Communications Corp will announce Tuesday an agreement to enable network computers (NCs) from one vendor to interoperate with other systems and software, the companies said.</p>
+<p>The companies will announce that they have agreed on a set of specifications - a road map for software developers - that will enable software developers to write applications across several computing platforms in the network computing area.</p>
+<p>A conference call will be held at 1230 EST/1730 GMT Tuesday to discuss these latest compatibility efforts.</p>
+<p>&quot;We are going to work so that these APIs (application programming interfaces) are common across our individual platforms,&quot; said David Pann, a group product marketing manager at Netscape.</p>
+<p>Network computers are scaled-down lower cost computers that access the Internet and other networks. Sun Microsystems and IBM have introduced network computers. Oracle has been a big proponent of the NCs and issued specifications last May for the design of NCs so the hardware would be interoperable.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

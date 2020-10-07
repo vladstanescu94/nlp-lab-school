@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="762301" id="root" date="1997-07-29" xml:lang="en">
+<title>UK: UK MP reintroduces bill on computer millennium bug.</title>
+<headline>UK MP reintroduces bill on computer millennium bug.</headline>
+<dateline>LONDON 1997-07-29</dateline>
+<text>
+<p>A Conservative member of parliament launched a new effort on Tuesday to force British firms to face up to the threat of a &quot;millennium meltdown&quot; of their computers.</p>
+<p>David Atkinson won permission after a brief debate in the House of Commons to re-introduce a bill that would require companies to assess whether their computers are capable of recognising the year 2000 and to propose a plan of action if necessary.</p>
+<p>Atkinson told Reuters he would seek a meeting with junior trade and industry minister John Battle in the new Labour government to lobby for his bill. Without government support, it has no chance of becoming law.</p>
+<p>It is Atkinson's second attempt to legislate on the issue. The previous Conservative government scuppered the first attempt in February, saying it would impose costly burdens on business.</p>
+<p>Atkinson told parliament that a failure to make sure computer programmes can properly identify calendar dates after 31 December 1999 could lead to the costliest burden of all -- bankruptcy.</p>
+<p>Payroll systems could collapse, financial and invoicing records could be lost and myriad computer-controlled machines could go haywire if they are flummoxed by a double-zero representing the start of the year 2000, he said.</p>
+<p>The result, Atkinson said, would be a catastrophe.</p>
+<p>&quot;Far from imposing new burdens on business, the bill merely clarifies for company directors and their auditors an existing duty to give shareholders a true and fair assessment of the company as a going concern in the forseeable future.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260595" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: IBM, Cascade plan mainframe connections.</title>
+<headline>IBM, Cascade plan mainframe connections.</headline>
+<dateline>FISHKILL, N.Y. 1996-12-17</dateline>
+<text>
+<p>International Business Machines Corp and Cascade Communications Corp said they expanded their strategic alliance to include development of direct connections between IBM mainframes and the Internet.</p>
+<p>The two companies said that providing direct connections between S/390 mainframe machines and the Internet, intranet and Wide Area Networks (WANs) will result in significantly reduced demand for intermediate network gateway products.</p>
+<p>The latest agreement by Cascade and IBM's mainframe unit extends an earlier pact announced in March that joined Cascade and IBM's network unit in a product development alliance.  </p>
+<p>The project focuses on machines known as System/390 Parallel Enterprise Servers, the latest generation of IBM mainframes.</p>
+<p>The result of the joint technology project will be to provide faster, less expensive network access for IBM mainframe software and data, the two companies said.</p>
+<p>A spokeswoman said the project would create connections using a mix of Cascade and IBM switching equipment.</p>
+<p>&quot;We are taking the next step in the ongoing relationship between IBM and Cascade,&quot; said Deborah Miller, an IBM spokeswoman.  </p>
+<p>&quot;The majority of the world's data is housed in S/390 servers,&quot; said Desh Deshpande, executive vice president and founder of Cascade, in a statement.</p>
+<p>&quot;This development effort between Cascade and IBM will make that data even more readily available throughout the Internet,&quot; he said.</p>
+<p>Currently, organizations using mainframe computers to connect to the Internet must route S/390 data through a variety of intermediate gateways. IBM and Cascade said they will write new software code designed to bypass gateways using methods that are transparent to customers using the computers.  </p>
+<p>IBM and Cascade said their planned S/390 connection will be compatible with a variety of key Internet technologies, including the TCP/IP Internet protocol, Asynchronous Transfer Mode (ATM) and frame relay, two high speed-switching technologies that handle multimedia voice video and data.</p>
+<p>The mainframe connnections will also work with Switched Multi-Megabit Data Service (SMDS) and Integrated Switched Digital Network systems, two additional high-speed network transmission technologies, they said.</p>
+<p>Such a project could reduce demand for network router and switching equipment supplied by companies such as Cisco Systems Inc and other network equipment suppliers.</p>
+<p>The IBM-Cascade plan comes shortly after Cisco annnounced it will extend its core Internetworking Operating System to integrate with IBM mainframes and midrange computers running on corporate internal networks, or intranets.</p>
+<p>The plan, announced December 13, involved Cisco taking a minority stake in mainframe software developer Interlink Computer Sciences Inc.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FISHKILL, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

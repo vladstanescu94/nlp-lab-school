@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242628" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Oracle, Digital expand alliance.</title>
+<headline>Oracle, Digital expand alliance.</headline>
+<dateline>REDWOOD SHORES, Calif. 1996-12-09</dateline>
+<text>
+<p>Oracle Corp and and Digital Equipment Corp said on Monday that Oracle's core products will be delivered on computer network platforms that use Digital's Alpha microprocessor running Microsoft's Windows NT operating system.</p>
+<p>All of Oracle's core products, including database software, will now be delivered on Digital's Alpha platforms and Intel Prioris platforms running Windows NT, expanding Windows NT offerings, the companies said in a joint statement.</p>
+<p>Oracle7 release 7.3 and Oracle Enterprise Manager for Digital's Alpha platforms running Windows NT are expected to be available next month, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264889" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Dynamic Healthcare sees charge from merger.</title>
+<headline>Dynamic Healthcare sees charge from merger.</headline>
+<dateline>MAITLAND, Fla. 1996-12-18</dateline>
+<text>
+<p>Dynamic Healthcare Technologies Inc said Wednesday that it will take a material one-time charge for in-process research and development in its merger with Collaborative Medical Systems Inc.</p>
+<p>The company said it expects to take the charge in the fourth quarter but does not yet have an estimate of the amount.</p>
+<p>Dynamic Healthcare said its merger with Collaborative Medical Systems, a Massachusettes company that provides anatomic pathology systems for teaching and community hospitals, was completed Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAITLAND, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

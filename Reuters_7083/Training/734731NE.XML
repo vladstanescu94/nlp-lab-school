@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="734731" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: Xcellenet says anticipates $600,000 charge.</title>
+<headline>Xcellenet says anticipates $600,000 charge.</headline>
+<dateline>ATLANTA 1997-07-17</dateline>
+<text>
+<p>Xcellenet, a maker of computer networking and systems software, said late Wednesday it anticipates it will take $600,000 non-recurring charge against earnings.</p>
+<p>The company said that the charge was the result streamling of its operations in the second quarter, which included the phasing out of 20 positions through normal attrition.</p>
+<p>Xcellenet said it believes that a similar streamling opportunity exists in other areas of the company during the third quarter, and that will further lower fixed operating costs.</p>
+<p>Seperately, Xcellenet reported a loss of $32,000 in the second quarter, compared to a profit of $363,000 or $0.05 a share in the same period a year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147748" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Microsoft plans beta of Internet Studio.</title>
+<headline>Microsoft plans beta of Internet Studio.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-28</dateline>
+<text>
+<p>Microsoft Corp said it would make available a beta test version of its Web application development tool code-named &quot;Internet Studio&quot; by the end of the year.</p>
+<p>An alpha version was distributed to more than 2,000 attendees at a Microsoft conference, the company said.</p>
+<p>The product will be released commercially sometime next year, Microsoft said. Pricing has not yet been announced.</p>
+<p>The product, previously developed for the Microsoft Network online service and code-named &quot;Blackbird,&quot; was completely revamped last year when Microsoft announced plans to shift its focus to the Internet rather than proprietary standards.</p>
+<p>-- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

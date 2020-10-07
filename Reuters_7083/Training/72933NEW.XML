@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72933" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: HBO &amp; Co. buys GMIS.</title>
+<headline>HBO &amp; Co. buys GMIS.</headline>
+<dateline>ATLANTA 1996-09-24</dateline>
+<text>
+<p>Medical information systems provider HBO &amp; Company said Tuesday it signed an agreement to buy GMIS Inc., a Pennsylvania-based provider of clinical database information systems for managed care.</p>
+<p>Shares of GMIS jumped $6.625, or nearly 39 percent, to $23.75 on Nasdaq. HBO fell $1.375 to $62.375, also on Nasdaq.</p>
+<p>HBO said under the agreement, GMIS shareholders will get 0.42 of a share of HBO common stock for each share of GMIS common, as long as the average HBO share price remains between $47.62 and $64 during the pricing period.</p>
+<p>If the average rises above $64 or falls below $47.62 a share, HBO said, GMIS shareholders will get a fraction of a share of HBOC common valued at $26.88 or $20.00, respectively, per GMIS share.</p>
+<p>The deal awaits regulatory and GMIS shareholder approval. HBO said it would be accounted for as a pooling of interests and close during the fourth quarter of 1996.</p>
+<p>Atlanta-based HBO provides patient care and financial and management software products to hospitals, clinics and doctors.</p>
+<p>GMIS, based in Malvern, Pa., had 1995 revenue of $36 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389034" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: Digital spins off software development unit.</title>
+<headline>Digital spins off software development unit.</headline>
+<dateline>MAYNARD, Mass. 1997-02-14</dateline>
+<text>
+<p>Digital Equipment Corp on Tuesday said it was spinning off its San Jose research group to form TracePoint Technology Inc, which will design programming tools to be used with the Microsoft Windows 95 and Windows NT environments.</p>
+<p>Digital will retain a majority interest in the new company which received $2.5 million in venture capital from Sequoia Capital, Stanford Management and Soundview Financial Group.  </p>
+<p>Sequoia's Mark Stevens said the market for the company's products, the first of which will be released in a few weeks, is an estimated one million C and C++ programmers who are developing programs for use in the Windows environment.</p>
+<p>Digital officials estimated the products, the first of which will have a business application, will sell for $500 to $600 each.</p>
+<p>&quot;You're really talking initially about a market of some $500 million,&quot; said Stevens, whose company has in the past backed Oracle Corp and Yahoo, Inc.  </p>
+<p>Stevens said the goal is to take TracePoint public in &quot;a reasonable time period -- two to three years.&quot;</p>
+<p>Don DePalma, who follows technology for Forrester, noted that since Digital has changed its focus from being a &quot;soup-to-nuts&quot; computer company to concentrating on its systems, it has taken three routes to push &quot;pieces of software overboard.&quot;</p>
+<p>In the past, Digital has sold businesses for a one-time revenue gains or just eliminated a division to cut losses. Now it is spinning off a division.  </p>
+<p>&quot;It's not a large market, but it could give them a nice return,&quot; DePalma said. &quot;It's a financial investment vehicle that is a way for them to capitalize on technology they don't want and that has potential.&quot;</p>
+<p>Stevens said TracePoint would have a site on the Internet's World Wide Web (www.tracepoint.com) and would use the Internet to both distribute and market its products.</p>
+<p>In addition, Digital entered into a deal with BEA Systems, which filed with the Securities and Exchange Commission for its initial public offering on January 31.</p>
+<p>The Sunnyvale, Calif. company, which has proposed to trade on the Nasdaq market under the symbol BEAS, posted revenues of $36.3 million for the nine months to October 31 and a loss of $86.2 million.</p>
+<p>&quot;We're not disclosing the terms of the agreement right now,&quot; said Jeri Edwards, vice president of product planning and strategy at BEA.</p>
+<p>She said the combination of Digital's products, its equity investment in BEA and its agreement to continue to distribute the products would boost BEA's entire suite of products, enabling BEA to sell through multiple sales channels.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAYNARD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

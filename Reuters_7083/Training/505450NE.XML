@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="505450" id="root" date="1997-04-13" xml:lang="en">
+<title>USA: Internet startup company takes aim at bottlenecks.</title>
+<headline>Internet startup company takes aim at bottlenecks.</headline>
+<dateline>PALO ALTO, Calif.</dateline>
+<text>
+<p>A small Silicon Valley startup company believes it has an answer to help Internet users fed up with the World Wide Wait.</p>
+<p>VitalSigns Software Inc., a company founded by networking industry executives, plans Monday to launch a &quot;browser companion&quot; that will let Web surfers diagnose where slowdowns are occurring in the World Wide Web.</p>
+<p>&quot;This will literally help you improve your network performance,&quot; VitalSigns CEO Montgomery Kersten said of the company's Net.Medic software product, which will be available Monday for a free 30-day trial period.</p>
+<p>The software will sell for around $50 for a personal license, or $10 less in an initial promotion.</p>
+<p>The product provides a dashboard-like interface that enables users to monitor the health and performance of their computers, modems and Internet service provider to figure out exactly where delays are occurring.</p>
+<p>Kersten said that by helping individual Internet users identify where problems lie, the company hopes to encourage suppliers to improve their service performance.</p>
+<p>It plans to launch products for companies running Internet software and for Internet service providers themselves during the summer, hoping better measurement and diagnosis will improve service.</p>
+<p>VitalSigns said it expects performance can be boosted by 50 percent using its products, while putting the heat on poor performers by using its software as what it calls a &quot;Darwinian accelerator&quot; by helping the best to succeed.</p>
+<p>&quot;We're trying to bring a fact-based relationship and a modern consumer relationship to this thing called the Internet,&quot; said Kersten.</p>
+<p>VitalSigns currently has a direct sales force of four and is seeking to build sales through equipment makers and third parties, such as networking and modem companies.</p>
+<p>The company, founded last year, last week raised a little more than $5.5 million in venture investment backed by Sequoia Capital Partners, LLC, and Austin Ventures.</p>
+<p>Its directors includes executives and technologists of Netscape Communications Corp., Microsoft Corp. and Bay Networks. Three of its executives came from Bay Networks.</p>
+<p>Santa Clara-based company's software will compete against diagnostic and management products from a variety of vendors, including computer giant Hewlett-Packard Co..</p>
+<p>Kerstin said Net.Medic is designed to work with a wide range of products, and that VitalSigns has received interest from computer makers as well as others, possibly to bundle Net.Medic with their products.</p>
+<p>Net.Medic runs on Microsoft's Windows 95, Windows NT 4.0, Netscape Communications' Netscape Navigator 3.0 or later and Microsoft IE 3.0 or later.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="I8150203">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

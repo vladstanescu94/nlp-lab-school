@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76184" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Alydaar delays release of Assessor 2000.</title>
+<headline>Alydaar delays release of Assessor 2000.</headline>
+<dateline>CHARLOTTE, N.C. 1996-09-25</dateline>
+<text>
+<p>Alydaar Software Corp said Wednesday that it will delay the release of new software designed to help companies prepare for the Year 2000 because of new developments in a possible business alliance.</p>
+<p>The company had planned to release the Assessor 2000 and its Compliance 2000 Impact Assessment Methodology Plan September 26.</p>
+<p>&quot;Recent developments in negotiations to form a significant new business alliance have required Alydaar Software to reconsider its decision to offer the assessment software at this time,&quot; said company Chairman Robert Gruder.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

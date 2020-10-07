@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191618" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: StarSight Telecast Inc Q3 shr loss narrows.</title>
+<headline>StarSight Telecast Inc Q3 shr loss narrows.</headline>
+<dateline>FREMONT, Calif. 1996-11-14</dateline>
+<text>
+<p>StarSight Telecast, Inc.</p>
+<p>				Financial Highlights</p>
+<p>				   (Unaudited)</p>
+<p>		  (in thousands, except per share amounts)</p>
+<p>			     Three Months Ended  Nine Months Ended</p>
+<p>					Sept. 30,	    Sept. 30,</p>
+<p>				   1996	1995     1996	1995</p>
+<p>REVENUES:</p>
+<p> Licensing		   $ 1,767  $   166  $  3,738  $    166</p>
+<p> Subscription and other	443	271     1,246	 832</p>
+<p> Total revenues		2,210	437     4,984	 998</p>
+<p> Cost of Goods Sold	    489	129     1,078	 337</p>
+<p>Inventory reserves and</p>
+<p>  write offs			--    3,300	  --     4,230</p>
+<p> Gross Profit		  1,721  (2,992)     3,906   (3,569)</p>
+<p>COST AND EXPENSES:</p>
+<p>General and administrative</p>
+<p>				   1,765    2,103     6,864     7,329</p>
+<p> Litigation		    1,113	407     4,253     2,155</p>
+<p>Engineering and development</p>
+<p>				     839	841     2,624     2,933</p>
+<p> Marketing		     2,127    1,476     4,744     5,789</p>
+<p>Network services and</p>
+<p>  other expenses	     1,589    1,229     4,297     4,263</p>
+<p> Total costs and expenses  7,433    6,056    22,782    22,469</p>
+<p> OPERATING LOSS	    (5,712)  (9,048)  (18,876)  (26,038)</p>
+<p> INTEREST EXPENSE		(3)	(7)	(12)	(27)</p>
+<p> INTEREST INCOME		 245	 78	 579	 538</p>
+<p> NET LOSS		    (5,470)  (8,977)  (18,309)  (25,527)</p>
+<p>NET LOSS PER COMMON SHARE</p>
+<p>				  (0.21)   (0.43)    (0.75)    (1.21)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

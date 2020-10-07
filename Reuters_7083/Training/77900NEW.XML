@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77900" id="root" date="1996-09-26" xml:lang="en">
+<title>HUNGARY: SWISS MAY FACE 5-YEAR JAIL FOR CD-PIRACY IN HUNGARY.</title>
+<headline>SWISS MAY FACE 5-YEAR JAIL FOR CD-PIRACY IN HUNGARY.</headline>
+<dateline>BUDAPEST 1996-09-26</dateline>
+<text>
+<p>A Swiss citizen caught in Hungary with pirated software worth almost two billion forints ($13 million) could face a five-year sentence if found guilty, police said on Thursday.</p>
+<p>&quot;We just received expert opinion putting the value of the software at around two billion forints,&quot; Lieutenant-Colonel Zoltan Marton, head of the crime prevention unit of Szekesfehervar (central Hungary) police, told Reuters.</p>
+<p>He added that the 30-year-old man, only identified as David J. G., has been found carrying 2,500 CD-ROMs with pirated software in his car during a routine police road check in August and was taken into custody.</p>
+<p>The suspect also had on him a receipt for $5,000, the amount he paid a Hungarian company for copying the software, but according to Hungarian police the company was unaware of the illicit nature of the operation.</p>
+<p>Marton said versions of Microsoft 's Windows operating system and Borland 's developer software were found among the pirated programs.</p>
+<p>Copyright violation is the only software-related crime in Hungary as there is no customs duty on software, unlike for hardware.</p>
+<p>Earlier this week, industry sources said the computer hardware black market accounts for up to a quarter of Hungary's information technology turnover of 100 billion forints ($645 million) a year, while as much as ninety percent of memory modules could come from illegal imports.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

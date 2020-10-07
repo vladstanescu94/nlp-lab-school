@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248244" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Sybase CEO says company not for sale.</title>
+<headline>Sybase CEO says company not for sale.</headline>
+<dateline>CHICAGO 1996-12-11</dateline>
+<text>
+<p>Sybase Inc chief executive Mitchell Kertzman said Wednesday the database software and service company is not for sale, in whole or in part.</p>
+<p>&quot;I can say that Sybase is not on the market, nor is any part of our business,&quot; Kertzman said at a trade show in Chicago.</p>
+<p>A trade publication recently reported rumors that Emeryville, California-based Sybase was in talks to merge with Microsoft Corp.</p>
+<p>Kertzman said the company does not comment on specific rumors, but he said Sybase and Microsoft have discussed working together and have a similar view of the computer and software markets.</p>
+<p>&quot;We'll be doing more and more of that,&quot; Kertzman said, referring to talks with Microsoft.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

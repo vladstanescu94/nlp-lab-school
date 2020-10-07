@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="601962" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: Sybase says has encryption export approval.</title>
+<headline>Sybase says has encryption export approval.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-05-21</dateline>
+<text>
+<p>The U.S. Commerce Department showed an unexpected degree of flexibility in approving an application from Sybase Inc to export computer encoding products, company officials said on Wednesday.</p>
+<p>About a dozen companies have already gotten permission this year to export products with encryption, data scrambling technology that renders information unreadable without a password or software &quot;key.&quot;</p>
+<p>But Sybase's products appeared to skirt strict U.S. export rules in effect since the beginning of the year.  </p>
+<p>&quot;I was sufficiently surprised when I got word over the phone that we had been approved that I wrote a letter spelling out what I saw as the differences of our approach versus (the regulations),&quot; said Tom Parenty, Sybase's director of data and communication security. Shortly thereafter, Parenty said, he received written confirmation.</p>
+<p>To export powerful encryption under the current rules, a company must include features allowing the government to crack the codes by gaining access to the software keys. Companies may export medium-strength encryption by promising to include so-called key recovery features within two years.  </p>
+<p>The rules indicate that a product must allow key recovery both for encrypted stored data, like a file on a hard drive, as well as for live communications that are encoded.</p>
+<p>But Sybase's products, Internet transaction software and client-server database programs, will allow for key recovery within two years only of stored data. Encrypted communications between a customer and a web site using the Sybase transaction software, for example, would not allow for government decoding, Parenty said.</p>
+<p>The key recovery feature was designed to meet the needs of customers, he said.  </p>
+<p>&quot;Many people want a key recovery mechanism for stored data,&quot; Parenty said. &quot;But there is no reason, once I have the answer to my query, to want the keys to decrypt those communications.&quot;</p>
+<p>Sybase still supports legislative proposals that Congress is considering that would eliminate most of the export restrictions, Parenty said.</p>
+<p>The Clinton administration has opposed loosening the rules, but pressure for change continued to mount this week, as Sun Microsystems Inc announced it would get around the rules by marketing Russian-made encryption with its export products.</p>
+<p>And on Wednesday, a group of cryptography experts released a study concluding that the large-scale infrastructure needed to support key recovery for law enforcement agencies could compromise the security of lawful encryption users.</p>
+<p>((--202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

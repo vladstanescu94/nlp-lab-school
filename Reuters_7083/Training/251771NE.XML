@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251771" id="root" date="1996-12-12" xml:lang="en">
+<title>HUNGARY: Scala sets $15 mln capital increase.</title>
+<headline>Scala sets $15 mln capital increase.</headline>
+<dateline>BUDAPEST 1996-12-12</dateline>
+<text>
+<p>Hungary-based software company Scala ECE said its directors approved a $15 million capital increase.</p>
+<p>&quot;This increase will make us very strong financially and enable us to make further heavy investments in products and market development,&quot; chief executive Andreas Kemi said a statement.</p>
+<p>The company, whose directors approved the issue on Monday, said the issue was oversubscribed on the first day.</p>
+<p>Scala shares were trading at 1505.0 schillings on the Vienna bourse.</p>
+<p>-- Budapest newsroom ++36 1 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351372" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Oracle files shelf for $350 mln debt.</title>
+<headline>Oracle files shelf for $350 mln debt.</headline>
+<dateline>WASHINGTON 1997-02-03</dateline>
+<text>
+<p>Oracle Corp said Monday it filed a shelf registration with the Securities and Exchange to sell up to $350 million in debt securities.</p>
+<p>Net proceeds will be used to increase working capital and for other general corporate purposes, including the repurchase of company's common relating to the stock repurchase program.</p>
+<p>The Redwood City, Calif., based company is an information management supplier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

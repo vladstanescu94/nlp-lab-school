@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117388" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Lotus, Netcom in Web software pact.</title>
+<headline>Lotus, Netcom in Web software pact.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-10-15</dateline>
+<text>
+<p>Lotus Development Corp said Tuesday it formed a strategic relationship with Netcom On-Line Communications Inc to develop Internet software to support the new version of its Lotus Notes software.</p>
+<p>They said Netcom will help advance the development and deployment of a new class of Domino- based collaborative, interactive Internet applications.</p>
+<p>Domino SPA (Service Provider Applications) are extensions of Lotus's family of Domino Applications modified so they can be rented from service providers by small and medium size companies, home office users and consumers.  </p>
+<p>The first service Netcom will test is a Domino SPA code-named &quot;Domino.Collaboration SPA.&quot;  Netcom will conduct trial tests in the fourth quarter which will allow users to rent a Web site for collaborative projects, Lotus spokesman Steven Brand told reporters on a conference call.</p>
+<p>&quot;Domino.Collaboration&quot; and other applications will run on Lotus Notes 4.5, code-named Domino, which is designed entirely around Internet technology and will be available before the end of the year.  </p>
+<p>With &quot;Domino.Collaboration,&quot; users will be able to quickly set up a Web site by renting server space from Internet or Notes service providers rather than install and manage a Web site on their own network.</p>
+<p>&quot;The Domino service provider applications are designed for those companies or browser users who need to set up a site quickly and would rather rent a site than run the server in-house for a variety of reasons,&quot; Brand said.</p>
+<p>&quot;Within minutes, a user can create a password-protected site, limited to a specified group of private users,&quot; he said. &quot;Users can post, organize and share content as easily and as intuitively as they can read it.&quot;</p>
+<p>Netcom will provide technical insight for  &quot;Domino.Collaboration&quot; and other Domino-based applications, Brand said.</p>
+<p>Lotus, a unit of International Business Machines Corp, has relationships with telecommunications companies around the world which may also offer the service, Brand said.</p>
+<p>Lotus would share revenues from the Domino software with the service providers and users would be charged based on the number of users and time, he said.</p>
+<p>The applications would work with all the popular Web browsers, including Netscape and Microsoft Explorer, he said. Browsers enable users to search for information on the Internet's World Wide Web of computer networks. 	-- Michael Ellis, Boston bureau (617) 367-4176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

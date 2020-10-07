@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44033" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Computer expert outlines scope of calendar problem.</title>
+<headline>Computer expert outlines scope of calendar problem.</headline>
+<dateline>WASHINGTON 1996-09-10</dateline>
+<text>
+<p>The problem of computers recognizing dates beginning in the year 2000 is easier to solve for personal computers than mainframes, an expert told a House committee hearing Tuesday.</p>
+<p>Many computers are programmed to read only the last two digits of a year and will recognize dates beginning January 1, 2000, as January 1, 1900.  </p>
+<p>&quot;(The) basic distinction between the rapid turnover in the PC industry and the long life of larger systems is why the challenge in the mainframe world may be so much larger and more difficult,&quot; said Harris Miller, president of the Information Technology Association of America.</p>
+<p>Miller told the House Science Committee that newer personal computers and software would be able to read dates from the year 2000 and beyond.  </p>
+<p>Sally Katzen of the White House Office of Management and Budget told the committee that senior managers of federal agencies were being made aware of the problem and were taking steps to correct it.</p>
+<p>She said it was too soon to say if estimates of $30 billion or more to make corrections were accurate.</p>
+<p>Katzen, administrator of OMB's Office of Information and Regulatory Affairs, said the problem was potentially very serious because computers use dates to maintain inventories, sort items for filing, check entries for errors, compute benefits, determine program eligibility and calculate expiration dates.  </p>
+<p>&quot;For instance, standard newer Intel products will handle the transition to the year 2000. Similarly, all new models of IBM PCs announced in 1996 will automatically address the update of the year 2000,&quot; Miller said.</p>
+<p>He said users of older personal computers might have to reset dates manually.</p>
+<p>&quot;For those of you familiar with Windows, the adjustment can be made with a few simple mouse clicks in the control panel,&quot; he said. &quot;The situation is no more serious than if a power failure forced you to reprogram the clock on your VCR.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131562" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Accugraph names Paul Damp as CEO.</title>
+<headline>Accugraph names Paul Damp as CEO.</headline>
+<dateline>EL PASO, Texas 1996-10-20</dateline>
+<text>
+<p>Accugraph Corp's said its board of directors had appointed Paul Damp as its chairman and chief executive officer.</p>
+<p>The company, a supplier of network information software and services, said Damp will replace Hector Holguin, who was chairman since 1989.</p>
+<p>Damp, whose promotion comes into effect immediately, will also replace Dennis McGinn as president and chief executive officer, it said.</p>
+<p>Holguin will stay on the board but will not be involved in the company's daily operations, while McGinn will become a consultant for the company for six months, it added.</p>
+<p>Damp, an Accugraph board member since 1991, was chairman and chief execuive officer of Kestrel Capital Corp, a Toronto investment holding and management company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL PASO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

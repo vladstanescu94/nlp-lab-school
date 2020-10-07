@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51288" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Ziff-Davis launches PC Week China.</title>
+<headline>Ziff-Davis launches PC Week China.</headline>
+<dateline>NEW YORK 1996-09-13</dateline>
+<text>
+<p>Ziff-Davis International Media Group, a leading publisher of computer magazines, said Friday it has launched PC Week China, its third publication in China.</p>
+<p>The weekly trade publication will be sent free to volume buyers of computer products for organisations. It will be the first publication to use a controlled circulation strategy and the first to be published in full colour in China, Ziff-Davis said.</p>
+<p>Ziff-Davis is owned by Softbank Corp of Japan.</p>
+<p>PC Week China is the third Ziff-Davis title to be launched in the Chinese market after PC Magazine China and PC Computing China, the company said.</p>
+<p>PC Week China will be published under license from Ziff-Davis Richina Media LDC to the Chinese Institute of Electronics. The first issue will make its debut Sept. 23, with a circulation of 60,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

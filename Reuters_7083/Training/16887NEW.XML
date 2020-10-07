@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16887" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: J.D. Edwards Q3 July 31 revenues surge.</title>
+<headline>J.D. Edwards Q3 July 31 revenues surge.</headline>
+<dateline>DENVER 1996-08-27</dateline>
+<text>
+<p>Business software developer J.D. Edwards &amp; Co said on Tuesday its third quarter fiscal 1996 revenues totaled $115.6 million for the three months ended July 31, 1996, compared with $90.5 million in revenues for the year ago period.</p>
+<p>For the first nine months of fiscal 1996, J.D. Edwards posted record revenues of $323.8 million, up 38 percent from $233.8 million in 1995, the privately held firm said.</p>
+<p>The third quarter revenue breaks down into $38.2 million for license fees, $51.1 million in services and $26.3 million in maintenance fees, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

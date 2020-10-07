@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="449151" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Novell says fiscal Q2 on track.</title>
+<headline>Novell says fiscal Q2 on track.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-18</dateline>
+<text>
+<p>Novell Inc President and Chief Operating Officer Joe Marengi said the company's business so far in its second fiscal second quarter ending in April is on track.</p>
+<p>&quot;All I can say is we're on track at this point in our quarter,&quot; Marengi told Reuters in an interview in connection with the naming of Sun Microsystems Inc Chief Technology Officer Eric Schmidt to the position of chairman and CEO of Novell.</p>
+<p>Marengi did not elaborate.</p>
+<p>Wall Street analysts expect Novell to earn $0.17 a share in its second fiscal quarter, according to the mean estimate in a First Call survey of financial analysts.</p>
+<p>Earlier, shares of Novell rose by 1-1/16 to 9-5/8 by early afternoon in Nasdaq trade on optimism over the naming of Schmidt -- considered one of the prime architects of Sun's Internet strategy, including its Java programming language -- to head the Provo, Utah network software maker. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

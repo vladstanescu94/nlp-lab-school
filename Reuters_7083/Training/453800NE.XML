@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453800" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Microsoft, AMD set power-saving guidelines.</title>
+<headline>Microsoft, AMD set power-saving guidelines.</headline>
+<dateline>SUNNYVALE, Calif. 1997-03-19</dateline>
+<text>
+<p>Microsoft Corp and Advanced Micro Devices Inc on Wednesday unveiled guidelines governing power management that enables personal computers to stay connected to a network when not otherwise in use.</p>
+<p>The guidelines, part of an industry effort called the OnNow initiative, define how network-connected computing devices behave and enables &quot;sleeping&quot; PCs to respond to requests from other computers and printers, the companies said.  </p>
+<p>The electrical supply of an OnNow-enabled PC is always on, but appears off, allowing the PC to respond immediately to user or other requests while still saving power.</p>
+<p>The specification also allows PCs to be remotely managed by technicians during off-hours like evenings and weekends. This is accomplished by allowing PCs to enter low-power sleep modes without losing network connections and without changing the network infrastructure.</p>
+<p>Network devices based on this specification will have the ability to sort through network traffic and wake up the computer for defined network requests.</p>
+<p>Microsoft and AMD proposed the network class specification in August 1996.</p>
+<p>Since then, networking companies including 3Com Corp, Crystal Semiconductor, Digital Equipment Corp's Semiconductor unit, Intel Corp and Olicom A/S, and computer system makers Hewlett-Packard Co and International Business Machines Corp, have lent their support to the industry effort.</p>
+<p>Products incorporating the new specification are expected in the second half of 1997.</p>
+<p>((--E. Auchard, New York Newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48532" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Oracle Corp Q1 shr $0.17 vs $0.08.</title>
+<headline>Oracle Corp Q1 shr $0.17 vs $0.08.</headline>
+<text>
+<p>REDWOOD CITY, Calif., Sept 12 (Reuter)</p>
+<p>		    Aug 31  1996	     Aug 31  1995</p>
+<p> Shr		 $0.17		    $0.08</p>
+<p> Net		 112,771		  53,763</p>
+<p> Revs		1,052,320		771,803</p>
+<p> Avg shrs	  673,810		  669,776</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note - First Call consensus $0.17.</p>
+<p>Note - Net income for quarter ended Aug 31 1995 includes after-tax charge of $34 million for acquisition.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

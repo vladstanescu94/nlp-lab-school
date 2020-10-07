@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183364" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Microsoft's Gates sees tough challenge.</title>
+<headline>Microsoft's Gates sees tough challenge.</headline>
+<dateline>BELLEVUE, Wash. 1996-11-12</dateline>
+<text>
+<p>Microsoft Corp Chairman Bill Gates said Tuesday that an array of companies supporting the network computer movement posed the stiffest challenge the software giant has seen in years.</p>
+<p>&quot;We have a number of competitors that are working in concert together there that pose a major challenge to us -- perhaps the largest challenge that's faced us in a long, long time,&quot; Gates said at the company's annual meeting of shareholders.  </p>
+<p>Microsoft rivals led by Sun Microsystems Inc, International Business Machines Corp, Oracle Corp and Netscape Communications Corp all back a move to new network-based computers. The so-called NC would not need Microsoft's Windows operating system and would keep most software on a central server.</p>
+<p>Gates said Microsoft is fighting the trend by integrating Internet capabilities with all its products and working to simplify the operation and management of personal computers.  </p>
+<p>Microsoft and its ally Intel Corp last month announced thay plan a computer reference platform called the &quot;NetPC,&quot; a response to the network computer movement intended to cut the costs of business computing.</p>
+<p>Gates said a software component of the simplification effort called &quot;zero-administration Windows&quot; that would maintain user information on a server would be included in Windows NT version 5.0 due out by the end of 1997.</p>
+<p>Gates also said Microsoft's share of the Internet browser market had risen to 15 to 20 percent, with Netscape's Navigator product still dominant.</p>
+<p>&quot;We feel very very good about what we've done in the past year, but we still have quite a bit of work to do,&quot; Gates said.</p>
+<p>-- Martin Wolk, Reuters Seattle bureau,  206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELLEVUE, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

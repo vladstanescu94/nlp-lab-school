@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="470478" id="root" date="1997-03-26" xml:lang="en">
+<title>FRANCE: Microsoft names new president for Europe.</title>
+<headline>Microsoft names new president for Europe.</headline>
+<dateline>PARIS 1997-03-26</dateline>
+<text>
+<p>U.S. computer software giant Microsoft Corp on Wednesday named Michel Lacombe as president, Microsoft Europe, succeeding Bernard Vergnes, who will asume the newly created post of chairman, Microsoft Europe.</p>
+<p>As president, Lacombe &quot;will lead Microsoft's European operations which account for one third of the company's revenues worldwide,&quot; Microsoft said in a statement.</p>
+<p>Lacombe, a 14-year Microsoft veteran who previously was vice president for Europe, will assume the new job on July 1 and will also have the title of senior vice president of parent Microsoft.</p>
+<p>The firm said Vergnes, who joined Microsoft in 1983 as general manager and founder of the French subsidiary, would continue to play a key role representing Microsoft and providing &quot;counsel and direction to the European management team on day-to-day operations and strategic business issues&quot;.</p>
+<p>&quot;By expanding the breadth of our management in Europe, we'll be better able to meet the unique challenges of the European market,&quot; Microsoft chief executive officer and chairman Bill Gates said in the statement.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

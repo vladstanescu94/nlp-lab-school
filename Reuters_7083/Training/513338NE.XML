@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="513338" id="root" date="1997-04-16" xml:lang="en">
+<title>JAPAN: Oracle sees 100 mln network computer sales in 2000.</title>
+<headline>Oracle sees 100 mln network computer sales in 2000.</headline>
+<dateline>TOKYO 1997-04-16</dateline>
+<text>
+<p>Oracle Corp chief executive officer Larry Ellison said on Wednesday he expects sales of network computers in 2000 to reach 100 million units.</p>
+<p>This would represent 90 percent of the global market for computers for personal use, he told a news conference in Tokyo.  </p>
+<p>&quot;Network computers will greatly outsell personal computers (PCs),&quot; he said. &quot;Microsoft will have to deal with competition for the first time.&quot;</p>
+<p>He said Microsoft Corp's PC software was both complex and expensive in comparison with network computer technology.</p>
+<p>Ellison said Oracle and its partners plan to package five client appliances and one server, together with cables, keyboards and other equipment necessary for a complete network for $4,999.</p>
+<p>The product would be called &quot;Network in a Box&quot; and cost much less than Microsoft's &quot;Office&quot; brand software, he said.  </p>
+<p>Ellison said the cost of network computer terminal would range from $295 to $795. The cost of a server would range from $1,495 to $9,999.</p>
+<p>A network computer is a stripped-down, low-cost computer that can access the Internet.</p>
+<p>Oracle last year formed a new company to promote network computers to challenge PCs.</p>
+<p>International Business Machines Corp, Apple Computer Inc, Netscape Communications Corp and Sun Microsystems Inc have expressed support for idea of network computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

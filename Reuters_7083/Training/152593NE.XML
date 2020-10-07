@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152593" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Microsoft's Gates sees e-commerce boom.</title>
+<headline>Microsoft's Gates sees e-commerce boom.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-30</dateline>
+<text>
+<p>Microsoft Corp Chairman and Chief Executive Bill Gates said the company expects Internet electronic commerce to take off, with new developments flooding to the market in coming months.</p>
+<p>&quot;We believe there will be explosive growth,&quot; Gates told reporters at a news briefing here unveiling the company's new Microsoft Merchant Server.</p>
+<p>Gates cited Microsoft and industry estimates that the number of consumers on the World Wide Web would more than triple between now and the year 2000 to 48 million.  </p>
+<p>The number of businesses on the Web is projected to grow four-fold by the year 2000 to two million from 500,000 currently, Gates said.</p>
+<p>Gates, who demonstrated the Merchant Server with an array of merchant customers, also said he did not expect issues of commerce security would slow growth of Internet commerce.</p>
+<p>&quot;I don't think that security will be something that holds back electronic commerce,&quot; he said.  </p>
+<p>Gates also said in a keynote address to a Microsoft conference for builders of Internet Web sites that the company will focus over the next year on reducing the costs of running personal computers linked to networks, and on making them easier to administer, with similar zeal to that with which it has pursued the Internet opportunity.</p>
+<p>Contrasting the Microsoft NetPC effort, launched publicly on Monday, with that of rivals like Oracle Corp, International Business Machines Corp and Sun Microsystems Inc, Gates said network computers its partners will unveil in the first half of 1997 are PC-based.  </p>
+<p>&quot;We like PCs.  That's the big difference between us and them,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583230" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: ABC to unveil 24-hour online news service.</title>
+<headline>ABC to unveil 24-hour online news service.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>ABC News said it will unveil Thursday its foray into the Internet news arena with ABC.news.com, a 24-hour online news service squarely aimed at competing with MSNBC, the joint venture of NBC and Microsoft Corp..</p>
+<p>Last month, ABC, a unit of Walt Disney Co., formed a few formidable partnerships as part of this move, including a deal with America Online Inc., Netscape Communications Corp. and invested $100 million in Starwave Corp., acquiring a third of the firm which runs popular sites such as Mr. Showbiz and NBA.com.</p>
+<p>The service will be free and supported by advertising.</p>
+<p>Analysts said while ABC News is behind MSNBC, which was launched by Microsoft and NBC last July, ABC can learn from some of the trials of competing online news services.</p>
+<p>&quot;It's a bit late, but in the Internet business, there is no such thing as too late when you have a big brand,&quot; said Gary Arlen, president of Arlen Communications in Bethesda, Md. &quot;And to someone who just discovered cyberspace on Friday, they won't know ABC just started and MSNBC and CNN have been there,&quot; Arlen added. CNN also has a 24-hour online news site.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

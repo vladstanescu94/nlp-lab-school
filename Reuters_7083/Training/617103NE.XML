@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="617103" id="root" date="1997-05-27" xml:lang="en">
+<title>USA: Netscape, other firms propose Internet standard.</title>
+<headline>Netscape, other firms propose Internet standard.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-05-27</dateline>
+<text>
+<p>Netscape Communications Corp. and other high-technology firms Tuesday proposed a global standard aimed at protecting security of Internet users.</p>
+<p>In a statement, Netscape, Firefly Network Inc, Verisign Inc. and more than 60 leading companies and organisations announced support for the Open Profiling Standard, a proposed standard that would enable people to exchange personal profile information over the Internet while still making it possible to limit the use and distribution of their private information over the Web.</p>
+<p>The proposed Open Profiling Standard would give each individual control over their own personal profiles and the ability to manage which personal information gets disclosed or withheld from a particular Web site.</p>
+<p>Netscape, which makes the browser used by millions of Internet users, said the proposed standard is supported by advertising companies, auditing firms, high-traffic consumer Web sites, privacy groups, navigational guides and search engine companies, software and hardware companies and trade associations.</p>
+<p>&quot;Netscape is taking a leading consumer advocate role on this issue in order to protect the personal privacy of consumers while enhancing the Internet services available to them and accelerating the growth of electronic commerce worldwide,&quot; said Marc Andreessen, senior vice president of technology at Netscape.</p>
+<p>Many Internet sites ask visitors to register online and provide basic information about themselves before access is granted to their site, requiring individuals to repeatedly provide the same personal information to hundreds of websites as they traverse the Internet. With OPS and Personal Profiles, users can enter personal information into a file that resides on their hard drives. Users decide which Internet sites should have access to the information.</p>
+<p>Personal Profiles contain a wide range of descriptive information about an individual such as name, address, zip code, phone number and email address. They can also contain information on an individual's age, marital status, interests, hobbies and user identification/password.</p>
+<p>Individuals could also allow certain sites to exchange the data with other Internet parties, giving rise to the possibility of a whole market for electronic profiles similar to existing demographic data businesses.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

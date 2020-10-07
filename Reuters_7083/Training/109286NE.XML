@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109286" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Computer Assocs buys Digital's AssetWORKS.</title>
+<headline>Computer Assocs buys Digital's AssetWORKS.</headline>
+<dateline>NEW YORK 1996-10-10</dateline>
+<text>
+<p>Computer Associations International Inc said Thursday it had acquired Digital Equipment Corp's AssetWORKS asset and desktop management solution.  </p>
+<p>The company, which did not disclose the terms of the deal, said it would integrate AssetWORKS with its CA-Unicenter, a system that gives users more control over costs associated with the use and administration of desktop computers.</p>
+<p>&quot;It (AssetWORKS) is a valuable enhancement to CA-Unicenter because it addresses both the technological and business aspects of managing assets,&quot; it said.</p>
+<p>The company said Digital personnel would join it to continue to help customers use AssetWORKS.</p>
+<p>Digital will later resell AssetWORKS as a fully-integrated CA-Unicenter option, or as a stand-alone product, it added.</p>
+<p>The company said the acquisition was part of an alliance it formed with Digital earlier this year, which calls for Digital's standardization to be based on CA-Unicenter.</p>
+<p>Based in Islandia, N.Y., Computer Associates specializes in business software, while Digital develops open client/server solutions from personal computing to integrated information systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64919" id="root" date="1996-09-19" xml:lang="en">
+<title>CANADA: ISG knows no reason for stock drop.</title>
+<headline>ISG knows no reason for stock drop.</headline>
+<dateline>MISSISSAUGA, Ontario 1996-09-19</dateline>
+<text>
+<p>ISG Technologies Inc said on Thursday it cannot identify a specific reason for the abrupt decline this week of its stock price.</p>
+<p>ISG said it is in the process of finalizing results for the fiscal year ending June 30, 1996 and evaluating issues which arose subsequent to year-end, such as recent changes in personnel.</p>
+<p>It said a customer, which it did not specify, wished to come to terms on ending one of its four development agreements with ISG, and that this might have an adverse impact on earnings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MISSISSAUGA, Ontario"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72061" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Cirrus unveils 3D chip, may see Q2 growth.</title>
+<headline>Cirrus unveils 3D chip, may see Q2 growth.</headline>
+<dateline>SOUTH SAN FRANCISCO 1996-09-24</dateline>
+<text>
+<p>Cirrus Logic Inc unveiled a chipset for 3-D graphics applications and said its series of new multimedia products is likely to produce some payback in revenue growth this quarter and next.</p>
+<p>Cirrus Logic said its Laguna 3D graphics accelerator chip breaks new ground in the market for speed and texture-rich rendering of 3D graphics on mainstream personal computers. The chipset can process 50 million texels per second, which it said far exceeds what competing 3D chipsets for PCs can do.  </p>
+<p>George Alexy, Cirrus senior vice president, said the 3D chipset is the third in a series of multimedia products introduced since June which constitute Cirrus's strategy for returning to growth after three quarters of losses and lower year-to-year revenues.</p>
+<p>&quot;We are pleased to report we have made significant progress in this area,&quot; Alexy told a news conference here.</p>
+<p>He said customer orders of the first product, a fax-data modem, number in the hundreds of thousands while about 20 companies have chosen the second product, an audio chipset, for inclusion in their systems.  </p>
+<p>Alexy later told Reuters that Cirrus Logic should start to see some financial payback from these two products in the current quarter, its fiscal second quarter which ends September 30. In the third or December quarter, Cirrus quite definitely sees opportunity for financial payback, he said.</p>
+<p>&quot;Indications are for the December quarter, based on the number of design wins we have, we certinly see opportunity for improvement in our financial performance,&quot; Alexy said in an interview. Design wins are deals in which a manufacturer choses to include the chipset in their systems.</p>
+<p>Alexy would not specify projected financial gains.  </p>
+<p>Cirrus Logic reported losses in each of the three previous quarters on revenues that were lower than comparative year ago quarterly revenues.  After its December 1995 quarterly loss, Cirrus Logic said its strategy for resuming growth would be to introduce new products, focusing on multimedia.</p>
+<p>In its first quarter ended in June, Cirrus reported a loss of $17.6 million or $0.12 a share on revenues of $215 million. That compared with a year-ago quarterly profit of $22.7 million or $0.34 a share on $300 million in revenues.</p>
+<p>But Alexy said the June quarter was too soon to show any revenue gains from the new multimedia products.  </p>
+<p>The first one, a &quot;fastpath&quot; chipset for modems, was introduced in June.</p>
+<p>The 3D chipset may be the crown jewel of the three, officials said. Three-dimensional grahics capability is hotly sought in the PC market. A key competitor, S3 Inc, has done very well because of the PC market demand for 3D graphics.</p>
+<p>Tom Dye, the director of the engineering team that developed Laguna 3D, said it can process 50 million texels while competing 3D chips can do 24 million texels, and some recently launched versions up to 40 million.  </p>
+<p>The Laguna 3D has been endorsed by Intel Corp, which developed an acclerated graphics port standard that Cirrus's product works with, and by Microsoft Corp, whose Direct3D set of APIs, or application programmers interface codes, has become a standard and works with Laguna 3D. The Laguna 3D also is made to work with Rambus Inc's RDRAM memory technology for 3D grahics.</p>
+<p>&quot;We'd like to put an architecture in place with others in the industry to make arcade-quality 3D a mainstream PC (feature) by the second half of 1997,&quot; Davies said. He said the Laguna 3D will help the industry reach that goal.</p>
+<p>--  barbara grady, barb.grady@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTH SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

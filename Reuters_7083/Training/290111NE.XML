@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="290111" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: System Software changes accounting method.</title>
+<headline>System Software changes accounting method.</headline>
+<dateline>CHICAGO 1997-01-07</dateline>
+<text>
+<p>System Software Associates Inc, acting on the advice of its new independent auditors, KPMG Peat Marwick LLP, said it changed its accounting method for reseller agreements so that revenue is recorded at the time of sale to the end user.</p>
+<p>&quot;The net effect of this change in accounting method was to take approximately $46 million of revenue and associated income out of 1996 and push it into later accounting periods,&quot; chairman Roger Covey said in a statement.</p>
+<p>This included a reduction in revenue for fourth quarter 1996, which ended October 31, of about $12 million, Covey said.</p>
+<p>System Software reported a fourth-quarter loss of $5.7 million or $0.13 a share on revenues of $109.4 million. This compares with year-earlier restated earnings of $15.3 million or $0.35 a share on revenues of $122.7 million.</p>
+<p>The company said fourth-quarter expenses were affected by a substantial increase in reserves for warranty and doubtful accounts as well as accounts receivable write-offs, which altogether totaled $10.5 million.</p>
+<p>System Software said software license fee revenue rose to $81.6 million, up 81 percent from the third quarter, reflecting early success from the rollout of its BPCS client/server Version 6.0 product.</p>
+<p>	     ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

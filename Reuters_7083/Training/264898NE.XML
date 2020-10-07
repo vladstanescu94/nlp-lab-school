@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264898" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Action Tech wins patent judgment vs Novell.</title>
+<headline>Action Tech wins patent judgment vs Novell.</headline>
+<dateline>ALAMEDA, Calif. 1996-12-18</dateline>
+<text>
+<p>Action Technologies Inc, a developer of work-flow software, said a U.S. federal court had granted its motion for summary judgment against Novell Inc in a case involving Novell's GroupWise product.</p>
+<p>Action said the U.S. District Court for the Northern District of California had ruled that certain technologies used in Novell's GroupWise are covered by the claims of one of Action's patents.</p>
+<p>The motion arises out of a suit brought by Action against Novell on November 16, 1995, the company said.  </p>
+<p>However, Action said further proceedings are pending and it will withhold further discussions involving the case until a final resolution has been made by the court.</p>
+<p>Action said the patent in question was issued on June 1, 1993 and concerns a &quot;method and apparatus for structuring and managing human communications by explicitly defining the types of communications permitted between participants.&quot;</p>
+<p>The technology in effect allows companies to automate certain office work tasks.  </p>
+<p>GroupWise is one of the leading products in a software category known as groupware, which allows computer users to send electronic mail and collaborate on shared documents over far-flung networks.</p>
+<p>Other groupware includes International Business Machines Corp's Lotus Notes, Microsoft Corp's Exchange and Netscape Communications Corp's Communicator.</p>
+<p>Novell claims to have sold over six million copies of GroupWise, Action said.  It said Novell had created a task tracking feature in GroupWise using its technology.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="414923" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: Microsoft buys developer of Web site analysis tool.</title>
+<headline>Microsoft buys developer of Web site analysis tool.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-03-03</dateline>
+<text>
+<p>Continuing its sweeping effort to acquire key Internet technology, Microsoft Corp. said Monday it had purchased Interse Corp., a privately held developer of Web site analysis software.</p>
+<p>Terms of the deal for the 30-person Sunnvale, Calif.-based company were not disclosed.</p>
+<p>A Microsoft executive said Interse's market focus tool would be added quickly to the software giant's BackOffice line of server products, but details of how the software will be repackaged had not been worked out.</p>
+<p>Interse market focus, which ranges in price from $695 to $6,995 depending on features, allows Web site operators to track visitor behaviour.</p>
+<p>&quot;Understanding usage patterns on your Web site is the best way to see what your customers are interested in so you can deliver the most targeted content,&quot; Microsoft Chairman and Chief Executive Officer Bill Gates said in a statement. &quot;Interse is the team that had this vision and is delivering on it.&quot;</p>
+<p>&quot;It's really a comprehensive usage analysis and reporting solution,&quot; said Terry Myerson, president and chief executive officer of Interse, who along with some other of the company's employees will be joining Redmond, Wash.-based Microsoft.</p>
+<p>He said in an interview that he would continue to work on the technology with the aim of being able to dynamically create customised Web pages based on a user's known preferences.</p>
+<p>&quot;That is the holy grail of what this medium wants to be,&quot; said Steve Harmon, senior investment analyst with MecklerMedia Corp. &quot;What it's all about really is what I call the 'me-net.'&quot;</p>
+<p>While Microsoft probably could have developed its own solution, the compressed product cycles of &quot;Internet time&quot; have spurred the company to buy dozens of small startups over the past year to ensure it does not fall behind competitors.</p>
+<p>&quot;Every day that goes by when you don't have a solution, you're that much more open to a competitor gaining a strong market hold,&quot; Harmon said.</p>
+<p>With its buoyant stock and $9 billion in cash, Microsoft can afford to be generous.</p>
+<p>&quot;All of our employees were taken care of terrifically,&quot; Interse's Myerson said. &quot;It was a very positive experience.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

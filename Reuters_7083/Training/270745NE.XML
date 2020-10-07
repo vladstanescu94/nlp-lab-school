@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270745" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: ZDNet to offer free utility to manage Web cookies.</title>
+<headline>ZDNet to offer free utility to manage Web cookies.</headline>
+<dateline>PALO ALTO, Calif. 1996-12-20</dateline>
+<text>
+<p>Ziff-Davis Publishing's ZD-Net will on Friday unveil a free software utility to enable Web surfers to control which Internet sites can monitor a user's Web browsing activities.</p>
+<p>The software, known as Cookie Master, is designed to enable individuals to discover which of these monitoring programs, called cookies, have been downloaded onto their computer's hard drive and selectively delete unwanted ones.</p>
+<p>Cookies are often automatically installed on hard disks when a person registers for a Web site, and in many cases they can be used to save time and help individuals gain access swiftly to relevant information.</p>
+<p>But the use of cookies has also been a hot issue this year as privacy advocates have argued they can be intrusive, and are often downloaded without a user's knowledge or approval.</p>
+<p>&quot;Cookie Master effectively takes the mystery out of Web cookies, and puts privacy control back into the hands of Web users,&quot; said Preston Gralla, executive editor of ZD-Net.</p>
+<p>Lori Fina, executive director of free speech and privacy advocates Electronic Frontier Foundation and a founding member of the E-Trust coalition of Internet companies, said programs such as Cookie Master can help put power back in users' hands and reduce fears about communicating and transacting on-line.</p>
+<p>Cookie Master will be available for free at the ZDNet Software Library (http://www.hotfiles.com). The program provides users with a list of the cookies that reside on their hard drives and lets them see which Web sites installed them.</p>
+<p>Individuals can also see what data has been stored in the cookies and delete any cookies they don't want.</p>
+<p>Cambridge, Mass.-based ZD-Net is owned by Ziff-Davis Publishing, a unit of Softbank Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I4752105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244947" id="root" date="1996-12-09" xml:lang="en">
+<title>SINGAPORE: Singapore body offers Internet search engine.</title>
+<headline>Singapore body offers Internet search engine.</headline>
+<dateline>SINGAPORE 1996-12-09</dateline>
+<text>
+<p>Singapore's Information Technology Institute (ITI) said on Monday it had launched three versions of its multilingual Internet search engine, iAgent.</p>
+<p>ITI, the applied research and development arm of the National Computer Board, said iAgent Junior allows limited numbers of documents on a local host server to be indexed and searched.</p>
+<p>It is able to index, retrieve and summarise documents in English, Chinese and Malay and create a profile of users' reading preferences.</p>
+<p>Another version, iAgent Lite, lets users retrieve documents from selected remote hosts. It incorporates the SmartSpider technology which can target subsets of websites and newsgroups.</p>
+<p>The third version, iAgent Pro, extends iAgent Lite to unlimited documents, database and users per site.</p>
+<p>The three versions can be installed alongside web servers on Sun and AIX platforms and accessed by Internet browsers from all makes of computers, ITI said.</p>
+<p>-- Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

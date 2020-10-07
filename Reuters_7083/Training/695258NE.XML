@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695258" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: IBM unveils new Digital Library projects.</title>
+<headline>IBM unveils new Digital Library projects.</headline>
+<dateline>NEW YORK 1997-06-30</dateline>
+<text>
+<p>International Business Machines Corp said its signed up two new projects for its Digital Library software, the Library of Congress and Yale University's Beinecke Rare Book and Manuscript Library.</p>
+<p>IBM's Digital Library digitizes, stores, preserves and archives valuable works of art and manuscripts into digital form, which can be distributed over public and private networks. The software also protects content ownership rights.</p>
+<p>The Digital Library has been in use to digitize and manage the content of the FDR Presidential Library, the Vatican Library, the State Hermitage Museum in Russia, and others.  </p>
+<p>Terms were not disclosed on but IBM's Digital Library base product is about $30,000.</p>
+<p>IBM also said it introduced digital &quot;watermarking&quot; technology for use with Adobe Systems Inc's PhotoShop to identify and preserve the rights of content owners. PhotoShop is a widely used software tool for image creation and publishing on the Internet.</p>
+<p>Watermarking is a technology designed to securely distribute images of valuable documents and works of art, especially via the Internet's World Wide web of computer networks. Watermarking encodes information about the owner of an image within the pixels of the photograph, but it is invisible to the naked eye.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

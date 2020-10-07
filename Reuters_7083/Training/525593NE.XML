@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="525593" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: Sterling Software to buy TI unit.</title>
+<headline>Sterling Software to buy TI unit.</headline>
+<dateline>DALLAS 1997-04-21</dateline>
+<text>
+<p>Sterling Software Inc and Texas Instruments Inc said Monday they had signed a definitive agreement for Sterling to buy the Texas Instruments Software division for $165 million cash.</p>
+<p>The deal includes the purchase of all Texas Instruments Software assets, including the stock of certain European subsidiaries, and various liabilities related to the business.</p>
+<p>Texas Instruments Software's products are in involved in enterprise applications development.  </p>
+<p>For its fiscal year ended September 30, 1996, Sterling Software reported revenue of $439.2 million, including revenue of $109.8 million from its applications management business.</p>
+<p>For the calendar year 1996, Texas Instruments Software had revenues of about $250 million, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

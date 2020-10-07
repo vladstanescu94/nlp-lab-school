@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119233" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Computer Associates refocuses on midrange.</title>
+<headline>Computer Associates refocuses on midrange.</headline>
+<byline>Eric Auchard</byline>
+<dateline>ISLANDIA, N.Y. 1996-10-16</dateline>
+<text>
+<p>Computer Associates International Inc said Wednesday it would focus an increasing share of its resources on its midrange software business and reduce its reliance on mainframe software sales.</p>
+<p>In addition, CA President Sanjay Kurmar said in a phone interview he expected a charge &quot;in the $500 million range&quot; related to the planned acquisition of Cheyenne Software Inc. It would be taken its quarter ending in December.</p>
+<p>Kumar also said the company's international sales growth had &quot;slowed some&quot; in the quarter ended in September.  </p>
+<p>He said the acquisition was likely to be accounted for as an asset purchase with a one-time writedown for research and development costs instead of a &quot;pooling of interests.&quot;</p>
+<p>Kumar was confirming comments he and other Computer Associates executives had made in a meeting with Wall Street analysts Wednesday morning.</p>
+<p>Analysts who attended the meeting said news of the planned revenue transition and slowing in international sales led to a sharp drop in the company's stock. The decline came in spite of the announcement of fiscal second-quarter results that beat Wall Street expectations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

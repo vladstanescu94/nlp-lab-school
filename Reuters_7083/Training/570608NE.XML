@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570608" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Cisco says to license Microsoft Active Directory.</title>
+<headline>Cisco says to license Microsoft Active Directory.</headline>
+<dateline>LAS VEGAS 1997-05-07</dateline>
+<text>
+<p>Microsoft Corp and Cisco Systems Inc said they have agreed for Cisco to license Active Directory from Microsoft for use in managing network infrastructure and providing network services.</p>
+<p>The companies said the agreement, in the form of a letter of intent, enables Cisco and Microsoft to jointly develop extensions to Active Directory to integrate advanced management of network elements and services.  </p>
+<p>The agreement is a major coup for Microsoft, whose Active Directory is not expected to be on the market until next year although the Windows NT Server 5.0 product with which it is due to be shipped is scheduled to enter beta testing in 1997.</p>
+<p>Rival directory products are available earlier from Novell Inc., whose Novell Directory Server (NDS) is already being shipped, and from Netscape Communications Corp., which last week said its latest directory server upgrade will be available for testing this week.  </p>
+<p>By striking a deal with Cisco, the world's leading provider of the gear used to connect networks of computers, Redmond, Wash.-based Microsoft has extended its relationship with a critical marketing and technical ally.</p>
+<p>Cisco will enhance the Active Directory and the companies said products made available as a result of the agreement will help network managers accelerate the development of services using Cisco's IOS networking software.</p>
+<p>Cisco will also implement Active Directory on several Unix-based platforms, the two companies said.  </p>
+<p>This will help ensure that in addition Microsoft's commitment to driving acceptance of Windows NT, its directory services product, which enables data and applications to be managed across a network, will be more broadly available.</p>
+<p>Ed Kozel, senior vice president of Cisco Systems, said &quot;We chose Active Directory because it is the only directory service that is flexible and scalable enough to address the demanding needs of the Internet and of the Enterprise.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

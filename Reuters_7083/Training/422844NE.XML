@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="422844" id="root" date="1997-03-06" xml:lang="en">
+<title>USA: Intel modifies software for Internet voice, video.</title>
+<headline>Intel modifies software for Internet voice, video.</headline>
+<dateline>SANTA CLARA, Calif. 1997-03-06</dateline>
+<text>
+<p>Intel Corp on Thursday said it has modified the software of three Firewall firms so as to allow the safe transmission of Interent phone calls and video without risking internal security.</p>
+<p>Firewalls are the software programs that restrict the flow of information between a company's network and the Internet in order to keep sensitive information private.</p>
+<p>Firewall products made by Cisco Systems Inc, Check Point Software Technologies Ltd, and Trusted Information Systems Inc, were modified by Intel to enable the transfer of voice and video in compliance with H.323, an Internet communications standard.</p>
+<p>Intel said all three software firms will introduce the enhanced, standards-compliant versions of their Firewall products this year.</p>
+<p>Intel's Internet Phone software is also based on the technology behind the standard.</p>
+<p>Various improvements in Internet telephony, which make it easier to use with the conventional phone system, are expected to help propel the technology into the mainstream in coming years, experts say.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139460" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Harbinger Corp Q3 loss vs profit.</title>
+<headline>Harbinger Corp Q3 loss vs profit.</headline>
+<dateline>ATLANTA 1996-10-24</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		 $  0.02   profit	$ 0.02</p>
+<p> Net loss		     246   profit	   146</p>
+<p> Revs			11,154		    6,102</p>
+<p> Avg shrs		  10,798		    9,425</p>
+<p>	   9 MONTHS</p>
+<p> Shr loss		  $ 0.81   profit	$ 0.06</p>
+<p> Net loss		   8,654   profit	   522</p>
+<p> Revs			28,397		   15,932</p>
+<p> Avg shrs primary	10,664		    8,533</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The company said that 1996 Q3 net income excluding equity in loss of Harbinger NET Services, LLC, was $1.1 million, or $0.10 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

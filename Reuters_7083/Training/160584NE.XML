@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160584" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Tenera Inc Q3 net, share loss vs profit.</title>
+<headline>Tenera Inc Q3 net, share loss vs profit.</headline>
+<dateline>SAN FRANCISCO 1996-10-31</dateline>
+<text>
+<p>(UNAUDITED)</p>
+<p>			(In thousands, except per share amounts)</p>
+<p>				Qtr Ended	     Nine Months Ended</p>
+<p>			 9/30/96    9/30/95	9/30/96    9/30/95</p>
+<p> Revenue		 $5,586    $7,249	$18,878    $18,257</p>
+<p>  Expenses		2,734     1,866	  7,602	5,976</p>
+<p> Special Item		--	  --	    250	   --</p>
+<p>Operating</p>
+<p>  (Loss) Income	 (799)	 351	  (683)	  794</p>
+<p>Interest Income</p>
+<p>  (Expense), Net	   43	   1	    118	  (5)</p>
+<p>Net (Loss) Earnings</p>
+<p>Before Income Taxes</p>
+<p>			    (756)	 352	  (565)	  789</p>
+<p>Income Tax (Benefit)</p>
+<p>  Expense		  (76)	 141	     --</p>
+<p> Net (Loss) Earnings  (680)	 211	  (565)</p>
+<p>Net (Loss) Earnings</p>
+<p>  per Share	    (0.07)	0.02	 (0.05)</p>
+<p>Wtd. Average</p>
+<p>  Shares O/S	   10,192    10,588	 10,267	9,861</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

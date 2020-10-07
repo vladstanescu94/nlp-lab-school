@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151082" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Microsoft realigns into two product areas.</title>
+<headline>Microsoft realigns into two product areas.</headline>
+<dateline>REDMOND, Wash. 1996-10-29</dateline>
+<text>
+<p>Microsoft Corp said on Tuesday it had reorganized the company into two product groups -- one for interactive media and one for platforms and applications.</p>
+<p>Group vice president Pete Higgins will head the interactive media area while group vice president Paul Maritz will be in charge of platforms and applications.</p>
+<p>The company also said Patty Stonesifer, senior vice president of the interactive media division, had resigned to pursue &quot;personal interests&quot; and a new career as a management consultant.  </p>
+<p>Microsoft also said group vice president Nathan Myhrvold would assume the new position of chief technology officer in charge of the company's advanced technology and research group.</p>
+<p>In announcing the company's fourth reorganization in less than three years, Microsoft Chairman Bill Gates said the software giant was aiming to intensify its focus on the Internet and related technology.</p>
+<p>&quot;Today's realignment optimizes Microsoft's ability to take advantage of the business and technical opportunities we see as customers rapidly adopt the Internet and intranets into their daily lives,&quot; Gates said in a statement.</p>
+<p>Stonesifer, credited with building Microsoft's consumer software business, will stay with the company through the end of the year.</p>
+<p>As a consultant, her first client will be Hollywood studio DreamWorks SKG.</p>
+<p>-- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

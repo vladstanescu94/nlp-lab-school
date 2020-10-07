@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="797421" id="root" date="1997-08-13" xml:lang="en">
+<title>USA: RESEARCH ALERT - USCS CUT BY MERRILL.</title>
+<headline>RESEARCH ALERT - USCS CUT BY MERRILL.</headline>
+<dateline>NEW YORK 1997-08-13</dateline>
+<text>
+<p>Merrill Lynch said it downgraded USCS International Inc to intermediate-term accumulate from buy.</p>
+<p>-- Said kept USCS as long-term buy.</p>
+<p>-- Monday, USCS lost a contract with Tele-Communications Inc to rival CSG Systems Internatioanl Inc.</p>
+<p>-- USCS slipped 3/8 to 18-5/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

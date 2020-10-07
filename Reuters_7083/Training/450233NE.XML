@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450233" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: New Novell CEO seen boosting Internet focus.</title>
+<headline>New Novell CEO seen boosting Internet focus.</headline>
+<dateline>DENVER 1996-11-18</dateline>
+<text>
+<p>Novell Inc's appointment of Eric Schmidt as chairman and chief executive officer should help the software company formulate a new vision to capitalize on the growing Internet market, analysts said on Tuesday.</p>
+<p>&quot;He will bring them vision,&quot; said Chris Le Tocq of Dataquest. &quot;The Novell board has clearly identified what the company needs,&quot; he said.</p>
+<p>Eric Schmidt was chief technology officer at Sun Microsystems Inc and a prime architect of its Internet and Java language strategy.  </p>
+<p>&quot;Novell is lucky to get someone of such high quality,&quot; said John McCarthy of Forrester Research.</p>
+<p>Novell had been searching six months for a chief executive officer since Bob Frankenberg resigned.</p>
+<p>Once the darling of Wall Street, Novell shares declined after the much criticized acquisition of WordPerfect Corp in 1994.</p>
+<p>The software acquistion was negotiated by Novell founder and former chief executive Ray Noorda and turned out to be a drag on earnings. Frankenberg had little choice but to jettison it.</p>
+<p>Novell seemed to be losing its footing and was criticized for not moving faster into the growing Internet market.  </p>
+<p>Rumors abounded Novell was up for sale until executives said the company's future was as an independent.</p>
+<p>But Novell has not been as quick as it should have been in taking advantage of the Internet market, analysts said.</p>
+<p>Le Tocq said that while Novell has the best tools to serve customers on the Internet it has not gone after this market aggressively enough.</p>
+<p>&quot;They have totally failed to position themselves&quot; in this area, even though Novell has the best Web servers, Le Tocq said.</p>
+<p>Novell has been focusing on serving customers' current needs, rather than helping them with new challenges, Le Tocq said. But Schmidt with his strong technology background should be expected to get Novell to focus on this area.</p>
+<p>While Novell under Frankenberg talked about marketing it failed to get across its message, analysts said. McCarthy said it is not known if Schmidt will do better, although he noted Sun's corporate culture emphasized marketing.</p>
+<p>((--Judith Crosson, Denver bureau 303-820-3900 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

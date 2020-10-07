@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197303" id="root" date="1996-11-18" xml:lang="en">
+<title>INDIA: India HCL, Deluxe sign joint venture pact.</title>
+<headline>India HCL, Deluxe sign joint venture pact.</headline>
+<dateline>NEW DELHI 1996-11-18</dateline>
+<text>
+<p>India's HCL Corp on Monday signed a joint venture agreement with Deluxe Corp of the United States to provide electronic banking services in India, South East Asia and the United States.</p>
+<p>The decision to form the joint venture, called HCL Deluxe Ltd, was first announced in August by Deluxe in New York.</p>
+<p>&quot;Targeting the rapidly growing sectors of banking, insurance, capital markets and non-banking finance companies, HCL Deluxe will provide a broad range of electronic banking capabilities,&quot; HCL Corp said in a statement released in the Indian capital</p>
+<p>HCL Corp chairman Shiv Nadar said the new venture will have initial equity capital of $30 million. Each partner will have a 50 percent stake.</p>
+<p>The joint venture will provide state-of-the-art payment system products and services to upgrade and automate India's banking and financial services industry, it said.</p>
+<p>Deluxe is one of the leaders in the integrated payment systems in the United States, the statement said.</p>
+<p>-- New Delhi newsroom +91-11 301 2024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

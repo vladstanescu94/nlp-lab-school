@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90214" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Cotelligent acquires consulting firm.</title>
+<headline>Cotelligent acquires consulting firm.</headline>
+<dateline>SAN FRANCISCO 1996-10-02</dateline>
+<text>
+<p>Cotelligent Group Inc said on Wednesday it completed the acquisition of an informational technology consulting firm with offices in two cities for $8.7 million.</p>
+<p>The acquired company, with operations in Cleveland and Ft. Lauderdale, had unaudited revenues of $8.7 million and unaudited income before taxes of approximately $350,000 for their most recent fiscal year, Cotelligent said. The name of the acquired company was not disclosed.</p>
+<p>This acquisition will be accounted for as a pooling-of-interests, the company said.</p>
+<p>Cotelligent's restated combined pro forma revenue, resulting from the acquisition for the year ended March 31, 1996 is $88.9 million, restated combined pro forma net income for the year is $3.1 million and restated pro forma earnings per share is $.50.</p>
+<p>Cotelligent Group also said it increased its credit line to $20 million from $10 million. The credit line will support expanded operations and acquisitions, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

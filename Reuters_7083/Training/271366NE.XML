@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271366" id="root" date="1996-12-20" xml:lang="en">
+<title>MALAYSIA: Bill Gates is adviser of Malaysia high-tech plan.</title>
+<headline>Bill Gates is adviser of Malaysia high-tech plan.</headline>
+<dateline>KUALA LUMPUR 1996-12-20</dateline>
+<text>
+<p>Microsoft Corp chairman Bill Gates has agreed to be a member of an advisory board which is developing Malaysia's high-technology corridor, Prime Minister Mahathir Mohamad said.</p>
+<p>Mahathir was quoted as saying by local newspapers on Friday that Gates had confirmed his willingness to be on the board of Multimedia Development Corp in a letter the premier received on Wednesday.</p>
+<p>Multimedia Development is developing the Multimedia Super Corridor, which Malaysia hopes will attract a variety of high-technology companies.</p>
+<p>The corridor is to extend from Kuala Lumpur to a planned new federal capital, Putrajaya.</p>
+<p>Mahathir did not say whether other foreign advisers would be appointed.</p>
+<p>Mahathir was quoted by the New Straits Times as saying that Gates also expressed his concern over piracy of Microsoft's software programs and about plagiarism. But Mahathir said Malaysia has laws to protect intellectual property.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

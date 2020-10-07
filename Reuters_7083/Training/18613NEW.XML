@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="18613" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Netscape, IBM plan browser for OS/2.</title>
+<headline>Netscape, IBM plan browser for OS/2.</headline>
+<dateline>MOUNTAIN VIEW 1996-08-28</dateline>
+<text>
+<p>Netscape Communications Corp and International Business Machines Corp said Wednesday they will develop a version of Netscape's popular Navigator Web browser for IBM's new OS/2 Warp 4 operating system software.</p>
+<p>The version of Navigator, which will recognize speech, should be available for testing in September and for end users in 1996's fourth quarter, Netscape said.</p>
+<p>IBM plans to launch OS/2 Warp 4, the latest version of its personal computer operating system, in September.  </p>
+<p>The version of Netscape Navigator that will be the browser for OS/2 is Navigator 2.02. IBM and Netscape also said that Netscape's next version of Navigator, code-named Galileo.</p>
+<p>&quot;IBM and Netscape are natural partners, given both of our commitments to open standards like Java and HTML,&quot; Bob Lisbonne, vice president of client product marketing at Netscape, said on a conference call. He was referring to two widely used languages for Internet application development.</p>
+<p>IBM said the deal confirms its commitment to OS/2, which has long been an underdog of operating systems with a small share of the PC market, versus Microsoft's.  </p>
+<p>&quot;It is our sincere hope that this announcement today will go a long way to doing that (demonstrating OS/2 commitment),&quot; said Walley Casey, vice president of client product management at IBM, in response to a question on the conference call.</p>
+<p>&quot;This company remains firmly behind OS/2,&quot; Casey said.</p>
+<p>OS/2 Warp currently has over 14 million users. Analysts said that while the move to make Netscape the primary Web browser on OS/2 Warp is a positive one, it will not likely lead to a huge surge of new users of OS/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

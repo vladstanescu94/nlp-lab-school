@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32215" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Intuit launches banking system online.</title>
+<headline>Intuit launches banking system online.</headline>
+<byline>Brad Dorfman</byline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>Intuit Inc Wednesday launched its new, streamlined banking system on America Online Inc's online computer system, with some of the largest banks in the United States agreeing to use the product.</p>
+<p>Intuit's BankNOW will be offered as part of America Online's Banking Center, along with products by CheckFree Corp, Online Resources and  Visa Interactive.  </p>
+<p>BankNOW is geared to customers who wish to conduct banking transactions such as bill paying and fund transfers online, but do not use the personal finance software that is part of Intuit's Quicken banking package, Mountain View, California-based Intuit said in a news release.</p>
+<p>So far, 14 U.S. financial institutions, including First Chicago NBD Corp and CoreStates Financial Corp are using BankNOW, with an additional eight committed to use the product, Intuit said.  </p>
+<p>Dulles, Virginia-based America Online, said 19 financial institutions provide banking services on the system.</p>
+<p>The BankNOW software can be downloaded for free from America Online. Financial institutions charge their customers for using the product.</p>
+<p>For example, First Chicago said it will charge $3.95 a month for customers using online-banking and $9.95 a month for online banking and bill paying, though some premium checking account users will be able to do online banking for free.</p>
+<p>First Chicago looks at BankNOW as a premium service it can offer customers.</p>
+<p>&quot;We think there is a large market for this,&quot; First Chicago spokesman Thomas Kelly said. &quot;We also think this is a point of differention in our markets.&quot;</p>
+<p>But to some, the scope of online banking still remains in doubt.</p>
+<p>&quot;I don't know whether its the wave of the future,&quot; said James Schutz, banking analyst at Chicago Corp. &quot;I don't think they (the banks) know either. I just think they're keeping their options open.&quot;</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="397070" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: Lycos Inc Q2 Jan 31 loss widens.</title>
+<headline>Lycos Inc Q2 Jan 31 loss widens.</headline>
+<dateline>NEW YORK 1997-02-24</dateline>
+<text>
+<p>CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>				   Unaudited</p>
+<p>				    Three Months Ended    Three Months Ended</p>
+<p>				     January 31, 1997	January 31, 1996</p>
+<p>Revenues:</p>
+<p> Advertising			   $4,010,467		  $759,005</p>
+<p> License and product		    993,741		    67,417</p>
+<p>  Total revenues			5,004,208		   826,422</p>
+<p>Cost of revenues			2,339,681		   483,136</p>
+<p> Gross profit			   2,664,527		   343,286</p>
+<p>Operating expenses:</p>
+<p> Research and development	     976,353		   709,573</p>
+<p> Sales and marketing		  3,504,290		   308,425</p>
+<p> General and administrative	   736,556		   344,806</p>
+<p>  Total operating expenses	  5,217,199		 1,362,804</p>
+<p>Operating loss			 (2,552,672)	     (1,019,518)</p>
+<p>Other income				540,608		     5,565</p>
+<p>Net loss				$(2,012,064)	    $(1,013,953)</p>
+<p>Net loss per share:			$(0.15)		   $(0.09)</p>
+<p>Shares used in computing</p>
+<p> net loss per share:		 13,792,896		11,012,764</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

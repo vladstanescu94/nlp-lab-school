@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56438" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Wind River to work with Oracle unit.</title>
+<headline>Wind River to work with Oracle unit.</headline>
+<dateline>ALAMEDA, Calif. 1996-09-16</dateline>
+<text>
+<p>Wind River Systems Inc said Monday it will provide computer operating system technology and development tools for Oracle Corp's plan to build a network computer.</p>
+<p>Under the deal, the financial terms of which were not disclosed, Wind River provides several technologies that will be embedded in computers designed specifically for the Internet Oracle unit, Network Computer Inc.</p>
+<p>Wind River will provide its Tornado suite of software tools and utilities; VxWorks, a real-time operating system; and a full line of communications products, like Ethernet.  </p>
+<p>Network Computer Inc (NCI) said it chose Wind River because of its experience in embedded products, platform support, operating system technology and the open Tornado development environment.</p>
+<p>&quot;This selection underscores the confidence that NCI has placed in Wind River to help support NCI's leadership position in networking computing technology,&quot; Ron Abelmann, Wind River chief executive, said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255682" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Cisco, Interlink in strategic pact.</title>
+<headline>Cisco, Interlink in strategic pact.</headline>
+<dateline>FREMONT, Calif. 1996-12-13</dateline>
+<text>
+<p>Interlink Computer Sciences Inc said Friday it has formed a strategic alliance with Cisco Systems Inc to develop and market a software suite to extend multiprotocol networking for MVS mainframes.</p>
+<p>As part of the agreement, Cisco has made an equity investment in Interlink of 622,000 newly issued shares, equal to about nine percent of Interlink's 7,011,100 shares outstanding, Interlink said.</p>
+<p>Interlink said Cisco has also purchased product licenses for its TCPaccess.  </p>
+<p>&quot;Interlink is very excited to join Cisco and their partners in providing the most comprehensive network operating environment for users from the desktop to the mainframe,&quot; the company said in a release.</p>
+<p>Interlink supplies high-performance solutions for enterprise networked systems management to enable customers to import, access and manage data across distributed client/server environments.</p>
+<p>Cisco supplies internetworking solutions for corporate intranets and the global Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

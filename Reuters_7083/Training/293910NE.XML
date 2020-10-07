@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="293910" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: PC-makers unveil multimedia PCs with Intel's MMX.</title>
+<headline>PC-makers unveil multimedia PCs with Intel's MMX.</headline>
+<dateline>NEW YORK 1997-01-08</dateline>
+<text>
+<p>A bevvy of personal computer makers unveiled multimedia PCs and notebook computers, starting at prices of about $1,900, designed around Intel Corp's new multimedia MMX Pentium chip.</p>
+<p>Compaq Computer Corp, Toshiba Corp's Toshiba America Information Systems Inc, Hewlett-Packard Co, Fujitsu Ltd, Dell Computer Corp, Gateway 2000, International Business Machines Corp and Acer Inc's America unit and others all unveiled new PCs targeted to home users, using the new chip.</p>
+<p>Most of the new PCs are shipping now or later this month.  </p>
+<p>Intel's new multimedia extension technology, called MMX, is being launched in a much-anticipated rollout in San Francisco. The new processor is the highest performance Pentium chip available, and it is being offered at speeds of 166 and 200 megahertz for desktop systems aimed at consumers.</p>
+<p>The following are some highlights of the PCs from some of the leading PC makers.</p>
+<p>-- Houston-based Compaq unveiled Presario PCs that it said are up to 75 percent faster than its existing lineup of home computers. Prices start at $1,299 and go up to $3,999, with plans to offer the fastest available modem in second quarter.  </p>
+<p>Select Presario models will be the first consumer PCs to ship with a 56K upgradeable modem, starting in March. Most MMX-based Presario models are available today, Compaq said. The PC maker also said it will offer a DVD (digital video disk) system that turns the PC into a home theatre experience.</p>
+<p>-- Dell Computer of Austin, Texas said it will be shipping its Dell Dimension XPS M Series for small businesses and home office customers at prices starting at $1,902, including color monitors. Dell said it plans to ship its Latitude line of notebooks with MMX this spring. Dell said that it expects the Intel chip to boost performance of its PCs by up to 20 percent.  </p>
+<p>Dell also said it will offer the MMX technology on its OptiPlex GX and G families, aimed at corporate, government and educational customers. Iomega Corp's Zip drives are available as an optional feature.</p>
+<p>-- Palo Alto, Calif-based Hewlett-Packard Co said that its Pavilion PCs are being stocked in retail stores starting today, with suggested retail prices ranging from $1,399 to $2,699. HP also has pre-loaded imaging software developed by Storm Technology and Adobe Systems Inc so consumers can experience the &quot;rich&quot; multimedia capabilities of MMX. Other MMX-based Pavilion PCs will be available in February.  </p>
+<p>IBM said it will bundle three-dimensional games such as Pod, a 3D car racing game developed by a French company called Ubisoft and the Ultimate Human Body 2, a live animation exploration of the body with full action video.</p>
+<p>-- Gateway 2000 of Sioux City, S.D., added the MMX technology to its consumer desktop line, in a number of configurations, starting at $2,149. Gateway will also offer MMX in its Destination Big Screen PC line, starting at $2,999, available immediately.</p>
+<p>-- Sacramento, Calif.-based Packard Bell unveiled new Platinum PCs with MMX, starting at $1,699, available now.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

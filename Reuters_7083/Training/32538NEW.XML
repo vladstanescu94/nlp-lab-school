@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32538" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Macromedia slashes prices on intranet tool.</title>
+<headline>Macromedia slashes prices on intranet tool.</headline>
+<dateline>SAN FRANCISO 1996-09-04</dateline>
+<text>
+<p>Macromedia said it slashed prices on its AuthorWare development tools for creating intranets by more than 50 percent, saying it wanted to respond to the huge market for building corporate computer networks.</p>
+<p>At a developer conference in San Francisco on Wednesday, Macromedia said it has cut the price for its set of six software tools used to build intranet sites to $1,999 from $4,999.  </p>
+<p>Chief Executive Bud Colligan, speaking at the conference, said his company has been surprised by the amount of interest among corporations in its AuthorWare line.</p>
+<p>&quot;We are seeing a huge market for AuthorWare from corporations,&quot; he said. &quot;Because of that opportunity, we are going to price aggressively.&quot;</p>
+<p>Colligan also said Macromedia has designed its Director 5 software for studio production to work with Intel Corp's new multimedia MMX technology.</p>
+<p>MMX is a microprocessor that enhances personal computer graphics and video. It is embedded with a technology that once required separate graphics and video cards.</p>
+<p>Intel expects personal computers with MMX processors to be in the market in early 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

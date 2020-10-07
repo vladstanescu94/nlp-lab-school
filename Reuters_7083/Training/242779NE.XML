@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242779" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: PLATINUM Technology launches new software.</title>
+<headline>PLATINUM Technology launches new software.</headline>
+<dateline>OAKBROOK TERRACE, Ill. 1996-12-09</dateline>
+<text>
+<p>Platinum Technology Inc said Monday it will introduce new software designed to help developers and database administrators build Internet and intranet applications.</p>
+<p>The company's so-called SQL-Station is designed to speed up development of database applications by allowing for uniform code development from creation to completion, said PLATINUM.</p>
+<p>The company will demonstrate the product this week at the Database &amp; Client/Server World in Chicago.</p>
+<p>PLATINUM is a developer of database management software.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKBROOK TERRACE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

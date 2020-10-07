@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183485" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Elcom International Inc Q3 shr increases.</title>
+<headline>Elcom International Inc Q3 shr increases.</headline>
+<dateline>NORWOOD, Mass. 1996-11-12</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>				  Quarter Ended   Nine Months Ended</p>
+<p>				  September 30,	  September 30,</p>
+<p>				  1996	 1995	 1996     1995</p>
+<p> Net Sales		  $156,85   $97,898   $444,572 $203,263</p>
+<p> Net Income (Loss)	  1,310	(83)	3,586  (1,254)</p>
+<p>Net Income (Loss) Per</p>
+<p>  Share			   .04     (.--)	  .12    (.07)</p>
+<p>Weighted Average Shares</p>
+<p>				 29,435    23,201     29,604   18,817</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWOOD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

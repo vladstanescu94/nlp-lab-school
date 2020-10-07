@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="503732" id="root" date="1997-04-11" xml:lang="en">
+<title>USA: Cadence signs deal with Fujitsu unit.</title>
+<headline>Cadence signs deal with Fujitsu unit.</headline>
+<dateline>NEW YORK 1997-04-11</dateline>
+<text>
+<p>Cadence Design Systems Inc said Friday it signed a long-term outsourcing deal with International Computers Ltd, a subsidiary of Japan's Fujitsu Ltd that is based in Manchester, England.</p>
+<p>Cadence, a San Jose, Calif.,-based computer software company, said the contract will begin May 1. Financial terms of the deal were not disclosed.</p>
+<p>Under the deal, Cadence will be provide integrated circuit design services to International Computer to support its next-generation multi-processor mainframe computers.</p>
+<p>A design team from International Computer will be moved to Cadence's design center in Manchester to maintain the center. Members of the team will become full-time Cadence personnel and complement Cadence's European design factory network.</p>
+<p>Cadence, which has more than 3,500 employees and had 1996 annual sales of $742 million, has sales offices and research facilities around the world.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

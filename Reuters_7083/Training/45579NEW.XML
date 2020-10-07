@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45579" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Adobe Systems unveils PostScript Level 3.</title>
+<headline>Adobe Systems unveils PostScript Level 3.</headline>
+<dateline>SAN JOSE, Calif. 1996-09-11</dateline>
+<text>
+<p>Adobe Systems Inc on Wednesday unveiled the new generation of its popular Adobe PostScript software, giving users the ability to print complex graphics and pages from the World Wide Web.</p>
+<p>Adobe PostScript Level 3 offer features like Adobe's Enhanced Image Technology, NetWorks System, and PlanetReady Printing benefits.  </p>
+<p>Adobe said PostScript Level 3's development was driven by the rapid and widespread use of the Internet, more color printing, and a fundamental shift toward distributing information electronically and then printing, versus printing a document and then distributing it.</p>
+<p>&quot;Adobe's objective is to support digital document delivery for all types of document content, from any possible source, to every available output destination,&quot; said Fred Schwedner, general manager, Adobe Printing and Systems Division.</p>
+<p>PostScript Level 3's Enhanced Image Technology insures that documents print faster, easier and with optimal quality. It helps print pages on the Net, support for three-dimensional images, photo quality grayscaling, and other features.</p>
+<p>NetWorks System improves ease of use, ease of connection and ease of printer management, and PlanetReady Printing allows Adobe products to fully meet local language needs of users anywhere in the world.</p>
+<p>In 1997's second half, when manufacturers begin delivering PostScript Level 3-based products, Adobe will unveil operators and language specific features.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

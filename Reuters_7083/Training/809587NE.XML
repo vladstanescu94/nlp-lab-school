@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809587" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: US asks Microsoft for streaming media data.</title>
+<headline>US asks Microsoft for streaming media data.</headline>
+<dateline>REDMOND, Washington 1997-08-19</dateline>
+<text>
+<p>Microsoft Corporation said that it has received a request for information about the streaming media business from the Department of Justice.</p>
+<p>The transmission of video over the Internet has long been a problem because of difficulties in handling the relatively large amounts of data involved. Streaming involves sending packets of video in a stream from a server instead of in blocks.</p>
+<p>William H. Neukom, Microsoft's Senior Vice President for Law and Corporate Affairs said &quot;Competition in the nascent streaming media business is intense, with many large and small companies offering a wide range of innovative products.&quot;</p>
+<p>&quot;Microsoft is seeking to promote compatibility and interoperability among streaming media products from all vendors, which will benefit customers and further intensify competition. We are confident that the Justice Department will conclude that competition is robust once it reviews the facts.&quot;</p>
+<p>As well as Microsoft, major competitors including Oracle, Netscape, Silicon Graphics IBM, Sun Microsystems and many others which have announced streaming media products.</p>
+<p>Neukom said that Microsoft intends to cooperate with the Justice Department. The company does not intend to comment on the specifics of this non-public Department of Justice inquiry, in deference to the Justice Department's practice of gathering information in a confidential manner.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Washington"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

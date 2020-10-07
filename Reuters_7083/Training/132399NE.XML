@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132399" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: PeopleSoft to acquire stake in venture.</title>
+<headline>PeopleSoft to acquire stake in venture.</headline>
+<dateline>PLEASANTON, Calif. 1996-10-22</dateline>
+<text>
+<p>PeopleSoft Inc on Tuesday said it plans to acquire by the end of 1996 all outstanding equity interests in PeopleSoft Manufacturing Inc and PeopleMan LP, a joint development venture and a limited partnership known as PMI.</p>
+<p>This transaction, involving payment of $28.5 million in a combination of stock, stock options and other consideration, will be accounted for under the purchase method, and will result in a one-time charge to earnings of a substantial portion of the purchase price in the quarter ending December 31, 1996, the company said.</p>
+<p>PMI was engaged in developing new applications to meet the demands of discrete manufacturers, including those having plants located in multiple countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

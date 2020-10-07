@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319281" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: Wayfarer to launch intranet 'push' technology.</title>
+<headline>Wayfarer to launch intranet 'push' technology.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-01-19</dateline>
+<text>
+<p>Wayfarer Communications Inc said it will announce on Monday the commercial availability of new software that enables companies to customise information for delivery to employee's computers.</p>
+<p>The product, to be called Incisa, allows managers to send information from both the public Internet and private networks known as intranets to groups of employees.</p>
+<p>The company is taking a different tact than PointCast Networks, the startup that attracted a quick following in the spring of 1996 when it launched a screensaver that could be updated with news, information and interactive advertising.</p>
+<p>Incisa utilizes a screensaver as well, but it is designed to bear a company's own brand name and to combine information from corporate databases with relevant information from suppliers like PC Quote and Reuters Holdings Plc, the international news and information organization.</p>
+<p>Wayfarer says it can deliver selected information to a company's employees using &quot;a fraction of the network bandwidth required by other such technologies.&quot;</p>
+<p>Wayfarer said its software has been in beta testing at dozens of Fortune 1,000 companies.</p>
+<p>These include NationsBank, Ralston-Purina Group, Sprint Corp, Amoco Corp, International Paper and Gannett Co's USA Today.</p>
+<p>Mitch Hadley, a vice president at NationsBank Corp, said a key feature was the ability to use the software to filter out distracting, non-business content.</p>
+<p>Wayfarer said the software enables two-way communication, contains multiple security levels and can be run generating one twenty-fifth the network traffic of other consumer webcasting products.</p>
+<p>The Incisa server runs on Microsoft Corp's Windows NT, with a Sun Microsystems Inc Sun Solaris version due in March, and can work with desktops running Windows 95, Window NT and -- in March -- Windows 3.1.</p>
+<p>Pricing starts at $5,000 for 100 seats with discounts available for higher-volume purchases.</p>
+<p>Wayfarer is backed by Silicon Valley venture capital firms including Sequoia Capital, Hummer/Winblad Venture Partners and Bay Partnes, along with Robertson Stephens &amp; Co., and Stanford University.</p>
+<p>--sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

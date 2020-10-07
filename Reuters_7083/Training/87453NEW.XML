@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87453" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Oracle unveils universal network platform.</title>
+<headline>Oracle unveils universal network platform.</headline>
+<dateline>REDWOOD SHORES, Calif. 1996-10-01</dateline>
+<text>
+<p>Oracle Corp said on Tuesday it introduced Network Computing Architecture, its technology package intended to let any personal computers or network computers work with all Web servers, database servers and application servers over any network.  </p>
+<p>&quot;By enabling technologies to work together, Oracle allows customers to mix and match software programs as they create or Web-enable applications,&quot; Jerry Held, vice president server technologies, said in a statement.</p>
+<p>Based on open programming standards, such as CORBA and HTTP, Oracle's architecture supports Netscape ONE client, the Network Computer natively and Microsoft's ActiveX Desktop.</p>
+<p>Oracle also said it would extend the Network Computing Architecture to its Oracle7 database server, making it the first database software supplier to announce native support for CORBA interfaces and IIOP in the database.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="519537" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: AFTER THE BELL - Microsoft trades quietly.</title>
+<headline>AFTER THE BELL - Microsoft trades quietly.</headline>
+<dateline>NEW YORK 1997-04-18</dateline>
+<text>
+<p>Stocks traded close to their closing prices during an after-hours trading session that was quiet compared to the active sessions held earlier in the week, traders said Friday.</p>
+<p>&quot;There's nothing in particular that's going on,&quot; said one dealer.</p>
+<p>Microsoft Corp was trading at 107-1/2 against a close of 107-5/8 on the Nasdaq and Intel Corp was at 137 against 137-1/8.  </p>
+<p>Cisco Systems was trading at the same price as its close of 48-3/8, while Staples Inc was at 20-1/32 against 20.</p>
+<p>The New York Stock Exchange said Friday that session one had a volume of 24,400 shares against 26,700 the day before.</p>
+<p>Session two had 750,600 shares compared to 920,637, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

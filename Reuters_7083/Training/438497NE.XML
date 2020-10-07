@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="438497" id="root" date="1997-03-13" xml:lang="en">
+<title>USA: Oracle Q3 shr $0.25 vs $0.22.</title>
+<headline>Oracle Q3 shr $0.25 vs $0.22.</headline>
+<dateline>REDWOOD SHORES, Calif. 1997-03-13</dateline>
+<text>
+<p>CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>		  ($ in thousands, except per share data)</p>
+<p>				 3rd Quarter Ended  Nine Months Ended</p>
+<p>					 February	  February</p>
+<p>			     1997	 1996	 1997	 1996</p>
+<p>REVENUES</p>
+<p> Licenses and other  681,108    528,351  1,767,093  1,397,019</p>
+<p> Services		691,504    491,888  1,969,212  1,362,207</p>
+<p> Total Revenues    1,372,612  1,020,239  3,736,305  2,759,226</p>
+<p>OPERATING EXPENSES  </p>
+<p>Sales and marketing</p>
+<p>			   460,361    365,282  1,274,899  1,000,955</p>
+<p> Cost of services    401,441    286,843  1,115,031    773,774</p>
+<p>Research and</p>
+<p>  development (1)    138,527     92,805    391,036    270,518</p>
+<p>General and administrative</p>
+<p>			    75,356     55,367    215,349    164,303</p>
+<p>Acquired in-process research</p>
+<p>and development (2)</p>
+<p>			    36,800	   --     36,800     50,931</p>
+<p>Total Operating</p>
+<p>	Expenses	 1,112,485  800,297  3,033,115  2,260,481</p>
+<p> OPERATING INCOME	260,127  219,942    703,190    498,745</p>
+<p>Other income (expense)</p>
+<p>				 4,330    1,709     17,935     11,791</p>
+<p> INCOME BEFORE TAKES   264,457  221,651    721,125    510,536</p>
+<p>Provision for income</p>
+<p>    taxes		   95,204   75,361    259,605    173,582</p>
+<p> NET INCOME	   $  169,253  146,290 $  461,520 $  336,954</p>
+<p> EARNINGS PER SHARE	 0.25     0.22	 0.68	 0.50</p>
+<p>Common and common equivalent</p>
+<p>  shares		   673,186  670,479    674,315    670,322</p>
+<p>(1) In accordance with Statement of Financial Accounting Standards No. 86, $5,533 and $11,127 were capitalized in the quarters ended February 28, 1997 and February 29, 1996, respectively.  Amortization of capitalized software costs was $5,466 and $11,475 in the quarters ended February 28, 1997 and February 29, 1996, respectively.</p>
+<p>(2) Represents the acquisition charges for the Datalogix and IRI transactions that closed in January 1997 and July 1995, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

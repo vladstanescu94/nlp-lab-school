@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351785" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Industri-Matematik Oracle in product tie-up.</title>
+<headline>Industri-Matematik Oracle in product tie-up.</headline>
+<dateline>TARRYTOWN, N.Y. 1997-02-03</dateline>
+<text>
+<p>Industri-Matematik International Corp is integrating its order fulfillment solution, System ESS, into Oracle Corp's solution for the consumer packaged goods industry, the two companies announced Monday.</p>
+<p>They said Oracle selected IMI's System ESS solution as best-in-class for the Oracle CPG solution to provide manufacturers and distributors with the ability to handle high order volumes that contain complex price and promotion terms, and require multiple shipments from different locations on a single order.</p>
+<p>System ESS provides the ability to synchronize and link a manufacturer's or distributor's order fulfillment process with customer's buying processes, facilitating continuous replenishment, they added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TARRYTOWN, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

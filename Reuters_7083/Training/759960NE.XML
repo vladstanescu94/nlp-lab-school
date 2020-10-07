@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="759960" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: US House panel likely to pass secure computer bill.</title>
+<headline>US House panel likely to pass secure computer bill.</headline>
+<dateline>WASHINGTON 1997-07-28</dateline>
+<text>
+<p>The House Science Committee is expected to approve on Tuesday a bill to encourage the use of private-sector technology to protect computers at civilian government agencies, Congressional staffers said.</p>
+<p>The bill, the Computer Security Enhancement Act of 1997, was approved on a unanimous voice vote by the Science Committee's technology subcommittee on Monday.</p>
+<p>The full committee takes up the bill, along with a measure to prohibit federal funding of experiments involving human cloning, at 1300 EDT on Tuesday. A majority of members support the computer security bill, staffers said.</p>
+<p>The measure is intended to help the government better ward off thousands of attempts by hackers to penetrate agency computer systems each year, lawmakers said.</p>
+<p>&quot;The federal government's dependence on computer systems, networks and records has grown tremendously in the last decade,&quot; said subcommittee chairwoman Constance Morella, Republican of Maryland, at Monday's mark-up.</p>
+<p>&quot;Theft or corruption of proprietary data is a real threat to our national security,&quot; she added.</p>
+<p>Under the bill, the National Institute of Standards (NIST) would encourage the use of off-the-shelf computer security programs to meet the computer security needs of civilian agencies like the Forest Service or the Department of Education. Military agencies would not be affected.</p>
+<p>Using existing commercial products intead of requiring agencies to develop their own in-house products &quot;should reduce the cost and improve the availability of computer security technologies in federal agencies,&quot; Morella said.</p>
+<p>The bill also touched on the controversial debate over strict U.S. export controls on computer encoding, or encryption, technology. Encryption programs use mathematical formulas to scramble information and render it unreadable without a password or software &quot;key.&quot;</p>
+<p>The Clinton administration prohibits U.S. companies from exporting strong encryption unless the products allow the government to crack the codes by getting access to the software keys.</p>
+<p>Software companies oppose the restrictions, arguing that foreign companies selling strong encryption are gaining market share because of the export limits.</p>
+<p>The bill would require NIST to develop standards and tests for evaluating foreign encryption products. The agency would also be prohibited from promulgating guidelines or standards intended to restrict the domestic use or production of encryption outside of the government.</p>
+<p>The bill also requires the National Resource Council to assess the desirability of creating a vast, national system for allowing law enforcement agencies to gain access to encryption keys.</p>
+<p>The subcommittee approved two amendments at Monday's session. One, from Morella, raised to $500,000 from $250,000 the funding for graduate and undergraduate fellowships in computer security.</p>
+<p>The other amendment, from Tennessee Democrat Bart Gordon, would create a committee to explore the development of a national system of digital signatures, computer code that can be appended to electronically-transmitted documents to verify the authenticity of the sender.</p>
+<p>(( --Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

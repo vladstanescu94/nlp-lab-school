@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593795" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: Microsoft says U.S. seeks WebTV details.</title>
+<headline>Microsoft says U.S. seeks WebTV details.</headline>
+<dateline>SEATTLE 1997-05-19</dateline>
+<text>
+<p>The U.S. Justice Department's antitrust division has made a second request for information regarding Microsoft Corp.'s planned acquisition of WebTV Networks Inc., a company spokesman said Monday.</p>
+<p>Company spokesman Mark Murray said the request was routine, and he said executives were confident that regulators would approve Microsoft's proposal to acquire the Internet service provider for $425 million in cash and stock.  </p>
+<p>The Justice Department initiated its investigation and made an initial request for information under the Hart-Scott-Rodino antitrust law after Microsoft announced the proposed acquisition April 6.</p>
+<p>&quot;We intend to provide all the necessary information, and we're completely confident that once they've reviewed all the information they'll approve this merger in short order,&quot; Murray said.</p>
+<p>WebTV Networks provides Internet access using televisions rather than computers through technology including a special set-top box. Other high-tech companies are pursuing similar technologies to broaden Internet access.</p>
+<p>But Murray noted that Microsoft currently does not offer any such service.</p>
+<p>&quot;There's no overlap between the business of Microsoft and WebTV,&quot; he said. &quot;If there's no overlap, there's no antitrust case.&quot;</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

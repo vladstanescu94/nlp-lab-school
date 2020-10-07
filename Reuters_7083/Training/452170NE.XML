@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="452170" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: HP to &quot;aggressively&quot; integrate Windows NT.</title>
+<headline>HP to &quot;aggressively&quot; integrate Windows NT.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-19</dateline>
+<text>
+<p>Hewlett-Packard Co, outlining a deepened alliance with Microsoft Corp, said on Wednesday it would &quot;aggressively integrate&quot; the software giant's Windows NT operating system into its computers.</p>
+<p>HP also said it would develop a a NetPC according to standards established by Microsoft and Intel Corp to be shipped in the second half of 1997 and priced at about $1,000 in the U.S. market.  </p>
+<p>The NetPC, part of a program aimed at lowering the cost of computing and blunting the momentum of the competing network computer movement, will be part of a new line of computers dubbed the HP Net Vectra PC series, the company said.</p>
+<p>The announcement was part of an enhanced collaboration detailed by Hewlett-Packard Chief Executive Officer Lewis Platt and Microsoft Chairman Bill Gates at a news conference held at the computer maker's headquarters.  </p>
+<p>In a statement, the two companies said they would launch programs to &quot;aggressively integrate Microsoft Windows NT into existing enterprise environments.&quot;</p>
+<p>&quot;We are excited to be working more closely with HP, a leader in integrating and supporting heterogeneous enterprise environments,&quot; Gates said in the statement.</p>
+<p>&quot;This powerful combination will make HP the leader in Windows NT, UNIX system and heterogeneous enterprise solutions,&quot; Platt said. &quot;Combining these attributes in a focused approach will create enormous value for our customers.&quot;  </p>
+<p>HP said it would promote Microsoft Exchange Server as a part of a Windows NT messaging solution. It plans to discontinue further marketing and development efforts on OpenMail for Microsoft Windows NT.</p>
+<p>The two companies will open and jointly staff an Enterprise Solutions Center in Redmond, Wash., where Microsoft is based, to optimize Microsoft Windows NT Server-based enterprise solutions running on HP NetServer systems.</p>
+<p>HP also said it plans to develop technology that allows end-users access to their enterprise network from any smart-card-enabled Microsoft Windows PC as part of Microsoft's Zero Administration Windows initiative.</p>
+<p>And HP plans to deliver a new capability to lower the total cost of computer ownership based on an internally deployed set of services and tools that has helped the company reduce its desktop computing costs by $200 million per year. No target delivery date was given.</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

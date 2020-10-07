@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="429452" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: CE Software to ship QuicKeys for PowerPC.</title>
+<headline>CE Software to ship QuicKeys for PowerPC.</headline>
+<dateline>WEST DES MOINES, Iowa 1997-03-10</dateline>
+<text>
+<p>CE Software Inc said Monday it will ship its PowerPC version of QuicKeys 3.5 on Monday, March 17.</p>
+<p>QuicKeys is a software used for graphic design, web publishing and multimedia. CE Software said the new version will perform faster on systems utilizing the PowerPC processor, and also offers more compatibility with popular graphic design applications.</p>
+<p>The PowerPC version of QuicKey will have a suggested retail price of $119.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST DES MOINES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

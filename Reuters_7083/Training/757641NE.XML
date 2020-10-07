@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="757641" id="root" date="1997-07-25" xml:lang="en">
+<title>USA: TABLE - Tangram Q2 net loss vs profit.</title>
+<headline>TABLE - Tangram Q2 net loss vs profit.</headline>
+<dateline>CARY, N.C. 1997-07-25</dateline>
+<text>
+<p>(in thousands, except share amounts)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>						   June 30     June 30</p>
+<p>					   1997    1996    1997    1996</p>
+<p>Net revenues:</p>
+<p>  Product			    $1,645  $2,434  $2,726  $3,574</p>
+<p>  Services			    1,576   1,036   3,098   2,380</p>
+<p> Total net revenues		 3,221   3,470   5,824   5,954</p>
+<p> Cost of revenues		     939     889   1,770   1,694</p>
+<p> Gross profit			 2,282   2,581   4,054   4,260</p>
+<p>Operating expenses:</p>
+<p>  Sales and marketing	     1,565   1,170   2,795   2,229</p>
+<p>  General and administrative	858     680   1,665   1,241</p>
+<p>  Research and development	  794     264   1,443     656</p>
+<p> Total operating expenses	 3,217   2,114   5,903   4,126</p>
+<p> (Loss) income from operations  (935)     467  (1,849)    134</p>
+<p> Other (expense) income	    (40)	12    (52)	12</p>
+<p>(Loss) income before income taxes</p>
+<p>					  (975)     479  (1,901)    146</p>
+<p> Provision for income taxes	  --	--	--	--</p>
+<p> Net (loss) income		  (975)     479 (1,901)     146</p>
+<p>(Loss) income per common share</p>
+<p>					 (0.06)    0.03  (0.12)    0.01</p>
+<p>Weighted average number</p>
+<p>of common shares outstanding</p>
+<p>					 15,599  17,362  15,618  16,996</p>
+<p>NOTE: Full name is Tangram Enterprise Solutions Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARY, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

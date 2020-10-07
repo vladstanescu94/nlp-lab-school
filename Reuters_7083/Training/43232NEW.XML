@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43232" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Microsoft launches CryptoAPI software.</title>
+<headline>Microsoft launches CryptoAPI software.</headline>
+<dateline>REDMOND, Wash. 1996-09-10</dateline>
+<text>
+<p>Microsoft Corp Tuesday announced the availability of the beta version of CryptoAPI 2.0, software that allows developers to add strong security to existing and future software programs.</p>
+<p>In a statement, Microsoft said the software is available for download on the Internet's World Wide Web (http://www.microsoft.com /intdev/security/).</p>
+<p>Microsoft said the software provides the underlying technology necessary to add security features to applications, such as the ability to sign a document digitally and send it over the Internet network of computer networks, or verify an individual's identity in an exchange of personal, financial or medical information.</p>
+<p>Separately, Microsoft said more than 50 independent software companies are already supporting Microsoft's code-signing technology, Authenticode, since its availability in August.</p>
+<p>Using certificates such as VeriSign's Software Publisher Digital IDs, Authenticode identifies the publisher of a piece of software and verifies that the software has not been tampered with.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

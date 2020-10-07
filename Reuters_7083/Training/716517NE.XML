@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716517" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: Microsoft vows to keep supporting Apple customers.</title>
+<headline>Microsoft vows to keep supporting Apple customers.</headline>
+<dateline>SEATTLE 1997-07-09</dateline>
+<text>
+<p>Microsoft Corp. said Wednesday the software giant remains committed to meeting the needs of Macintosh users, regardless of the latest management shakeup at Apple Computer Inc.</p>
+<p>In a surprise announcement, Apple late Wednesday said Chairman and Chief Executive Gilbert Amelio resigned Tuesday night, after struggling fruitlessly for 17 months to return the company to profitability.</p>
+<p>&quot;Clearly this is an unsettling time for Apple,&quot; Microsoft spokesman John Pinette. &quot;We wish them the best in addressing their issues.&quot;</p>
+<p>Computers using Apple's Macintosh operating system now account for only about 5 percent of the personal computer market, with more than 90 percent of new machines shipped with different versions of Microsoft's Windows interface.</p>
+<p>But Microsoft still has a strong business selling applications, including word processors and spreadsheets, to Apple users and repeatedly has said it remains committed to those customers.</p>
+<p>Earlier this year, Microsoft Chairman Bill Gates met with Amelio and other Apple executives in Apple's home town of Cupertino to discuss the possibility of closer cooperation.</p>
+<p>But a few weeks after the meeting, Gates said he was not devoting a lot of time to Apple.</p>
+<p>&quot;People like Apple and would like them to succeed,&quot; Gates said at the time. &quot;But that doesn't mean they will succeed.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

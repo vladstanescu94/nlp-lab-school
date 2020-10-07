@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="316930" id="root" date="1997-01-18" xml:lang="en">
+<title>USA: Microsoft earnings beat predictions.</title>
+<headline>Microsoft earnings beat predictions.</headline>
+<dateline>SEATTLE 1997-01-17</dateline>
+<text>
+<p>Microsoft Corp. said Friday it earned $741 million in the latest quarter, sharply higher than a year ago, but the software giant warned of slower earnings growth in its next fiscal year.</p>
+<p>The fiscal second-quarter earnings, equal to 57 cents a share, compared with net income of $575 million, or 45 cents a share, in the year-ago quarter.</p>
+<p>The results for the quarter ended Dec. 31 beat analysts' forecasts. Wall Street had expected Microsoft on average to report earnings equal to 51 cents a share for the quarter, with estimates ranging from 47 cents to 55 cents, according to the First Call service.</p>
+<p>Analysts earlier said results in that range would be impressive considering that Microsoft had no major new products in the quarter and was up against difficult comparisons with the year-earlier period, the first full quarter of availability for its Windows 95 operating system.</p>
+<p>Reporting its results after financial markets closed, Redmond, Wash.-based Microsoft posted revenues of $2.68 billion, a 22 percent increase from the $2.2 billion in revenues generated in its second quarter a year ago.</p>
+<p>&quot;The company performed solidly in all of our businesses, including operating systems, desktop applications, enterprise software, tools, hardware and content,&quot; Microsoft Chief Financial Officer Mike Brown said in a statement.</p>
+<p>Analysts said Microsoft revenues have been buoyed by strong gains in personal computer sales, especially to corporations, and by the increasing momentum of its high-end Windows NT operating system and BackOffice line of server software.</p>
+<p>Brown said the company was pleased with the results and with prospects for the rest of its fiscal year, particularly regarding the outlook for sales of its Office 97 package of business software, which was released Thursday.</p>
+<p>However, he said he expected slower earnings growth in the 1998 fiscal year beginning in July 1997 due to maturing businesses and &quot;aggressive spending&quot; on research and development and new business ventures.</p>
+<p>&quot;We are making major investments for the future,&quot; Chief Operating Officer Bob Herbold said in the statement. &quot;We are building increased functionality and Internet capabilities into our products, and pursuing advances in operating systems, enterprise client/server (computer network) products, and basic research that should reap benefits for the entire personal computer industry and its customers.&quot;</p>
+<p>In after-hours trading, Microsoft's stock rose $1.875 to $89 after gaining $1.125 to $87.125 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

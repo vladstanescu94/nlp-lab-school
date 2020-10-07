@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="671802" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surpise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surpise data.</headline>
+<text>
+<p>Earnings surprise for June 19, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks</p>
+<p>COMPANY		ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>LAVA		     -0.02     0.02    200.00%</p>
+<p>INTL MULTIFOODS	 0.08     0.11     37.50%</p>
+<p>SHONEYS		   0.10     0.11     10.00%</p>
+<p>FDP			 0.11     0.12	9.09%</p>
+<p>CARNIVAL		  0.42     0.43	2.38%</p>
+<p>ECHLIN		    0.52     0.53	1.92%</p>
+<p>BEAUTICONTROL	   0.24     0.17    -29.17%</p>
+<p>FRANKLIN		  0.21     0.15    -28.57%</p>
+<p>LO-JACK		   0.12     0.11     -8.33%</p>
+<p>WINNEBAGO		 0.16     0.15     -6.25%</p>
+<p>NORWOOD		   0.53     0.52     -1.89%</p>
+<p>CONTL HOMES	     0.83     0.82     -1.20%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I8395449">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

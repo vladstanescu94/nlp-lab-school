@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15967" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Medicus says suspends quarterly dividend.</title>
+<headline>Medicus says suspends quarterly dividend.</headline>
+<dateline>EVANSTON, Ill. 1996-08-27</dateline>
+<text>
+<p>Medicus Systems Corp said it suspended its quarterly dividend indefinitely.</p>
+<p>The healthcare information management systems concern said it last paid a dividend in May of $0.03 per share.</p>
+<p>&quot;The board of directors has determined not to pay dividends on the common stock for the foreseeable future,&quot; the company said Tuesday in a statement.</p>
+<p>Medicus also said it took a $4.7 million restructuring charge in the fourth quarter ended May 31. The company reported a loss for the fiscal year of $0.57 per share after the charge, compared to a profit in the prior fiscal year of $0.45 per share.</p>
+<p>Shares closed Tuesday up 1/4 to 5-1/8.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EVANSTON, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

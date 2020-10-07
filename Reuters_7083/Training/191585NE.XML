@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191585" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Prologic Management Q2 loss widens.</title>
+<headline>Prologic Management Q2 loss widens.</headline>
+<dateline>TUCSON, Ariz. 1996-11-14</dateline>
+<text>
+<p>Three Months Ended 9/30,  Six months Ended 9/30,</p>
+<p>			  1996	   1995	  1996	 1995</p>
+<p> Net Revenues  3,487,647    $   95,096 $ 4,242,860  $ 295,970</p>
+<p>Operating Loss</p>
+<p>		   (382,591)     (215,559)   (814,031)  (334,337)</p>
+<p>Other Income</p>
+<p>  (Expense)	  6,325	(55,980)   (325,819)   (75,162)</p>
+<p> Net loss	(376,266)     (271,539) (1,139,850)  (409,539)</p>
+<p>Weighted shares</p>
+<p>  outstanding  3,665,395     2,031,280   3,665,395  2,031,280</p>
+<p>Net (loss) per</p>
+<p>  common share   ( 0.10)	 ( 0.13)     ( 0.31)    ( 0.20)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUCSON, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

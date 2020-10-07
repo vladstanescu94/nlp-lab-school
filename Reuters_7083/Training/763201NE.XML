@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763201" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: McAfee, RSA set data anti-virus framework.</title>
+<headline>McAfee, RSA set data anti-virus framework.</headline>
+<dateline>SANTA CLARA, Calif. 1997-07-29</dateline>
+<text>
+<p>McAfee Associates said it has reached agreement with Security Dynamics Technologies Inc, RSA Data Security Inc and Verisign Inc to form a computer network security framework.</p>
+<p>Executives of McAfee and its partners said in a conference call the agreement allows customers to combine products more easily into building more secure computer networks.</p>
+<p>The framework, dubbed SecureONE, is geared to link anti-virus, authentication, encryption and digital certificate products and technologies which ensures the partners' products will work well together, they said.  </p>
+<p>Jim Bidzos, chief executive of RSA, a unit of Security Dynamics, told the teleconference that RSA will deliver a jointly developed set of programming interfaces in its RSA toolkits.</p>
+<p>Bidzos noted that RSA's technology is available on products which reach some 100 million computers, including Internet browsers distributed by Netscape Communications Corp and Microsoft Corp.</p>
+<p>McAfee separately announced a toolkit dubbed the Virus Interface for Protective Early Response, or VIPER, which can be used by independent and corporate software developers to link their computer programs to McAfee's Viruscan software.</p>
+<p>VIPER will be the virus protection interface for the SecureONE framework, the companies said.</p>
+<p>Bidzos said the agreement top threats to computer network security, as identified by a recent Ernst and Young study as virus attacks, sabotage from outside a company's network, such as across the Internet, and sabotage from within companies.</p>
+<p>Bidzos said the combination of virus scanning and digital signatures &quot;fit together hand in glove,&quot; and authentification and encryption technologies further enhances the toolkit.</p>
+<p>Shares of McAfee rose 2-1/2 to 62-1/2 by early afternoon.</p>
+<p>McAfee stock had tumbled by 28 percent from 77-1/4 in the last week to close at 60 Monday on concerns over lengthening customer payment times, competition in its anti-virus market and a lawsuit brought by rival Symantec.</p>
+<p>Shares of Security Dynamics gained 1-1/8 to 38-1/4.</p>
+<p>Verisign is a privately held company spun out of RSA which offers certificates that are the digital world's equivalent of signatures in the physical world. Reuters Holdings Plc holds a small stake in Verisign.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

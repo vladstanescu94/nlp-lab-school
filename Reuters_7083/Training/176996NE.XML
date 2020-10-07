@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="176996" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Nematron licenses Microsoft code.</title>
+<headline>Nematron licenses Microsoft code.</headline>
+<dateline>ANN ARBOR, Mich. 1996-11-07</dateline>
+<text>
+<p>Nematron Corp said Thursday it was granted rights by Microsoft Corp to create and distribute a version of the Windows NT Hardware Abstraction Layer (HAL) Library.</p>
+<p>The HAL system will be used to create additional versions of the previously announced Hyperkernel, a subsystem for the Windows NT operating system. It will provide new levels of access to the operating system, Nematron said.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANN ARBOR, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82856" id="root" date="1996-09-27" xml:lang="en">
+<title>JAPAN: Square slides on delay of new software.</title>
+<headline>Square slides on delay of new software.</headline>
+<dateline>TOKYO 1996-09-27</dateline>
+<text>
+<p>Shares of game software maker Square Co Ltd fell sharply in the over-the-counter (OTC) market by midday on Friday, after the firm officially announced its decision to postpone the launch of its new game software, traders said.</p>
+<p>At midday, the share price was down 250 yen at 6,350. Trading volume was 9,900 shares.</p>
+<p>Japanese media had reported the delay on Thursday.</p>
+<p>Square said that the launch of the new software &quot;Final Fantasy&quot; would be pushed back to January 31 from its original plan of December.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

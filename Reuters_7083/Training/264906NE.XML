@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264906" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: SofTech Inc Q2 Nov 30 profit vs loss.</title>
+<headline>SofTech Inc Q2 Nov 30 profit vs loss.</headline>
+<dateline>GRAND RAPIDS, Mich. 1996-12-18</dateline>
+<text>
+<p>(in thousands, except per share)     For Three Months Ended</p>
+<p>					     Nov 30, 1996   Nov 30, 1995</p>
+<p> Revenue					  4,105	     3,647</p>
+<p>Income (loss) from continuing</p>
+<p>  operations after taxes			303	     (279)</p>
+<p> Results from discontinued operations	 -	     (497)</p>
+<p> Net income (loss)				303	     (776)</p>
+<p> Net per share, continuing operations    0.07	    (0.07)</p>
+<p> Net per share, discontinued operations     -	    (0.12)</p>
+<p>	Net income (loss)			0.07	    (0.19)</p>
+<p> Average shares outstanding		 4,128	     4,062</p>
+<p>						 For the Six Months Ended</p>
+<p>					     Nov 30, 1996   Nov 30, 1995</p>
+<p> Revenue					   7,864	    6,719</p>
+<p> Income (loss) from continuing operations  476	    (315)</p>
+<p> Results from discontinued operations    (750)	  (1,634)</p>
+<p> Net loss					  (274)	  (1,949)</p>
+<p> Net per share, continuing operations     0.11	   (0.08)</p>
+<p> Net per share, discontinued operations  (0.18)	   (0.40)</p>
+<p>	Net loss				   (0.07)	   (0.48)</p>
+<p> Average shares outstanding		  4,095	    4,059</p>
+<p>((-- Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRAND RAPIDS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="434858" id="root" date="1997-03-11" xml:lang="en">
+<title>JAPAN: Sony says still discussing its JSkyB stake.</title>
+<headline>Sony says still discussing its JSkyB stake.</headline>
+<dateline>TOKYO 1997-03-11</dateline>
+<text>
+<p>Sony Corp said on Tuesday it has not yet reached agreement with Softbank Corp and News Corp on its share in their satellite broadcasting venture Japan Sky Broadcasting (JSkyB).</p>
+<p>&quot;We have been requesting a certain stake in the firm so that Sony will have a say in the firm's management. But an agreement has yet to be reached,&quot; said the spokesman.</p>
+<p>A Softbank spokesman said earlier on Tuesday that the venture would be owned equally by Sony, Softbank and News Corp.</p>
+<p>JSkyB is scheduled to start beaming 12 channels into Japan in April, and plans to increase that number to 150 channels by April 1998.</p>
+<p>A Softbank spokesman said earlier that the three were considering Sony's capital participation in the venture as well as a possible role for it in providing audiovisual software and broadcasting equipment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

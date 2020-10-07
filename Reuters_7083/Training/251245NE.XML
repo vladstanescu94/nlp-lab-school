@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251245" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Greentree Software settles legal dispute.</title>
+<headline>Greentree Software settles legal dispute.</headline>
+<dateline>MINNEAPOLIS 1996-12-12</dateline>
+<text>
+<p>Greentree Software Inc said Thursday it has settled all legal claims involving a former employee and Parera Information Services Inc.</p>
+<p>The dispute centered on an allegation of copyright infringement on the part of Greentree in the wake of a failed software development agreement between the two companies, a Greentree attorney said.</p>
+<p>Greentree agreed to pay back wages to the former employee, who was associated with Parera, the attorney said. Greentree also received equipment it provided to Parera as part of the original software development pact.</p>
+<p>The attorney would not say how much the settlement would cost Greentree.</p>
+<p>Greentree markets materials management software to various industries.</p>
+<p>Its stock was up 1/8 at 1/2.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652154" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: Intuit Excite in online venture.</title>
+<headline>Intuit Excite in online venture.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-06-11</dateline>
+<text>
+<p>Intuit Inc will make a $40 million equity investment in Excite Inc as part of a seven-year agreement to program, promote and distribute a new online financial channel, the companies said Wednesday.</p>
+<p>The companies expect to launch the channel this summer, offering content and services to help consumers manage their finances, they said. The channel will feature financial news, stock quotes and transactional services.</p>
+<p>Intuit and Excite expect to generate revenue from advertising and transaction fees.  </p>
+<p>The new financial channel will be distributed through the Excite Network, which has 2.5 million daily users, as well as through Intuit's Quicken Financial Network, they said. The companies plan to promote the channel to Quicken's 10 million software customers.</p>
+<p>Under the agreement, Intuit will become the exclusive provider of financial content on all of Excite's services, and Excite will become the exclusive search and navigation service featured in Intuit's Quicken, QuickBooks and TurboTax financial planning products.</p>
+<p>As part of the transaction, Intuit will purchase 2.9 million shares of Excite common stock, about 19 percent of its common shares outstanding, at a fixed price of $13.50 per share.</p>
+<p>Excite shares jumped 2-1/2 to close at 15-3/8, while Intuit dipped 1/2 to 24-1/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

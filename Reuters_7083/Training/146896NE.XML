@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146896" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Control Data ends talks with Structural.</title>
+<headline>Control Data ends talks with Structural.</headline>
+<dateline>ARDEN HILLS, Minn. 1996-10-28</dateline>
+<text>
+<p>Control Data Systems Inc said on Monday it terminated discussions with Structural Dynamics Research Corp on a possible creation of a unified product data management sales, service and development organization.  </p>
+<p>&quot;We were in discussions with Structural Dynamics looking at ways to create greater shareholder value, better customer service and greater employee focus with our Metaphase joint venture, but those discussions have ended,&quot; said Control Data President Jim Ousley in a statement.</p>
+<p>Control Data said it decided to rely on its Rialto suite of integration tools, particularly the new Info*Engine product, with the Metaphase technology.</p>
+<p>Control Data said it won several new contracts in the last few weeks for Metaphase software and consulting services combined with the company's new Rialto Info-Engine product.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARDEN HILLS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

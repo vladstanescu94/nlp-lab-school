@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561654" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Alpha Bytes Inc year end net rises.</title>
+<headline>Alpha Bytes Inc year end net rises.</headline>
+<dateline>NIAGARA FALLS, N.Y. 1997-05-06</dateline>
+<text>
+<p>For The Year Ended Jan. 31,</p>
+<p>							 1997	   1996</p>
+<p> Revenues				     $1,381,100    $ 913,855</p>
+<p> Net earnings				    342,284	 80,313</p>
+<p> Net earnings per share			    .05	    .01</p>
+<p> Weighted average shares outstanding   7,413,002    7,135,002</p>
+<p>NOTE: The company said current year-end earnings increased due to growing acceptance of its specialized software for the vision care and hearing-aid markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIAGARA FALLS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

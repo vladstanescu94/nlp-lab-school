@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="398293" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: XcelleNet files for 1.5 million shares.</title>
+<headline>XcelleNet files for 1.5 million shares.</headline>
+<dateline>WASHINGTON 1997-02-24</dateline>
+<text>
+<p>XcelleNet Inc filed Monday with the Securities and Exchange Commission to sell up to 1.5 million common shares.</p>
+<p>Of the total, 655,953 common shares will be offered by the company and 844,047 common will be sold by selling shareholders. After the offering, outstanding shares will 8,130,325 common.</p>
+<p>The company has granted the underwriters a 30-day over-allotment option to purchase up to 225,000 additional common. The offering will be made through Robertson, Stephens &amp; Co, Alex. Brown &amp; Sons Inc and Punk, Ziegel &amp; Knoell.</p>
+<p>Selling shareholders include Motorola Inc with 731,047 common for sale and Dennis Crumpler, co-founder of the company and chairman of the board (Corrects to make clear that Crumpler is still chairman of XcelleNet), with an offer of 100,000 common shares.</p>
+<p>Net proceeds will be used for working capital and general corporate purposes including potential acquisitions.</p>
+<p>XcelleNet, based in Atlanta, Ga., develops, markets and supports software utilities that improve the manageability and enhance the performance of remote access computng for users who routinely work offline and periodically dial in to enterprise systems to exchange or synchronize information.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

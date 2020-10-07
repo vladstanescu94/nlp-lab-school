@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="539903" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: JDA Software Q1 shr $0.18 vs $0.13.</title>
+<headline>JDA Software Q1 shr $0.18 vs $0.13.</headline>
+<text>
+<p>PHOENIX, April 24 (Reuter)</p>
+<p>		 JDA Software Group Inc. and Subsidiaries</p>
+<p>		  Consolidated Condensed Statements of Income</p>
+<p>	     (in thousands, except per share data; unaudited)</p>
+<p>						   Three Months Ended</p>
+<p>					     March 31,	  March 31,</p>
+<p>						 1997		 1996</p>
+<p>REVENUES:</p>
+<p> Software licenses			$7,866	     $5,013</p>
+<p>Consulting, maintenance and</p>
+<p>  other services			   8,978		4,391</p>
+<p>	    Total revenues		16,844		9,404</p>
+<p>COST OF REVENUES:</p>
+<p> Software licenses			   200		   25</p>
+<p>Consulting, maintenance and</p>
+<p>  other services			   6,704		2,958</p>
+<p>	    Total cost of revenues     6,904		2,983</p>
+<p>GROSS PROFIT				 9,940		6,421</p>
+<p>OPERATING EXPENSES:</p>
+<p> Product development		     2,235		1,220</p>
+<p> Sales and marketing		     2,517		1,628</p>
+<p> General and administrative	    1,689		1,140</p>
+<p>	    Total operating expenses   6,441		3,988</p>
+<p>INCOME FROM OPERATIONS		   3,499		2,433</p>
+<p> Other income (expense)		    356		  (65)</p>
+<p>INCOME BEFORE INCOME TAXES	     3,855		2,368</p>
+<p> Provision for income taxes	    1,542		  941</p>
+<p>NET INCOME				  $2,313	     $1,427</p>
+<p>NET INCOME PER SHARE		     $0.18		$0.13</p>
+<p>SHARES USED IN PER SHARE</p>
+<p> CALCULATION:			     13,007	     11,182</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

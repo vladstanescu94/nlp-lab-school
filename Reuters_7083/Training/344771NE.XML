@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344771" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: Caere Corp Q4 loss.</title>
+<headline>Caere Corp Q4 loss.</headline>
+<dateline>LOS GATOS, Calif. 1997-01-29</dateline>
+<text>
+<p>(In thousands except per share data)</p>
+<p>					 Quarter Ended    Year Ended</p>
+<p>					 December 31,    December 31,</p>
+<p>					   1996    1995    1996    1995</p>
+<p> Net revenues		     $13,580 $13,486 $54,528 $51,939</p>
+<p> Cost of revenues		   3,428   4,817  16,473  17,084</p>
+<p>					 10,152   8,669  38,055  34,855</p>
+<p>Operating expenses:</p>
+<p>  Research and development	1,794   1,732   7,069   7,915</p>
+<p>Selling, general and administrative</p>
+<p>					  6,606   6,166  26,103  24,892</p>
+<p>  Merger related costs		 --   1,090	90   1,387</p>
+<p>In-process research and development</p>
+<p>					  4,373	--   4,373	--</p>
+<p>					 12,773   8,988  37,635  34,194</p>
+<p>  Operating earnings (loss)   (2,621)   (319)     420     661</p>
+<p> Interest income, net		 588     588   2,692   2,159</p>
+<p>Writedown of investment in ZyLAB</p>
+<p>  International		   (2,616)	--  (2,616)     --</p>
+<p>Earnings (loss) before income taxes</p>
+<p>					(4,649)     269     496   2,820</p>
+<p> Income tax expense (benefit)   (747)	41     100     423</p>
+<p>  Net earnings (loss)	  ( 3,902)     228     396   2,397</p>
+<p>Net earnings (loss) per common share</p>
+<p>					( 0.31)    0.02    0.03    0.18</p>
+<p>Shares used in per share calculation</p>
+<p>					 12,596  13,456  13,319  13,538</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS GATOS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

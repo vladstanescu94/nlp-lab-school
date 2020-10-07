@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249982" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS - Issues to watch - Dec 11.</title>
+<headline>U.S. HEADLINE STOCKS - Issues to watch - Dec 11.</headline>
+<dateline>NEW YORK 1996-12-11</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>* Rock-Tenn Co said its fiscal first quarter sales and net income will be significantly below year-ago levels, reflecting an earlier than expected seasonal slowdown in shipments. Rock-Tenn shares closed at 23 Tuesday.</p>
+<p>* HMT Technology Corp said its revenues and earnings for the quarter ended December 31 will be below consensus expectations because of lower than anticipated shipments to one of its customers. Shares closed at 15-7/8.  </p>
+<p>* Autodesk Inc and Softdesk Inc said they had agreed to merge in a stock swap worth about $12 per share to Softdesk shareholders. Autodesk said it would issue about 0.44 share for each Softdesk share. Autodesk closed at 26-5/8 and Softdesk closed at 9-3/4.  </p>
+<p>* Maxis Inc said its results for the fiscal third quarter will be below analysts' estimates because of lower than expected affiliate revenues and a delay in the introduction of its SimCopter game. Shares closed at 15.</p>
+<p>* Springs Industries Inc said its fourth quarter results would be below expectations and below year-ago levels, due in part to lower than expected shipments.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

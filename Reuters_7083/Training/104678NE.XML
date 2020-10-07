@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104678" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Micro Warehouse faces class action suit.</title>
+<headline>Micro Warehouse faces class action suit.</headline>
+<dateline>PHILADELPHIA 1996-10-09</dateline>
+<text>
+<p>Micro Warehouse Inc shareholders filed a class action suit against the company, alleging Micro Warehouse misrepresented material facts related to its financial condition, the plaintiff's lawyers said on Wednesday.</p>
+<p>The lawyers said the suit, named &quot;Haddad v. Micro Warehouse Inc, et al,&quot; alleged the company and some of its directors misrepresented or omitted facts about its financial condition which artificially inflated the stock price.  </p>
+<p>The company was not immediately available to comment on the latest class action suit.</p>
+<p>Micro Warehouse said on September 30 it would likely restate its financial results for its 1994 and 1995 fiscal years after finding errors in its accounting procedures.</p>
+<p>Plaintiffs were represented by several law firms including Savett Frutkin Podell &amp; Ryan P.C. The suit was filed in the U.S. District Court in Connecticut, they said.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

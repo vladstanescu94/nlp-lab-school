@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574502" id="root" date="1997-05-11" xml:lang="en">
+<title>USA: Quote.com unveils live charts and quote portfolios.</title>
+<headline>Quote.com unveils live charts and quote portfolios.</headline>
+<byline>Samuel Perry</byline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-05-11</dateline>
+<text>
+<p>Quote.com executives said they will Monday unveil the first of a series of innovations aimed at offering individual investors constantly updating price and chart data over the Web.</p>
+<p>Quote.com founder Chris Cooper said in an interview ahead of Monday's announcement that the new service, dubbed &quot;Quote.com LIVE!&quot; contains live, continuously updating quotes and graphics over the Internet.</p>
+<p>The company, founded in 1993, bills itself as a leading supplier of information to affluent investors using the Internet for research and trading.  </p>
+<p>It hopes the new display features will attract new customers and third party deals.</p>
+<p>To their knowledge, Quote.com executives said the service will be the first to employ Java technology for updating securites quotes over the Internet for a variety of different computers systems. Java was developed by Sun Microsystems Inc..</p>
+<p>They said their LIVE! quotes and portfolios product will also support Microsoft Corp.'s ActiveX standard and involves so-called thin applications, or applets, which are less than 100,000 bytes in size.  </p>
+<p>Quote.com executives said they also plan to offer a LIVE! News product this summer, with continuously streaming live news updates on selected companies along with full text search and relevancy ranking of news materials.</p>
+<p>Thomas Henry, who took over as president and chief executive officer of the startup company in February, said revenues at Quote.com are roughly evenly split between individual accounts, advertising and sales through third party organizations, such as brokerages.  </p>
+<p>Quote.com claims roughly 200,000 registered users who subscribe directly to its services, and with its partners it estimates it reaches some one million of the 1.8 million serious investors who use the Internet.</p>
+<p>On average, these trade around 40 times a year and have investment assets averaging $1.2 million.</p>
+<p>Quote.com already offers quotes news and research at prices ranging roughly from $10 a month for basic service and delayed securities quotes to $100 a month for real-time price quotes and higher value news and research.  </p>
+<p>The new &quot;Live&quot; charts and portfolios will be offered on a sliding scale.</p>
+<p>For $10 a month, it wil offer two portfolios of U.S. and Canadian securities. For $100 a month, investors will be able to create a larger number of portfolios, also for U.S. and Canadian stocks.</p>
+<p>The company also plans to offer stock selection tools, aling with streaming mutual fund data, for example, later this summer, executives said.  </p>
+<p>Quote.com competes with Data Broadcasting Corp., Intuit Corp.'s Quicken Financial Network, PC Quote, Dow Jones Co.'s Wall Street Journal Interactive Edition, Microsoft's MSN and Bloomberg Personal in direct Internet services.</p>
+<p>Company executives said Quote.com has more extensive offerings than these competitors.</p>
+<p>The company also competes with worldwide news and information group Reuters Holdings Plc's Reality Online in the market for discount online brokerage firms and claims greater than 70 percent market share.</p>
+<p>Some firms, like Merrill Lynch &amp; Co. and the newly merged Morgan Stanley &amp; Co. Dean Witter Discover, which in December bought the San Francisco-based Lombard Securities online brokerage, are also building their own Internet sites.</p>
+<p>Quote.com recently received $5 million in second round funding from Highland Capital Partners, initial venture backer Sequoia Capital and Barra Inc. . ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

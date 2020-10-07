@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213349" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: DATAWATCH Corp Q4 net profit vs loss.</title>
+<headline>DATAWATCH Corp Q4 net profit vs loss.</headline>
+<dateline>WILMINGTON, Mass. 1996-11-25</dateline>
+<text>
+<p>Condensed Consolidated Statements of Operations</p>
+<p>		  Amounts in Thousands (except per share data)</p>
+<p>					    Three Months  Twelve Months</p>
+<p>						     Ended	Ended</p>
+<p>				     Sep 30, Sep 30,  Sep 30, Sep 30,</p>
+<p>					    1996 1995(A)   1996 1995(A)</p>
+<p> Net sales			    $7,698 $6,726 $30,022 $23,360</p>
+<p>Costs and expenses:</p>
+<p>  Cost of sales			1,070  1,118   4,516   3,809</p>
+<p>  Product development		  622    578   2,339   2,220</p>
+<p>Selling, general and administration</p>
+<p>					   5,695  5,221  22,039  17,650</p>
+<p> Income (loss) from operations     311  (191)   1,128   (319)</p>
+<p> Other					31    (9)     (3)    (12)</p>
+<p> Net income (loss)		     342  (200)   1,125   (331)</p>
+<p> Income (loss) per share	     .04  (.02)     .13   (.04)</p>
+<p>NOTE(A): Adjusted to reflect the March 1996 acquisition of WorkGroup Systems.  The acquisition has been accounted for as a pooling of interests.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

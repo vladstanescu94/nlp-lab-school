@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97205" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Aurum Software files to SEC for IPO in October.</title>
+<headline>Aurum Software files to SEC for IPO in October.</headline>
+<dateline>SANTA CLARA, Calif 1996-10-04</dateline>
+<text>
+<p>Aurum Software Inc said it had filed with the U.S. Securities and Exchange Commission a registration statement for a proposed initial public offering of 2.65 million shares of common stock.</p>
+<p>The company said the price range of the stock would be between $9.00 and $11.00 per share.</p>
+<p>The Alex Brown &amp; Sons Inc would be the lead managers of the offering with plans to make it in late October or early November, it added.</p>
+<p>The company said it would sell 2.5 million shares and shareholders would sell the remaining 150,000.</p>
+<p>It said it would use the proceeds of the offering for working capital and other general corporate purposes, including the repayment of debt.</p>
+<p>Aurum develops, markets and supports field sales automation, telemarketing, telesales and customer support functions of a business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146686" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: IMNET Systems Inc Q1 shr $0.14 vs $0.03.</title>
+<headline>IMNET Systems Inc Q1 shr $0.14 vs $0.03.</headline>
+<dateline>ATLANTA 1996-10-28</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>							Three Months Ended</p>
+<p>								Sept 30,</p>
+<p>							 1996	    1995</p>
+<p> Revenue					  $  9,959	$ 4,434</p>
+<p> Net Income				     1,396(a)	    256</p>
+<p>Net Income</p>
+<p>  Per Share					0.14(a)	   0.03</p>
+<p>Weighted Average</p>
+<p>  Outstanding Shares			     9,999	  8,122</p>
+<p>(a) Excludes a non-recurring charge of $750,000 ($0.07 per share) related to acquisition costs associated with the Hunter International Inc acquisition completed in the Company's first quarter of fiscal 1997 ended Sept. 30, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

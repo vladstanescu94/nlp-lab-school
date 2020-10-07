@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="542534" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: AFTER THE BELL - Boeing trades quietly.</title>
+<headline>AFTER THE BELL - Boeing trades quietly.</headline>
+<dateline>NEW YORK 1997-04-28</dateline>
+<text>
+<p>Boeing Co was trading quietly in a listless after-hours session, according to traders.</p>
+<p>&quot;Mondays are dead,&quot; one trader said.</p>
+<p>Boeing was trading at par with its close of 95-1/4 on the New York Stock Exchange. It ended regular hours trading down 6-3/4. Earlier Boeing reported disappointing first quarter earnings and warned that profit margins would be under pressure for the near term.  </p>
+<p>During the after-hours session, Boeing said the margin pressure was mainly due to its shift to newer aircraft models. It also said production could exceed 40 aircraft a month next year.</p>
+<p>Intel Corp was up 1/8 on its Nasdaq close of 146-3/8, while Microsoft Corp was also up 1/8 on a close of 114-7/8.</p>
+<p>The New York Stock Exchange said Monday session one had a volume of 88,800 shares against 26,100 on Friday. Session two had 1.96 million shares, compared with 1.9 million on Friday, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

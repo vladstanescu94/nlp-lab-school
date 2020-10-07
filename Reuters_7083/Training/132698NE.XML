@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132698" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Safeguard Scientifics Inc Q3 shr flat.</title>
+<headline>Safeguard Scientifics Inc Q3 shr flat.</headline>
+<dateline>WAYNE, Pa. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$0.15		    $0.15</p>
+<p> Shr diluted		 0.15		     0.13</p>
+<p> Net			  4,745		    4,705</p>
+<p> Sales		    515,338		  366,345</p>
+<p> Avg shrs primary	31,284		   30,844</p>
+<p> Avg shrs diluted	31,358		   30,954</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary		$0.43		    $0.41</p>
+<p> Shr diluted		 0.43		     0.37</p>
+<p> Net			 14,133		   13,007</p>
+<p> Sales		  1,472,877		1,080,076</p>
+<p> Avg shrs primary	31,245		   30,596</p>
+<p> Avg shrs diluted	31,343		   30,872</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WAYNE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

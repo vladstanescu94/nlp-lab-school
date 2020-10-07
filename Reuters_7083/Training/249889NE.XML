@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249889" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: RESEARCH ALERT - PaineWebber starts computer stocks.</title>
+<headline>RESEARCH ALERT - PaineWebber starts computer stocks.</headline>
+<text>
+<p>-- PaineWebber has started coverage of nine technology shares with ratings ranging from neutral to buy, a source at the brokerage said Wednesday.</p>
+<p>-- Compaq Computer Corp was rated buy.</p>
+<p>-- Inacom Corp was rated buy.</p>
+<p>-- Dell Computer Corp was rated attractive.</p>
+<p>-- Gateway 2000 Inc was rated attractive.</p>
+<p>-- Apple Computer Inc was rated neutral.  </p>
+<p>-- Novell Inc was rated neutral.</p>
+<p>-- Microsoft Corp was rated attractive.</p>
+<p>-- Tech Data Corp was rated attractive.</p>
+<p>-- MicroAge Inc was rated neutral. - Wall Street Desk (212) 859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

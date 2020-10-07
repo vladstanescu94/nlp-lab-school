@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148183" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Cadence to merge with Cooper &amp; Chyan.</title>
+<headline>Cadence to merge with Cooper &amp; Chyan.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-28</dateline>
+<text>
+<p>Cadence Design Systems Inc said on Monday that it had made a definitive agreement to merge with Cooper &amp; Chyan Technology Inc.</p>
+<p>Under the terms of the agreement, each outstanding share of Cooper will be exchanged for 0.85 share of Cadence. The merger is expected to be accounted for as a pooling of interests and is subject to regulatory and Cooper shareholder approval. Based on Cooper's 12.9 million shares outstanding on September 30, Cadence will issue about 11 million shares in the merger.</p>
+<p>Cadence Design Systems provides services and technology for the product development of electronics companies. Cadence supplies software tools and professional services used in the design of semiconductors, computer systems and a variety of other electronic-based products. Cooper is a provider of fast circuit interconnection software.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248231" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: INTERVIEW - Sybase CEO sees client confidence rise.</title>
+<headline>INTERVIEW - Sybase CEO sees client confidence rise.</headline>
+<byline>Susan Nadeau</byline>
+<dateline>CHICAGO 1996-12-11</dateline>
+<text>
+<p>Sybase Inc said Wednesday it has seen a rise in customer confidence in the company after reporting an operating profit last quarter.</p>
+<p>&quot;Since we reported third quarter results there has been an uptick,&quot; Mitchell Kertzman, chief executive of the database software and services provider, said in an interview. He was attending a trade show in Chicago.</p>
+<p>Previously, Kertzman has said that database sales lagged because of customers' doubts in the viability of the company rather than issues related to its products.  </p>
+<p>&quot;We've seen a definite improvement in that,&quot; Kertzman said. &quot;A turnaround doesn't happen in one quarter.&quot;</p>
+<p>Sybase, headquartered in Emeryville, California, has struggled to recover from a late product release and net losses, which came after years of strong growth.</p>
+<p>&quot;I don't believe there are any miracle cures for a turnaround,&quot; Kertzman said. &quot;The important thing is to make continual progress.&quot;</p>
+<p>Kertzman declined to comment on revenue and earnings for the current fourth quarter, as the company is in its &quot;quiet period&quot; ahead of its next earnings release.  </p>
+<p>According to First Call, the consensus of analysts' estimates is for a fourth quarter profit of $0.05 a share versus a profit of $0.08 a share a year ago. The earnings release is expected in mid-January.</p>
+<p>Sybase reported a third quarter operating profit of $0.01 a share after posting net losses in both the first and second quarters.  </p>
+<p>The next version of the company's SQL Server 11 is in the laboratory and about ready for testing. At the earliest, it will be shipped commercially in the second quarter of 1997, Kertzman said. But he said Sybase will hold the server until it meets the company's quality expectations.</p>
+<p>Sybase's current SQL Server 11, coupled with the Server Anywhere product, provided a majority of the company's database revenues.</p>
+<p>Sybase also said Wednesday that it launched Starbuck, a new development tool for Java, an Internet-specific programming language.</p>
+<p>Kertzman said the Java tool is just one of several upcoming releases to facilitate work on the Internet or in corporate intranets, which are based on the same format.</p>
+<p>&quot;I expect the Internet will be good for Sybase, and Sybase good for the Internet,&quot; Kertzman said.</p>
+<p>Sybase shares closed down 1/2 at 18-7/8 Wednesday.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

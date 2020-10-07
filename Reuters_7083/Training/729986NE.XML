@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="729986" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Dynamic Healthcare sees lower Q2 shr.</title>
+<headline>Dynamic Healthcare sees lower Q2 shr.</headline>
+<dateline>MAITLAND, Fla 1997-07-15</dateline>
+<text>
+<p>Dynamic Healthcare Technologies Inc said Tuesday it expected a second quarter loss of $0.10 a share on net revenues of about $7.54 million.</p>
+<p>The forecast compared with a loss of $0.02 a share on revenues of $4.0 million for the same period last year, the company said in a statement.</p>
+<p>First Call's consensus among analysts foresaw a profit of $0.05 a share for the 1997 quarter.</p>
+<p>&quot;The company believes that the shortfall for the quarter is due primarily to a delay in the signing of two significant contracts, expected to result in approximately $2.5 million of second quarter revenues, which are expected to be recognized in the third quarter 1997,&quot; it said. &quot;If these two deliveries had occurred during the second quarter, the operating results would have achieved analysts' expectations.&quot;</p>
+<p>Dynamic Healthcare said it was &quot;optimistic&quot; that it would achieve annual estimates for the year given the growth in its new systems backlog, current annualized recurring maintenance revenues, and late second quarter sales of its DynamicVision product.  Based in Maitland, Florida, Dynamic Healthcare Technologies makes computer networks that help manage healthcare information.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAITLAND, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

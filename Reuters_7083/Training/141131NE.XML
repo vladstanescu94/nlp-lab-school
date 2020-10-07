@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141131" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: RESEARCH ALERT - Hyperion Software upped.</title>
+<headline>RESEARCH ALERT - Hyperion Software upped.</headline>
+<text>
+<p>-- First Albany said it upgraded Hyperion Software Corp to buy from neutral.</p>
+<p>-- Raised Q4 earnings estimate to $0.11 from $0.09, FY97 to $0.82 from $0.77 and FY98 to $1.10 from $1.05.</p>
+<p>-- Set 12-month price target of $27 per share.</p>
+<p>-- In research note, firm said &quot;We believe there was enough evidence in recent quarter of accelerating license revenue growth to warrant the rating change.&quot;</p>
+<p>-- Shares rose 2-1/8 to 18.</p>
+<p>-- Wall Street desk, 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

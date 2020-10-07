@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699537" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Group 1 Software Q4 shr loss $0.51.</title>
+<headline>Group 1 Software Q4 shr loss $0.51.</headline>
+<dateline>LANHAM, Md. 1997-07-01</dateline>
+<text>
+<p>GROUP 1 SOFTWARE, INC.</p>
+<p>				 Statement of Earnings</p>
+<p>		     (in thousands, except per share data)</p>
+<p>						  (Unaudited)  (Audited)</p>
+<p>				Three-Months Ended  Fiscal Year Ended</p>
+<p>						March 31	 March 31</p>
+<p>					   1997    1996     1997   1996</p>
+<p> Revenue			    $16,139 $15,555 $54,550 $45,875</p>
+<p> Pretax Earnings		   (3,482)  2,623  (2,370)  5,778</p>
+<p> Net Earnings			(2,229)  1,713  (1,648)  3,701</p>
+<p>Earnings Per Share of Common Stock</p>
+<p>					  (0.51)   0.40   (0.38)   0.86</p>
+<p>Weighted Average Number of Common</p>
+<p>and Equivalent Shares outstanding</p>
+<p>					   4,308  4,304    4,308  4,304</p>
+<p>SOURCE  Group 1 Software</p>
+<p>-- New York Newsdesk 212 603-3310</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANHAM, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69812" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Timberline names Peltz Chief Oper Officer.</title>
+<headline>Timberline names Peltz Chief Oper Officer.</headline>
+<dateline>BEAVERTON, Ore. 1996-09-23</dateline>
+<text>
+<p>Timberline Software Corp Monday named Curtis Peltz to the newly-created post of chief operating officer.    In a statement, the company said</p>
+<p>Peltz will oversee the broad, day-to-day operations of the company. He will also work to improve Timberline's operational structures to better serve its markets and clients.</p>
+<p>Peltz will report directly to Timberline President and Chief Executive Officer John Gorman.</p>
+<p>Peltz has worked at Timberline for 18 years, most recently heading up Timberline's Precision Estimating division.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEAVERTON, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

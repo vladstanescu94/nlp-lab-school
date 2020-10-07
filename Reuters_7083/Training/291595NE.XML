@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291595" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Security Dynamics unit settles dispute.</title>
+<headline>Security Dynamics unit settles dispute.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-01-07</dateline>
+<text>
+<p>RSA Data Security Inc, a subsidiary of Security Dynamics Technologies Inc, and Cylink Corp said Tuesday they had settled all outstanding litigation between them.  </p>
+<p>The two companies said the settlement calls for Cylink to grant to RSA all necessary rights to Cylink's Stanford patents, and for RSA to grant to Cylink a license to RSA's cryptographic software toolkits.</p>
+<p>The companies said the settlement &quot;ends further prolongation of a legal dispute that has been costly and distracting.&quot;</p>
+<p>RSA said it is fulfilling its promise to customers to resolve disputes with Cylink.</p>
+<p>Cylink, under new management, is refocusing on providing end-to-end data security products and solutions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

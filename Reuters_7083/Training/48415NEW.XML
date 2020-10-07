@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48415" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: INTERVIEW - Oracle applications growth fell.</title>
+<headline>INTERVIEW - Oracle applications growth fell.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-09-12</dateline>
+<text>
+<p>Oracle Corp's sales of applications software grew only four percent in the first quarter -- almost halting from applications' torrid 90 percent growth in fiscal 1996, Oracle's chief financial officer said.</p>
+<p>But Jeff Henley, CFO, said the applications slowdown in the quarter ended August 31, was &quot;a blip&quot; that resulted from the pipeline of potential sales being washed out.</p>
+<p>&quot;We have now rebuilt the pipeline and our forecast looks strong for the second quarter -- more like we had last year,&quot; when Oracle applications sales grew 90 percent, he said.  </p>
+<p>Henley also said Oracle's first quarter is typically its slowest, largely because the sales force does an all out sales push in the fourth quarter, driven by compensation incentives that acclerate as a year progresses. In the first quarter, the incentives are less attractive.</p>
+<p>Oracle's 27 percent growth in license sales in the first quarter compared with 45 percent license sales growth in the previous fourth quarter. But Henley said the 27 percent was better than last year's first quarter of 25 percent growth.</p>
+<p>&quot;Typically, we tend to do better in license sales in the remaining three quarters and our believe is we will again.&quot;  </p>
+<p>Applications make up about 15 percent of Oracle's license sales, typically, with its core database software product constituting about 70 percent and development tools another 15 percent.</p>
+<p>He said tools sales as a group were flat in the first quarter, largely because of a transition going on in the industry to graphics based tools from character-based tools. Its graphic based tools grew strongly, however.</p>
+<p>Database license sales growth of 41 percent was better than usual, he said. But it was offset by the sharp slowdown in applications and tools.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

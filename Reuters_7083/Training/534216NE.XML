@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="534216" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Deltek Systems Inc Q1 full results.</title>
+<headline>Deltek Systems Inc Q1 full results.</headline>
+<dateline>MCLEAN, Va. 1997-04-24</dateline>
+<text>
+<p>(Amounts in thousands, except per share data)</p>
+<p>						     First Quarter ending</p>
+<p> Statement of Operations Data:		3/31/97     3/31/96</p>
+<p>Revenues:</p>
+<p> License fee					  $3,551     $2,880</p>
+<p> Services						6,575	4,363</p>
+<p> Third party equipment &amp; software		  412	  358</p>
+<p>   Total revenues				   10,538	7,601</p>
+<p>Costs and expenses:</p>
+<p> Cost of software					336	  364</p>
+<p> Cost of services				    2,557	1,885</p>
+<p> Cost of third party equipment &amp; software	340	  271</p>
+<p> Software development				2,253	1,440</p>
+<p> Sales and marketing				   910	  783</p>
+<p> General and administrative			  587	  516</p>
+<p>   Total operating expenses			6,983	5,259</p>
+<p> Income from operations			    3,555	2,342</p>
+<p> Interest income, net				   59	  104</p>
+<p> Income before income taxes			3,614	2,446</p>
+<p> Provision for income taxes			  546	  445</p>
+<p> Net income					    3,068	2,401</p>
+<p>Pro Forma Statement of Operations Data (Note 1):</p>
+<p> Income before taxes, as reported		3,614	2,446</p>
+<p> Provision for income taxes			1,428	  954</p>
+<p> Net income					    2,186	1,492</p>
+<p> Net income per share				 0.13	 0.10</p>
+<p> Weighted average shares outstanding	  16,297     15,549</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MCLEAN, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

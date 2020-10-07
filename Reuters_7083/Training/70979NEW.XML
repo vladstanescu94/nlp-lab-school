@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70979" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Informix rescinds stock repurchase offer.</title>
+<headline>Informix rescinds stock repurchase offer.</headline>
+<dateline>MENLO PARK, Calif. 1996-09-23</dateline>
+<text>
+<p>Informix Corp said on Monday it was rescinding a stock repurchase program.</p>
+<p>Informix said its board voted to rescind the program to comply with a Securities and Exchange Commission issuance affecting acquisitions that involve a pooling of interests or stock-for-stock transactions.</p>
+<p>In the past year Informix has bought Stanford Technology Group and Illustra Information Technologies through poolings of interest.  </p>
+<p>Informix said it had about 4.4 million shares authorized for repurchase before the buyback was cancelled.</p>
+<p>Informix Corp's subsidiary, Informix Software Inc, provides database technology for businesses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

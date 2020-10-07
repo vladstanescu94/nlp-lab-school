@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="586579" id="root" date="1997-05-15" xml:lang="en">
+<title>USA: PHLX to start trading eight new options.</title>
+<headline>PHLX to start trading eight new options.</headline>
+<dateline>PHILADELPHIA 1997-05-15</dateline>
+<text>
+<p>The Philadelphia Stock Exchange (PHLX) said Thursday it will begin trading options on seven stocks Friday and on another stock on Monday, May 19.</p>
+<p>The options that start trading tomorrow are on companies including Bemis Co Inc, CyberMedia Inc, Life Bancorp Inc, Newpark Resources Inc, Quality Dining Inc, StaffMark Inc and Standard Pacific Corp.</p>
+<p>Options on Microsemi Corp will begin trading May 19.</p>
+<p>The following table lists the stocks' ticker symbols and the options' strike prices, expiration months, position limits in number of contracts and specialist.  </p>
+<p>Ticker     Strikes	Expir	 Limits   Specialist</p>
+<p>--------------------------------------------------------------</p>
+<p>BMS.N	35, 40, 45   Jun, Jul,   4,500    Spear, Leeds &amp;</p>
+<p>				Oct, Jan		 Kellogg</p>
+<p>CYBR.O     12-1/2, 15,  Jun, Jul,   4,500    Group One Ltd</p>
+<p>	     17-1/2	 Aug, Nov</p>
+<p>LIFB.O     17-1/2, 22   Jun, Jul,   4,500    TFM Investment</p>
+<p>	     22-1/2	 Aug, Nov		 Group</p>
+<p>NR.N	 40, 45, 50   Jun, Jul,   4,500    Spear, Leeds &amp;</p>
+<p>				Oct, Jan		 Kellogg</p>
+<p>QDIN.0     5, 7-1/2,    Jun, Jul,   7,500    TFM Investment</p>
+<p>	     10	     Sep, Dec		 Group</p>
+<p>STAF.O     15, 17-1/2,  Jun, Jul,   4,500    TFM Investment</p>
+<p>	     20	     Oct, Jan		 Group</p>
+<p>SPF.N	7-1/2, 10,   Jun, Jul,   4,500    Spear, Leeds &amp;</p>
+<p>	     12-1/2	 Sep, Dec		 Kellogg</p>
+<p>MSCC.O     10, 12-1/2,  Jun, Jul,   4,500    Susquhanna</p>
+<p>	     15	     Sep, Dec		 Investment Group</p>
+<p>((--Derivatives desk, 312 408 8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I48300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

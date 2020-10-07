@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72034" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: IBM prices new OS/2 Warp at $249 and $149.</title>
+<headline>IBM prices new OS/2 Warp at $249 and $149.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-09-24</dateline>
+<text>
+<p>International Business Machines Corp has priced the newest version of its OS/2 Warp operating system at $249 for first time OS/2 users and $149 for those upgrading from previous versions, an executive said.</p>
+<p>IBM plans to launch OS/2 Warp version four on Tuesday, with availability from computer retail stores and computer resellers.</p>
+<p>John Howard, worldwide brand manager for OS/2 Warp, said he has heard that resellers plan a retail price of $189 for OS/2 Warp version four.  </p>
+<p>OS/2 Warp version 4 will feature built in voice recognition technology, and built-in support for the Java application development language for Internet applications.</p>
+<p>It also bundles in Netscape Communications Corp's Navigator browser for Internet use and Open Doc technology. IBM said it is the first operating system on the market with voice recognition and built in Java and Open Doc support.</p>
+<p>&quot;We think that is a pretty incredible price when you consider netscape navigator is in there as well as voice recognition. Voice recognition is typically a $700 add on,&quot; Howard said in an interview with Reuters.  </p>
+<p>IBM has struggled to increase its nine percent market share in the desktop operating system market, a struggle which puts it against Microsoft Corp's approximately 80 percent market share with Windows and makes it neck and neck for second place with Apple Computer Inc's Macintosh operating system.</p>
+<p>OS/2 Warp, because it is popular in the corporate desktop market, is positioned mostly against Microsoft's Windows NT operating system for corporate desktop networks.</p>
+<p>Windows NT's price is about $319 from retailers or resellers and $149 as an upgrade for existing Windows users.  </p>
+<p>&quot;We have a very loyal customer base made up mostly of medium and large enterprises,&quot; Howard said.</p>
+<p>Often OS/2 Warp users are operators of vast networks of PCs, like bank automated teller machine PCs, or airline reservation system PCs.</p>
+<p>&quot;Since 1992, we've shipped over 14 million copies of OS/2 Warp,&quot; Howard said.</p>
+<p>But IBM expects version four to accelerate shipments.</p>
+<p>&quot;We think the voice recognition features will really capture people's imagination, as will its tight integration with the Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

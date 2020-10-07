@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="539259" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: U.S. Commerce Dept plans encryption advisory panel.</title>
+<headline>U.S. Commerce Dept plans encryption advisory panel.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-04-25</dateline>
+<text>
+<p>U.S. Commerce Department is forming a committee to advise the department on its controversial computer encryption export policy, Commerce officials said on Friday.</p>
+<p>The committee, which will be called the President's Export Council Subcommittee on Encryption, will be composed of about 25 members, drawn from state and local law enforcement agencies and the private sector, according to Sue Eckert, Assistant Secretary of Commerce for Export Administration.  </p>
+<p>But the committee is not intended as a forum to debate the merits of the current export policy, Eckert told Reuters.</p>
+<p>&quot;This is not a debating forum towards policy in general,&quot; Eckert said in a telephone interview. &quot;It is the advisory group to provide input to implementation of our policy.&quot;</p>
+<p>Current law restricts the export of encryption technology, computer programs that scramble information and render it unreadable without a password or software &quot;key.&quot;  </p>
+<p>But many software companies, including Microsoft Corp and Netscape Communications Corp, oppose the export rules, which they say hamper sales abroad. And civil libertarians contend the export rules permit excessive governmental intrusions even within the United States.</p>
+<p>Under the current policy, in effect since the beginning of 1997, the Clinton administration permits companies to export powerful encryption programs but only if the products allow the government to crack the codes by gaining access to the software keys.  </p>
+<p>Companies can export medium-strength encryption if they promise to incorporate so-called key recovery features within two years.</p>
+<p>The committee is &quot;to advise on the range of issues of implementation of key recovery...not just the technical issues, but also law enforcement and access,&quot; Eckert said.</p>
+<p>The administration was criticized by privacy advocates last month for drafting legislation that might allow easy government access to software keys without a court order.  </p>
+<p>While emphasizing that the committee was intended for law enforcement and corporate officials, Eckert said no groups would be excluded.</p>
+<p>&quot;We haven't excluded anybody,&quot; she said. &quot;That's why we published a notice in the Federal Register and advised everyone and anyone who's interested to submit their comments and suggestions.&quot;  </p>
+<p>The members of the committee will be selected by the Secretary of Commerce &quot;to assure a balanced representation among the exporting community and those government agencies with a mandate to implement policy regarding encryption,&quot; the notice indicated.</p>
+<p>Eckert declined to predict when the committee would be appointed, but added &quot;hopefully within a period of a couple of months it will be up and established.&quot;  </p>
+<p>The administration will not wait for the committee to rejigger its export policy on several fronts, Eckert said. A modest revision of current export rules will be issued &quot;in a relatively short period,&quot; Eckert said, and a legislative proposal &quot;in the next several weeks.&quot;</p>
+<p>The advisory committee would have input on future revisions, Eckert said.</p>
+<p>Opponents of the current policy said on Friday they continued to favor a legislative solution. Several bills are pending in Congress that would dramatically relax the export limits.</p>
+<p>&quot;This subcommittee is not a bad thing, but it does not change the nature of the debate,&quot; Business Software Alliance spokeswoman Kim Willard said. &quot;We still favor legislation.&quot;</p>
+<p>((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

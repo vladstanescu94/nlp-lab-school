@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297958" id="root" date="1997-01-09" xml:lang="en">
+<title>SINGAPORE: Creative says Intel MMX chip no threat.</title>
+<headline>Creative says Intel MMX chip no threat.</headline>
+<dateline>SINGAPORE 1997-01-09</dateline>
+<text>
+<p>Multimedia company Creative Technology said on Thursday Intel Corp's newly launched Pentium MMX processor would not damage sales of its Sound Blaster card.</p>
+<p>Analysts have expressed concern that the MMX, a chip launched on Wednesday which supports multimedia functions, including voice and audio data processing, would threaten Creative's Sound Blaster.</p>
+<p>&quot;The myth of MMX replacing the sound card or chip is simply unfounded,&quot; Creative said in a statement.</p>
+<p>&quot;The quality of the MMX music will not be able to match the advanced dedicated music synthesis AWE32 and AWE64 chips on Creative's Sound Blaster audio products.</p>
+<p>&quot;In addition, Creative's Sound Blaster remains the industry standard and Creative maintains backward compatibility across its entire product line,&quot; it said.</p>
+<p>But Creative said it supported the MMX technology.</p>
+<p>It said videoconferencing was a particualrly promising area in which MMX and Creative's technologies could enhance each other.  </p>
+<p>&quot;Many of the MMX instructions are designed specifically to accelerate video compression and this will help Creative's coming videoconferencing products to perform even better,&quot; it said.</p>
+<p>Creative said MMX alone would not deliver the 3D quality and performance users and game developers have come to expect. But when combined with dedicated graphics cards such as Creative's 3D Blaster PCI, the quality of graphics would be further improved.</p>
+<p>--Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

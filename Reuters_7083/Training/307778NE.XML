@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="307778" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: Mentor Graphics names Gregory Hinkley CFO.</title>
+<headline>Mentor Graphics names Gregory Hinkley CFO.</headline>
+<dateline>WILSONVILLE, Ore. 1997-01-15</dateline>
+<text>
+<p>Mentor Graphics Corp said Wednesday it has appointed Gregory Hinckley as chief financial officer and chief operating officer.</p>
+<p>Hinckley was formerly the chief financial officer of VLSI Technology Inc. He replaces Doug Norby who left the company in November.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILSONVILLE, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

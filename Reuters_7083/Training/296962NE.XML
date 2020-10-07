@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="296962" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: Compulink files suit against Ricoh unit.</title>
+<headline>Compulink files suit against Ricoh unit.</headline>
+<dateline>TORRANCE, Calif. 1997-01-09</dateline>
+<text>
+<p>Compulink Management Center Inc Thursday said it had filed suit in Los Angeles federal court against the U.S. subsidiary of Ricoh Corp and other third parties, alleging operation of a misappropriation scheme that could cost Compulink more than $50 million.</p>
+<p>The suit alleges illegal use of trade secrets and copyright infringement relating to Compulink's LaserFiche system of electronic document imaging, storage and retrieval.  </p>
+<p>Last year Ricoh and Compulink entered into an agreement to license the LaserFiche system for incorporation into a new product to be distributed worldwide under the Ricoh name, Compulink said.</p>
+<p>However, Compulink said Ricoh had entered into a similar arrangement with a small development company headed by a former employee of a Compulink system reseller and also involving a former Compulink sales executive -- both of whom had access to the company's confidential information.</p>
+<p>The suit asks the court for unspecified compensatory and punitive damages, plus legal fees, to be levied against Ricoh, Data Access Technologies, Tom McCotter, DATech's president and the former reseller, and Gregg Schaeberle, the former Compulink sales executive.</p>
+<p>The suit also seeks an injunction to stop the DATech-Ricoh development project immediately and a search of the group's records and software for evidence of misappropriated data.</p>
+<p>Ricoh could not be reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORRANCE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

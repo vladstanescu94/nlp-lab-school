@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170357" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Scopus Tech to sell 2 mln common shares.</title>
+<headline>Scopus Tech to sell 2 mln common shares.</headline>
+<dateline>WASHINGTON 1996-11-06</dateline>
+<text>
+<p>Scopus Technology Inc said Wednesday it filed a registration with the Securities and Exchange Commission to sell up to two million common shares.</p>
+<p>Of the total, one million will be sold by the company and one million will be offered by certain selling shareholders, the filing said. After the offering, outstanding shares will total 12,926,521 common.  </p>
+<p>The underwriters have been granted an over-allotment option of up to 300,000 common shares. The offering will be made through Morgan Stanley &amp; Co, Montgomery Securities, Donald Lufkin &amp; Jenrette Securities Corp and UBS Securities.</p>
+<p>The company said proceeds will be used for general corporate purposes, including working capital.</p>
+<p>The selling shareholders include the brothers Ori Sasson, Aaron Omid, Sharam Sasson and Bahram Nour-Omid, it said.</p>
+<p>Scopus, of Emeryville, Calif., is a provider of client/server software solutions for the customer information management market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

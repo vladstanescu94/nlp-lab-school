@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214424" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Computer Associates to own Africa venture.</title>
+<headline>Computer Associates to own Africa venture.</headline>
+<dateline>NEW YORK 1996-11-25</dateline>
+<text>
+<p>Software maker Computer Associates International Inc. said Monday it agreed to acquire South African computer company Dimension Data Group's share of their joint software distribution and servicing venture in sub-Saharan Africa.</p>
+<p>The purchase price was not disclosed.</p>
+<p>Computer Associates Africa, based in Johannesburg, South Africa, will become a wholly owned Computer Associates subsidiary, the company said in a statement.</p>
+<p>A Computer Associates spokesman said the company was retaking full control of its distribution operations in South Africa due to the change in political climate that has occurred with the arrival of majority rule in that country.</p>
+<p>Computer Associates, based in Islandia, N.Y., is the world's leading independent supplier of software used to run mainframe computers and a newer generation of personal computer-based network software.</p>
+<p>Computer Associates and Data Dimensions had previously restructured the local distribution, licensing and servicing of Computer Associates software, which had been distributed by Compusons Pty. Ltd. for the last decade.</p>
+<p>Dimension Data, a leading South African computer services company, bought its interest in Compusons in 1995.</p>
+<p>As part of the latest deal, Dimension Data will become one of a handful of major providers for Computer Associates business software operations in Africa.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

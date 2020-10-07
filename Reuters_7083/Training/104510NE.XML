@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104510" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Broderbund Q4 loss vs profit.</title>
+<headline>Broderbund Q4 loss vs profit.</headline>
+<dateline>NOVATO, Calif. 1996-10-09</dateline>
+<text>
+<p>BRODERBUND SOFTWARE, INC.</p>
+<p>		  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>			(In thousands, except per share data)</p>
+<p>				(Unaudited)</p>
+<p>				  Three months ended    Year ended</p>
+<p>					August 31,	  August 31,</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net revenues		  $32,209  $37,183 $186,207 $171,594</p>
+<p> Cost of revenues		8,302   10,982   58,544   61,092</p>
+<p> Gross margin		   23,907   26,201  127,663  110,502</p>
+<p>Operating expenses:</p>
+<p>  Sales and marketing	  7,541    6,098   34,381   25,143</p>
+<p>  Research and development   7,473    7,107   29,244   22,784</p>
+<p>General and administrative</p>
+<p>				     2,535    2,776   11,256   11,085</p>
+<p>Total operating expenses</p>
+<p>				    17,549   15,981   74,881   59,012</p>
+<p> Income from operations	6,358   10,220   52,782   51,490</p>
+<p>Interest and dividend</p>
+<p>  income, net		    1,586    1,408    6,499    6,364</p>
+<p>Terminated merger revenue,</p>
+<p>  net				   --	 --   15,464	 --</p>
+<p>Equity in earnings of joint</p>
+<p>  venture			(1,074)	707	217    3,886</p>
+<p>In-process technology</p>
+<p>  charge			 (8,369)	 --  (8,369)	 --</p>
+<p>Income (loss) before</p>
+<p>  income taxes		 (1,499)   12,335   66,593   61,740</p>
+<p> Provision for income taxes  2,679    5,143   29,816   25,553</p>
+<p> Net income (loss)	   (4,178)    7,192   36,777   36,187</p>
+<p>Net income (loss)</p>
+<p>  per share		     (0.20)     0.33     1.71     1.72</p>
+<p>Shares used in computing</p>
+<p>  per share data		20,680   21,679   21,509   21,037</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

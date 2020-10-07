@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="538405" id="root" date="1997-04-25" xml:lang="en">
+<title>ESTONIA: PENNU TO DISTRIBUTE NOVELL OEM.</title>
+<headline>PENNU TO DISTRIBUTE NOVELL OEM.</headline>
+<dateline>TALLINN 1997-04-25</dateline>
+<text>
+<p>Pennu computer technology (PCT) said on Friday it was now the distributer for Novell OEM network products in the Baltic states.</p>
+<p>The agreement makes Gennet Lab and PCT the approved representatives for Novell OEM in the three counties, Pennu said in a statement.</p>
+<p>PCT is listed on the secondary market of the Tallinn stock exchange and is the second largest computer assembler in Estonia with sales to Lativa, Lithuania, Finland and Sweden.</p>
+<p>--Tallinn newsroom +372 630 8400 reuters@reuters.ee</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

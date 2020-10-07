@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718282" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Formulab Neuronetics names chief executive.</title>
+<headline>Formulab Neuronetics names chief executive.</headline>
+<dateline>SAN JOSE, Calif. 1997-07-10</dateline>
+<text>
+<p>Formulab Neuronetics Corp Thursday said it appointed Dr Robert Lee as president and chief executive.</p>
+<p>Lee was also named president and chief executive of the company's U.S. subsidiary Richter Paradigm Corp.</p>
+<p>Lee takes over from company founder Anthony John Richter who continues as FNC's Executive Chairman. Richter will focus on the long-term future direction of Neuronetics technology.</p>
+<p>Until recently Lee was chairman, chief executive and president at software company Insignia Solutions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

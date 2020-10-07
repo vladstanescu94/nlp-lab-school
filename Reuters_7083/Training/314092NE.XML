@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="314092" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: INTERVIEW - Starbase Corp.</title>
+<headline>INTERVIEW - Starbase Corp.</headline>
+<byline>Mark Egan</byline>
+<dateline>LOS ANGELES 1997-01-17</dateline>
+<text>
+<p>Chairman William Stow of software maker Starbase Corp said Friday the company expects to report a loss for the third quarter ended in December but hopes to be profitable in fiscal 1998.  </p>
+<p>In an interview with Reuters, Stow said the Irvine, Calif.-based company expects to post a third quarter loss of $1.25 million to $1.3 million or about $0.10 a share on revenues in the range of $375,000 to $400,000.</p>
+<p>This compares with a loss of $1.047 million or $0.13 a share in the year-ago period on revenues of $15,000.</p>
+<p>Starbase will release its earnings on Tuesday of next week.  </p>
+<p>For the nine months the company expects a loss of between $3.8 million to $4.0 million or about $0.32 a share on revenues of $750,000 to $775,000, Stow said.</p>
+<p>For the same nine months in the previous year the company had revenues of $728,000 and a net loss of $4.537 million or $0.65 a share.</p>
+<p>Year-ago results are not comparable with those for the latest fiscal year, since the the company has discontinued its consulting business and become a software maker.  </p>
+<p>Starbase was formed in November 1991 when it was spun-off from Borland International Inc and began operations in April of 1992. Its flagship product StarTeam 2.0 was released in August, 1996 and the company has spent the past six months negotiating bundling agreements with other software makers.</p>
+<p>Stow said his &quot;conservative&quot; fiscal 1998 estimate is to break-even on $7.1 million of revenues but he said he is &quot;confident we'll beat that number&quot; because the company is increasing its sales force to meet growing demand.  </p>
+<p>StarTeam has signed a joint-marketing agreement with Symantec Corp and has forged alliances with Asymetrix Corp and Oracle Corp.</p>
+<p>&quot;The real importance of those alliances ... is that if they bundle our configuration management component of StarTeam with all of their products we will become the standard for configuration management because our product will be with every single programmer tool going out giving them the ability to upgrade to StarTeam,&quot; Stow said.</p>
+<p>&quot;If that strategy works we'll have a lot of upside.&quot;  </p>
+<p>Stow said the company plans to be the leader in the niche market for PC Network Software Configuration Management. He estimates the market is worth some $300 million annually and conservatively predicts a market share of 15 percent. He said he hopes to reach a 40 percent market share over a three year period. That would put revenues in three years at somewhere between $45 million and $120 million.</p>
+<p>The StarTeam products help computer programmers work together as a team in a coherent fashion. The program allows them to keep track of thousands of parts and different versions of projects they are working.  </p>
+<p>The system also has a &quot;threaded conversation&quot; feature that operates similar to a chat room and allows remote access via the Internet.</p>
+<p>&quot;Programmers by nature are not very verbal or interactive people, they like to sit in front of their computers and they like coding but they are not so apt to go down the hall and talk to another person,&quot; Stow said.</p>
+<p>Products like Delphi from Borland International or Microsoft Corp's Visual C++ increase individual programmers productivity while StarTeam helps those programmers work as a team, Stow said.</p>
+<p>Stow said he plans to expand the potential market for Starbase by targeting not just computer programmers but other professions where people have to work in teams such as lawyers and accountants.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

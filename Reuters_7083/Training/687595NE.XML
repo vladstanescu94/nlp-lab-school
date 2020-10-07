@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="687595" id="root" date="1997-06-25" xml:lang="en">
+<title>UK: UK internet firm can access Reuters data - FT.</title>
+<headline>UK internet firm can access Reuters data - FT.</headline>
+<dateline>LONDON 1997-06-25</dateline>
+<text>
+<p>UK internet company Display.IT has developed software which allows users to access Reuters Holdings Plc data without directly connecting to Reuters' proprietary network, the Financial Times reported on Wednesday.</p>
+<p>The report said at least one investment bank was testing the system.</p>
+<p>&quot;We have no agreement with this company for the display of Reuters data,&quot; the FT quoted Reuters as saying. &quot;It is therefore difficult to imagine how the company can disseminate our proprietary data.&quot;</p>
+<p>The newspaper said buyers of Display.IT software would still have to pay for data from Reuters but would be able to bypass Reuters hardware more easily.</p>
+<p>As well as supplying price data, news and transaction services, Reuters also markets trading room systems.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185015" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Eltrax to sell health cards business.</title>
+<headline>Eltrax to sell health cards business.</headline>
+<dateline>ST. PAUL, Minn. 1996-11-13</dateline>
+<text>
+<p>Eltrax Systems Inc said on Wednesday it signed a letter of intent to sell the assets used in its health card business to EMX LLC of New York.</p>
+<p>Terms were not disclosed, but the company said the transaction would have no significant impact on its balance sheet.</p>
+<p>The company said the health card business was the major business of Eltrax last year, but currently accounts for one percent of its revenues. During 1996, Eltrax has expanded into the data communications network systems and service field through its acquisition in May of Datatech and its October merger with Atlantic Networks Systems.</p>
+<p>In February, Eltrax sold its imaging business.</p>
+<p>&quot;We are pleased to announce this disposition of assets,&quot; said president Mack Traynor III. &quot;The health card business was not only a drag on the performance of our newer data communications networking businesses, but it was a significant distraction for management. With the completion of this transaction, we will now be able to focus our full attention on our core data communications network systems and services businesses and other potential acquisitions.&quot;</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

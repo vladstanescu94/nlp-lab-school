@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245391" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Xerox forms software development unit.</title>
+<headline>Xerox forms software development unit.</headline>
+<dateline>NEW YORK 1996-12-10</dateline>
+<text>
+<p>Xerox New Enterprises, a unit of Xerox Corp, Tuesday said it has formed InXight Software Inc, a software development firm.</p>
+<p>Xerox said the launch of InXight is the final step in restructuring its XSoft software document firm into three autonomous companies, each focused on its own core business. In May, Xerox created InConcert and Chrystal, which operate independently in separate segments of the technology market. In a statement, Mohan Trikha, InXight's president said, &quot;Our charter is to take advanced technologies in the area of natural language software and user interface research, and implement them as leadership products that bring intelligent information access capabilities to our customers' software applications.&quot;</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632696" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: FOCUS - Tech stocks plunge on earnings warnings.</title>
+<headline>FOCUS - Tech stocks plunge on earnings warnings.</headline>
+<byline>Patricia Willens</byline>
+<dateline>NEW YORK 1997-06-03</dateline>
+<text>
+<p>Technology stocks tumbled Tuesday after two more high-tech companies issued warnings about earnings, sparking fears of a broad slowdown in the personal computer industry.</p>
+<p>&quot;There is some concern in general about the health of the PC industry and it's just started to show up ... and more and more people are getting concerned,&quot; Gruntal &amp; Co. analyst David Takata said.</p>
+<p>The technology-heavy Nasdaq composite index lost 19.88 points to 1,384.91, led by heavy volume in Intel Corp, which warned on Friday that second-quarter earnings would not meet expectations on Wall Street, largely because of weakness in Europe.</p>
+<p>Two more warnings after the market closed on Monday unnerved the market. Seagate Technology Inc, a maker of disk drives, and Cabletron Systems Inc, a maker of computer network equipment, both said their earnings may be weaker than expected.</p>
+<p>Cabletron's stock lost a third of its value Tuesday, falling $15.50 to $30.25 on the New York Stock Exchange, where more than 25.8 million shares changed hands in consolidated trading, making it the most active issue and the biggest loser of the session.</p>
+<p>Seagate lost $3.625 to $38.75, also on the NYSE.</p>
+<p>&quot;It looks like there is some overall slowdown and whatever it is, it's magnified in Europe,&quot; said David Wu of ABN/Amro. &quot;If it was just a product transition, why should Europe be the weakest? They are always the last to move to new products.&quot;</p>
+<p>Ashok Kumar at Southcoast Capital Corp. said the retreat from the sector was probably temporary, noting the stocks have had a strong run in recent weeks.</p>
+<p>&quot;It just was a confluence of all the factors. To begin with, it is a traditionally weak season and (tech stocks) have had a good run of it. The safest thing to do is to step back and wait for the dust to settle,&quot; Kumar said.</p>
+<p>The two men hardest hit by the sell-off were Cabletron Chairman Craig Benson and Chief Executive Robert Levine, the company's co-founders, who jointly own 25 percent of its stock. The drop cost them each about $250 million in share value.</p>
+<p>The sell-off quickly spread across the high-tech sector. Even companies that have said sales and profits look good -- such as Compaq Computer Corp. -- took a beating.</p>
+<p>Compaq tumbled $7.625 to $100, Dell Computer Corp shed $5.25 to $108.125, Microsoft Corp. lost $3.625 to $120.75 on Nasdaq and International Business Machines Corp fell $2.75  to $84.375.</p>
+<p>The warnings fueled fears the PC market may be slowing, particularly overseas. But Compaq, the world's largest personal computer maker, said last week it had a strong April and May and demand in Europe was robust.</p>
+<p>Seagate Chairman Al Shugard said in an interview on Monday that he saw no weakness in PCs and that demand still was outstripping supply for PC disk drives.</p>
+<p>David Kirkpatrick, Cabletron's chief financial officer, said in an interview Tuesday that concerns over the upcoming quarter were linked to Europe. &quot;We tend to typify our summer quarter as slowest, especially for Europe,&quot; he said. &quot;Coming off a short quarter, we are especially cautious.&quot;</p>
+<p>Asked if the problems were industrywide or specific to Cabletron, Kirkpatrick said he could not say.</p>
+<p>European economies are generally not as strong as the U.S. economy, and many countries are tightening their belts to qualify for the planned single European currency.</p>
+<p>For its part, Intel officials told analysts Tuesday it was too early to say if the weakness in European sales would translate to a broader industry slowdown, analysts said.</p>
+<p>Andrew Neff at Bear Stearns &amp; Co. said much of Tuesday's drop was just jitters among high-tech investors. &quot;It's broad technology weakness,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

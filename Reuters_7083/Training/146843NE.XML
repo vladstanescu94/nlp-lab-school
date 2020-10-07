@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146843" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Maxis Inc Q2 loss vs profit.</title>
+<headline>Maxis Inc Q2 loss vs profit.</headline>
+<dateline>WALNUT CREEK, Calif. 1996-10-28</dateline>
+<text>
+<p>Consolidated Statements of Income</p>
+<p>			 (In thousands, except per share data)</p>
+<p>				 (Unaudited)</p>
+<p>					Quarter Ended  Six Months Ended</p>
+<p>					   Sept 30,	   Sept. 30,</p>
+<p>					  1996    1995     1996    1995</p>
+<p> Net revenues		     $8,004 $11,779  $16,112 $23,111</p>
+<p>   Costs of revenues	     3,563   3,243    6,543   6,833</p>
+<p> Gross profit			4,441   8,536    9,569  16,278</p>
+<p>Operating expenses:</p>
+<p>   Research and development    3,091   2,159    5,876   3,956</p>
+<p>   Sales and marketing	   3,586   2,866    7,207   5,770</p>
+<p>   General and administrative  2,197   1,168    3,657   2,608</p>
+<p> Total operating expenses	8,874   6,193   16,740  12,334</p>
+<p>Income (loss) from operations</p>
+<p>				     (4,433)   2,343  (7,171)   3,944</p>
+<p> Interest income		     374     435	808     630</p>
+<p>Income (loss) from operations</p>
+<p>   before taxes		  (4,059)   2,778  (6,363)   4,574</p>
+<p>Provision (benefit) for income</p>
+<p>  taxes			    (1,563)   1,056  (2,451)   1,720</p>
+<p> Net income (loss)	    ( 2,496)   1,722  ( 3,912)  2,854</p>
+<p> Net income (loss) per share  ( .22)     .15   ( .35)     .27</p>
+<p>Shares used in per share</p>
+<p>  calculations		    11,209  11,453   11,126  10,628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALNUT CREEK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

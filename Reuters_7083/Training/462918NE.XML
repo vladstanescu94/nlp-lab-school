@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462918" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: Persistence Software in Morgan Stanley deal.</title>
+<headline>Persistence Software in Morgan Stanley deal.</headline>
+<dateline>NEW YORK 1997-03-24</dateline>
+<text>
+<p>Persistence Software Inc said on Monday it signed a $3.65 million agreement with Morgan Stanley &amp; Co Inc to use Persistence technology in the investment bank's computer systems for trading, portfolio management and risk management.</p>
+<p>The Persistence Live Object Cache technology will be used in computer systems by Morgan Stanley traders and salesmen worldwide, the software company said.</p>
+<p>As part of the deal, Persistence will license Morgan Stanley's Object Filter event-notification technology, and incorporate it into future product releases.</p>
+<p>Persistence, based in San Mateo, Calif., provides products for companies building large-scale systems that must access existing business data stored in interrelated databases.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="591357" id="root" date="1997-05-16" xml:lang="en">
+<title>USA: Philippine, Oracle officials sign networking plan.</title>
+<headline>Philippine, Oracle officials sign networking plan.</headline>
+<dateline>SAN FRANCISCO 1997-05-15</dateline>
+<text>
+<p>Philippine President Fidel Ramos met with software giant Oracle Corp. executives on Thursday to help secure a computer networking deal he said would move his nation &quot;towards the Information Age.&quot;</p>
+<p>Network computers, or NCs, are stripped-down computers that get their computing horsepower from corporate or public computer networks, such as the Internet.</p>
+<p>Oracle Chairman Larry Ellison, who runs the second-largest software company in the United States after Microsoft Corp., has been pitching the relatively cheap devices as the perfect way for less developed nations to spread computer literacy.</p>
+<p>At Thursday's meeting with Ramos, Oracle and the Philippine Long Distance Telephone Co. signed a memorandum of understanding to jointly develop an NC-ready network for universities and colleges.</p>
+<p>Ramos, who has been touring California this week promoting the Philippines as a stable place for investment, praised the deal.</p>
+<p>&quot;This agreement between one of the world's largest software companies and the Philippines' leading telecommunications company will help the Philippines develop the national infrastructure to provide new educational tools to teachers, parents and students,&quot; Ramos said.</p>
+<p>He said the memorandum of understanding was &quot;a milestone event in moving the Philippines towards the Information Age.&quot;</p>
+<p>Dubbed Phil-Net, the project will be based on Oracle software. Work on the project was scheduled to begin later this year, with first access by local schools in 1998.</p>
+<p>Oracle, based in Redwood Shores in California's Silicon Valley, specializes in writing database software, which stores and retrieves huge amounts of information on computer networks. Oracle itself does not make the NC hardware. Instead, the company sells the software that controls a network of NCs.</p>
+<p>Financial terms of the agreement were not immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

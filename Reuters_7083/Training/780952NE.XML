@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780952" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Apple bonds rise after Microsoft deal.</title>
+<headline>Apple bonds rise after Microsoft deal.</headline>
+<dateline>NEW YORK 1997-08-06</dateline>
+<text>
+<p>Bonds of Apple Computer Inc gained 5-1/2 points following news on Wednesday that Microsoft Corp would invest $150 million in the firm, traders said.</p>
+<p>News that Microsoft, the world's biggest software company, would throw its financial support behind the struggling computer-maker boosted Apple debt, but players said bonds were not seen actively trading as of yet.</p>
+<p>Apple 6.50 percent paper due 2004 gained 5-1/2 points to trade at 88 bid, 92 offer, after closing on Tuesday at an 83 bid, high-yield traders said.  </p>
+<p>&quot;The bonds have been actively quoted on the bid side,&quot; said one high-yield trader.</p>
+<p>&quot;Because we're seeing a wide market right now there's probably not a lot of trading in the bonds yet; the market's not tight enough,&quot; one high-yield trader said.</p>
+<p>Separately, the company's stock gained 6-3/4 points to 26-1/2 on the news.</p>
+<p>Meanwhile, as part of the agreement with Apple, Microsoft would continue its development of future versions of Microsoft Office, its software productivity suite, for the Apple Macintosh, as well as Internet Explorer for Macintosh.</p>
+<p>Apple Computer Inc, based in Cupertino, California, senior debt is rated single-B by Standard &amp; Poor's and B3 by Moody's Investors Service.</p>
+<p>(( -- Nancy Leinfuss, 212-859-1675 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

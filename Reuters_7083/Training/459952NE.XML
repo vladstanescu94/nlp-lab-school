@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="459952" id="root" date="1997-03-21" xml:lang="en">
+<title>USA: RESEARCH ALERT - Computervision cut.</title>
+<headline>RESEARCH ALERT - Computervision cut.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist cut its rating and 1997 earnings estimate on Computervision Corp after it ended an agreement to sell its hardware services business to J.F. Lehman. Instead it will sell a 51-percent stake to investment manager M.D. Sass.</p>
+<p>-- In a statement, Hambrecht &amp; Quist said it cut the rating to hold from buy and the 1997 earnings estimate to $0.53 a share from $0.60.</p>
+<p>-- Hambrecht &amp; Quist said it had recommended the shares based partially on a successful sale to J.F. Lehman, and it is now concerned the new deal will divert attention from Computervision's core software business.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

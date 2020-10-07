@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58684" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Nestcape says browser holds industry record.</title>
+<headline>Nestcape says browser holds industry record.</headline>
+<dateline>ATLANTA 1996-09-17</dateline>
+<text>
+<p>Netscape Communications Corp Chief Executive James Barksdale claimed on Tuesday that the company's Internet browser, the Netscape Navigator, has outsold all other computer applications in history.</p>
+<p>Speaking at the Networld+Interop conference, Barksdale said in a keynote speech that Netscape has downloaded 40 million copies of its Navigator software to customers, all within 19 months.</p>
+<p>&quot;That's more copies than any computer application in history,&quot; he said.  </p>
+<p>&quot;That's more than Microsoft Word by 10 million copies; that's 10 million more copies than (International Business Machines Corp's ) Lotus 1-2-3; that's 10 million more copies than Microsoft Excel,&quot; Barksdale added.</p>
+<p>&quot;And the difference is, it was done over a period of 19 months. Those other products were 10-plus years in development and delivery, and hundreds of millions of dollars in marketing,&quot; he said.</p>
+<p>Barksdale expounded on the advantages to corporations posed by software, such as Netscape's AppFoundry, which gives Internet-style capabilities to in-house computer networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

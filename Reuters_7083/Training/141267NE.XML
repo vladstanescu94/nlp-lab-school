@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141267" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Computervision Q3 shr $0.20 vs $0.16.</title>
+<headline>Computervision Q3 shr $0.20 vs $0.16.</headline>
+<dateline>BEDFORD, Mass. 1996-10-24</dateline>
+<text>
+<p>Three Months Ended:</p>
+<p>				   September 29, 1996 October 1, 1995</p>
+<p>Software Revenue</p>
+<p>    Product			     $55,028,000     $39,625,000</p>
+<p>    Services			     26,090,000	29,423,000</p>
+<p>    Total Software Revenue	   81,118,000	69,048,000</p>
+<p> Other Services Revenue		42,135,000	56,339,000</p>
+<p>    Total Revenue		     123,253,000     125,387,000</p>
+<p> Total Gross Profit Margin	   67,914,000	65,214,000</p>
+<p> Operating Expenses		    45,161,000	43,993,000</p>
+<p> Operating Income			22,753,000	21,221,000</p>
+<p>Net Interest Expense and</p>
+<p>  Other Expense			   7,874,000	11,782,000</p>
+<p> Provision for Income Taxes	   1,785,000	 1,416,000</p>
+<p> Net Income				13,094,000	 8,023,000</p>
+<p> Earnings Per Share			    0.20		0.16</p>
+<p>Weighted Average Shares</p>
+<p>  Outstanding			    64,478,000	50,794,000</p>
+<p>						    Nine Months Ended:</p>
+<p>					   Sep 29, 1996     Oct 1, 1995</p>
+<p>Software Revenue</p>
+<p>    Product			    $138,918,000    $115,703,000</p>
+<p>    Services			     80,738,000	88,987,000</p>
+<p>    Total Software Revenue	  219,656,000     204,690,000</p>
+<p> Other Services Revenue	     135,789,000     171,534,000</p>
+<p>    Total Revenue		     355,445,000     376,224,000</p>
+<p> Total Gross Profit Margin	  192,648,000     191,422,000</p>
+<p> Operating Expenses		   133,344,000     135,445,000</p>
+<p> Operating Income			59,304,000	55,977,000</p>
+<p>Net Interest Expense and</p>
+<p>  Other Expense			  23,040,000	34,705,000</p>
+<p> Provision for Income Taxes	   4,349,000	 3,176,000</p>
+<p> Net Income				31,915,000	18,096,000</p>
+<p> Earnings Per Share			    0.49		0.36</p>
+<p>Weighted Average Shares</p>
+<p>  Outstanding			    64,782,000	49,776,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

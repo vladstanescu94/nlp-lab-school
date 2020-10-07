@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536758" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Health Systems Design CFO resigns.</title>
+<headline>Health Systems Design CFO resigns.</headline>
+<dateline>OAKLAND, Calif. 1997-04-24</dateline>
+<text>
+<p>Health Systems Design Corp said its chief financial officer Richard Malone, has decided to leave the company and it named Steven Correia acting chief financial officer.</p>
+<p>Before joining Health Systems more than two and a half years ago, Correia was a manager at an Oakland-based public accounting firm.</p>
+<p>&quot;Richard Malone has been a valuable member of our team over the last five years as we have grown rapidly and built Health System Design into a premier provider of managed care software,&quot; Chairman Richard Auger said. &quot;We will miss him professionally and personally, and wish him well.&quot;</p>
+<p>Health Systems Design provides managed care information systems to payors and providers of healthcare services.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

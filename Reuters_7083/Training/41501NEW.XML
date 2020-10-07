@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41501" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Tandem, Informix in pact.</title>
+<headline>Tandem, Informix in pact.</headline>
+<dateline>CUPERTINO, Calif. 1996-09-09</dateline>
+<text>
+<p>Tandem Computers Inc and Informix Software Inc said Monday they had formed a strategic partnership to integrate the Informix DataBlade application programmer interface with Tandem's ServerWare SQL database software on Tandem's Himalaya and Windows NTR cluster-aware servers.</p>
+<p>Under the agreement, Tandem will license source code for the Informix Illustra and the Informix-Universal Server databases and will integrate Informix's DataBlade into Tandem's NonStop SQL database engine, the industry's first parallel implementation of standard query language (SQL).</p>
+<p>The resulting product, ServerWare SQL, will run on systems that support Tandem's new ServerNet interconnect technology -- which provides virtually unlimited bandwidth and the ability to cluster parallel processing systems for high-performance and continuous availability. These systems include Tandem's next-generation of Himalaya parallel servers and forthcoming Windows NT Server-based systems. In addition, ServerWare SQL will be marketed to run on any Windows NT Server platform.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

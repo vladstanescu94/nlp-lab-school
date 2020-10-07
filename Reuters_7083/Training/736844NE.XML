@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="736844" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: TABLE - Visigenic Software Inc Q1 results.</title>
+<headline>TABLE - Visigenic Software Inc Q1 results.</headline>
+<dateline>SAN MATEO, Calif. 1997-07-16</dateline>
+<text>
+<p>Visigenic Software, Inc.</p>
+<p>		     Consolidated Statements of Operations</p>
+<p>	   (in thousands, except per share amounts) (unaudited)</p>
+<p>							Three Months Ended</p>
+<p>						     June 30,</p>
+<p>					  Proforma</p>
+<p>					   1997 (1)     1997	 1996</p>
+<p>REVENUE:</p>
+<p>  Software licenses		   $5,104    $4,351     $2,505</p>
+<p>Consulting services,</p>
+<p>   maintenance and other	     1,209     1,209	  456</p>
+<p>    Total revenue			6,313     5,560	2,961</p>
+<p>COST OF REVENUE:</p>
+<p>  Software licenses			409	 409	  138</p>
+<p>Consulting services,</p>
+<p>   maintenance and other	     1,022     1,022	  295</p>
+<p> Total cost of revenue		 1,431     1,431	  433</p>
+<p> GROSS PROFIT			    4,882     4,129	2,528</p>
+<p>OPERATING EXPENSES:</p>
+<p>  Product development		  2,841     2,841	1,657</p>
+<p>  Sales &amp; marketing		    2,863     2,863	2,006</p>
+<p>  General &amp; administrative	     855	 855	  473</p>
+<p>Purchased in process</p>
+<p>   product development		    --	  --     12,014</p>
+<p>Amortization of excess purchase</p>
+<p>   price over net assets acquired    306	 306	   43</p>
+<p> Total operating expenses	    6,865     6,865     16,193</p>
+<p> Loss from operations		(1,983)   (2,736)   (13,665)</p>
+<p> INTEREST AND OTHER INCOME, net	234	 234	    6</p>
+<p> TAXES				     (141)     (141)	   --</p>
+<p> NET LOSS			     ( 1,890)  ( 2,643)  ( 13,659)</p>
+<p> NET LOSS PER SHARE		  ( 0.13)   ( 0.19)</p>
+<p> PRO FORMA NET LOSS PER SHARE				 ( 1.22)</p>
+<p>SHARES USED IN</p>
+<p>  PER SHARE CALCULATION	     14,012    14,012     11,234</p>
+<p>(1) Reflects revenues for the quarter ended June 30, 1997 before a one-time charge against revenue of $753,000 to reverse license revenue for certain client-side ODBC driver products and a discontinued version of VisiChannel based on SmartSockets(tm) middleware, which PLATINUM technology, Inc.</p>
+<p>returned pursuant to an agreement with the Company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MATEO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="775785" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: Intel, SAP to unveil electronic commerce venture.</title>
+<headline>Intel, SAP to unveil electronic commerce venture.</headline>
+<dateline>NEW YORK 1997-08-04</dateline>
+<text>
+<p>Chip giant Intel Corp. and German management software firm SAP AG on Tuesday will announce a joint venture to develop electronic commerce software, marking SAP's first step outside its core business.</p>
+<p>A spokesman for Santa Clara, Calif.-based Intel confirmed that the companies will make an announcement in San Francisco on Tuesday, but he declined to provide further details.</p>
+<p>SAP, which is based in Frankfurt, Germany, manufacturers a business management software package called R/3, its flagship software product.</p>
+<p>R/3 allows large corporations to control manufacturing, purchasing, personnel and financial data. It is run on higher-end corporate servers such as International Business Machine Corp.'s AS/400 minicomputer line, its System/390 mainframe and workstations running UNIX, including Sun Microsystems and Hewlett-Packard Co.</p>
+<p>Further details were not immediately available, but some analysts said the venture is expected to address the market for direct business-to-business communications over the Internet with software for Intel-based personal computers running Windows NT.</p>
+<p>As previously reported, a spokesman for SAP told Reuters in Bonn that the product would be jointly developed by SAP America and Intel. He said the goal of the venture was to develop software that supports business applications on the Internet. A spokeswoman for SAP America in Wayne, Pa. did not immediately return calls seeking comment.</p>
+<p>&quot;It's necessary for SAP to diversify,&quot; said Bobby Cameron, an analyst with Forrester Research analyst.</p>
+<p>&quot;Relying on its core R/3 product limits its options and its customers options....We believe SAP is in the process of creating new business opportunities for its customers by building new applications using technologies that are not part of R/3.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="361636" id="root" date="1997-02-06" xml:lang="en">
+<title>GERMANY: SAP shares placed at 244 dmk - sources.</title>
+<headline>SAP shares placed at 244 dmk - sources.</headline>
+<dateline>FRANKFURT 1997-02-06</dateline>
+<text>
+<p>Ordinary shares in German computer software maker SAP AG have been placed on the market at 244 marks each, sources in the placement consortium and at the bourse said on Thursday.</p>
+<p>Dealers said demand for the shares twice outstripped supply and that SAP's common stock, which was down four marks at 245 marks at 1045 GMT, was unlikely to slip below 244 marks.</p>
+<p>SAP's DAX-listed preferred stock were down three marks at 251.50 marks.</p>
+<p>The controversial placement of 3.54 million SAP shares was announced earlier this week. The shares were once held by SAP's co-founder Hans-Werner Hector, who resigned in late 1996.</p>
+<p>Union Bank of Switzerland and Morgan Stanley are heading the consortium.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

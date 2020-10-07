@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="357602" id="root" date="1997-02-05" xml:lang="en">
+<title>GERMANY: Deutsche Telekom to offer Netscape.</title>
+<headline>Deutsche Telekom to offer Netscape.</headline>
+<dateline>MUNICH, Germany</dateline>
+<text>
+<p>Deutsche Telekom AG will begin distributing Netscape Communications Corp. software to its main business customers for use in creating Internet products and services, the German telecommunications giant announced Wednesday.</p>
+<p>The agreement extends an already existing marketing and distribution pact with the Internet software company, which the two firms reached in 1995 when Telekom began distributing Mountain View, Calif.-based Netscape's Navigator Web browsers over its commercial online service.</p>
+<p>&quot;Through the cooperation with Netscape we are expanding the spectrum of our offering in the area of the Internet and intranets and ensure that all our business customers receive solutions tailored to their needs,&quot; said Herbert May, Deutsche Telekom board member in charge of enterprise customers.</p>
+<p>Intranets are internal corporate networks that function like the wider, public Internet.</p>
+<p>Stock in Netscape rose 37.5 cents to $37.625 in late morning trading on Nasdaq.</p>
+<p>Under the agreement, Deutsche Telekom will be able to offer the entire range of Netscape software products, both for those viewing content on the Internet or intranets, and Internet publishing software.</p>
+<p>Deutsche Telekom already gives Navigator to subscribers of its commercial online service, T-Online. Now, it will also offer products such as the new 4.0 version of Navigator, Netscape SuiteSpot publishing software and all products for local area networks.</p>
+<p>Through its T-Intra value-added services package, Telekom is targeting end users, Internet publishers, Internet service providers and business clients.</p>
+<p>Large businesses will be able to use Netscape technology for Internet commerce and so-called extranet services, which link a company's suppliers and customers to its own intranet.</p>
+<p>The expanded cooperation with Netscape will also help Telekom in its efforts to adopt T-Online, which with 1.4 million subscribers is the largest in Germany, to the technical standards of the Internet.</p>
+<p>Currently, much of the content on T-Online is not based on the open standards of the Internet, making it difficult for businesses to offer products and services to a broad public.</p>
+<p>The next version of T-Online software, however, will be able to read Web pages and will come bundled with the latest version of Netscape's popular Navigator, which has been a driving force in the expansion of the Internet.</p>
+<p>Deutsche Telekom's service offer for big business customers will include setting up and supporting intranets, remote log-in support, group communication over the Internet or intranet, and so-called World Wide Web-hosting, where the company uses Telekom infrastructure to build an Internet site.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

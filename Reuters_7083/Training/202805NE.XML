@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202805" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Netscape unveils new desktop software.</title>
+<headline>Netscape unveils new desktop software.</headline>
+<text>
+<p>LAS VEGAS, Nov 20 (Ruter) - Netscape Communications Corp President and Chief Executive Officer Jim Barksdale Wednesday unveiled an upcoming software product, code-named Constellation, which lets users merge and customize desktop and network information, tune into netcasted content and automatically receive customized information from various locations across a network.</p>
+<p>&quot;We are entering the third wave of the Internet, where electronic mail and groupware with all the richness of the Web are key elements of computing,&quot; Barksdale said in prepared remarks to be delivered at the COMDEX computer show here.  </p>
+<p>&quot;While the first waves of the Internet focused on users being able to easily find information, the mark of this third wave is that information finds the user. Our new products will have the intelligence to help you focus on the information you care about.&quot;</p>
+<p>Netscape said Constellation will gather information that users care about and transparently replicate it to the server. Similar to roaming on a cellular phone, Constellation will free users from being tied to a single desktop location, the company said.  </p>
+<p>The product will organize information on a desktop computer, posing a challenge to rival Microsoft Corp, whose Windows operating system dominates the market.</p>
+<p>Netscape said users will no longer need to concern themselves with updating applications on their own desktops, because information will be &quot;pushed' to them in a broadcast fashion.</p>
+<p>Through a technology called netcasting, users will receive instant notification of updates to their system and reminders of important events that affect them.</p>
+<p>The company said Constellation is expected to be available next year on all of the platforms that are supported by Netscape Communicator.</p>
+<p>Netscape said it also plans to work with PointCast to integrate Constellation with the PointCast Network, which allows users to pull down specific information from the World Wide Web.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

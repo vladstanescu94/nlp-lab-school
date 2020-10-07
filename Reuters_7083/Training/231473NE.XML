@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231473" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: CBT Systems enters training pact with Computemp.</title>
+<headline>CBT Systems enters training pact with Computemp.</headline>
+<dateline>MILWAUKEE 1996-12-03</dateline>
+<text>
+<p>CBT Systems said Tuesday it signed an agreement to provide its education software to (Computemp Inc), an information technology staffing specialty firm.</p>
+<p>Computemp's network of 28 field offices will use the library of 200 educational software titles to provide task-specific training to its temporary and permanent replacement workers.</p>
+<p>Financial terms were not disclosed.</p>
+<p>CBT Systems, a unit of CBT Group Plc, provides educational software to more than 1,200 corporations for training information technology staff.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILWAUKEE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

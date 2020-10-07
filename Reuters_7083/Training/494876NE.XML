@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494876" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: Microsoft, Intel, Compaq propose new TV standards.</title>
+<headline>Microsoft, Intel, Compaq propose new TV standards.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-04-08</dateline>
+<text>
+<p>Computer giants Microsoft Corp , Intel and Compaq Computer Corp have proposed standards for a new generation of televisions that would be compatible with an emerging class of personal computers for the home.</p>
+<p>In a telephone briefing with reporters, Microsoft Senior Vice President Craig Mundie said on Monday the proposed television protocol -- unveiled at a broadcasters' conference in Las Vegas -- would be recommended also as a standard for multimedia Pcs.</p>
+<p>Mundie said the companies, dubbed the &quot;Big Three&quot; of the personal computer industry, are proposing adoption of three out of 18 advanced technical standards set forth by a television industry coalition.</p>
+<p>Mundie and executives from Intel and Compaq said their proposal would allow a &quot;significant improvement&quot; in picture quality as well as transmission of related information and data to personal computers, television and hybrid devices.</p>
+<p>&quot;This model of television in particular is going to provide the viewer with a completely different experience,&quot; said Robert Stearns, senior vice president of Compaq.</p>
+<p>He suggested that advanced television, also known as high-definition television, would allow viewers greater opportunity to interact with programming by choosing camera angles, chatting with characters, responding to advertising and even affecting the outcome of shows.</p>
+<p>He said that beyond the issues of &quot;plumbing&quot; or technical standards, the broadcast industry could develop new revenue streams from advanced television.</p>
+<p>He and the other executives said equipping personal computers to decode and display the new forms of television signals would add very little to the cost of the devices, perhaps less than $150.</p>
+<p>At the same time, the emergence of advanced television is creating a new class of big-screen personal computers which combine features of the computer and television.</p>
+<p>The consumer electronics industry is gearing up for production of advanced television sets with sophisticated computer circuitry.</p>
+<p>Last week, the U.S. Federal Communications Commission, culminating a 10-year effort, called for a rollout of the technology that will have digital television on the air in the nation's 10 biggest markets within 18 months.</p>
+<p>But rather than set specific technical standards for advanced television, the agency essentially is allowing the industry and marketplace to decide, Mundie said.</p>
+<p>Placing a major bet on the coming convergence of computers and television, Microsoft over the weekend agreed in a $425 million deal to buy WebTV Networks Inc., which provides a way for consumers to access the Internet on their TV screens.</p>
+<p>Raising the ante further, Mundie said Microsft planned to include technology needed for its preferred television standards in forthcoming versions of its Windows 95 and Windows NT operating systems.</p>
+<p>That would mean competing television standards would be incompatible with Windows-based computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

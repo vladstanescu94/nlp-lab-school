@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138874" id="root" date="1996-10-23" xml:lang="en">
+<title>GERMANY: SAP tumbles after profit warning.</title>
+<headline>SAP tumbles after profit warning.</headline>
+<dateline>FRANKFURT 1996-10-23</dateline>
+<text>
+<p>Shares in German business software firm SAP AG tumbled 20 percent in pre-bourse trade after the company issued a profit warning.</p>
+<p>SAP ordinary shares were down 53 marks at 219.50 marks, while SAP preference shares were down 53.10 marks to 224.50, having hit a low of 210 marks in heavy early computer trade.</p>
+<p>The IBIS DAX index started lower and in early trade was down 13.66 points, or 0.50 percent, at 2,708.08 points.</p>
+<p>The high-flying company stunned markets on Tuesday evening with an unexpectedly sharp slowdown in growth in the third quarter that forced the company to revise full-year forecasts.</p>
+<p>SAP revised down its 1996 revenue forecast to 3.5 billion marks from the 3.8 billion marks previously expected.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

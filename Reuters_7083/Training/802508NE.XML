@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802508" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: Microsoft to launch line of education software.</title>
+<headline>Microsoft to launch line of education software.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-08-14</dateline>
+<text>
+<p>Mighty Microsoft Corp. is muscling into another crowded software sector with its launch next month of the first in a projected line of products to help build children's math and reading skills.</p>
+<p>My Personal Tutor, a four-CD product aimed at children aged 3 to 7, will go on sale in mid-September after nearly two years of development by Microsoft software engineers and teams of outside educational consultants.</p>
+<p>The $50 software package, which includes some 200 activities to teach and reinforce basic skills from color identification to addition and subtraction, is the latest component of a multipronged thrust into education by the Redmond, Wash.-based giant.</p>
+<p>Success is far from certain as Microsoft enters a market crowded with established players Learning Co., Broderbund Software Inc., CUC International Inc. and high-profile newcomer Walt Disney Co.</p>
+<p>Competition has forced down prices, sparked a wave of consolidation and contributed to a slowdown in growth in the $400 million education software market, where sales are up just 4.5 percent so far this year, compared with 20 percent last year, according to PC Data.</p>
+<p>But the influx of multimedia computers into the home has made software aimed at preschoolers one of the hottest areas of growth within the education market, analysts say.</p>
+<p>&quot;There are a lot of kids now using computers,&quot; said Forrester Research analyst Kate Delhagen. &quot;Microsoft sees an opportunity to put their hooks into these kids at an early age.&quot;</p>
+<p>Microsoft is hoping its powerful brand name, an emphasis on breadth and depth of content and new &quot;TutorAssist&quot; technology will break through the clutter and appeal to busy parents eager to give their children an educational boost.</p>
+<p>Robbie Bach, a vice president in Microsoft's interactive media division, said the software giant considered getting involved in early-childhood education several years ago but rejected the idea in part because too few homes were equipped with powerful multimedia computers.</p>
+<p>&quot;Now we have some technology where we think we can have some competitive differentiation,&quot; he said.</p>
+<p>The TutorAssist technology recognizes when a student needs help and then automatically launches one of 100 multimedia tutorials led by the animated character Professor P.T. Presto.</p>
+<p>Lisa Brummel, product unit manager, said the technology &quot;engine&quot; will remain a core element of planned future education releases for older students and could be adapted for use in adult training software.</p>
+<p>While My Personal Tutor is Microsoft's first product focused on teaching basic skills, the company has been competing in the education software market for several years with its Magic School Bus series, aimed at slightly older children.</p>
+<p>&quot;It makes sense for a company like Microsoft to be in this business,&quot; said Dan Lavin, a Datquest analyst.</p>
+<p>&quot;They feel it's an area where they can develop some brand loyalty,&quot; he said. &quot;A strong education brand can spill over into other areas of the home.&quot;</p>
+<p>Indeed Microsoft's Bach said education is &quot;a very important focus strategically.&quot;</p>
+<p>In addition to selling education software, Microsoft and its Chairman Bill Gates have focused much of their philanthropy over the past several years on schools and colleges -- historically the dominion of its ailing rival, Apple Computer Inc.</p>
+<p>&quot;The Wintel camp is trying to attack the Apple camp and really doing a pretty good job of it in wrestling away some market share,&quot; said analyst Scott McAdams of brokerage Ragen MacKenzie.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

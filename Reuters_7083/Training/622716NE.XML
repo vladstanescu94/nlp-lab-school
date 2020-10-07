@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622716" id="root" date="1997-05-29" xml:lang="en">
+<title>USA: Senator raises Microsoft concerns with US Justice.</title>
+<headline>Senator raises Microsoft concerns with US Justice.</headline>
+<byline>David Lawsky</byline>
+<dateline>WASHINGTON 1997-05-29</dateline>
+<text>
+<p>A Republican senator may remove his block on Senate confirmation of a new chief of the Justice Department's antitrust division, after the two discuss Microsoft and telephone competition, a Senate aide said Thursday.</p>
+<p>The meeting between Sen. Conrad Burns and Joel Klein is likely to take place next week when the Senate returns from its Memorial Day recess, an aide to Burns said. It was unclear from the aide's comments what the outcome of the meeting would be.  </p>
+<p>Burns has concerns with the status of the Justice Department's investigation of Microsoft, the aide said. Burns is concerned that Microsoft may dominate the market for computer operating systems.</p>
+<p>&quot;He would like to discuss that,&quot; the aide said of Burns.</p>
+<p>The Justice Department is investigating the proposed purchase of WebTV Networks Inc by Microsoft and has a parallel investigation of Microsoft's entry into the Internet market. It also halted Microsoft's acquisition of Intuit.</p>
+<p>Under Senate rules, which permit any individual senator to place a nomination on &quot;hold,&quot; the Montana Republican blocked a vote on the nomination of Klein.</p>
+<p>Klein has won unanimous support from the Judiciary Committee and is expected to win overwhelming support when a vote takes place. He has served as acting head of antitrust since last year.</p>
+<p>In addition to his concerns about Microsfot, Burns wrote to Klein May 15 with two pages of detailed questions addressing the stringent Justice Department standards for judging whether a phone company has made the transition from monopolist to competitor in the local market.  </p>
+<p>Once a phone company allows local competition it can win approval to enter the lucrative long distance business.</p>
+<p>Klein wrote back, but his letter was not released so it is unclear as yet whether he was able to ease Burns' concerns. Burns' aides are studying Klein's response.</p>
+<p>The Justice Department had no immediate comment about the status of Klein's nomination or about his exchange of letters with Burns.</p>
+<p>Klein raised Burns' ire by saying that he wanted to see &quot;gas in the pipeline&quot; -- the actual end of monopolization of local phone markets -- before he would recommend permitting local companies go into the long distance business.</p>
+<p>Burns said the &quot;gas in the pipeline&quot; standard &quot;is plainly unrelated to the antitrust laws and, even worse, violates congressional intent.&quot; Burns takes the view that Klein may do no more than look at a government checklist and see if those standards are met.</p>
+<p>This month, Klein recommended against permitting SBC Communications Inc to go into the long distance business in Oklahoma, finding that it had no real competitors. SBC disagreed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574333" id="root" date="1997-05-10" xml:lang="en">
+<title>GERMANY: SAP says it will curb trading by staff.</title>
+<headline>SAP says it will curb trading by staff.</headline>
+<dateline>BONN 1997-05-10</dateline>
+<text>
+<p>SAP, the German software house facing an insider trading probe, plans to restrict the trading of its own shares by its employees, the German weekly magazine Focus said on Saturday.</p>
+<p>In an advance copy of Focus's latest edition, SAP's chief executive Dietmar Hopp said the firm's employees would be forbidden to trade SAP stock in the sensitive three weeks after the end of each quarter.</p>
+<p>The magazine reported that Dietmar said anyone who broke the rule, which also covered top-ranking employees, could be fired.</p>
+<p>Frankfurt prosecutors are investigating whether SAP employees, relatives or friends used insider information in share or derivatives trades around the time of the firm's third quarter results announcement on October 22 last year.</p>
+<p>After the results, which fell below market expectations, SAP shares plunged 23 percent.</p>
+<p>SAP said earlier this week that staff with access to confidential information did not trade shares around the time of the announcement.</p>
+<p>-- Kate Kelland, Frankfurt Newsroom +49 69 7565 1246</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

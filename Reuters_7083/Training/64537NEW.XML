@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64537" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Sedona, Oracle in data-management deal.</title>
+<headline>Sedona, Oracle in data-management deal.</headline>
+<dateline>BROOMALL, Penn. 1996-09-19</dateline>
+<text>
+<p>Sedona GeoServices Inc, a unit of Scangraphics Inc, said Thursday it had an agreement with Oracle Corp to provide open-standard, data-management capabilities to the geographic information systems (GIS) market.  </p>
+<p>&quot;Sedona and Oracle will combine their respective technologies to create an open-systems data environment for the GIS market,&quot; a Sedona spokesman said.</p>
+<p>The alliance marks the first step in a long-term partnership that could lead to joint development of technology, the spokesman said.</p>
+<p>Sedona said in a statement it hoped to use this new resource to &quot;develop the next generation of open-client geoprocessing application and data management software to utilize Oracle's Universal Server technology.&quot;  </p>
+<p>One goal was to have Sedona's technology sold under the Sedona label as part of an Oracle data-management package, the spokesman said.</p>
+<p>He declined to comment on the estimated financial value of the alliance.</p>
+<p>Sedona GeoServices develops GIS database-management software, scanning and image-processing technology, large document scanners, backfile conversion services and imaging software and systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302015">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BROOMALL, Penn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

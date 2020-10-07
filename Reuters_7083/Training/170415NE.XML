@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170415" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Midway Games Inc Q1 Sept 30 net drops.</title>
+<headline>Midway Games Inc Q1 Sept 30 net drops.</headline>
+<dateline>CHICAGO 1996-11-06</dateline>
+<text>
+<p>(Thousands, except per share amounts)</p>
+<p>						    Three months ended</p>
+<p>							  September 30,</p>
+<p> Revenues:					   1996	  1995</p>
+<p>	Home video				 $ 47,554   $ 46,717</p>
+<p>	Coin-operated video			18,001     21,221</p>
+<p>	Total revenues			     65,555     67,938</p>
+<p> Cost of sales				     31,175     40,622</p>
+<p> Gross profit					34,380     27,316</p>
+<p> Research and development expense	    12,003	5,851</p>
+<p> Operating income				  10,775     11,631</p>
+<p> Interest income (expense), net		 (973)	 (47)</p>
+<p> Income before tax provision		    9,802     11,584</p>
+<p> Provision for income taxes		   (3,725)    (4,414)</p>
+<p> Net income					   6,077	7,170</p>
+<p> Net income per share				0.18	 0.21</p>
+<p> Shares outstanding				33,400     33,400</p>
+<p>NOTE: Midway Games completed an initial public offering on October 30, 1996.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

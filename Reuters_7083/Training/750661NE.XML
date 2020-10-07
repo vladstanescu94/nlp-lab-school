@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750661" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: 3Dfx chips won't be in Sega machine.</title>
+<headline>3Dfx chips won't be in Sega machine.</headline>
+<dateline>SAN JOSE, Calif. 1997-07-22</dateline>
+<text>
+<p>3Dfx Interactive Inc on Tuesday confirmed fears which had spurred volatility in its stock price the day before: Sega Enterprises Ltd does not intend to use its 3D graphics processing chipset for the next generation video game machine.</p>
+<p>&quot;We are disappointed with this notification, and believe that it is without legal justification,&quot; 3Dfx President and Chief Executive Greg Ballard said in a statement.  </p>
+<p>On Monday, as speculation perculated that the deal had soured, 3Dfx's stock price fell by as much as 43 percent. It rebounded slightly on Tuesday, closing up 5/8 at 12-5/8.</p>
+<p>The company said that Sega represents &quot;only a fraction&quot; of its business, generating less than 10 percent of its projected revenues for 1998.</p>
+<p>3Dfx said it has a contract with Sega to develop the 3D graphics engine for Sega's next video game system. 3Dfx has been working under contract with Sega since March of this year to develop and license a proprietary chipset for use in the new Sega game console, it said.</p>
+<p>In addition, Sega has an equity investment of nearly $2 million in 3Dfx, and has funded development of the chipset to date.</p>
+<p>3Dfx said it believes that, under the terms of its contract with Sega, Sega's decision will force it to explore its options, including legal recourse.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="337841" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: Netscape browser share put at 70 percent.</title>
+<headline>Netscape browser share put at 70 percent.</headline>
+<dateline>SEATTLE 1997-01-28</dateline>
+<text>
+<p>Netscape Communications Corp remains the dominant provider of Internet browser software, but rival Microsoft Corp has made strong gains, according to a report issued Tuesday.</p>
+<p>Zona Research said Netscape's Navigator was used as the primary browser at 70 percent of 211 surveyed Internet sites, compared with 28 percent for Microsoft's Internet Explorer.</p>
+<p>In the previous survey conducted in August by the Redwood City, Calif., firm, Navigator was the primary browser at 83 percent of sites, compared with 8 percent for Internet Explorer.  </p>
+<p>Microsoft's release of Internet Explorer version 3.0 in August culminated nine months of work by the software giant to focus on the Internet and close the gap with Netscape.</p>
+<p>&quot;We believe the surge in the use of Microsoft's Internet Explorer is a result of feature and function parity between IE and Navigator and the availability of IE on all Microsoft platforms,&quot; said Clay Ryder, director at Zona Research.</p>
+<p>Zona also said that 38 percent of companies surveyed had made Navigator their standard browser, compared with 14 percent for Microsoft. The remaining 52 percent of companies surveyed had no corporate standard.</p>
+<p>Zona's survey results backed up the theory that users will switch back and forth between browsers, which are free or low in cost.</p>
+<p>Of those surveryed 86 percent said they had used Navigator in the past 90 days and 77 percent said they had used Internet Explorer. The average user in the survey had 1.98 browsers.</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

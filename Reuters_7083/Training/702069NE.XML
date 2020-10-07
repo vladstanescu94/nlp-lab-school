@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="702069" id="root" date="1997-07-02" xml:lang="en">
+<title>USA: Microsoft sues resellers over alleged piracy of NT.</title>
+<headline>Microsoft sues resellers over alleged piracy of NT.</headline>
+<dateline>SEATTLE 1997-07-02</dateline>
+<text>
+<p>Microsoft Corp. said Wednesday it sued two Arizona companies, accusing them of selling illegal copies of the software giant's networking products.</p>
+<p>Microsoft said the lawsuits, filed in U.S. District Court in Tucson, Ariz., were part of a new crackdown on piracy of the company's high-end Windows NT and BackOffice products for business computer networks.</p>
+<p>&quot;As the popularity of our BackOffice Suite of products is growing, so is piracy, unfortunately,&quot; said Claire O'Donnell, a Microsoft spokeswoman.</p>
+<p>Microsoft charges that Tucson reseller Computers Under Retail loaded a counterfeit copy of Microsoft's Windows NT Server operating system on three machines at a fictitious business set up by an undercover investigator hired by the company.</p>
+<p>The second lawsuit charges that Tucson reseller Future Information Design installed unauthorized copies of Windows NT Server and two workstations on a network operated by a Microsoft undercover investigator.</p>
+<p>Microsoft said it previously had warned the reseller about unauthorized software sales.</p>
+<p>Executives of the two resellers could not be reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

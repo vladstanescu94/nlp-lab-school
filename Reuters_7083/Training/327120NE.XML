@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327120" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Electronic Arts Q3 net rises 25 percent.</title>
+<headline>Electronic Arts Q3 net rises 25 percent.</headline>
+<dateline>SAN MATEO, Calif. 1997-01-23</dateline>
+<text>
+<p>Electronic Arts Inc said Thursday its fiscal third-quarter net income rose 25 percent, slightly better than Wall Street expected,  on strong sales of its video games during Christmas.</p>
+<p>The biggest U.S. developer of video game software said net income for the quarter ended December 31 rose to $36.7 million, or $0.66 a share, from $29.3 million, or $0.54, in the same quarter a year ago.</p>
+<p>Third-quarter revenue rose 13 percent to $271.1 million from $240.1 million a year ago.</p>
+<p>Wall Street expected Electronic Arts, based in San Mateo, Calif., to earn 65 cents, according to a recent survey by First Call.</p>
+<p>Electronic Arts said strong sales of new products for the Sony PlayStation video game console and personal computers contributed to the increase.</p>
+<p>PlayStation and PC games largely offset a 53 percent decline in sales for older Sega and Nintendo game machines, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MATEO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

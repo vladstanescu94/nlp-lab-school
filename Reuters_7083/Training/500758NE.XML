@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500758" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: Bill Gates see continued growth for PC industry.</title>
+<headline>Bill Gates see continued growth for PC industry.</headline>
+<dateline>HOUSTON 1997-04-09</dateline>
+<text>
+<p>Microsoft Corp chairman Bill Gates said on Wednesday that the growth of the personal computer industry has defied all predictions and should continue to be strong.</p>
+<p>Gates, speaking at Compaq Computer Corp's Innovate Forum 97, also said the Internet would become increasingly important in the world of commerce as more companies and customers become comfortable with cyberspace.</p>
+<p>&quot;PC industry growth continues to defy the experts who predict it will reach a plateau. Every year for the last 10 years there have been people who said 'this is it, there'll be a plateau here,' and yet, we move to record levels year after year,&quot; Gates said.</p>
+<p>&quot;As we get more volume, the great thing is that it becomes economic to develop better applications and as we get those better applications, it becomes worthwhile for more people to buy PCs,&quot; he said.</p>
+<p>&quot;Volume drives innovation. It drives price reduction,&quot; Gates said.</p>
+<p>Compaq announced this week that its 30 millionth computer had come off the assembly line, which Gates said was &quot;really quite an incredible number.&quot;</p>
+<p>Gates said the Internet would become more widely used as the volume of information available in cyberspace grows.</p>
+<p>&quot;An interesting statistic is that over 75 percent of PCs are not yet connected to the Internet...so the easiest growth for the Internet is to take those machines that are not connected and get them hooked up,&quot; he said.</p>
+<p>&quot;And we certainly see that (happening) as the richness in information goes up and businesses are more creative about using this,&quot; Gates said.</p>
+<p>He said Internet commerce will grow as both consumers and businesses become more accustomed to it, but he said it would take some time before the Internet is viewed as a serious marketplace.</p>
+<p>&quot;I have no doubt that's going to happen, and the companies that seize the opportunity today...are really going to be the ones that get out front and be quite successful,&quot; Gates said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

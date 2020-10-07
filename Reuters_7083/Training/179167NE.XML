@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179167" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Worldtalk to acquire Deming Software.</title>
+<headline>Worldtalk to acquire Deming Software.</headline>
+<dateline>SANTA CLARA, Calif. 1996-11-11</dateline>
+<text>
+<p>Worldtalk Corp said Monday it agreed to acquire privately held Deming Software Inc for about 550,000 Worldtalk common shares and $225,000 in cash.</p>
+<p>The acquisition will be accounted for as a purchase. Accordingly, Worldtalk expects to record a one-time, principally non-cash charge of about $5.0 million, or $0.50 per share, in the fourth quarter to reflect the write-off of in-process research and development associated with the acquisition.</p>
+<p>A developer of electronic mail security software for the Internet, Deming has delivered one of the first commercially available Secure Multi-purpose Internet Mail Extensions tool kits.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

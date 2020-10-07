@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="336671" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: C*ATS Software Inc Q4 full results.</title>
+<headline>C*ATS Software Inc Q4 full results.</headline>
+<dateline>PALO ALTO, Calif. 1997-01-28</dateline>
+<text>
+<p>CONSOLIDATED STATEMENTS OF INCOME (LOSS)</p>
+<p>		     (In thousands, except per share data)</p>
+<p>	   Quarter ended Dec. 31,  Twelve months ended Dec. 31,</p>
+<p>			   1996	1995		1996	1995</p>
+<p>			     (unaudited)  (unaudited)</p>
+<p>Revenues:</p>
+<p> License revenue  $ 4,398   $ 5,507	  $ 19,322  $ 20,359</p>
+<p>Service and other</p>
+<p>  revenue		  77	 367		 823     1,939</p>
+<p> Total revenues     4,475     5,874	    20,145    22,298</p>
+<p>Costs and expenses:</p>
+<p> Cost of revenues	66	 273		 272     1,174</p>
+<p>Research and</p>
+<p>  development	 1,683	 905	     6,166     3,582</p>
+<p> Sales &amp; Marketing  2,695     2,892	    11,084    10,433</p>
+<p>General &amp;</p>
+<p>  administrative	612	 573	     2,617     2,678</p>
+<p>In-Process R&amp;D expense</p>
+<p>			     --	  --	     7,066	  --</p>
+<p>Total costs &amp;</p>
+<p>  expenses	    5,056     4,643	    27,205    17,867</p>
+<p>Operating income/</p>
+<p>  (loss)		(581)     1,231	   (7,060)     4,431</p>
+<p> Interest income	194	 257		 863	 931</p>
+<p>Income /(loss) before</p>
+<p>provision for</p>
+<p>  income taxes	(387)     1,488	   (6,197)     5,362</p>
+<p>Provision/(benefit)</p>
+<p>  for income taxes  (465)	 521		   0     1,877</p>
+<p> Net income/(loss)     78	 967	   (6,197)     3,485</p>
+<p>Net income/(loss)</p>
+<p>  per share	    0.01	0.15	    (0.94)	0.57</p>
+<p>Weighted average common</p>
+<p>shares outstanding</p>
+<p>			  6,971     6,279	    6,576*     6,062</p>
+<p>*excludes anti-dilutive common share equivalents.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

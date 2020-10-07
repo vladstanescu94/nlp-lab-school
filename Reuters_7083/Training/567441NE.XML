@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567441" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Cadence Design agrees to FTC consent order.</title>
+<headline>Cadence Design agrees to FTC consent order.</headline>
+<dateline>SAN JOSE, California 1997-05-07</dateline>
+<text>
+<p>Cadence Design Systems Inc said it agreed to the U.S. Federal Trade Commission's issuing a consent order to facilitate closing its merger deal with Cooper &amp; Chyan Technology Inc.</p>
+<p>Under terms of the order, Cadence said it agreed to expand its Connections third-party software integration program to enable independent software vendors to develop and market interfaces to Cadence's integrated circuit design tools.</p>
+<p>Cadence said it also agreed to give the FTC prior notice of certain future acquisitions of integrated circuit routing tool developers and vendors.  </p>
+<p>Cadence agreed to acquire Cooper &amp; Chyan, which makes software tools for use by electronics designers, in October.</p>
+<p>At the beginning of January, Cadence said the FRC had requested additional information regarding the merger.</p>
+<p>The FTC had 60 days to withdraw, modify or finalise its acceptance of Cadence's agreement with it, the company said.</p>
+<p>During this time, the agreement would also be made available for public comment, it said,</p>
+<p>Cadence said it expected to complete the merger by the close of business May 7.</p>
+<p>&quot;The FTC's order is completely consistent with the Cadence philosophy and the direction in which we are moving,&quot; Cadence President Joe Costello said.</p>
+<p>Cadence's Connections Program offers third-party companies an ability to link their products with Cadence's tools and methodologies for electronic product design.</p>
+<p>Under the proposed FTC consent order, companies developing commercial integrated circuit routing technology will have the right to participate in the Connections program on terms &quot;no less favorable than the terms applicable to any other participants,&quot; Cadence said.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

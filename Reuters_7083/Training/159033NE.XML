@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159033" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Planet Hollywood to go Online.</title>
+<headline>Planet Hollywood to go Online.</headline>
+<dateline>ORLANDO, Fla. 1996-11-01</dateline>
+<text>
+<p>Planet Hollywood International Inc, Tandem Computers Inc and Informix Software Inc said Friday Planet Hollywood Online will premier in the spring.</p>
+<p>A statement issued by Planet Hollywood said the destination will feature electronic commerce capabilities enabling interactive transactions over the World Wide Web.</p>
+<p>The statement said Planet Hollywood Online will feature 3D interactive technology to provide a gateway to Hollywood.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500157" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: Microsoft aims to cut PC network costs - COO.</title>
+<headline>Microsoft aims to cut PC network costs - COO.</headline>
+<dateline>ATLANTA 1997-04-10</dateline>
+<text>
+<p>Microsoft Corp, the leading maker of software for personal computers, is devoting much of its research and development resources to projects aimed at lowering the cost of operating PC networks, Chief Operating Officer Bob Herbold said on Thursday.</p>
+<p>Simplification is the key to growth of Intranet and Extranet business, Herbold told the Internet Commerce Expo.</p>
+<p>&quot;Simplicity in terms of interacting with the machine, lower cost with respect to the installation of software and lower costs with respect to minimizing the help desk is where we have a tremendous amount of work going on,&quot; he said.  </p>
+<p>Microsoft's Zero Admin Windows, which seeks to lower the cost of changing PC software by automating functions now performed by employees, is a focus of the strategy, he said.</p>
+<p>&quot;There's a tremendous effort right now at Microsoft with respect to the next versions of the operating system. With both the Memphis Project, which is the evolution of Windows 95, and with the next version of NT, you're going to see a ton of capabilities relative to Zero Admin Windows,&quot; he said.  </p>
+<p>Microsoft also is stressing development of the NetPC with Intel Corp and hardware manufacturers including Dell Computer Corp to head off competition from low-cost network computers.</p>
+<p>Herbold predicted that the NetPC would have a very low price point &quot;even with a hard disk in there&quot; and says it would be &quot;quite competitive&quot; even with network computers.</p>
+<p>In summing up the importance Microsoft has placed on the NetPC and Zero Admin Windows projects, the executive said: &quot;Those two efforts are the yeoman's part of our R&amp;D effort right now.&quot;  </p>
+<p>Herbold called the Intranet and Extranet the &quot;hottest&quot; product areas in the current computer market place in terms of business interest.</p>
+<p>Both are capable of producing vast payroll and overhead savings by using Internet Website technology to automate functions now performed by human beings. Intranet systems are in-house Webs for company employees. Extranet systems allow two companies to automate their business relationships.</p>
+<p>&quot;You can literally remove the people who have been answering the phone in the past. You can remove the paperwork permanently,&quot; he said.</p>
+<p>&quot;If you look at the course for the next 12 to 18 months, these represent huge opportunities, and in and of themselves, will drive a tremendous amount of software revenue and telecommunications revenue.&quot;</p>
+<p>((Atlanta Bureau, 404-870-7340))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

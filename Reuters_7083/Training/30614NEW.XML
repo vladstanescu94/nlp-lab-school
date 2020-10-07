@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30614" id="root" date="1996-09-03" xml:lang="en">
+<title>UK: Macro 4 full-year profit rises 4.7 percent.</title>
+<headline>Macro 4 full-year profit rises 4.7 percent.</headline>
+<dateline>LONDON 1996-09-03</dateline>
+<text>
+<p>Year to June 30</p>
+<p>			   (million stg unless stated)</p>
+<p> Shr (pence)		37.5		   vs 35.2</p>
+<p> Dividend (pence)	 9.3		    vs 8.6</p>
+<p> Total dividend (pence) 24.3		   vs 22.0</p>
+<p> Pretax		     12.15		  vs 11.60</p>
+<p> Turnover		   25.32		  vs 25.04</p>
+<p> Operating result	 11.11		  vs 10.42</p>
+<p> Tax			  4.19		   vs 3.83</p>
+<p> Pay date		   Nov 4</p>
+<p> Div registration date  Sept 17</p>
+<p> Ex-div date		Sept 9</p>
+<p>NOTE - Macro 4 Plc is a computer sofware maker. The firm expects further growth in earnings per share, but adds that the outcome of rapid changes within the traditional mainframe market is uncertain.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

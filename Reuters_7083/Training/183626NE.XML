@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183626" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Novell to unveil NDS strategy.</title>
+<headline>Novell to unveil NDS strategy.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-11</dateline>
+<text>
+<p>Novell Inc on Tuesday will unveil its plans to make money off one of its key computer networking technologies, Novell Directory Services, a company spokeswoman said.</p>
+<p>In a conference call with reporters and analysts scheduled for 1030 PST/1830 GMT, Novell executives will outline how they plan to include the technology in a broad range of communication products, the spokeswoman said.</p>
+<p>Novell Directory Services (NDS), is software that manages huge directories of electronic addresses. The technology makes it easier for computer users to communicate with coworkers without having to know huge strings of strange characters and directory paths.</p>
+<p>Until now, Novell has used NDS exclusively in its flagship product, NetWare, a program that manages the flow of information through personal computer networks.</p>
+<p>Novell, looking to expand its product line and sources of revenue, has said it plans to include NDS in other products or license it to other software publishers.</p>
+<p>-- Kourosh Karimkhany +1 415 846 5401</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

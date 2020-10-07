@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137769" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Truevision Q1 shr loss $0.28 before charge.</title>
+<headline>Truevision Q1 shr loss $0.28 before charge.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-22</dateline>
+<text>
+<p>Truevision</p>
+<p>		  Consolidated Statements of Operations</p>
+<p>	  (Unaudited, in thousands, except per share data)</p>
+<p>							Three Months Ended</p>
+<p>						     Sep 29	  Sep 30</p>
+<p>							1996	     1995</p>
+<p> Net sales					$10,048	 $17,044</p>
+<p> Cost of sales				    7,372	  10,837</p>
+<p> Gross profit				     2,676	   6,207</p>
+<p>Operating expenses:</p>
+<p>  Research and development		    1,743	   1,765</p>
+<p>Selling, general and</p>
+<p>   administrative				 4,290	   4,012</p>
+<p> Total operating expenses		     6,033	   5,777</p>
+<p> Income (loss) from operations	    (3,357)	     430</p>
+<p>Interest and other income</p>
+<p>  (expense), net				  (201)	    (49)</p>
+<p>Income (loss) before provision</p>
+<p>  for income taxes			    (3,558)	     381</p>
+<p> Provision for income taxes			 0		10</p>
+<p>Income (loss) before cumulative</p>
+<p>effect of change in accounting</p>
+<p>  principle				     (3,558)	     371</p>
+<p>Cumulative effect of change</p>
+<p>  in accounting principle		   (4,858)		 0</p>
+<p> Net income (loss)			   ( 8,416)	     371</p>
+<p>Per common share:</p>
+<p>Income (loss) before cumulative</p>
+<p>effect of change in accounting</p>
+<p>   principle				    ( 0.28)	    0.03</p>
+<p>Cumulative effect of change in</p>
+<p>   accounting principle		     ( 0.38)	    0.00</p>
+<p>  Net income (loss)			   ( 0.66)	    0.03</p>
+<p>Weighted average common shares</p>
+<p>  and equivalents				12,676	  13,333</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

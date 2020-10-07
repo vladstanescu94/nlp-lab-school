@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16004" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: IBM to offer Navigator with OS/2 Warp 4.</title>
+<headline>IBM to offer Navigator with OS/2 Warp 4.</headline>
+<dateline>NEW YORK 1996-08-27</dateline>
+<text>
+<p>International Business Machines Corp and Netscape Communications Corp are expected to announce Wednesday that Netscape is developing a version of the Navigator browser for the next version of OS/2.</p>
+<p>IBM said it is holding a teleconference to announce a joint software-related agreement with Netscape executives on Tuesday at 1200 noon EDT. An IBM spokesman declined to comment on the details of the announcement.</p>
+<p>But Tim Sloane, an analyst with the Aberdeen Group, said Netscape is developing a version of its popular Navigator Web browser for IBM's next version of its PC operating system.  </p>
+<p>&quot;They have also agreed to extend the Navigator product a little bit by adding in some of the voice recognition capabilities that come with OS/2 Warp,&quot; Sloane said. &quot;You can say 'take me to (search engine) Yahoo!',&quot; he explained.</p>
+<p>Netscape Navigator will replace IBM's current Web browser, called Web Explorer, which has been available on OS/2 Warp since Warp was first introduced as a major revamp of IBM's much-maligned but technically superior operating system, OS/2.</p>
+<p>IBM said it now has over 14 million users of OS/2.</p>
+<p>IBM's next version, OS/2 Warp 4, is set for release on September 25, an IBM spokesman said.  </p>
+<p>OS/2 users will probably be able to download Navigator from the Internet with the new version of OS/2 Warp shortly after it is released in September, analysts said.</p>
+<p>IBM has rushed out the next release of OS/2 Warp 4, code-named Merlin, in a move to try to fight Microsoft Corp and its widely anticipated Windows NT 4.0, out now. The previous target date had previously been later in the autumn.</p>
+<p>The move to embrace Navigator is a step in the right direction for IBM, analysts said, but it may not result in a huge number of new users.  </p>
+<p>&quot;I'm delighted to see IBM break the 'not-invented-here' syndrome and to adopt a technology that clearly has the market share dominance,&quot; Sloane said, referring to Netscape's current dominance of the market for browsers to search the Internet's World Wide Web of computer networks.</p>
+<p>IBM's user of Navigator will likely please OS/2 users, who currently cannot access all Web sites in their optimal form.</p>
+<p>&quot;The browser for OS/2 Warp is clearly an inferior product,&quot; said Roy Asfar, assistant managing editor at Computer Reseller News and avid OS/2 user. &quot;Hitting a site designed for Netscape or Microsoft's Explorer is a navigating nightmare if you are browsing with IBM's Web Explorer.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

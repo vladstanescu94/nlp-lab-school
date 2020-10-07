@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604007" id="root" date="1997-05-21" xml:lang="en">
+<title>ISRAEL: RESEARCH ALERT-Oshap estimate raised.</title>
+<headline>RESEARCH ALERT-Oshap estimate raised.</headline>
+<dateline>TEL AVIV 1997-05-21</dateline>
+<text>
+<p>Lehman Brothers raised its 1997 earnings per share estimate for Oshap Technologies Ltd to $0.19 from $0.16 after the Israeli-based software group reported better than expected first quarter results.</p>
+<p>In 1996 Oshap earned $0.08 a share.</p>
+<p>The company earned $0.02 a share in the first quarter of 1997, versus Lehman's break-even estimate. Operating expenses were lower than expected while the contribution from Oshap's minority interest in Tecnomatix was stronger than anticipated, Lehman said in a report released on Wednesday.</p>
+<p>Lehman maintained its 1-buy rating for Oshap and increased its one-year price target to $10-$12 from $8-$10. Oshap trades at $7.</p>
+<p>-Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

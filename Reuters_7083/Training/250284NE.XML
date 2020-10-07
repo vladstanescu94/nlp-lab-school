@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250284" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: NetDynamics says Netscape to feature its tools.</title>
+<headline>NetDynamics says Netscape to feature its tools.</headline>
+<dateline>MENLO PARK, Calif. 1996-12-11</dateline>
+<text>
+<p>NetDynamics Inc said Netscape Communications Corp will feature the NetDynamics development studio and application server in a Netscape SuiteTools line to be unveiled separately today.</p>
+<p>The NetDynamics product allows large institutions and corporations to develop and deliver applications across the organization based on the Java software technologies invented and being developed by Sun Microsystems Inc.</p>
+<p>The Java-based tool enables organizations to create their own Web applications dynamically tied to databases, providing the opportunity to mix old and newer applications.</p>
+<p>&quot;Under the terms of the agreement between the companies, Netscape will resell NetDynamics as the preferred Java enterprise database application tool to its corporate customer base,&quot; the private, Menlo-Park based company said.</p>
+<p>NetDynamics said Netscape would sell the product through its direct sales force and distribution channels worldwide.</p>
+<p>The company said NetDynamics will also be highlighted in the Netscape DevEdge on-line Internet site for developers.</p>
+<p>NetDynamics also announced support for the Netscape ONE open network environment as a prefered platform for developing Internet and Intranet applications.</p>
+<p>The software tool products help customers develop new applications for the World Wide Web, including electronic commerce and real time information distribution.</p>
+<p>&quot;We have focused our company and products on 'Web- volutionizing' businesses -- using the Web to directly impact the bottom line,&quot; NetDynamics President and Chief Executive Zack Rinat said in a statement.</p>
+<p>NetDynamics has raised a total of $7 million from its backers, including the venture capital firms Hummer Winblad and U.S. venture partners, along with Intel Corp.</p>
+<p>&quot;This is a huge boost because of the dramatic increase in presence with the corporate customers,&quot; a spokeswoman said.</p>
+<p>NetDynamics is on its fourth generation of products, and says it has in the last six months gained 250 new Fortune 1000 customers, the spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750582" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Elcom mulls merger, sale or partnerhip.</title>
+<headline>Elcom mulls merger, sale or partnerhip.</headline>
+<dateline>NORWOOD, Mass. 1997-07-23</dateline>
+<text>
+<p>Elcom International Inc said Wednesday it hired Smith Barney Inc to help the company increase stockholder value, which would include selling or merging the company.</p>
+<p>&quot;These actions will include the evaluation of a possible sale or merger of the company, the evaluation of potential strategic partners, and strategic financing options,&quot; a company statement said.</p>
+<p>The company's stock rose 1/8 to 6-1/8 Wednesday morning, still a long way from its 52-week high of 10-5/8.  </p>
+<p>Elcom said its Catalink Direct subsidiary, which has 17 sales and support offices in the U.S. and seven in Great Britain, &quot;could provide a partner with a strong PC products platform.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWOOD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="296491" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: Ultradata sees Q4, year loss.</title>
+<headline>Ultradata sees Q4, year loss.</headline>
+<dateline>PLEASANTON, Calif. 1997-01-09</dateline>
+<text>
+<p>Ultradata Corp said Thursday it expects to post a loss for the fourth quarter and fiscal year 1996, ended December 31.</p>
+<p>The company said the loss was because of difficulties handling the increase in business that resulted from strong sales in the first half of fiscal 1996.</p>
+<p>The company said revenues and earnings for the fourth quarter will be below analysts' expectations. Analysts's had predicted the company would break even in the fourth quarter and post a net loss of $0.07 for the fiscal year.  </p>
+<p>The company said fourth quarter revenues will be below year-ago levels.</p>
+<p>Ultradata said in a statement it's financial performance in the first half of 1996 exceeded expectations as demand for the it's products and services exceeded internal internal forecasts. However, the company said it found it difficult to efficiently service and support this sales activity and saw its revenue generating activities slow down as a result.</p>
+<p>Ultradata said its service and support capabilities will be prepared to handle accelerated sales activity in the second half of 1997.</p>
+<p>Ultradata provides on-line information management products to financial institutions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

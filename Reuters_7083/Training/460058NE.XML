@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="460058" id="root" date="1997-03-21" xml:lang="en">
+<title>USA: Olicom A/S to buy CrossComm.</title>
+<headline>Olicom A/S to buy CrossComm.</headline>
+<dateline>MARLBORO, Mass. 1997-03-21</dateline>
+<text>
+<p>Olicom A/S and CrossComm Corp said Friday they had signed an agreement for Olicom to acquire CrossComm.</p>
+<p>Each of CrossComm's 9.3 million outstanding shares will be swapped for $5.00 cash, 0.2667 Olicom share and a three-year warrant, they said.</p>
+<p>The warrant would equal a right to acquire 0.1075 Olicom share at $19.74 per full share, the companies said.  </p>
+<p>The acquisition, to be accounted for using purchase accounting, will result in Olicom recognizing a &quot;significant&quot; non-recurring charge in the second quarter in order to write off in-process research and development and certain other acquisition-related expenses, the companies said.  </p>
+<p>Olicom, based in Denmark, sells a broad range of Token-Ring, Fast Ethernet and asynchronous transfer mode (ATM) local area network products. CrossComm provides ATM and router technology designed for mainframe computer systems.</p>
+<p>The companies said they would develop products for both the IBM-centric mainframe and client-server environments.</p>
+<p>&quot;Olicom has invested significantly in ATM and Token-Ring switching during the past two years, both independently and through our joint development agreement with Cisco Systems Inc,&quot; said Lars Stig Nielsen, Olicom founder and chief executive.</p>
+<p>&quot;The acquisition of CrossComm will accelerate our concerted efforts into these high-growth markets by at least 18 months,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

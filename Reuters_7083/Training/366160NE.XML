@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366160" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Netscape browser losing ground to Microsoft - study.</title>
+<headline>Netscape browser losing ground to Microsoft - study.</headline>
+<dateline>NEW YORK 1997-02-10</dateline>
+<text>
+<p>Netscape Communications Corp has lost ground to rival Microsoft Corp in the Internet browser market and is expected to see its market share shrink further this year, according to a study by Jupiter Communications.</p>
+<p>In a statement, the privately held research firm said Netscape's Navigator has about 59 percent of the market compared with 21 percent for Microsoft's Internet Explorer.</p>
+<p>The firm said it expects Navigator's market share to fall to 38 percent by the end of 1997.  </p>
+<p>A spokesman for Jupiter said Netscape's market share has fallen steadily since Microsoft's Explorer 3.0 became available in the spring of 1996. In May of 1996, Navigator held 83 percent of the browser market compared with seven percent for Microsoft Explorer.</p>
+<p>The spokesman said the market share estimates are based on information from browser tracking sites.</p>
+<p>&quot;Netscape's browser share is paying the price now for losing huge online service deals last year,&quot; said Ross Scott Rubin, Group Director of Consumer Internet Technologies at Jupiter Communications.  </p>
+<p>&quot;In spite of shifting its strategy toward the intranet, though, its servers are embraced by large consumer-oriented Web sites,&quot; he said.</p>
+<p>Jupiter said the key to Netscape's retaining market share is maintaining simultaneous cross-platform development, attacking the non-PC device space with both client and server products, and focusing new marketing efforts toward the consumer market.</p>
+<p>Among the firm's other findings are:</p>
+<p>-- Jupiter finds Netscape servers used by 60 percent of the top 50 consumer sites on the Web.</p>
+<p>-- Netscape will struggle to decide whether it is a platform or applications vendor in 1997.</p>
+<p>-- As Netscape feeds the enterprise market, it is starving its consumer endeavors.</p>
+<p>-- Netscape's Communicator product will effectively end the browser war, but is no watershed for consumers.</p>
+<p>&quot;Just as Microsoft Office raised the level of discussion beyond specific components, Communicator will transform the market focus from the browser to the communications suite,&quot; the firm said.&quot; However, Jupiter does not expect leading consumer content sites to take advantage of the new collaborative features of Communicator.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

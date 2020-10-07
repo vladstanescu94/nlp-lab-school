@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="550686" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: IBM unveils service for managing shipments.</title>
+<headline>IBM unveils service for managing shipments.</headline>
+<dateline>NEW YORK 1997-04-30</dateline>
+<text>
+<p>International Business Machines Corp on Wednesday introduced a service to help freight shippers better mmanage their deliveries.</p>
+<p>IBM's TransConnect for Shipment Management is the first major service the company is offering for the freight-management industry, IBM spokesman Glenn Hintze said.</p>
+<p>TransConnect integrates the steps involved in shipping a product, from routing to providing proof of delivery. IBM said it would begin offering the service this year in North America and later in Europe and Asia.  </p>
+<p>Its applications include soliciting carriers for a task, determining the type and amount of packaging and the electronic generation of required paperwork, such as hazardous materials labels, manifests and bills of lading, said Bill Paulk, vice president of solutions at IBM's Travel and Transportation Services unit.</p>
+<p>IBM, which unveiled TransConnect at the International Intermodal Expo in Atlanta, began using TransConnect last summer to ship its own products. TransConnect now handles more than 50,000 IBM shipments a week.  </p>
+<p>TransConnect's first customer is likely to be Ryder System Inc, which announced in March that it hired IBM and Andersen Consulting to develop a logistics system in a 10-year deal worth almost $1.4 billion.</p>
+<p>Paulk said the logistics market is valued at $670 billion a year. &quot;It's become not only a popular market, but it's recognized to be a very large market, and TransConnect is a foot forward for us,&quot; he said.</p>
+<p>Vendors involved in TransConnect include Sapiens International Corp NV, a North Carolina software company. Its flagship product, Object Pool, is an application being used to customize TransConnect for different customers.</p>
+<p>((Carol Huang -- New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I84803">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

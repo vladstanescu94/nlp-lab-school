@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485401" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: Versant shares fall 28 percent on loss forecast.</title>
+<headline>Versant shares fall 28 percent on loss forecast.</headline>
+<dateline>MENLO PARK, Calif.</dateline>
+<text>
+<p>Versant Object Technology Corp. shares fell 28 percent Wednesday after the database software company said it expected to report a first-quarter loss on weaker-than-expected sales.</p>
+<p>Shares of Versant, based in Menlo Park, Calif., fell $2.375 to $6.25.</p>
+<p>Versant said it will report a loss of between 11 cents to 15 cents a share for the quarter ended March 31 on revenue of $3.5 million. While revenue will be about 9 percent higher than in the same quarter a year ago, it will be less than the company expected, Versant said.</p>
+<p>Wall Street expected Versant to earn 2 cents a share, according to First Call. In the fourth quarter of last year, Versant earned $696,000, or 7 cents a share, on revenues of $5.6 million.</p>
+<p>&quot;We believe that the revenue shortfall results principally from the timing and complexity of large-project opportunities, rather than losses of business to competition,&quot; said David Banks, Versant president.</p>
+<p>Versant released the forecast after the market closed. During trading hours, its shares had traded as low as $5.125.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

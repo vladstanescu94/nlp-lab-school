@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111352" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: NeTegrity Q2 loss vs profit.</title>
+<headline>NeTegrity Q2 loss vs profit.</headline>
+<text>
+<p>WALTHAM, Mass., Oct 10  (Reuter)</p>
+<p>		    (In thousands except per share data)</p>
+<p>			Three Months ended	    Six Months ended</p>
+<p>			    September 30,		  September 30,</p>
+<p>			1996	    1995	    1996	  1995</p>
+<p>Net revenues    $1,076	    $584	  $2,206	$1,315</p>
+<p>NET (LOSS)FROM CONTINUING  OPERATIONS	$(676)	  $  10	  $ (752)    $    66</p>
+<p>Net(loss)from discontinued operations</p>
+<p>			---	     ---	    (520)	  155</p>
+<p>NET(LOSS)/SHR   $(0.07)	  $0.00	    0.46	 $0.03</p>
+<p>Weighted average  common shares  10,353	   8,683	  10,200	 8,764</p>
+<p>NOTES: The company said the loss resulted primarily from planned R&amp;D and product marketing expenditures and headcount additions in the areas of sales, marketing and administration required to move the Company from a software catalogue distributor to a developer of software products and consulting services for the rapidly growing network security market.</p>
+<p>Earlier in the year, the Company sold its catalogue business.  It subsequently changed its name from The Software Developer's Company, Inc to NeTegrity, Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

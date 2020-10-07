@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="358470" id="root" date="1997-02-05" xml:lang="en">
+<title>BELGIUM: Belgian CERA bank joins Internet banking fray.</title>
+<headline>Belgian CERA bank joins Internet banking fray.</headline>
+<byline>Bert Lauwers</byline>
+<dateline>LEUVEN, Belgium 1997-02-05</dateline>
+<text>
+<p>CERA Bank, Belgium's sixth-largest bank, said on Wednesday it would enter the Internet banking fray next week with the help of IBM and Microsoft.</p>
+<p>It said it was one of the first European banks, and the first in Belgium, to offer direct access to bank account details through the Internet from anywhere in the world via a personal computer or laptop.</p>
+<p>&quot;The traditional home banking package is outdated,&quot; CERA board member Frans Florquin told a news conference.</p>
+<p>&quot;We wanted to be the first ones to meet the demand of retail clients who are already Internet users. They now want to carry out banking transactions via the Internet,&quot; he said.</p>
+<p>Rudi Peeters, head of CERA's electronic banking, said customers could carry out all classic banking transactions -- domestic payments, account management, consulting exchange rates and rates for short-term deposits -- from early next week.</p>
+<p>Other banking products, such as investment information and foreign payments, will be developed later this year.</p>
+<p>&quot;You haven't seen anything yet,&quot; said Peeters, who put the total investment at about 30 million francs ($882,000).</p>
+<p>Florquin told Reuters that information could be called up permanently but that financial transactions could only be made between 0600 GMT and 2100 GMT.</p>
+<p>He said other Belgian banks were preparing similar Internet banking services, which took CERA six months to develop, one month longer than anticipated.</p>
+<p>&quot;I know others are also occupied with it,&quot; he said without elaborating.</p>
+<p>IBM and Microsoft representatives at the news conference declined to name the banks that were also planning an entry on the Internet.</p>
+<p>Microsoft provides the browsers while IBM provides global network and security. The server is provided by  Scorpio.</p>
+<p>Peeters said CERA was hoping to convince its 12,000 home banking clients with personal computers to switch to using the Internet. &quot;We should be able to convert these clients, and at least double that figure, in two years,&quot; Peeters said.</p>
+<p>Florquin said CERA had more than 500,000 retail clients. &quot;So 25,000 is definitely a cautious estimate,&quot; he said.</p>
+<p>Peeters said CERA was offering the software for Internet access for free. Subscriptions to CERA Online are free for clients aged 24 or less, he added.</p>
+<p>Subscription rates for other customers would be 100 francs ($2.9) per month compared with the 150 ($4.4) francs charged for CERA's existing home banking package.</p>
+<p>The service can also be integrated with the Isabel service, an electronic banking and communications network backed by seven Belgian banks, Peeters said.</p>
+<p>Isabel -- Interbank Standards Association Belgium -- is an information highway for financial communication whose services include secure electronic banking with 30 member banks, electronic mail, and access to news providers and the Internet.</p>
+<p>($ = 34.0 Belgian francs)</p>
+<p>-- Brussels Newsroom +32 2 287 6815, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEUVEN, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="596836" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: Engineering Animation files to offer shares.</title>
+<headline>Engineering Animation files to offer shares.</headline>
+<dateline>WASHINGTON 1997-05-20</dateline>
+<text>
+<p>Engineering Animation Inc filed Tuesday with the U.S. Securities and Exchange Commission to register up to 1.429 million common shares, of which the company will sell 870,000 common shares and current shareholders will sell 559,000 shares.</p>
+<p>The Ames, Iowa, company, which develops 3-D technology for a wide range of industries, said it will use the proceeds from the shares it sells, about $25 million, to expand international sales, for product development and to finance other general corporate needs.</p>
+<p>The underwriters for the offering, J.P. Morgan &amp; Co and Cowen &amp; Company, have an over-allotment option of up to 214,350 shares.</p>
+<p>After the offering, the company will have 5,572,260 shares outstanding.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

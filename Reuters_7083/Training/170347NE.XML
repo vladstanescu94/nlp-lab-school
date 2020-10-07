@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170347" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Microsoft, Object Design in pact.</title>
+<headline>Microsoft, Object Design in pact.</headline>
+<dateline>BURLINGTON, Mass. 1996-11-06</dateline>
+<text>
+<p>Microsoft Corp and Object Design Inc said Wednesday Microsoft has licensed Object Design's specialized software programming tools for Java, the Internet programming language.</p>
+<p>Object Design said its ObjectStore PSE for Java is the only product to allow software program developers to embed a feature known as &quot;persistent storage&quot; in Java.</p>
+<p>Persistent storage allows computer users to download Java applets from the Internet, work with the applets or mini-applications on their computers and store any changes they have made to data in the applets on their own computers.  </p>
+<p>The deal is expected to have little direct revenue impact for either company, a spokeswoman for Object Design said.</p>
+<p>However, she said her company's full-blown ObjectStore database management system products stand to gain if Java, and by extension, Object Design's related software, become a familiar programming environment for Microsoft Windows.</p>
+<p>Object Design shares had gained 2-21/32 to 15-1/4 by mid-morning Wednesday following release of the announcement.</p>
+<p>Java is a programming language developed by Sun Microsystems Inc that is designed to simplify and speed the process of transmitting information and applications over the Internet.</p>
+<p>Microsoft Corp and rival Netscape Communications Corp among others, have licensed Java from Sun for use in their own software systems.</p>
+<p>-- Eric Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

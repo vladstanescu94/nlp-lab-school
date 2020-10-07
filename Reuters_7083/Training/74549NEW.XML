@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74549" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Reuters targets American market share.</title>
+<headline>Reuters targets American market share.</headline>
+<dateline>SAN FRANCISCO 1996-09-25</dateline>
+<text>
+<p>Reuters America Holdings Inc Chairman and Chief Executive Michael Sanderson said the company aims to boost market share in the Americas through its new Reuters 3000 Series and Reuters Web products.</p>
+<p>Sanderson told a news briefing here that the product line, combining analytics and real-time market data, &quot;in America is really designed to enable us to gain market share.&quot;</p>
+<p>He said the Reuters 3000 Series analytics, which would be available in the U.S. market for a modest premium of roughly $100 a month over existing Reuters 2000 products, is designed to meet the requirements of professional investors and funds.  </p>
+<p>&quot;It is Reuters' objective to be number one in all of the major markets that we choose to operate in,&quot; he said.</p>
+<p>Reuters previewed Reuters Web, a 3000 Series feature which will incorporate Netscape Communications Corp software, enabling customers to use Web technology to access information across its High Performance Shared Network (HPSN).</p>
+<p>Sanderson said the use of Internet technology within the Reuters private network was &quot;a huge opportunity&quot; adding the Reuters implementation aims to provide high performance and reliability that is still lacking on the public Internet.  </p>
+<p>&quot;I would say you scratch most of our clients and their primary concern is speed and quality of information,&quot; he said. &quot;You sit on a bond desk somewhere and you want information, you want it right now.&quot;</p>
+<p>Andrew Delaney, editor of Waters Information Services' Market Data Industry publication in New York, said the North American buy-side investment market is currently dominated by two suppliers, Bloomberg Business News and Bridge.  </p>
+<p>Delaney said Waters estimates Bloomberg had 1995 North America revenues in this investment sector of $391 million from 29,000 screens and Bridge had $99.5 million of revenues in the same North American sector from 6,900 screens.</p>
+<p>&quot;It's a lucrative market and Reuters isn't alone in targeting it,&quot; he said, adding that: &quot;Bloomberg doesn't want to give it up easily.&quot;</p>
+<p>Sanderson declined to discuss whether or not Microsoft Corp, the PC software giant locked in a head-to-head Web browser battle with Netscape, had approached Reuters about using Microsoft's rival Internet Explorer.  </p>
+<p>&quot;We have a great relationship with Netscape. We are also a very large, global firm that are being solicited constantly by other vendors for their products and we look for...the opportunities that we see best for our clients.&quot;</p>
+<p>The deal is not exclusive to either party, he said.</p>
+<p>Netscape Chief Executive James Barksdale said the Reuter global private network was an example of using Internet technologies for the sort of serious, large-scale corporate products he said Netscape had forecast two years ago.  </p>
+<p>&quot;People said the only stuff that's on the Web are these silly little Web sites. This is a serious database...so the idea that somehow or other the Web is going to stay the domain of the garage Website is being dispelled,&quot; he said.</p>
+<p>Barksdale said Netscape has now distributed a total of 45 million copies of its Netscape Navigator browser, including about three million in the last four weeks alone.</p>
+<p>Some 80 percent of Netscape's revenues are related to internal corporate networks using Internet technology, known as Intranets, he added.  </p>
+<p>Barksdale, citing an International Data Corp study, said &quot;64 percent of American companies in the Fortune 1000 range have Intranets installed with the remainder planning to go, except for a minor percentage, to that technology within the next year.&quot;</p>
+<p>Four services will initially be accessible across Reuters Web: Elliott Wave International's technical analysis, a PrensaWeb emerging market service focusing on Latin America, database products and the Edgar federal online filing service.  </p>
+<p>&quot;This is going to promote the capability of being unique,&quot; Lyle Latvala, director of new business development at Elliott Wave International, said of the firm's plans to start distributing across ReutersWeb by year-end.</p>
+<p>&quot;In the case of Elliott Wave, the picture's worth 100,000 words, not jut 1,000 words,&quot; he said of the ability to display graphic charts of money rates and other markets in addition to the text it has traditionally distributed electronically.</p>
+<p>Sanderson said Reuters was also looking at the use of Internet technology for financial products geared for retail investors, such as its existing Reuter Money Network offering.</p>
+<p>&quot;We're clearly exploring using this technology that you've seen with Netscape, creating packages of value and interest to retail investors, keeping in mind that many of our professionals in their lives after 5 o'clock are also retail investors,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

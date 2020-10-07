@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="558726" id="root" date="1997-05-04" xml:lang="en">
+<title>USA: Netscape to unveil new directory version.</title>
+<headline>Netscape to unveil new directory version.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-05-04</dateline>
+<text>
+<p>Netscape Communications Corp. Monday will introduce a new version of a product designed to make it easier for corporations to conduct business over the Internet.</p>
+<p>Netscape executives said in interviews ahead of the announcement that test versions of the product, known as Netscape Directory Server 3.0, will be available next week and a final version will be shipped in the third quarter.</p>
+<p>The software is a key part of the so-called Crossware strategy Mountain View, Calif.-based Netscape unveiled two months ago in which it aims to build Internet-based software that connects companies to business partners at lower cost.</p>
+<p>Tne new software is designed to make it easier for people to reach individuals in their own organization and across the Internet.</p>
+<p>That capability, part of an industry standard dubbed Lightweight Directory Access Protocol version 3, to be finalized in August, is key to several initiatives.</p>
+<p>The standard promises to make it easier for suppliers, customers and partners, for example, to communicate across the Internet and form so-called &quot;Extranet&quot; links using the Internet technology and LDAP directories.</p>
+<p>One Netscape customer, DHL Systems Inc., said the standard was key to its strategy and one reason it chose Netscape's SuiteSpot and Communicator products for its 22,000 users.</p>
+<p>Gary Clark, director of infrastructure at DHL Systems, said, &quot;we could not be successful in the package delivery business without a common directory service that makes it easy for our employees to find people around the world.&quot;</p>
+<p>A further benefit of LDAPv3 is that it can free computer users to use other approved computers on a network as if the machines were their own.</p>
+<p>Ben Horowitz, a director of marketing at Netscape, said the standard will allow customers to match Netscape's offering with that of rivals such as Novell Inc.,  which also plans to support LDAP on its owns directory product later this year.</p>
+<p>The product will also be compatible with the Microsoft Corp. Active Directory product expected in mid-1998.</p>
+<p>Major computer makers, including Digital Equipment Corp., Hewlett-Packard Co. and International Business Machines Corp are supporting the new version of LDAP, Netscape said.</p>
+<p>Novell and database companies Oracle Corp. and Informix Software are also backing the standard, in addition to Internet companies such as Bigfoot, Four11, Switchboard and WhoWhere?, it said.</p>
+<p>Netscape's new directory server product will be priced at $995 on a one-time basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

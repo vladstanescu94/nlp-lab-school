@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270478" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Progress Software Corp Q4 net falls.</title>
+<headline>Progress Software Corp Q4 net falls.</headline>
+<dateline>BEDFORD, Mass. 1996-12-20</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.05		    $0.45</p>
+<p> Net			    705		    6,211</p>
+<p> Revs			45,235		   52,998</p>
+<p> Avg shrs		  13,268		   13,885</p>
+<p>	  12   MONTHS</p>
+<p> Shr			  $0.41		    $1.22</p>
+<p> Net			  5,497		   16,684</p>
+<p> Revs		     176,690		  180,135</p>
+<p> Avg shrs		  13,268		   13,628</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: 12 month figures for 1995 include non-recurring charge of $2.37 million, or $0.18 per share, for purchase of in-process software development in the acquisition of Crescent Software Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

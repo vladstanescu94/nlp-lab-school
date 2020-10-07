@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72024" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: RESEARCH ALERT - SPSS near-term rating cut.</title>
+<headline>RESEARCH ALERT - SPSS near-term rating cut.</headline>
+<text>
+<p>--EVEREN Securities Inc said Tuesday it downgraded its intermediate-term (six month) rating on SPSS Inc to market performer from outperform based on current valuations.</p>
+<p>--Shares of SPSS, a Chicago-based statistical software company, rose 40 percent since EVEREN's upgrade on May 6, reaching a six-month price target of $28.</p>
+<p>--&quot;We believe the shares are more likely to perform in line with the market averages over the near term,&quot; it said in a report. Its EPS estimates of $1.18 for 1996 and $1.42 for 1997 are unchanged.</p>
+<p>--SPSS was trading at 27-3/4, off 7/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

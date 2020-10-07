@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476323" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: PeopleSoft, Netscape team on business software.</title>
+<headline>PeopleSoft, Netscape team on business software.</headline>
+<dateline>PLEASANTON, Calif. 1997-03-31</dateline>
+<text>
+<p>PeopleSoft Inc, unfurling the first part of its strategy to rewrite its software to work through the Internet, said it will work with Netscape Communications Corp to develop business software.</p>
+<p>The companies will help each other develop software that lets corporate customers tap financial information and human resources records using browsers, the same programs people use to surf the Internet.  </p>
+<p>PeopleSoft, based in Pleasanton, Calif., writes software that lets companies store and retrieve personnel information and accounting records. Until now, customers have had to use PeopleSoft's proprietary PC software to manage this information.</p>
+<p>PeopleSoft executives last week outlined a strategy under which the company plans to rewrite its software so that anyone within a company with a browser could look up corporate information.</p>
+<p>PeopleSoft said Netscape's expertise in Internet software will help carry out its plans.</p>
+<p>The company plans to introduce new versions of its programs by the first quarter of 1998, PeopleSoft said.</p>
+<p>Following a slump in technology stocks Monday, PeopleSoft shares were down 2-1/16 at 40-1/4 while Netscape shares were down 3/8 at 30-3/4.</p>
+<p>((--Kourosh Karimkhany, in Palo Alto, 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

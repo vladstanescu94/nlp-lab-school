@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186940" id="root" date="1996-11-13" xml:lang="en">
+<title>UK: BT, MCI and Microsoft in global intranet pact.</title>
+<headline>BT, MCI and Microsoft in global intranet pact.</headline>
+<dateline>LONDON 1996-11-13</dateline>
+<text>
+<p>British Telecommunications Plc, MCI Communications Corp  and U.S giant Microsoft Corp confirmed on Wednesday they plan to expand their alliances to develop a new range of global intranet services.  </p>
+<p>The companies said they planned to target two types of customer demands, including one for a range of solutions for businesses that want to build and manage their own intranet, a customised internal computer network.</p>
+<p>The second, to be rolled out in early 1997, is for a fully-managed, network-based intranet service for customers seeking a communications partner that can build and manage their intranet on a global basis.</p>
+<p>The firms said analysts expected that by 1999, products and services associated with building corporate intranets to account for $28 billion -- more than half of the total Internet market. The new services will offer the full range of Microsoft's messaging and intranet platforms, the firms said in a joint statement released here.</p>
+<p>BT and MCI, which plan to merge in a $20 billion deal, will market the new services worldwide.</p>
+<p>The services will be offered by Concert, the two companies' existing telecommunications joint venture. Concert InternetPlus Service, a global Internet backbone that became operational this week between the United States and Europe, will support intranet transport for the new services.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

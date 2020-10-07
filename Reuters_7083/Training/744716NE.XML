@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744716" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE - Intergraph Q2 shr loss widens.</title>
+<headline>TABLE - Intergraph Q2 shr loss widens.</headline>
+<dateline>HUNTSVILLE, Ala 1997-07-22</dateline>
+<text>
+<p>Intergraph Corp.</p>
+<p>			  Summary Financial Information</p>
+<p>		 Quarter Ended June 30 (Unaudited)</p>
+<p>							1997	    1996</p>
+<p> Revenue				  $288,609,000   $268,166,000</p>
+<p> Loss from operations		  (7,327,000)   (14,749,000)</p>
+<p> Nonoperating income (expense)  (8,700,000)(a)	(430,000)</p>
+<p> Income taxes					---		---</p>
+<p> Net loss				 (16,027,000)   (15,179,000)</p>
+<p> Net loss per share			    (.33)	    (.32)</p>
+<p>Weighted average shares outstanding</p>
+<p>						47,888,000     46,922,000</p>
+<p>		 Six Months Ended June 30 (Unaudited)</p>
+<p>							1997	    1996</p>
+<p> Revenue				   $541,367,000  $524,872,000</p>
+<p> Loss from operations		  (31,531,000)  (31,486,000)</p>
+<p> Gain on sale of stock investment	     ---     9,373,000</p>
+<p>Other nonoperating income (expense)</p>
+<p>					  (10,785,000)(a)	 543,000</p>
+<p> Income taxes					 ---	     ---</p>
+<p> Net loss				  (42,316,000)  (21,570,000)</p>
+<p> Net loss per share			     (.88)	   (.46)</p>
+<p>Weighted average shares outstanding</p>
+<p>						 47,823,000    46,947,000</p>
+<p>NOTE: (a) Includes the adverse contract arbitration award described above.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTSVILLE, Ala"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

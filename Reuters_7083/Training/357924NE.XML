@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="357924" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: Research Engineers Q3 shr loss vs profit.</title>
+<headline>Research Engineers Q3 shr loss vs profit.</headline>
+<dateline>YORBA LINDA, Calif. 1997-02-04</dateline>
+<text>
+<p>RESEARCH ENGINEERS INC</p>
+<p>		    Condensed Consolidated Statements of Income</p>
+<p>					     (Unaudited)</p>
+<p>			    3 Mos	3 Mos	9 Mos	9 Mos</p>
+<p>			    Ended	Ended	Ended	Ended</p>
+<p>			   Dec 31,    Dec 31,    Dec 31,    Dec 31,</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p>   Net revenues   $2,730,000 $1,853,000 $7,250,000 $4,809,000</p>
+<p>   Cost of revenues  222,000    132,000    561,000    366,000</p>
+<p>   Gross profit    2,508,000  1,721,000  6,689,000  4,443,000</p>
+<p>Operating expenses</p>
+<p>			 2,300,000  1,513,000  5,939,000  3,948,000</p>
+<p>In process research and</p>
+<p>     development     715,000     52,000    715,000	89,00</p>
+<p>Other (revenue)/expense,</p>
+<p>     net		(78,000)     31,000  (121,000)     87,000</p>
+<p>Income tax expense</p>
+<p>			    79,000    43,000*    236,000   109,000*</p>
+<p>Net (loss) income</p>
+<p>			 (508,000)    82,000*   (80,000)   210,000*</p>
+<p>Net (loss) income</p>
+<p>    per common share  (0.09)	0.02*     (0.02)     (.05)*</p>
+<p>Weighted average common</p>
+<p>shares outstanding</p>
+<p>			 5,701,000  4,179,709  5,014,889  4,114,163</p>
+<p>NOTE: * 3 mos and 9 mos 1995 Income tax expense, Net (loss) income and Net (loss) income per common share are on a pro forma basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YORBA LINDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

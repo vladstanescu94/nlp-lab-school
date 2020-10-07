@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183248" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Microsoft sets two-for-one stock split.</title>
+<headline>Microsoft sets two-for-one stock split.</headline>
+<dateline>REDMOND, Wash. 1996-11-12</dateline>
+<text>
+<p>Microsoft Corp. said Tuesday its board of directors approved a two-for-one stock split.</p>
+<p>The software giant said that the split, the sixth since it went public in 1986, was aimed at making the stock more accessible to a broader base of investors.</p>
+<p>Shareholders will receive one additional share for every share held on the record date of Nov. 22. At the end of October the company had about 600 million shares outstanding, and after the split, that number will increase to about 1.2 billion shares.</p>
+<p>New shares will be issued on or about Dec. 6, the company said. Microsoft's stock closed $1.875 lower $141.75 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241162" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Formulab mulls legal action on media.</title>
+<headline>RTRS-Formulab mulls legal action on media.</headline>
+<dateline>PERTH 1996-12-04</dateline>
+<text>
+<p>Formulab Neuronetics Corp Ltd said on Friday it had instructed its solicitors to review recent negative press articles about the company.</p>
+<p>Since December 2, Formulab shares have fallen 96 cents or 63 percent to be trading at 56 cents at 11.45 a.m. (0045 GMT).</p>
+<p>Heavy selling in the company's stock followed the U.S. launch of its neural PC, the Richter Paradigm Computer, which is said to be able to process more complex problems than existing personal computers.  </p>
+<p>&quot;Despite a highly successful launch of the Richter Paradigm computer in New York on 2 December, 1996, which was well received by the computer industry and the U.S. media, press reports appeared in the Australian Financial Review on December 4, 1996 and in the West Australian yesterday which the directors believe are incorrect and misleading,&quot; the company said in a statement to the Australian stock exchange.</p>
+<p>Formulab said it had never doubted the uniqueness and the commercial potential of its technology and had been greatly encouraged by the many calls of support it has had from shareholders. -- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

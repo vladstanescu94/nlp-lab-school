@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239448" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Soundview strategist says tech spending to rise.</title>
+<headline>Soundview strategist says tech spending to rise.</headline>
+<dateline>PALO ALTO, Calif. 1996-12-06</dateline>
+<text>
+<p>SoundView Financial Group strategist James Townsend said on Friday that technology stocks were still worth buying because most big corporations planned to increase their spending on computers in 1997.</p>
+<p>&quot;We feel pretty comfortable with the technology sector,&quot; Townsend said, citing a survey his brokerage conducted recently that found major manufacturers plan to buy more computers and software in 1997 than they did this year.</p>
+<p>Retail sales of PCs to consumers also could be &quot;solid&quot; during the holiday season despite discouraging early signs, Townsend said.</p>
+<p>SoundView's bullish recommendation came on a day when almost every bellwether technology stock declined.</p>
+<p>Microsoft Corp, Intel Corp, Compaq Computer Corp and International Business Machines Corp were lower in midafternoon trading.</p>
+<p>-- Kourosh Karimkhany, in Palo Alto, + 1 415 846 5401</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

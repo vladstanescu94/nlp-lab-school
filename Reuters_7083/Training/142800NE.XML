@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142800" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Stac Inc Q4 shr dips to $0.08.</title>
+<headline>Stac Inc Q4 shr dips to $0.08.</headline>
+<dateline>SAN DIEGO 1996-10-25</dateline>
+<text>
+<p>STAC, INC.</p>
+<p>		CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>		    (in thousands, except per share amounts)</p>
+<p>		   Three Months Ended	   Twelve Months Ended</p>
+<p>				 September 30,	September 30,</p>
+<p>			   1996	1995	    1996	  1995</p>
+<p> Revenues	   $12,233   $11,277	 $46,765     $45,804</p>
+<p> Cost of revenues   1,713     1,364	   6,531	 5,376</p>
+<p> Gross margin	10,520     9,913	  40,234	40,428</p>
+<p>Operating expenses:</p>
+<p>Research and</p>
+<p>   development	2,586     1,540	   8,356	 7,212</p>
+<p>Purchased research</p>
+<p>   and development     --	  --	  12,217	13,354</p>
+<p>Sales and</p>
+<p>   marketing	  3,500     2,385	  12,923	13,268</p>
+<p>General and</p>
+<p>   administrative   1,220     1,971	   4,386	 5,201</p>
+<p>Restructuring and</p>
+<p>other non-recurring</p>
+<p>   charges		 --	  --		--	 2,428</p>
+<p>Total operating</p>
+<p>  expenses	    7,306     5,896	  37,882	41,463</p>
+<p>Operating income</p>
+<p>  (loss)		3,214     4,017	   2,352     (1,035)</p>
+<p> Interest income	538	 551	   2,115	 1,983</p>
+<p>Income before</p>
+<p>  income taxes	3,752     4,568	   4,467	   948</p>
+<p>Provision for</p>
+<p>(benefit from)</p>
+<p>  income taxes	1,225     1,727	   6,142	 (548)</p>
+<p> Net income (loss)  2,527     2,841	 (1,675)	 1,496</p>
+<p>Less preferred</p>
+<p>  dividends		--	 400	     168	 1,598</p>
+<p>Net income (loss)</p>
+<p>for common</p>
+<p>  shareholders	2,527     2,441	 (1,843)	 (102)</p>
+<p>Net income (loss)</p>
+<p>  per common share   0.08	0.09	  (0.06)	(0.00)</p>
+<p>Weighted average</p>
+<p>common shares</p>
+<p>  outstanding	31,247    26,615	  30,068	25,391</p>
+<p>NOTES: (a) Net loss and loss per share for 12 months ended September 30, 1996 includes non-recurring charges related to the acquisition of California Software Inc and final acquisition contingency payments related to the Crossware Development Corp and Rememory Corp asset acquisitions of $12,463 and $0.41 per common share, respectively, net of tax benefits recognized.</p>
+<p>(b) Net income and income per share for the quarter ended September 30, 1995 includes non-recurring charges related to acquisition activity of $600 and $0.02 per common share, respectively, net of tax benefits recognized.</p>
+<p>Net loss and loss per share for the 12 months ended September 30, 1995 includes non-recurring restructuring charges and non-recurring charges related to the asset acquisitions of Ocean Isle Software, Crossware Development Corp, and Rememory Corp of $10,069 and $0.40 per common share, respectively, net of tax benefits recognized.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780831" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: TABLE-Information Management Q2 results.</title>
+<headline>TABLE-Information Management Q2 results.</headline>
+<dateline>CLEARWATER, Fla. 1997-08-06</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr		 $0.11		    $0.03</p>
+<p> Net		 2,477		    521</p>
+<p> Revs		18,767		   6,308</p>
+<p> Avg shrs	  22,300		   17,000</p>
+<p>	  6  MONTHS</p>
+<p> Shr		 $0.18		    $0.06</p>
+<p> Net		 3,909		    944</p>
+<p> Revs		33,114		   12,397</p>
+<p> Avg shrs	  22,300		   17,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Per-share figures are adjusted for a recent 3-for-2 stock split. Net and per-share figures for 1996 are presented on a pro forma basis, as if the company had been fully subject to state and federal taxation. The company went public in November, 1996.</p>
+<p>Full name of company is Information Management Resources Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEARWATER, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

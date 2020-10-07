@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="497097" id="root" date="1997-04-09" xml:lang="en">
+<title>USA: Former Olicom A/S executive settles with SEC.</title>
+<headline>Former Olicom A/S executive settles with SEC.</headline>
+<dateline>WASHINGTON 1997-04-09</dateline>
+<text>
+<p>A federal judge ordered a former Danish company executive and a Luxembourg company to pay $386,109 in penalities to settle insider trading charges, the Securities and Exchange Commission said Wednesday.</p>
+<p>Without admitting or denying allegations, Michael Jonsson of Hellerup, Denmark, and Objective Invest Holding S.A. agreed to pay a total of $186,849.50 in insider trading-derived profits, $12,409.87 in prejudgment interest and a civil penalty of $186,849.50, the regulatory agency said.</p>
+<p>U.S. District Judge Richard Owen in New York on Tuesday issued the final judgment, which also requires Jonsson and Objective to cooperate with the commission's investigation.</p>
+<p>The commission said it could not provide any further details on the probe.</p>
+<p>The commission's October 1996 civil lawsuit against Jonsson, a former Olicom executive, alleged he traded on confidential information that Olicom was going to report operating losses for the first quarter of 1996. The announcement was made April 2, 1996.</p>
+<p>The commission alleged that Jonsson and Objective, a privately held Luxembourg corporation whose account he controls, sold 28,000 share of Olicom's common stock and bought a total of 800 Olicom put options, which give the holder the right to sell the stock at a certain price.</p>
+<p>Jonsson and Objective Invest avoided losses of about $88,000 by selling Olicom stock, and reaped a profit of about $99,000 through the exercise of the put options and accompanying transactions in Olicom, the commission alleged.</p>
+<p>At the time of the trading, Jonsson was vice president, international sales for Olicom, a Lyngby, Denmark-based company that develops and markets computer products. Its U.S. subsidiary is in Plano, Texas.</p>
+<p>Jonsson's New York attorney declined to comment on the settlement. Jonsson could not be reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

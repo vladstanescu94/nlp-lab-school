@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246446" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Transaction Systems adds Lebanon network.</title>
+<headline>Transaction Systems adds Lebanon network.</headline>
+<dateline>OMAHA, Neb. 1996-12-10</dateline>
+<text>
+<p>Applied Communications Inc, a subsidiary of Transaction Systems Architects Inc, said Tuesday it added  Interbank Payment Network SAL of Beirut, Lebanon to its base of more than 500 customers worldwide.</p>
+<p>It said Interbank Payment Network has licensed Applied Communications' BASE24-atm software to operate a shared Automatic Teller Network for Interbank's founding banks and other financial institutions in Lebanon.</p>
+<p>Four major banks in Lebanon - Banque du Liban et d'Outre Mer, Banque Audi, Fransabank and Credit Libanais - formed the Interbank Payment Network Co to implement and operate a payment network to connect ATMs of banks operating in Lebanon.</p>
+<p>		  ((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA, Neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

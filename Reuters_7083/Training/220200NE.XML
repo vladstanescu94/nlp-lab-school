@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220200" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: PrimeCo offers PC-to-phone text messages.</title>
+<headline>PrimeCo offers PC-to-phone text messages.</headline>
+<dateline>DALLAS</dateline>
+<text>
+<p>Wireless communications company PrimeCo Wednesday launched a messaging service that allows users with a Microsoft Corp. Windows-based personal computer to send short messages to PrimeCo users' mobile phones.</p>
+<p>PrimeCo, owned equally by AirTouch Communications Inc., U S West Media Group, Bell Atlantic Corp. and Nynex Corp., this month began personal communications services in 16 U.S. cities.</p>
+<p>When a message is received the handset will beep. It can store the messages, and will do so automatically if the phone is turned off or out of the calling area.</p>
+<p>The service costs $14.95 per month for unlimited messaging, and $19.95 for the software which takes 10 minutes to install. The PC used must have a modem.</p>
+<p>Each message can be up to 100 characters -- roughly 14 words. The handset can store up to 23 messages, or 700 characters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I84000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

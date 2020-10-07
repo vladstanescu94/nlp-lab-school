@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773611" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: CBOE to list Information Management options Aug 7.</title>
+<headline>CBOE to list Information Management options Aug 7.</headline>
+<dateline>CHICAGO 1997-07-31</dateline>
+<text>
+<p>The Chicago Board Options Exchange (CBOE)  said Thursday it will begin trading options on Information Management  Resources Inc on August 7.</p>
+<p>The options will open with strike prices of 25, 30 and 35, with initial  expirations in September, October, November and February.</p>
+<p>Susquehanna Investment Group has been named the designated primary  market maker (DPM) in the options.</p>
+<p>Information Management shares fell two to 31-1/2 Thursday.</p>
+<p>((--Chicago derivatives desk, 312 408 8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

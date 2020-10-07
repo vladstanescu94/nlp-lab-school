@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250745" id="root" date="1996-12-11" xml:lang="en">
+<title>JAPAN: Softbank extends gains in heavy mid-morning trade.</title>
+<headline>Softbank extends gains in heavy mid-morning trade.</headline>
+<dateline>TOKYO 1996-12-11</dateline>
+<text>
+<p>Shares in Softbank Corp extended gains on Tuesday morning amid active bidding following Monday's news that it would take the major stake in U.S. software venture TrendMicro, traders said.</p>
+<p>As of 0109 GMT, the shares were 300 yen yen higher at 9,300.  </p>
+<p>Turnover totalled 69,800 as of 0116 GMT, the third largest on the over-the-counter market.</p>
+<p>On Monday, Softbank announced that it would take a 35 percent stake in the U.S. software venture TrendMicro for 3.5 billion yen. It said payment to TrendMicro, which develops software to protect against computer viruses, would be made by December 27.</p>
+<p>Traders said they saw active buying interest at current levels, as there were growing feeling the stock was becoming a good buy after having fallen substantially from its peak.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

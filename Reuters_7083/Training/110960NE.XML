@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110960" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Linkon makes first shipment to AT&amp;T.</title>
+<headline>Linkon makes first shipment to AT&amp;T.</headline>
+<dateline>FAIRFIELD, Conn. 1996-10-11</dateline>
+<text>
+<p>Linkon Corp said on Friday it had shipped to AT&amp;T Corp the first portion of an order valued at about $2.1 million for the new Maestro System.</p>
+<p>The remainder of the order is scheduled to ship by year-end, Linkon said.</p>
+<p>AT&amp;T will use the product in a large-scale networked interactive voice response call center application, Linkon said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151203" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Phoenix Technologies Inc Q4 oper net off.</title>
+<headline>Phoenix Technologies Inc Q4 oper net off.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-29</dateline>
+<text>
+<p>Quarter ended	Year ended</p>
+<p>					September 30,    September 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p>  License fees revs	   $18,559 $11,639  $62,497  $43,448</p>
+<p>  Services revs		   2,190   1,658    9,639    6,493</p>
+<p>   Total revenue		 20,749  13,297   72,136   49,941</p>
+<p>  License fees costs	    2,328   1,104    7,482    3,633</p>
+<p>  Services costs		  1,571   1,597    7,260    5,949</p>
+<p>   Total cost of revenue	3,899   2,701   14,742    9,582</p>
+<p> Gross margin		    16,850  10,596   57,394   40,359</p>
+<p>  Research and development    7,041   3,040   20,628   11,038</p>
+<p>  Sales and marketing	   4,238   3,708   15,522   14,355</p>
+<p>  General and administrative  2,714   1,694    9,679    6,696</p>
+<p>  Acquisition expenses	    889	--	889	 --</p>
+<p>   Total operating expenses  14,882   8,442   46,718   32,089</p>
+<p> Income from operations	 1,968   2,154   10,676    8,270</p>
+<p>  Interest income, net	    651     490    2,177    1,725</p>
+<p>  Other income, net		 359	30	 73	303</p>
+<p> Income before income taxes   2,978   2,674   12,926   10,298</p>
+<p>  Provision (credit) for taxes  880   (800)    3,879    1,483</p>
+<p> Income from continuing ops   2,098   3,474    9,047    8,815</p>
+<p> Discontinued operations gain 3,752	--    3,752	 --</p>
+<p> Net Income			 5,850   3,474   12,799    8,815</p>
+<p>Income per common share:</p>
+<p>  From continuing operations   0.11    0.21     0.52     0.56</p>
+<p>  From discontinued operations 0.21	--     0.21	 --</p>
+<p> Net income per common share   0.32    0.21     0.73     0.56</p>
+<p>Weighted average shares</p>
+<p>   outstanding		   18,327  16,296   17,456   15,763</p>
+<p>(In thousands, except per share amounts)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

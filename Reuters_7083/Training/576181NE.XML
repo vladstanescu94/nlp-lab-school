@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576181" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Handheld computer shipments up 29 percent, study says.</title>
+<headline>Handheld computer shipments up 29 percent, study says.</headline>
+<dateline>SAN JOSE, Calif. 1997-05-12</dateline>
+<text>
+<p>The handheld computer, long seen as an expensive toy, is finally maturing into a boring necessity for executives, research data released Monday showed.</p>
+<p>Shipments of handheld computers jumped a surprising 29 percent in 1996, led by strong sales of U.S. Robotics Corp.'s Pilot, and are expected to rise another 23 percent in 1997, Dataquest said.</p>
+<p>Worldwide shipments of handheld computers, which include devices such as Apple Computer Inc.'s Newton and U.S. Robotic's Pilot, rose to 1.6 million units in 1996.</p>
+<p>The Pilot, a hot-selling gadget that stores appointments and address books, had 51 percent of the handheld market, Dataquest said.</p>
+<p>Handheld computers based on Microsoft Corp.'s Windows CE software also expanded the market, but did not do as well as the Pilot.</p>
+<p>&quot;We feel the first Windows CE handhelds, while reasonable first products, will not generate significant unit volumes, but will help the market in terms of providing another plateau,&quot; said Mike McGuire, the Dataquest analyst who tracks the handheld market.</p>
+<p>Apple was the pioneer of the handheld computer market when it introduced the Newton in 1993. The device did not sell well, because of its cost, limited software and unreliable handwriting recognition.</p>
+<p>The market began to explode in late 1995, however, with the introduction of the Pilot, a $500 device slightly larger than an audio cassette.</p>
+<p>In late 1996, Microsoft also unveiled Windows CE, a program that brought many of the business and communication applications for Windows 95 to handheld computers.</p>
+<p>Even Apple's Newton sold relatively well, as the device gained popularity among workers who do specific tasks, such as order-entry.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

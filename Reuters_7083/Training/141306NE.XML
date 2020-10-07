@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141306" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: IBM computers to use Intel chip - WSJ.</title>
+<headline>IBM computers to use Intel chip - WSJ.</headline>
+<dateline>NEW YORK 1996-10-24</dateline>
+<text>
+<p>IBM Corp has created a unit to make computer workstations based on Intel Corp's Pentium Pro microprocessor and Microsoft Corp's Windows NT software, the Wall Street Journal reported on Thursday.</p>
+<p>The newspaper cited &quot;industry executives&quot; as saying the machines, which are to come out next March, would be designed for scientists, engineers, and other people who need powerful desktop computers to manage numbers, create three-dimensional images, and handle other technical jobs.</p>
+<p>It said IBM's new strategy would be contained within its personal computer division.</p>
+<p>The strategy would also receive expertise from the division in charge of the RS/6000 workstation line as well as tap into that same division's sales channels, it said.</p>
+<p>The newspaper said IBM would likely price the machines between $4,000 and $10,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="527107" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: Intergraph Corp Q1 loss wider.</title>
+<headline>Intergraph Corp Q1 loss wider.</headline>
+<dateline>HUNTSVILLE, Ala. 1997-04-22</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss		   $0.55     loss	 $0.14</p>
+<p> Net loss		  26,289     loss	 6,391</p>
+<p> Revs		     252,758		  256,706</p>
+<p> Avg shrs		  47,758		   46,902</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The 1996 quarter includes a gain of $9,373,000 ($0.20 per share) from the sale of a stock investment.</p>
+<p>First Call estimate for the quarter was a loss of $0.27 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTSVILLE, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476988" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: Autodesk settles government antitrust complaint.</title>
+<headline>Autodesk settles government antitrust complaint.</headline>
+<dateline>WASHINGTON 1997-03-31</dateline>
+<text>
+<p>Autodesk has agreed to sell off specialized software to settle government charges it tried to limit competition in the field of computer-aided design, the government announced Monday.</p>
+<p>The Federal Trade Commission charged the San Rafael, Calif., company spent $90 milllion to acquire Softdesk Inc. as it was putting the finishing touches on a competing product.</p>
+<p>After the FTC intervened, Autodesk divested the competing product to Boomerang Technology Inc., of San Diego. In February, Boomerang was acquired by Visio Corp. of Seattle.</p>
+<p>Autodesk dominates the market for Windows-based design &quot;engines&quot; with its product AutoCAD, which is used by about 1.4 million architects, engineers and those in the construction industry. In all, AutoCAD is running on 70 percent of the computers in its market, the FTC said.</p>
+<p>&quot;Softdesk was developing a competing CAD engine, 'IntelliCADD,' and was within months of introducing it in the market when the Autodesk acquisition of Softdesk was announced,&quot; the FTC said.</p>
+<p>Unlike other would-be competitors, the new product is compatible with the Autodesk product and files are transferable, the FTC said.</p>
+<p>The FTC consent agreement, approved 5-0 by the commission, prohibits Autodesk from re-acquiring IntelliCADD or any company that owns or controls it for 10 years. Autodesk is also prohibitied from preventing its employees from moving to the competing company.</p>
+<p>The public may comment on the proposed settlement for 60 days.</p>
+<p>Autodesk stock fell 50 cents to $31.125 in afternoon trading on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

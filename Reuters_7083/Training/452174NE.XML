@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="452174" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Netscape picks Yahoo! for guide.</title>
+<headline>Netscape picks Yahoo! for guide.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-03-19</dateline>
+<text>
+<p>Netscape Communications Corp and Yahoo! Inc said they had signed a strategic business aggreement under which Yahoo! will run an Internet service showcasing the best sites on the Web.</p>
+<p>The service, to be called &quot;Netscape Guide by Yahoo!,&quot; will utilize the media capabilities of Netscape Communicator, cilent software to be formally launched by Netscape next quarter, and Netscape's future Constellation technologies.</p>
+<p>Constellation, expected to be available this summer, will include &quot;netcasting&quot; technologies, the companies said.</p>
+<p>Terms of the agreement were not immediately available, but a Yahoo! spokeswoman said the deal was material to Yahoo! and industry executives said it is expected to be a multimillion dollar contract.  A conference call was scheduled for 0900 PST/1700 GMT to discuss further details of the deal.</p>
+<p>Under the agreement, Yahoo! will be responsible for the programming, production, operations and ad sales of the new service, along with What's New, What's Cool, People and Yellow Pages on Netscape's Internet site.  The new service is set to launch during the second quarter of 1997 and users of previous versions of Netscape Navigator will be able to access the site by clicking on the Destinations button of their browser.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

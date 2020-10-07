@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695341" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: Progress to buy Apptivity for $13 mln.</title>
+<headline>Progress to buy Apptivity for $13 mln.</headline>
+<dateline>BEDFORD, Mass. 1997-06-30</dateline>
+<text>
+<p>Progress Software said Monday it agreed to buy Apptivity Corp for $13 million in cash and stock.</p>
+<p>Apptivity introduced earlier this year the first available tool for building and deploying thin-client, multi-tiered Java business applications. The tool, also called Apptivity, enables developers to build and deploy intranet/extranet business applications, Progress said.  </p>
+<p>&quot;We are very excited that Apptivity is joining Progress Software,&quot; said Purna Pareek, president and founder of Apptivity. &quot;Progress Software's marketing and support base will give us instant worldwide exposure, helping to extend our market presence.&quot;</p>
+<p>Pareek will be a vice president at Progess, with responsibility for the Apptivity product unit, the company said in a press release.</p>
+<p>Progress also said it plans to expand immediately Apptivity's Newark, Calif.-based development and marketing teams with new hires and staff from Progress.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

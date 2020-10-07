@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647502" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Internet offers promise for secure document delivery.</title>
+<headline>Internet offers promise for secure document delivery.</headline>
+<byline>Samuel Perry</byline>
+<dateline>REDWOOD CITY, Calif. 1997-06-09</dateline>
+<text>
+<p>The Internet may soon become the speediest means of secure document distribution if a Silicon Valley start-up company's new product takes off.</p>
+<p>The start-up, Tumbleweed Software Inc.,  Monday formally released its document delivery software -- Tumbleweed Posta -- which it said can be used to deliver formatted and encoded documents over the Internet.</p>
+<p>The software also enables documents to be sent to fax machines and other devices and allows senders to track document delivery and confirm receipt.</p>
+<p>In an interview ahead of Monday's formal launch, Jeff Smith, president and chief executive officer of Tumbleweed, said, &quot;This is a new market. We're the first ones that are shipping a product for this market.&quot;</p>
+<p>Posta will be available immediately in North America and is due to ship internationally by the end of October. A kit with network computer software and licenses for 20 users or accounts is $3,999, and additional users cost $189 each.</p>
+<p>Due to the minimal cost of sending messages on the Internet, the services are expected to be far cheaper than the $10 or more for domestic U.S. overnight packages. Security, however, has been a major concern for businesses and individuals because of the Internet's transparency.</p>
+<p>Tumbleweed's business model is twofold. Large organizations can pay for the software upfront to deploy it, or service companies will deploy it for customers, charging on a monthly or by-transaction basis.</p>
+<p>Smith estimates it may cost as little as 10 cents to 15 cents per delivery for those who choose to charge on a transactional basis, or $10 to $15 a month as a value-added service to Internet subscribers.</p>
+<p>Some companies -- from The New York Times and law firms to accountants and Internet service providers like Netcom OnLine Communication Inc. -- have evaluated the Tumbleweed product.</p>
+<p>United Parcel Service has begun evaluating electronic document delivery and Last week announced it has agreed to test a rival Internet document delivery system being developed by Netdox Inc., a private company owned by consultants Deloitte &amp; Touche USA LLP and the Thurston Group.</p>
+<p>Federal Express Corp, which may face the greatest threat from electronic document delivery, itself tried to launch a direct delivery product recently with its Zapmail service, which has failed to catch on.</p>
+<p>The U.S. Postal Services has also been talking about getting into the electronic document distribution game and Pitney Bowes Inc., a leading supplier of postage machines, has been trying out Tumbleweed's product.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

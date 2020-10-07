@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713531" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: Wall Street prepares for millennium bug's bite.</title>
+<headline>Wall Street prepares for millennium bug's bite.</headline>
+<byline>Ruth Morris</byline>
+<dateline>NEW YORK 1997-07-08</dateline>
+<text>
+<p>The millennium bug's potential to shut down computer systems across the globe is not just the stuff of science fiction, industry analysts said. It's also a market-mover waiting to happen.</p>
+<p>As programmers and computer scientists roll up their sleeves and set about correcting the year 2000 problem, businesses will have to dip deeper into their technology budgets to fix the computer glitch, analysts said.</p>
+<p>That could translate into delays on emerging technologies and charges against some companies' earnings if their current budgets do not stretch far enough.</p>
+<p>The year 2000 problem refers to the need to reprogram computers to recognise that a year ending in 00 is 2000, not 1900. Older programmes saved memory space by representing the year as its last two digits, with a prefix of 19 assumed.</p>
+<p>As a result, uncorrected date-sensitive programmes, like payroll systems or flight plans, will be unable to read the year 2000 correctly when making calculations.</p>
+<p>&quot;Absolutely there will be a slowdown of development,&quot; said technology consultant Peter de Jager. A company might have to delay putting up a Web site, stall a data warehousing project or simply halt work that is not &quot;mission-critical&quot; until its systems are year-2000 compliant, he added.</p>
+<p>But given investor skittishness and what some see as an alarmist mentality already surrounding the problem, &quot;companies are very, very nervous about speaking on this issue,&quot; he said.</p>
+<p>In addition, companies that go public with their millennium spending may run the risk of providing damaging information to future plaintiffs should they fail to correct the problem before it affects operations.</p>
+<p>But time is running out for disclosure, according to Michael O'Connell, a research analyst for technology services company Gartner Group Inc..</p>
+<p>&quot;Analysts are starting to take this into account now,&quot; he said, adding that millennium costs already factor into Wall Street's earnings forecasts.</p>
+<p>O'Connell said he expected the Securities and Exchange Commission to increase its pressure on companies to &quot;belly up to the bar&quot; and account publicly for year 2000 renovations in the second half of this year, if not sooner.</p>
+<p>Under guidelines adopted by the Financial Accounting Standards Board a year ago, companies cannot capitalise costs for millennium corrections and must report them during the fiscal year they occur.</p>
+<p>Fixing the problem &quot;will be of a material impact to earnings,&quot; O'Connell said.</p>
+<p>While each company's needs are different, the Gartner Group estimated it costs $1.10 per line of code to remedy the millennium bug, a widely accepted figure.</p>
+<p>That means a mid-sized company might have to spend $5 million to become year-2000 compliant while a large corporation could spend hundreds of millions of dollars, analysts said.</p>
+<p>&quot;The good news is everyone is affected,&quot; de Jager said. &quot;When everyone is slowing down, you're not losing the race.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149651" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Spyglass unveils network Internet filter.</title>
+<headline>Spyglass unveils network Internet filter.</headline>
+<dateline>NAPERVILLE, Ill. 1996-10-29</dateline>
+<text>
+<p>Spyglass Inc said Tuesday it unveiled a new version of its Surfwatch product, which blocks access from a computer network to objectionable material on the Internet.</p>
+<p>The product is an add-on for networks based on the Windows NT Server. Previously, Surfwatch was available on single-user computers only, Spyglass said.</p>
+<p>The new version of Surfwatch blocks computers on a network, for example in a business, from accessing on the Internet sexually explicit material and that containing violence, drugs, alcohol, tobacco, and gambling.</p>
+<p>The network version of Surfwatch will be available on December 1. The price is $495, which includes a one-year subscription to an updated list of Internet sites containing objectionable material.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

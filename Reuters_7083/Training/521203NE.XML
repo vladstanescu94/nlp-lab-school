@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521203" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS -- Issues to watch.</title>
+<headline>U.S. HEADLINE STOCKS -- Issues to watch.</headline>
+<dateline>NEW YORK 1997-04-18</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>* Microsoft Corp was the standout in London trading of U.S. stocks after the software giant reported better-than-expected earnings following the market close Thursday. Microsoft was trading at 103-1/4, up from 100 in after-hours trading and up 5-1/8 from its New York close.</p>
+<p>International Business Machines Corp was up 1/2 at 137-5/8, Texas Instruments Inc was up 1/2 at 58-1/4, and Digital Equipment Corp was up 1/2 at 27-3/4.  </p>
+<p>* Iomega Corp and Office Depot Inc were active in after-hours trading Thursday.</p>
+<p>Iomega rose to 17-7/8 from its close at 17-5/8, while Office Depot advanced to 14-1/8 from 13-5/8.</p>
+<p>Both companies reported first-quarter earnings that surpassed year-ago results and Wall Street estimates.  </p>
+<p>((--Wall Street Desk 212-859-1737))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

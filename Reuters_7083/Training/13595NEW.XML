@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13595" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: CBT Group names Buckley president, COO.</title>
+<headline>CBT Group names Buckley president, COO.</headline>
+<dateline>MENLO PARK, Calif. 1996-08-26</dateline>
+<text>
+<p>CBT Group Plc, a developer of interactive education software for users of information technology, said on Monday it had named former Apple Computer Corp executive James J. Buckley president and chief operating officer.</p>
+<p>In a statement, the company said the appointment would take effect on Sept 3.</p>
+<p>Buckley was most recently the president of Apple Americas and a senior vice president of Apple Computer Inc, where he was responsible for Apple's business in the United States, Canada and Latin America.</p>
+<p>An 11-year veteran of Apple, Buckley held the position of president of Apple USA from October 1993 to November 1995. Further details were not immediately available.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266097" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Broderbund Software Inc Q1 net rises.</title>
+<headline>Broderbund Software Inc Q1 net rises.</headline>
+<dateline>NOVATO, Calif. 1996-12-19</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>					Three months ended November 30,</p>
+<p>							   1996	  1995</p>
+<p> Net revenues					$61,491    $70,961</p>
+<p> Cost of revenues				   22,177     24,920</p>
+<p> Gross margin					 39,314     46,041</p>
+<p>Operating expenses:</p>
+<p>   Sales and marketing			    14,154     10,792</p>
+<p>   Research and development			7,713	7,437</p>
+<p>   General and administrative		    2,907	2,832</p>
+<p>   Amortization of purchased technology	1,022	   --</p>
+<p> Total operating expenses			 25,796     21,061</p>
+<p> Income from operations			   13,518     24,980</p>
+<p> Interest and dividend income, net	     1,549	1,311</p>
+<p> Equity in earnings of joint venture	   (603)	  269</p>
+<p> Income before income taxes		     14,464     26,560</p>
+<p> Provision for income taxes			5,569     10,624</p>
+<p> Net income					    8,895     15,936</p>
+<p> Net income per share				 0.42	 0.73</p>
+<p> Shares used in computing per share data    21,109     21,687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

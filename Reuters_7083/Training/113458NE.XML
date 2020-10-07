@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113458" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Bay Networks Inc Q1 earnings summary.</title>
+<headline>Bay Networks Inc Q1 earnings summary.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-14</dateline>
+<text>
+<p>Bay Networks, Inc.</p>
+<p>	    Condensed Consolidated Statements of Income</p>
+<p>		(In thousands, except per share amounts)</p>
+<p>						  Three Months Ended</p>
+<p>						     September 30,</p>
+<p>						   1996	    1995(1)</p>
+<p> Revenue				     $522,654	$457,773</p>
+<p> Cost of sales				249,915	 206,210</p>
+<p> Gross profit				 272,739	 251,563</p>
+<p>Operating expenses:</p>
+<p> Research and development		  54,954	  48,816</p>
+<p> Selling and marketing		    128,215	  92,984</p>
+<p> General and administrative		19,575	  17,393</p>
+<p>In-process research and</p>
+<p>  development				  42,648		--</p>
+<p> Total operating expenses		 245,392	 159,193</p>
+<p> Income from operations		    27,347	  92,370</p>
+<p> Net interest income and other	    6,025	   8,400</p>
+<p>Income before provision for income</p>
+<p>  taxes					  33,372	 100,770</p>
+<p> Provision for income taxes		27,747	  37,602</p>
+<p> Net income				     5,625	  63,168</p>
+<p> Net income per share			  0.03	    0.32</p>
+<p>Weighted average common shares and</p>
+<p>  equivalents				 196,345	 196,803</p>
+<p>NOTE: Net income in latest Q3 includes a one-time charge of $42.7 million related to the acquisition of LANcity Corp in September. Excluding the charge, net income would have been $48.3 million, or $0.25 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

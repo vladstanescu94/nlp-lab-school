@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="754522" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: Netscape to distribute Marimba products.</title>
+<headline>Netscape to distribute Marimba products.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-07-23</dateline>
+<text>
+<p>Netscape Communications Corp. and Internet software startup Marimba Inc said Wednesday they will announce a distribution deal in which Netscape will distribute Marimba's Castanet products.</p>
+<p>The deal, to be formally rolled out on Thursday, provides for Netscape to resell Castanet Transmitter, Marimba software that works on servers to enable companies to deploy, manage and update software over the Internet and corporate networks.</p>
+<p>Servers are the machines used to link up desktop computers across a computer network, and the software is designed to simplify the task of managing a large number of computers.</p>
+<p>&quot;The focus is the deployment, maintenance and updating of applications,&quot; said Alex Edelstein, a senior Netscape product manager, adding the company hopes customers will use the software to improve organization-wide management of updates.</p>
+<p>Pricing for the Castanet Transmitter starts at $995 and can increase to many times that amount depending on how it is configured and how extensively it is deployed.</p>
+<p>Edelstein said the products were expected to generate millions of dollars in sales, but declined to elaborate.</p>
+<p>Netscape Chief Executive Officer James Barksdale said in a statement that the agreement expands the company's business relationship with Netscape, a small company founded last year by a group of people who were involved in developing Sun Microsystems Inc's Java programming language.</p>
+<p>Last November, Netscape said it would use Marimba's Castanet Tuner, a product which enables computers linked to networks to tune in to predetermined &quot;channels&quot; for updates. The technology will be part of Netscape's upcoming Netcaster product for pulling information from the Internet.</p>
+<p>Kim Polese, chief executive officer of Marimba, said Netscape will serve as a key distribution partner, saying its role was &quot;a perfect complement to our business strategy.&quot;</p>
+<p>The companies said the Marimba products would work well in conjunction with Netscape Mission Control, which enables centralised management of Netscape Communicator software on different types of computers using Netcaster.</p>
+<p>Officials from both companies said the Marimba Castanet product line will be available through Netscape's site before the end of July.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

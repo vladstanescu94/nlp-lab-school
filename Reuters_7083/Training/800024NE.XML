@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="800024" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: UPS strike aiding rivals, hurting customers.</title>
+<headline>UPS strike aiding rivals, hurting customers.</headline>
+<byline>Dan Burns</byline>
+<dateline>NEW YORK 1997-08-14</dateline>
+<text>
+<p>The Teamsters walkout at United Parcel Service of America Inc., now in its 10th day, continues to make winners of the shipping goliath's rivals and losers of its customers.</p>
+<p>Most notable among winners are such competitors as Federal Express Corp., DHL Worldwide Express and the U.S. Postal Service, all of which have seen spikes in their business volumes.</p>
+<p>FedEx is handling between 3.5 million and 4 million packages per day as opposed to its average daily volume of 2.8 million parcels, although volumes appear to have leveled off, company spokesman Jess Bunn said.</p>
+<p>To handle the extra load it has added trucks, flights and temporary workers, Bunn said. Nevertheless, FedEx is still forced to turn away new business and limit existing customers' efforts to shift additional volume to the premier overnight shipper that would ordinarily have gone with UPS.</p>
+<p>DHL, a specialist in international express delivery, is seeing about 40 percent greater volume, a level that exceeds its December holiday peaks, company spokesman David Fonkalsrud said.</p>
+<p>Fonkalsrud said DHL has succeeded in coverting a portion of the temporary increase into longer-term gains, as a growing number of companies have signed year-long shipping contracts.</p>
+<p>Regular UPS customers, meanwhile, have been forced to scale back product shipments and production or be willing to pay dramatically higher rates to shippers like FedEx or DHL to get them there.</p>
+<p>&quot;It's hurting the small manufacturers and businesses more than anyone else at the moment,&quot; said Kathy Luhn, a spokeswoman for the National Industrial Transportation League, a Virginia-based trade association. &quot;Those still able to ship are paying more and they're going to have to eat a lot of that extra cost.&quot;</p>
+<p>At least two companies -- toy maker Russ Berrie &amp; Co. and data services provider National TechTeam -- said they've had to lay off workers made idle by the UPS strike.</p>
+<p>Evans &amp; Sutherland Computer Corp. shipping manager Shawn Nuttall said he has been able to find alternative carriers for the 60 to 70 shipments of hardware and software the company ships each day.</p>
+<p>&quot;But we're paying a lot more to get it out,&quot; he said. Nuttal estimates Salt Lake City-based Evans &amp; Sutherland is having to pay FedEx and others two to three times the UPS three-day ground rate. &quot;You can't beat UPS for price.&quot;</p>
+<p>Like other business shippers, Nuttall said the Postal Service provides only a limited shipping alternative because it has limited parcel shipments to four per customer per day and because it does not provide package tracking services.</p>
+<p>Richard Williams, shipping manager for Checkmate Electronics in Atlanta, is paying as much as five times the ordinary UPS shipping price to get his shipments of check scanning equipment to retailers. &quot;We're getting it there, but we're not getting the timely delivery service we need and the customers need,&quot; Williams said.</p>
+<p>McGraw-Hill Cos Inc. has switched its huge schoolbook business to other deliverers, but the stoppage has not hurt business, Chief Financial Officer Robert Bahash said Thursday.</p>
+<p>&quot;It's not a significant factor at all,&quot; said Bahash. &quot;We're using alternative delivery mechanisms at this point...It's more of a nuisance than anything else.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I3302015">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

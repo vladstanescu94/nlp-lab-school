@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394704" id="root" date="1997-02-21" xml:lang="en">
+<title>USA: Data I/O Q4 shr loss $0.03 vs profit $0.28.</title>
+<headline>Data I/O Q4 shr loss $0.03 vs profit $0.28.</headline>
+<dateline>REDMOND, Wash. 1997-02-21</dateline>
+<text>
+<p>(in thousands except per share data)</p>
+<p>		  Fourth Quarter		  Twelve Months Ended</p>
+<p>	12/26/96   12/28/95 Percent 12/26/96  12/28/95  Percent</p>
+<p>				   Change			    Change</p>
+<p> Net sales $14,930  $18,049 (17.3%) $60,423  $66,031   (8.5%)</p>
+<p>Gross margin</p>
+<p>		 7,578    9,808 (22.7%)  29,897   35,433  (15.6%)</p>
+<p>Gross margin as</p>
+<p>percent of sales 50.8%</p>
+<p>			    54.3%  (3.5%)   49.5%    53.7%   (4.2%)</p>
+<p>Operating income</p>
+<p>		 (223)    2,418(109.2%)   (812)    5,528 (114.7%)</p>
+<p>Non-operating</p>
+<p>(income) expense:</p>
+<p>Interest, net</p>
+<p>		     9     (10) (190.0)	57    (125) (145.6%)</p>
+<p>Foreign currency</p>
+<p>    exchange   (3)	(7)	--	 2	  0	 --</p>
+<p>Income before taxes</p>
+<p>		 (229)    2,435 (109.4%)  (871)    5,653 (115,4%)</p>
+<p>Income tax expense</p>
+<p>		  (30)	248(112.1%)     230	892  (74.2%)</p>
+<p>Net Income</p>
+<p>		( 199)    2,187(109.1%)  ( 1,101)  4,761 (123.1%)</p>
+<p>Earnings per share:</p>
+<p>Net income</p>
+<p>	     ( 0.03)     0.28	--  ( 0.16)    0.60	 --</p>
+<p>Weighted average common</p>
+<p>shares outstanding</p>
+<p>		 6,776    7,780	--   6,857    7,879	 --</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

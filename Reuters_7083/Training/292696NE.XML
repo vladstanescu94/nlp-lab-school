@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292696" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surprise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surprise data.</headline>
+<text>
+<p>Earnings surprise for January 8, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks.</p>
+<p>COMPANY		  ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>ATI TECH INC	     0.20     0.27	35.00%</p>
+<p>TREND-LINES -A	   0.05     0.06	20.00%</p>
+<p>NU HORIZONS ELEC	 0.17     0.20	17.65%</p>
+<p>AMWAY ASIA PAC	   0.45     0.50	11.11%</p>
+<p>EMMIS BRDCST -A	  0.37     0.41	10.81%</p>
+<p>HEICO CORP		 0.23     0.25	 8.70%</p>
+<p>CORP EXPRESS	     0.21     0.22	 4.76%</p>
+<p>ALUMINUM CO AME	  0.87     0.88	 1.15%</p>
+<p>LITTLE SWITZ	     0.01    -0.02    -300.00%</p>
+<p>ODWALLA INC	     -0.27    -0.98    -262.96%</p>
+<p>SYS SOFTWARE	     0.17     0.05     -70.59%</p>
+<p>FIRST TEAM SPORT	 0.04     0.03     -25.00%</p>
+<p>GREENBRIER COS	   0.24     0.21     -12.50%</p>
+<p>NOBILITY HOMES	   0.24     0.22	-8.33%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I36200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I49420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I49540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I8395449">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I8500011">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

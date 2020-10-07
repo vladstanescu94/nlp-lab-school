@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283375" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: Microsoft hopes to resolve Spyglass flap.</title>
+<headline>Microsoft hopes to resolve Spyglass flap.</headline>
+<dateline>SEATTLE 1997-01-02</dateline>
+<text>
+<p>A Microsoft Corp spokesman said the computer software giant is ahead of schedule on royalty payments to Spyglass Inc and hopes to resolve a dispute between the two companies amicably.</p>
+<p>Earlier Spyglass said it intends to exercise its contractual right to audit Microsoft records to determine whether additional royalty payments are owed on technology used in the Internet Explorer browser.  </p>
+<p>&quot;We believe the review will show that we are actually ahead of our payments to Spyglass because we have prepaid several million dollars of royalties,&quot; Microsoft spokesman Mark Murray said.</p>
+<p>He declined to comment on the specific provisions of the royalty agreement between the two companies, saying details were confidential.</p>
+<p>&quot;We value our partnership with Spyglass,&quot; Murray said. &quot;We look forward to resolving this in an amicable way and working with them in the future.&quot;</p>
+<p>	  ((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="373090" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: Sterling Software Q1 Dec 31 net shr $0.33.</title>
+<headline>Sterling Software Q1 Dec 31 net shr $0.33.</headline>
+<dateline>DALLAS 1997-02-12</dateline>
+<text>
+<p>Three Months</p>
+<p>							Ended December 31</p>
+<p>							 1996	 1995</p>
+<p>Revenue					     $97,141   $95,985</p>
+<p>Net income from continuing operations	12,740     9,018</p>
+<p>Income from discontinued operations,</p>
+<p> net of taxes (A)						12,289</p>
+<p>Income applicable to common stockholders   12,740    21,307</p>
+<p>Earnings from continuing operations</p>
+<p> per common share (B)				$.33	$.30</p>
+<p>Earnings per common share (B)		    $.33	$.66</p>
+<p>Average common shares outstanding (000's)  38,439    26,630</p>
+<p>Notes:</p>
+<p>(A) On September 30, 1996, Sterling Software completed the spin-off of Sterling Commerce Inc. (Sterling Commerce) with the pro rata distribution of its remaining 81.6 percent ownership in Sterling Commerce to Sterling Software's shareholders by means of a tax-free dividend.  </p>
+<p>Accordingly, Sterling Software's results of operations for fiscal 1996 reflect the reclassification of Sterling Commerce, previously a wholly owned subsidiary of Sterling Software, as a discontinued operation.</p>
+<p>(B)  On a fully diluted basis.</p>
+<p>Full company name is Sterling Software Inc.</p>
+<p>(in $ thousands, except per share data)</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

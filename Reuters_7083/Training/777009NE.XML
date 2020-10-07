@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777009" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: Parametric Technology exec wins case - WSJ.</title>
+<headline>Parametric Technology exec wins case - WSJ.</headline>
+<dateline>NEW YORK 1997-08-04</dateline>
+<text>
+<p>A federal court has awarded a former sales executive of Parametric Technology Corp $1.6 million in damages after a jury found that the company fired him largely because he was about to become eligible to exercise lucrative stock options, the Wall Street Journal said.</p>
+<p>In Monday's electronic edition, the Journal said the case may be one of the first in which a court has compensated an executive for stock options he was not yet eligible to exercise under a company options incentive plan.</p>
+<p>Frank Rogozienski of San Diego, Parametric's lawyer, called the verdict a angerous precedent for start-up companies, especially for high-tech firms, where it is not unusual to compensate employees with stock options.</p>
+<p>Parametric, which makes design software, said it plans to appeal the award. The company contends it fired the executive, Forrest Fleming, in 1992 for poor performance.</p>
+<p>Parametric Chariman and Chief Executive Steven Walske told the Journal the company also allowed Fleming to stay an additional month so he would be eligible to exercise some of his options.</p>
+<p>&quot;It wasn't like we fired him two minutes before he vested in some options,&quot; Walske told the Journal.</p>
+<p>Fleming contends he had earned the options.</p>
+<p>&quot;This has nothing to do with my performance and everything to do with their greed,&quot; Fleming said.</p>
+<p>After four years at the company, Fleming received about 18,000 options and was eligible to exercise about 4,500 of them when he was fired, according to his lawyer, David Karen of Los Angeles.</p>
+<p>Karen said some of Fleming's unvested options would have permitted him to buy Parametric stock for 25 cents a share at a time when the company's stock was trading at more than $50 a share.</p>
+<p>On Friday, Parametric's shares closed at $48.75 a share.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

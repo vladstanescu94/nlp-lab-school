@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234750" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Lehman starts Netscape.</title>
+<headline>RESEARCH ALERT - Lehman starts Netscape.</headline>
+<text>
+<p>-- Lehman analyst Michael Stanek said he started Netscape Communications Corp with a neutral rating.  </p>
+<p>-- In published comments, the analyst said he expected the company to earn $0.30 in fiscal year 1996 and $0.54 per share in fiscal 1997.</p>
+<p>-- The analysts said he is &quot;paying close attention to operating margins, which are expected to improve significantly by mid-1997, but that that at current valuation levels, &quot;it is prudent to wait for validation in profitablity.&quot;</p>
+<p>-- E. Auchard, Wall Street bureau, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

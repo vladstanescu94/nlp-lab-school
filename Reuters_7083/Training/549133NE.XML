@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="549133" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: Ticketmaster lawsuit accuses Microsoft of &quot;piracy&quot;.</title>
+<headline>Ticketmaster lawsuit accuses Microsoft of &quot;piracy&quot;.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-04-28</dateline>
+<text>
+<p>Microsoft Corp's new venture into local content on the Internet landed it in court Monday when Ticketmaster Corp. filed a lawsuit claiming the software giant was engaging in &quot;electronic piracy.&quot;</p>
+<p>Ticketmaster's lawsuit, filed in U.S. District Court in Los Angeles, contends that Microsoft's new Seattle Sidewalk Web site illegally uses the Ticketmaster name and trademark, mainly by providing links to Ticketmaster's own Web site.</p>
+<p>The lawsuit seeks a court order barring Microsoft from using the Ticketmaster name on the Seattle Sidewalk site as well as unspecified unspecified damages and fees.</p>
+<p>&quot;By accessing Ticketmaster's live event information and services without Ticketmaster's approval, and by prominently offering it as a service to their users, Microsoft is feathering its own nest at Ticketmaster's expense,&quot; the company said in its lawsuit. &quot;It is, in effect, committing electronic piracy.&quot;</p>
+<p>The lawsuit was filed after the two companies broke off negotiations and Ticketmaster instead forged a deal with Microsoft rival CitySearch to provide online ticketing access and information about live events.</p>
+<p>Ticketmaster's effort to bar Microsoft from linking to its Web site, first reported last week, has raised eyebrows in an industry where such cross-links have become widespread.</p>
+<p>&quot;This is why they call it the Web -- its a web of links all over the world,&quot; said Frank Schott, general manager of Microsoft Sidewalk. &quot;This lawsuit is actually attack on the Web itself.&quot;</p>
+<p>Ticketmaster, in its lawsuit, complained that Microsoft has published &quot;erroneous and misleading&quot; information about the type of payment the ticketing agency accepts.</p>
+<p>And the ticketing agency contends that Microsoft's use of the Ticketmaster name dilutes the commercial value of its own site and marketing relationships.</p>
+<p>&quot;It's hard for me to see how sending customers their way can be bad for them,&quot; Schott said. He added that Ticketmaster is the exclusive ticketing agency for many of the events listed by Seattle Sidewalk.</p>
+<p>Microsoft launched Seattle Sidewalk this month as its first local guide to arts and entertainment, with reviews and listings of restaurants, movies, events and activities.</p>
+<p>The Redmond, Wash.-based company plans to launch similar services in 10 to 15 more cities this year as part of an international rollout, betting it can win a share of advertising revenue being generated in the hotly competitive emerging market.</p>
+<p>Listings of many events include information about Ticketmaster, such as its telephone number and hours, as well as links that take users directly to Ticketmaster's own Internet site.</p>
+<p>Ironically, Ticketmaster is mostly owned by Paul Allen, a co-founder of Microsoft who still owns a 9 percent stake in the software company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

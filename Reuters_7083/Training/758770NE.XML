@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="758770" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: Adviser to Paul Allen steps down in realignment.</title>
+<headline>Adviser to Paul Allen steps down in realignment.</headline>
+<dateline>SEATTLE 1997-07-28</dateline>
+<text>
+<p>Vern Raburn, a top adviser to Microsoft Corp. co-founder Paul Allen, has resigned to pursue other interests, representatives of the multibillionaire entrepreneur said Monday.</p>
+<p>Raburn, 47, was chief executive officer of the Paul Allen Group, which is being folded into its parent company, Vulcan Northwest. Raburn could not be reached for comment.</p>
+<p>Vulcan Northwest and its investment arm, Vulcan Ventures, will manage Allen's properties and seek new investments, said Allen spokeswoman Susan Pierson.</p>
+<p>Allen, with a Microsoft stake valued at more than $14 billion, generally is ranked as the nation's third-richest individual behind Microsoft Chairman Bill Gates and investor Warren Buffett.</p>
+<p>Raburn, an early Microsoft employee who went on to help develop the Lotus 1-2-3 spreadsheet program and played a major role at Symantec Corp., was brought on to help manage Allen's invesments in 1994.</p>
+<p>Allen's holdings include major stakes in software company Asymetrix Corp., Internet content provider Starwave Corp., movie studio DreamWorks SKG and the Portland Trail Blazers and Seattle Seahawks professional sports teams.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

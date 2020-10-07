@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255200" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Oracle shares fall on weak European sales.</title>
+<headline>Oracle shares fall on weak European sales.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1996-12-13</dateline>
+<text>
+<p>Oracle Corp. stock slid in active trading Friday after the database software publisher said weak European sales in its fiscal second quarter hurt its profits.</p>
+<p>The stock closed down $3.25 at $44. More than 25.1 million shares traded, making it the most active issue on Nasdaq.</p>
+<p>The company's results for the quarter ended Nov. 30 also showed mounting evidence that cheaper software products from rival Microsoft Corp. are cutting into Oracle's core business, analysts said.</p>
+<p>&quot;At the low-end, Oracle can no longer can sell a high-priced product&quot; because of direct competition with Microsoft Corp.'s cheaper offerings, said James Moore, a software analyst at Alex. Brown &amp; Sons in San Francisco.</p>
+<p>After the market closed Thursday, Oracle, the world's second biggest software company after Microsoft, said second-quarter earnings rose 31 percent to $179.5 million, or 27 cents a share, one cent short of what Wall Street expected, according to a recent survey by First Call.</p>
+<p>Second-quarter revenues rose 36 percent to $1.31 billion from $967.2 million a year earlier.</p>
+<p>Oracle said European sales rose 16 percent, compared with 49 percent in the United States and Latin America. The company blamed delays in the release of European-format products for the slow sales.</p>
+<p>Oracle, based in Redwood Shores, Calif., is the biggest publisher of database software, the computer programmes that store and retrieve huge amounts of vital corporate information, such as sales figures, personnel records and inventory lists.</p>
+<p>Oracle specialises in writing database programmes for high-priced computers that use the Unix software standard. In the past year, however, some of Oracle's customers have installed cheap, but increasingly powerful, PCs running Microsoft's Windows NT software.</p>
+<p>Oracle has products that run on Windows NT-based computers, but its Windows NT offerings are much cheaper than comparable versions running on Unix, said Neil Herman, an analyst at Salomon Brothers in New York.</p>
+<p>In the second quarter, Oracle's revenues from database software sales rose just 24 percent, down from 41 percent in the same quarter a year ago.</p>
+<p>Microsoft also sells a database product -- dubbed SQL Server -- that is geared toward smaller corporate data libraries. That product has already obliterated sales at Sybase Inc., a low-end database vendor.</p>
+<p>While Oracle's most sophisticated products are years ahead of Microsoft's database software, Oracle may be forced to cut its prices to keep its customers, Herman said.</p>
+<p>Analysts also said Oracle has been struggling for the past year to install solid management in Europe.</p>
+<p>&quot;My concern is it could take as long as five to nine months for things to get rolling again in Europe,&quot; Moore said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

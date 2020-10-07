@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="499765" id="root" date="1997-04-10" xml:lang="en">
+<title>JAPAN: NTT Data, MCI to start Internet roaming service.</title>
+<headline>NTT Data, MCI to start Internet roaming service.</headline>
+<dateline>TOKYO 1997-04-10</dateline>
+<text>
+<p>Two major Internet service providers in Japan and the United States have joined hands to launch a dial-roaming service they hope will expand business.</p>
+<p>NTT Data Corp and MCI Communications Corp said on Thursday the new service  will allow overseas travellers to access the Internet without contracting with a local Internet provider.</p>
+<p>The new service will be available in Japan and the United States in July.</p>
+<p>&quot;Using our new service will mean a significant cost reduction for overseas business travellers because they don't have to make expensive international telephone calls (in order to log on to the Internet),&quot; an NTT Data official said.</p>
+<p>He said a Japanese traveller to the United States using the Internet for one hour during business hours would pay about 2,000 yen ($15), compared with the 7,800 yen ($61) charge for a one-hour international call.</p>
+<p>The tie-up will be expanded into Europe and other parts of Asia in the future.</p>
+<p>NTT Data president Tomeo Kanbayashi told a news conference on the tie up that his company aims to more than triple the number of users of its Internet joint venture with Softbank Corp to 200,000 by the end of next March from the current 60,000.</p>
+<p>&quot;NTT Data aims to become the number one Internet service provider in Japan in the near future,&quot; Kanbayashi said. At the same news conference, MCI senior Vice President Vinton Cerf said that it planned to boost its annual revenues from Internet services to $2 billion a year by 2000, representing about six percent of total revenues by that date.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

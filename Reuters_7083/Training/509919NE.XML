@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="509919" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: BTG says will link government to cyberspace.</title>
+<headline>BTG says will link government to cyberspace.</headline>
+<dateline>FAIRFAX, VA. 1997-04-15</dateline>
+<text>
+<p>BTG Inc said Tuesday it was selected by the U.S. General Services Administration for the $600 million CINEMA program to acquire Internet access, electronic mail and electronic commerce services for the entire federal government.</p>
+<p>The company said it estimates potential revenue of $200 million over five years.</p>
+<p>The company said the contract, which was also awarded to one other contractor, IBM's Advantis, has a base period of two years with an extension option for an additional three years.</p>
+<p>The company said its subcontractors on the program include UUNET, which will provide Internet access, and Sterling Commerce Inc, which will work on e-mail and electronic commerce services.</p>
+<p>The company said CINEMA (Electronic Commerce, INternet, and Electronic Mail Access Services) is a program of the Federal Telecommunications Service (FTS), which provides technology solutions to Federal agencies.</p>
+<p>The company also said its Oklahoma City office has been awarded a FAA contract to install 500 servers and workstations at 120 sites around the world.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFAX, VA."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

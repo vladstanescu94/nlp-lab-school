@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="680972" id="root" date="1997-06-23" xml:lang="en">
+<title>FINLAND: NOKIA SAYS JOINS NEW PDA STANDARD DEAL.</title>
+<headline>NOKIA SAYS JOINS NEW PDA STANDARD DEAL.</headline>
+<dateline>HELSINKI 1997-06-23</dateline>
+<text>
+<p>Finnish telecoms group Nokia Oy said on Monday it had joined an agreement with U.S. and Japanese computer firms to form a common set of standards for building mobile network computers, or personal digital assistants (PDAs).</p>
+<p>Nokia's mobile phones unit is among companies including Fujitsu, IBM, Netscape and Toshiba, which are fixing standards for the devices.</p>
+<p>The companies said in a statement the devices would range from &quot;smart&quot; cellular phones to lightweight, hand-held mobile devices with easy access to the Internet or corporate networks.</p>
+<p>Nokia spokesman Lauri Kivinen called the deal more a working group than an alliance.</p>
+<p>He said it offered long-term benefit to Nokia since it involved communication in a mobile environment, core for the Finnish company, and set a standard in which Nokia was included.</p>
+<p>Nokia has no plans to start making mobile network computers itself, he added.</p>
+<p>-- Helsinki newsroom +358 9 6805 0247, news@reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

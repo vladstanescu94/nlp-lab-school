@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="538051" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: CE Software Holdings Inc Q2 loss widens.</title>
+<headline>CE Software Holdings Inc Q2 loss widens.</headline>
+<dateline>WEST DES MOINES, Iowa 1997-04-25</dateline>
+<text>
+<p>Three Months Ended  Six Months Ended</p>
+<p>					    March 31,	 March 31,</p>
+<p>					    1997   1996    1997    1996</p>
+<p> Net revenues			 $1,668 $3,002  $3,674  $5,690</p>
+<p> Cost of revenues			275    511     604     943</p>
+<p>     Gross profit		    1,393  2,491   3,070   4,747</p>
+<p> Sales and marketing		   958  1,108   1,909   2,130</p>
+<p> General and administrative	  645  1,029   1,359   2,023</p>
+<p> Research and development	    363    505     767   1,022</p>
+<p>     Operating expenses	    1,966  2,642   4,035   5,175</p>
+<p>     Operating loss		  (573)  (151)   (965)   (428)</p>
+<p>Other income (expense):</p>
+<p>Equity in earnings of joint</p>
+<p>    ventures				 -   (33)	 -	45</p>
+<p>   Interest income			31     42	77	87</p>
+<p>   Interest expense		   (20)   (23)    (42)    (45)</p>
+<p>     Loss before income taxes    (562)  (165)   (930)   (341)</p>
+<p> Income tax benefit			-   (41)	 -    (86)</p>
+<p> Net loss				(562)  (124)   (930)   (255)</p>
+<p> Net loss per share		  (.10)  (.02)   (.17)   (.04)</p>
+<p>Average common shares</p>
+<p>   outstanding			 5,627  5,744   5,625   5,742</p>
+<p>(In thousands, except per share data)</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST DES MOINES, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

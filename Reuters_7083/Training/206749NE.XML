@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206749" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Walsh aided by Microsoft partnership.</title>
+<headline>Walsh aided by Microsoft partnership.</headline>
+<dateline>NEW YORK 1996-11-21</dateline>
+<text>
+<p>Walsh International Inc said Thursday a partnership with Microsoft Corp has helped the sales success of Premiere, Walsh's strategic sales and marketing management information system for the pharmaceutical industry.</p>
+<p>Microsoft Consulting Services helped Walsh build the architecture of its flagship product, and worked closely on many of the technical issues surrounding the development, the company said.</p>
+<p>The result, an advanced product, pioneering in its field, and set to be a worldwide market leader in the months ahead.</p>
+<p>Walsh said it is a Microsoft Solutions Provider, with a high percentage of Microsoft Certified Professionals.</p>
+<p>Premiere's underlying software is a Microsoft Windows- based application which has been developed to IS09001 quality guidelines for management at every level in a pharmaceutical company, covering sales activities, marketing, medical and general management needs, Walsh said.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

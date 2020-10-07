@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="626948" id="root" date="1997-05-30" xml:lang="en">
+<title>USA: Financial service firms told get ready for 2000.</title>
+<headline>Financial service firms told get ready for 2000.</headline>
+<dateline>NEW YORK 1997-05-30</dateline>
+<text>
+<p>The &quot;millennium bug&quot; that has the potential to stop computers in their tracks in the year 2000 is a manageable problem provided people get an early start, commit adequate resources and leave time for testing, several speakers at a conference sponsored by the Office of Thrift Supervision (OTS) said Friday.</p>
+<p>Rerepresentatives from the banking, thrift and data processing industries and from government repeatedly stressed the dangers of not being prepared. But a few mentioned that obvious beneficiaries of the herculean effort would be programmers who have the training to update old computer code.  </p>
+<p>Denis O'Leary, executive vice president and chief information officer of Chase Manhttan Corp, said the industry was entering a &quot;raging bull market&quot; for people with information technology skills. &quot;The problem will get increasingly acute over the next five years,&quot; he said.</p>
+<p>During a break in the proceedings, one of the conference participants suggested salaries for people capable of managing year 2000 projects could double as some companies that are behind the curve get desperate.  </p>
+<p>Chris Carrington, vice president at Electronic Data Systems Corp, said companies not up to handling the task in-house will increasingly turn to outside services. &quot;Demand for year 2000 services will clearly outstrip the supply,&quot; he said. &quot;People will be standing at the altar with no one to marry, probably starting in 1998.&quot;</p>
+<p>He said EDS has already turned down some business. He said one frustrated head of a financial services firm told him EDS was the third company to tell him they did not want the job.  </p>
+<p>John Tenuta, a senior vice president at Fiserv Inc, said one benefit was the opportunity to discard obsolete programs as companies go through their entire list of software.</p>
+<p>But the emphasis at the conference was clearly on warnings of dangers. Willie Kennedy Jr, senior project manager for the year 2000 at KeyCorp's Key Services, said making sure that outside vendors are supplying &quot;year 2000 compliant&quot; systems is of critical importance. &quot;The bottom line is that if it is not year 2000 compliant it will not come into Key Bank,&quot; he said.  </p>
+<p>He said lawyers have been involved in writing contracts to make sure that guarantees from suppliers are enforceable.</p>
+<p>Carrington noted that there are programming tools on the market to make the job of conversions easier, but he said &quot;no tool is 100 percent perfect&quot; and he added that &quot;we've found a couple that don't work.&quot; He declined to name any products.</p>
+<p>Sally Katzen, administrator of the Office of Information and Regulatory Affairs in the Office of Management and Budget (OMB), said the cost to the U.S. government to fix its own systems could top $3.0 billion, up from estimates of $2.3 billion several months ago.  </p>
+<p>She said the U.S. government not only has to get its own systems ready but federal regulatory agencies responsible for transportaton and medicine must make sure private business is ready.</p>
+<p>Katzen said one area of concern has been pacemakers, the tiny devices that regulate the heartbeat. &quot;We have been assured that they will keep functioning,&quot; she said.</p>
+<p>Stephen Hagen, legislative fellow from the Senate Banking Committee, said the emphasis in Congress has been on &quot;oversight&quot; rather than passing laws to deal with 2000. He said one concern among lawmakers is whether all the work on year 2000 will delay or impede other technology initiatives unrelated to the year 2000 date problem.</p>
+<p>Robert Albanese, OTS regional director, told the conference his office is going to be stepping up the pace of its scrutiny. He said all of the regional directors of the OTS were sending letters Friday to institutions they supervise with new details of plans to make sure the industry gets the job done in time.</p>
+<p>((--Cal Mankowski/New York Newsdesk/212 859 1732))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

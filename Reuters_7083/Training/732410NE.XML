@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732410" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: Clinton backs private Internet efforts to protect kids.</title>
+<headline>Clinton backs private Internet efforts to protect kids.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-07-16</dateline>
+<text>
+<p>President Bill Clinton on Wednesday backed private-sector efforts to protect children from Internet smut, without calling for new laws or extensive government intervention in cyberspace.</p>
+<p>Clinton and Vice President Al Gore met earlier in the day with parents groups, lawmakers, and industry officials to seek a new approach to protect children. Last month, the Supreme Court struck down a law banning indecent material on the Internet as a violation of the First Amendment.</p>
+<p>The diverse group &quot;reached a consensus about how to pave the way to a family-friendly Internet without paving over the Constitutional guarantees of free speech and free expression,&quot; Clinton said.</p>
+<p>The consensus backed a three-pronged policy, with roles for industry, government and parents and educators, Clinton said.</p>
+<p>Clinton endorsed the recommendations that companies make available software to filter out inappropriate material, that government step up enforcement on the Internet of existing anti-obscenity laws, and that parents get more involved in their children's Internet activities.</p>
+<p>In the last three months, the FBI increased its staff 50 percent to investigate computer-related exploitation of minors and established a task force specialising in stopping computer child pornography.</p>
+<p>&quot;We simply must not allow pornographers and pedophiles to exploit this wonderful new medium to abuse our children,&quot; Clinton said.</p>
+<p>Vice President Gore said parents could use a variety of available software, a &quot;virtual toolbox,&quot; to protect their children. The tools are &quot;easy to use -- much easier than programming a VCR,&quot; he said.</p>
+<p>Gore demonstrated the use of filtering software, which reads labels or ratings on Web sites and blocks access to those containing inappropriate material. He also recommended a Web site for parents sponsored by the Centre for Democracy and Technology (http://www.netparents.org).</p>
+<p>Clinton announced that Netscape Communications Corp, maker of popular software for browsing the Internet, would add a rating and filtering feature known as PICS to its next version. Browser software made by Microsoft Corp already uses PICS, Clinton noted.</p>
+<p>Several Internet directories, Yahoo, Excite and Lycos, committed to list only Web pages that carry ratings, Clinton said.</p>
+<p>Clinton also highlighted the American Library Association's work to list good Internet sites for kids (http://www.ala.org/parentspage/).</p>
+<p>Some in Congress favour new, more carefully tailored legislation to ban material on the Internet, an approach Clinton did not support on Wednesday.</p>
+<p>Lois Jean White, president of the National Parent Teacher Association, said her group would support the three point policy for now. But if the strategy failed to provide adequate protection, the association would &quot;reluctantly&quot; turn to other solutions, such as new legislation, she added.</p>
+<p>Steve Case, chairman of the world's largest online service America Online, said industry was up to the challenge.</p>
+<p>&quot;We are today -- right now -- delivering tools that empower families, neighbours and educators to limit and filter what can be seen by, and sent to, our children,&quot; Case said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="461487" id="root" date="1997-03-22" xml:lang="en">
+<title>USA: Microsoft says aiming for Windows release in '97.</title>
+<headline>Microsoft says aiming for Windows release in '97.</headline>
+<dateline>SEATTLE 1997-03-21</dateline>
+<text>
+<p>Microsoft Corp. developers hope to release an update to the Windows 95 operating system by the end of the year despite industry reports that the release date has slipped into 1998, officials said on Friday.</p>
+<p>Phil Holden, product manager for the system update code-named &quot;Memphis&quot;, said developers are on track to release a beta test version in the second quarter.</p>
+<p>&quot;We're working as hard as we can to make it a '97 product,&quot; Holden said. But he said the final release date would depend on feedback from testers.</p>
+<p>Memphis, also known as Windows 97 or Windows 9x, is expected to be a significant retail product because of major changes including a new interface integrated with the forthcoming version 4.0 of Microsoft's Internet Exlorer browser.</p>
+<p>Holden said the product would include other changes aimed at enhancing Internet functionality as well as support for new hardware standards including digital video disks.</p>
+<p>&quot;We definitely expect significant retail purchases,&quot; said Holden.</p>
+<p>Two trade industry publications said in their online versions this week that the release date of Memphis, also known as Windows 97, had slipped.</p>
+<p>One of the publications, Computer Reseller News, said Microsoft officials had begun warning computer manufacturers not to expect the Memphis system to be available in time for the December holiday season.</p>
+<p>Microsoft Chairman Bill Gates this month confirmed that the next version of the company's high-end Windows NT operating system would not be available until sometime in the first half of 1998, later than originally anticipated.</p>
+<p>Holden said the delayed release of the Windows NT update would not affect timing of the Windows 9x product, which is aimed more at consumers and small businesses.</p>
+<p>&quot;Longer term we definitely have a goal of trying to synchronize the releases,&quot; Holden said. &quot;But the core goal at the moment is to try to get the products out as soon as we can.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716665" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: Russell sets index changes,GE keeps top spot.</title>
+<headline>Russell sets index changes,GE keeps top spot.</headline>
+<dateline>TACOMA, Wash. 1997-07-09</dateline>
+<text>
+<p>Frank Russell Co Wednesday released final lists of membership in the firm's U.S. stock indexes, including the Russell 2000, widely used as the benchmark for small-cap stock performance.</p>
+<p>While the annual adjustments involved hundreds of changes to the indexes, one item remained the same, as General Electric Co maintained its top ranking among U.S. companies in terms of market capitalization.</p>
+<p>The annual adjustments by Russell are used to fill vacancies and adjust the indexes to reflect current market capitalization levels.  </p>
+<p>This year, the process resulted in 450 companies moving into the Russell 3000 Index, replacing 324 deleted companies.</p>
+<p>The number of additions exceeded deletions because companies that leave due to mergers or bankruptcies during the year are not replaced until the annual reconstitution process.</p>
+<p>The Russell 3000 Index is a broad-market index comprised of the 3,000 largest U.S. companies as measured by market capitalization and encompasses about 98 percent of the U.S. equity market by capitalization.</p>
+<p>General Electric Co maintained its top spot with a market capitalization that grew to $198.3 billion as of May 30, up 44 percent from $137.6 billion a year ago.</p>
+<p>The Russell 2000 Index, comprised of the 2,000 smallest companies in the Russell 3000 Index, now includes companies ranging from Keystone Financial Inc's $1.1 billion in size to Santa Cruz Operation Inc's $171.7 million.</p>
+<p>((-- R. Melville, Wall Street desk, 212-859-1731))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TACOMA, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

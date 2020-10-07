@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="729633" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Avant! earnings rise 41%, civil trial may be stayed.</title>
+<headline>Avant! earnings rise 41%, civil trial may be stayed.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1997-07-14</dateline>
+<text>
+<p>Avant! Corp. said Monday its second-quarter earnings jumped 41 percent, better than Wall Street expected, on strong sales of its chip engineering software products.</p>
+<p>The Fremont, Calif., company also said a federal judge suggested that a civil lawsuit accusing Avant! of trade secret theft may be put off until a criminal lawsuit against the company is first resolved.</p>
+<p>Avant! said net income for the quarter ended June 30 rose to $7.59 million, or 28 cents a share, from $5.37 million, or 20cents a share, in the same quarter a year ago. Second-quarter revenue rose 34 percent to $34.5 million from $25.8 million.</p>
+<p>Wall Street expected Avant! to earn 26 cents a share, according to a recent survey by Zacks Investment Research, which tracks analyst estimates.</p>
+<p>Avant! writes software that helps electrical engineers design the microscopic circuits of computer chips. For the past few years, the company has been embroiled in lawsuits alleging it stole trade secrets from rival Cadence Design Systems Inc. and based products on Cadence technology.</p>
+<p>Cadence sued Avant! in a civil lawsuit in 1995. In April, Avant! Chairman Gerald Hsu and several executives were charged with criminal counts of conspiracy and trade secret theft by the Santa Clara, Calif., County district attorney's office.</p>
+<p>Avant! said it continued to win contracts for products during the second quarter, even though Cadence was conducting a negative publicity campaign.</p>
+<p>Avant! also had a &quot;significant&quot; backlog of orders for products this quarter, company executives said in a conference call with analysts.</p>
+<p>Separately, Avant! had a court hearing in San Jose, Calif., requesting that Cadence's pending civil lawsuit be delayed until the criminal lawsuit is finished.</p>
+<p>&quot;The most important point (U.S. District Judge Ronald Whyte) said was that he is inclined not to require the civil case to be tried before the conclusion of the criminal case,&quot; said Daniel Bookin, an attorney representing Avant! The judge may decide to proceed with the civil suit if the criminal lawsuit takes years, Bookin said.</p>
+<p>Cadence said in a statement that it intends to &quot;aggressively pursue&quot; its lawsuit &quot;and hopes for a speedy path to trial.&quot;</p>
+<p>A date has not been set for the civil case, said Avant! spokesman Matt Lifschultz. Monday's request for a stay on the civil lawsuit is a standard move when a defendant faces a civil and criminal lawsuit on the same grounds, Lifschultz said.</p>
+<p>Avant! reported its earnings after markets closed. The stock closed up $1.625 at $35 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

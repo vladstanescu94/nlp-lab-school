@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551907" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Apple eyes on strategy, no comment on Oracle.</title>
+<headline>Apple eyes on strategy, no comment on Oracle.</headline>
+<dateline>CUPERTINO, California 1997-04-29</dateline>
+<text>
+<p>Apple Computer Inc said on Tuesday it had no specific comment in response to software billionaire Larry Ellison's announcement that he was putting off an attempt to gain control of the troubled computer maker.</p>
+<p>In a brief statement, Apple said: &quot;Apple has a clearly articulated strategy and a detailed plan to return the company to profitability. We have a seasoned management team and have undertaken a series of initiatives over the last few years to streamline the business, improve quality and sharply focus on our core markets.&quot;  </p>
+<p>The company maintained it was on track towards achieving profitability in the fourth quarter and that its recent product introductions had been met with enthusiasm.</p>
+<p>Ellison, who is chairman of database software maker Oracle Corp, has been critical of Apple Chairman Gilbert Amelio's strategy for turning around the computer maker. He has expressed an interest in buying Apple with his own money for more than two years.</p>
+<p>He said in a statement issued earlier on Tuesday that he might decide to buy Apple stock for investment purposes or reconsider the possibility of acquiring the company sometime in the future.</p>
+<p>Apple, fearing a takeover from Ellison, recently hired investment banker Goldman Sachs &amp; Co to provide advice.</p>
+<p>But at the end of March, Apple's Amelio said in a newspaper interview he would not be distracted by a potential takeover bid, telling the editorial board of the San Francisco Chronicle he did not think a bid was actually in the cards.</p>
+<p>The computer maker has struggled recently, posting a second quarter loss of $708 million, which reflected one-time charges for acquiring software firm Next Software Inc and for laying off a third of its workforce.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

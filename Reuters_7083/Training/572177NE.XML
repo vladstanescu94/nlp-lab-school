@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="572177" id="root" date="1997-05-09" xml:lang="en">
+<title>USA: Technology trade publisher CMP files for IPO.</title>
+<headline>Technology trade publisher CMP files for IPO.</headline>
+<dateline>NEW YORK 1997-05-09</dateline>
+<text>
+<p>Computer industry trade publisher CMP Media Group, whose stable of magazines and newspapers include Information Week, Communications Week and Electronic Engineering Times, has filed for $115 million initial public offering.  </p>
+<p>Goldman Sachs &amp; Co will be the lead underwriter of the offering, according to documents filed with the U.S. Securities and Exchange Commission on Friday.</p>
+<p>A source at CMP said there had been rumblings about an IPO for some time prompted by some business restructurings that seemed to be a fine-tuning ahead of an IPO.  </p>
+<p>CMP's EE Times Online broke news last week that Intel Corp's Pentium II chips may have a technical bug that causes computational errors when during certain obscure calculations. EE Times was also one of the first to report in 1994 that Intel Corp's Pentium chips had a similar problem, a glitch that caused the company to take a $475 million charge.</p>
+<p>The company, controlled by the Leeds family, also publishes Computer Reseller News.  </p>
+<p>But despite its prestigious titles and 1996 revenues of $418 million, the Long Island technology publisher is dwarfed by rivals Ziff-Davis and International Data Group (IDG), the industry's number one and two, respectively.</p>
+<p>Ziff-Davis is the computer publishing arm of Japanese computer power Softbank Corp, which owns a sizeable stake in Yahoo! Inc, publishes the Red Herring monthly magazine and runs conferences.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I47520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

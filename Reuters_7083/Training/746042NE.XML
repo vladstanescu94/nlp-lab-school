@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="746042" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: Computer Associates 1st-qtr earnings rise 30%.</title>
+<headline>Computer Associates 1st-qtr earnings rise 30%.</headline>
+<dateline>PALO ALTO, Calif.</dateline>
+<text>
+<p>Computer Associates International Inc. said Tuesday its first-quarter earnings jumped a surprisingly big 30 percent on strong sales of its computer network management software.</p>
+<p>Net income for the quarter ended June 30 rose to $155.8 million, or 42 cents a share, from $119.8 million, or 32 cents, in the same quarter a year ago.</p>
+<p>Wall Street had expected Computer Associates, the third-largest independent software company, to earn 39 cents a share, according to First Call, which tracks such forecasts.</p>
+<p>First-quarter revenue rose 12 percent to $890.7 million from $792.1 million on strong sales of network management software, the company said.</p>
+<p>Computer Associates, based in Islandia, N.Y., writes business software that runs on IBM mainframe computers. The company also writes software that simplifies the management of giant corporate computer networks.</p>
+<p>Sales of its network management products, or client-server products, jumped 51 percent in the quarter, accounting for 40 percent of the company's total sales, it said.</p>
+<p>Operations in Europe, a weak spot in recent quarters, also improved, it said.</p>
+<p>Computer Associates's stock rose $1.44 to $64.31 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

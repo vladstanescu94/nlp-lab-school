@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151452" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Microsoft to use Fore's ATM method - sources.</title>
+<headline>Microsoft to use Fore's ATM method - sources.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1996-10-28</dateline>
+<text>
+<p>Microsoft Corp. and Fore Systems Inc. plan to annouce Tuesday a deal in which Microsoft will license Fore's high-speed networking technology for use in future versions of its Windows operating system software, according to sources familiar with the deal.</p>
+<p>Asynchronous Transfer Mode (ATM) is an emerging technology on which a new generation of higher speed networks are being built that are better able to handle voice, video and data simultaneously.</p>
+<p>The sources said the deal will integrate Fore's ATM emulation software directly into the Windows operating system, allowing desktop office computers to use ATM technology without changing other existing computer software.</p>
+<p>As a result, the deal could open up a potential market of millions of PC users to adopt ATM network technology, while ensuring compatability with older network technologies.</p>
+<p>Neither Microsoft nor Fore Systems would confirm the deal.</p>
+<p>But industry analysts said Microsoft's backing of ATM should boost the technology's legitimacy with corporate network administrators, who to date have proved reluctant to install higher-cost ATM networks in place of existing ones.</p>
+<p>&quot;It will make connecting PCs to ATM networks easier because all you will have to do is buy an ATM switch, buy an adapter card and a PC is up and running,&quot; said Mary Petrosky, a network analyst with The Burton Group in San Mateo, Calif., referring to the basic equipment necessary to install ATM.</p>
+<p>Petrosky was one of a handful of analysts who were pre-briefed by the companies about outlines of the deal.</p>
+<p>Existing technologies such as Ethernet and Token Ring have been around since the 1970s and remain the dominant standards for networks that connect corporate office computers.</p>
+<p>ATM is considered more expensive because it requires investments in existing network infrastructure like cabling, switches and other equipment to be ripped out and replaced.</p>
+<p>Sources said integration of ATM into Windows software will help standardize ATM networking products, making it easier to develop ATM products, while driving down customer costs.</p>
+<p>Microsoft's own software business is likely to benefit from enabling networks able to transmit multimedia-rich information to become more widely available, Petrosky said.</p>
+<p>To date, ATM backers, including Fore, the recognized industry leader in ATM technology development, have failed to win widespread adoption of it in corporate office networks.</p>
+<p>Instead, Fore has built a fast-growing business selling ATM technology to telephone carriers who use it to transmit large volumes of data at high speeds over the backbone sections of their wide area telecommunciations networks.</p>
+<p>Fore also sells adapter cards that can be installed inside personal computers that allow them to accept information transmitted over these wide area networks.</p>
+<p>Here, it faces growing competition from Cisco Systems Inc, Cascade Communications Corp. and others.</p>
+<p>Jeremy Duke, a network hardware analyst with the market research firm InStat, based in Scottsdale, Ariz., said Microsoft's intergration of ATM would eliminate some of the hurdles of connecting ATM networks to desktop PCs.</p>
+<p>However, he expected the deal's main impact would be to lend visibility to Fore's wide area network ATM business, by providing a broader base of PCs ready to communicate over networks using a mix of ATM and non-ATM technology.</p>
+<p>&quot;The deal puts ATM on a little bit more of an even-footing,&quot; Petrosky said, but noted, &quot;There are still cost issues and competing technology issues.&quot;</p>
+<p>Petrosky was referring to how ATM has been upstaged in corporate office networks by an intermediate class of technology known as Fast Ethernet, which allows networks using existing hardware to handle some multimedia communications.</p>
+<p>In addition, she said the network industry was beginning to embrace a new method known as Gigabit Ethernet that could rival ATM capabalities in many repects. Gigabit Ethernet allows video transmission at speeds roughly similar to ATM.</p>
+<p>&quot;It's another thing that can help ATM, but I don't think it's going to drastically change the odds for ATM acceptance,&quot; Duke agreed. &quot;There are other cost-effective technologies available today,&quot; he said, referring to Fast Ethernet systems.</p>
+<p>It was not clear from the sources whether Microsoft's plans extended beyond its Windows NT and Window 95 operating systems to include its older Windows 3.1 system.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

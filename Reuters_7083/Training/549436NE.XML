@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="549436" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Forefront Group Inc Q1 loss widens.</title>
+<headline>Forefront Group Inc Q1 loss widens.</headline>
+<dateline>HOUSTON 1997-04-30</dateline>
+<text>
+<p>CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)</p>
+<p>				    For the Quarters Ended March 31,</p>
+<p>					    1996			1997</p>
+<p> Licenses			 $2,735,875		 $4,133,847</p>
+<p> Maintenance and services	 17,288		     18,060</p>
+<p>   Total revenues		2,753,163		  4,151,907</p>
+<p>Acquired research and</p>
+<p>  development costs		439,881			   --</p>
+<p>   Operating loss		(427,118)		(1,452,833)</p>
+<p>   Net loss			(262,401)		(1,384,622)</p>
+<p>   Net loss per share	     (0.05)		     (0.22)</p>
+<p>Shares used in computing</p>
+<p>     net loss per share	5,787,695		  6,199,504</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

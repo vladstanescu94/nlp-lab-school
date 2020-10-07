@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113449" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Bay Networks Q1 net income declines.</title>
+<headline>Bay Networks Q1 net income declines.</headline>
+<text>
+<p>SANTA CLARA, Calif., Oct 14 (Reuter)</p>
+<p>		     1996			1995</p>
+<p> Shr primary     $0.03		    $0.32</p>
+<p> Net		 5,625		    63,168</p>
+<p> Revs		522,654		  457,773</p>
+<p> Avg shrs primary196,345		  196,803</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Net income in the latest quarter includes a one-time charge of $42.7 million related to the acquisition of LANcity Corp in September. Excluding the charge, net income would have been $48.3 million or $0.25 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="354840" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: FTP Software Q4 net shr loss $0.20.</title>
+<headline>FTP Software Q4 net shr loss $0.20.</headline>
+<dateline>ANDOVER, Mass. 1997-02-04</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>					     December 31,  December 31,</p>
+<p>				    1996	1995     1996	1995</p>
+<p>   Total revenue	     26,203   32,005   101,091  131,210</p>
+<p> Gross Margin		  21,495   27,925    84,295  115,058</p>
+<p>Total operating expenses</p>
+<p>				   26,606   22,655   131,330   71,590</p>
+<p>INCOME (LOSS) FROM</p>
+<p>  CONTINUING OPERATIONS   (5,111)    5,270  (47,035)   43,468</p>
+<p> INVESTMENT INCOME		834    2,442     4,284    6,156</p>
+<p>INCOME (LOSS) FROM</p>
+<p>CONTINUING OPERATIONS</p>
+<p>  BEFORE TAXES		(4,277)    7,712  (42,751)   49,624</p>
+<p>PROVISION FOR INCOME TAXES</p>
+<p>				    2,500    3,390     1,027   18,886</p>
+<p>NET INCOME (LOSS) FROM</p>
+<p>  CONTINUING OPERATIONS   (6,777)    4,322  (43,778)   30,738</p>
+<p>DISCONTINUED OPERATIONS:</p>
+<p>Operating losses, net of</p>
+<p>  income tax benefits	     0  (1,611)  (29,039)  (6,104)</p>
+<p> Provision for disposition	0	  0   (4,760)	  0</p>
+<p> NET INCOME (LOSS)	  (6,777)    2,711  (77,577)   24,634</p>
+<p>NET INCOME (LOSS)PER SHARE:</p>
+<p>  Continuing Operations     (.20)	.15    (1.46)     1.09</p>
+<p>  Discontinued Operations     .00    (.06)    (1.13)    (.22)</p>
+<p>				    (.20)	.10    (2.59)	.87</p>
+<p>WEIGHTED AVERAGE COMMON</p>
+<p>AND COMMON EQUIVALENT</p>
+<p>  SHARES OUTSTANDING	 33,618   27,982    29,896   28,263</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANDOVER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

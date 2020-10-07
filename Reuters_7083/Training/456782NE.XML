@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456782" id="root" date="1997-03-20" xml:lang="en">
+<title>INDIA: JP Morgan to invest $6.3 mln in HCL Comnet.</title>
+<headline>JP Morgan to invest $6.3 mln in HCL Comnet.</headline>
+<dateline>NEW DELHI 1997-03-20</dateline>
+<text>
+<p>India's HCL Comnet Systems and Services Ltd  HCCL.BO said on Thursday JP Morgan Capital Corp, a wholly owned subsidiary of JP Morgan and Co, will buy 19.66 percent of its shares at a total cost of 225 million rupees ($6.3 million).  </p>
+<p>The purchase will be made at a premium of 80 rupees per share, the statement said. HCL Comnet is part of India's HCL group.</p>
+<p>The investment will be used to fund the expansion of HCL Comnet's existing VSAT-based communications infrastructure by setting up an enterprise-wide satellite communications network, the statement said.</p>
+<p>The network will facilitate a broad range of banking and financial applications, including electronic funds transfer and electronic data interchange, the statement said. ($1 = 35.8 rupees)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

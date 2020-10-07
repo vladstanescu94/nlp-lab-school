@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48410" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: RESEARCH ALERT - BMC Software.</title>
+<headline>RESEARCH ALERT - BMC Software.</headline>
+<text>
+<p>-- Merrill Lynch raised its long-term rating on BMC Software to buy from accumulate, a market source said.</p>
+<p>-- Merrill kept its near-term accumulate rating on the stock, the source said.</p>
+<p>-- The analyst was not immediately available for comment.</p>
+<p>-- Shares were up 3/4 at 79-1/4.  </p>
+<p>-- Analyst Chris Shilakes said in a research note that the &quot;fundamental outlook has changed to a more aggressive growth posture for the next 12-18 months.</p>
+<p>&quot;A restructuring of BMC's research and development process has enabled the company to increase its new product flow five-fold over its fiscal year 1993 rate.&quot;</p>
+<p>He said that almost 70 new products are expected in the 1997 fiscal year which ends in March with a nearly equal number of products coming from the DB2 and IMS products and open systems offerings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

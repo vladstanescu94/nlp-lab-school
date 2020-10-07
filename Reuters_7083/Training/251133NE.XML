@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251133" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: AT&amp;T chief calls Bill Gates tough competitor.</title>
+<headline>AT&amp;T chief calls Bill Gates tough competitor.</headline>
+<dateline>SAN FRANCISCO</dateline>
+<text>
+<p>AT&amp;T Corp. Chairman Robert Allen Tuesday called Microsoft Corp. Chairman Bill Gates a tough competitor who would &quot;do virtually anything to kill the rest of us.&quot;</p>
+<p>In remarks to the Commonwealth Club, a current affairs forum in San Francisco,  Allen said Gates was &quot;very smart&quot; and that &quot;we do respect him.&quot;</p>
+<p>But in response to a question from the audience, Allen added &quot;one has to be very suspicious.&quot;</p>
+<p>&quot;I'm not a great student of Bill Gates. I take much of what he says with a grain of salt because Bill would like to be ... the centre of gravity for the whole world,&quot; Allen said.</p>
+<p>&quot;He's totally dedicated to his work and will do virtually anything to kill the rest of us,&quot; Allen said. &quot;Bill Gates can be your partner and be your enemy at the same time.&quot;</p>
+<p>Microsoft, the world's largest software maker, recently struck a deal with AT&amp;T to be the premier browser on AT&amp;T's WorldNet Internet service, much to the chagrin of rival Internet browser maker Netscape Communications Corp.</p>
+<p>During his speech, Allen discussed the Internet, but focused on competition for local telephone service. He described local phone service as the &quot;last bastion of big-time monopoly&quot; in the U.S. communications market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

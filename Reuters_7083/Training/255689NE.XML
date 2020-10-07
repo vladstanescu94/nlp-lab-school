@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255689" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: SEC steps up attack on Systems of Excellence-WSJ.</title>
+<headline>SEC steps up attack on Systems of Excellence-WSJ.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>The Securities and Exchange Commission intensified its legal attack over alleged stock manipulation by people connected with Systems of Excellence Inc, and its former Chief Executive Charles Huttoe, The Wall Street Journal reported Friday.</p>
+<p>Last month a federal judge froze Huttoe's assets after the SEC accused him and some of his associates of participating in market manipulation, the story says.</p>
+<p>The SEC filed a petition to amend its federal court complaint by seeking payments from &quot;relief defendants&quot; who the agency says had received money that Huttoe was trying to hide, the story says.</p>
+<p>The case marks the first time the SEC has alleged market manipulation using the Internet, the story says.</p>
+<p>The story quotes Eric Schwartz, the SEC's assistant director of enforcement: &quot;The commission alleges that Huttoe manipulated the price of Systems of Excellence stock by issuing a series of false press releases announcing favorable business developments.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

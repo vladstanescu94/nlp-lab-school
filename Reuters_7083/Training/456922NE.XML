@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456922" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: Sharp growth seen in network PC market - study.</title>
+<headline>Sharp growth seen in network PC market - study.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-03-20</dateline>
+<text>
+<p>Shipments of consumer network computer devices are projected to jump from 2.0 million in 1997 to more than 70.0 million in 2000, according to a study from Zona Research Inc.</p>
+<p>In its report &quot;Network Computers: Markets, Opportunities, and Trends,&quot; the firm projects that the total market size for commercial network computers could grow from about 1.7 million units in 1997 to over 6.7 million units in 2000.</p>
+<p>Zona said the corporate market for network computers will be primarily a replacement market, with network computers replacing terminals of all types.</p>
+<p>Network Computers are scaled-down, lower cost computers that access the internet and other networks. Sun Microsystems and International Business Machines Corp have introduced Network PC's. Oracle Corp has been a big proponent of the network PC.</p>
+<p>Zona Research is a wholly owned subsidiary of IntelliQuest Information Group Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175342" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Artisoft's president Kocher to leave.</title>
+<headline>Artisoft's president Kocher to leave.</headline>
+<dateline>TUCSON, Ariz. 1996-11-08</dateline>
+<text>
+<p>Artisoft Inc on Friday said President Joel Kocher is leaving the company, effective today, to take a position with a company in Austin, Texas.</p>
+<p>William Keiper will serve as company president and maintain his duties as chairman and chief executive officer.</p>
+<p>&quot;Over the past two years, Joel has been a key contributor to the transformation of Artisoft,&quot; Keiper said in a statement. &quot;During his tenure, he has helped to build a strong team, and we wish him all the best as he moves on.&quot;</p>
+<p>Kocher has been president since October 1995, when he joined Artisoft from Dell Computer Corp.</p>
+<p>Artisoft makes networking, communications and computer telephony products for business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUCSON, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462355" id="root" date="1997-03-23" xml:lang="en">
+<title>USA: Oracle, Novell form partnership.</title>
+<headline>Oracle, Novell form partnership.</headline>
+<dateline>DENVER 1997-03-23</dateline>
+<text>
+<p>Novell Inc and Oracle Corp will formally announce on Monday a strategic partnership that will make it easier and faster to conduct business on the Internet in a secure fashion, company officials said.</p>
+<p>&quot;We're trying to put technologies in place so businesses can conduct business across the Internet,&quot; said Gary Bloom, senior vice president of worldwide alliances and technologies division at Oracle.</p>
+<p>Under the agreement, Novell will integrate Oracle's new Web Application Server 3.0 with Novell's IntranetWare, Web Server and Novell Directory Services.  </p>
+<p>The combination will make it easier for customers to use Sun Microsystems Inc's Java network computing applications.</p>
+<p>Denise Gibson, senior vice president and general manager of the Internet Products Group at Novell said the combined product will provide security for business information. She noted that keeping data secure has been a major concern for businesses.</p>
+<p>Last week, Novell and Netscape Communications Corp announced an agreement to deliver a broad range of Intranet solutions on current and future Novell platforms.  </p>
+<p>Last week Eric Schmidt, chief technology officer at Sun Microsystems and a prime architect of its Internet and Java language strategy, was appointed chairman chief executive officer at Novell.</p>
+<p>Analysts said Schmidt should be able to help Novell formulate a vision to capitalize on the growing Internet market.</p>
+<p>Novell has not gone after this market aggressively enough, analysts said.  </p>
+<p>Attendees at Novell's annual BrainShare conference in Salt Lake this week will get a sneak preview of the integrated product.</p>
+<p>Oracle will also create a dedicated Novell Products Division that will oversee the technology integration. The division will also focus on joint sales, marketing, education and support activities with Novell.</p>
+<p>Customer testing on the integrated product is expected in September. It will be commmercially available by the end of 1997, Bloom said.</p>
+<p>((-- Judith Crosson, Denver bureau 303 820-3900))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

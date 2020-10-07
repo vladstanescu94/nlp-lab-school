@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="547216" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: Business Objects to focus on U.S.</title>
+<headline>Business Objects to focus on U.S.</headline>
+<dateline>SAN FRANCISCO 1997-04-29</dateline>
+<text>
+<p>Business Objects SA said Tuesday its main focus in 1997 is boosting its presence in the United States market.</p>
+<p>President and Chief Executive Bernard Liautaud said as part of the push he will relocate from the company's head office in Paris to its office in San Jose, California. He said the company's Chief Financial Officer, Robert Verheecke, will also move to San Jose.</p>
+<p>Liautaud told investors at the annual Hambrecht &amp; Quist conference that the company does about 60 percent of its business in Europe, about one third in the U.S. and the balance in Asia.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

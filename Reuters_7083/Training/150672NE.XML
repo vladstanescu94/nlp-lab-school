@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150672" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: TALKING POINT - Sun Microsystems.</title>
+<headline>TALKING POINT - Sun Microsystems.</headline>
+<byline>Samuel Perry</byline>
+<dateline>MONTEREY, Calif. 1996-10-29</dateline>
+<text>
+<p>Sun Microsystems Inc's newly launched Javastation network computer is its first machine to compete directly with low-end personal computers, but analysts aren't expecting runaway sales just yet.</p>
+<p>&quot;Maybe a couple of years from now it will begin competing with low-end PCs,&quot; said Evan Quinn, an analyst at International Data Corp, noting Sun's network computing strategy is tied to future expansion of its Java technology.</p>
+<p>An entry-level NC will be available in December.  </p>
+<p>Earlier Tuesday, the Mountain View, Calif.-based provider of network computing products and powerful workstations, introduced the JavaStation, a scaled-down PC designed to access corporate networks and the Internet, with an entry price of $742.</p>
+<p>The company said the entry-level model would contain eight megabytes of memory and will ship beginning in December. A fully configured system, which includes memory, a keyboard, a mouse and fourteen-inch monitor will ship for $995.  </p>
+<p>Sun officials are hoping the device will appeal to corporate clients looking to cut their costs for upgrading and maintaining office PC's.</p>
+<p>However, given the entry of long-time NC doubter Microsoft Corp into the market with plans for a light version of its Windows operating system, the market will be hotly contested.</p>
+<p>International Business Machines Corp launched its first NC model last month.  </p>
+<p>Redwood City, Calif.-based Oracle Corp, which has been beating the drum for creating a new NC standard for 18 months, is leading a further effort to build network computers for broader markets.</p>
+<p>&quot;This is just beginning to heat up and could potentially start getting very interesting,&quot; one analyst said of the brewing slugfest between computer industry titans.</p>
+<p>Sun Microsystems's machines are more highly targeted than many of its adversaries', however, and it has linked them together with a Java-centric model of future computing.  </p>
+<p>Java, a hot new technology introduced by Sun in May 1995 as a programming language initially, has since been expanded into a whole computing architecture for both hardware and software as Sun moved aggressively to proliferate its use.</p>
+<p>Sun has licensed Java to the suppliers of nearly all major computer operating systems, including Microsoft and its popular Windows operating systems. One of Java's most compelling features is that it can be used across rival systems.  </p>
+<p>This feature should enable software developers in the future to write one version of their software that could work on nearly all systems, known as &quot;write once, play anywhere.&quot;</p>
+<p>Initially, the market will be to replace very basic computer terminals, such as IBM's 3270 terminals or IBM AS/400 midrange character-based terminals, in very simple, dedicated functions such as entering data into a company's network.</p>
+<p>International Data Corp projects there are &quot;a couple of million&quot; such terminals in use currently, and perhaps as many as 10 million personal computers used for such activities.  </p>
+<p>The market for the NC is likely to build sales gradually, according to IDC, which expects a million to be sold around the world in 1997, still dwarfed by the tens of millions of personal computers sold annually.</p>
+<p>Some industry analysts have questioned whether the NC will ever really catch on, and many believe it will not do so for at least some 18 months or so, by which time Sun's partners should be producing microprocessors optimized for Java.</p>
+<p>Ed Zander, president of Sun Microsystems Computer Company, said in an interview that Sun realistically expects acceptance to be a gradual process, but to lead to a new computing epoch.</p>
+<p>&quot;We worked long and hard about not just producing a cheap box, but (also addressing the question) 'How does that box work in a corporate environment?',&quot; he said. &quot;'How do you administer it? How do manage it? How do you develop it? How do you deploy it?'&quot;</p>
+<p>He acknowledges Sun's approach produced a system that is &quot;markedly different&quot; from the NCs that Oracle and IBM are talking about, or even that of Microsoft's NetPC.</p>
+<p>Sun is targeting cost savings, claiming large organizations can reduce the three-year cost of ownership using its Java systems to around $7,500, or as much as one fifth of three-year networkedPC costs projected at up to $36,000.</p>
+<p>--sam.perry@reuters.com, Palo Alto Bureau, +1415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTEREY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

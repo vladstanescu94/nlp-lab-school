@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="719809" id="root" date="1997-07-10" xml:lang="en">
+<title>REPUBLIC OF IRELAND: CBT links with Computer Sciences.</title>
+<headline>CBT links with Computer Sciences.</headline>
+<dateline>DUBLIN 1997-07-10</dateline>
+<text>
+<p>CBT Group Plc, an Irish software company quoted on Nasdaq, on Thursday said it had signed a $7.8 million contract with Computer Sciences Corp.</p>
+<p>&quot;The three-year agreement with Computer Sciences Corp, ... represents $7.8 million in total contract value, $5.0 million of which is net new business, and stands as a resounding endorsement of the effectiveness of our courseware and deployment systems,&quot; CBT chairman William McCabe said in a results statement.</p>
+<p>CBT announced a rise in second quarter net income to $4.7 million from $1.9 million on revenues of $25 million.</p>
+<p>The software group also said it signed a $400,000 agreement with Wisconsin Technical College System giving Wisconsin's 16 technical college districts access to more than 350 of CBT's information technology training titles over a three-year period.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

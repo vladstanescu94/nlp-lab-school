@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327283" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: US Senator will reintroduce encryption export bill.</title>
+<headline>US Senator will reintroduce encryption export bill.</headline>
+<dateline>WASHINGTON 1997-01-23</dateline>
+<text>
+<p>Sen. Conrad Burns will reintroduce next week his measure to substantially eliminate export restrictions on computer encoding technology, a spokesman for the Senator said Thursday.</p>
+<p>&quot;We are aiming for the 28th (of January) and it will be the same bill as last year,&quot; Matt Raymond, spokesman for the Montana Republican, said. </p>
+<p>President Bill Clinton signed an executive order in November slightly relaxing export controls on encryption technology -- computer programs that use mathematical formulas to scramble information and render it unreadable without a password or software &quot;key.&quot;</p>
+<p>But many in Congress and the computer industry have said the new Clinton policy did not go far enough to lift the Cold War era export limits that classified most encryption programs as munitions.  </p>
+<p>The previous Burns bill, which had bipartisan support, died in the Commerce Committee last year.</p>
+<p>Introduced in the middle of the second year of the 104th Congress, &quot;the calendar and the clock were really working against us,&quot; Raymond said. &quot;We had a good cross-section of support and we'll start from that baseline this year.&quot;</p>
+<p>Former Commerce Committee chairman Sen. Larry Pressler, a strong supporter of the Burns bill, was defeated in his bid for reelection in November.  But the new chairman, Arizona Republican Sen. John McCain, was also a co-sponsor of the measure, Raymond noted.  </p>
+<p>Raymond said Sen. Burns expected to hold some hearings on the measure in the Communications subcommittee he chairs.</p>
+<p>The Clinton administration has repeatedly stated its opposition to the Burns bill, which it said would relax export limits too much, harming law enforcement and national security efforts around the world.</p>
+<p>In the House of Representatives, Rep. Bob Goodlatte plans to reintroduce his encryption export bill during the first week of February, a staffer said.  The Virginia Republican's new bill will be the same as last year's bill, the staffer said. --Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

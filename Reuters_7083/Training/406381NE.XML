@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406381" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Computer Language Q4 shr profit vs loss.</title>
+<headline>Computer Language Q4 shr profit vs loss.</headline>
+<dateline>CARROLLTON, Texas 1997-02-27</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>					Three Months     Twelve Months</p>
+<p>					  Ended		  Ended</p>
+<p>					December 31,     December 31,</p>
+<p>					 1996    1995     1996     1995</p>
+<p> Revenues................  $ 39,076$ 34,906 $129,243 $110,703</p>
+<p>Costs and expenses:</p>
+<p>  Cost of revenues.......    17,689  17,308   64,933   56,109</p>
+<p>Selling, general, and</p>
+<p>  administrative........    17,675  14,909   59,707   41,162</p>
+<p>Charge for purchased re-</p>
+<p>   search and development	  --   5,600    3,498    5,600</p>
+<p>Total costs and expenses</p>
+<p>				     35,364  37,817  128,138  102,871</p>
+<p> Operating income (loss).     3,712  (2,911)   1,105    7,832</p>
+<p> Interest, net...........	  39     740	474    1,917</p>
+<p> Other..................	 (10)   (569)     (39)    (626)</p>
+<p>Income (loss) from continu-</p>
+<p>ing operations before</p>
+<p>  income taxes...........     3,741  (2,740)   1,540    9,123</p>
+<p>Provision (benefit) for</p>
+<p>  income taxes...........     1,269  (1,532)     499    2,264</p>
+<p>Income (loss) from continu-</p>
+<p>  ing operations.........     2,472  (1,208)   1,041    6,859</p>
+<p>Discontinued operations:/a</p>
+<p>Income from discontinued</p>
+<p>   operations............	  --	--	 --	 76</p>
+<p>Gain on disposal of dis-</p>
+<p>  continued operations...	  --	--	 --    4,720</p>
+<p> Net income (loss).......     2,472 (1,208)    1,041   11,655</p>
+<p> Earnings (loss) per share .   0.17  (0.09)     0.07     0.81</p>
+<p> Dividends per share.....	0.10    0.10     0.40     0.40</p>
+<p>Weighted average number of</p>
+<p>common and common equiva-</p>
+<p>  lent shares outstanding    14,529  14,563   14,564   14,434</p>
+<p>NOTE: Full company name Computer Language Research Inc.</p>
+<p>(a) In June 1995, the Company sold substantially all of the assets of its wholly-owned subsidiary, Electronic Form Systems Incorporated (&quot;EFS&quot;).  The operating results of EFS have been treated as discontinued operations.  </p>
+<p>Results for both 1996 and 1995 were adversely affected by the Company's aggressive acquisition program.  During this two-year period the Company completed 12 acquisitions, eight of which were made to enhance Rent Roll's business, with the remainder made for the Fast-Tax business.  Effects of these acquisitions have adversely distorted reported performance and may span more than one year before more normalized operating results become evident.  The more important of these effects include charges for in-process R&amp;D costs, amortization of purchase price, deferral of revenue, lost revenue and additional expense incurred during the assimilation period, and increased product development costs for maintenance and integration of acquired products.  All of these items contributed to operating results in 1996 and 1995.  The effect of all of these items, offset by the $1.5 million improvement in operating results from the bank and accounting tax businesses, accounts for virtually the entire $7.6 million decline in income from continuing operations before taxes between 1996 and 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARROLLTON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

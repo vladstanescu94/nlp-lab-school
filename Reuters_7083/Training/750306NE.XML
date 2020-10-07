@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750306" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Spyglass forms new division for consulting.</title>
+<headline>Spyglass forms new division for consulting.</headline>
+<dateline>NAPERVILLE, Ill. 1997-07-22</dateline>
+<text>
+<p>Spyglass Inc, which provides software to make non-personal computer devices work on the Internet, said Tuesday it has formed a separate Professional Services division.</p>
+<p>Professional Services, including Internet consulting and custom software development, was previously included in the company's product development unit.</p>
+<p>&quot;It is clear from recent licensing arrangements that consulting and custom engineering are essential when it comes to doing business with companies wanting to Web-enable products and services,&quot; Doug Colbeth, president and chief executive of Spyglass. &quot;It made sense to establish a separate business unit that has the charge of developing revenue from this part of the market.&quot;</p>
+<p>Spyglass said Tim Seamans was appointed general manager of the division. He previously served as vice president of product and technology at Pitney Bowes Management Services, a unit of Pitney Bowes Inc.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

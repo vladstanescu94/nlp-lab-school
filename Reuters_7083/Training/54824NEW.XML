@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54824" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: RESEARCH ALERT - Intuit restarted. [CORRECTED 19:50 GMT]</title>
+<headline>RESEARCH ALERT - Intuit restarted. [CORRECTED 19:50 GMT]</headline>
+<text>
+<p>-- Lehman Brothers analyst Michael E. Stanek said he restarted coverage of Inuit Inc with a neutral rating.</p>
+<p>(Corrects to show coverage was restarted, not initiated.)</p>
+<p>-- &quot;By selling Intuit Services Corp, we believe that investors will breathe a sigh of relief as Intuit has decided to exit the transaction processing business and will begin to focus efforts on its front-ended software products,&quot; Stanek said in a research note. &quot;We believe that Intuit received and excellent price for ISC.&quot;</p>
+<p>-- CheckFree Corp said it had agreed to acquire ISC, Intuit's electronic bill payment and bank services unit, for 12.6 million shares of common stock in CheckFreeCorp.</p>
+<p>-- Intuit shares were up 2-5/8 at 32-3/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

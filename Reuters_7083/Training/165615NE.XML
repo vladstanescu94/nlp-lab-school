@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165615" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: High Level Design Systems Q3 loss.</title>
+<headline>High Level Design Systems Q3 loss.</headline>
+<dateline>SANTA CLARA, Calif. 1996-11-05</dateline>
+<text>
+<p>HIGH LEVEL DESIGN SYSTEMS, INC.,  EARNINGS REPORT</p>
+<p>		     Quarter 3 1996 Results</p>
+<p>				 3 Months Ended	  3 Months Ended</p>
+<p>			   September 30, 1996    September 30, 1995</p>
+<p> Revenues		     $  3,016,755	 $ 3,002,161</p>
+<p> Net Income (Loss)	   (  798,389)	 (2,636,424)  (1)</p>
+<p> Net Income (Loss) Per Share    (0.07)		(0.24)  (1)</p>
+<p> Weighted Average Shares    10,985,810	  11,107,866 And</p>
+<p>Equivalents (1) Reflects a non-recurring, non cash compensation charge of $3,008,000 related to stock option grants that were substantially discounted from fair market value.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

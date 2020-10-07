@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75710" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: North American PC software Q2 sales rise 5.7 pct.</title>
+<headline>North American PC software Q2 sales rise 5.7 pct.</headline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>Sales of personal computer application software in North America for the second quarter of the year totalled $2.18 billion, 5.7 percent higher than the same period last year, according to the Software Publishers Association.</p>
+<p>The association said Wednesday that Microsoft Corp's Windows applications led sales growth during the quarter. Sales of combined 16- and 32-bit Windows applications increased 14 percent to $1.68 billion, it said.  </p>
+<p>Windows 32-bit (Windows 95 and NT) software continued to increase its market share, reaching $475.3 million or 21.7 percent of total software sales, it said.</p>
+<p>Windows 16-bit software (Windows 3.x, comprising Windows 3.1 and 3.11, collectively) reached $1.2 billion or 55.3 percent of total software sales during the same period, it added.</p>
+<p>The association said DOS application sales totalled a mere $127.5 million in sales, a 51 percent decrease from the previous year.</p>
+<p>Sales of Apple Computer Inc's Macintosh applications fell 21 percent to $296.8 million, while Macintosh home creativity and databases showed strong growth, up 76.9 percent and 80.4 percent respectively, it said.</p>
+<p>The association is the main software industry trade association, representing publishers as well as start-up firms in the business applications market, as well as home office, recreation, consumer and education markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="791549" id="root" date="1997-08-11" xml:lang="en">
+<title>USA: MICROSOFT LAUNCHES FRONTPAGE BETA TEST.</title>
+<headline>MICROSOFT LAUNCHES FRONTPAGE BETA TEST.</headline>
+<dateline>SEATTLE 1997-08-11</dateline>
+<text>
+<p>Microsoft Corp said Monday it has made available a free test version of its FrontPage 98 software for creating and managing Internet Web pages.</p>
+<p>Company executives said a final version of the product will be available in stores by the end of October at an estimated retail price of $149, or $55 for users of previous versions.</p>
+<p>The product is the fourth version of FrontPage and the third since since Microsoft acquired its creator Vermeer Inc for about $130 million in January 1996.  </p>
+<p>Since release of the latest version, FrontPage 97, in January 1997, the installed base has grown to more than one million users from about 150,000, said Pat Kirtland, group product manager, who predicted another &quot;big upgrade cycle.&quot;</p>
+<p>He said he expected about one million people to try the beta version of the product, which is available free over the Internet but expires automatically Dec. 31.</p>
+<p>Kirtland said the product is aimed in large part at the &quot;accidental Webmaster&quot; of a typical small business who needs to maintain a company Internet presence, among other job functions.  </p>
+<p>He said such users, who are looking mainly for a simple way to create and manage Web pages, account for about 35 percent of the FrontPage installed base. Another 35 percent are full-time Internet professionals and the remainder are hobbyists, according to Microsoft market research.</p>
+<p>Among the new features in the latest version are design themes that can be applied to all or part of a Web site, an electronic &quot;whiteboard&quot; to create Web pages and automatic hyperlink updates.</p>
+<p>The final product will come bundled with Image Composer 1.5 and other image-editing tools.</p>
+<p>&quot;The vision has always been Web authoring for the masses,&quot; Kirtland said. &quot;We are really excited that is playing out for us.&quot;</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

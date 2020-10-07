@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32876" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Netscape, Macromedia in deal.</title>
+<headline>Netscape, Macromedia in deal.</headline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>Netscape Communications Corp said Wednesday it had signed a licensing and distrubution pact to incorporate Macromedia Inc software in its Web browser, Netscape Navigator.</p>
+<p>Netscape will begin using the &quot;Shockwave&quot; and &quot;Fireworks&quot; programs to give applications developers the ability to manipulate text, images, animation, audio and video with the popular Java software platform and other open systems.</p>
+<p>Macromedia shares were up 5/16 at 22-13/16 and Netscape shares were up 3/8 at 37 in early morning trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

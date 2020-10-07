@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344769" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: Silicon Graphics targets world of 3-D Web.</title>
+<headline>Silicon Graphics targets world of 3-D Web.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-01-29</dateline>
+<text>
+<p>Silicon Graphics Inc said it aims to help foster an exciting new three- dimensional World Wide Web and will for the first time make its authoring tools available on Windows NT systems.</p>
+<p>Silicon Graphics also said it had reached agreement with Netscape Communications Corp on plans to combine Silicon Graphics' Cosmo Player three-dimensional 'browser' software with Netscape's Live3D capabilities.</p>
+<p>John McCrea, director of marketing at Cosmo Software, said the moves are part of a strategy to establish Silicon Graphics software as a key authoring tool for creating &quot;mind-blowing interactive content&quot; across multiple platforms.</p>
+<p>Silicon Graphics said its Cosmo Worlds software, which enables developers to create 3-D worlds using the latest version of a virtual reality standard called virtual reality markup language, or VRML 2.0, will be made to run on Microsoft Corp's Windows NT platform.</p>
+<p>It is the first time Silicon Graphics has provided products to support Windows NT and the announcement comes two days after the company's CEO, Edward McCracken, said he would not rule out possible support for Windows NT in its products.</p>
+<p>Executives were not able to immediately say whether other products would also become available on Windows NT.</p>
+<p>McCrea said the Netscape deal will enable 3-D content to be played on a broad range of computers, a goal that fits with Netscape's strategy, using Silicon Graphics software.</p>
+<p>&quot;We are huge believers in Netscape -- stuff that runs on every platform,&quot; he said. &quot;Clearly anybody who's looking at applications business, customers would prefer software that runs on multiple platforms.&quot;</p>
+<p>Currently the Cosmo player software runs as a plug-in on both Netscape Navigator and Microsoft Corp's Internet Explorer.</p>
+<p>Under the Netscape deal, Silicon Graphics said Netscape will license and distribute the next generation of Cosmo Player as a VRML component of Netscape Communicator.</p>
+<p>The Cosmo Worlds authoring system, which is already being sold for Silicon Graphics machines running Unix software for a price of $2,300, will be available for Windows NT later this year, although pricing has not yet been set.</p>
+<p>Silicon Graphics faces increasing competition at the low end of its product line from ever-faster personal computers equipped with high-end Intel Corp Pentium Pro processors and Windows NT, according to analysts.</p>
+<p>Silicon Graphics executives have said they plan to keep pushing the edge of technology to provide faster performance at competitive prices.</p>
+<p>Silicon Graphics systems are used for a range of graphics intensive applications, from Hollywood film productions to advanced flight simulation for training fighter pilots.</p>
+<p>--sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

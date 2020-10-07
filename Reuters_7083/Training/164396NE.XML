@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164396" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Linkon sees sales up, Q3 shr loss $0.02.</title>
+<headline>Linkon sees sales up, Q3 shr loss $0.02.</headline>
+<dateline>FAIRFIELD, Conn. 1996-11-04</dateline>
+<text>
+<p>Linkon Corp on Monday said it expects to report a net loss for the third quarter ended October 31 of about $198,000 or two cents per share. The company reported a six cents loss per share in the prior year's third quarter.</p>
+<p>It also said it expects to report net sales for the third quarter of about $1.2 million, a 500 percent increase from the firms sales of $200,000 a year ago.</p>
+<p>&quot;The dramatic sales increase reflects shipment of the initial phase of our AT&amp;T order as well as shipments to ... Bell South and two major cellular companies demonstrating our growing penetration of the telecommunications industry, said Lee W. Hill, Linkon president and chief executive.</p>
+<p>&quot;We are nearing profitability from operations with an operating loss under $100,000,&quot; he added.</p>
+<p>Linkon designs, produces and markets worldwide integrated hardware and software products that process voice, data, and image signals for the computer, telephone, and Internet industries.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

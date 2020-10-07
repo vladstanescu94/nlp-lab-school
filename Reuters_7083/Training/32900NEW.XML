@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32900" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Bay Networks buys LANcity Corp for $59 mln.</title>
+<headline>Bay Networks buys LANcity Corp for $59 mln.</headline>
+<dateline>SANTA CLARA, Calif. 1996-09-04</dateline>
+<text>
+<p>Bay Networks Inc said on Wednesday it had entered into a definitive agreement to acquire LANcity Corp, a maker of cable modems, for $59 million cash.  </p>
+<p>By combining Bay Networks network infrastructure and network management products with LANcity's cable modems, Bay Networks will become the first company to offer cable service providers an end-to-end data internetworking solution.</p>
+<p>LANcity Corp will operate as a division within the Bay Networks Internet/Telecom Business Unit (ITBU), reporting to Bruce Sachs, ITBU executive vice president.  LANcity's founder and CEO Rouzbeh Yassini will become Bay Networks vice president and general manager of cable access, reporting to Sachs, with LANcity's management team and entire staff expected to join Bay Networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

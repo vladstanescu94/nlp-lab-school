@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479695" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Sequel, Integralis, SRA develop email surveillance.</title>
+<headline>Sequel, Integralis, SRA develop email surveillance.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-31</dateline>
+<text>
+<p>Three private companies, Sequel Technology, Integralis and SRA International, will announce Tuesday an application to help the financial community track e-mail messages.</p>
+<p>The products, which are designed to comply with a new mandate by the U.S. Securities and Exchange Commission for securing broker/customer electronic mail messages, are expected to be available on July 1 after testing.</p>
+<p>&quot;It will find things like when brokers are recommending outrageous valuations on stocks,&quot; said a spokesman of SRA International, adding it will also help firms screen for messages that prompt claims of harassment, for example.</p>
+<p>SRA's natural language capabilities can be used to check incoming messages from customers and flag those involving complaints, for example, the SRA spokesman said.</p>
+<p>&quot;We're working with a couple of large brokerage houses in New York,&quot; the spokesman said, adding the three companies were not aware of each other until a customer put them together to help address the issue.</p>
+<p>The companies expect to apply the technology to other industries, such as banking, law and health care, he said.</p>
+<p>Sequel Technology CEO Stuart Rosove said in a statement prepared for the announcement that the financial markets may be the first industry recognizing the need for using surveillance to control legal liability risks.</p>
+<p>The system, which combines Sequel's ability to log, report and manage Internet use with Integralis's e-mail content management software, can provide audit trails for identifying certain types of messages.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

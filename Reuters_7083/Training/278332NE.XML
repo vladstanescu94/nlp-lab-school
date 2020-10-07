@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278332" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: Computer Associates falls after forecast.</title>
+<headline>Computer Associates falls after forecast.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The stock of Computer Associates International Inc. tumbled Friday, a day after the software company predicted lower than expected revenues in the current quarter.</p>
+<p>The stock fell $11.375 or 18 percent to $50.375 on the New York Stock Exchange, making it the market's biggest loser.</p>
+<p>Morgan Stanley cut its rating on Computer Associates stock to outperform from strong buy.</p>
+<p>The maker of business software said after the market closed on Thursday that revenues for its third quarter ending on Dec. 31 would fall below Wall Street's $1.2 billion estimate and would be between $1 billion and $1.1 billion. It cited weakness in Europe.</p>
+<p>But Computer Associates also said that analysts' average earnings forecasts of 75 cents a share &quot;appeared achievable.&quot;</p>
+<p>The company, based in Islandia, N.Y., on Long Island, employs 9,000 people in 130 offices in 40 countries and had revenues of more than $3.5 billion in its last fiscal year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

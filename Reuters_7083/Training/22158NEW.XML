@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22158" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: PHLX says to list options on four stocks Sept. 4.</title>
+<headline>PHLX says to list options on four stocks Sept. 4.</headline>
+<dateline>CHICAGO 1996-08-29</dateline>
+<text>
+<p>The Philadelphia Stock Exchange (PHLX) said on Thursday it would list options on Anchor Gaming, Berg Electronics Inc, Carmike Cinemas Inc and Remedy Corp on September 4.</p>
+<p>The Anchor options will have intial expiration months of September, October, January and April. Berg Electronics and Carmike Cinemas will have initial expirations of September, October, November and February.</p>
+<p>Remedy will have initial expiration months of September, October, December and March.  </p>
+<p>Opening strike prices on Anchor will be 50, 55 and 60. Opening strikes for Berg Electronics will be 22-1/2, 25 and 30. Opening strikes for Carmike Cinemas will be 20, 22-1/2 and 25. Opening strikes for Remedy will be 45, 50 and 55.</p>
+<p>Susquehanna Investment Group will be the specialist for the Anchor and Remedy options, Gateway Partners will be the specialist for Berg Electronics and TFM Investment Group will be the specialist for Carmike Cinemas.</p>
+<p>--Chicago derivatives desk, (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

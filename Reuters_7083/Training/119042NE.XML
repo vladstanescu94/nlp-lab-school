@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119042" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Forte Software Inc Q2 shr $0.07.</title>
+<headline>Forte Software Inc Q2 shr $0.07.</headline>
+<dateline>OAKLAND, Calif. 1996-10-16</dateline>
+<text>
+<p>Quarter Ended   Six Months Ended</p>
+<p>					   Sept. 30,	   Sept. 30,</p>
+<p>					   1995    1996     1995   1996</p>
+<p> Revenues			    $5,797 $14,214 $10,177 $25,894</p>
+<p> Operating profit (loss)	 (1,469)  1,130  (3,429)    966</p>
+<p> Net income (loss)		 (1,415)  1,445  (3,288)  1,738</p>
+<p> Income (loss) per share	  (0.08)   0.07   (0.19)   0.08</p>
+<p>				  Forte Software, Inc.</p>
+<p>		Condensed Consolidated Statements Of Operations</p>
+<p>		  (in thousands, except per share amounts)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>					September 30,    September 30,</p>
+<p>					 1995    1996     1995     1996</p>
+<p>Revenues:</p>
+<p>  License fees		   $3,623  $9,833   $6,694  $17,856</p>
+<p>  Maintenance and service     2,174   4,381    3,483    8,038</p>
+<p>   Total revenues		 5,797  14,214   10,177   25,894</p>
+<p>Cost of revenues</p>
+<p>  License fees			110     128	205	266</p>
+<p>  Maintenance and service     1,236   2,542    2,182    4,920</p>
+<p>     Total Cost of revenues   1,346   2,670    2,387    5,186</p>
+<p> Gross profit		     4,451  11,544    7,790   20,708</p>
+<p>Operating expenses</p>
+<p>  Sales and marketing	   3,117   6,601    6,097   12,366</p>
+<p>Product development and</p>
+<p>   Engineering		    1,980   2,565    3,668    4,849</p>
+<p>General and</p>
+<p>   Administrative		   823   1,248    1,454    2,527</p>
+<p>   Total operating expenses   5,920  10,414   11,219   19,742</p>
+<p>Income (loss) from</p>
+<p>  operations		    (1,469)   1,130  (3,429)	966</p>
+<p> Interest income and expense     60     520	164    1,009</p>
+<p>Income (loss) before income</p>
+<p>  taxes			   (1,409)   1,650  (3,265)    1,975</p>
+<p> Provision for income taxes     (6)   (205)     (23)    (237)</p>
+<p> Net profit (loss)	    (1,415)   1,445  (3,288)    1,738</p>
+<p> Income (loss) per share(a)  (0.08)    0.07   (0.19)     0.08</p>
+<p>Shares used in computing</p>
+<p>profit (loss) per share (a)</p>
+<p>				     17,794  21,078   17,725   21,107</p>
+<p>(a)  Pro forma shares reflecting conversion of preferred stock used for the three and six months ended September 30, 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

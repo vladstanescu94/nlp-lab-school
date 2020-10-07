@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417190" id="root" date="1997-03-04" xml:lang="en">
+<title>CANADA: Toronto Stock Exchange to revise TSE 100 Index.</title>
+<headline>Toronto Stock Exchange to revise TSE 100 Index.</headline>
+<dateline>TORONTO 1997-03-04</dateline>
+<text>
+<p>The Toronto Stock Exchange said on Tuesday it has completed the annual revision of its TSE 100 Index.</p>
+<p>Changes to the index will be effective before market open on March 21, the TSE said.</p>
+<p>Under the revision, eight stocks will be deleted including Agnico-Eagle Mines, Cognos Inc, Investors Group Inc, IPSCO Inc, Mitel Corp, Oshawa Group Ltd class A, Southam Inc and Le Groupe Videotron Ltee.  </p>
+<p>Stocks to be added include Abacan Resource Corp, Gulf Canada Resources Ltd, MDS Inc class B, Mackenzie Financial Corp, Newcourt Credit Group Inc, Philip Environmental Inc, The Edper Group Ltd class A and Teleglobe Inc.</p>
+<p>Effective March 21, the stocks to be deleted from the TSE 100 will be added to the TSE 200 and the stocks to be added to the TSE 100 will be removed from the TSE 200.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

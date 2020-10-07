@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204307" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Netscape desktop organizer due mid-97 - WSJ.</title>
+<headline>Netscape desktop organizer due mid-97 - WSJ.</headline>
+<dateline>NEW YORK 1996-11-20</dateline>
+<text>
+<p>Netscape Communications Corp is expected to announce that it will launch in the middle of next year software that will organize a computer desktop and make Microsoft Corp software just one of many programs inside, the Wall Street Journal reported on Wednesday.</p>
+<p>The newspaper cited &quot;people familiar with the plans&quot; as saying Netscape would make the announcement of its new &quot;Constellation&quot; software at the Comdex computer trade show on Wednesday.</p>
+<p>Microsoft's Windows operating system usually organizes 90 percent of desktops and controls other software.</p>
+<p>Netscape and Microsoft are fierce rivals in the computer software business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

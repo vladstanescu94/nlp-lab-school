@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453235" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Microsoft's Gates sees NT update by mid-98.</title>
+<headline>Microsoft's Gates sees NT update by mid-98.</headline>
+<dateline>SEATTLE 1997-03-19</dateline>
+<text>
+<p>Microsoft Corp Chairman Bill Gates Wednesday said he expects version 5.0 of the company's Windows NT operating system to be released in the first half of 1998.</p>
+<p>&quot;We've said that it will be in the first half of 1998, and I'd say we're pretty confident about that,&quot; Gates said in a brief interview on CNBC.</p>
+<p>&quot;We're always going to listen to the customer feedback about the features and the reliability,&quot; he said. &quot;Until a software product ships it's always fair to say that it could be later.&quot;</p>
+<p>Earlier this month Gates and other Microsoft officials said they expected Windows NT 5.0 to be released in early 1998 rather than in 1997 as previously expected.</p>
+<p>Gates said the software giant is just beginning to get beta test versions of the product into customer hands.</p>
+<p>The new version of the high-end operating system will include a number of changes including features intended to make computers less expensive for businesses to operate dubbed Zero Admninistration Windows.</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

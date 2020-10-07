@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189752" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Sulcus Computer Corp Q3 net rises.</title>
+<headline>Sulcus Computer Corp Q3 net rises.</headline>
+<dateline>GREENSBURG, pa. 1996-11-13</dateline>
+<text>
+<p>(in thousands)   Three Months Ended	   Nine Months Ended</p>
+<p>			   September 30,		  September 30,</p>
+<p>				   Percent			  Percent</p>
+<p>				    Change			   Change</p>
+<p>		     1996     1995  1996    1996    1995     1996</p>
+<p> Total revenue $13,641 $11,197   22% $37,969 $33,661	13%</p>
+<p> Net income	  317	73  334%   1,741   1,804     (3%)</p>
+<p>Net income per share</p>
+<p>			0.02    0.00   ---    0.10    0.12    (17%)</p>
+<p>Weighted average shares</p>
+<p>  outstanding   16,948  14,837	  16,869  14,741</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENSBURG, pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

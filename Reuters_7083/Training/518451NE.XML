@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="518451" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: Microsoft to double email server numbers.</title>
+<headline>Microsoft to double email server numbers.</headline>
+<dateline>REDMOND, Wash. 1997-04-17</dateline>
+<text>
+<p>Microsoft Corp said its Microsoft Network was doubling the number of its e-mail servers, accelerating plans for server upgrades.</p>
+<p>The installation would take about 24 to 36 hours starting 2000 EDT/0100 GMT on April 16, the company said.</p>
+<p>During this time, Microsoft Network members worldwide would not be able to access or receive e-mail, it said.</p>
+<p>The server installation would not affect the service as a whole, the company said. Members would still be able to access the Internet and all MSN programming apart from e-mail during the upgrade, it said.</p>
+<p>(New York newsdesk 212-859-1610)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

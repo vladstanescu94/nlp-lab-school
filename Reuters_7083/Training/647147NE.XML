@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647147" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Informix drops lawsuit against Oracle.</title>
+<headline>Informix drops lawsuit against Oracle.</headline>
+<dateline>PORTLAND, Ore. 1997-06-09</dateline>
+<text>
+<p>Informix Software Inc on Monday said its lawsuit against rival database software provider Oracle Corp was dismissed after the company learned that 13 former engineers did not disclose any confidential information when they switched their employment to Oracle.</p>
+<p>In a brief statement Informix said it learned during the discovery stage of their lawsuit that Oracle and the engineers had not misappropriated or disclosed any confidential Informix information and that Informix's trade secrets are adequately protected.  </p>
+<p>&quot;Informix regrets any statements or allegations that the engineers misappropriated any trade secrets or disclosed them to Oracle,&quot; the company said.</p>
+<p>A spokesman for Informix said there was no financial settlement.</p>
+<p>Informix had charged that Oracle improperly hired the engineers away and that the engineers took important trade secrets about a forthcoming Informix database product with them.</p>
+<p>Oracle attorneys said the engineers did not bring any proprietary information with them, and said the employees left only because they were unhappy with Informix management.</p>
+<p>Informix, based in Menlo Park, Calif., filed the lawsuit in January, charging that a former vice president and other Oregon-based employees were hired away improperly.</p>
+<p>But Oracle attorney Jeff Channin said the employees &quot;engaged in no deception and were pretty open about their desire to leave,&quot; especially after the vice president was demoted by Informix.</p>
+<p>Oracle attorneys also said the practice of switching companies is common in the software industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

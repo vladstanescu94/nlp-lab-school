@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453584" id="root" date="1997-03-19" xml:lang="en">
+<title>ITALY: Agip, Schlumberger in software deal.</title>
+<headline>Agip, Schlumberger in software deal.</headline>
+<dateline>RAVENNA, Italy 1997-03-19</dateline>
+<text>
+<p>Italian state controlled energy group ENI's Agip SpA oil exploration unit and Schlumberger Ltd on Wednesday signed a memo of understanding to develop and market joint software.</p>
+<p>The software, making use of a geographic interactive system, will be capable of handling data storage, retrieval and cartographic displays on Internet/Intranet environment.</p>
+<p>The agreement was signed during the Offshore Mediterranean Conference taking place here.</p>
+<p>Agip said in a statement it has developed its in-house Corporate Data Management solution, GIS Forall, that the Italian company is using in domestic activity and around the world.</p>
+<p>Schlumberger, through its operating unit GeoQuest, has already been providing data management services and software products based on the Finder family of products since 1990.</p>
+<p>Under the agreement, the first release of the software is foreseen by the end of 1997.</p>
+<p>Another Agip/Schlumberger joint venture has been realised, the Dipfan software, a package for dipmeter interpretation, which will be marketed by Schlumberger-GeoQuest.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RAVENNA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

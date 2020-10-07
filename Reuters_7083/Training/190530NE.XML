@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="190530" id="root" date="1996-11-14" xml:lang="en">
+<title>JAPAN: NTT Data - 6mth parent results.</title>
+<headline>NTT Data - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-14</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		251.43		vs	  219.51</p>
+<p> Operating	   24.42		vs	   28.03</p>
+<p> Current	     14.61		vs	   15.24</p>
+<p> Net		    6.96		vs	    8.71</p>
+<p> EPS	     27,522.01 yen	  vs     40,102.19 yen</p>
+<p> Shares	    253 million	  vs	 220 million</p>
+<p> Interim div     3250.00 yen	  vs	 2500.00 yen</p>
+<p>NOTE - NTT Data Communications Systems operates a data communications and systems development service.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

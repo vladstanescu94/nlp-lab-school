@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17528" id="root" date="1996-08-27" xml:lang="en">
+<title>NETHERLANDS: Cap Volmac to change name to Cap Gemini.</title>
+<headline>Cap Volmac to change name to Cap Gemini.</headline>
+<dateline>UTRECHT, Netherlands 1996-08-27</dateline>
+<text>
+<p>Computer software firm Cap Volmac Groep NV said on Tuesday it would alter its name to Cap Gemini NV.</p>
+<p>Cap Volmac is 58 percent owned by Cap Gemini Sogeti SA of France, which recently changed its name to Cap Gemini Sa.</p>
+<p>The Dutch software firm said it wanted to emphasise it had a close link with Cap Gemini.</p>
+<p>&quot;We are planning to alter the name of Cap Volmac BV, the largest unit of the group, during the first half of 1997,&quot; it said in a statement.</p>
+<p>-- A'dam Newsroom +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UTRECHT, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

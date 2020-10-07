@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432280" id="root" date="1997-03-11" xml:lang="en">
+<title>USA: IBM joins others in open standards effort.</title>
+<headline>IBM joins others in open standards effort.</headline>
+<dateline>NEW YORK 1997-03-11</dateline>
+<text>
+<p>International Business Machines Corp, Oracle Corp, Sun Microsystems Inc and Netscape Communications Corp on Tuesday said they were collaborating on setting open standards for network computing.</p>
+<p>The companies said the standards that result from their collaboration would allow software developers to build diverse programs to connect clients and servers through corporate networks, business-to-business networks and the Internet.  </p>
+<p>&quot;This initiative starts with four companies, but our goal is for an industry ground swell to develop,&quot; Steve Mills, general manager of IBM Software Solutions, said in a statement.  </p>
+<p>The initiative will build on network computing architecture called CORBA (common object request broker architecture) in developing a road map for software developers. The goal is to enable the products of different vendors to work together seamlessly as if they were created in the same language on the same system.</p>
+<p>The companies said their collaboration would join common interfaces, protocols and procedures, and it was open to broad industry participation.  </p>
+<p>The companies plan to submit the results of their collaboration to the Object Management Group, an industry standards body, later this year. Each company will deliver the first products that adhere to the standards with their next major product release.</p>
+<p>The standards will mix and match components from a variety of tools, technologies and platforms, including IBM's VisualAge software, Oracle's Network Computer Architecture, Sun's Internet Workshop, Webserver and Solaris products and Netscape's ONE environment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

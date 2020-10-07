@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="465376" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: Online subscriptions top 21 mln in 1996 - survey.</title>
+<headline>Online subscriptions top 21 mln in 1996 - survey.</headline>
+<dateline>STAMFORD, Conn. 1997-03-25</dateline>
+<text>
+<p>Online subscriptions reached 21.1 million in 1996, up 45.5 percent over 1995, fueled by a migration of proprietary information services to the Internet's World Wide Web, a recent study showed.</p>
+<p>Electronic Information Report's 1996 Online Subscriber Survey said that the increase was sparked by firms that shifted services to the Web in 1996, like Microsoft Corp's Microsoft Network and Reed Elsevier's LEXIS-NEXIS.</p>
+<p>Consumer services scored the largest gain in 1996, with a 51.3 percent rise to 17.1 million subscribers.  </p>
+<p>America Online Inc widened the gap with its competitors by nearly doubling its subscriber base to 8.0 million, the survey said.</p>
+<p>CompuServe Corp's CompuServe Information Service held second place with 5.3 million subscribers, up 32.7 percent from 1995. The increase came primarily from new customers in Europe and Japan, the survey said.</p>
+<p>Business/professional services grew to 2.9 million subscribers, while financial information services increased to 1.1 million subscribers.</p>
+<p>The largest increase in the business/professional sector was made by Individual Inc's NewsPage news service, which recorded a 413.3 percent gain to 372,000 subscribers, they survey said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

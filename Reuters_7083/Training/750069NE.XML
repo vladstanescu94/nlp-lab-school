@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750069" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Interlink Computer shares fall.</title>
+<headline>Interlink Computer shares fall.</headline>
+<dateline>LOS ANGELES 1997-07-23</dateline>
+<text>
+<p>Shares of Interlink Computer Sciences Inc fell Wednesday after the company warned the transition into a cooperative selling arrangement with Cisco Systems is taking longer than expected.</p>
+<p>&quot;We anticipate another quarter or two before the program is fully implemented, and as a result, will affect our growth in FY 98 revenue and earnings,&quot; the company said. &quot;We expect product licenses to grow in the 30 percent to 40 percent range and the overall revenue to grow in the 15 percent to 20 percent range.&quot;</p>
+<p>Shares of the supplier of enterprise networked systems management, were off 2-1/8 to 4-7/8 in midmorning trade.</p>
+<p>For the quarter ended June 30, 1997, Interlink reported net income of $687,000, or $.08 per share, compared with net income of $407,000, or $0.08 per share, in the fourth quarter of fiscal 1996. Revenues were $10.3 million, a slight increase over revenues for the same period a year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

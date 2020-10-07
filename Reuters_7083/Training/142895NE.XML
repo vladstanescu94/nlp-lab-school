@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142895" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Altris sets name change, reverse split.</title>
+<headline>Altris sets name change, reverse split.</headline>
+<dateline>SAN DIEGO, Calif. 1996-10-25</dateline>
+<text>
+<p>Altris Software Inc said shareholders approved its name change and reverse stock split at a special meeting held Thursday.</p>
+<p>Altris changed its name from &quot;Alpharel Inc&quot; to reflect combination of Alpharel, Optigraphics and Trimco Group plc.</p>
+<p>It also announced a 1-for-2 reverse split effective at the close on October 25. With the stock split, Altris will have 9.5 million shares outstanding.</p>
+<p>Shareholders of record on October 25 will receive notices on how to exchange existing stock certificates for new certificates reflecting the name change and stock split.</p>
+<p>Trading on a post-split basis will begin when trading opens on Monday, October 28, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

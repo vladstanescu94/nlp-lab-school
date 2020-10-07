@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44135" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Individual, Netscape debut service.</title>
+<headline>Individual, Netscape debut service.</headline>
+<dateline>BURLINGTON, Mass. 1996-09-10</dateline>
+<text>
+<p>Individual Inc said on Tuesday that its personalized news service over the Internet will be available to users of Netscape Communications Corp's Navigator 3.0.</p>
+<p>Individual Inc's NewsPage Direct will be part of Netscape's Inbox Direct service, an e-mail service that is part of the Navigator 3.0 Internet software, Individual Inc said.</p>
+<p>Individual Inc said it will be premiering its new version of NewsPage Direct by the end of the week in this offer to Netscape users. Individual Inc is offering the service for $6.95 per month, but 10 percent of the content available costs more for full-text viewing, a company spokesman said.</p>
+<p>This powerful enhancement allows Individual to send personalized news Web pages directly to users' e-mail boxes each weekday morning, Individual Inc said.</p>
+<p>Each issue contains relevant story headlines and news briefs for up to 20 relevant stories drawn from over 600 information sources, organized according to the users' preference, the company said.</p>
+<p>Netscape's Navigator is a browser for making searches  on the Internet's World Wide Web of computer networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

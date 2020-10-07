@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189840" id="root" date="1996-11-14" xml:lang="en">
+<title>UK: Bridge computers may come up trumps.</title>
+<headline>Bridge computers may come up trumps.</headline>
+<dateline>LONDON 1996-11-14</dateline>
+<text>
+<p>In the world of chess, computers have already reached the top. Now they are set to come up trumps in an even more complex game -- bridge.</p>
+<p>Experts quoted in the British media on Thursday said they believed the breakthrough in teaching computers about finesses, squeezes and cross-ruffing may be just round the corner.</p>
+<p>&quot;In a couple of years, I think that computers will be able to play with the best of them,&quot; the New Scientist magazine quoted Matthew Ginsberg of the University of Oregon as saying.</p>
+<p>Computers have already proved their superiority over all but the most talented players of games ranging from backgammon to blackjack.</p>
+<p>In February world chess champion Garry Kasparov was beaten in the first game he played against a high-powered IBM machine called Deep Blue, but managed to come out ahead in a six-game challenge by four to two.</p>
+<p>But the experts say that bridge poses a tougher challenge for computer buffs.</p>
+<p>They point out that, unlike chess, players operate on the basis of imperfect information, being unaware of what cards opponents hold, and having to make inferences from how they have bid or which card they choose to lead for the first trick.</p>
+<p>Ginsberg told the New Scientist a new computer program he has developed &quot;imagines&quot; the cards that opponents are likely to hold and develops its strategy for making its contract from that.</p>
+<p>&quot;It's not an incremental improvement -- it's a whole new standard,&quot; he said.</p>
+<p>A British academic, Professor Alan Bundy of Edinburgh University's artificial intelligence department, agrees computers will get there eventually, but differs on the time scale.</p>
+<p>He told the Independent newspaper it would be 20 to 30 years before a computer is world bridge champion.</p>
+<p>&quot;Present commercial bridge programs play pretty amateurish games, particularly compared to chess programs, which in a few years will probably be the best players in the world,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

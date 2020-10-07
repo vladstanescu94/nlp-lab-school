@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="539917" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: Raptor Systems Inc Q1 net profit vs loss.</title>
+<headline>Raptor Systems Inc Q1 net profit vs loss.</headline>
+<dateline>WALTHAM, Mass. 1997-04-24</dateline>
+<text>
+<p>Three Months Ended</p>
+<p> (Unaudited)					    (000's omitted)</p>
+<p>							 Mar 31,    Mar 31,</p>
+<p>							   1997	 1996</p>
+<p> Revenue						$5,640     $2,068</p>
+<p>    Total operating expenses		     4,676	2,714</p>
+<p> Net income (loss)				     857	(429)</p>
+<p>Net income (loss) per common and common</p>
+<p>  equivalent share				     .06	(.05)</p>
+<p>Weighted average common and common</p>
+<p>  equivalent shares outstanding	   15,011,893  8,519,351</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

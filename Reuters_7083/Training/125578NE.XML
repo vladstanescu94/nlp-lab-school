@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125578" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Datastream Systems Q3 shr $0.21 vs $0.17. [CORRECTED 23/10]</title>
+<headline>Datastream Systems Q3 shr $0.21 vs $0.17. [CORRECTED 23/10]</headline>
+<dateline>GREENVILLE, S.C. 1996-10-18</dateline>
+<text>
+<p>(Corrects figures in headline from &quot;$0.17 vs $0.21&quot;)</p>
+<p>				DATASTREAM SYSTEMS, INC.</p>
+<p>Three and Nine months ended September 30, 1996 and 1995</p>
+<p>			   Three Months Ended   Nine Months Ended</p>
+<p>				September 30,	 September 30,</p>
+<p>			   1995	 1996	  1995	  1996</p>
+<p>Total Revenues</p>
+<p>		    5,553,521   8,263,902  13,953,639  22,869,765</p>
+<p>Operating Expenses</p>
+<p>		    2,258,403   3,431,894   6,209,667  10,006,723</p>
+<p>Operating Income</p>
+<p>		    1,824,017   2,385,157   4,191,485   6,417,869</p>
+<p>Other income, Net</p>
+<p>			271,279     590,405     565,732   1,746,979</p>
+<p> Net Income    1,259,296   1,830,062   2,856,217   5,019,848</p>
+<p>Net Income per common</p>
+<p>&amp; common equivalent</p>
+<p>  share		   .17	   .21	   .43	   .57</p>
+<p>Weighted average common</p>
+<p>&amp; common equivalent</p>
+<p>  shares	  7,550,549   8,918,505   6,677,145   8,850,754</p>
+<p>NOTE: The full company name is Datastream Systems Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENVILLE, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

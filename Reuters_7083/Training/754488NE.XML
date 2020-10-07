@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="754488" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: Microsoft to boost marketing spending - WSJ.</title>
+<headline>Microsoft to boost marketing spending - WSJ.</headline>
+<dateline>NEW YORK 1997-07-24</dateline>
+<text>
+<p>Microsft Corp's sales and marketing expenses in the current year will grow faster than revenue for the first time in the company's history, The Wall Street Journal said.</p>
+<p>In Thursday's electronic edition, the paper quoted Microsoft's executive vice president for sales and support Steve Ballmer, who said the company plans to significantly increase its spending on sales and marketing in the current fiscal year.</p>
+<p>Ballmer told The Journal that the company will also announce other spending increases at an analysts' meeting in Seattle Thursday.</p>
+<p>The increased spending is likely to pressure the company's earnings growth, which Microsoft has said will slow as a result of the maturing markets for its core personal computer operating system and desktop applications product, the paper said.</p>
+<p>&quot;People will be disappointed with our earnings next year,&quot; the paper quotes Ballmer as saying.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

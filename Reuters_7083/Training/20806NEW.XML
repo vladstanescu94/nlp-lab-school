@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20806" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Novell Chairman Robert Frankenberg resigns.</title>
+<headline>Novell Chairman Robert Frankenberg resigns.</headline>
+<dateline>OREM, Utah 1996-08-29</dateline>
+<text>
+<p>Novell Inc. said Thursday that Robert Frankenberg resigned as chairman, president and chief executive officer.</p>
+<p>Novell, a provider of network software, said John Young, a past president and CEO of Hewlett-Packard Co., would succeed Frankenberg as chairman.</p>
+<p>The company gave no reason for Frankenberg's resignation.</p>
+<p>Joseph Marengi, Novell's executive vice president of worldwide sales, was named president.</p>
+<p>Novell said it had begun a search for a new chief executive.</p>
+<p>Young, who is 64, was president and CEO of Hewlett-Packard for 15 years through 1992. He joined Novell's board in January 1995.</p>
+<p>Novell said Young would be actively involved in overseeing management of the company until the appointment of a new chief executive.</p>
+<p>Frankenberg joined Novell as president and CEO in April 1994 and was named chairman in August of that year.</p>
+<p>He headed Novell during a period marked by the acquisition and then sale of the popular WordPerfect software and the refocus of the company to its position of leadership in network software.</p>
+<p>Novell's stock lost 50 cents to $10.50 in late morning trading on the Nasdaq market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

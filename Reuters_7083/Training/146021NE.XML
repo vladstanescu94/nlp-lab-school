@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146021" id="root" date="1996-10-27" xml:lang="en">
+<title>USA: IBM, Intel in new alliance.</title>
+<headline>IBM, Intel in new alliance.</headline>
+<dateline>NEW YORK 1996-10-27</dateline>
+<text>
+<p>International Business Machines Corp is playing both sides of the fence in the ongoing computer industry controversy over the low-cost network computers.</p>
+<p>Just last month, IBM was the first computer maker to start shipping one of the so-called NCs, a stripped down, low-cost, diskless PC that lets users access data across corporate networks and the Internet. IBM's is called the Network Station.</p>
+<p>Now this week, IBM is also joining one of the companies in the &quot;anti-NC&quot; camp with an expected alliance with Intel Corp.  </p>
+<p>Intel and Microsoft Corp, whose products run on about 80 percent of the world's PCs, have long been deriding the concept of the NC. But Monday, Microsoft is leading an initiative for a new cheaper, easier to manage PC.</p>
+<p>So IBM, one of the world's leading PC makers, is teaming up with Intel to offer technology aimed at driving down the high cost of PC ownership, industry sources said. The high ownership cost is one of the key anti-PC arguments from the NC camp led by Oracle Corp CEO Larry Ellison and Sun Microsystems Inc CEO Scott McNealy.  </p>
+<p>A PC, which costs about $1,500 to $2,000, can cost a corporation anywhere from $6,000 to $12,000 a year to maintain.</p>
+<p>IBM and Intel are expected to announce an alliance that will help cut the cost of ownership of the typical personal computer by offering software built into an Intel card that will let network administrators access and &quot;wake up&quot; a PC to perform diagnostics, or other tasks, when the PC is not in use.  </p>
+<p>The technology, developed by IBM, will be incorporated into Intel's PC adapter cards and software, and then into IBM's PCs, sources said. An IBM spokesman declined to comment.</p>
+<p>An Intel spokesman said that the Santa Clara, Calif.-based semiconductor giant is working on many initiatives to lower the cost of PC ownership.</p>
+<p>&quot;This is part of that centrally-managed PC that will drive down the maintenance cost from $6,000 to $12,000 a year to a couple of thousand dollars a year,&quot; said an Intel spokesman.  </p>
+<p>Monday, Intel will join Microsoft and a host of other PC makers in unveiling a &quot;reference platform,&quot; a roadmap of definitions for new lower cost PCs.</p>
+<p>The Microsoft initiative, to be unveiled Monday in San Jose, Calif., is seeking to steal some of the thunder from the much-anticipated launch of Sun Microsystems' JavaStation, its network computer, to be unveiled Tuesday in New York.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

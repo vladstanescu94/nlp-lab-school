@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95928" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Netscape says sees no pricing pressure.</title>
+<headline>Netscape says sees no pricing pressure.</headline>
+<dateline>SAN FRANCISCO 1996-10-04</dateline>
+<text>
+<p>Netscape Communications Corp executives said they have not been experiencing price pressure on either their server software or their Navigator browser and reiterated their focus on corporate Intranets.</p>
+<p>&quot;We are not experiencing any price pressure of late,&quot; Quincy Smith, manager of investor relations and business development, told investors in answer to analyst questions after a presentation to a Montgomery Securities Conference.</p>
+<p>Mike Homer, senior vice president of marketing, told reporters later there had been no price pressure on either server or browser software.  </p>
+<p>Homer was responding to questions about a major company's statements at the conference earlier in the week that the Netscape Navigator browser software could be bought by corporate customers at $2 to $5 a copy, compared with retail prices around $40 a copy and a $49.95 suggested price.</p>
+<p>Homer said the company does not discuss individual customers or pricing deals, but added that it would not be unreasonable for a browser site license on the order of $1 million for up to 300,000 users as part of an overall deal, noting it sells its software as a package to big customers.</p>
+<p>As such, Netscape's products provide a broad range of features at prices well below competing products, such as International Business Machines Corp's Lotus Notes, or Microsoft Corp's back office.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

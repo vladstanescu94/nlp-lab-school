@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="398144" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: Computer Associates, Microsoft codeveloping product.</title>
+<headline>Computer Associates, Microsoft codeveloping product.</headline>
+<dateline>ISLANDIA, N.Y. 1997-02-24</dateline>
+<text>
+<p>Computer Associates International Inc said its Cheyenne division is working with Microsoft Corp to create a version of its DS Standard program that supports Microsoft's Windows NT directory service, Active Directory.</p>
+<p>DS Standard for Windows NT will offer off-line management, modeling, and disaster recovery capabilities.  It will allow for &quot;snapshots&quot; of live Windows NT Server directory environments, which can be used to model mass changes for impact studies and for disaster recovery and other management systems issues, the company said.</p>
+<p>The product's code base will be compatible with DS Standard for NDS so that there is transparent systems management across sites that use both Windows NT and NetWare directory services, the company said.</p>
+<p>DS Standard for Windows NT is expected to ship when Windows NT Server's Active Directory is commercially available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

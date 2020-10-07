@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191540" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: BEFORE THE BELL - Amgen off on drug study.</title>
+<headline>BEFORE THE BELL - Amgen off on drug study.</headline>
+<dateline>NEW YORK 1996-11-15</dateline>
+<text>
+<p>Shares in Amgen Inc fell 2-5/8 to 57 preceding Friday's U.S. market open on news of research that found leptin, a weight-loss drug under development by the company, may cause diabetes.</p>
+<p>Traders said the news had not affected other biotechhology issues, calling the news &quot;pretty product specific.&quot;</p>
+<p>Leptin was discovered two years ago at Rockefeller University and has been shown to cause weight loss in mice.</p>
+<p>Last year, Amgen paid $20 million for the rights to the gene that produces leptin, and in May began human clinical trials of the compound.  </p>
+<p>U S West Media Group traded 3/8 higher to 18-1/2 after the company announced a buyback of up to $350 million shares.</p>
+<p>Traders also said the stock was supported by Standard &amp; Poor's increasing U S West's weighting in the S&amp;P 500 index because of U S West's acqusition of Continental Cablevision.</p>
+<p>Elsewhere, Microsoft rose to 151 from 149-5/8, Sun Microsystems added 1/4 to 58-3/8 and Intel gained to 120-5/16 from 119-7/8.</p>
+<p>-- Brendan Intindola, Wall Street Desk, 212-859-1734.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

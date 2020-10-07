@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73306" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS - Issues to Watch - Sept 24.</title>
+<headline>U.S. HEADLINE STOCKS - Issues to Watch - Sept 24.</headline>
+<dateline>NEW YORK 1996-09-24</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>-- California Microwave Inc said late Monday it expects a fiscal first quarter loss of about $0.15 a share after lower sales and delayed orders. California Microwave shares closed at 14-1/2 on Monday.</p>
+<p>-- Hartford Steam Boiler Inspection &amp; Insurance Co expects third quarter charges of $0.25-$0.30 a share due to storms. It closed off 1/8 to 45-1/4.</p>
+<p>-- Micrografx Inc said earnings for its upcoming fiscal quarter should be $0.02-$0.04 per share, well below analysts' estimates of about $0.09. The graphics software company cited non-recurring restructuring expenses.</p>
+<p>Micrografx closed at 8-3/8.</p>
+<p>-- StreamLogic, which makes software and subsytems to manage video and data, said it expects a second quarter loss that could match or exceed its first quarter loss. It closed at 2-5/8.</p>
+<p>-- IMP Inc said it expects a significant loss in the second quarter ended September due to weaker demand and restructuring charges. It closed at 6-1/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

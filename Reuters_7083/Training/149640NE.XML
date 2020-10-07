@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149640" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Activision acquires stake in game developer.</title>
+<headline>Activision acquires stake in game developer.</headline>
+<dateline>LOS ANGELES 1996-10-29</dateline>
+<text>
+<p>Activision Inc, a video game developer, said on Tuesday it had acquired an equity stake in Titanic Entertainment,  a one-year-old game company.</p>
+<p>Financial details were undisclosed.</p>
+<p>Titanic will develop a personal computer-based strategy game for Activision with full Internet support, marking Activision's first game specifically for play on the Net. Activision retains rights to a sequel or other second title.</p>
+<p>&quot;The Internet offers tremendous opportunities, but a successful online game must incorporate design features that offset the technical constraints of the medium today,&quot; Bobby Kotick, chief executive, said in a statement.</p>
+<p>Titanic was formed by four former employees of Origin Systems, a unit of huge game maker Electronic Arts Inc. While at Origin, they contributed to games such as &quot;Ultima&quot;, &quot;Crusader&quot; and &quot;Wing Commander&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

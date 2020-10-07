@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183262" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: U.S. OPTIONS FOCUS-Book-to-bill enlivens hi techs.</title>
+<headline>U.S. OPTIONS FOCUS-Book-to-bill enlivens hi techs.</headline>
+<dateline>CHICAGO 1996-11-12</dateline>
+<text>
+<p>A stronger-than-expected semiconductor book-to-bill ratio for October enlivened trading in options on high technology stocks, traders said Tuesday.</p>
+<p>On the American Stock Exchange, the heaviest trading was in Motorola Inc and Intel Corp options.</p>
+<p>Micron Technology and Microsoft Corp topped the actives list on the Pacific Stock Exchange.</p>
+<p>Dell Computer Corp was busy on the Philadelphia Stock Exchange and International Business Machines Corp and Cisco Systems Inc were active on the Chicago Board Options Exchange.  </p>
+<p>&quot;It seems like the book-to-bill ratio is having an impact on option volume today,&quot; said Michael Schwartz, managing director at Oppenheimer &amp; Co.</p>
+<p>&quot;All the exchanges are benefiting from high tech volatility today,&quot; he added.</p>
+<p>Late Monday, the Semiconductor Industry Association said its book-to-bill ratio, which measures the value of new orders compared with shipments, rose to 1.10 in October from a revised 0.98 in September, marking the first time it has been over 1.0 since December 1995.  </p>
+<p>Options traders said volatility in high tech stocks -- many got a boost from a rally in the semiconductor group but later slipped -- contributed to heavy action in the options.</p>
+<p>&quot;Some of these stocks were all over the place,&quot; one trader said.</p>
+<p>For instance, semiconductor maker Intel ended down 2-7/8 at 121 after rallying to a new all-time high of 125-1/8 in morning trading. Turnover totalled 12.3 million shares.</p>
+<p>Among the options, the November 125 call traded nearly 6,000 contracts. It fell 1-1/16 to 3/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

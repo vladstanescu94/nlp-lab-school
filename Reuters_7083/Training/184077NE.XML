@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184077" id="root" date="1996-11-12" xml:lang="en">
+<title>UK: Misys to buy U.S. software firm Frustum.</title>
+<headline>Misys to buy U.S. software firm Frustum.</headline>
+<dateline>LONDON 1996-11-12</dateline>
+<text>
+<p>British software company Misys Plc said on Tuesday it had conditionally agreed to purchase the whole share capital of privately-owned U.S. treasury managment software company The Frustum Group Inc.</p>
+<p>The British company will pay a maximum total consideration of $61.4 million in cash, it said in a statement.  </p>
+<p>Frustum's main product is OPICS, an intgrated front and back office system for treasury management, typically sold as a deparmental system.</p>
+<p>Misys said this would complement its existing products sold by its Midas-Kapiti International subsidiary.</p>
+<p>Payment for Frustum will be split into initial consideration of $46.5 million and long term incentive compensation of up to $14.9 million.</p>
+<p>It will also contribute up to $3.0 million for bonuses for non-vendor employees over the next two years, Misys added.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

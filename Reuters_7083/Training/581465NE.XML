@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581465" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Computron Q1 revs up, shr loss narrows.</title>
+<headline>Computron Q1 revs up, shr loss narrows.</headline>
+<dateline>RUTHERFORD, N.J. 1997-05-14</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p> Three Months Ended				Mar 31,     Mar 31,</p>
+<p>							  1996	   1997</p>
+<p>Revenues:</p>
+<p>	License fees			     $  2,350    $  5,629</p>
+<p>	Services					5,319	11,162</p>
+<p>	     Total revenues			 7,669	16,791</p>
+<p>Operating expenses:</p>
+<p>	Cost of license fees			1,003	   281</p>
+<p>	Cost of services			    3,903	 6,562</p>
+<p>	Sales and marketing			 5,756	 4,954</p>
+<p>	Research and development		  2,982	 2,431</p>
+<p>	General and administration		2,701	 4,821</p>
+<p>	     Total operating expenses	  16,345	19,049</p>
+<p> Operating loss				   (8,676)     (2,258)</p>
+<p> Other income					   605	   261</p>
+<p> Net loss					   (8,071)     (1,997)</p>
+<p>Net loss per common</p>
+<p>	and common equivalent share	    (0.39)	(0.10)</p>
+<p> average shares				    20,767	20,809</p>
+<p>Full company name is Computron Software Inc .</p>
+<p>(( -- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RUTHERFORD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

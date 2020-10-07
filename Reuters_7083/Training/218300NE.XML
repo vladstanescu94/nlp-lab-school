@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218300" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Apple faces rival suitor for Be technology.</title>
+<headline>Apple faces rival suitor for Be technology.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>MENLO PARK, Calif. 1996-11-25</dateline>
+<text>
+<p>Be Inc., a private software company which Apple Computer Inc. is eyeing as a possible acquisition target, will announce Tuesday that it will license software to an Apple rival, Be executives said.</p>
+<p>Be will license its BeOS operating system -- a type of programme that controls the basic functions of a computer -- to Power Computing Corp., a maker of computers compatible with Apple's Macintosh, executives of the companies said. Power Computing will have an exclusive license until April 1997.</p>
+<p>Apple itself has been considering using Be's software. Earlier this year, the No. 3 PC maker shelved a mired effort to rewrite the Macintosh operating system and has been looking outside, primarily at Be, for programming talent.</p>
+<p>Be and Power Computing executives said their agreement was not a threat to Apple's plans. Instead, the companies are offering fast machines that would appeal to saavy users, such as programmers, game developers and Web site managers, known as Webmasters.</p>
+<p>&quot;This agreement has no impact on any deal we may or may not conclude with Apple,&quot; said Mark Gonzalez, marketing director at Be, based in Menlo Park, Calif.</p>
+<p>An Apple spokesman declined to comment on the agreement.</p>
+<p>Be, founded in 1992 by the former head of Apple's research and development, writes software that takes full advantage of the multimedia and computing capabilities of the PowerPC microprocessor, the same computer chip that serves as the brains of the Macintosh.</p>
+<p>The company's BeOS includes many software features and innovations that Apple's programmers have not been able to include in Macintosh software.</p>
+<p>Apple, struggling to set the Macintosh apart from personal computers running software from Microsoft Corp., has been negotiating with Be since June about licensing its products or buying Be outright, executives close to the negotiations have said.</p>
+<p>Apple Chairman Gilbert Amelio and Chief Technology Officer Ellen Hancock have hinted in recent weeks that Apple planned to rewrite the core of the Macintosh software itself, but will turn to outside software companies for help in developing the features a computer user would see on the screen, including next-generation multimedia capabilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

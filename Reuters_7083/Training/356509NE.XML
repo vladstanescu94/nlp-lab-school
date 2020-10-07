@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="356509" id="root" date="1997-02-05" xml:lang="en">
+<title>UK: INTERVIEW - Foreign sales vital for Novell.</title>
+<headline>INTERVIEW - Foreign sales vital for Novell.</headline>
+<dateline>LONDON 1997-02-05</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>U.S. software group Novell Inc said Wednesday it wants to expand overseas sales and generate 60 percent of its revenue outside north America by 2000.</p>
+<p>Company president Joe Marengi said in an interview that Novell has a three pronged strategy.</p>
+<p>&quot;We want to bring new products to the market, we want to grow through acquisition, buying technology companies that fit our product strategy, and we want to continue to grow internationally,&quot; Marengi said.</p>
+<p>&quot;Right now 49 percent of our revenues are generated outside the U.S. We want this to be at least 60 percent by 2000,&quot; Marengi said by telephone from Paris.</p>
+<p>Marengi said the four million servers it has installed today should reach eight million in 2000.</p>
+<p>Orem, Utah-based Novell's software allows business computers to talk to each other across networks. The company leads the way in this business, but has had a tough time recently, selling some assets and shuffling top management.</p>
+<p>Companies like software giant Microsoft have been eying Novell's business, and biting chuncks out of it.</p>
+<p>Novell spent $855 million buying software maker WordPerfect in 1994, but sold most of it at a fraction of that price to Canada's Corel Corp early last year. The company has been a much-touted takeover target, but last November Novell seemed to have quashed the rumours, saying it felt its future would be independent. In its financial year ended October 31, 1996 Novell earned $126 million compared with $338 million the previous year.</p>
+<p>Revenues were $1.4 billion compared with $2.0 billion.</p>
+<p>Marengi said cooperation plans with Sun Microsystems Inc's Java software were crucial to Novell's future.</p>
+<p>Much touted &quot;Intranets&quot;, where businesses communicate with other businesses across on-line but secure networks, were the wave of the future, but really hadn't taken off yet.</p>
+<p>&quot;Intranets will be there, but they are evolving slower than those talking about it in the press suggest.&quot;</p>
+<p>Marengi said a key driver of Novell's business would be network directories.</p>
+<p>&quot;Directories are more than just address finders. They will be like automated teller machines with information like bank account, social security, lots of private information which authenticate use with a PIN number or whatever.&quot;</p>
+<p>&quot;You take that out across a very diverse distributed network. Names, fax numbers, computers, security codes, finger prints, this is all relatively high-powered, and allows a highly secure environment.&quot;</p>
+<p>&quot;Novel is focussed on building corporate networks, that's our strong suit; the directory is a key piece of technology - part of what we doing here, making sure it all links no matter what hardware or software is involved.&quot;</p>
+<p>Marengi said networking will transform business.</p>
+<p>&quot;It allows simple communications between disparate sites, allows an information flow that wasn't there before.&quot;</p>
+<p>Couldn't this all be done with a simple telephone call?</p>
+<p>&quot;I can connect to my office in San Jose with my laptop, I might as well be there but I'm sitting here in Paris.&quot;</p>
+<p>&quot;The telephone can't do that. My computer can generate reports and get reports, my speeches are sitting on a server back in San Jose and I can call them up here and work on them. You couldn't do that on the telephone.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

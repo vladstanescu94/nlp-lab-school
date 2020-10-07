@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="387121" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: Spatial Technology Inc Q4 full results.</title>
+<headline>Spatial Technology Inc Q4 full results.</headline>
+<dateline>BOULDER, Colo. 1997-02-18</dateline>
+<text>
+<p>Twelve Months Ended  Three Months Ended</p>
+<p>				    December 31,     December 31,</p>
+<p>				1996	1995	 1996	 1995</p>
+<p>Revenue:</p>
+<p>   License fee    $4,553,500 $4,850,600   $742,800 $1,291,400</p>
+<p>   Royalties	 2,106,300  1,206,600    478,800    345,200</p>
+<p>   Maintenance     2,777,400  2,405,000    694,200    617,800</p>
+<p>   Other		 136,400    166,900     13,500     29,800</p>
+<p> Total revenue     9,573,500  8,629,100  1,929,300  2,284,300</p>
+<p> Gross margin	8,830,200  7,951,800  1,777,600  2,128,100</p>
+<p>Total operating expenses</p>
+<p>			 8,875,200  7,275,400  2,309,600  1,878,700</p>
+<p>Operating profit (loss)</p>
+<p>			  (45,000)    676,400  (532,100)    249,500</p>
+<p>Other income (expenses)</p>
+<p>			  (22,600)    114,600   (70,300)     72,900</p>
+<p>Net income (loss) before   taxes		 (22,400)    561,700  (461,800)    176,600</p>
+<p>Foreign withholding tax</p>
+<p>			   139,700    174,200     48,900     59,000</p>
+<p> Net income (loss) (162,100)    387,500  (510,600)    117,500</p>
+<p>Earnings (loss) per share</p>
+<p>			     (.03)	  .07	(.07)	  .02</p>
+<p>Weighted average share</p>
+<p>			 5,754,000  5,210,000  7,113,000  5,216,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

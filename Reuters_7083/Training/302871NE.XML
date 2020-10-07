@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302871" id="root" date="1997-01-13" xml:lang="en">
+<title>SINGAPORE: Microsoft signs software deal with ABACUS.</title>
+<headline>Microsoft signs software deal with ABACUS.</headline>
+<dateline>SINGAPORE 1997-01-13</dateline>
+<text>
+<p>Microsoft Corp signed a Singapore $7.0 million software deal on Monday with Asia's leading travel reservation operator, ABACUS.</p>
+<p>The agreement involves licensing Microsoft's Windows NT Server and database software, SQL Server for an intelligent workstation newly launched by ABACUS.</p>
+<p>The project, to be implemented over three years for more than 6,600 travel agency offices in 14 Asia-Pacific countries, is among the largest for Microsoft in the region.</p>
+<p>Orlando Ayala, Microsoft vice-president and director of Intercontinental operations, told a news conference after the agreement was signed that ABACUS' choice was the first major example in Asia of the success of the system worldwide.</p>
+<p>&quot;This is a business we never dreamed to be a million dollar business in 18 months,&quot; Ayala said, adding that growth in Asia was tracking the upward trend seen in the United States.</p>
+<p>He said U.S. sales had risen about 200 percent year-on-year since 1995.</p>
+<p>Commenting on market share, Ayala said: &quot;At the level of dollars, we're exceeding 40 percent, and for licenses, we're exceeding 50 percent.&quot;</p>
+<p>ABACUS is jointly owned by All Nippon Airways, Cathay Pacific Airways, China Airlines, EVA Airways, Garuda Indonesia, Hong Kong Dragon Airlines, Malaysia Airlines, Philippine Airlines, Royal Brunei Airlines, SilkAir, Singapore Airlines and U.S. WORLDSPAN Travel Information Services.</p>
+<p>--Jacqueline Wong, Singapore newsroom (65 870 3088)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

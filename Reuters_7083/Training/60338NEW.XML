@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60338" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Microsoft gaining on Netscape - study.</title>
+<headline>Microsoft gaining on Netscape - study.</headline>
+<dateline>REDWOOD CITY, Calif 1996-09-18</dateline>
+<text>
+<p>Microsoft Corp may have been slow to realize the potential of the Internet, but a study released Wednesday shows the software company is gaining ground on its archrival Netscape Communications Corp.</p>
+<p>According to Zona Research, which provides information and advice to the Internet industry, Netscape remains on top in the Internet browser market with Microsoft in second place.</p>
+<p>Zona's census shows that Netscape Navigator is the dominant primary browser, used by 83 percent of the respondents in August.  </p>
+<p>However, the survey said the percentage of respondents with Microsoft's Internet Explorer as a primary browser almost doubled to eight percent last month.</p>
+<p>When looking at all the browsers available, used as primary or otherwise, Zona said the spread was narrower, with Navigator holding 59 percent of the market and Internet Explorer holding 18 percent.</p>
+<p>&quot;We believe that deployment of Internet Explorer 3.0 and Navigator 3.0 has remained low this quarter because of corporate policies regarding beta software,&quot; said Clay Ryder, senior analyst at Zona Research.  </p>
+<p>&quot;Netscape 2.0 is functionally superior product to IE 2.0, and census results showed that more corporate users adopted Navigator,&quot; Ryder said. &quot;With the release of IE 3.0 and Navigator 3.0, equilibrium on features may have been achieved.&quot;</p>
+<p>&quot;Netscape maintains the dominant market position, which reflects their success at being the first widely available and promoted Web browser,&quot; said Stephen Auditore, president of Zona Research. &quot;We see Netscape remaining strong with Microsoft gaining ground with Internet Explorer 3.0.&quot;  </p>
+<p>&quot;Ultimately, the losers in the short term are likely to be companies other than Microsoft or Netscape supplying browsers,&quot; he said.</p>
+<p>Netscape and Microsoft have been locked in a bitter battle to control the browser market, with both companies trying to sign alliances with Internet access providers that would feature their browsers as the primary navigation tool for the World Wide Web.</p>
+<p>Regardless of the current state of the market, Zona said there was no indication that a strong, long-term preference for a specific browser.</p>
+<p>When asked if their company encouraged or required use of a particular browser, only 24 percent of the survey participants answered yes.</p>
+<p>The Web Browser Census is a quarterly census conducted by Zona Research that tracks browsers used in a corporate environment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

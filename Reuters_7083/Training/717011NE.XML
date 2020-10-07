@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="717011" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: Computer coding could cripple cops, FBI warns.</title>
+<headline>Computer coding could cripple cops, FBI warns.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-07-09</dateline>
+<text>
+<p>FBI Director Louis Freeh on Wednesday issued his sternest warning yet that widespread use of computer encoding technology could wreak havoc on crime-fighting efforts.</p>
+<p>But computer industry participants warned that U.S. restrictions on encryption products, which scramble information and render it unreadable without a password or software &quot;key,&quot; would merely boost sales by foreign companies.</p>
+<p>Freeh urged Congress to promote the use of a type of encryption that allows law enforcement agents to crack the codes by getting access to the software keys.</p>
+<p>&quot;Law enforcement is in unanimous agreement that the widespread use of robust non-key recovery encryption ultimately will devastate our ability to fight crime and prevent terrorism,&quot; the FBI director testified before the Senate Judiciary Committee. Encryption is &quot;one of the most difficult problems confronting law enforcement as the next century approaches.&quot;</p>
+<p>Freeh has spoken out numerous times against the unrestricted export of strong encryption products, but his remarks Wednesday focused mainly on the threat to law enforcement efforts within the United States.</p>
+<p>Current laws impose tight controls on encryption exports but domestic use is completely unregulated and some scholars believe restrictions on U.S. citizens might be unconstitutional.</p>
+<p>Much of Wednesday's hearing rehashed well-worn arguments in the encryption debate. Industry and privacy advocates have backed legislation to relax export controls and promote the use of encryption as a means of securing electronic commerce and global communications over the Internet. Freeh and other members of the Clinton administration continue to oppose those policies.</p>
+<p>Sen. Patrick Leahy, who is co-sponsor of a bill to dramatically relax export controls, argued that use of encryption could help prevent crimes by enhancing the security of data and communications.</p>
+<p>&quot;Taking affirmative steps to use strong encryption can aid law enforcement and protect national security by limiting the threat of industrial espionage and foreign spying, and reducing the vulnerability of electronic information to online snoops and breaches of privacy,&quot; the Vermont Democrat said.</p>
+<p>Raymond Ozzie, author of the popular Lotus Notes electronic messaging software, said the private sector's experience with key recovery schemes revealed significant problems.</p>
+<p>&quot;All key management systems are inherently subject to failure of one sort or another,&quot; Ozzie, chairman of IBM Corp. subsidiary Iris Associates, testified. &quot;Mandated key management and key recovery methods remove diversity and centralize our vulnerabilities,&quot; he said.</p>
+<p>&quot;This is likely to increase crime,&quot; Ozzie said.</p>
+<p>In additon to the Leahy measure, the Senate is also considering a bill sponsored by Sen. John McCain, Republican of Arizona, and Sen. Bob Kerrey, Democrat of Nebraska. That measure would continue to strictly limit export of encryption without key recovery and require all computer networks used by the federal government or funded in part by the government to include key recovery.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264952" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Sun, Netscape to deepen collaboration.</title>
+<headline>Sun, Netscape to deepen collaboration.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-12-17</dateline>
+<text>
+<p>Sun Microsystems Inc and Netscape Communications Corp are due on Wednesday to announce agreement to deepen their strategic collaboration on Internet technologies.</p>
+<p>Sun said Netscape will incorporate support for Sun's WebNFS Internet file system, which Sun says can exchange files over the Internet up to 10 times faster than other systems and uses one third the bandwidth in the process.</p>
+<p>Netscape will also to ensure that Sun's Joe connectivity software works with Netscape's ONE open network environment.</p>
+<p>Despite some industry talk of difficulties between Sun and the rapidly-growing Internet software company as they strive to advance Internet use, analysts said competition and the need to push new products onto the market rapidly has provided impetus for closer collaboration.</p>
+<p>The two companies said they would work together on joint promotion, licensing and marketing of Sun's WebNFS system and that Netscape would include it in future versions of its Netscape Communicator software.</p>
+<p>The Joe feature enables small programs known as applets using Sun's Java technology, to connect to networked business applications running on servers.</p>
+<p>Other companies which over the summer have announced support for WebNFS include Oracle Corp, Spyglass, International Business Machines Corp, Sequent Computer Systems and Apple Computer.</p>
+<p>Conspicously absent still was the software giant Microsoft, however, which has been battling with Sun Microsystems over the control of Sun's Java platform.</p>
+<p>A Microsoft spokeswoman was not immediately available.</p>
+<p>&quot;Sun has continuously been able to drive a lot of the standards on the network and we've continuously done that with people who are both partners and competitors, like IBM,&quot; said Schreeder.</p>
+<p>&quot;I think the size of this announcement and the amount of people subscribing to this basically pretty much guarantees that this is going to be the de facto standard,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512201" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: OpenVision Technologies Q3 full results.</title>
+<headline>OpenVision Technologies Q3 full results.</headline>
+<dateline>PLEASANTON, Calif. 1997-04-16</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>						  March 31,   March 31,</p>
+<p>					   1997    1996    1997    1996</p>
+<p>Net revenue:</p>
+<p>     License			$10,226 $ 5,588 $24,064 $14,426</p>
+<p>     Service			  2,930   2,246   8,344   5,899</p>
+<p>     Total net revenue	   13,156   7,834  32,408  20,325</p>
+<p>Cost of revenue:</p>
+<p>     License			    618     355   1,770     979</p>
+<p>     Service			    688     558   1,915   1,669</p>
+<p>     Total cost of revenue	1,306     913   3,685   2,648</p>
+<p> Gross profit			11,850   6,921  28,723  17,677</p>
+<p>Operating expenses:</p>
+<p>     Selling and marketing	6,168   4,107  15,863  11,164</p>
+<p>     Research and development   2,750   1,490   7,283   4,420</p>
+<p>General and administrative</p>
+<p>					  1,124     886   3,114   3,144</p>
+<p>     Total operating expenses  10,042   6,483  26,260  18,728</p>
+<p>Income (loss) from operations</p>
+<p>					 1,808     438   2,463  (1,051)</p>
+<p> Other income (expense), net	339   (203)   1,110   (495)</p>
+<p>Income (loss) before income</p>
+<p>	taxes			  2,147     235   3,573  (1,546)</p>
+<p> Provision for income taxes	 482	--     818	--</p>
+<p> Net income (loss)		  1,665     235   2,755 (1,546)</p>
+<p>Pro forma net income (loss)</p>
+<p>  per share			    0.08    0.01    0.14  (0.10)</p>
+<p>Pro forma shares used in per</p>
+<p>  share calculations	     19,994  16,114  19,754  15,775</p>
+<p>		     (In thousands, except per share data)</p>
+<p>						     Three Months Ended</p>
+<p>							     March 31,</p>
+<p>						    Pro Forma, unaudited</p>
+<p>						     1997		1996</p>
+<p>Net revenues:</p>
+<p>     User license fees		     $20,523	  $12,281</p>
+<p>     Service and training		    3,672	    2,667</p>
+<p>     Porting and source			1,415		350</p>
+<p>		   Total net revenues	 25,610	   15,298</p>
+<p>Operating expenses:</p>
+<p>     Cost of revenues			  2,770	    1,511</p>
+<p>     Product development		     5,794	    3,538</p>
+<p>     Marketing and sales		     9,262	    5,628</p>
+<p>     General and administrative	    2,135	    1,558</p>
+<p>		   Total operating expenses  19,961	  12,235</p>
+<p> Operating income				5,649	    3,063</p>
+<p> Interest income, net			    835		177</p>
+<p>Income before provision for income taxes</p>
+<p>						     6,484	    3,240</p>
+<p> Provision for income taxes		  1,067		391</p>
+<p> Net income					5,417	    2,849</p>
+<p> Net income per share			   0.25	     0.14</p>
+<p> Shares used in per share computation   21,604	   19,704</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

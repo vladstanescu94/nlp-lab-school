@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243717" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: CBT Systems names Buckley as CEO.</title>
+<headline>CBT Systems names Buckley as CEO.</headline>
+<dateline>MENLO PARK, Calif 1996-12-09</dateline>
+<text>
+<p>CBT Systems Ltd said it named James Buckley as its new chief executive officer.</p>
+<p>Buckley will report to William McCabe, who will retain the position of chairman of the board, effective immediately.</p>
+<p>Buckley, 46, joined CBT Systems as president and chief operating officer in September 1996 after an 11-year career at Apple Computer Inc, where he served in various capacities, including senior vice president and president of Apple Americas, a sales and marketing organization.</p>
+<p>Buckley will retain his title as president at CBT Systems in his new role.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

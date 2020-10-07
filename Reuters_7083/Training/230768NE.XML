@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230768" id="root" date="1996-12-03" xml:lang="en">
+<title>POLAND: Polish software firm Softbank plans IPO in Oct '97.</title>
+<headline>Polish software firm Softbank plans IPO in Oct '97.</headline>
+<dateline>WARSAW 1996-12-03</dateline>
+<text>
+<p>Polish software company Softbank SA wants to enter the Warsaw bourse and plans its initial public offering in October next year, the company said in a statement on Tuesday.</p>
+<p>&quot;On December 2, the extraordinary shareholders' meeting obliged the management of Softbank to take all steps to float Softbank's shares and place them on the Warsaw exchange,&quot; it said.</p>
+<p>It said it planned to place at least three million shares in the initial offering, which would enable the company to boost its share capital to over seven million zlotys, needed for entering the bourse's main market.</p>
+<p>It gave no data about its current capital.</p>
+<p>The company said it would issue 2.5 million shares to its current shareholders to raise its share capital to 6.2 million zlotys before the IPO.</p>
+<p>It said Softbank had revenues of 34.3 million zlotys last year, four times more than in 1994.</p>
+<p>The company's main shareholders are British ICL Holding B.V, which has 50.5 percent of the company's shares, and the company's president Aleksander Lesz, who has 49 percent, it said.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

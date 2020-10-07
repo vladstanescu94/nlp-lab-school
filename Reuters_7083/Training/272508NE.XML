@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272508" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Metatools to acquire Real Time Geometry.</title>
+<headline>Metatools to acquire Real Time Geometry.</headline>
+<dateline>LOS ANGELES 1996-12-23</dateline>
+<text>
+<p>MetaTools Inc said on Monday that it entered an agreement to buy Real Time Geometry Corp in a stock deal.</p>
+<p>MetaTools plans to issue 1.36 million shares of MetaTools' common stock in exchange for all the outstanding shares of Real Time, a Princeton, N.J.-based company specializing in real-time, 3-D graphics and visualization technologies.</p>
+<p>MetaTools will also issue about 800,000 non-qualified stock options to purchase MetaTools common stock to current Real Time employees.</p>
+<p>The acquisition is expected to close by December 31, 1996.</p>
+<p>If the common stock of MetaTools on the closing date is $14.50 per share -- the closing price on December 20, 1996 -- then MetaTools would expect to charge about $17 million against earnings during the fourth quarter ended December 31, 1996.</p>
+<p>The charges are related to the write-off of research and development in-process at Real Time and other costs related to the transaction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

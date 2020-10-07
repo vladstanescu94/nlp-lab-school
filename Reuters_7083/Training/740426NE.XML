@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="740426" id="root" date="1997-07-18" xml:lang="en">
+<title>UK: FEATURE - COMPANIES FACE EARLY BITE FROM MILLENNIUM BUG.</title>
+<headline>FEATURE - COMPANIES FACE EARLY BITE FROM MILLENNIUM BUG.</headline>
+<dateline>LONDON 1997-07-18</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>The millennium bug is not supposed to explode inside the world's computers until midnight on January 31, 1999, but some companies will begin to feel its impact within months.</p>
+<p>Firms which have had warm, long-term relationships with their bankers will suddenly find the atmosphere chilling over lunch if they respond negatively to the question :&quot;And of course, you are millennium compliant?&quot;.</p>
+<p>&quot;No? Sorry, I'm afraid we will have to call in your loans.&quot;</p>
+<p>Accountants will be rehearsing similar conversations.</p>
+<p>&quot;Sorry. We must qualify your accounts to make clear that you are likely to cease trading shortly after New Year's Day, 2000 because your business is exposed to the millennium bomb.&quot;</p>
+<p>This kind of comment is going to be heard increasingly in coming months as it becomes obvious that some companies have been deaf to the millennium bug problem.</p>
+<p>And all because computer programmers took the easy way out.</p>
+<p>Many computers and chip driven machines across the world may fail when clocks tick into the next century because of short cuts taken by some programmers in the 1970s and 1980S.</p>
+<p>Dates were abbreviated to single figures such as &quot;77&quot; or &quot;92&quot; to save what was then precious and expensive programme space. It didn't matter that they would read the year 2000 as &quot;00&quot; and crash, or begin sending out erroneous data.</p>
+<p>Computer technology was so fast moving, none of these abbreviated programmes would survive to 2000, right?</p>
+<p>Wrong.</p>
+<p>Many of these programmes and chips are still in use, and promise chaos as the new century dawns.</p>
+<p>BANKS, ACCOUNTANTS MUST ASSESS CUSTOMER EXPOSURE</p>
+<p>Banks must peer into the future when deciding if customers will be able to repay loans. Accountants must report possible threats which may destroy a company's ability to trade.</p>
+<p>&quot;This is going to be a problem for banks and accountants. The millennium bug is potentially a problem and is one of those topics which will move from barely being a dot on the horizon to looming very large over the next six months,&quot; said Andy Kyte, research director at the high-tech consultancy Gartner Group.</p>
+<p>Companies with long-term supply contracts also have to make sure they are not suddenly left in the lurch when 2000 dawns.</p>
+<p>&quot;Many organisations are extending their own 2000 compliance down through their supply chain. If they get unsatisfactory responses, then these companies may be removed from the preferred supplier chain,&quot; said Malcolm Stirling, director of Year 2000 services at management consultants KPMG.</p>
+<p>According to Massimo Spallo, associate partner at Andersen Consulting, many companies which fail to prepare adequately for the millennium bug won't be blasted out of existence overnight. They will be gradually rendered uncompetitive.</p>
+<p>&quot;What will happen will be more subtle than a sudden failure. The cost of processing every business transaction will be more expensive. Computers will generate false data which will upset customers and lead to disputes. This implies lower productivity for the company and loss of business,&quot; Spalla said.</p>
+<p>KPMG's Stirling agrees that the bug's physical impact will be devious.</p>
+<p>&quot;I think spectacular systems crashes are unlikely. It will be the insidious mistake that creeps in resulting in some miscalculation that could go on for many years,&quot; he said.</p>
+<p>ACCOUNTANTS MAY NEED TO ISSUE SURVIVAL WARNINGS</p>
+<p>Accountants must be on their guard.</p>
+<p>&quot;I haven't heard of accounts being qualified yet, but the audit round is underway now and I think that for qualification to take place, you'd be looking for a particular type of organisation, like a telephone based insurance firm that had wall-to-wall IBM Assembler, and you knew they weren't compliant and couldn't carry on after 2000 -- no business without the computer. That business would be under threat,&quot; said Stirling.</p>
+<p>Assembler is a particularly dense form of computer code used in ubiquitous Cobol programmes.</p>
+<p>The struggle to repair and update computers to make sure they work on 2000 has soaked up much of the available computer analyst workforce. As the countdown continues, some companies are faced with the prospect of time running out. They will have to face the fact that some systems will not be repaired in time.</p>
+<p>But even companies which have invested wisely and early to defuse the bug, may not be home free.</p>
+<p>&quot;A lot of software developers have fudged the issue. They say systems are compliant but you can't always assume that's true. With the absence of testing tools it is very difficult to prove one way or another,&quot; said Dennis Keeling, business software analyst at technology consultancy Ovum.</p>
+<p>&quot;The software might work but the computer might not. You solve one problem, look underneath and find another. You are constantly working down layers of the problem,&quot; he said.</p>
+<p>Adam Wright, industry analyst with research institute SRI International, agrees.</p>
+<p>&quot;There is no such thing as Y2K (year 2000) certification, primarily because, given the vast amounts of code we're discussing here -- the systems of an average size company contain, say, one to 10 million lines of code -- it would probably take more than two-and-a-half years to check each one individually,&quot; he said.</p>
+<p>Some businesses have probably ensured they will comfortably survive 2000, according to accountants Ernst and Young.</p>
+<p>&quot;From our work it is fairly clear that banking and finance are more advanced with year 2000 than manufacturing,&quot; said Nick Fitzhugh, Year 2000 teamleader at Ernst and Young.</p>
+<p>&quot;But having said that, all businesses of any size and sophistication are dependent on IT systems. Very few are so immature that they don't uses computer systems in some shape or form.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

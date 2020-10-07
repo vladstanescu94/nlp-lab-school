@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667205" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: New Oracle database to take on IBM, Microsoft.</title>
+<headline>New Oracle database to take on IBM, Microsoft.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>REDWOOD SHORES, Calif. 1997-06-17</dateline>
+<text>
+<p>Oracle Corp. will move next week to increase its lead over competitors in the $5.7 billion database software business by introducing a more powerful version of its flagship database programme.</p>
+<p>On June 24, Oracle will begin shipping Oracle 8, a new version of its database product that can handle much more information while costing less to manage.</p>
+<p>The product could help Oracle invade International Business Machine Corp.'s lucrative turf in high-end data management software, analysts said. It also includes features that would give Oracle at least a two-year technology lead over Microsoft Corp., which has been threatening Oracle's business with cheap database products.</p>
+<p>In addition, with a $2.4 million marketing plan to launch the new product, Oracle could increase its distance from its struggling database rivals, Informix Corp. and Sybase Inc.</p>
+<p>&quot;Oracle is very well positioned,&quot; said Richard Finkelstein, president of Performance Computing Inc., a Chicago consulting company that helps clients buy and install database systems. &quot;For the time being it looks like they'll be able to cannibalize sales from all their competitors.&quot;</p>
+<p>Oracle President Ray Lane said, &quot;We think we can increase our share of the database market by at least five percentage points.&quot;</p>
+<p>Databases store and retrieve heaps of records that big companies use to keep track of their operations. The software stores things like customer names, their credit card numbers and lists of recent purchases.</p>
+<p>Fortune 500 companies use databases to keep track of which products are selling best, which items need to be replenished in inventories, or which employees are due for raises.</p>
+<p>Oracle dominates the $5.7 billion database business, accounting for 30 percent of total sales in 1996, market researcher Dataquest estimates. To grow faster than the market, Oracle plans to chase after its competitors' specialities.</p>
+<p>Oracle 8, for example, can store far more information than previous versions of the product. Oracle executives said it can contend with IBM's top-of-the-line DB2 database product, which has been used to store the world's biggest databases.</p>
+<p>Oracle 8 also can handle video, sounds, maps and other multimedia information -- a capability that No. 3 vendor Informix has bet its future on.</p>
+<p>Most important, Oracle executives said, the company designed Oracle 8 so that it can more easily send information through diverse computer networks -- whether the computers are standard personal computers running Microsoft's Windows operating system, cheap terminals or consumer Internet set-top boxes.</p>
+<p>By using cheap PCs and Internet browser software, companies can halve the cost of maintaining and tapping a big database, Lane said.</p>
+<p>Oracle's competitors, however, still have advantages in particular features. Because database software is so complex, customers tend to stick with the same vendor, no matter how much Oracle will spend on marketing.</p>
+<p>&quot;Let Oracle have a party,&quot; said Sybase Chief Executive Officer Mitchell Kertzman. &quot;When it's all done, it gets down to who's got the best technology.&quot;</p>
+<p>The prospect of Oracle 8 also is helping Oracle's stock recover from a nine-month slump. The stock has jumped 50 percent in the past three months, and was up 25 cents at $52.56 Tuesday afternoon on Nasdaq.</p>
+<p>&quot;Oracle is still one of the cheaper stocks among high-quality tech companies,&quot; said William Schaff, chief investment officer at investment firm Bay Isle Financial Corp. in San Francisco, which manages $300 million. &quot;They are a lot more stable than other companies I can imagine.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

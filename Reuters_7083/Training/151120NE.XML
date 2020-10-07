@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151120" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Premenos at all-time low after EPS warning.</title>
+<headline>Premenos at all-time low after EPS warning.</headline>
+<dateline>NEW YORK 1996-10-29</dateline>
+<text>
+<p>The bottom fell out of Premenos Technology Corp stock in the first minutes of Nasdaq trade Tuesday as investors fled after the company announced a quarterly loss and the resignation of a top executive.</p>
+<p>The market value of Premenos shares declined almost 55 percent, or 9-1/8 points, to 7-1/2, in trade so vigorous the volume in the first half hour of the Nasdaq session -- more than 600,000 shares -- was 10 times the average daily volume.</p>
+<p>&quot;That is exactly correct,&quot; responded a Premonos market maker, when asked if the share decline was related to the earnings and executive departure.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

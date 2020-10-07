@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="749752" id="root" date="1997-07-23" xml:lang="en">
+<title>GERMANY: SAP profits rise 56 percent - newspaper.</title>
+<headline>SAP profits rise 56 percent - newspaper.</headline>
+<dateline>FRANKFURT 1997-07-23</dateline>
+<text>
+<p>German software group SAP AG saw pretax profits soar 56 percent to 582 million marks ($319.6 million) in the first half of the year to June 30, 1997, a German daily evening newspaper reported on Wednesday.</p>
+<p>First half sales rose 51 percent to 2.4 billion marks, said the Frankfurter Rundschau in its Thursday edition, citing the company's news release. The Thursday edition appeared on news stands Wednesday evening.</p>
+<p>SAP planned to release its first half results on Thursday morning and had forecast second quarter profit growth would match that of the first quarter, when pretax profit rose 54 percent.</p>
+<p>The company also said its supervisory board approved a plan to issue shares in the United States at the earliest by the end of 1998, the newspaper reported.</p>
+<p>SAP also announced it created a new office of the chief executive jointly occupied by two of its original founders, Dietmar Hopp and Hasso Plattner.</p>
+<p>Hopp has served as chairman of the management board, with Plattner serving as vice chairman in charge of technology.</p>
+<p>&quot;I am pleased with the solution that was found,&quot; Hopp said, &quot;Hasso Plattner was always a co-equal colleague and friend of mine.&quot;</p>
+<p>Analysts had expected SAP to report pretax profit of about 580 million marks. The shares closed up 16.80 marks at 431.30 on the Frankfurt bourse ahead of its results on Wednesday.</p>
+<p>($ = 1.820 German Marks)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

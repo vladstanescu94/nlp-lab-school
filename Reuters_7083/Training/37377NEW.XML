@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37377" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Verity's stock plunges on bigger loss forecast.</title>
+<headline>Verity's stock plunges on bigger loss forecast.</headline>
+<dateline>SUNNYVALE, Calif.</dateline>
+<text>
+<p>Verity Inc. stock lost almost half its value Friday, a day after it said it expected to post a fiscal first-quarter net loss of about $1.3 million, or triple its loss for the same period last year.</p>
+<p>The company's shares plunged $11.25, almost 47 percent, to $12.875 on the Nasdaq market, where it was one of the most heavily traded issues with more than 2 million shares changing hands by midday.</p>
+<p>Verity said late Thursday that it expected to post a loss of about $1.3 million, or 12 cents a share, in the three months ended Aug. 31. That compared with a loss of $436,000, or 21 cents a share on a smaller number of shares, for the same quarter a year ago.</p>
+<p>The Sunnyvale, Calif.-based provider of software products also said it expected first-quater revenues to total about $8.8 million, up from $5.5 million a year ago, but down from $10 million in its fiscal fourth quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

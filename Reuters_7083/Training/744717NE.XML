@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744717" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE - Bay Networks Inc Q4 results.</title>
+<headline>TABLE - Bay Networks Inc Q4 results.</headline>
+<dateline>SANTA CLARA, Calif. 1997-07-22</dateline>
+<text>
+<p>Bay Networks, Inc.</p>
+<p>		  Condensed Consolidated Statements of Operations</p>
+<p>		     (In thousands, except per share amounts)</p>
+<p>			     Three Months Ended     Year Ended</p>
+<p>				    June 30,	     June 30,</p>
+<p>				  1997     1996	1997	 1996</p>
+<p> Revenue		$  542,976  535,545 $2,093,060 $2,056,634</p>
+<p> Cost of sales	   279,864  248,608  1,074,886    945,318</p>
+<p>   Gross profit	  263,112  286,937  1,018,174  1,111,316</p>
+<p>Operating expenses:</p>
+<p>Research and</p>
+<p>    development	   73,022   55,903    269,835    213,521</p>
+<p>Selling and marketing</p>
+<p>			     128,428  128,014    537,676    452,319</p>
+<p>General and</p>
+<p>    administrative	21,726   19,713     87,841     72,205</p>
+<p>   Merger related expenses  --	 --	   --     10,231</p>
+<p>In-process research and</p>
+<p>    development	  148,513	 --    356,699     39,713</p>
+<p>Restructuring/severance</p>
+<p>    charges		     --	 --     32,188	   --</p>
+<p>Total operating</p>
+<p>    expenses	     371,689  203,630  1,284,239    787,989</p>
+<p>Income (loss) from</p>
+<p>   operations	  (108,577)   83,307  (266,065)    323,327</p>
+<p>Net interest income</p>
+<p>  and other		  3,782    4,927     17,936     28,489</p>
+<p>Income (loss) before</p>
+<p>provision for</p>
+<p>   income taxes	(104,795)   88,234  (248,129)    351,816</p>
+<p>Provision for income</p>
+<p>  taxes		     13,243   33,090     36,913    145,491</p>
+<p> Net income (loss)   (118,038)   55,144  (285,042)    206,325</p>
+<p>Net income (loss) per</p>
+<p>   share		    (0.59)     0.28     (1.46)	 1.04</p>
+<p>Weighted average</p>
+<p>common shares and</p>
+<p>  equivalents	    200,299  198,013    194,745    198,778</p>
+<p>Note - Net loss for the fourth quarter was $118 million, or $0.59 per share after a charge of $148.5 million for the write-off of in-process research and development associated with the acquisitions of Rapid City Communications and ISOTRO Network Management, Inc.  which the company finalized during the quarter.</p>
+<p>Excluding this charge, net income and earnings per share in the fourth quarter would have been $30.5 million and $0.15, respectively.</p>
+<p>Fiscal year 1997 results included charges relating to merger and acquisition activities, business alignment, and restructuring and severance. Excluding these charges, net income and earnings per share for fiscal year 1997 would have been $118.6 million and $0.59, respectively.  For fiscal year 1996 net income and earnings per share were $206.3 million and $1.04, respectively. The fiscal year 1996 income results include charges for write-offs of in-process research and development and merger-related activities. Excluding these charges, fiscal year 1996 net income and earnings per share would have been $251.3 million and $1.26, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

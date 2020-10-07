@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733867" id="root" date="1997-07-16" xml:lang="en">
+<title>SWEDEN: Security Dynamics buys Swedish security co.</title>
+<headline>Security Dynamics buys Swedish security co.</headline>
+<dateline>STOCKHOLM 1997-07-16</dateline>
+<text>
+<p>Swedish computer security system group DynaSoft said on Wednesday it had been bought by the U.S. Nasdaq-listed security company Security Dynamics for about $115 million.</p>
+<p>Unlisted DynaSoft, set up 11 years ago, has offices in Sweden, Britain and the U.S. and about 90 staff.</p>
+<p>A company spokesman said DynaSoft specialised in selling security systems for computers and included smart cards. These are attracting increasing interest in the United States.</p>
+<p>&quot;The two companies are a good fit,&quot; the spokesman said.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

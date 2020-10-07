@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="373171" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: Texas seeks Microsoft documents in antitrust probe.</title>
+<headline>Texas seeks Microsoft documents in antitrust probe.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-02-11</dateline>
+<text>
+<p>Microsoft Corp, target of a long-running series of federal antitrust investigations, has been asked to provide documents for a new Texas state probe of the Internet market, officials said Tuesday.</p>
+<p>Mark Murray, a spokesman for the computer software giant, said Microsoft received a &quot;civil investigative demand&quot; Monday from the Texas attorney general's office, and company lawyers expect to cooperate with state officials.</p>
+<p>Texas officials are investigating &quot;the possibility of monopolization and other conduct in restraint of trade in the market for Internet software&quot; in violation of state antitrust laws, assistant attorney general Mark Tobey said in a letter to Microsoft.</p>
+<p>Among the documents requested in the wide-ranging demand were licensing agreements, strategic plans, budgets and financial projections and all documents related to competition in the market for Internet or Intranet software.</p>
+<p>&quot;We've just received this letter,&quot; Murray said. &quot;We're in the process of reviewing it, and we'll be working closely with them to identify the documents that they're looking for and provide them.&quot;</p>
+<p>Microsoft's Internet software rival Netscape Communications Corp. received a similar demand more than a month ago and complied with it, said Gary Reback, attorney for the Mountain View, California, company and a prominent critic of Microsoft's business practices.</p>
+<p>&quot;I don't think Netscape was the target&quot; of the investigation, said Reback. &quot;It was pretty clear that they're not the target.&quot;</p>
+<p>Last year Reback led Netscape's successful efforts to get the U.S. Justice Department to reopen its investigation of Microsoft, which in 1994 agreed to settle antitrust charges to end a four-year federal probe.</p>
+<p>Murray said the Justice Department is continuing the reopened investigation, which aims to determine whether Microsoft's Internet marketing practices violate the company's settlement agreement.</p>
+<p>Murray said it was not clear what aspects of Internet competition Texas was investigating.</p>
+<p>&quot;We are confident that once they have examined the facts they will agree that consumers are benefiting from the intense and healthy competition in internet software,&quot; he said.</p>
+<p>The letter from Tobey, chief of the antitrust section in Texas' consumer protection division, said the state was trying to determine whether there had been any violations of the Texas Free Enterprise and Antitrust Act of 1983.</p>
+<p>Reback said it was not unusual for states to pursue antitrust actions separately from the federal government.</p>
+<p>&quot;It's not uncommon, and in the past the state attorneys general have been in fact relatively active in merger enforcement and in a variety of antitrust contexts,&quot; he said.</p>
+<p>Texas officials could not be reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

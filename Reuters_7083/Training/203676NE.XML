@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203676" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Netscape unveils new desktop software.</title>
+<headline>Netscape unveils new desktop software.</headline>
+<dateline>LAS VEGAS 1996-11-20</dateline>
+<text>
+<p>Netscape Communications Corp., in another challenge to archrival Microsoft Corp., Wednesday unveiled Constellation, a software product that allows users to merge and customise desktop and computer network information.</p>
+<p>The product, which Netscape expects to make available next year, will also enable users to receive information &quot;netcasted&quot; from the Internet instead of having to go get it and to receive customised information at various locations.</p>
+<p>&quot;We are entering the third wave of the Internet, where electronic mail and groupware with all the richness of the Web are key elements of computing,&quot; Netscape President Jim Barksdale said in prepared remarks to be delivered at the Comdex computer show here.</p>
+<p>&quot;While the first waves of the Internet focused on users being able to easily find information, the mark of this third wave is that information finds the user. Our new products will have the intelligence to help you focus on the information you care about.&quot;</p>
+<p>Netscape said Constellation will gather information that users want. In a way similar to roaming with a cellular phone, Constellation will also free users from being tied to a single computer, the company said.</p>
+<p>The product will organise information on a desktop computer, posing a challenge to Redmond, Wash.-based Microsoft, whose Windows operating system dominates the market.</p>
+<p>Mountain View, Calif.-based Netscape and Microsoft have been locked in a bitter battle for the market for Web browsers. Netscape dominates that market, but Microsoft has been making inroads.</p>
+<p>Netscape said Wednesday that computer users will no longer need to concern themselves with updating application software, such as word processors or spreadsheets, on their own desktops because information will be &quot;pushed' to them in broadcast fashion.</p>
+<p>Through a technology called netcasting, users will receive instant notification of updates to their system and reminders of important events that affect them.</p>
+<p>Constellation will work on all operating systems supported by Netscape Communicator, Netscape's &quot;groupware&quot; corporate software, including Windows and Apple Macintosh operating systems, the company said.</p>
+<p>Netscape said it also plans to work with PointCast to integrate Constellation with the PointCast Network, which allows users to receive customised information from the Internet's World Wide Web.</p>
+<p>Netscape stock dipped 12.5 cents to $57.375 in afternoon trading on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

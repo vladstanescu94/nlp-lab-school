@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="755752" id="root" date="1997-07-25" xml:lang="en">
+<title>USA: TABLE - Sanchez Computer Q2 net increases.</title>
+<headline>TABLE - Sanchez Computer Q2 net increases.</headline>
+<dateline>MALVERN, Pa. 1997-07-25</dateline>
+<text>
+<p>Three Months  Six Months</p>
+<p>					  Ended June 30, Ended June 30,</p>
+<p>						1997   1996   1997   1996</p>
+<p> Total revenues			   6,207 4,773 11,358  8,250</p>
+<p> Net income				   573   358    915    377</p>
+<p> Earnings per share			0.05  0.04   0.08   0.04</p>
+<p>Weighted average common shares outstanding</p>
+<p>					     11,706 9,178 11,671  9,220</p>
+<p>(all amounts in thousands, except for per share amounts)</p>
+<p>NOTE:  Full name of company is Sanchez Computer Associates Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MALVERN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

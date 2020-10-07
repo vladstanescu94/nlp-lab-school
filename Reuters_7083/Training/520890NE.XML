@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="520890" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: Microsoft stock jumps after earnings report.</title>
+<headline>Microsoft stock jumps after earnings report.</headline>
+<dateline>NEW YORK 1997-04-18</dateline>
+<text>
+<p>Microsoft Corp. shares surged Friday, a day after the giant software company reported an 85 percent increase in profit during its most recent quarter.</p>
+<p>Microsoft shares traded as high as $104.45 a share in early trading on Nasdaq, up from Thursday's closing price of $98.125.</p>
+<p>The surge came in response to Microsoft's earnings report, which was released after the close of trading Thursday and far exceeded Wall Street's forecasts.</p>
+<p>Microsoft said it earned $1.04 billion, or 79 cents a share, on record sales of $3.21 billion in its third quarter. Wall Street analysts surveyed by First Call had forecast the company would earn 64 cents a share.</p>
+<p>Microsoft's gain contributed to a strong start on the stock market. The technology-laden Nasdaq index was up 10 points at 1,227 in early trading. The Dow Jones industrial average was up 14 points at 6,672.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

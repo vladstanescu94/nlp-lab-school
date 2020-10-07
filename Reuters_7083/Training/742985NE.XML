@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="742985" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: TABLE - STAC Q3 results.</title>
+<headline>TABLE - STAC Q3 results.</headline>
+<dateline>SAN DIEGO 1997-07-21</dateline>
+<text>
+<p>STAC, INC.</p>
+<p>		CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>	    (in thousands, except per share amounts; unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					     June 30,	June 30,</p>
+<p>				     1997     1996	1997     1996</p>
+<p> Revenues			$11,584 $10,988   $34,104  $34,532</p>
+<p> Cost of revenues		1,571   1,820     4,180    4,819</p>
+<p> Gross Margin		   10,013   9,168    29,924   29,713</p>
+<p>Operating expenses</p>
+<p> Research and development    3,002   2,132     8,221    5,770</p>
+<p>Purchased research</p>
+<p>  and development		  ---     ---	 ---   12,217</p>
+<p> Sales and Marketing	   4,714   3,402    12,617    9,421</p>
+<p> General and administrative  1,385   1,016     3,944    3,166</p>
+<p> Total Operating Expenses    9,101   6,550    24,782   30,574</p>
+<p> Operating income (loss)	 912   2,618     5,142    (861)</p>
+<p> Interest income		   643     519     1,811    1,576</p>
+<p> Income before taxes	   1,555   3,137     6,953	715</p>
+<p> Provision for income taxes    451   1,221     2,365    4,917</p>
+<p> Net income (loss)	     1,104   1,916     4,588  (4,202)</p>
+<p> Less preferred dividends	---     ---	 ---	168</p>
+<p>Net income (loss)</p>
+<p>  for common stockholders    1,104   1,916     4,588  (4,370)</p>
+<p>Net income (loss)</p>
+<p>  per common share		0.04    0.06	0.15   (0.15)</p>
+<p>Weighted average common</p>
+<p>  shares outstanding	  31,070  31,423    31,122   29,886</p>
+<p>NOTE: (a)  Net loss and loss per share for the nine months ended June 30, 1996 include non-recurring charges related to acquisitions net of tax benefits recognized of $12,459 and $0.42 per common share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

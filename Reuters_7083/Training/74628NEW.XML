@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74628" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Adobe System Q3 net falls.</title>
+<headline>Adobe System Q3 net falls.</headline>
+<dateline>SAN JOSE, Calif. 1996-09-25</dateline>
+<text>
+<p>CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>(in thousands, except per share data)</p>
+<p>					Unaudited	    Unaudited</p>
+<p>				   Quarters Ended   Nine Months Ended</p>
+<p>				   Aug. 30    Sep 1  Aug. 30    Sep 1</p>
+<p>					1996     1995     1996     1995</p>
+<p>Revenue:</p>
+<p> Licensing		    $ 50,442 $ 45,053 $146,640 $136,398</p>
+<p> Application products	130,467  138,067  432,248  425,065</p>
+<p> Total revenue		 180,909  183,120  578,888  561,463</p>
+<p> Direct costs		   33,617   27,483  104,903   93,647</p>
+<p> Gross margin		  147,292  155,637  473,985  467,816</p>
+<p>Operating expenses:</p>
+<p>Software development costs:</p>
+<p> Research and development   36,301   34,871  111,172   99,116</p>
+<p>Amortization of software</p>
+<p>  development costs		626    2,720    1,878    8,531</p>
+<p>Sales, marketing and</p>
+<p>  customer support	    60,621   59,841  188,963  174,504</p>
+<p>General and administrative</p>
+<p>				    14,846   13,221   46,926   40,938</p>
+<p>Write-off of in-process</p>
+<p>  research and development	--	 --   14,699	 --</p>
+<p>Total operating expenses  112,394  110,653  363,638  323,089</p>
+<p> Operating income	     34,898   44,984  110,347  144,727</p>
+<p>Nonoperating income, net:</p>
+<p> Investment gain/(loss)	6,430     (96)    9,459    (691)</p>
+<p> Interest and other income   7,358    7,466   22,528   21,477</p>
+<p>Total nonoperating income,</p>
+<p>  net			     13,788    7,370   31,987   20,786</p>
+<p>Income before income taxes</p>
+<p>				    48,686   52,354  142,334  165,513</p>
+<p> Income tax provision	 18,839   18,468   56,815   60,238</p>
+<p> Net income		     29,847   33,886   85,519  105,275</p>
+<p> Net income per share	    .40	.44     1.13     1.41</p>
+<p>Shares used in computing</p>
+<p>  net income per share	74,309   76,325   75,447   74,845</p>
+<p>NOTE: Latest Q3 net includes an investment gain of $0.05 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="671863" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: Structural Dynamics names CEO.</title>
+<headline>Structural Dynamics names CEO.</headline>
+<dateline>MILFORD, Ohio 1997-06-19</dateline>
+<text>
+<p>Structural Dynamics Research Corp named William Weyand as chief executive officer, replacing Al Peter.</p>
+<p>The company said in a statement on Thursday that Peter will remain as chairman.</p>
+<p>Weyand was previously executive vice president of Measurex Corp MX.N, Structural Dynamics said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILFORD, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

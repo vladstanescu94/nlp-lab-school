@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="442832" id="root" date="1997-03-14" xml:lang="en">
+<title>USA: HBO to acquire Enterprise Systems in stock swap.</title>
+<headline>HBO to acquire Enterprise Systems in stock swap.</headline>
+<dateline>ATLANTA</dateline>
+<text>
+<p>HBO &amp; Co., a healthcare services provider, said Friday it agreed to acquire Enterprise Systems Inc., a provider of healthcare-related management services, in a stock swap valued at between $220 million and $250 million.</p>
+<p>The stock-swap ratio will depend on the average closing price of HBO stock for 20 trading days before the transaction's close.</p>
+<p>If the average price is between $60 and $68, ESI shareholders will receive HBO stock equal to $30 for each ESI share. If the HBO average price is over $72, ESI holders will receive $31.77 worth of HBO stock for each ESI share.</p>
+<p>Based on approximately 8.12 million ESI shares outstanding and depending on the trading prices prior to closing, the deal could be valued anywhere between $220 million and $250 million, according to Monika Brown, head of HBO's investor relations department.</p>
+<p>HBO stock was down $1 at $54 and Enterprise Systems stock was down $2.50 at $25.125 in afternoon trading on Nasdaq.</p>
+<p>Enterprise Systems, which develops resource management products for over 1,000 healthcare organisations in North America, had 1996 revenues of $52.3 million.</p>
+<p>HBO produces healthcare management software as well as networking technologies and outsourcing services to healthcare organisations.</p>
+<p>HBO said it expects the deal to close during the second quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

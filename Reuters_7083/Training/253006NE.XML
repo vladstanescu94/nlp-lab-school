@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253006" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Siebel comfortable with 1996 estimates.</title>
+<headline>Siebel comfortable with 1996 estimates.</headline>
+<dateline>SAN FRANCISCO 1996-12-11</dateline>
+<text>
+<p>Siebel Systems Inc Chief Executive Thomas Siebel said he is comfortable with analysts' estimates of $36 million in revenues and earnings per share of 22 cents for the company's full year 1996 results.</p>
+<p>Speaking with reporters after addressing a Montgomery Securities investor conference here, Siebel also said the company has begun production of a fully integrated service product, to be called Siebel Service Enterprise.</p>
+<p>The product  will integrate the company's traditional sales and marketing information with other capabilities, like customer service and help desk.</p>
+<p>Siebel said the product will be unveiled this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

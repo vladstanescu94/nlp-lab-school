@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="216462" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Xscribe names chief financial officer.</title>
+<headline>Xscribe names chief financial officer.</headline>
+<dateline>SAN DIEGO 1996-11-26</dateline>
+<text>
+<p>Xscribe Corp said Tuesday it named Peter Harker as chief financial officer, effective December 1.</p>
+<p>Harker joined Xscribe in 1995 as corporate controller and replaces Bruce Myers who resigned as part of a broader restructuring. Xscribe recently sold its court-reporting products business to focus on its scanner business.</p>
+<p>The company provides high-performance document and microfilm scanners and image capture systems to legal, financial, government, and commercial enterprises.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

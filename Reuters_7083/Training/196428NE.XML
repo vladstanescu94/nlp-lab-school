@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196428" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: LanVision Systems Inc Q3 full results.</title>
+<headline>LanVision Systems Inc Q3 full results.</headline>
+<dateline>CINCINNATI 1996-11-18</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>				  October 31,	   October 31,</p>
+<p>			     1996	1995	  1996	 1995</p>
+<p>Revenues:</p>
+<p> Systems sales   $1,588,000   $314,000  $6,032,000 $1,249,000</p>
+<p>Service, maintenance</p>
+<p>  and support     1,447,000    353,000   2,487,000  1,002,000</p>
+<p> Total revenues   3,035,000    667,000   8,519,000  2,251,000</p>
+<p>Operating expenses:  </p>
+<p>Cost of system sales</p>
+<p>			  987,000    186,000   3,500,000    753,000</p>
+<p>Cost of service, maintenance</p>
+<p> and support	1,373,000    325,000   2,622,000    896,000</p>
+<p>Selling, general and</p>
+<p>  administrative  1,889,000    283,000   4,343,000    852,000</p>
+<p>Product research and</p>
+<p>  development	 422,000    159,000     999,000    510,000</p>
+<p>Total operating expenses</p>
+<p>			4,671,000    953,000  11,464,000  3,011,000</p>
+<p>Operating loss</p>
+<p>		    (1,636,000)  (286,000) (2,945,000)  (760,000)</p>
+<p>Other income (expense), net</p>
+<p>			  457,000	3,000     847,000    (9,000)</p>
+<p>Net operating loss</p>
+<p>		    (1,179,000)  (283,000) (2,098,000)  (769,000)</p>
+<p>Loss per common share</p>
+<p>			   (0.13)     (0.05)	(0.26)     (0.12)</p>
+<p>Number of shares used in</p>
+<p>per common share</p>
+<p>  computation     8,896,500  6,190,325   8,078,024  6,190,325</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

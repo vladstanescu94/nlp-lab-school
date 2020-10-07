@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252897" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: RESEARCH ALERT - Phamis, Medaphis, IDX.</title>
+<headline>RESEARCH ALERT - Phamis, Medaphis, IDX.</headline>
+<text>
+<p>-- Lehman Brothers said it started coverage of Enterprise Systems Inc and National Data Corp as buy, IDX Systems Corp and AMISYS Managed Care Systems Inc as outperform.</p>
+<p>-- Lehman said it started Medaphis Corp and Phamis Inc as neutral.  </p>
+<p>-- Enterprise Systems rose 1-5/8 to 17-3/4, National Data added 5/8 to 42-1/8, IDX Systems rose 1-1/4 to 31-1/4, AMISYS was up one to 15-3/4, Medaphis inched up 1/8 to 11-5/8 and Phamis added 3/8 to 14-1/2.</p>
+<p>-- Lehman also resumed coverage of Physician Computer Network Inc with a buy. The stock added one to 9-5/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202702" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: AMEX to list Open Market options Nov 26.</title>
+<headline>AMEX to list Open Market options Nov 26.</headline>
+<dateline>CHICAGO 1996-11-20</dateline>
+<text>
+<p>American Stock Exchange said Wednesday it will list options on Open Market Inc on Nov 26.</p>
+<p>The options will have opening strike prices of 12-1/2, 15 and 17-1/2, with initial expirations in December, January, February and May, the exchange said.</p>
+<p>Susquehanna Investment Group will be the specialist unit.</p>
+<p>Open Market shares were up 3/8 at 16 Wednesday afternoon.</p>
+<p>--Derivatives desk, 312-408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

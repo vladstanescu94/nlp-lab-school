@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283252" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: Summit Medical acquires C.L. McIntosh.</title>
+<headline>Summit Medical acquires C.L. McIntosh.</headline>
+<dateline>MINNEAPOLIS 1997-01-02</dateline>
+<text>
+<p>Summit Medical Systems Inc said Thursday it acquired C.L. McIntosh &amp; Associates Inc, a medical and clinical trial management services company, in a stock transaction.</p>
+<p>Summit Medical said it issued 976,453 of its common shares to McIntosh stockholders as part of the pooling-of-interests deal. McIntosh will become a wholly owned subsidiary of Summit Medical, the company said.</p>
+<p>Summit Medical said it will take a charge in the fourth quarter to cover expenses related to the merger. It will also include McIntosh's operating results in its quarterly report.</p>
+<p>Summit Medical provides information services to the health care industry. Its stock closed down 3/8 Thursday at 7-1/4.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

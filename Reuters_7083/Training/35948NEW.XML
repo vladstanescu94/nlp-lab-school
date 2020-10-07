@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35948" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Delphi names executive committee chairman.</title>
+<headline>Delphi names executive committee chairman.</headline>
+<dateline>ROLLING MEADOWS, Ill. 1996-09-05</dateline>
+<text>
+<p>Delphi Information Systems Inc said Thursday that Joseph Oddo was added to its board of directors and will serve as chairman of its executive committee.  </p>
+<p>Oddo has over 25 years of senior level experience in information techology and services, financial services and managed health care. He is currently a principal at Northfield Associates Inc, where he focuses on accelerated business transformation, Delphi said.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROLLING MEADOWS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

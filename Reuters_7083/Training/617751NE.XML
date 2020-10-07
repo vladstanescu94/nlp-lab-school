@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="617751" id="root" date="1997-05-27" xml:lang="en">
+<title>USA: Ross Systems signs deals, sees improvement.</title>
+<headline>Ross Systems signs deals, sees improvement.</headline>
+<dateline>ATLANTA 1997-05-27</dateline>
+<text>
+<p>Ross Systems Inc said Tuesday it had reached new international agreements worth a total of $500,000 and expects further improvements in this area as a result of a recent restructuring.</p>
+<p>The agreements are to supply business software for Spain-based fish processor Congelados Galicia SA and beverage manufacturer Las Casera.</p>
+<p>Ross also said it had expanded agreements with Mohawk Oil Canada Ltd and Poland-based Kuzniczf.</p>
+<p>Ross was downgraded to hold from buy in April by one analyst after reporting a third-quarter loss per share of $0.05, compared to a profit of $0.05 a year earlier.</p>
+<p>Ross Chairman and Chief Executive Dennis Vohs said in a statement that the company's international business was doing better.</p>
+<p>&quot;We believe the restructuring that we have completed in this area will continue to improve our operations,&quot; he said.</p>
+<p>Ross shares were up 1/16 to 3-7/16 in early trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

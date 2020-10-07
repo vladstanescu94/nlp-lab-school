@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105874" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: MapInfo names John Cavalier CEO.</title>
+<headline>MapInfo names John Cavalier CEO.</headline>
+<dateline>TROY, N.Y. 1996-10-09</dateline>
+<text>
+<p>MapInfo Corp said Wednesday that it has named John Cavalier president and chief executive officer.</p>
+<p>Prior to joining MapInfo, Cavalier was president and CEO of the Antares Alliance Group, a Dallas-based application development tool manufacturer jointly owned by EDS Corp and Amdahl Corp.</p>
+<p>Earlier this year, MapInfo said that Brian Owen, its president and chief executive officer, would leave the company when his contract expires.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TROY, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

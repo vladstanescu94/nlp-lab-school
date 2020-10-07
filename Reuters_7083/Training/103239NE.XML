@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103239" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Farallon, Microsoft in online pact.</title>
+<headline>Farallon, Microsoft in online pact.</headline>
+<dateline>ALAMEDA, Calif. 1996-10-08</dateline>
+<text>
+<p>Farallon Communications Inc and Microsoft Corp said Monday they've entered a strategic relationship to deliver interoperable Internet/Intranet communication and collaboration products for personal computer users.</p>
+<p>As part of the pact, Microsoft paid an undisclosed sum to license Farallon's patent covering cross-platform screen-sharing technology, the companies said.  </p>
+<p>Farallon's system covers all major desktop operating systems, including Microsoft, Windows 3.1, Windows for Workgroups 3.11, Windows 95, Windows NT and MacOS.</p>
+<p>The companies said later this year they plan to announce a separate agreement to develop cross-platform interoperable Internet collaboration products. The products would integrate screen-sharing technology covered by Farallon's patent and provide common capabilities across all versions of Windows-based and MacOS platforms, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

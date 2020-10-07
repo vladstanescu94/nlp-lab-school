@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="785044" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: Apple stock rallies for a second day.</title>
+<headline>Apple stock rallies for a second day.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Apple Computer Inc. stock rallied for a second day Thursday after the company stunned the computer world by announcing an alliance with archrival Microsoft Corp.</p>
+<p>Apple stock rose $2.94 to $29.25, a day after jumping $6.56 to its highest level in more than a year following Wednesday's surprise announcement. It was the most active issue on Nasdaq for the second day in a row, with 23.7 million shares traded by early afternoon.</p>
+<p>Microsoft agreed to invest $150 million in the troubled computer maker, and Apple replaced all but two of its directors in a big shakeup of its widely criticised board.</p>
+<p>The announcement, delivered by Apple co-founder Steven Jobs to thousands of Apple customers here, could be crucial for the survival of Apple, which helped popularise the personal computer.</p>
+<p>For years, Apple and Microsoft competed furiously, with each company trying to destroy the other. But Microsoft quickly got the upper hand when it agreed to license its Windows operating system to personal computer makers while Apple tried to hold on to its own technology.</p>
+<p>But after more than $1.6 billion in losses over the past 18 months, Apple co-founder Steven Jobs, who recently returned to Apple as a special adviser, said the time had come to put an end to the feud.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

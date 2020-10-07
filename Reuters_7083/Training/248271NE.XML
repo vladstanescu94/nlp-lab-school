@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248271" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: PRIMESTAR expands lineup for GE's MSNBC, CNBC.</title>
+<headline>PRIMESTAR expands lineup for GE's MSNBC, CNBC.</headline>
+<dateline>BALA CYNWYD, Pa. 1996-12-11</dateline>
+<text>
+<p>PRIMESTAR, a direct broadcast satellite television company, said on Wednesday that it is adding General Electric Co's MSNBC and is expanding CNBC in its basic programming lineup after the launch of a new satellite.</p>
+<p>MSNBC is a news station that is jointly owned by General Electric and Microsoft Corp.</p>
+<p>By early 1997, MSNBC will be in five million households with the addition of the PRIMESTAR homes</p>
+<p>The timing of the satellite launch was not immediately available.  </p>
+<p>A company spokeswoman for MSNBC later said the PRIMESTAR arrangement will bring the total number of households to 28 million and it is expecting to be in 55 million homes by the year 2000.</p>
+<p>The satellite will be launched sometime in January 1997, the spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALA CYNWYD, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147582" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Microsoft, Intel announce plan for cheaper PC.</title>
+<headline>Microsoft, Intel announce plan for cheaper PC.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN JOSE, Calif.</dateline>
+<text>
+<p>Microsoft Corp. and Intel Corp., moving to protect their dominance of the personal computer industry, Monday announced plans for a network-oriented machine that would cut business costs.</p>
+<p>The &quot;NetPC&quot; design backed by Microsoft and Intel maintains the basic components of a personal computer -- an Intel microprocessor, Microsoft's Windows operating system, memory chips and hard drive -- but eliminates the ability for users to add software using diskettes or CD-ROMs.</p>
+<p>Instead any software updates would be done through a server computer over a network.</p>
+<p>The move comes amid growing support for new &quot;network computers&quot; that supporters claim are cheaper to operate and easier to use than the so-called &quot;Wintel&quot; standard used on some 80 percent of new machines.</p>
+<p>Microsoft Group Vice President Paul Maritz, speaking to reporters at a news conference here, said the network computer or NC, would be too limiting for many users.</p>
+<p>&quot;We believe that by taking the cost out of the PC while maintaining its flexibility will reduce the cost of (managing PC networks) without taking a bet on one single platform that in the long run might prove to be more costly,&quot; he said, referring to the network computer's reliance on the Java programming language.</p>
+<p>The network computer concept put forth by Oracle Corp. and backed by International Business Machines Corp., Sun Microsystems Inc. and other Microsoft rivals would allow users to access applications over the Internet or internal intranets, ending the reliance on Windows and &quot;fat,&quot; feature-laden applications.</p>
+<p>Network computers will run &quot;thin&quot; applications written in Java, the most widely used programming language by programmers writing Internet software.</p>
+<p>The NetPC, which is being backed by major personal computer makers including Compaq Computer Corp., Dell Computer Corp., and Digital Equipment Corp., will not match the low price of NCs, which are being offered for under $1,000 and as low as $750.</p>
+<p>Maritz declined to say how much the NetPC would cost when it becomes available early next year but said it would be only slightly cheaper than a comparable desktop PC, which typically retails in the $1,500 range.</p>
+<p>Rather than focus on entry price, they said the real cost savings would be on the management side.</p>
+<p>&quot;Sixty to 70 percent of the cost of managing a PC involves changing things, changing the (operating system), changing applications, changing users,&quot; Maritz said. &quot;All of these costs can be automated.&quot;</p>
+<p>To handle updates and administration, Microsoft announced what it called &quot;Zero Administration&quot; features, software it will build into future versions of Windows that automates the process of updating PCs.</p>
+<p>The race to introduce a cheaper computer grew out of the popularisation of the Internet both in and out of the workplace and out of studies last spring that put the average cost of maintaining a PC in the corporate world at $7,000 to $11,000 a year.</p>
+<p>&quot;Everybody was waiting for the Microsoft and Intel shoe to drop,&quot; after Oracle began gathering support for its network computer, said analyst Amy Wohl, editor of the TrendsLetter technology industry newsletter. &quot;Now it has.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

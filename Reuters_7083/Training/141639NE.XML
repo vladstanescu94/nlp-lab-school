@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141639" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: FEATURE - Progressive Networks hustles to rule Web audio.</title>
+<headline>FEATURE - Progressive Networks hustles to rule Web audio.</headline>
+<byline>Michelle V. Rafter</byline>
+<dateline>SEATTLE 1996-10-24</dateline>
+<text>
+<p>Progressive Networks wants to rule the world -- the Internet world of sound.</p>
+<p>The privately held Seattle company gained renown as the creator of RealAudio, a so-called streaming-audio technology people use to tune in live concerts, radio stations and other audible material on a Web site without having to download enormous sound files.</p>
+<p>Although there are other streaming-media companies, Progressive Networks is a standout.</p>
+<p>Since RealAudio's debut in 1995, people have downloaded 8 million players -- or the software needed to use the technology -- available free on Progressive Networks' Web site (http://www.realaudio.com).</p>
+<p>Players also come bundled with copies of Microsoft's Internet Explorer Web browser, and are one of the most popular helper applications for Netscape's Navigator browser.</p>
+<p>Several thousand Web sites currently air 7,500 hours of programming a week using RealAudio servers, which begin at $500 each and run into the tens of thousands of dollars for systems that &quot;stream&quot; to hundreds of listeners simultaneously.</p>
+<p>None of this is good enough for Rob Glaser, the ex-Microsoft executive who used the considerable cash he made from Microsoft stock options to form Progressive Networks in 1994.</p>
+<p>As Glaser learned at Microsoft, successful companies don't live by technology alone, but by combining technical savvy with business smarts.</p>
+<p>So Glaser and his lieutenants -- including a dozen fellow Microsoft alumni -- are attempting to solidify their place in the market by constantly improving their technology base and building relationships with key partners.</p>
+<p>It's a mission that's led to a number of announcements over the past few months, including:</p>
+<p>-- A pact with Netscape, which had also been developing audio standards. On Oct. 14, the partners -- and 38 supporters including Apple, Digital, Hewlett Packard and IBM -- announced a compromise called real-time streaming protocol (RTSP) they hope will be adopted as the HTML of audio programming. The parties have submitted the RTSP proposal to an Internet rules body called the Internet Engineering Task Force, which is expected to take about six months to consider the issue.</p>
+<p>-- A next-generation multimedia technology called RealMedia Architecture that, along with sound, will stream graphics, animation and eventually video to an Internet user's RealMedia player.</p>
+<p>-- An upgraded RealAudio 3.0 that eliminates audio drop-outs and allows for near CD-quality sound over ISDN lines, and FM stereo sound over a 28.8 bps modem. Available in pre-release form today, the final version of RealAudio 3.0 is due by year's end.</p>
+<p>-- Retail sales of Player Plus, an improved version of the free RealAudio player that works like a car radio, with buttons that can be pre-set to favourite RealAudio sites, and a scanner that trolls through 20 of 110 Web radio stations listed on Timecast (http://www.timecast.com/), a Progressive Networks-produced RealAudio broadcast guide.</p>
+<p>Progressive Networks officials are excited about the Netscape deal. On its face, RTSP isn't sexy -- &quot;It's all internal gunk&quot; says Progressive Networks President Bruce Jacobsen -- but the long-term effect could be substantial.</p>
+<p>&quot;Once you have standardisation, all kinds of (content) people will jump in,&quot; Glaser said in an interview shortly after the announcement. &quot;In five years, the Internet could have the same number of viewing hours as TV or radio. Someone can now build an Internet Walkman or Internet TV.&quot;</p>
+<p>Paul Kagan Associates Analyst Jae Kim sees RTSP and RealMedia Architecture as stop-gap measures before cable modems hit the mainstream.</p>
+<p>&quot;Maybe you won't have 30 frames a second coming to your desktop, but you could see an image of someone with closed caption text coming to your PC,&quot; he said.</p>
+<p>NetRadio Chief Executive Robert Griggs isn't convinced Progressive Networks has the answer. Last month the Web-based radio station switched from airing programming through RealAudio servers to a competing streaming-audio system from Xing Technology.</p>
+<p>&quot;We improved our signal quality,&quot; Griggs said, adding that Xing uses commonly held video standards NetRadio plans to employ in an upcoming personalized video network.</p>
+<p>Competition will continue to intensify among companies such as Progressive Networks and Xing that are attempting to help others use the Internet as an alternative to traditional broadcast media, said Jerry Michalski, an analyst with Release 1.0, the software industry newsletter.</p>
+<p>&quot;We're at the beginning of a five- to 10-year process of consolidating and rethinking the infrastructure, everything from copper and fiber buried in the ground to protocols that move bits around online,&quot; Michalski said. &quot;RMA is an opening volley in that longer-term structural change.&quot;</p>
+<p>(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

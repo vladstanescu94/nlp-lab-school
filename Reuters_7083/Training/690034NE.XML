@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="690034" id="root" date="1997-06-26" xml:lang="en">
+<title>USA: Microsoft, First Data set Internet venture.</title>
+<headline>Microsoft, First Data set Internet venture.</headline>
+<dateline>DENVER 1997-06-26</dateline>
+<text>
+<p>Microsoft Corp said Thursday it and First Data Corp have formed MSFDC, a joint venture which will enable companies to send bills and receive payments from consumers via the Internet.</p>
+<p>Financial terms of the agreement were not disclosed.</p>
+<p>The service will be introduced in early 1998. It will be the first of its kind to provide an end-to-end system for electronic presentation of richly formatted bills and to represent next-generation electronic payment and remittance capabilities, Microsoft said in a statement.  </p>
+<p>Field trials of the service with participating banks and billers will commence later this summer.</p>
+<p>Microsoft and First Data have formed an advisory board with representatives from financial institutions, industry associations and billing service providers to help evaluate customer needs, develop products and services, and satisfy regulatory and information-security requirements.</p>
+<p>Founding members of the advisory board include leading financial institutions, American Express Co, BankAmerica Corp, Chase Manhattan Corp, Citicorp and Wells Fargo.  </p>
+<p>Major industry associations include the American Gas Association, which represents local gas distribution utilities, Edison Electric Institute, representing local electric utilities, and United States Telephone Association.</p>
+<p>Prominent billing service providers include CSG Systems International Inc and International Billing Services.</p>
+<p>Microsoft said it and First Data will be equal partners in MSFDC, which will be based in Denver.</p>
+<p>The venture will employ a dedicated management, sales and marketing team. The board of directors comprises representatives from both Microsoft and First Data.  </p>
+<p>&quot;MSFDC is an important part of Microsoft's strategy to further electronic commerce on the Internet,&quot; said Bill Gates, chief executive officer of Microsoft.</p>
+<p>&quot;Microsoft and First Data are creating the first service that seamlessly links billers, banks and consumers through a low-cost, feature-rich bill-payment solution.&quot;</p>
+<p>The company said the venture will also offer a &quot;pay anyone&quot; capability, allowing payment of bills that are not presented electronically. This service enables financial institutions to increase the feature content of their home-banking services while lowering the cost.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

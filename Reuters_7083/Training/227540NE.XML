@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227540" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: AFTER THE BELL - Progress regains some ground.</title>
+<headline>AFTER THE BELL - Progress regains some ground.</headline>
+<dateline>NEW YORK 1996-12-02</dateline>
+<text>
+<p>Shares of Progress Software Corp were up 3/4 to 19-7/8 in fairly quiet after-hours trading, traders said.</p>
+<p>Earlier in the day, Progress shares hit a high of 23 on rumors, aired Friday on cable television channel CNBC, that the company may be acquired by Microsoft Corp. Microsoft shares were up 1/4 to 158 after hours, traders said.</p>
+<p>The New York Stock Exchange said its session one volume was 52,600 shares compared with 146,600 shares on Friday.  Session two volume was 1,310,635 shares.  There was no activity in session two on Friday.</p>
+<p>The American Stock Exchange said it had no after-hours activity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

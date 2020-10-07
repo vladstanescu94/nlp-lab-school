@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113589" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Computational Systems Inc Q3 summary.</title>
+<headline>Computational Systems Inc Q3 summary.</headline>
+<dateline>KNOXVILLE, Tenn. 1996-10-14</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.24		    $0.16</p>
+<p> Net			  1,185			642</p>
+<p> Revs			11,234		   10,427</p>
+<p> Avg shrs		   5,027		    4,137</p>
+<p>	  NINE MONTHS ENDED SEPTEMBER 30</p>
+<p> Shr			  $0.52		    $0.40</p>
+<p> Net			  2,637		    1,516</p>
+<p> Revs			33,175		   29,460</p>
+<p> Avg shrs		   5,061		    3,820</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KNOXVILLE, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218060" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: IQ Software Corp Q3 full results.</title>
+<headline>IQ Software Corp Q3 full results.</headline>
+<dateline>ATLANTA 1996-11-25</dateline>
+<text>
+<p>Income Statement (unaudited)</p>
+<p>			     Third Quarter Ended  Nine Months Ended</p>
+<p>					Oct. 31,	    Oct. 31,</p>
+<p>			   (in thousands, except per share amounts)</p>
+<p>				1996	 1995	1996	  1995</p>
+<p>Revenues:</p>
+<p>  License fees	  $4,723     $3,669   $13,141     $11,196</p>
+<p>Maintenance and</p>
+<p>   support services    1,923	1,626     5,619	 4,652</p>
+<p>			     6,646	5,295    18,760	15,848</p>
+<p>Operating expenses:</p>
+<p>  Cost of revenues     1,179	  914     3,293	 2,409</p>
+<p>  Development		561	  625     1,566	 2,214</p>
+<p>  Selling		  2,630	2,486     7,785	 7,193</p>
+<p>General and</p>
+<p>   administrative	1,244	1,136     3,533	 3,233</p>
+<p>Acquired research &amp;</p>
+<p>   development	     ---	3,587	 ---	 3,587</p>
+<p>  Restructuring charges  ---	1,282	 ---	 1,282</p>
+<p>Total operating</p>
+<p>  expenses		 5,614     10,030    16,177	19,918</p>
+<p>Operating</p>
+<p>  income (loss)	  1,032    (4,735)     2,583     (4,070)</p>
+<p> Investment income, net  132	  168	 359	   461</p>
+<p>Income (loss) before</p>
+<p>  income taxes	   1,164    (4,567)     2,942     (3,609)</p>
+<p> Income taxes		307	(431)	 826	 (210)</p>
+<p> Net income (loss)	 857    (4,136)     2,116     (3,399)</p>
+<p>Net income (loss)</p>
+<p>  per share		 0.18     (0.96)	0.44	(0.80)</p>
+<p>Weighted average</p>
+<p>number of common</p>
+<p>and common</p>
+<p>equivalent shares</p>
+<p>  outstanding	    4,822	4,312     4,771	 4,241</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

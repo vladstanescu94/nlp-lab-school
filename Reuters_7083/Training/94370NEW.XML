@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94370" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: AT&amp;T, Microsoft in Internet deal.</title>
+<headline>AT&amp;T, Microsoft in Internet deal.</headline>
+<byline>Therese Poletti</byline>
+<dateline>BRIDGEWATER, N.J. 1996-10-03</dateline>
+<text>
+<p>Telecommunications giant AT&amp;T Corp. and software superpower Microsoft Corp. teamed up Thursday to package each other's Internet products: AT&amp;T's WorldNet Service and Microsoft's Internet Explorer Web browser.</p>
+<p>The announcement represented another coup for Microsoft in its battle with Netscape Communications Corp. for dominance of the Web browser market. Netscape's Navigator software is the leading browser, but Microsoft's Internet Explorer 3.0 has been making inroads.</p>
+<p>Computer users who have Microsoft's Windows 95 operating system will have access to Internet Explorer 3.0 when they order the WorldNet Internet service, the companies said.</p>
+<p>AT&amp;T said it designated Internet Explorer 3.0, the latest version of the software needed to view the Web, as the default browser for WorldNet, which has 425,000 subscribers. Before Thursday, AT&amp;T had offered Netscape Navigator with WorldNet.</p>
+<p>AT&amp;T also said the software needed to run WorldNet was included in versions of Windows 95 being delivered to computer makers. Most computers with Windows 95 delivered during the holiday season were expected to include WorldNet.</p>
+<p>A preconfigured version of Microsoft Internet Explorer 3.0 is available immediately for Windows 95 users, the companies said.</p>
+<p>Microsoft said it expected to begin beta, or final, testing of versions of Internet Explorer 3.0 for the Macintosh and Windows 3.1 operating systems shortly.</p>
+<p>In addition to enabling computer users a way to browse the Net, Internet Explorer gives developers a technically advanced platform for creating Web sites, the companies said. The software also offers Internet conferencing, collaboration and can be customised.</p>
+<p>Users could still request other browsers offered by AT&amp;T, and WorldNet is compatible with all browsers and applications using standard Internet protocols, they said.</p>
+<p>Windows 95 with WorldNet pre-installed will be available in retail outlets later this year.</p>
+<p>WorldNet can be found on the Microsoft Internet Referral Server, an Internet computer that enables Microsoft customers to choose an Internet service provider.</p>
+<p>Under AT&amp;T's free trial offer, AT&amp;T long-distance customers who sign up for AT&amp;T WorldNet Service in 1996 have free access to the Internet for the first five hours each month for a year as long as they use the service one hour each month. Customers pay $2.50 for each hour beyond the five.</p>
+<p>Under a separate plan, AT&amp;T long-distance customers can opt for a flat monthly rate of $19.95 for unlimited access.</p>
+<p>AT&amp;T was not immediately available to comment on the potential financial value of the deal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRIDGEWATER, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

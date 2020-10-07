@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131106" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Microsoft earns record $614 million in quarter.</title>
+<headline>Microsoft earns record $614 million in quarter.</headline>
+<dateline>SEATTLE 1996-10-21</dateline>
+<text>
+<p>Microsoft Corp. said Monday it earned a record $614 million in its fiscal first quarter as strong demand for its Windows 95 and Windows NT computer operating systems helped fuel record sales.</p>
+<p>The earnings meant income of 95 cents a share and came on revenue of $2.30 billion. A year earlier, Microsoft earned $499 million, or 78 cents a share, on revenue of $2.02 billion.  </p>
+<p>Its income exceeded market expectations. Analysts had expected Microsoft to earn 90 cents a share, according to the average of estimates compiled by First Call.</p>
+<p>&quot;This quarter, the company posted solid results across a wide range of businesses, including operating systems, personal productivity tools, and enterprise solutions,&quot; said Mike Brown, Chief Financial Officer.</p>
+<p>Jeff Raikes, group vice president, sales and marketing. said corporate customers adopted Windows NT servers and workstations in record numbers.</p>
+<p>Microsoft closed Monday at $134, down 75 cents a share, on Nasdaq. In after hour trading Microsoft stock jumped $2.375 to $136.375, traders said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

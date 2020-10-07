@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574961" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Lucent to resell Vantive software.</title>
+<headline>Lucent to resell Vantive software.</headline>
+<dateline>PALO ALTO, Calif. 1997-05-12</dateline>
+<text>
+<p>Lucent Technologies Inc agreed to sell Vantive Corp's customer service software along with its telephone equipment, the companies said on Monday.</p>
+<p>The agreement allows Lucent, a maker of telecommunication equipment and telephone gear, to offer Vantive's software with its Definity Call Center products. Definity lets Lucent customers set up customer service operations that can field thousands of calls a day.  </p>
+<p>Vantive, based in Santa Clara, Calif., writes software that helps the customer service deparments keep track of customer complaints.</p>
+<p>&quot;This is a very significant deal for Vantive because Lucent is the major vendor in this market,&quot; said Christopher Lochhead, Vantive executive vice president of strategic marketing.  </p>
+<p>Vantive declined to disclose financial terms of the agreement. But about 1,000 Lucent salespeople will be trained to sell Vantive products, Lochhead said.</p>
+<p>((Kourosh Karimkhany, in Palo Alto, 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

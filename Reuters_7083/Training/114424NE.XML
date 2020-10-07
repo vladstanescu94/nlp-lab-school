@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114424" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Cisco to Buy Netsys for $79 Million.</title>
+<headline>Cisco to Buy Netsys for $79 Million.</headline>
+<dateline>PALO ALTO, Calif. 1996-10-14</dateline>
+<text>
+<p>Cisco Systems Inc. Monday agreed to buy closely held Netsys Technologies for $79 million in stock in an effort to acquire software that helps technicians design complex computer networks.</p>
+<p>Cisco, the world's biggest maker of computer networking equipment, also said it cancelled its plans to repurchase 16.8 million of its own shares because of uncertainty over a recent interpretation of an accounting rule by the Securities and Exchange Commission. Cisco said it could be liable for more taxes if the interpretation is applied to its practices.</p>
+<p>Netsys, based in Palo Alto, Calif., makes software that simulates the operations of a computer network. With the software, technicians can build a model of a planned network on a computer to see how well the network can handle the flow of computer information.</p>
+<p>Cisco will take a charge of 5 cents to 6 cents a share in its fiscal second quarter for the acquisition. The transaction is expected to close in November.</p>
+<p>Cisco has had a minority stake in Netsys, which has about 50 employees, since Feb., 1995. Netsys, headed by Chief Executive Herb Madan, will become part of Cisco's Central Engineering. In 1996 Netsys expects to have revenue of about $11 million.</p>
+<p>Since 1993, Cisco, based in San Jose, Calif., has bought 14 networking and software companies to plug holes in its product lines and to acquire technology that makes it easier for customers to use its networking devices. The company has used its stock, which has risen steadily, as currency for the transactions.</p>
+<p>The decision by Cisco's board of directors to rescind its stock repurchase plan was to avoid the possibility of a huge tax liability for the purchases, said Larry Carter, Cisco's chief financial officer.</p>
+<p>&quot;Obviously we're disappointed in this, but it's not a material event,&quot; Carter said. The move is just a precaution, and Cisco won't repurchase any more of its shares until there's a clearer interpretation of the accounting rule, Carter said.</p>
+<p>Under the SEC's interpretation of Staff Accounting Bulletin 96, a company's stock repurchasing plan must have a systematic pattern of purchases. Cisco, which has bought back its stock infrequently, could not establish that pattern, Carter said. Without the pattern, Cisco could be forced to account for its acquisitions as purchases instead of so-called &quot;pooling of interests,&quot; a tax-free transaction.</p>
+<p>Shares of Cisco were down 50 cents to $65.25 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

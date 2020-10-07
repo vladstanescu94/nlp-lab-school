@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325558" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Spyglass to post Q2 payment from Microsoft.</title>
+<headline>Spyglass to post Q2 payment from Microsoft.</headline>
+<dateline>NAPERVILLE, Ill. 1997-01-22</dateline>
+<text>
+<p>Spyglass Inc said Wednesday that it and Microsoft Corp reached an agreement for a full buyout of all current and future royalties owed Spyglass for use of its Internet technology.</p>
+<p>Spyglass said it will receive a one-time payment of $8 million consisting of $7.5 million in cash and $500,000 in software and maintenance in exchange for the fully paid license under the terms of an existing license agreement.</p>
+<p>Microsoft uses Spyglass Mosaic browser technology in its Internet Explorer, the company said.  </p>
+<p>Spyglass said it would recognize this payment in its second fiscal quarter ending on March 31, 1997.</p>
+<p>Earlier this month, Spyglass had warned that it did not expect to realize any revenue from Microsoft in its first quarter above the minimum quarterly payment of $400,000.</p>
+<p>It said it would exercise its contractual right to audit Microsoft's records to determine whether additional royalties were owed.  Spyglass said it was to earn royalties based on distribution of Microsoft's Internet Explorer.</p>
+<p>On Wednesday, Spyglass said the two companies intended to extend their strategic relationship in the future to develop new technologies, expand distribution of their technologies and work together on open standards in the embedded systems markets.</p>
+<p>Spyglass also said its entire line of Infrastructure Server products will be offered for use on Microsoft's Windows NT, and its Spyglass MicroServer will run on Windows CE.</p>
+<p>Earlier, Spyglass reported a fiscal first quarter loss of $0.12 a share versus a profit of $0.07 a share last year.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379551" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: IBM says has approval on encryption exports.</title>
+<headline>IBM says has approval on encryption exports.</headline>
+<dateline>WASHINGTON 1997-02-14</dateline>
+<text>
+<p>International Business Machines Corp received permission last week from the U.S. Commerce Department to export more powerful encryption software, a company official said.</p>
+<p>IBM is the fourth company to acknowledge receiving a license under a new Clinton administration policy that took effect Jan 1.</p>
+<p>Encryption programs, which use mathematical formulas to scramble information and render it unreadable without a password or software &quot;key,&quot; have become an increasingly important part of online commerce and global communications.  </p>
+<p>The security provided by encryption, whether for a business' electronic mail or a consumer's credit card number sent over the Internet, is largely a function of the length of the software &quot;key&quot; measured in the smallest unit of computer data, a one or zero known as a bit.</p>
+<p>Each additional bit doubles the number of possible key combinations.</p>
+<p>Under previous export laws, U.S. companies could export only 40-bit programs.  Under the new policy, IBM and a few others have been allowed to export 56-bit programs.  </p>
+<p>A California graduate student last month cracked a message encoded with 40-bit encryption in under four hours using a network of computer workstations.  A message encoded with 56-bits would be more than 65,000 times harder to crack.</p>
+<p>U.S. export restrictions are intended to keep difficult to crack coding capabilities out of the hands of criminals and terrorists.</p>
+<p>So in return for allowing companies to export 56-bit programs, the government extracted a promise from the companies to include within two years features allowing the government to crack the codes by recovering the &quot;keys.&quot;  </p>
+<p>When the two years are up, IBM and the others will have to incorporate key recovery features into any program for export that uses more than 40 bit long keys.</p>
+<p>Digital Equipment Corp, Trusted Information Systems Inc, and Cylink Corp have also said they received 56-bit export licenses.</p>
+<p>Many companies and civil libertarians have attacked the mandatory key recovery plan as unworkable and an invasion of privacy.  A coalition of 16 trade groups sent President Bill Clinton a letter last week blasting the policy.</p>
+<p>--Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

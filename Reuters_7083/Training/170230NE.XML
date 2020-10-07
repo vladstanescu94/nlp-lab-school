@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170230" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Lotus in deal with Microsoft and Netscape.</title>
+<headline>Lotus in deal with Microsoft and Netscape.</headline>
+<dateline>ANAHEIM, Calif.</dateline>
+<text>
+<p>Lotus Development Corp. said Wednesday it planned to ship its next generation of products with Internet browsers manufactured by both Microsoft Corp. and Netscape Communications Corp.</p>
+<p>&quot;Today's customers want openness, interoperability and simple delivery of product,&quot; Jeff Papows, Lotus' president, said. &quot;This is another step in Lotus' strategy to integrate Notes clients with a variety of browser applications and browser components.&quot;</p>
+<p>The move comes as Lotus' workgroup software has faced a threat from lower-cost Internet technology.</p>
+<p>Lotus, a division of International Business Machines Corp., said it will ship the Netscape Navigator 3.0 with selected Lotus products. Lotus Notes 4.5 is scheduled for shipping by the end of the year. It is the first Lotus product planned for shipment with Netscape's Navigator browser.</p>
+<p>Lotus said it will also ship the products with Microsoft's Explorer 3.0 browser, which competes with Netscape's more widely used Navigator.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

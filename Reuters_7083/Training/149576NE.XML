@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149576" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Symantec Q2 profit vs loss.</title>
+<headline>Symantec Q2 profit vs loss.</headline>
+<text>
+<p>CUPERTINO, Calif, Oct 29 (Reuter)</p>
+<p>		     Consolidated Statements of Operations</p>
+<p>		(In thousands, except per share data; unaudited)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>				 Sep 30,  Sep 30,    Sep 30,  Sep 30,</p>
+<p>				    1996     1995	 1996     1995</p>
+<p> Net revenues	     $109,178 $108,510    218,396 $218,375</p>
+<p> Cost of revenues	   19,471   35,090     40,955   57,308</p>
+<p>   Gross margin	     89,707   73,420    177,441  161,067</p>
+<p>Operating expenses:</p>
+<p>Research and development</p>
+<p>				 20,835   23,795     43,841   43,868</p>
+<p>   Sales and marketing    52,967   60,448    106,746  112,659</p>
+<p>General and administrative</p>
+<p>				   7,826   11,811     15,093   20,888</p>
+<p>Total operating expenses</p>
+<p>				  81,628   96,054    165,680  177,415</p>
+<p>Operating income (loss)</p>
+<p>before acquisition,</p>
+<p>restructuring and</p>
+<p>  other expenses	    8,079  (22,634)    11,761  (16,348)</p>
+<p> Interest income	     1,751    1,921	3,435    4,184</p>
+<p> Interest expense	    (337)    (344)	(668)    (783)</p>
+<p> Other income (expense), net  36  (1,188)	(332)  (2,653)</p>
+<p>Income (loss) before income</p>
+<p>taxes, acquisition,</p>
+<p>restructuring and</p>
+<p>  other expenses	    9,529  (22,245)    14,196  (15,600)</p>
+<p>Provision (benefit) for</p>
+<p>income taxes before</p>
+<p>acquisition, restructuring</p>
+<p>  and other expenses	   953  (4,459)	1,419  (4,623)</p>
+<p>After-tax income (loss) before</p>
+<p>acquisition, restructuring</p>
+<p>  and other expenses	 8,576 (17,786)     12,777 (10,977)</p>
+<p>Acquisition, restructuring</p>
+<p>  and other expenses	 8,549	 --	9,844     (71)</p>
+<p>Tax provision (benefit) from acquisition,</p>
+<p>restructuring</p>
+<p>  and other expenses	 (855)	 --	(984)	 14</p>
+<p> Net income (loss)	     882 (17,786)	3,917 (10,920)</p>
+<p>After-tax income</p>
+<p>per share before acquisition,</p>
+<p>restructuring and</p>
+<p>  other expenses		0.16   (0.34)	 0.23   (0.21)</p>
+<p>Net income (loss)</p>
+<p>  per share - primary	 0.02   (0.34)	 0.07   (0.21)</p>
+<p>Net income (loss) per share</p>
+<p>  - fully diluted	     0.02   (0.34)	 0.07   (0.21)</p>
+<p>Shares used to compute</p>
+<p>primary net income (loss)</p>
+<p>  per share		   54,951   52,498     55,042   52,033</p>
+<p>Shares used to compute</p>
+<p>fully diluted net income</p>
+<p>  (loss) per share	  54,951   52,498     55,042   52,033</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

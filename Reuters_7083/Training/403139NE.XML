@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403139" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: Citrix in licensing talks with Microsoft.</title>
+<headline>Citrix in licensing talks with Microsoft.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1997-02-26</dateline>
+<text>
+<p>Citrix Systems Inc said on Wednesday that it is negotiating a cross-licensing agreement with Microsoft Corp over Microsoft's Windows NT software and certain Citrix technologies.</p>
+<p>Microsoft informed Citrix that it may develop some technology itself or license it from another company, if a licensing deal is not reached, Citrix said.</p>
+<p>Citrix said it believes that not reaching a deal would &quot;have a material adverse effect on the company's business, results of operations and financial condition.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

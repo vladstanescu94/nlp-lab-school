@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167244" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Graphix Zone CFO and CEO resign.</title>
+<headline>Graphix Zone CFO and CEO resign.</headline>
+<dateline>IRVINE, Calif. 1996-11-05</dateline>
+<text>
+<p>Graphix Zone said on Tuesday that its chief financial officer and chief executive officer are resigning.</p>
+<p>Chief Financial Officer Frank Murnane joined the company two months ago and is resigning to attend to personal matters, Graphix Zone said.</p>
+<p>Chief Executive Charles Cortright, a company co-founder and company president, is leaving but will remain as a consultant.</p>
+<p>Graphix Zone said Norm Block, who joined the company in February as chief operating officer, has been appointed president and a member of the board.  </p>
+<p>Also leaving the company is co-founder and Executive Vice President Angela Aber. Graphix Zone said Aber will also serve as a consultant and that she and Cortright will &quot;continue to actively spearhead strategic projects to continue the company's success.&quot;</p>
+<p>The company could not be immediately reached for further information.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

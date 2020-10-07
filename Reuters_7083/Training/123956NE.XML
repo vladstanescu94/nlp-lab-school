@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123956" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Twenty in US Congress oppose Clinton code plan.</title>
+<headline>Twenty in US Congress oppose Clinton code plan.</headline>
+<dateline>WASHINGTON 1996-10-17</dateline>
+<text>
+<p>Twenty House and Senate members signed a letter to President Clinton this week opposing the administration's proposal to ease export restrictions on computer encoding technology.</p>
+<p>The 20 legislators, from both parties, said the Clinton plan, announced October 1, did not go far enough to lift Cold War era limits on sales abroad of hardware and software with the capability to encrypt communications.</p>
+<p>&quot;Unfortunately, the administration's most recent encryption initiative shortchanges both U.S. business and law enforcement interests,&quot; the legislators wrote.  </p>
+<p>The legislators rejected this approach, known as key recovery or key escrow, as probably unworkable and needlessly restrictive.</p>
+<p>Among those who signed the letter to Clinton was Republican Sen. Conrad Burns, who sponsored a bill in the last Congress to ease export controls without requiring key escrow. The bill did not reach the Senate floor for a vote but Burns has said he will try again next year.</p>
+<p>The letter was also signed by Republican Rep. Bob Goodlatte, who sponsored similiar legislation in the House last term.  </p>
+<p>The letter said the legislators were not consulted in the formulation of the administration's policy, but &quot;we nevertheless hope that in the coming months you will work with us and industry, consumer and user groups to refine it further.&quot;</p>
+<p>Administration officials were not immediately available for comment on the letter.</p>
+<p>High-tech firms contend they are losing business to foreign competitors able to sell encryption products without limits.</p>
+<p>But U.S. law enforcement and intelligence agencies argue that foreign companies are not mass marketing powerful programs. Agency officials say the unlimited spread of powerful U.S. encryption technology would be a boon to criminals and terrorists.</p>
+<p>Under the Clinton proposal, U.S. companies could export powerful programs only if the programs included a feature to allow government access to encoded messages.  </p>
+<p>-- Aaron Pressman 202-898-8312 (c) Reuters Limited 1996</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

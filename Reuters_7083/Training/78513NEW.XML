@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78513" id="root" date="1996-09-26" xml:lang="en">
+<title>JAPAN: Konami says moves U.S. business to new subsidiary.</title>
+<headline>Konami says moves U.S. business to new subsidiary.</headline>
+<dateline>TOKYO 1996-09-26</dateline>
+<text>
+<p>Japanese software house Konami Co Ltd said on Thursday it had dissolved a wholly owned subsidiary in the United States and shifted its business to a new subsidiary set up earlier in the month.</p>
+<p>The older U.S. subsidiary, Konami (America) Inc,  had been ailing under an accumulated loss of $105 million, which exceeded stockholders' equity by $90 million, Konami said in a statement.</p>
+<p>The loss was incurred after the firm wrote off excessive inventories at the end of February 1995, Konami said.</p>
+<p>Konami said it expects to take a total special loss of 10.9 billion yen from dissolving the subsidiary. It said the impact of the loss would be limited as it had already earmarked a 10.5 billion yen reserve for loan and investment losses in the previous business business year, to March 31, 1995.</p>
+<p>The new subsidiary, Konami of America Inc, would be capitalised at 10 million dollars, Konami said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64660" id="root" date="1996-09-19" xml:lang="en">
+<title>FRANCE: Apple CEO strives to win through alliances.</title>
+<headline>Apple CEO strives to win through alliances.</headline>
+<dateline>PARIS 1996-09-19</dateline>
+<text>
+<p>Apple Computer Inc. said Thursday it would forge new alliances in a bid to recapture its glory days as an innovative maverick of the computer industry.</p>
+<p>&quot;Apple will survive, but survival is not good enough,&quot; Gil Amelio, chief executive, of the Cupertino, Calif.-based company told reporters in Paris at the Apple Expo show.</p>
+<p>&quot;We had a tough time but we are coming out of it. Now we have to become a winner again,&quot; he said the day after the money losing company struck a deal with Sun Microcomputers Inc., headquartered in Mountain View, Calif.</p>
+<p>Under the deal with Sun, computers made by the Apple will be linked to Sun servers. This will give business clients an alternative to Redmond, Wash.-based Microsoft Corp.'s Windows NT platform running on machines powered by Pentium chips from Intel Corp., which has headquarters in Santa Clara, Calif.</p>
+<p>Amelio said he expected the three-year product development deal with Sun to be extended for at least three more years.</p>
+<p>Apple has its own operating system to run Macintosh computers and uses the PowerPC chip developed by Motorola Inc., based in Schaumburg, Ill., IBM Corp., based in Armonk, N.Y. and France's Machines Bull.</p>
+<p>Amelio said Apple, under his leadership, would focus less on hardware and more on software.</p>
+<p>&quot;In the past, we made software in order to sell hardware. Now we must make software to create value for our customers,&quot; he said.</p>
+<p>Amelio said he aimed to &quot;meet or beat&quot; his forecast of breaking even in the the company's second fiscal quarter ending March 1997. The company lost $740 million in the second quarter of this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

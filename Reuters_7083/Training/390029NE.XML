@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="390029" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: System Software Associates Inc Q1 loss. [CORRECTED 01:11 GMT 21/2]</title>
+<headline>System Software Associates Inc Q1 loss. [CORRECTED 01:11 GMT 21/2]</headline>
+<dateline>CHICAGO 1997-02-20</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss		   $0.10     loss	 $0.01</p>
+<p> Net loss		   4,300     loss	   400</p>
+<p> Revs			92,200		   76,600</p>
+<p> Avg shrs		  42,600		   43,100</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>(corrects the years in the column headers from 1996 and 1995 respectively, and also corrects the Net loss figures from 6,700 and 700)</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

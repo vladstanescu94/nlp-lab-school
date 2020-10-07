@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="719323" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Congress considers Year 2000 computer buying laws.</title>
+<headline>Congress considers Year 2000 computer buying laws.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-07-10</dateline>
+<text>
+<p>With the federal government falling behind in the task of preparing its computers for the year 2000, Congress is considering legislation to put more of the burden on the private sector.</p>
+<p>The problem arises from computers that record only the last two digits of a year. Such systems might treat the year 2000 as the year 1900, leading to serious miscalculations or even a system crash.</p>
+<p>Of more than 7,000 critically important government computer systems, only 21 percent are ready for the year 2000, according to a report released Thursday by the Office of Management and Budget.</p>
+<p>About 17 percent will be scrapped or replaced, but that leaves almost 4,500 systems to be repaired in less than three years, the agency said. The numbers exclude the Social Security Administration, which has been working on the problem since 1989 and has almost three-quarters of its systems ready.</p>
+<p>One legislative proposal would require that all new computer hardware and software purchased by the government be able to process dates properly in the year 2000.</p>
+<p>Major vendors have promised to produce so-called year 2000-compliant products, but not all sell such items today. Popular personal computer programmes, like Microsoft Corp.'s Windows, record the year using four digits and would not be affected.</p>
+<p>Representative Constance Morella, Republican of Maryland, said Thursday the measure was under consideration in part to prompt the private sector to move quickly to eliminate year 2000 glitches.</p>
+<p>Morella also expressed concerns about preparations by government agencies. The Department of Transportation, which includes the Federal Aviation Administration, may not update all of its computers by the year 2000 under current projections.</p>
+<p>&quot;I find that pretty remarkable,&quot; Morella said.</p>
+<p>&quot;I found it a cause of concern,&quot; replied Sally Katzen, OMB administator, who is coordinating the government's year 2000 preparedness. &quot;That is a problem and we are going to address that.&quot;</p>
+<p>But despite all the attention, the government may still be moving too slowly, warned Joel Willemssen, director at the General Accounting Office. &quot;OMB's view is there is no cause for alarm,&quot; he said. &quot;We don't share that view.&quot;</p>
+<p>A proposal some senators are weighing would impose sanctions on financial-sector firms that negligently allow year 2000 computer problems to interfere with customer accounts.</p>
+<p>Sen. Bob Bennett, Republican of Utah and chairman of the Senate Banking Committee's financial services subcommittee, said Thursday such legislation may be needed.</p>
+<p>&quot;The financial services industry is particularly susceptible to the year 2000 problem,&quot; he said at a hearing. &quot;The subcommittee is considering legislation that would, among other things, sanction companies that fail to satisfy their fiduciary duties to customers as a result of negligence in year 2000 remediation efforts.&quot;</p>
+<p>But attorneys said there is no need for such a law, since companies can already be sued for negligence by customers.</p>
+<p>&quot;I think the penalties are already in place,&quot; said Michael Epstein, an attorney at Weil, Gorshal &amp; Manges specialising in technology law.</p>
+<p>With hundreds of billions of dollars required to fix year 2000 problems worldwide, lawsuits over claims of negligence are inevitable, Epstein added. &quot;Whenever you have a problem of that magnitude, you're going to have legal fallout just as day follows night,&quot; he said.</p>
+<p>(--202-898-8312)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="680379" id="root" date="1997-06-23" xml:lang="en">
+<title>USA: Encryption export bill to get smoother ride in House.</title>
+<headline>Encryption export bill to get smoother ride in House.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-06-23</dateline>
+<text>
+<p>Legislation to relax U.S. export limits on computer-encoding technology is likely to move ahead in the House of Representatives this week, despite a severe setback in the Senate last week.</p>
+<p>The House International Relations' economic policy and trade subcommittee will vote on a bill on Tuesday, chairwoman Ileana Ros-Lehtinen, Republican of Florida, said.</p>
+<p>Current U.S. law strictly limits export of encryption software, which scrambles information and renders it unreadable without a password or software &quot;key.&quot;</p>
+<p>Once the realm of spies and generals, encryption has become a critical technology to safeguard electronic commerce and global communications over the Internet.</p>
+<p>In the Senate last week, a similiar bill to relax encryption-export controls was torpedoed when the Senate Commerce Committee approved a substitute.</p>
+<p>The substitute bill, sponsored by Nebraska Democrat Bob Kerrey and Arizona Republican John McCain, would only modestly ease export restrictions and would effectively allow the government to crack encrypted messages in the United States by gaining access to the software keys.</p>
+<p>The Clinton administration has been a strong proponent of so-called key-recovery mechanisms, arguing that the proliferation of strong encryption without key recovery would hamper law-enforcement and national security agencies' ability to keep tabs on criminals and terrorists.</p>
+<p>But on the House side, where the bill under consideration relaxes export rules without requiring key recovery, Ros-Lehtinen rejected the administration's approach.</p>
+<p>&quot;Lengthy discussions have been held with representatives from these sectors and from the administration to address these issues,&quot; the subcommitee chairman said Monday.</p>
+<p>&quot;However, the facts presented and arguments raised overwhelmingly support the liberalisation of export controls on generally available encryption products,&quot; she said.</p>
+<p>With 125 co-sponsors in the House, and &quot;enthusiastic support&quot; from industry and civil liberties and privacy advocates, the bill &quot;is expected to be passed with limited changes,&quot; Ros-Lehtinen added.</p>
+<p>The bill could face a tougher challenge when considered by the full International Relations Committee. Chairman Benjamin Gilman, Republican of New York, is not a strong supporter of export liberalisation, congressional staffers said.</p>
+<p>U.S. software companies like Netscape Communications, and Microsoft Corp. have been clamouring for relief from encryption export controls.</p>
+<p>The heads of 10 software companies, including Microsoft chairman Bill Gates, came to Washington earlier this month to lobby the Clinton administration for liberalisation.</p>
+<p>They pointed out that as a result of U.S. controls, foreign companies are gaining market share for encryption products. Sun Microsystems said last month it will evade the rules by marketing Russian-made software with its products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

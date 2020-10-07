@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44955" id="root" date="1996-09-10" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia initial public offerings Sept 10.</title>
+<headline>RTRS-Australia initial public offerings Sept 10.</headline>
+<dateline>SYDNEY 1996-09-10</dateline>
+<text>
+<p>The companies listed have made application for admission to the official list of the Australian Stock Exchange (ASX) and have been allocated a provisional ASX code. The ASX advises that allocation of a code does not imply that the company's application will be approved.</p>
+<p>								   Amount Sought</p>
+<p>Company			     Price Underwriter(s)     A$million</p>
+<p>----------------------------------------------------------------</p>
+<p>Adelaide Resources NL	    0.25 McIntosh Corporate    5.00</p>
+<p>Business: Gold explorer</p>
+<p>----------------------------------------------------------------</p>
+<p>Ashanti Goldfields		   n/a - merger with     n/a</p>
+<p>Company Ltd				 Golden Shamrock</p>
+<p>						Mines NL</p>
+<p>Business: Gold miner</p>
+<p>----------------------------------------------------------------</p>
+<p>Asian Mining NL		   0.30 Capitalcorp Sdn Bhd   4.50</p>
+<p>						Hudson Timber</p>
+<p>Business: Mineral explorer</p>
+<p>----------------------------------------------------------------</p>
+<p>Beam International Ltd	   0.50 Not underwritten	6.30</p>
+<p>						Related broker is</p>
+<p>						EPIC Securities</p>
+<p>Business: Computer software developer</p>
+<p>--------------------------------------------------------------</p>
+<p>Buka Minerals Ltd		  0.50 Not underwritten	5.00</p>
+<p>						Related broker is</p>
+<p>						County Natwest</p>
+<p>Business: Mineral exploration</p>
+<p>--------------------------------------------------------------</p>
+<p>Greenstone Resources NL	  0.20 Not underwritten	6.00</p>
+<p>Business: Nickel exploration</p>
+<p>----------------------------------------------------------------</p>
+<p>Indochina Goldfields Ltd	 n/a Compliance listing    n/a</p>
+<p>Business: Gold miner</p>
+<p>----------------------------------------------------------------</p>
+<p>Livingstone Resources NL	 0.20 Kim Hin Sdn	     6.40</p>
+<p>						 Tuscan Securities</p>
+<p>						 Kirke Securities</p>
+<p>Business: Gold explorer</p>
+<p>----------------------------------------------------------------</p>
+<p>National Mutual Holdings Ltd    1.39 Lead managers     n/a</p>
+<p>						     McIntosh/J.B.Were</p>
+<p>Business: Insurance/funds management</p>
+<p>----------------------------------------------------------------</p>
+<p>Peppers Hotel Trust		1.00 Not underwritten     11.47</p>
+<p>						Related broker is</p>
+<p>						Bridges Financial</p>
+<p>						Services</p>
+<p>Business: Hotel ownership</p>
+<p>----------------------------------------------------------------</p>
+<p>Tap Oil NL			   0.50 HSBC James Capel	46.0</p>
+<p>Business: Oil explorer</p>
+<p>----------------------------------------------------------------</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

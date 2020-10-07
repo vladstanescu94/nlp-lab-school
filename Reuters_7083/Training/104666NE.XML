@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104666" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Datametrics chairman resigns.</title>
+<headline>Datametrics chairman resigns.</headline>
+<dateline>WOODLAND HILLS, Calif 1996-10-09</dateline>
+<text>
+<p>Datametrics Corp said Tuesday that Richard Foster resigned as chairman and a member of its board of directors.</p>
+<p>The company, which makes computer peripherals, said Daniel Ginns, president of Belmont Capital Inc, would immediately assume the position of chairman of the board.</p>
+<p>In addition, Dann Angeloff resigned his position as a director, it said.  </p>
+<p>Ginns will also undertake a strategic and operational review of the company to enhance shareholder value.</p>
+<p>Ginns said a shareholder group with a 10.8 percent stake in the company had initiated a plan to elect a new board. The group's intentions were disclosed in a U.S. Securities and Exchange Commission (SEC) filing released Tuesday.  </p>
+<p>In addition to Ginns, the following were added to the board: Adrien Maught, president of the Adrien A. Maught Co consulting firm; Douglas Friedenberg, president of Firebird Management Corp., and James Haber, sole general partner of Infiniti Investment L.P., an investment partnership.</p>
+<p>Haber was among those in the shareholder group seeking a new board.</p>
+<p>In connection with the changes, an entity indirectly controlled by the new board members agreed to provide interim mezzanine financing to assist the company in the short term. The agreement is subject to satisfactory completion of business and legal due diligence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOODLAND HILLS, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

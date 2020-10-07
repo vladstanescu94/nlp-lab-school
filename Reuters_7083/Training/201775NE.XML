@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201775" id="root" date="1996-11-19" xml:lang="en">
+<title>NETHERLANDS: Baan acquires Antalys Inc.</title>
+<headline>Baan acquires Antalys Inc.</headline>
+<dateline>AMSTERDAM 1996-11-19</dateline>
+<text>
+<p>Software firm Baan Company NV said on Tuesday it planned to acquire Antalys Inc, which it described as a leading supplier of configuration software.  </p>
+<p>Baan said it would issue common stock in exchange for all shares of Antalys, adding that it expected to complete the acquisition by November 29.</p>
+<p>Baan, listed in Amsterdam and on Nasdaq, gave no further financial details of the acquisition or the share issue.</p>
+<p>Nor did it give sales figures for Antalys which was founded in 1989 and is privately held.  </p>
+<p>Baan described Antalys as a &quot;world-class provider of configuration solutions for sales force automation&quot; and said its current clients included Allen-Bradley, Volvo GM Heavy Truck and Westinghouse.</p>
+<p>--Amsterdam Newsroom +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

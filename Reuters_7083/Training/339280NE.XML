@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339280" id="root" date="1997-01-28" xml:lang="en">
+<title>SINGAPORE: Oracle sees network computer proven in 1997.</title>
+<headline>Oracle sees network computer proven in 1997.</headline>
+<byline>Josephine Ng</byline>
+<dateline>SINGAPORE 1997-01-28</dateline>
+<text>
+<p>Sceptics may not have too long to wait to see if the network computer (NC), championed by U.S. software firm Oracle Corp, will lead to the next stage of the information revolution, as Oracle says.</p>
+<p>In an interview with Reuters, Raymond Lane, Oracle's president and chief operating officer, said the proof of the NC's promise of lower costs and easier use, will be seen when it is launched in 1997.</p>
+<p>&quot;This will be the year that the concept is proven, that companies start building network computing applications, that they start installing network computers probably for specialised applications,&quot; said Lane.</p>
+<p>The NC is a simple computing box that does not have a hard disk, operating system or lots of complicated software. It will be as small as a set-top box on a television and gets applications and data from a server which is accessible over the Internet or private intranet.</p>
+<p>Oracle has in the past year claimed that the NC could spell the death knell for the dominated PC. At below US$500, it is cheaper than a reasonably powerful PC. Costs will drop further when replacement, maintenance and servicing of a PC are taken into account.</p>
+<p>The NC-PC debate is not so clear-cut, say sceptics.</p>
+<p>The Economist in its January 18 issue said: &quot;Unfortunately, a closer examination of the costs of ownership reveals that, far from saving lots of money, network computers may often cost a company almost as much as modern, well-configured PCs.</p>
+<p>&quot;Network computers may indeed have valuable uses but the main savings they offer will not come from replacing the PC.&quot;</p>
+<p>&quot;I've seen articles written by the press that estimates network computing was anywhere from one-half the cost of personal computing to no difference...I don't know where the data comes from. There is no data on network computers,&quot; Lane argued.</p>
+<p>He said even if the NC brought costs down by 30 percent, it was worth it.</p>
+<p>He did not consider costs related to conversion from the PC to the NC an obstacle. &quot;The same thing occured with the PC. There has been a precedent.&quot;</p>
+<p>The NC model also makes it easier for companies to develop software compared with the existing client-server structure.</p>
+<p>NCs would give small companies an edge as they would not have to invest heavily in the infrastructure that older companies previously did, he added.</p>
+<p>So sure is Oracle of the NC that it sees its new software for the NC making important contributions to its earnings.</p>
+<p>&quot;It's going to be huge growth rates -- 200 to 300 percent growth of (new) software, of operating systems software that we will be seeing in the next couple of years from network computer,&quot; Lane said.</p>
+<p>Oracle will start to ship its NC software in Japan in the first half of 1997. It is working on localising its NC software for Asian markets like Japan, Taiwan and Korea and China, he said.</p>
+<p>So far Oracle has invested about US$15-20 million in NC software, he said.</p>
+<p>Lane saw Asia becoming a primary market for the NC.</p>
+<p>&quot;It will move very very fast because the Asian marketplace has a need for a low cost device and lots of people -- a need to have everybody communicating and it can't be done with PCs -- there's not enough money to do it,&quot; he said.</p>
+<p>He said manufacturing and telecommunication industries in Asia were likely to adopt the NC early.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

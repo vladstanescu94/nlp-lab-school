@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244051" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Microsoft, Intel unveil Internet video software.</title>
+<headline>Microsoft, Intel unveil Internet video software.</headline>
+<dateline>REDMOND, Wash. 1996-12-09</dateline>
+<text>
+<p>Microsoft Corp and Intel Corp Monday unveiled seperate, yet compatible software for real-time video communications over the Internet.</p>
+<p>Microsoft's NetMeeting version 2.0 beta 2 and Intel's Internet Video Phone beta 1.0 will enable computer users to place video calls over the Internet, they said. Both programs comply with industry standards for video conferencing.</p>
+<p>They are available for free at the corrosponding firms' Internet World Wide Web site.</p>
+<p>Intel's Internet Video Phone adds a visual dimension to Internet activities, like linking video phone calls to on-line chats, or observing opponents as they compete on-line in games. Microsoft NetMeeting is a real-time communications client application for consumer and business communications and provides an open, standards-based platform for third-party companies to build and integrate solutions.</p>
+<p>Intel and Microsoft said they hope to make personal computer-based video, voice and data communications over the Internet as commonplace as a simple telephone call.</p>
+<p>&quot;We have been working closely with Intel and the industry to remove interoperability as a barrier to market growth,&quot; Microsoft executive John Ludwig said in a statement.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

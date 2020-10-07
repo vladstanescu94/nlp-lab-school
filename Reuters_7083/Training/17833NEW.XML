@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17833" id="root" date="1996-08-27" xml:lang="en">
+<title>JAPAN: ISB Corp -1996 parent forecast.</title>
+<headline>ISB Corp -1996 parent forecast.</headline>
+<dateline>TOKYO 1996-08-27</dateline>
+<text>
+<p>Year to December 31, 1996</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    ACTUAL</p>
+<p> (Parent)	     FORECAST	  YEAR-AGO</p>
+<p> Sales		  5.55		 4.62</p>
+<p> Current	  prft 165 million   loss 78    million</p>
+<p> Net		prft 140 million  loss 152    million</p>
+<p> EPS	    prft 31.32 yen   loss 34.11 yen</p>
+<p> Ord div		 nil		  nil</p>
+<p>NOTE - ISB Corp is a software firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323831" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Computer Assocs shrs hit by mainframe concern.</title>
+<headline>Computer Assocs shrs hit by mainframe concern.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1997-01-22</dateline>
+<text>
+<p>Computer Associates International Inc shares gave up six percent of their value Wednesday and analysts said the fall reflected concern over an unexpected secular decline in mainframe revenues.</p>
+<p>While the company had issued cautionary comments in late December that revenues were unlikely to meet expecations due to sales problems in its European operations, analysts said they were caught off guard by the mainframe sales slippage.</p>
+<p>By midday Wednesday, the stock had fallen three points to 43.  It was the second most active issue on the NYSE.  </p>
+<p>In addition, analysts said CA's decline may be tied to broader weakness in the mainframe business, citing disappointing growth in International Business Machines Corp's own hardware business during the December quarter.</p>
+<p>IBM is the world's dominant supplier of mainframe software, while Computer Associates is a leading independent supplier of software used to run mainframe machines.</p>
+<p>&quot;People got spooked about the mainframe business,&quot; said Alex. Brown analyst Chris Mortenson, who noted the company told analysts in a conference call Tuesday night mainframe revenues had fallen eight percent in the December quarter.  </p>
+<p>Cowen &amp; Co analyst Drew Brosseau said mainframe sales were a primary reason why he had lowered his revenue estimates for the fiscal fourth quarter ending in March and for its fiscal 1998 year.  He also tied the stock decline back to IBM.</p>
+<p>&quot;Anything that affects IBM mainframes positively or negatively is going to have an impact on CA,&quot; he said, noting how IBM's mainframe growth is considered a key indicator of the health of the mainframe business overall.</p>
+<p>The analyst said he trimmmed his March fourth quarter revenue estimate by $40 million to $1.6 billion and reduced fiscal 1998 revenues by $150 million to $4.55 billion.  </p>
+<p>But despite mounting mainframe revenue concerns, most analysts left earnings estimates and stock ratings untouched.</p>
+<p>&quot;Most of that near-term transitional challenge is in the stock so we are still recommending it,&quot; Brosseau said. &quot;But I expect the performance to come mostly in the second half of the (calendar) year.&quot; He stood by his $55 12-month target.</p>
+<p>Mortensen added that, &quot;I find today that most investors are asking, 'What's going to make the stock go up in the next 30 days?' If you don't have a good answer, they sell it.&quot;</p>
+<p>The stock has fallen back in recent weeks from the historic high of just under 68 it acheived in early December.  </p>
+<p>Although the company said in October that it was planning to focus its business increasingly on client/server instead of mainframe software, and warned in December of a transitional revenue shortfall, analysts said they were suprised to see an absolute decline in mainframe sales during the latest quarter.</p>
+<p>In a published note, Furman Selz analyst Sanjiv Hingorani said mainframe revenues fell eight percent to $640 million, mostly in Europe.  He said CA had suggested the shortfall in the region amounted to $200 million in unrealized revenues.</p>
+<p>Especially troubling to analysts was a sequential decline in mainframe MIPS among existing customers CA had described.  </p>
+<p>MIPS, or Millions of Instructions Per Second, is a measure of the capacity of the mainframe systems shipped to customers.</p>
+<p>In its own commments to analysts Tuesday evening, IBM said MIPS grew 35 percent in the fourth quarter compared with 80 percent in fourth quarter 1995.  MIPS are the primary indicator of mainframe growth IBM discloses to analysts.</p>
+<p>Mortenson said Computer Associates executives said they had never encountered such a decline in mainframe capacity. Under grilling by analysts, they said they believed it to be an anomaly which would disappear in the current quarter.</p>
+<p>The company, which has historically derived more than 70 percent of its revenues from mainframe sales, said mainframe software accounted for 61 percent of revenues in the December quarter, while client/server software amounted to 39 percent.</p>
+<p>Computer Associates reported operating earnings of $0.75 per share for its fiscal third quarter ended in December versus $0.60 per share in the December 1995 quarter. The latest quarter excluded a $598 million acquisition charge.</p>
+<p>((-- New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

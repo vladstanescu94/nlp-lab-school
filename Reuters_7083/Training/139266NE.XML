@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139266" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Mercury Interactive Q3 shr $0.09 vs $0.16.</title>
+<headline>Mercury Interactive Q3 shr $0.09 vs $0.16.</headline>
+<dateline>SUNNYVALE, Calif. 1996-10-24</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>					Three Months	Nine Months</p>
+<p>					    Ended		Ended</p>
+<p>					  Sept. 30,	  Sept. 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p>Revenue:</p>
+<p>    License		     $11,400 $ 8,610  $29,350  $22,563</p>
+<p>    Service			 2,800   1,640    7,950    4,387</p>
+<p>	Total revenue	    14,200  10,250   37,300   26,950</p>
+<p>Cost of revenue:</p>
+<p>    License			 1,042     628    2,247    1,798</p>
+<p>    Service			   824     503    2,242    1,272</p>
+<p>	Total cost of revenue   1,866   1,131    4,489    3,070</p>
+<p> Gross profit		    12,334   9,119   32,811   23,880</p>
+<p>Operating expenses:</p>
+<p>    Research and development  2,721   1,562    7,573    7,173</p>
+<p>    Less:  grants		 (160)   (530)  (1,408)    (858)</p>
+<p>Research and development, net</p>
+<p>					2,561   1,032    6,165    6,315</p>
+<p>Marketing, selling and general</p>
+<p>     and administrative	 8,835   5,681   24,564   16,598</p>
+<p>    Settlement of litigation   ----    ----    2,600     ----</p>
+<p>Total operating expenses</p>
+<p>				     11,396   6,713   33,329   22,913</p>
+<p> Income (loss) from operations  938   2,406    (518)	967</p>
+<p> Other income, net		  856     651    2,477    1,541</p>
+<p>Income before provision for</p>
+<p>   income taxes		   1,794   3,057    1,959    2,508</p>
+<p> Provision for income taxes     359     611	394	870</p>
+<p> Net income			 1,435   2,446    1,565    1,638</p>
+<p> Net income per share	    0.09    0.16     0.09     0.11</p>
+<p>Weighted average common shares</p>
+<p>    and equivalents	    16,614  15,559   16,583   14,433</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

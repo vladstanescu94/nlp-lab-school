@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67479" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Justice Department seeks info from Microsoft.</title>
+<headline>Justice Department seeks info from Microsoft.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO 1996-09-19</dateline>
+<text>
+<p>The Justice Department's examination of Microsoft Corp. entered a new phase on Thursday when the company said investigators were seeking additional information about the software giant's business practices.</p>
+<p>The request, which was announced after the market closed, marked the first time in over a year that the Justice Department had sent a written request to Microsoft for information.</p>
+<p>The U.S. government has been investigating Microsoft for more than six years for alleged anti-trust practices but critics claim a 1994 settlement was little more than a slap on the wrist.</p>
+<p>Microsoft's senior vice president for law and corporate affairs, William Neukom, said the company would cooperate with the federal agency, adding the facts would show Microsoft was competing &quot;vigorously and legally&quot; and that the competition was benefiting consumers.</p>
+<p>In Washington, the Justice Department declined to comment on the request other than to say its investigation into Microsoft was continuing and nothing had changed.</p>
+<p>The request, coming after many experts had regarded the investigation as dormant, took some observers by surprise.</p>
+<p>However, Neukom said the latest Justice Department request appeared to be prompted by &quot;complaints from competitors which are reminiscent of allegations that were thoroughly reviewed in the past.&quot;</p>
+<p>Microsoft, which supplies the operating system used in 80 percent of the world's computers, has been a frequent target of criticism. Microsoft officials declined to say Thursday where the latest complaints had come from, but the company has recently become embroiled in a bitter battle with upstart software company Netscape Communications Corp.</p>
+<p>Last month, Mountain View, Calif.-based Netscape -- whose dominance of the market for Web browsers is threatened by Microsoft -- accused its arch-rival of anti-competitive behavior and urged the Justice Department to take action.</p>
+<p>Gary Reback, outside antitrust counsel for Netscape at Wilson, Sonsini, Goodrich &amp; Rosati, called the inquiry a good first step.</p>
+<p>&quot;On one hand, I would say it's about time. On the other hand there's still time for the government to do some positive thing for consumers,&quot; he said.</p>
+<p>Unlike the government's earlier investigation into Microsoft's control of computer operating system software, Reback said the stakes were much higher now that the software giant had set its sights on the Internet.</p>
+<p>&quot;Before we've been talking about monopolization of particular segments of desktop computing,&quot; he said. &quot;Here we're talking about monopolization of the Internet.</p>
+<p>&quot;The Internet is going to be as important to our lives as the telephone has been and the television combined,&quot; he said.</p>
+<p>&quot;It's the way we're going to get news, deal with our banks and buy baseball tickets and everything else. And so if one company ends up dominating that through illegal practices, consumers would really suffer and that's what's really motivating the government here.&quot;</p>
+<p>Among other things, Netscape has accused Microsoft of making written offers to computer makers, Internet service providers, large corporations and others on condition that rival browsers would be less accessible than Microsoft's.</p>
+<p>Netscape said the offers consisted of payments or discounts on the Microsoft desktop operating system or payments in the form of &quot;real estate&quot; on the Windows 95 screen.</p>
+<p>Microsoft officials have called the Netscape complaints a public relations ploy.</p>
+<p>&quot;As a company and as an industry we've been through this before,&quot; a Microsoft spokesman said. &quot;We are not going to be distracted by this latest request.&quot;</p>
+<p>Netscape is hardly the first company to take on Microsoft. Most notably, Apple Computer Corp. unsuccessfully sued the software giant, accusing it of copying its Macintosh operating system for Microsoft's Windows system.</p>
+<p>Neukom said Thursday that it was disappointing that Microsoft's competitors &quot;continue to seek government intervention in the competitive process rather than concentrating on improving their products.&quot;</p>
+<p>Microsoft has had numerous squabbles with the government over the years, most notably the company's decision in 1995 to abandon its planned acquisition of personal finance software maker Intuit Inc. after the Justice Department threatened to challenge the deal in court.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

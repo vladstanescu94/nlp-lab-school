@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="683840" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: Oracle unveils software products.</title>
+<headline>Oracle unveils software products.</headline>
+<dateline>NEW YORK 1997-06-24</dateline>
+<text>
+<p>Database software company Oracle Corp on Tuesday unveiled a line of products, including its updated database product, low-cost server software and an all-in-one network computer product.</p>
+<p>The company, the leader in the $5.7 billion database software business, introduced Oracle 8, a new version of its database product that can handle much more information while costing less to manage.  </p>
+<p>Oracle's Network Computer Inc subsidiary unveiled its NC Server software, which delivers a low-cost method for deploying network computers.</p>
+<p>Network Computers are low-cost, scaled-down computers that access the internet and other networks. NC Server software provides all of the software needed to quickly and set up and support a network of NCs.</p>
+<p>Oracle also unveiled its &quot;Network-In-a-Box&quot; program, a network computer system. It consists of NCI's software and NCI hardware partners' products, and will be available in July for $4,995, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

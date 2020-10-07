@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39203" id="root" date="1996-09-07" xml:lang="en">
+<title>HONG KONG: Lobby settles with Hong Kong software pirates.</title>
+<headline>Lobby settles with Hong Kong software pirates.</headline>
+<dateline>HONG KONG 1996-09-07</dateline>
+<text>
+<p>An international software lobby said it had settled legal actions with four private Hong Kong companies that had admitted using unauthorised software.</p>
+<p>The Business Software Alliance (BSA) said in a statement issued late on Friday that it had concluded legal actions against architectural firms Y.K. Au-Yeung and Associates, Andrew Lee King Fun &amp; Associates, and AP Architects Ltd, and commercial college Far East Fame Ltd.</p>
+<p>The companies involved were not immediately available for comment.</p>
+<p>Under the terms of the settlements, the companies agreed to pay &quot;substantial&quot; costs and damages to the BSA, it said without giving any figures.</p>
+<p>The companies had deleted the unlicensed software, bought their licensed versions and agreed to implement immediate control to prevent employees from making or using illegal software, it said.</p>
+<p>BSA's worldwide members include the leading publishers of software for personal computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

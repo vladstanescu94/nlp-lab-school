@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117381" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Netscape &quot;embraces&quot; Microsoft in war.</title>
+<headline>Netscape &quot;embraces&quot; Microsoft in war.</headline>
+<dateline>NEW YORK 1996-10-15</dateline>
+<text>
+<p>Netscape Communications Corp. said Tuesday it would &quot;embrace&quot; archrival Microsoft Corp. products as part of its war with Microsoft for control of the corporate software market.</p>
+<p>Netscape said it would make its Netscape ONE software for corporate offices easier to use with core Microsoft products, including the Windows 95 and Windows NT operating systems that run computers and the Microsoft Office package.</p>
+<p>Mountain View, Calif.-based Netscape, best known for its Navigator Web browser software, also announced several new products for intranets, the corporate networks that work like the Internet, in an event dubbed &quot;Netscape Strategy Day.&quot;</p>
+<p>Netscape makes 80 percent of its revenues from intranet software.</p>
+<p>Netscape's not-so-friendly bear hug of Microsoft was part of the David-and-Goliath war with Redmond, Wash.-based Microsoft, the world's No. 1 software company, for control of the Web browser market and beyond that for the definition of the software industry's future.</p>
+<p>Netscape stock dipped 87.5 cents to $44, while Microsoft rose $1.125 to $137.75 in afternoon trading on Nasdaq.</p>
+<p>With Tuesday's annoucements, Netscape addressed itself not just to browser software but the range of word processing, communications and database tools used in corporate offices.</p>
+<p>The company said its new strategy to &quot;embrace&quot; Microsoft was merely a recognition that many of its potential corporate customers rely on a range of Microsoft products.</p>
+<p>As part of its introduction of new products, Netscape said it would offer communications software that would allow offices using its new Netscape SuiteSpot 3.0 and Netscape Communicator products to send electronic mail and work collaboratively.</p>
+<p>The company said its goal was to capture more than 50 percent of the intranet market, citing research by Forrester Research Inc. which estimates the corporate intranet market will become a $10 billion business by the year 2000.</p>
+<p>To capture this market, Netscape said it will make its new products available through more than 70 manufacturing partners, including Apple Computer Inc., Compaq Computer Corp., Digital Equipment Corp., Hewlett-Packard Co., International Business Machines Corp., Ing. C. Olivetti &amp; C. SpA, Siemens Nixdorf and Sun Microsystems Inc.</p>
+<p>Netscape said it would integrate its products with Microsoft Office software, enabling customers to take advantage of Netscape intranet software in combination with Microsoft word processing, spreadsheet and other programmes.</p>
+<p>As part of the new product announcements, Netscape said it will offer Netscape Communicator software that gives desktop computer users the tools to communicate, share data and access information on intranets and the Internet.</p>
+<p>Netscape Communicator provides electronic mail, editing, Web browsing and other tools on intranets and the public Internet.</p>
+<p>Communicator integrates in one product five key components, including version 4.0 of the company's popular Navigator Web browser, hypertext authoring software, electronic mail, group discussion and real-time videoconferencing.</p>
+<p>Netscape expects to make Communicator available by next year's first quarter for 17 major computer operating systems, including Windows 95, Windows 3.1 and Apple's Macintosh.</p>
+<p>The software will be priced at $49 for the standard edition and $79 for the professional version.</p>
+<p>Users of Netscape Navigator 3.0 who have purchased a subscription will receive an upgrade to Netscape Communicator at no charge.</p>
+<p>Netscape said the products will be written to initially support the following languages: Danish, Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Spanish, Swedish.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

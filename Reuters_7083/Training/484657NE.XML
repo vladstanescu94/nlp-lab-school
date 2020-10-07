@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="484657" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: OMNI starts Expert Software shipments.</title>
+<headline>OMNI starts Expert Software shipments.</headline>
+<dateline>MILLBURY, Mass 1997-04-03</dateline>
+<text>
+<p>OMNI Multimedia Group Inc said Thursday it started shipping software for Expert Software Inc.</p>
+<p>Omni said it expects Expert to &quot;substantially increase&quot; Omni's annual sales.</p>
+<p>OMNI will provide services for Expert that include CD mastering and replication through warehousing, drop shipping and returns processing.</p>
+<p>Expert develops and publishes software programs. OMNI manufactures and distributes software through wholly-owned subsidiaries in Mass, Minn and Cal.</p>
+<p>For third quarter ending Dec 28, 1996, Omni's net sales were $4 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILLBURY, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

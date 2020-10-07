@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193510" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Novell sues Adtech over trademark.</title>
+<headline>Novell sues Adtech over trademark.</headline>
+<dateline>OREM, Utah 1996-11-15</dateline>
+<text>
+<p>Novell Inc said Friday it hadc filed suit in the U.S. District Court for the Eastern District of California alleging trademark and trade name infringement by Adtech Network Services Inc.</p>
+<p>Novell said the suit alleges that Adtech, based in Ceres, Calif., is fraudulently claiming to be a Novell-authorized reseller and is fraudulently claiming that a certain employee is a certified Novell engineer.</p>
+<p>Novell said it has no record of Adtech ever applying to become a Novell-authorized reseller. It also said its records indicate that the Adtech employee in question has taken only one course toward obtaining &quot;certified Novell engineer&quot; status.</p>
+<p>An Adtech spokesman declined comment on the suit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

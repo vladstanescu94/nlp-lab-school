@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="341565" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: CAM Data Systems Inc Q1 Dec 31 net rises.</title>
+<headline>CAM Data Systems Inc Q1 Dec 31 net rises.</headline>
+<dateline>FOUNTAIN VALLEY, Calif. 1997-01-29</dateline>
+<text>
+<p>CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>						  THREE MONTHS ENDED</p>
+<p>					     DEC. 31,	  DEC. 31,</p>
+<p>						 1996		1995</p>
+<p>Total net revenues		    4,778,800	 3,328,600</p>
+<p>Total costs and expenses	    4,511,700	 3,063,800</p>
+<p>Net income				$ 187,100	 $ 161,500</p>
+<p>Primary net income per share	    $0.09	     $0.08</p>
+<p>Fully diluted net income per share    $0.09	     $0.08</p>
+<p>Shares used in computing primary</p>
+<p>  net income per share		2,133,400	 2,094,300</p>
+<p>Shares used in computing fully</p>
+<p>  diluted net income per share    2,146,300	 2,095,300</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOUNTAIN VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

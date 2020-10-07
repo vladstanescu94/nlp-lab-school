@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179360" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Personal Computer Q1 shr rises.</title>
+<headline>Personal Computer Q1 shr rises.</headline>
+<dateline>SAN DIEGO 1996-11-11</dateline>
+<text>
+<p>PERSONAL COMPUTER PRODUCTS, INC. AND SUBSIDIARIES</p>
+<p>		 CONSOLIDATED CONDENSED STATEMENT OF OPERATIONS</p>
+<p>				   (unaudited)</p>
+<p>				     Three months ended September 30,</p>
+<p>						    1996		1995</p>
+<p>Revenues:</p>
+<p>   Sales of products		  $2,132,000	 $2,471,000</p>
+<p>   Engineering fees		    1,318,000	    220,000</p>
+<p>   License fees and royalties	  275,000</p>
+<p>					     3,725,000	  2,691,000</p>
+<p>Costs and expenses:</p>
+<p>   Cost of products sold	     1,795,000	  2,275,000</p>
+<p>Selling, general and</p>
+<p>    administrative			 787,000	    737,000</p>
+<p>Cost of engineering fees and</p>
+<p>    research and development	   756,000	    436,000</p>
+<p>Amortization of capitalized</p>
+<p>    software development costs				115,000</p>
+<p>					     3,338,000	  3,563,000</p>
+<p> Income (loss) from operations	 387,000	  (872,000)</p>
+<p>Other income (expense):</p>
+<p>   Interest, net			    41,000	   (22,000)</p>
+<p>Net income (loss) before</p>
+<p>  provision for income taxes	   428,000	  (894,000)</p>
+<p> Provision for taxes			 3,000		4,000</p>
+<p>Net income (loss) before</p>
+<p>  extraordinary item		     425,000	  (898,000)</p>
+<p>Extraordinary gain on conversion</p>
+<p>of notes payable into common</p>
+<p>  stock								 7,000</p>
+<p> Net income (loss)			 425,000	  (891,000)</p>
+<p>Primary and fully diluted</p>
+<p>income (loss) per common share</p>
+<p>  before extraordinary item		 0.01	     (0.05)</p>
+<p>Primary and fully diluted income</p>
+<p>  (loss) per common share		   0.01	     (0.05)</p>
+<p> Average shares outstanding(a)    45,962,000	 17,440,000</p>
+<p>(a) In accordance with APB 15, average shares outstanding for the quarter ended September 30, 1995 (due to the quarterly loss) did not include the effects of common stock equivalents such as convertible preferred stock, options and warrants as these were anti-dilutive.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

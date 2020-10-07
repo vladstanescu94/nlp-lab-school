@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134500" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BEFORE THE BELL - Microsoft trades lower.</title>
+<headline>BEFORE THE BELL - Microsoft trades lower.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Shares in Microsoft Corp failed to hold gains notched in after-hours trade Monday on news of better-than-expected quarterly results, the shares slumping to 132-1/2, off 1-1/2, in Tuesday pre-open activity.</p>
+<p>Traders cited profit-taking and selling as the earnings news overtook the pre-announcement hype that preceded the results, announced after Monday's market close.</p>
+<p>In pre-open trade, Microsoft shed 1-1/2 to 132-1/2.</p>
+<p>Also, Digital Equipment Corp shares fell, losing 2-3/8 at 32, after posting a quarterly loss that far exceeded analysts' expectations.  </p>
+<p>&quot;We made the call last night that Microsoft is going down regardless of the earnings report. It gets hyped up in the earning period. It is up 20 bucks since September, so it is going to breathe a little bit&quot; after the results are announced, a trader said.  </p>
+<p>&quot;On a percentage basis, this decline is nothing. People get out and take their profits, it's not an outright sell,&quot; he added.</p>
+<p>As for DEC, the company reported early Tuesday a fiscal first quarter net loss of $0.48 per share, or $74.8 million, versus a profit of $0.26 per share, or $39.3 million.</p>
+<p>The loss exceeded the First Call consensus analyst estimate of a $0.14 per share loss.</p>
+<p>Revenues for the period fell to $2.91 billion from $3.27 billion.  </p>
+<p>MCI Communications Corp reported earnings that were in-line with expectations and the stock slipped 1/8 to 24-3/4.</p>
+<p>The company said it netted $0.44 per share in the third quarter versus a loss of $0.35 per share after charges.</p>
+<p>-- Brendan Intindola, Wall Street Desk, 212-859-1734.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

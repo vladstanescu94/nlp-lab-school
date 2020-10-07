@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466932" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: U.S. lawmakers concerned about &quot;millennium bug&quot;.</title>
+<headline>U.S. lawmakers concerned about &quot;millennium bug&quot;.</headline>
+<dateline>WASHINGTON 1997-03-24</dateline>
+<text>
+<p>A group of U.S. lawmakers said on Monday they were concerned about the potential hazard to consumers from the so-called &quot;millennium bug&quot; which, if not corrected, will disrupt computer systems when the year changes to 2000.</p>
+<p>They called on federal regulatory agencies to assess the possible consequences of the problem and for manufacturers to determine which products may be affected.</p>
+<p>The problem is in computer software and microchips that will read 2000 as 1900. Microchips that could be affected are used in products such as security systems, parking lot gates, telephone systems, automatic teller machines, sprinkler systems, video recorders, medical devices, and factory machinery, said Rep. Stephen Horn, a California Republican.</p>
+<p>&quot;Where there is failure, the economic and legal consequences could be substantial,&quot; Horn said. &quot;We are concerned that technological failure may also present health and safety problems.&quot;</p>
+<p>The lawmakers said they were sending a congressional oversight letter to various regulatory agencies, such as the Federal Trade Commission, that have power to increase public awareness.</p>
+<p>&quot;If this letter and current regulatory authority prove insufficient to raise the profile of this issue and to get the attention of manufacturers making defective products, Congress will have to consider legislation,&quot; Horn said.</p>
+<p>&quot;Whether it is the corruption of financial information or the breakdown of countless consumer products, we know that the ultimate legal cost could be two to three times greater than the costs of repairing and replacing faulty software and microchips,&quot; he said.</p>
+<p>The letter asked the agencies whether they had communicated with private industry about the potential consequences of the problem.</p>
+<p>Rep. Carolyn Maloney, a New York Democrat, said in a statement she was calling on the manufacturing industry to begin a thorough assessment of which commercial products have embedded chips that could cause failure on Jan. 1, 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

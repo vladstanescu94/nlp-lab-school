@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="782415" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: FULL TEXT - Microsoft to invest $150 mln in Apple.</title>
+<headline>FULL TEXT - Microsoft to invest $150 mln in Apple.</headline>
+<dateline>BOSTON 1997-08-06</dateline>
+<text>
+<p>Apple Computer Inc and Microsoft Corp Wednesday announced a broad technology agreement under which Microsoft will invest $150 million in non-voting Apple stock. The following is a copy of the companies' statement.</p>
+<p>-------------------- NEWS RELEASE ------------------</p>
+<p>BOSTON, Aug. 6 /PRNewswire/ -- In a keynote address delivered today at MacWorld Boston, Apple Computer Inc. director and co-founder Steve Jobs and Microsoft Corp., chairman and CEO Bill Gates announced a broad product and technology development agreement between Apple and Microsoft including the following:</p>
+<p>* Microsoft will develop and ship future versions of its popular Microsoft Office productivity suite, Internet Explorer and other Microsoft tools for the Mac platform.</p>
+<p>* Apple will bundle the Microsoft Internet Explorer browser with the Mac OS, making it the default browser in future operating system software releases.</p>
+<p>* The companies agreed to a broad patent cross-licensing agreement.  It paves the way for the two companies to work more closely on leading-edge technologies for the Mac platform.</p>
+<p>* Apple and Microsoft plan to collaborate on technology to ensure compatibility between their respective Virtual Machines for Java and other programming languages.</p>
+<p>* To further support its relationship with Apple, Microsoft will invest $150 million in non-voting Apple stock.</p>
+<p>&quot;In 1984, Steve Jobs and I stood together when Microsoft announced Microsoft Excel, an application that is widely credited with helping to define the potential of the Mac as a great applications platform,&quot; said Gates. &quot;Today's announcements underscore our continued belief in the Mac as a platform for applications and leading-edge Internet technologies.  Microsoft has millions of customers who rely on Macintosh technology and they can be assured that Microsoft products for the Mac will continue to be available.&quot;</p>
+<p>&quot;We are thrilled at the prospect of working more closely with Microsoft on applications and Internet software,&quot; said Jobs.  &quot;We are confident that this is the beginning of a much closer relationship between the two companies, which will greatly benefit our common customers.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

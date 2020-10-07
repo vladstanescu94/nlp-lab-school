@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20113" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: Datametrics Corp Q3 loss widens.</title>
+<headline>Datametrics Corp Q3 loss widens.</headline>
+<dateline>WOODLAND HILLS, Calif. 1996-08-28</dateline>
+<text>
+<p>Third Quarter and Nine-Month Period Ended July 28, 1996</p>
+<p>			(In 000s, except per-share data)</p>
+<p>				Three months ended  Nine months ended</p>
+<p>				  7/28/96   7/30/95  7/28/96  7/30/95</p>
+<p> Revenues			 $5,931   $4,790  $14,279  $12,138</p>
+<p> Gross profit			975	914    2,563    2,205</p>
+<p>Engineering, research &amp;</p>
+<p>   development		   1,116    1,688    4,494    4,334</p>
+<p> Net (loss)		     (2,829)  (2,166)  (8,180)  (6,216)</p>
+<p>Earnings (loss) per share -</p>
+<p>primary and fully diluted</p>
+<p>				    (0.23)   (0.20)   (0.64)   (0.60)</p>
+<p>Weighted avg shares</p>
+<p>outstanding - primary</p>
+<p>   and fully diluted	  12,491   11,137   12,709   10,444</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOODLAND HILLS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95769" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Microsoft says online bills will be late.</title>
+<headline>Microsoft says online bills will be late.</headline>
+<dateline>SEATTLE 1996-10-04</dateline>
+<text>
+<p>Microsoft Corp. said on Friday that customers of its online Microsoft Network will be charged for several months' worth of accumulated service due to billing problems that are being fixed.</p>
+<p>In a letter sent to the service's 1.6 million members, Microsoft Vice President Laura Jennings said that over the next four to eight weeks, customers will open their credit card statements and discover charges dating back several months.  </p>
+<p>&quot;We realize that it's not very pleasant to be faced with charges incurred some months ago, and we apologize for any inconvenience these delays may have caused,&quot; Jennings said in the letter.</p>
+<p>A Microsoft source who asked not to be identified said the billing backlog, which dates to June, stemmed from a series of problems tied to the rapid growth of the service.</p>
+<p>&quot;The billing system didn't scale well with the increase in membership,&quot; the source said. &quot;There wasn't one single problem -- it was architecture, it was infrastructure.&quot;</p>
+<p>The source said the vast majority of accumulated bills will be less than $50 per member.</p>
+<p>Jennings said Microsoft is &quot;continuing to make additional improvements&quot; to the billing system, but initial repairs have been made, allowing the company to resume billing.</p>
+<p>The credit card statements with the accumulated bills will include a prominently displayed toll-free telephone number, and representatives will work with customers individually to resolve problems, the company said.</p>
+<p>	 -- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

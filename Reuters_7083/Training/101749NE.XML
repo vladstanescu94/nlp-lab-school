@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101749" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: PSINet customers more than doubled in Q3.</title>
+<headline>PSINet customers more than doubled in Q3.</headline>
+<dateline>HERNDON, Va. 1996-10-08</dateline>
+<text>
+<p>Internet service provider PSINet Inc said on Tuesday that it served 15,062 corporate customers during the third quarter, more than double its customer count of 6,200 in the year-ago period.</p>
+<p>The company said its Annualized Subscriber Retention Rate, the number of retained customers, was 96.8 percent, improving from 82.7 percent in the third quarter 1995.</p>
+<p>The company said new business customers appear to be shifting to higher bandwidth services, with about 40 percent picking circuit connections, and 50 percent of those attaching to PSINet at T1 speeds or higher.</p>
+<p>PSINet said it will release third quarter results October 23. First Call consensus puts the company earnings at a $0.29 per share loss for the quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HERNDON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

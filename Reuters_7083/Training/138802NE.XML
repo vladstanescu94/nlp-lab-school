@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138802" id="root" date="1996-10-23" xml:lang="en">
+<title>GERMANY: Deutsche cuts SAP to neutral.</title>
+<headline>Deutsche cuts SAP to neutral.</headline>
+<dateline>FRANKFURT 1996-10-23</dateline>
+<text>
+<p>Deutsche Morgan Grenfell, the research arm of Germany's Deutsche Bank AG, said on Wednesday it had cut its recommendation for business software group SAP AG to &quot;neutral&quot; from &quot;overweight.&quot;</p>
+<p>SAP had issued an unexpected profit warning on Tuesday evening, revising its 1996 revenue forecast to 3.5 billion marks from 3.8 billion marks.</p>
+<p>Deutsche MG analyst Juergen Hackenberg told Reuters he had also cut his earning per share estimates for SAP for this year and next.</p>
+<p>Hackenberg has reduced the EPS estimates, according to the DVFA analysis method, to 5.20 marks for 1996 and 7.20 marks for 1997 from 5.75 marks and 7.60 marks respectively.</p>
+<p>SAP preferred shares are listed on the DAX blue chip index and are more actively traded than its ordinary shares.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="737313" id="root" date="1997-07-17" xml:lang="en">
+<title>GERMANY: Bayer introduces SAP's R/3 group-wide.</title>
+<headline>Bayer introduces SAP's R/3 group-wide.</headline>
+<dateline>WALLDORF, Germany 1997-07-17</dateline>
+<text>
+<p>German chemicals giant Bayer AG has bought the general licence to use software company SAP AG's R/3 software system group-wide, SAP said on Thursday in a statement.</p>
+<p>Bayer plans to use the R/3 client-server software to run finance, personnel and logistics, as well as exploit R/3's intra- and internet capabilities, SAP added.</p>
+<p>Bayer becomes the third large German chemicals group after Hoechst and BASF to buy the R/3 package, and around 600 companies in the sector worldwide now use the software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

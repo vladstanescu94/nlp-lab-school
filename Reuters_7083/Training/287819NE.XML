@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287819" id="root" date="1997-01-06" xml:lang="en">
+<title>USA: Apple says existing software will work with NeXT.</title>
+<headline>Apple says existing software will work with NeXT.</headline>
+<dateline>SAN FRANCISCO 1997-01-06</dateline>
+<text>
+<p>Apple Computer Inc's Macintosh computers bought today will be able to run the new generation of software the company is developing with the help of recently acquired NeXT Software Inc, Apple's head of development Ellen Hancock said Monday.</p>
+<p>Hancock assured major Macintosh customers that their investment in Apple's computers will not be obsolete when Apple releases a new operating system based on NeXT technology.  </p>
+<p>While Apple is working on the new software, the company also will release improved versions of the existing Macintosh operating system -- dubbed System 7 -- later this month and in early summer, Hancock said.</p>
+<p>&quot;Let me assure you that System 7 is not going to be abandoned,&quot; Hancock said at a presentation here. This year &quot;will be the biggest year ever in releasing system software.&quot;</p>
+<p>In recent months, Apple has been criticized for not moving quickly enough to improve the Macintosh operating system -- the computer program that controls the basic functions of the machine.  </p>
+<p>While Apple's chief competitor Microsoft Corp has released two major revisions of its Windows operating system in the past two years, Apple has not overhauled the Macintosh System 7 software since 1991.</p>
+<p>To get an overhaul effort going quickly, Apple agreed in December to buy NeXT Software for $400 million. Apple will use NeXT's software technology to write a next-generation operating system for the Mac.</p>
+<p>Since the announcement of the acquisition, Apple customers have been worried that software they have bought for System 7 would not work with a NeXT-based operating system.  </p>
+<p>&quot;We do see System 7 enhanced and supported for the next several years,&quot; Hancock said. &quot;We do have a dual operating system strategy.&quot;</p>
+<p>Hancock said Apple will release later this month an improved version of System 7, code-named Harmony. Apple will release another System 7 revision -- dubbed Tempo -- in early summer.</p>
+<p>Hancock did not say when the next-generation operating system -- code named Rhapsody -- will be released. Other Apple executives said it could be as early as late 1997.</p>
+<p>-- Kourosh Karimkhany in San Francisco, +1 415 269 6931</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

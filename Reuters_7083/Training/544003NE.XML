@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544003" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: General Magic shows personal assistant.</title>
+<headline>General Magic shows personal assistant.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN DIEGO, Calif. 1997-04-28</dateline>
+<text>
+<p>General Magic Inc. Monday demonstrated components of a new service that will let people use phones, pagers and the Internet itself to keep track of schedules, electronic mail, voice mail and telephone call processing.</p>
+<p>The service, code-named Serengeti will allow mobile workers to check and respond to electronic mail and scheduling details from the road using voice commands.</p>
+<p>The system may compete with voicemail providers like Octel Communications Inc. and Siemens' Rolm systems, as well as electronic mail readers which small startups are developing, but it appears to be the first which integrates all these components into one service.</p>
+<p>For example, users can check their schedules by computer or cellular telephone, while also checking voice mail and electronic mail, and using everyday English to communicate with with the service.</p>
+<p>The service will be accessible from most devices, including desktop PCs as well as via telephones and pagers.</p>
+<p>General Magic Chairman Steve Markman said in an interview at the Upside/David Coursey Internet Showcase here that a pilot version of the service will enter testing in May and it could generate revenues later in 1997.</p>
+<p>&quot;Our focus is to make sure we've got the service right,&quot; said Markman, who unveiled the company's new business plan earlier this year and repeated that General Magic does not expect to make significant revenues from it until mid-1998.</p>
+<p>Executives declined to discuss pricing or distribution of the product, but said it would be available to individual mobile workers. Kevin Surace, who headed the Serengeti project, said it would cost less than &quot;hundreds of dollars.&quot;</p>
+<p>General Magic also announced a joint technology accord with Starfish Software, Inc., which was founded in 1994 by technologists including former Borland Inc. head Philippe Kahn to develop products focused on the Internet, wireless communications and computer telephony.</p>
+<p>Under the Starfish agreement, the two companies will work together to integrate Starfish's technology based on the Java programming language into General Magic's Serengeti service.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

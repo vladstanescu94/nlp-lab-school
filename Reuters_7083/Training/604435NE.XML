@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604435" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Novell confirms job reductions in Europe.</title>
+<headline>Novell confirms job reductions in Europe.</headline>
+<dateline>NEW YORK 1997-05-22</dateline>
+<text>
+<p>Novell Inc confirmed Thursday reports that it is cutting its European workforce by 15 percent, or about 50 positions.</p>
+<p>&quot;I can confirm that we have announced to our people in Europe a 15 percent reduction in our workforce there,&quot; said spokesperson Jonathan Cohen.</p>
+<p>The software company, based in Provo, Utah, also said it is assessing its global workforce structure.</p>
+<p>&quot;We are in the process of evaluating our business worldwide, including our workforce, but I can't comment any further at this time,&quot; Cohen said.  </p>
+<p>The company is expected to report second quarter results May 28. Cohen declined to comment on whether a more detailed announcement on job cuts would be made at that time.</p>
+<p>The European reductions were reported in the Wall Street Journal's electronic edition today.</p>
+<p>The trade publication Computer Reseller News, citing unnamed sources within Novell, this week said the company will undertake a 20 percent reduction in its worldwide workforce of 5,800 employees. About 1,150 people will be laid off, it said.</p>
+<p>The company's shares were off 1/8 at 7-7/8 in afternoon trading on Nasdaq.</p>
+<p>((--New York Nesdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

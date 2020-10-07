@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="783035" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Microsoft to invest $150 million in Apple - sources.</title>
+<headline>Microsoft to invest $150 million in Apple - sources.</headline>
+<dateline>BOSTON 1997-08-06</dateline>
+<text>
+<p>Microsoft Corp.  is set to announce that it will invest $150 million in Apple Computer Inc. as a sign of its strengthening commitment to Apple, sources close to Microsoft said Wednesday.</p>
+<p>As part of the agreement with Apple, Microsoft will continue its development of future versions of Microsoft Office, its software productivity suite, for the Apple Macintosh, as well as Internet Explorer for the Macintosh, the sources said.  </p>
+<p>A Microsoft source spoke to Reuters ahead of a keynote speech by Apple co-founder Steve Jobs, who is now acting as an adviser to Apple.</p>
+<p>The source said that as part of the deal, Apple will bundle Internet Explorer and future versions of Microsoft's browser software as Apple's primary browser for all Macintosh computers.</p>
+<p>The deal between Apple and Microsoft is a strengthening of their almost 20-year relationship, in which Microsoft has been the largest developer of software for Apple Computer.</p>
+<p>&quot;Our investment in Apple is a sign of our commitment to the Mac platform and our eight million Mac customers,&quot; the source said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

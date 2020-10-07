@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39116" id="root" date="1996-09-07" xml:lang="en">
+<title>USA: Netscape quashes rumors on eyeing Novell.</title>
+<headline>Netscape quashes rumors on eyeing Novell.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-09-07</dateline>
+<text>
+<p>Netscape Communications Corp on Saturday quashed emerging rumors that Netscape and Novell Inc could be eyeing a merger, saying its strategy and philosophy are opposite to Novell's.</p>
+<p>Conjecture in the industry this week about how Novell and Netscape would make a good marriage culminated in a report in Saturday's San Francisco Chronicle that sources said Netscape and Novell had held talks about a merger.</p>
+<p>But Netscape's chief spokesperson Andrea Cook said, &quot;That is completely unfounded,&quot; when asked about the Chronicle report. She added that Netscape &quot;would not be interested&quot; in a company whose products are based on proprietary closed networks. &quot;Our whole strategy and philosophy is open Internet protocols -- that is what Netscape is about,&quot; she said.</p>
+<p>Also Marc Andreessen, Netscape co-founder and senior vice president, shrugged off talk about the two making a good fit when asked about it last week.</p>
+<p>The conjecture about a combination of the two arose last week at industry trade shows following the abrupt resignation of Novell Chairman and Chief Executive Officer Robert Frankenberg.</p>
+<p>Novell's core product is NetWare, a proprietary network operating system which has a huge and valuable franchise in corporate America with some 60 percent share of the networking market. Novell also has many applications built to run on NetWare. However, its business has been threatened by the Internet and the recent but fast growing trend among corporations to build intranets from Internet software and protocols, a move which would stem sales of proprietary network products.</p>
+<p>Frankenberg resigned under pressure from Novell's board, in part because Novell hadn't moved fast enough to the Internet threat. It only recently took major steps to incorporate some Interent standards into its products.</p>
+<p>But Novell president Joe Marengi told the San Francisco Chronicle, &quot;I don't think they're interested in us and I know we aren't interested in them,&quot; about Netscape.</p>
+<p>Netcape, meanwhile, is the leading seller of Internet browser and server software, with an 80 percent share of the worldwide market for browsers.</p>
+<p>However, a number of people in the industry, such as Internet analyst David Readerman of Montgomery Securities, have suggested that Netscape needs something resembling an operating system to compete with Microsoft Corp, which in the past half year has charged head-on into the Internet market.</p>
+<p>With Microsoft having committed to putting its Internet Explorer browser into its next version of its Windows operating system, it would be wise for Netscape to build more of an operating system itself, industry people have said.</p>
+<p>Netscape has worked hard to position its Navigator browser and SuiteSpot Server products into an operating system-like platform, adding robust features to them and packaging them with applications into a &quot;Netscape's ONE open network environment.&quot; However, the platform is not technically synonymous with an operating system.</p>
+<p>Novell, too, is threatened by Microsoft as Microsoft's NT network operating system finally gains acceptance in the market place, as it has this year and Microsoft infuses its products with some Internet applications.</p>
+<p>But while the idea of a merger of Netscape and Novell became a topic of casual conversation in the industry this week, others said the idea does not make sense.</p>
+<p>Mike Zisman, chief executive of the Lotus Notes division of International Business Machines Corp Corp, a Novell rival, said of Netscape &quot;they already have too much going on to deal with&quot; adding that with if it had the financial wherewithal to conduct a merger it would occupy too much time for a company which must continue to develop new products at the rapid speed demanded to keep ahead in the Internet market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

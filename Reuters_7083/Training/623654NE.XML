@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="623654" id="root" date="1997-05-29" xml:lang="en">
+<title>USA: Leading privacy software, PGP, gets export okay.</title>
+<headline>Leading privacy software, PGP, gets export okay.</headline>
+<dateline>WASHINGTON 1997-05-29</dateline>
+<text>
+<p>Pretty Good Privacy Inc., which makes popular computer encoding and decoding software, said Thursday it received Commerce Department approval to export the product to a limited group of companies.</p>
+<p>The San Mateo, Calif., firm has been a leading critic of government export regulations on encryption, programmes that scramble information and render it unreadable without a password or software &quot;key.&quot;</p>
+<p>Despite receiving an export license, PGP continues to oppose the existing rules, said the company's general counsel, Robert Kohn.</p>
+<p>&quot;There are still a lot of limitations,&quot; Kohn said. &quot;We would like to see all controls removed.&quot;</p>
+<p>Other software firms critical of the rules have also gotten export licenses this year. They include Internet software maker Netscape Communications Corp. and database software company Sybase Inc.</p>
+<p>Under rules that took effect in January, the most powerful encryption software cannot be exported unless it includes features allowing the U.S. government to crack the codes. But the rules include an exemption for foreign subsidiaries of U.S. companies.</p>
+<p>PGP's new export license allows the company to export its most powerful coding software, but only to a preapproved list of foreign subsidiaries of Fortune 100 companies, ranging from AT&amp;T Corp. to Xerox Corp. Half of the 100 companies currently use PGP software, Pretty Good Privacy said.</p>
+<p>Congress is considering several bills that would allow powerful encryption to be freely exported without enabling government access.</p>
+<p>The Clinton administration opposes the bills, arguing that law enforcement and intelligence agencies need to be able to crack coded messages.</p>
+<p>The original PGP software was written by company founder Phil Zimmermann and given away free over the Internet. Millions of people now use the free version to safeguard electronic mail.</p>
+<p>The U.S. government considered prosecuting Zimmermann for violating the encryption export rules, since foreigners could also download the software for free, but eventually dropped the case.</p>
+<p>Zimmermann formed the company last year to market commercial versions of the software. In addition to programmes for e-mail, PGP will soon release software that will enable network computers known as servers to manage encryption keys, Kohn said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

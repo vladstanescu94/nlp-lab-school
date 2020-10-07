@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218045" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS - Issues to watch - Nov 26.</title>
+<headline>U.S. HEADLINE STOCKS - Issues to watch - Nov 26.</headline>
+<dateline>NEW YORK 1996-11-26</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>* EMC Corp rescinded its plan to buy back up to 15 million shares, citing possible conflicts between the plan and the pooling of interests method it has often used to account for acquisitions. EMC shares closed at 29-7/8 Monday.</p>
+<p>* Walt Disney Co is scheduled to report fourth quarter earnings. The First Call consensus estimate is $0.48 per share, versus $0.50 a year ago. Shares closed at 73-1/2.  </p>
+<p>The New York Times reported Tuesday that Chinese government officials have warned Disney they may reconsider allowing the company to invest in the country because of Disney's plans to produce a movie based on the life of the Dalai Lama.</p>
+<p>* Hughes Electronics Corp's Space and Communications unit signed a contract with Japan's Rocket System Corp for 10 launches of the private company's H-IIA rocket, plus an undisclosed number of options. The Wall Street Journal said the deal, including the options, is worth more than $1 billion. The shares closed at 53.  </p>
+<p>* Lycos Inc reported a first quarter loss of $0.20 per share, versus a loss of $0.03 a year ago. The shares closed at 11-1/2.</p>
+<p>* Health Management Systems Inc reported fourth quarter earnings of $0.16 per share, versus $0.17 a year ago. The shares closed at 17-3/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183253" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Rational, SQA to merge in shr swap.</title>
+<headline>Rational, SQA to merge in shr swap.</headline>
+<dateline>SANTA CLARA 1996-11-12</dateline>
+<text>
+<p>Rational Software Corp and SQA Inc said on Tuesday that they have signed a merger agreement in which Rational will trade 0.86 of one of its shares for each outstanding share of SQA.</p>
+<p>Rational said it expects to take a one-time charge in its fourth quarter of fiscal 1997, ending in March 1997, to account for the acquisition, but it did not disclose an estimated amount for the charge.  </p>
+<p>Rational develops and markets component-based software systems based on visual modeling and object technology. SQA makes automated testing products of Windows-based client/server software.</p>
+<p>The combined company will employ roughly 680 people and be based in Santa Clara, Calif. SQA will continue to maintain an office in Burlington, Mass.</p>
+<p>Upon completion of the merger, Ron Nordin, SQA's chief executive will become a Rational senior vice president and will join Rational's board of directors.</p>
+<p>Board members and officers of SQA have agreed to vote their shares in favor of the merger. SQA also has granted Rational an option to purchase newly issued shares equal to about 15 percent its SQA's currently outstanding shares, which will be excercisable upon certain events.</p>
+<p>SQA has agreed not to solicit or encourage alternative proposals. The merger is expected to close in the first quarter of calendar 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

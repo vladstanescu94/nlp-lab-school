@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="464288" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: SGI boosted by increased PC industry support.</title>
+<headline>SGI boosted by increased PC industry support.</headline>
+<dateline>SAN JOSE, California 1997-03-24</dateline>
+<text>
+<p>Silicon Graphics Inc. (SGI) said top PC industry players, including Intel Corp and Compaq Computer Corp, are boosting SGI's 3D graphics with new or upgraded licensing.</p>
+<p>In total, Silicon Graphics said eight companies had taken out top-of-the-line Level 3 licenses for its OpenGL standard, which enables them to distribute optimized OpenGL driver source code.</p>
+<p>The license further broadens support of the Silicon Graphics standard on personal computer graphics acceleration hardware just as some industry analysts have warned the personal computers are challenging SGI at the low end of its graphics-intensive computing business.</p>
+<p>Already Silicon Graphics is able to boast a wide use of its 3D graphics applications programming interface on the personal computer platform, with more than 50 current licenses ranging from International Business Machines Corp. and Hewlett-Packard Co. to Sun Microsystems Inc. and Microsoft Corp..  </p>
+<p>Every PC shipped with Microsoft's Windows NT and Windows 95 has essentially shipped with OpenGL pre-installed for 3D graphics, according to John Schimph, OpenGL product manager as Silicon Graphics.</p>
+<p>Schimph told Reuters ahead of a formal announcement of the new licensing deals at Intel's Platforms for Visual Computing forum here on Monday that every major systems vendor except Apple Computer Inc., which is covered by a third party, now licenses OpenGL.</p>
+<p>&quot;It makes sense to be in the middle of it,&quot; he said of Silicon Graphics' efforts to set the standard for the personal computer industry at the same time as it aims to continue to stay ahead of PC technology at the leading edge of graphics computing where it markets systems.</p>
+<p>The standard enables complex graphics applications which already exist on OpenGL to be migrated to the personal computer platform, bringing increasingly complex computing tasks to the average desktop user.</p>
+<p>Intel will itself increase its OpenGL license to a level three, helping it accelerate time to market using the technology. &quot;Intel are very committed to 3-D graphics on the PC platform,&quot; Schimph said.  </p>
+<p>He noted that increased use of more complex graphics can help drive sales of Intel's fastest processors.</p>
+<p>Other new licensees include 3D graphics chip makers 3Dfx Interactive and Rendition, along with add-in graphics board makers ELSA Gmbh, Number Nine and InterDemension.</p>
+<p>Companies joining Intel in upgrading its license to the top level include AccelGraphics, SGI said.</p>
+<p>Costs for the licensing range from $100,000 for a level one license to a $300,000 up-front fee for a level three license, plus royalties beginning at $5 for each copy distributed but dropping for volume shipments.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

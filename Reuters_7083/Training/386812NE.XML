@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386812" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: H-P to acquire Symantec's network mgt unit.</title>
+<headline>H-P to acquire Symantec's network mgt unit.</headline>
+<dateline>PALO ALTO, Calif. 1997-02-19</dateline>
+<text>
+<p>Hewlett-Packard Co and Symantec Corp Wednesday said they signed a nonbinding letter of intent for HP to purchase the assets of Symantec's Networking Business Unit and incorporate it as part of HP's OpenView system- and network-management business.</p>
+<p>HP said it will make a stream of payments over two years to Symantec not to exceed a present value of $30 million. Symantec also expects to incur a one-time charge of $8 million to $10 million as a result of the transaction.  </p>
+<p>HP said it is purchasing three parts of Symantec's Norton Administrator Suite: Norton Administrator for Networks, Expose, real-time server-mangement software for Windows NT, Banyan Vines and NetWare servers, and Norton Desktop Administrator for PC configuration and trouble-shooting.</p>
+<p>Hewlett-Packard executives said in a conference call with media that they want to build on existing products, distribution channels and customers to expand into what they said is an exploding market for network management products.</p>
+<p>HP plans to market the products under its OpenView product family, the executives said.</p>
+<p>HP said Symantec will make available its current products until Hewlett-Packard produces the next version of the products, which it aims to do in the second half of 1997.</p>
+<p>Symantec's Networking Business Unit and 85 of its employees are due to be incorporated into HP's Network and System Management Division (NSMD), and HP will operate the new unit at its current Santa Monica, Calif., location, it said.</p>
+<p>Symantec said the deal allows it to focus on its core business in productivity and security software solutions.</p>
+<p>HP executives said they do not plan to change the products at first, but may expand them towards high-end applications. =4</p>
+<p>HP will be responsible for customer support and service.</p>
+<p>Current customers with active Symantec upgrade insurance will be automatically upgraded to new HP OpenView versions of the Symantec products for the term of their insurance.</p>
+<p>The deal extends a business and marketing alliance between HP and Symantec that began in 1994 and HP has licenced Symantec products for inclusion in its OpenView line.    HP said its HP</p>
+<p>OpenView products are installed on more than 100,000 networks around the world.</p>
+<p>-- Reuters Palo Alto Bureau, +415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

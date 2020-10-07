@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="498157" id="root" date="1997-04-09" xml:lang="en">
+<title>UK: Oxford Molecular progress on cancer antibody.</title>
+<headline>Oxford Molecular progress on cancer antibody.</headline>
+<dateline>LONDON 1997-04-09</dateline>
+<text>
+<p>Britain's Oxford Molecular Group said on Wednesday that it had completed a collaboration to humanise the C242 monoclonal antibody for potential use in anticancer phamaceuticals to treat colorectal cancer.  </p>
+<p>Oxford Molecular said it had signed the collaboration with ImmunoGen Inc and would have exclsuive rights to its resurfacing technology.</p>
+<p>Immunogen holds all rights to this potential oncology drug and would be responsible for product development and commercialisation for treatment of colorectal cancer.</p>
+<p>Oxford Molecular said the combination of its molecular modelling software with ImmunoGen's technology would be a powerful tool for humanising monoclonal antibodies.</p>
+<p>Monoclonal antibodies are proteins that bind specifically to unique markers called antigens, often found on the surface of cells.</p>
+<p>Immunogen had received permission from U.S. authorities last January for the antibody resurfacing technology which is a method that makes mouse monoclonal antibodies appear human to the body's immune system.</p>
+<p>Without humanisation, the immune system recognises mouse antibodies as foreign and would reject them.</p>
+<p>The technology was codeveloped by Immunogen scientists and Anthony Rees, a founding director of Oxford Molecular.</p>
+<p>--London Newsroom +44 171 542 4366</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

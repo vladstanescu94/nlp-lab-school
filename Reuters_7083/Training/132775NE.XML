@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132775" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: AMISYS Managed Care Systems Q3 net rises.</title>
+<headline>AMISYS Managed Care Systems Q3 net rises.</headline>
+<dateline>ROCKVILLE, Md. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr		  $0.15		    $0.17</p>
+<p> Net		  1,217		    987</p>
+<p> Revs		 10,967		   9,108</p>
+<p> Avg shrs	   8,241		    5,900</p>
+<p>			NINE MONTHS</p>
+<p> Shr		  $0.37		    $0.14</p>
+<p> Net		  3,024		    822</p>
+<p> Revs		 32,168		   23,192</p>
+<p> Avg shrs	   8,145		    5,900</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTES: Full name is AMISYS Managed Care Systems Inc.</p>
+<p>First Call consensus estimate for Q3 was $0.14/share.</p>
+<p>1995 results include no provision for income taxes. Third quarter earnings, if taxed, would have been $0.11 per share and nine month earnings would have been $0.09 per share.</p>
+<p>-- New York Newsdesk, 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKVILLE, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

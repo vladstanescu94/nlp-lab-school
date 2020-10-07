@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567497" id="root" date="1997-05-07" xml:lang="en">
+<title>GERMANY: SAP unlikely to see insider fine-executive.</title>
+<headline>SAP unlikely to see insider fine-executive.</headline>
+<dateline>MANNHEIM, Germany 1997-05-07</dateline>
+<text>
+<p>German software developer SAP AG was unlikely to face fines as a result of an inside trading investigation by Frankfurt prosecutors, management board member Henning Kagermann told Reuters on Wednesday.</p>
+<p>The company itself probably will not face penalties because the investigation is focusing on trades by individual employees, he said after the company's SAP annual meeting.</p>
+<p>&quot;It is unlikely SAP would have to pay a fine,&quot; he said. The investigation &quot;is not against the firm. It is against individuals.&quot;</p>
+<p>The investigation centres on trading in shares of derivatives after a third quarter results announcement last year. SAP shares fell 23 percent after the company said on October 22 that growth weakened in the third quarter.</p>
+<p>Frankfurt prosecutors said earlier this week they were looking at trades by more than 100 people, including employees, their relatives and friends.</p>
+<p>SAP was conducting an internal investigation to see if it should take steps to guard insider information more closely, Kagermann said. But it was not investigating the actions of its employees.</p>
+<p>Members of SAP's supervisory and management boards have signed statements saying they at no time used insider data for trades, the company told shareholders.</p>
+<p>Kagermann told Reuters he owns some SAP shares but does not trade them. &quot;I never do that,&quot; he said.</p>
+<p>--Neal Boudette, Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANNHEIM, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718309" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Magic Software sees Q2 loss of $4.3 mln.</title>
+<headline>Magic Software sees Q2 loss of $4.3 mln.</headline>
+<dateline>NEW YORK 1997-07-10</dateline>
+<text>
+<p>Magic Software Enterprises Ltd said Thursday it expects a net loss of about $4.3 million for the quarter ended June 30 on revenues of about $9.0 million.</p>
+<p>The company said the loss includes about $2.6 million of non-recurring expenses.</p>
+<p>Included in the non-recurring expenses were restructuring costs, including employee dismissal and relocation expenses, of about $1.6 million.</p>
+<p>The company said it also includes a $1.0 million charge, which represents the cumulative effect of changes in accounting treatment of Israeli Government sponsored R&amp;D grants from a new agreement with the Israeli Ministry of Industry and Trade's Office of the Chief Scientist.</p>
+<p>The company also said its expected loss a result of &quot;sub-critical-mass sales&quot; in several of its major markets.</p>
+<p>In response to the need for improved results, the company said it will be making operating changes and relocations across North America and Japan.</p>
+<p>The company expects to release its second quarter results on August 4.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

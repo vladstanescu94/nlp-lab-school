@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44644" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: FULL TEXT - Netscape unveils Navigator Gold 3.0.</title>
+<headline>FULL TEXT - Netscape unveils Navigator Gold 3.0.</headline>
+<dateline>MOUNTAIN VIEW 1996-09-10</dateline>
+<text>
+<p>Netscape Communications Corp Tuesday unveiled the latest version of its Netscape Navigator Gold 3.0 software. The following is the company's news release.</p>
+<p>------------------ PRESS RELEASE --------------------</p>
+<p>MOUNTIAN VIEW, Calif., Sept. 10 /PRNewswire/ -- Netscape Communications Corporation (Nasdaq: NSCP) today announced the delivery of Netscape Navigator(TM) Gold 3.0, the newest version of Netscape's premier client software that combines an integrated suite of Intranet applications to facilitate information creation, access and collaboration within the enterprise. Netscape also announced that several leading companies have licensed Netscape Navigator Gold for their enterprises.  Autodesk, Borland, Chrysler, FORE Systems, Inc., LSI Logic, Union Bank of Switzerland, Wells Fargo and Xilinx are among Netscape's customers that are using Netscape Navigator Gold 3.0 on their corporate desktops to provide a powerful Intranet communications and information sharing solution.</p>
+<p>More than two million users have already downloaded Netscape Navigator Gold since its debut earlier this year, making Netscape Navigator Gold one of the fastest growing Intranet software products.  Netscape Navigator Gold has approximately 10% marketshare of the Internet client software market.</p>
+<p>&quot;Our corporate customers are confirming that Netscape Navigator Gold is adding significant value to their businesses,&quot; said Mike Homer, senior vice president of marketing at Netscape.  &quot;Not only does Netscape Navigator Gold streamline internal operations, but it improves communications throughout an organization.  With Netscape Navigator Gold, everyone can now post information directly on the Intranet. Our customers confirm that these are critical capabilities for competing in today's corporate climate.&quot;</p>
+<p>Netscape Navigator Gold 3.0 enhances corporate productivity by providing a consistent, cross-platform solution that allows users to create Web pages, send content-rich electronic mail messages and publish documents to corporate Web and news servers, all from within the same application suite.  New features in Netscape Navigator Gold 3.0 include advanced HTML capabilities that allow users to drag and drop page links, graphics, Java applets and JavaScript into email and Web pages; strong protection features including 128- bit encryption (40-bit outside the U.S. and Canada); an Internet telephone and whiteboard tool; advanced audio, video and 3D capabilities; auto save features and consistent Intranet functionality across Macintosh, UNIX and Windows operating environments.</p>
+<p>Netscape Navigator Gold 3.0 builds upon core functionality such as an easy-to-use editing environment allowing &quot;what you see is what you get&quot; (WYSIWYG) results for even sophisticated Web pages that include tables and columns; automated Web page creation using Netscape's Page Wizard and document templates; one-button publishing to servers and the ability to run Netscape Plug-ins.</p>
+<p>&quot;In a corporation as vast and complex as Wells Fargo, timely information dissemination and transactions are critical.  We need business solutions that transcend different computing platforms, email programs and development languages,&quot; said Eric Hughes, vice president of Intranet development at Wells Fargo.  &quot;As a result, we have decided to use Netscape Navigator Gold so our employees can conveniently share information.&quot;</p>
+<p>&quot;Today's technology companies need to make sure that they have the right tools to compete in this fast-moving environment,&quot; said Gary Lang, director of Internet programs at Autodesk.  &quot;Relying on Web masters as an organization's sole content providers is analogous to relying on the typing pool of yesterday.  Netscape Navigator Gold not only allows users to surf the Web and includes news and email, it also provides employees with valuable new skills, allowing anyone in the enterprise to publish Intranet documents easily.&quot;</p>
+<p>With the combination of Netscape Navigator Gold and Netscape FastTrack Server(TM), users can quickly install their first Web server, create HTML content and one-button publish the content to their personal Web site. Netscape FastTrack Server for Windows 95 is easy to use and high performance. The product is based on the same architecture as Netscape SuiteSpot(TM) family of servers and includes such advanced features as built-in reporting tools and support for the Java and JavaScript programming languages so users can create and manage live content on their Web sites.</p>
+<p>Netscape Communications Corporation is a premier provider of open software for linking people and information over enterprise networks and the Internet. The company offers a full line of clients, servers, development tools and commercial applications to create a complete platform for next-generation, live online applications. Traded on Nasdaq the symbol &quot;NSCP,&quot; Netscape Communications Corporation is based in Mountain View, California.</p>
+<p>Additional information on Netscape Communications Corporation is available on the Internet at http://home.netscape.com, by sending email to infonetscape.com.  Corporate customers can call 415-937-2555 while consumers can call 415-937-3777 for more information.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476317" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: OCTuS Inc Year loss.</title>
+<headline>OCTuS Inc Year loss.</headline>
+<dateline>SAN DIEGO 1997-03-31</dateline>
+<text>
+<p>For the years ended Dec. 31, 1996 and 1995</p>
+<p>					     1996		1995</p>
+<p>Revenues:</p>
+<p>  Net sales				   0	    317,000</p>
+<p>  Royalties			    50,000	    936,000</p>
+<p>  Interest				    0		3,000</p>
+<p>  Non-recurring income		    0	    240,000</p>
+<p>					   50,000	  1,496,000</p>
+<p>Costs and expenses:</p>
+<p>  Cost of sales			     0	    191,000</p>
+<p>Selling, general and</p>
+<p>   administrative		   249,000	    702,000</p>
+<p>  Depreciation			 10,000	     14,000</p>
+<p>  Interest				7,000		2,000</p>
+<p> Total costs &amp; expenses	   266,000	    909,000</p>
+<p>Net (loss) gain before</p>
+<p>  income taxes		    (216,000)	    586,000</p>
+<p> Income tax benefit		  10,000	     34,000</p>
+<p> Net (loss) gain		    206,000	    620,000</p>
+<p> Extraordinary item		  15,000	     50,000</p>
+<p> Net income (loss)		(191,000)	    670,000</p>
+<p>Net (loss) gain per</p>
+<p>  common share			(5 cts)	     16 cts</p>
+<p> Shares used in calculation   4,222,922	  4,222,922</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

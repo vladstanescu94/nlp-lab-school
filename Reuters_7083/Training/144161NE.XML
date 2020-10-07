@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144161" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Astea International Inc Q3 net falls.</title>
+<headline>Astea International Inc Q3 net falls.</headline>
+<dateline>HORSHAM, Pa. 1996-10-25</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				    Three months	  Nine months</p>
+<p>				   ended Sept. 30,    ended Sept. 30,</p>
+<p>				    1996     1995	1996	1995</p>
+<p> Total revenues	   $17,490  $14,030    $43,868    $36,692</p>
+<p> Net income (loss)		 87   1,732  (19,120)     4,457</p>
+<p> Pro forma net income (loss)   87   1,287   (2,232)     2,966</p>
+<p>Pro forma net income (loss)</p>
+<p>per common and common</p>
+<p>  equivalent share	     0.01    0.10    (0.18)	0.28</p>
+<p>Shares used in computing</p>
+<p>  per share amounts	  13,608  12,419    12,754    10,653</p>
+<p>NOTE: Company completed an acquisition with Abalon AB on June 28, 1996. The acquisition was accounted for as a purchase transaction. On Februanry 27, 1996, the company completed a merger with Bendata Inc, which was accounted for as a pooling of interests.</p>
+<p>1996 nine month period includes $3,416,000 of merger expenses ($2,609,000 after-tax) from the Bandata merger and a $13.8 million charge from the Abalon purchase.</p>
+<p>Prior to Astea's acquisition of Bendata and the first seven months of 1995 for Astea, both companies were taxed as subchapter S corporations. 1996 nine month periods include a charge of $575,000 for the reinstatement of a deferred income tax liability for Bendata. Excluding this charge, the Company recorded an income tax benefit of $267,000, or an effective tax rate of 15.5 percent.</p>
+<p>The pro forma excludes charges and shows as if the companies were taxed as C corporations.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HORSHAM, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

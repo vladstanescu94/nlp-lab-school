@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181971" id="root" date="1996-11-12" xml:lang="en">
+<title>UK: Computer hitch makes 2000 costly challenge - banker.</title>
+<headline>Computer hitch makes 2000 costly challenge - banker.</headline>
+<dateline>BELFAST 1996-11-12</dateline>
+<text>
+<p>The new millennium could pose a 600 billion pound nightmare for worldwide business due to a simple computer software problem, an economic conference was told on Tuesday.</p>
+<p>&quot;The business impact is staggering, not only in the rectification costs needed to avoid failure but also in the attendant business interruptions which will occur,&quot; John White, head of European technology and operations at National Australia Bank, said.  </p>
+<p>Urging companies to undertake an urgent impact analysis of the year 2000, White said the hitch centred on the fact that most computer systems treat dates as two digits.</p>
+<p>For example, 1996 is stored as 96 with the built-in assumption that the century is the 20th, he explained in a news release issued by conference organisers Northern Bank.</p>
+<p>The problem arises, he said, when the system has to process data which carries a 21st century date -- anything from 2000 onwards.  </p>
+<p>White told 150 business people from British Northern Ireland and the Irish Republic: &quot;It is the logistical nature and not the technical nature of the problem which is a cause of great concern because if it is not dealt with quickly, IT systems in many organisations will undoubtedly fail.&quot;</p>
+<p>Industry experts were predicting that the global costs of solving the problem could reach 600 billion pounds, with the vast majority of data handling software at risk of failure, and that 60 percent of IT budgets would have to be committed to its resolution.  </p>
+<p>&quot;To manage the impact of the Year 2000, businesses should address the issue in three stages by increasing awareness of the issue, assessing the impact which it will have in their organisation and by developing a plan of action based on reducing risk and minimising cost.</p>
+<p>&quot;This is what we have undertaken with our impact analysis study throughout the National Australia Group.&quot;</p>
+<p>Northern Bank is a unit of National Australia Bank.</p>
+<p>-- Belfast Newsroom +44 1232 315253</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELFAST"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

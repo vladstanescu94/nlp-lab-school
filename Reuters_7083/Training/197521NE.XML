@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197521" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: CheckPoint to sell open security system.</title>
+<headline>CheckPoint to sell open security system.</headline>
+<dateline>REDWOOD CITY, Calif. 1996-11-17</dateline>
+<text>
+<p>CheckPoint Software Technologies Ltd said it will on Monday announce an open architecture for network security in a bid to foster third-party development in the fast-growing market.</p>
+<p>The company's Open Platform for Securit Enterprise Connectivity (OPSEC) will provide a single platform with published application programming (APIs) enabling customers to integrate CheckPoint applications with those of other vendors.</p>
+<p>&quot;We have been seeing in this market for network security an explosion of functionality...driven by our customers in a manner I haven't seen before,&quot; said Deborah Triant, president and chief executive of CheckPoint Software Technologies Inc., the company's U.S. operating unit.</p>
+<p>&quot;We're seeing the customers driving a very rapid set of demands on what network security is capable of doing,&quot; she said in an interview prior to announcing the new platform.</p>
+<p>Research firm International Data Corp estimates CheckPoint is the largest single provider of firewalls, which protects company computer networks from tampering from the outside such as through the Internet. It said CheckPoint commands a 40 percent share of the overall market.</p>
+<p>Triant said CheckPoint will also on Monday release the results of a study by International Data Corp, sponsored by CheckPoint, which found that more than 87 percent of the 100 network managers polled in the survey said they needed to provide remote access to sensitive corporate data.</p>
+<p>This further underscores the need for secure firewalls, like CheckPoint's flagship Firewall-1 product, which enables customers to deploy virtual private networks connecting private networks with public segments, including the Internet.</p>
+<p>The survey also found of those polled that 64 percent are currently providing access to in-house custom applications and 28 percent are extending this capability to outside users.</p>
+<p>Furthermore, two out of three of those surveyed are already implementing an intranet -- a company network using Internet technology.</p>
+<p>Triant said the unveiling of OPSEC aims to make it easier for customers to choose system components from a variety of suppliers, but also will enable CheckPoint to spread the use of its INSPECT programming language.</p>
+<p>CheckPoint will, for example, provide firewall software modules containing an INSPECT Virtual Machine which implements the security policy set by each individual organization.</p>
+<p>Third-party applications will be able to be plugged into the INSPECT Engine, software which operates at the center of the security system. CheckPoint said it will publish APIs for third-party integration of protocols for scanning to find computer viruses and monitoring suspicious activity.</p>
+<p>It will also publish an API for the filtering of Unique Resource Locators, or URLs, the addresses used on the Internet's World Wide Web multimedia section.</p>
+<p>-sam.perry@reuters.com, Silicon Valley Bureau 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

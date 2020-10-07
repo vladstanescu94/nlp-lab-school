@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="628702" id="root" date="1997-05-31" xml:lang="en">
+<title>SINGAPORE: SingTel forms multimedia forum.</title>
+<headline>SingTel forms multimedia forum.</headline>
+<dateline>SINGAPORE 1997-05-31</dateline>
+<text>
+<p>Singapore Telecommunications Ltd (SingTel) said on Saturday it had joined 11 companies to form a body to promote, develop and implement multimedia application services in Singapore.</p>
+<p>Members of the Singapore Multimedia Forum include IPC Corp and the Singapore divisions of Compaq Computer Corp and Oracle Corp, SingTel said in a statement.</p>
+<p>It said members of the group would conduct joint multimedia tests, develop and promote new applications, which could be turned into commercially viable services for Singapore users.</p>
+<p>SingTel said it would launch a broadband multimedia service to telephone subscribers in June, providing access to full-screen video, interactive learning, high-speed Internet and other applications.</p>
+<p>-- Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

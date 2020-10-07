@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107364" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: MDL Information sees lower Q2 shr.</title>
+<headline>MDL Information sees lower Q2 shr.</headline>
+<dateline>SAN LEANDRO, Calif. 1996-10-10</dateline>
+<text>
+<p>MDL Information Systems Inc said Thursday it expects earnings per share for its second quarter to be between $0.10 a share and $0.12 compared to $0.19 a share in the year-ago period.</p>
+<p>The company also said it expects revenues for the quarter, ended September 30, to be in the range of $15 million to $16 million, an increase from $14 million in the year-ago period.  </p>
+<p>&quot;Although the USA and Asia/Pacific met or exceeded their goals, Europe was below its revenue plan,&quot; said Steven Goldby, chairman and chief executive officer.</p>
+<p>&quot;Two substantial orders that were expected to close, did not, resulting in lower than expected revenues and earnings per share,&quot; he added.</p>
+<p>MDL said its customers are the world's leading pharmaceutical and chemical companies, and the timing of large orders can impact quarterly results.</p>
+<p>MDL is a provider of integrated scientific information management systems for pharmaceutical and related companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN LEANDRO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

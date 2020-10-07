@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="684513" id="root" date="1997-06-24" xml:lang="en">
+<title>AUSTRALIA: Shortage of Millennium Bug fixers seen - expert.</title>
+<headline>Shortage of Millennium Bug fixers seen - expert.</headline>
+<dateline>SYDNEY 1997-06-24</dateline>
+<text>
+<p>There was likely to be a shortage of resources to fix Millennium Bug problems which could result in many companies not being able to afford to solve them, an expert on the issue said on Tuesday.</p>
+<p>&quot;There won't be enough resources,&quot; said Nick Montague, managing principal at HDS Pty Ltd, a computer solution unit of Japanese electronics group Hitachi Ltd.</p>
+<p>&quot;The feeling in the market is that the requirement for resources will be four times greater than the provision,&quot; Montague told Reuters after giving a speech to a Millennium Bug seminar at Sydney's Opera House.  </p>
+<p>&quot;Then people will be left with escalating prices for solutions. Opportunists are going to come into the market without full credentials, who are going to create more problems than they solve,&quot; Montague said.</p>
+<p>The Millennium Bug is a global programming problem that will cause many computers to view the year 2000 as the year 1900. The bug will occur as a result of a programming fault which only allows computers to accept the last two digits of a year.  </p>
+<p>The fault stems from old programming languages such as COBOL that stored the last two digits to save disk space. Speakers at the seminar noted that salaries for some COBOL programmers had risen dramatically to about US$200,000 recently.</p>
+<p>Montague said that kind of salary was not commanded in Australia yet but added: &quot;Clearly one can expect that the costs are going to increase exponentially.&quot;</p>
+<p>The Millennium Bug could cause widespread chaos across many businesses from aviation, telecommunications, finance, motor vehicles, healthcare and social services, Montague said.  </p>
+<p>Technology researcher Gartner Group Inc has estimated the Millennium Bug problem globally may cost between US$400-$600 billion to fix, said Gartner research director Chris Morris.</p>
+<p>Montague said the legal ramifications globally for the fallout from millennium problems could be around A$1 trillion.</p>
+<p>&quot;There are certainly possibilities of an economic effect,&quot; he said. &quot;About three to five percent of businesses could be facing life threatening issues for their organisation because of this problem.&quot;  </p>
+<p>He said many Australian managers had not taken the Millennium Bug problem seriously enough and passed it on to their Information Technology (IT) personnel.</p>
+<p>&quot;They are underestimating the size, the complexity, the resources and the amount of cost that will be required and the implications that will be required to fix it and the implications on personal and corporate levels,&quot; Montague said.</p>
+<p>&quot;It is clearly a risk management problem for all business, it is not just an IT problem,&quot; he said.</p>
+<p>Gartner's Morris told Reuters: &quot;Only 50 percent of businesses will be compliant by the end of 1999.&quot;  </p>
+<p>-- Kevin Morrison 61-2 9373-1813</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

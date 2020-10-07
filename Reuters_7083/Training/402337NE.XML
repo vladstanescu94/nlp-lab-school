@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="402337" id="root" date="1997-02-25" xml:lang="en">
+<title>UK: Oxford Molecular to take stake in Cambridge.</title>
+<headline>Oxford Molecular to take stake in Cambridge.</headline>
+<dateline>LONDON 1997-02-25</dateline>
+<text>
+<p>Britain's Oxford Molecular Group Plc said it would make an initial cash investment of 0.5 million stg in drug research firm Cambridge Combinatorial.</p>
+<p>Oxford would take a stake of 20 percent in the issued ordinary share capital of Cambridge.</p>
+<p>Cambridge Combinatorial would also have to offer three further tranches of deferred shares, equivalent to 0.5 million stg, to Oxford Molecular.</p>
+<p>Oxford Molecular said the investment was a strategic move to providing a range of integrated drug design services to its pharmaceutical services.</p>
+<p>--London newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

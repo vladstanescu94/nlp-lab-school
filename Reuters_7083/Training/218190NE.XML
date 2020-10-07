@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218190" id="root" date="1996-11-26" xml:lang="en">
+<title>ISRAEL: Japan's Yaskawa, Israel's Eshed in joint venture.</title>
+<headline>Japan's Yaskawa, Israel's Eshed in joint venture.</headline>
+<dateline>TEL AVIV 1996-11-26</dateline>
+<text>
+<p>Yaskawa Electric Corp of Japan and Israel's Eshed Robotec Ltd announced on Tuesday they would form a company in Israel for the development of motion control products.</p>
+<p>The two companies will each invest $925,000 in the joint venture, to be known as Yaskawa Eshed Technology (YET). YET will develop and manufacture robot controllers, drivers and other motion control products that will be sold by Yaskawa.</p>
+<p>Yaskawa is committed to purchasing more than $25 million in YET products and services from 1997 to 2000.</p>
+<p>Yaskawa and Eshed Robotec have been cooperating in the development of industrial robotics over the past few years.</p>
+<p>Yaskawa is a world leader in robotic and electrical motion control with annual sales of about $2 billion.</p>
+<p>Eshed Robotic makes computerised integrated manufacturing systems and robotics as well as automation equipment for the educational market.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

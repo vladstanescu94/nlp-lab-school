@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92976" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: TMSSequoia names Deborah Mosier CFO.</title>
+<headline>TMSSequoia names Deborah Mosier CFO.</headline>
+<dateline>STILLWATER, Okla. 1996-10-03</dateline>
+<text>
+<p>TMSSequoia said on Thursday that it named Deborah Mosier as its chief financial officer, effective immediately.</p>
+<p>Mosier replaces Dale May, who resigned, the company said.</p>
+<p>Mosier joined the maker of CD-ROM software in May, 1995 and most recently served as controller of financial operations.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STILLWATER, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

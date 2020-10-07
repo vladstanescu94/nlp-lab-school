@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="779712" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: US court rejects software maker's claim vs Justice.</title>
+<headline>US court rejects software maker's claim vs Justice.</headline>
+<dateline>WASHINGTON 1997-08-04</dateline>
+<text>
+<p>The Court of Federal Claims ended a decade-long dispute on Monday by rejecting charges from computer software-maker Inslaw that the U.S. Justice Department stole its software and distributed it worldwide.</p>
+<p>At the end of a three-week trial, the court found Inslaw failed to show ownership rights to the software in question or that the Department of Justice acted improperly in any way, the department said.</p>
+<p>According to a 186-page opinion issued by Judge Christine Miller, there was &quot;no merit to the claims&quot; by Inslaw.</p>
+<p>The legal wrangle began in 1982 when Inslaw was awarded a $10 million contract for its PROMIS software, used to track criminal cases. The company's owners alleged that Justice later used an enhanced version of the program without paying royalties.</p>
+<p>In 1987, after the dispute forced the company into bankruptcy, a federal bankruptcy judge found that the department had used &quot;fraud, trickery and deceit&quot; to steal the program and ruled the government owed Inslaw $7.8 million.</p>
+<p>However, that ruling and judgment was later overturned on appeal.</p>
+<p>After a series of both internal and independent investigations -- which all found no merit to Inslaw's claims -- the case was sent to the claims court this year as Congress wanted an advisory opinion as part of its consideration of whether to pass a private bill to compensate Inslaw, the department said.</p>
+<p>&quot;Certainly the department benefits from the lifting of the cloud that has hung over it for a decade,&quot; said Assistant Attorney General Frank Hunger, head of the Civil Division.</p>
+<p>According to the claims court's opinion, the 1982 contract required Inslaw to install in U.S. attorney's offices a non-proprietary, public-domain version fo PROMIS. But, without notice to the government, Inslaw installed a different, allegedly proprietary, version of the software and then asserted that the government could not use the software in other offices.</p>
+<p>The court found that only 12 of the more than 100 alleged enhancements actually existed and that Inslaw could not demonstrate that the company, rather than the government, owned them.</p>
+<p>Before the court's decision is sent to Congress, Inslaw will have an opportunity to appeal the matter to a three-judge panel of the same court.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

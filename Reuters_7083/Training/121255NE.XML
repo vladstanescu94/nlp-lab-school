@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121255" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Medic Computer Q3 proforma shr rises.</title>
+<headline>Medic Computer Q3 proforma shr rises.</headline>
+<dateline>RALEIGH, N.C. 1996-10-16</dateline>
+<text>
+<p>(dollars in thousands, except share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				Sept 30, Sept 30,  Sept 30,  Sept 30,</p>
+<p>				     1996    1995     1996	1995</p>
+<p>					 (restated)	    (restated)</p>
+<p> Total net revenues	  50,072  39,977   138,030   109,480</p>
+<p> Net income		     6,086   4,701    17,169    13,075</p>
+<p>Pro forma data:</p>
+<p>Income before pro forma</p>
+<p>     income tax provision   6,086   4,701    17,169    13,075</p>
+<p>Pro forma income tax expense for</p>
+<p>the periods prior to</p>
+<p>    May 31, 1996		    0     314	 489	 871</p>
+<p> Pro forma net income	 6,086   4,387    16,680    12,204</p>
+<p>Pro forma earnings per share:</p>
+<p>   Net income per share	0.25    0.18	0.67	0.51</p>
+<p>Pro forma weighted average common shares</p>
+<p>and equivalents used in computing</p>
+<p>net income per share</p>
+<p>			24,815,880 24,513,230 24,786,994 23,736,416</p>
+<p>NOTE- Pro forma net income gives effect to pro forma income tax expense on earnings of CompuSystems prior to the acquisition, because it was a subchapter-S corporation.  Net income per share for the third quarter of 1996 was $0.25 compared to pro forma net income per share of $0.18 for the same period in the previous year after the restatement and as adjusted for a 2-for-1 stock split in June 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RALEIGH, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

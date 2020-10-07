@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191221" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: INTERVIEW - Checkpoint seeks broader base.</title>
+<headline>INTERVIEW - Checkpoint seeks broader base.</headline>
+<byline>Franklin Paul</byline>
+<dateline>NEW YORK 1996-11-13</dateline>
+<text>
+<p>CheckPoint Software Technologies Ltd plans to grow its position in the network security field by broadening its customer base, decreasing its reliance on Sun Microsystems Inc and exploring acquisitions.</p>
+<p>&quot;We hope to continue to grow market share, primarily by continuing to aggresively expand our distribution,&quot; said Deborah Triant, president and chief executive of Checkpoint Software Technologies Inc, the Israeli-based company's U.S. unit.  </p>
+<p>According to research firm International Data Corp, Checkpoint already commands a 40 percent chunk of the global market for firewalls, which is software that enforces the boundarys between networks and protects computers against unauthorized users or destructive virus programs.</p>
+<p>Checkpoint's flagship product, Firewall-1, is distributed as an embedded program in hardware sold by firms such as Sun Microsystems, Bay Networks Inc, Xylan Corp and Hewlett-Packard Co.  </p>
+<p>Triant said it wants to shrink its reliance on Sun Microsystems, which bundles the firewall software with its computers and also sells it separately under the product name SunSoft.</p>
+<p>CheckPoint's stock prices, now trading near $25 per share, fell by about 15 percent during one session last week after an analyst said revenue from Sun fell to $2.7 million in the third quarter from $3.8 million in the second.</p>
+<p>&quot;We wanted it to shrink,&quot; she added. &quot;Not because we want Sun to reduce their sales, but because we want to grow other channels so much faster.&quot;  </p>
+<p>&quot;That (the shrinking Sun revenue), for us, was very good news,&quot; Triant said, adding that the percentage of Sun revenue in the third quarter dropped to 34 percent from 57 percent in the first quarter and CheckPoint still exceded analysts' expectations.</p>
+<p>She added that company could also grow through acquisitions. &quot;We will likely grow by aquisition as well, and any acquisition we make will be technology focused to continue to add complimentary technology into our product as well,&quot; Triant said.  </p>
+<p>IDC predicts the firewall market will expand from  $160 million in 1995 to $979 million in the year 2000, with  total units shipped rising to 1.5 million then, from about 10,000 in 1996.</p>
+<p>Checkpoint says the expansion of the Internet and intranets as business tools and the exponential growth of the computer market means certain growth for firewall makers.</p>
+<p>&quot;There are still a lot of companies that still are not using firewalls, and then there is growth available within the companies themselves,&quot; Triant said.  </p>
+<p>She explained that, while some firms have only simple security concerns, those with users logging in from remote locations and multiple internal networks often need numerous separate firewalls.</p>
+<p>To reach those companies, Checkpoint intends to increase its sales by resellers, or vendors who sell the product to customers, often under a different name.</p>
+<p>&quot;We are also aggressively signing new OEM (original equipment manufacturers) partners, to get a very broad distribution of the product,&quot; Triant said. &quot;I expect OEM sales will grow as a percentage of revenues.&quot;</p>
+<p>CheckPoint third quarter 1996 earnings, at $0.10 cents per share, beat concensus expectations by about one cent a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

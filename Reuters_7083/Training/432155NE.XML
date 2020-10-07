@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432155" id="root" date="1997-03-11" xml:lang="en">
+<title>USA: RESEARCH ALERT - Netscape may miss Q1 EPS.</title>
+<headline>RESEARCH ALERT - Netscape may miss Q1 EPS.</headline>
+<text>
+<p>-- Morgan Stanley analyst Mary Meeker said there is a 50 percent chance that Netscape Communications Corp may miss first quarter earnings estimates by $0.01-$0.02 per share, according to market sources.</p>
+<p>-- Meeker estimated earnings of $0.08 per share, according to the sources, while the First Call consensus is $0.09.</p>
+<p>-- Meeker said it would not be an easy quarter, due in part to product transitions, the sources said.</p>
+<p>-- Meeker, however, remained optimistic about the long-term outlook, and kept the stock rated strong buy, the sources said.</p>
+<p>-- Meeker was not immediately available.</p>
+<p>-- shares dropped 3/4 to 28-7/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

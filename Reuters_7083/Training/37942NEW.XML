@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37942" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Oracle to launch NC ad campaign.</title>
+<headline>Oracle to launch NC ad campaign.</headline>
+<dateline>CHICAGO 1996-09-06</dateline>
+<text>
+<p>Oracle Corp chairman and chief executive Larry Ellison said on Friday that the company will likely launch an aggressive advertising campaign in 1997 to promote its network computer, or &quot;NC&quot; concept.</p>
+<p>&quot;We're going to have a very aggressive television campaign around the network computer,&quot; Ellison told a group of reporters while in Chicago.</p>
+<p>The network computer is a stripped-down, cheap computer, versus the full-powered personal computer. Oracle provides the software and specifications for NCs.  </p>
+<p>Ellison has toured the United States and Europe, meeting clients and news organizations, as part of a push to explain the NC and Oracle itself.</p>
+<p>Oracle, with revenues of $4.2 billion in its fiscal year 1996, is not exactly a household name.</p>
+<p>&quot;I say I'm the CEO of Oracle. 'Hmmm, never heard of them,'&quot; he joked.</p>
+<p>Ellison expects the campaign will be lauched in 1997, &quot;when the NC reaches a level that we're confident anyone who wants one can get one.&quot;  </p>
+<p>Ellison said the NC is not intended to wipe out the PC, which would still be necessary for high-tech uses. Ellison said the NC can provide electronic mail, Internet access and word processing, for example, but with applications numbering about 10 versus the estimated 4,000 possibilities on a PC.</p>
+<p>&quot;And we're very proud of that,&quot; Ellison said. &quot;All the cost and complexity has been moved out of the appliance and back into the network.&quot; On Thursday, International Business Machines unveiled its first network computer, a text book- sized computer, priced under $700. It was the first major PC maker to adopt the NC concept.  </p>
+<p>But Ellison said the key to the success of the computer is the participation of telephone companies who would host the networks and Oracle is in negotiations with many and has a software suite specifically for them. In the past Ellison said four large telephone companies have put in orders for NCs.</p>
+<p>&quot;I think the NC is going to be free someday,&quot; Ellison said, comparing it to the free cellular phones a provider gives to customers signing up for service.</p>
+<p>Despite Ellison's confidence in the NC, Oracle remains solidly rooted in its original database sector. He declined to put a number on the amount of money invested specifically in the NC.</p>
+<p>&quot;Oracle is not in this business, wasn't in this business and we continue to grow,&quot; Ellison said, when asked what is at stake if the NC flops.</p>
+<p>-- Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

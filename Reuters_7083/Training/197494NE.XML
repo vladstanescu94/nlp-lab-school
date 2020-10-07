@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197494" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Hewlett-Packard announces encryption plan.</title>
+<headline>Hewlett-Packard announces encryption plan.</headline>
+<dateline>WASHINGTON 1996-11-18</dateline>
+<text>
+<p>Hewlett-Packard Co Monday announced new computer encoding technology which it said would meet government limits on exports.</p>
+<p>The new plan, backed by partners Intel Corp and Microsoft Corp, could help minimise controversy over exports of computer hardware and software containing encryption features.</p>
+<p>Under the plan, companies could export powerful encryption products with the encoding feature disabled to meet U.S. export controls.  </p>
+<p>The new plan &quot;will exploit the full power of the Internet by addressing the security and data-integrity issues that have impaired and frightened users in the past,&quot; Hewlett-Packard Chairman Lewis Platt said in a statement.</p>
+<p>The U.S. government has already approved the new technology.</p>
+<p>HP said the government had concluded that the plan, called an international cryptography framework, &quot;has sufficient technical controls to ensure compliance with U.S. policy.&quot;  </p>
+<p>Several other companies, including International Business Machines Corp, have also introduced new forms of encryption to meet U.S. export controls.</p>
+<p>On Friday, President Clinton signed an executive order liberalizing such controls. Under the Clinton plan, companies may export stronger encryption than currently allowed if the products also provide a means for the government to decode the messages when acting under a court order or similar authorization. But the Clinton plan still would bar exports of powerful encryption that lacked the government access feature.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

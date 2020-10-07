@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720534" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Microsoft again revamps it network - WSJ.</title>
+<headline>Microsoft again revamps it network - WSJ.</headline>
+<dateline>NEW YORK 1997-07-10</dateline>
+<text>
+<p>Microsoft Corp. will shift the focus of its Microsoft Network to informational and service-oriented programming and away from the television-style programming that was announced with fanfare last fall, The Wall Street Journal said.</p>
+<p>In Thursday's electronic edition, the paper said the company, struggling to find an audience for its on-line entertainment programming, is revamping its strategy for Microsoft Network.</p>
+<p>The article cited information from Microsoft executive saying the on-line service will make more features available for free to all users of the World Wide Web.</p>
+<p>The story said the changes are prompted by the company's difficulties in establishing many of its subscription content offerings as popular destinations, even for the 2.3 million people Microsoft Network claims as subscribers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

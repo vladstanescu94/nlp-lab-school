@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="590360" id="root" date="1997-05-16" xml:lang="en">
+<title>USA: Oracle to license technology.</title>
+<headline>Oracle to license technology.</headline>
+<dateline>LOS ANGELES 1997-05-16</dateline>
+<text>
+<p>Oracle Corp is set to expand its product offering to the downstream oil industry by licensing a technology from annother company, analysts said Friday.</p>
+<p>Oracle told analysts at a breakfast Thursday that it would acquire the technology for an unnamed company in exchange for a small royalty payment, said Jim Moore, an Alex Brown analyst who attended the meeting.</p>
+<p>The licensing deal is in keeping with Oracle's strategy to expand by developing applications that target different industries.  </p>
+<p>&quot;This deals with refining, transportation and by-products and it is a very sophisticated application that is very hard to put together, so they decided to license it,&quot; Moore said.</p>
+<p>Analysts could not confirm published reports, which followed the meeting, that Oracle might be planning to acquire Red Brick Systems Inc.</p>
+<p>&quot;There is no way Oracle would buy that company,&quot; said one analyst who asked not be named. &quot;That would not add anything to what Oracle has. Red Brick doesn't offer Oracle anything.&quot;</p>
+<p>Jim Mendelson, an analyst at SoundView Financial Corp who attended the meeting with Oracle, said he heard no mention of a possible bid for Red Brick.</p>
+<p>Red Brick said a buyout by Oracle was not likely.</p>
+<p>&quot;I've heard absolutely nothing about the potential for them to make any kind of a bid,&quot; said Mark Olson, a spokesman for Red Brick.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

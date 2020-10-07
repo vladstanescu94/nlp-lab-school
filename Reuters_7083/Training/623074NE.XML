@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="623074" id="root" date="1997-05-29" xml:lang="en">
+<title>UK: Computer industry still shipping bug-infected PCs.</title>
+<headline>Computer industry still shipping bug-infected PCs.</headline>
+<dateline>LONDON 1997-05-29</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>The computer industry is still foisting personal computers that will be rendered useless by the millennium bug on an unsuspecting public, experts said on Thursday.</p>
+<p>Retailers, computer manufacturers and software suppliers are guilty of still selling products that will either fail when clocks strike midnight on December 31, 1999, or begin spewing out erroneous data, they said.</p>
+<p>Almost one third of products which manufacturers claim are able to withstand the change in century will actually fail.</p>
+<p>&quot;Almost 50 percent of personal computers currently being offered for sale are unable to comply with the date change,&quot; Robin Guenier, executive director of Taskforce 2000, told a press conference.</p>
+<p>Taskforce 2000 was set up by the British government to raise awareness of the millennium bomb problem.</p>
+<p>The problem facing the computer industry looks absurdly simple. Some software writers in the 1970s and 1980s abbreviated references to years to a two digit shorthand like &quot;87&quot; or &quot;95&quot;. This was always going to cause problems when the millennium dawned because computers would be unable to make sense of &quot;00&quot;.</p>
+<p>The industry closed its eyes and said everything would be all right on the night. Technology was moving so fast, none of these programmes would still be in use by century's end.</p>
+<p>This is looking increasingly like an over-optimistic dream.</p>
+<p>&quot;Around 90 percent of the world's computer systems are in danger. Not just mainframes and their software, but personal computers, desktops and modern current software. Also there are countless systems using embedded chips like video recorders, central heating, nuclear power stations, weapons systems,&quot; Guenier said.</p>
+<p>Guenier said many big businesses had already upgraded their systems, but many small ones hadn't. Many government departments had left it too late for a complete solution to be possible.</p>
+<p>He called for programmes of &quot;radical prioritisation&quot; to address the most sensitive areas of government responsibility.</p>
+<p>According to millennium bug solutions company Greenwich Mean Time, the industry is showing dangerous incompetence.</p>
+<p>Greenwich said it surveyed 4,000 software programmes, and 64.2 percent had some sort of Year 2000 date problem. 28.2 percent were claimed to be year 2000 compliant by their manufacturers.</p>
+<p>If a product is deemed to work perfectly into the next millennium, the industry calls this &quot;Year 2000 compliant&quot;.</p>
+<p>&quot;What software manufacturers generally mean when they say their products are year 2000 compliant is that they may somehow be configured to have no date dependent behaviour,&quot; Karl Feilder, chief executive officer of Greenwich told the press conference.</p>
+<p>Feilder said normal consumers would find their personal computers failing because technical fixes would be beyond them. And the software manufacturers were hiding behind loosely written guarantees which often expired after only three months, and then called for payment for assistance.</p>
+<p>Feilder said one major software company described its products as Year 2000 ready. &quot;This is not the same as compliant,&quot; Feilder said.</p>
+<p>Taskforce 2000's Guenier said the public found it difficult to take the millennium bug problem seriously.</p>
+<p>&quot;When computers (like IBM's Deep Blue) can beat Garry Kasparov and put people into space, but they can't handle this problem, it seems impossible, but it's true,&quot; Guenier said.</p>
+<p>--Neil Winton 44-171-542-7975 Email neil@jinks.demon.co.uk</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

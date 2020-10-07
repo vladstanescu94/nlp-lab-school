@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43118" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Novell launches $20 mln Q4 ad campaign.</title>
+<headline>Novell launches $20 mln Q4 ad campaign.</headline>
+<dateline>OREM, Utah 1996-09-10</dateline>
+<text>
+<p>Novell Inc said on Tuesday that it is starting a new marketing strategy with the launch of a worldwide advertising and corporate identity and brand campaign.</p>
+<p>The fiscal fourth quarter $20 million advertising and branding campaign is designed to strengthen Novell's brand equity, establish the company as a major intranet market player and define the company's networking vision, a statement from the company said. The campaign is the first in a series of marketing initiatives the company said it plans to deliver over the next several months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

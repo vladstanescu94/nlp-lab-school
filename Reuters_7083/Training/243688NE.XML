@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243688" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Informix optimistic on universal server.</title>
+<headline>Informix optimistic on universal server.</headline>
+<dateline>SAN FRANCISCO 1996-12-09</dateline>
+<text>
+<p>Informix Software Inc expects its Universal Server database, introduced last week, to generate &quot;substantial&quot; revenue in 1997, the company's vice president of worldwide marketing said on Monday.</p>
+<p>The vice president, Steven Sommer, said he expected Informix's technological lead in the area of universal servers to attract new customers to its traditional database products.</p>
+<p>The company is confident even though some observers doubt that a significant market now exists for universal servers -- database software that can handle complex and varied types of data such images or video along with characters and numbers.  </p>
+<p>&quot;Revenues derived specifically from the universal server in 1997 will be more than a few percentage points of total revenues, but how much in total is from the universal server will be much more,&quot; Sommer said.</p>
+<p>&quot;Customers in the market for a database want to buy from a strategic partner,&quot; which can lead them to the next phase of technology when they are ready, said Sommer, who spoke with reporters after a presentation at a Montgomery Securities conference.  </p>
+<p>Sommer also said that Informix expected its fourth-quarter operating margin to increase from the 15 percent it recorded in the third quarter.</p>
+<p>However, Sommer declined to say whether Informix thought its operating margin would return to 20 percent, its target and the level the company experienced in 1995. Still, he said 20 percent remained the company's target for operating margins.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="582976" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Silicon Graphics buys ParaGraph firm.</title>
+<headline>Silicon Graphics buys ParaGraph firm.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-05-14</dateline>
+<text>
+<p>Silicon Graphics Inc. said Wednesday it has signed a definitive agreement to acquire ParaGraph International, a company which makes three-dimensional Internet software for personal computers.</p>
+<p>Silicon Graphics also said it is establishing a new unit, Cosmo Software, which will focus on the fast-emerging market for 3-D Internet software which runs on multiple computer systems.</p>
+<p>ParaGraph will be integrated into the new Cosmo unit.</p>
+<p>Financial terms of the acquisition were not disclosed.</p>
+<p>ParaGraph International is headquartered in Campbell, Calif., with research and development there and in Moscow.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

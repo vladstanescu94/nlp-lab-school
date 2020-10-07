@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129808" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Micrografx Q1 net profit vs loss, w/charge.</title>
+<headline>Micrografx Q1 net profit vs loss, w/charge.</headline>
+<dateline>RICHARDSON, Texas 1996-10-21</dateline>
+<text>
+<p>MICROGRAFX, INC.</p>
+<p>	    CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>(Unaudited, in thousands, except per share amounts)</p>
+<p>							Three Months Ended</p>
+<p>							 September 30,</p>
+<p>					    1996	   1995  % Change</p>
+<p> Net revenues			    $ 16,589    $ 15,678    6%</p>
+<p> Net income				     334	 (119)   N/A</p>
+<p> Income per share			    0.03	(0.01)   ---</p>
+<p>Shares used in computing income</p>
+<p>  per share				  10,443	 9,666   ---</p>
+<p>NOTE - First quarter 1997 figures include about $0.6 million, or $0.04 per share, in non-recurring expenses resulting from management changes in the company's European sales organization and U.S. recruitment charges.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHARDSON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148157" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Microsoft, US West unit invest in VDOnet.</title>
+<headline>Microsoft, US West unit invest in VDOnet.</headline>
+<dateline>PALO ALTO, Calif. 1996-10-28</dateline>
+<text>
+<p>Microsoft Corp and U S West Interactive Services said they had taken equity stakes in VDOnet Corp, the developer of a technology that overcomes key limitations now constraining Internet communications.</p>
+<p>U S West Interactive is a unit of U S West Media Group.</p>
+<p>The VDOnet system is designed to assist in the transition to the emerging era of multimedia Internet communications using voice and video that will be possible using cable modems and other high-speed communications technology.  </p>
+<p>Microsoft said it had agreed to a licensing deal VDOnet to use its technology to enhance the standards for delivering video over the Internet. Microsoft described the deal as &quot;a major milestone for Internet communication.&quot;</p>
+<p>VDOnet's technology, known as VDOWave, enables applications such as video conferencing and video broadcasting using sophisticated commpression schemes.</p>
+<p>Microsoft said it was attracted to the technology because it has been optimized to work in the mainstream of Internet commmunications where low-bandwidth modems running at speeds of around 28,000 bits-per-second predominate.  </p>
+<p>In a separate statement, U S West Interactive said it was backing VDOnet based on the evolutionary character of its technology.  VDOwave allows Internet communications to be adjusted to recognize various network speeds and capacities.</p>
+<p>In particular, U S West said the technology will assist in expanding the Internet communications market from the current low-speed phone-line modems to the higher speeds provided by cable without requiring older technology to become obsolete.</p>
+<p>Neither Microsoft or U S West disclosed the size of their proposed investments in VDOnet.  Both companies said they would hold a seat on VDOnet's board of directors.  </p>
+<p>U S West said its participation is part of its strategy to become the third largest cable company in the United States, which will occur when U S West Media Group completes its merger with Continental Cablevision Inc.  U S West Media is part of U S West Inc.</p>
+<p>Microsoft and VDOnet said they will continue to collaborate on solving the technical challenges inherent in transmitting data intensive video commmunications over the Internet.</p>
+<p>Specifically, the companies said they will work together to back H.323, the international standard for audio and video conferencing, along with future generations of the MPEG (Motion Pictures Expert Group) standard for video compression.</p>
+<p>As part of its new relationship with Microsoft, VDOnet said it has licensed Microsoft's NetMeeting video-conferencing and NetShow video broadcasting software.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

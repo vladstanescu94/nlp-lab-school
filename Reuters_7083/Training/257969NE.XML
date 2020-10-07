@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257969" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Control Data to sell stake in Metaphase.</title>
+<headline>Control Data to sell stake in Metaphase.</headline>
+<dateline>ARDEN HILLS, Minn. 1996-12-16</dateline>
+<text>
+<p>Control Data Systems Inc and Structural Dynamics Research Corp said Monday they reached an agreement under which Control Data's 50 percent stake in their Metaphase joint venture will be acquired by Structural Dynamics.</p>
+<p>Structural Dynamics also will acquire certain assets of Control Data's PDM business segment.</p>
+<p>The transaction, valued at $31 million, consists of cash and a warrant to purchase Structural Dynamics stock. The sale will produce a gain for Control Data.  </p>
+<p>Metaphase, a joint venture between Structural Dyanmics and Control Data since 1992, develops product data management (PDM) software to manage engineering data during the design, changes in and manufacturing of a product.</p>
+<p>Structural Dynamics will acquire certain assets of Control Data's PDM software sales and support business and Control Data's North American and European PDM customer base. Control Data also agreed not to compete in the PDM software market for two years.</p>
+<p>&quot;The sale of our PDM activities allows us to focus our energies on the electronic commerce integration sector, which is our primary business,&quot; James Ousley, president of Control Data, said in a statement.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARDEN HILLS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

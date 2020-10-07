@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="374573" id="root" date="1997-02-13" xml:lang="en">
+<title>USA: Novell sees diverse rev base, eyes purchases.</title>
+<headline>Novell sees diverse rev base, eyes purchases.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1997-02-13</dateline>
+<text>
+<p>Faced with market share battles on several fronts, Novell Inc provided the outlines of a five-year game-plan that would reduce dependence on its mainstay network operating system business and diversify its revenue base into faster-growing software businesses.</p>
+<p>In a speech to an investor conference here, Joseph Marengi, recently named president and chief operating officer, also said his company is contemplating the judicious use of its $1 billion in cash to make selective technology acquisitions.  </p>
+<p>In response to a question, the executive downplayed persistent rumors that it is an acquisition target by saying that Novell's strategy remains focused on building its business as a &quot;standalone&quot; company.</p>
+<p>&quot;This is a company with a market cap of $4 billion, $1 billion in cash and $1.5 billion in revenues,&quot; he said. &quot;Everything we are doing is to position ourselves to be standalone.</p>
+<p>He declined to comment on financial results of Novell's quarter ended in January, noting that it was in a quiet period ahead of the report due out next week.  </p>
+<p>&quot;Business is okay,&quot; he noted in passing.</p>
+<p>Marengi said that as part of its plan to diversify its revenue base over the next five years, the company expected its core NetWare operating systems business to decline to 40 percent of total revenues from its current 60 percent position.</p>
+<p>He said that by 2002, the company expected 25 percent of revenues from what he called &quot;platform-independent&quot; or non-NetWare server products and 25 percent from network applications software such as its group communications, systems management and Internet-related software products.  </p>
+<p>Novell's strategy is to move beyond its historic dominance of the client/server-based local area network market and into the emerging future in which personal computers connect to the wider Internet without regard to whether the connection is local or on the other side of the globe, he said.</p>
+<p>&quot;We are trying to get people to think about client/network computing as opposed to client/server,&quot; Marengi said in response to a reporter's question.</p>
+<p>By later this year, he said Novell expected to displace Microsoft Corp's Exchange product as the number two electronic messaging product in the world.  </p>
+<p>He allowed that International Business Machines Corp's cc:Mail product would continue as the best-selling messaging product in the coming year.</p>
+<p>In the near-term, Marengi said he believes Novell will successfully defend its position as the market leader among network operating systems, fending off a growing challenge from Microsoft's Windows NT.</p>
+<p>While acknowledging that Windows NT was gaining ground as the core operating system used to manage corporate networks, he said this was mostly concentrated at the low-end of the market among smaller and newer businesses.  </p>
+<p>He said Novell NetWare continues to dominate in larger corporate departmental networks, and estimated that only 2 percent of current NetWare customers had switched to alternative network operating systems such as Windows NT. NT's success had come among new users, he said, and noted that the company is re-doubling its efforts to target such emerging markets.</p>
+<p>&quot;We want to grow through acquisitions,&quot; Marengi said of the company's plan to once again consider acquisitions to fill technology gaps in its product line. &quot;We will make sure that any company we do acquire will fit (our overall) strategy,&quot; he said. &quot;Nothing on the scale of WordPerfect,&quot; he said.  </p>
+<p>Novell sold WordPerfect Corp to Canada's Corel Corp at a substantial loss last year.</p>
+<p>Marengi said he expected the company to double its installed base of server software units to 8 million units in 2000 from 4 million units currently, as part of a plan to put its server software count at over 10 million units five years out.</p>
+<p>Server software are products used to manage the operations of centralized computers that manage traffic on local area networks that typically tie together numerous personal computers.</p>
+<p>NetWare is used to connect local area networks that include 60 million desktop computers worldwide.  </p>
+<p>He said Novell expects international revenues to contribute 60 percent of revenues five years out, up from 49 percent currently. As an example, he said Novell intends to capitalize on its leading position as &quot;The networking company in China.&quot;</p>
+<p>The executive said the company's operating profit margins have been hovering in the 20 to 23 percent range recently, and that those percentages will &quot;be up a little bit&quot; by the end of calendar 1997, &quot; but &quot;not significantly.&quot;</p>
+<p>He said the company's search for a new chief executive was on track and that he expected an appointment to be announced within 30 to 60 days.</p>
+<p>He said Novell did not plan to use any of its $1 billion cash hoard to buy back stock.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="387133" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: U.S. copyright firms lose $10.6 billion to pirates.</title>
+<headline>U.S. copyright firms lose $10.6 billion to pirates.</headline>
+<dateline>WASHINGTON 1997-02-18</dateline>
+<text>
+<p>U.S. computer software and entertainment industries said Tuesday they lost about $10.6 billion last year to copyright piracy in more than 50 countries.</p>
+<p>The International Intellectual Property Alliance (IIPA) asked U.S. trade officials to put three countries -- Greece, Paraguay and Russia -- on a high priority list for possible trade sanctions if they fail to improve copyright protection.</p>
+<p>&quot;The magnitude of the global copyright piracy problem demands a decisive response from the U.S. government under our trade laws,&quot; IIPA President Eric Smith said in a statement.</p>
+<p>The IIPA, which represents a number of U.S. copyright industries including software and entertainment, outlined its recommendations for government action in a filing with the U.S. Trade Representative's Office.</p>
+<p>Paraguay accounted for about $117 million in losses last year, up from $44.6 million the year before, the IIPA said. It said Paraguay is a major trans-shipment center for counterfeit goods made in China and Taiwan.</p>
+<p>Russia, where copyright protection is non-existent and pirated goods are 70 percent to 90 percent of the market, accounted for more than $1 billion in losses, it said.</p>
+<p>IIPA said that U.S. industries, particularly motion picture companies, have been hurt for years by inadequate copyright enforcement in Greece, which accounted for about $127 million in losses last year.</p>
+<p>It also asked the U.S. Trade Representative to maintain a watchful eye on China, which agreed last year to take action against copyright pirates after going to the brink of a tit-for-tat trade war with the United States over the issue.</p>
+<p>&quot;While the Chinese government has taken laudable aggressive actions to close down CD production lines, much rmains to be done to open this market to creative industries,&quot; the group said.</p>
+<p>It also said Mexico had failed to live up to intellectual property rights provisions of the North American Free Trade Agreement.</p>
+<p>U.S. trade officials have until April 30 to decide which countries they will target for possible trade action for copyright violations.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

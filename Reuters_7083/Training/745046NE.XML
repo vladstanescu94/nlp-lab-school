@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="745046" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: McAfee denies Symantec allegations.</title>
+<headline>McAfee denies Symantec allegations.</headline>
+<dateline>SANTA CLARA, Calif. 1997-07-22</dateline>
+<text>
+<p>McAfee Associates said it denied allegations made Monday in a press release by software security products rival Symantec Corp and said it will file a suit alleging defamation against Symantec.</p>
+<p>Just before McAfee reported second quarter results Monday, Symantec said it was amending a copyright infringement claim.</p>
+<p>Shares of McAfee plunged after it issued the statement, falling nine points to 68-1/2 in active Nasdaq trade. The stock had earlier risen to 78 in pre-market trade from the unofficial close of 77-1/4 after reporting earnings of $0.44 per share, or $0.03 above the First Call consensus estimate.  </p>
+<p>On April 23, Symantec Corp said it had filed a lawsuit in Santa Clara County, alleging McAfee &quot;knowingly pirated vital software code&quot; and had incorporated it into McAfee products.</p>
+<p>Specifically, Symantec said it was accusing McAfee of stealing code from Norton CrashGuard, a computer crash protection and recovery program, and incorporating it into McAfee's PC Medic product. On Monday, it said it had filed a motion to amend its copyright infringement complaint.</p>
+<p>Symantec charged that McAfee had used additional code allegedly copied from Symantec in McAfee products, including software packages VirusScan and PC Medic 97.  </p>
+<p>Symantec said in its statement Monday it also had filed a supplemental motion for a preliminary injunction based on fresh allegations of newly discovered copying.</p>
+<p>Symantec said it plans to request during a hearing for preliminary injunction scheduled for August 29 that the court stop shipment of McAfee products Symantec alleges to contain infringing code and remove the products from sales channels.</p>
+<p>McAfee said it denied all allegations Symantec made in the statement and has broken off discussions with Symantec until further notice.  McAfee said it will file a contempt of court motion against Symantec for negotiating in bad faith.  </p>
+<p>Analysts said the Symantec statement appeared to be timed to hit McAfee hardest, coming just before an upbeat quarterly report and a week after the company said it had unveiled its VirusScan product to protect computer users from viruses and hostile attacks from across the Internet global network.</p>
+<p>&quot;I haven't found that people who have owned the (McAfee) stock for a long time are as concerned about it, but the whole juxtaposition of all these issues seems to be getting worse,&quot; said one Wall Street analyst.  &quot;I think the competitive issues look worse than they really are...They're on a roll with products.  They're getting more contracts that are out there.&quot;  </p>
+<p>McAfee, based in Santa Clara, said it will sue for alleged defamation and business interference, seeking unspecified compensatory and punitive damages.</p>
+<p>Sources familiar with the case said it involves developers moving between the companies and while an independent analysis found specific lines of code that were identical between the two products, it could also reflect a programmer's habits.</p>
+<p>&quot;I don't think you can prove malicious intent,&quot; one said.</p>
+<p>Analysts said McAfee continues to provide strong results.</p>
+<p>Alex. Brown analyst Mary McCaffrey said she has a strong buy on McAfee and has raised earnings per share estimates to $1.73 from $1.64 for 1997 and to $2.45 from $2.40 from 1998.</p>
+<p>McAfee said company executives told analysts that days of sales outstanding, which rose to the 62 day level from around 44 in the first quarter, would likely remain at the higher end of the range due to more international business and larger contracts and could dip somewhat from these levels next year.</p>
+<p>((-sam.perry@reuters.com, in Palo Alto, +1 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

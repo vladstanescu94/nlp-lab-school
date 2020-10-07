@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="338524" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS -- Issues to Watch.</title>
+<headline>U.S. HEADLINE STOCKS -- Issues to Watch.</headline>
+<dateline>NEW YORK 1997-01-28</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>* ITT Corp shares climbed to 58 in after-hours trading Monday after Hilton Hotels Corp announced it had offered to acquire the company for $55 a share. Hilton said its offer was worth $10.5 billion, including debt.</p>
+<p>ITT closed at 42-5/8 on the New York Stock Exchange. Hilton closed at 25-1/4.</p>
+<p>* Walt Disney Co Monday raised its quarterly dividend to $0.1325 a share from $0.11. Shares closed at 71-5/8.  </p>
+<p>* International Business Machines Corp shares were up 1/2 at 145-7/8 in London trading.</p>
+<p>* Oracle Corp said it expected its performance in Europe to improve in the quarter ending in February. Shares closed at 38-1/8.</p>
+<p>* Estee Lauder Cos Inc reported second quarter earnings per share of $0.54, up from $0.45 a year ago. The First Call estimate was $0.52. The company said it was &quot;well positioned&quot; to meet fiscal 1997 objectives. Shares closed at 50-3/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

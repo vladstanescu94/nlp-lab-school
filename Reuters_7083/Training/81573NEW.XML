@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81573" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Notorious computer hacker indicted in Los Angeles.</title>
+<headline>Notorious computer hacker indicted in Los Angeles.</headline>
+<dateline>LOS ANGELES 1996-09-27</dateline>
+<text>
+<p>One of America's most notorious computer hackers has been indicted on charges of carrying out a 2-1/2-year spree of software thefts that cost corporations millions of dollars, authorities said on Friday.</p>
+<p>Kevin Mitnick, a 33-year-old computer wizard, was charged on Thursday with 25 counts under an indictment that accused him of breaking into the systems of software companies and attacking computers of Internet service providers.</p>
+<p>Mitnick, already awaiting sentencing on an earlier charge of cellular phone fraud, could face up to 200 years of jail time if convicted, authorities said.</p>
+<p>For years Mitnick has been an expert at writing programmes which allow him to gain access to even the most heavily guarded computer systems.</p>
+<p>Using the code name &quot;Condor&quot;, Mitnick eluded investigators for 2-1/2 years and was eventually caught in February.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

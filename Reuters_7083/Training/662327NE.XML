@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="662327" id="root" date="1997-06-15" xml:lang="en">
+<title>USA: PC makers to unveil lower-cost &quot;NetPCs&quot;.</title>
+<headline>PC makers to unveil lower-cost &quot;NetPCs&quot;.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1997-06-15</dateline>
+<text>
+<p>Some of the world's biggest personal computer makers plan to join Intel Corp. and Microsoft Corp. Monday to unveil new machines called NetPCs that are meant to lower the cost of corporate computer networks.</p>
+<p>Compaq Computer Corp., International Business Machines Corp., Dell Computer Corp., Hewlett-Packard Co., Mitsubishi Corp., and others are expected to unveil scaled-down, diskless PCs designed as lower-cost devices for corporate networks.</p>
+<p>The introduction will come as the PC Expo computer industry trade show gets underway here this week.</p>
+<p>&quot;The NetPC is the big thing to watch,&quot; said Tim Bajarin, president of Creative Strategies Inc., a San Jose, Calif., research and consulting company. &quot;You will want to see what the response is from corporate buyers.&quot;</p>
+<p>The NetPC evolved after Microsoft and Intel saw that industry officials were intrigued by Oracle Corp. Chairman Larry Ellison's plans for a network computer, a stripped-down PC designed to access corporate networks and the Internet.</p>
+<p>Ellison and Sun Microsystems Inc. CEO Scott McNealy have attacked the PC as being too difficult to use, with hefty, unweildy software programs that have too much code and are too costly to maintain and run, even for corporations.</p>
+<p>Initially Microsoft and Intel looked askance at companies such as Oracle and Sun promoting the NC, but last October the two unveiled an initiative to lower the cost of computing and even borrowed the phrase &quot;zero administration&quot; from McNealy.</p>
+<p>&quot;What they are finding out is that customers actually want this,&quot; said Louis Mazzucchelli, an analyst at Gerard Klauer &amp; Mattison. &quot;With this next wave of PCs in the $1,000 area, people are realizing they can get a whole lot done&quot; for less money, he said.</p>
+<p>But as top-tier PC vendors are about to step into the fray, some officials and analysts said corporate users may resist some aspects of the new NetPCs.</p>
+<p>These experts said the widely touted features of the NetPC, mainly its ability to be managed in a network, were already being incorporated into standard PCs. In addition, users may object because NetPcs are &quot;sealed,&quot; meaning they cannot be opened if users want to install memory, graphics cards and other add-ons.</p>
+<p>Some analysts said NetPcs may evolve into low-cost PCs that can be attached to networks.</p>
+<p>&quot;If anything, what's more likely to happen is the NetPC is likely to disintegrate as a category over the next year,&quot; said Roger Kay, an analyst at International Data Corp. in Framingham, Mass. &quot;User acceptance will be very slow and the category will lose its meaning.&quot;</p>
+<p>When Gateway introduced its E-1000 NetPC, priced at under $1,000, it diverged from the Intel/Microsoft specifications because it said its customers do not want sealed PCs.</p>
+<p>&quot;There is a cultural resistance on the part of users,&quot; said Kay. &quot;But it's convenient for the budget guys and for the IS (information system) guys, it's easier for them to manage.&quot;</p>
+<p>Network managers can control the functions of a NetPC from a central location, upgrading software, diagnosing system problems, backing up data and avoiding viruses. Analysts have estimated that currently PCs cost anywhere from $6,000 to $12,000 a year to manage. NetPCs are meant to cost less.</p>
+<p>Officials also said some PC makers would show PCs that can play digital video disks at the show. But they said the machines, which promise to bring high resolution video to PC users, may only be preliminary versions.</p>
+<p>In addition, Sony Corp. is expected to unveil Monday new PCs, including its first laptops, and Toshiba Corp. will show off the Libretto 50T, a 1.8-pound mini-notebook that it launched earlier this month at Comdex in Atlanta.</p>
+<p>Packard Bell NEC and NEC Computer Systems scheduled an announcement for Wednesday but a spokeswoman declined to give details. Industry publication Computer Reseller News said last week that NEC may start selling PCs directly to customers.</p>
+<p>Many PC makers who sell products through distributors, including Compaq, the world's largest PC maker, are revamping or examining their business amid the success of Dell Computer and Gateway 2000, which sell directly to consumers.</p>
+<p>PC Expo runs Tuesday through Friday with some events set for Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302403" id="root" date="1997-01-13" xml:lang="en">
+<title>UK: &quot;Neural&quot; computer program digs up metal deposits.</title>
+<headline>&quot;Neural&quot; computer program digs up metal deposits.</headline>
+<dateline>LONDON 1997-01-13</dateline>
+<text>
+<p>A self-teaching computer program has been launched which trawls through reams of data to spot metal deposits in days where it would take a team of mining geologists months, its developers said on Monday.</p>
+<p>Britain's Neural Technologies Ltd, a privately-owned company, said Prospect Explorer has attracted an enthusiastic response from experts who have practised with the new program.</p>
+<p>&quot;There has only been massive enthusiasm,&quot; said Peter Baxendale, commercial director of Neural Technologies, which developed Prospect Explorer with Australian copper and gold mine Straits Resources. &quot;Nobody has seen anything like it.&quot;</p>
+<p>The patented program, which has been developed over the past three years, can run on a simple personal computer and will cost about 40,000 pounds for an annual licence.</p>
+<p>A more sophisticated and faster version will be available in the summer at 200,000 to 250,000 pounds per licence.</p>
+<p>Prospect Explorer, whose &quot;neural technology&quot; means it learns from experience like the brain, processes all kinds of data, such as soil chemistry, radioactivity and magnetism, to detect geological patterns and anomalies overnight.</p>
+<p>Further analysis of the anomalies may reveal within a week whether an area has mining potential.</p>
+<p>To test Prospect Explorer, Straits Resources used it to investigate a 100 square-kilometre plot where it was already active.</p>
+<p>Within six days the programme found Straits Resources' Girlambone copper mine and several other potential sites.</p>
+<p>It had taken a team of up to eight Straits Resources geologists using coventional data analysis two months to complete their own investigation of the region.</p>
+<p>At a presentation in London, Neural Technologies Ltd said mines can reduce the time from selecting land to actual drilling by about 25 times if they use Prospect Explorer.</p>
+<p>&quot;This saves time...and mines will have to do much less test drilling, which is very expensive,&quot; Baxendale told journalists.</p>
+<p>Prospect Explorer will be marketed by a joint venture recently set up by Neural Technology and Straits Resources.</p>
+<p>Straits will have 70 percent of the Neural Mining Solutions venture, while Neural Technologies holds the rest.</p>
+<p>Neural Mining Solutions is already in talks with &quot;several leading mining houses&quot; to sell Prospect Explorer, Baxendale said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

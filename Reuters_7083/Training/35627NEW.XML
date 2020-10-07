@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35627" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Sybase consolidates groups, exec. resigns.</title>
+<headline>Sybase consolidates groups, exec. resigns.</headline>
+<dateline>EMERYVILLE, Calif. 1996-09-05</dateline>
+<text>
+<p>Continuing the turnover in its upper management ranks, Sybase Inc said Dennis McEvoy has resigned in the wake of a consolidation of its two major business groups under the leadership of David Litwak.</p>
+<p>Sybase said its enterprise business group will consolidate under David Litwack, former president of the powersoft business group, the company's second major product division. Litwak has been appointed executive vice president, products.</p>
+<p>McEvoy, who had been president of the enterprise business group, is leaving Sybase for Verity Inc where he will be executive vice president of products and services.  </p>
+<p>Sybase, a software maker for large-scale client/server computer systems, is undergoing a deep restructuring that claimed the resignations of chief executive and co-founder Mark Hoffman and chief financial officer Ken Goldman in July.</p>
+<p>The company has struggled for over a year to rebound from product delays and marketing problems that have led to successive quarterly losses. In the most recen second quarter, ended June 30, it lost $24.6 million, or $0.33 a share versus a year ago loss of $9.17 million or $0.13 a share.</p>
+<p>&quot;Dennis has done a great job rolling out our System 11 database family and we will miss his outstanding contributions,&quot; said Mitchell Kertzman, chief executive since Hoffman departed. &quot;Both David Litwack and Dennis have built strong business management teams.  Those teams will now report to one executive.&quot;</p>
+<p>McEvoy had managed the company's enterprise database and middleware products. Those lines will now be combined with development tools, design tools, languages, components and workplace database products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EMERYVILLE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570208" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Bill Gates to host CEO summit.</title>
+<headline>Bill Gates to host CEO summit.</headline>
+<byline>Jeanne Sather</byline>
+<dateline>SEATTLE 1997-05-07</dateline>
+<text>
+<p>- Top corporate executives from around the world began gathering in Seattle on Wednesday night for a three-day &quot;summit&quot; meeting called by Microsoft Corp. Chairman and CEO Bill Gates.</p>
+<p>The chief executives -- from 18 industries and more than two dozen different countries --  will hear presentations from top Microsoft executives and Vice President Al Gore on the future of technology.</p>
+<p>Gates, the wealthiest man in America with a Microsoft stake valued at more than $33 billion, called the meeting to maintain close ties with his company's larger customers, a Microsoft spokesman said Monday.</p>
+<p>Bob McDowell, a Microsoft vice president, said the company would not release the guest list of CEOs.  &quot;This is very sincerely a private meeting between the CEO of Microsoft and 100 of his peers,&quot; McDowell said.</p>
+<p>He did say that 40 percent of the attendees are from companies headquartered abroad that use Microsoft's products, including top executives from the United Kingdom, Brazil, South Africa and Germany.</p>
+<p>Executives from The Boeing Co., which has its headquarters in Seattle, have said they will attend the event. Also reportedly on the guest list are executives from Wells Fargo Bank, United Airlines, GTE and Sprint.</p>
+<p>Thursday's sessions, including a keynote address by Gates, another keynote by publishing magnate Steve Forbes and the vice president's speech late in the afternoon, will be held at the Four Seasons Olympic Hotel in downtown Seattle. On Friday, the group moves to the Microsoft campus in the Seattle suburb of Redmond.</p>
+<p>Gore will discuss the government's role in encouraging innovation and speeding the development of the new economy, according to Microsoft.</p>
+<p>There are no plans for Microsoft to demonstrate new products during the summit, McDowell said.</p>
+<p>The summit is not open to the public. Reporters will be allowed to watch speeches by Gates, Forbes and Gore on closed-circuit TV from another room in the hotel. Other sessions are closed to the media.</p>
+<p>The 100 participants will be guests for dinner on Thursday at Gates' $50-million mansion, under construction in a Seattle suburb, despite a strike by bricklayers that has held up work on the huge home.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

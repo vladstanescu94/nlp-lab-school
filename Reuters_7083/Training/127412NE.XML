@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127412" id="root" date="1996-10-18" xml:lang="en">
+<title>UK: Dozy Europe slides towards 2000 data disaster.</title>
+<headline>Dozy Europe slides towards 2000 data disaster.</headline>
+<dateline>LONDON 1996-10-18</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>Europe's business leaders are ignoring the threat of the &quot;millennium bug&quot; to their computer systems and are sleepwalking towards an information technology disaster, a conference heard on Friday.</p>
+<p>Delegates to the Taskforce 2000 conference listened to gloomy warnings by business leaders, industry analysts and a British government minister that global information systems could crash, causing chaos, as the new millennium dawns.</p>
+<p>The millennium bug is caused by some computers being unable to read the date 2000. The problem stems from the habit of programmers in the 70s and much of the 80s to save space by abbreviating the year to just 89 or 96.</p>
+<p>But under this system 2000 would be abbreviated to 00, and this will be read as an error by computers and cause them to crash or throw up flawed data.</p>
+<p>Unless this problem was tackled head on it would cause severe disruption to business across the world, even leading to some bankruptcies, according to the speakers.</p>
+<p>Some experts say even a partial failure of the world's computers could trigger a global recession.</p>
+<p>&quot;Failure to act will cause serious disruption to business,&quot; Adair Turner, director general of the Confederation of British Industry told the conference.</p>
+<p>Computers are now ubiquitous throughout the business world, handling everything from credit cards and banking systems to storing data about insurance policies and mortgages.</p>
+<p>Global air traffic control, nuclear power plant cooling, defence missiles, bombers and radar all depend on computers.</p>
+<p>While most experts say a total collapse of these systems is unlikely, popular magazines and the media are full of scare stories about the &quot;Millennium Bomb&quot; or the &quot;Millennium Meltdown&quot;.</p>
+<p>A survey commissioned by International Business Machines (IBM) said Europe's businesses were dangerously complacent, with less than 20 percent having drawn up workable plans.</p>
+<p>&quot;Industry needs to be ready by end 1998,&quot; said Philip Oliver, European Director of IBM's Year 2000 Programme.</p>
+<p>&quot;We commissioned a survey through International Data Corporation and it showed that only 19 per cent of 520 European businesses surveyed believe they will meet this deadline.&quot;</p>
+<p>The potential danger is not being taken seriously enough.</p>
+<p>&quot;I don't think that senior (corporate) management has really got the message yet. If they haven't, the consequences will be serious in social and economic terms,&quot; Robin Guenier, Executive Director of Taskforce 2000 said.</p>
+<p>Britain's Minister for Science and Technology, Ian Taylor, said industry could not sit back and hope for some magic solution.</p>
+<p>&quot;I hope that everyone in this room will be in companies that are still trading in the year 2000,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

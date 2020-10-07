@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245512" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Microsoft to acquire CMG's NetCarta.</title>
+<headline>Microsoft to acquire CMG's NetCarta.</headline>
+<dateline>REDMOND, Wash. 1996-12-10</dateline>
+<text>
+<p>Microsoft Corp on Tuesday said it will acquire NetCarta Corp, a unit of CMG Information Services Inc, and will integrate NetCarta's WebMapper Web-site management tool into the Microsoft BackOffice software package.</p>
+<p>Terms of the deal were not disclosed.</p>
+<p>The aquisition of NetCarta, a Scotts Valley, Calif.-based developer of client/server Web management and navigation tools, will give Microsoft a comprehensive intranet and Internet Web site development product, the company said.  </p>
+<p>Microsoft said it plans to use its marketing and distribution channels to bring NetCarta's WebMapper software to a broader customer base.</p>
+<p>Key NetCarta employees, including Rory Stark, NetCarta co-founder and chief technical officer, will join Microsoft's Internet services business unit within the server applications division to support the integration and continued development of NetCarta technologies in Microsoft products, the company said.</p>
+<p>In addition to the acquisition of NetCarta, Microsoft said it will make a minority equity investment in CMG.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

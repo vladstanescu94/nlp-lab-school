@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544012" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: U.S. encryption export legislation moving ahead.</title>
+<headline>U.S. encryption export legislation moving ahead.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-04-28</dateline>
+<text>
+<p>A bill to dramatically relax U.S. export controls on computer encoding technology will be considered by a House Judiciary subcommittee on Wednesday, congressional staff members said Monday.</p>
+<p>Heading for a vote, the bill garnered an endorsement from a politically diverse coalition of Internet privacy advocates.</p>
+<p>In a related development Netscape Communications Corp. said the Commerce Department gave the Internet software company permission to export some products containing stronger encoding, or encryption, features.</p>
+<p>Current U.S. laws strictly limit export of products with encryption, software that scrambles information and renders it unreadable unless one has a password or software &quot;key.&quot;</p>
+<p>Netscape, which had been allowed to export encryption software with keys 40 bits long, said it will now be able to sell abroad products with 56-bit keys. The longer the key, the harder it is to crack an encoded message, and the 56-bit key makes it 65,000 times tougher to decode.</p>
+<p>The Security and Freedom through Encryption Act, sponsored by Virginia Republican Representative Robert Goodlatte, would allow U.S. companies to export strong encryption programmes if such products were being offered by foreign competitors.</p>
+<p>The Clinton administration opposes the legislation, which it argues would allow international criminals and terrorists to get easy access to encryption that could thwart law enforcement agencies' efforts.</p>
+<p>Under the adminstration's current policy, strong encryption can be exported only if it allows the government to crack the codes by recovering the software keys.</p>
+<p>Netscape has promised to abide by that policy, said its chief scientist, Taher Elgamal. Within two years, its products will allow the government to decode encrypted data by gaining access to the keys.</p>
+<p>If the bill is approved by the Courts and Intellectual Property subcommittee, the full Judiciary Committee will consider it, said David Lehman, legislative counsel for Goodlatte.</p>
+<p>The legislation will sail through the subcommittee and be voted on by the full committee in a few weeks, according to Shabbir Safdar, executive director of the Voters Telecommunications Watch, one of the groups endorsing the measure Monday.</p>
+<p>&quot;It looks very promising with 78 co-sponsors,&quot; Safdar said. &quot;This is the best hope in the House for real encryption reform this decade.&quot;</p>
+<p>Others who endorsed the bill included the Centre for Democracy and Technology, the Electronic Frontier Foundation and Americans for Tax Reform.</p>
+<p>A similiar bill is pending in the Senate, where the Commerce Committee is expected to vote on its version in the next few weeks.</p>
+<p>Not all civil libertarians favour the legislation as currently drafted. Another group, led by the American Civil Liberties Union, wrote Goodlatte this week asking him to delete a provision of the bill that would create new criminal penalties for using computer encryption &quot;in the furtherance of the commission of a criminal offence.&quot;</p>
+<p>The group generally backed Goodlatte's efforts but said in its letter the new criminal penalties &quot;could have a series of unintended consequences that would easily undermine the other desirable features of the bill.&quot;</p>
+<p>From the Internet community, signers included the Internet Society and two private companies, Cybercash Inc. and Digex Inc.</p>
+<p>Instead of criminalizing use of encryption, the group said prosecutors should rely on existing federal and state laws prohibiting obstruction of justice and concealment of evidence.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

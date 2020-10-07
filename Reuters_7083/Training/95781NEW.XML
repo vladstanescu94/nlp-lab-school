@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95781" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Excalibur announces board changes.</title>
+<headline>Excalibur announces board changes.</headline>
+<dateline>VIENNA, Va. 1996-10-04</dateline>
+<text>
+<p>Excalibur Technologies Corp said on Friday that four of its directors have resigned from the company's board and one new director has been elected to the board.</p>
+<p>The board has been reduced to eight members from 11, Excalibur said. Reasons for the resignations were not immediately available.</p>
+<p>James Dowe III, J.M. Kennedy, Jay Diamond and Edwin Addison have resigned as directors, Excalibur said. Dowe and Kennedy have been appointed as advisors to the board and Diamond will continue as outside legal counsel, the company said.</p>
+<p>Addison also resigned as executive vice president of Excalibur to pursue other interests and ventures, the company said.</p>
+<p>Addison will continue as a part-time employee for the next nine months to assist Excalibur with the transition to other executives on projects on which he worked, Excalibur said.</p>
+<p>Paul Nelson, one of the founders of ConQuest Software Inc, was elected to the board to replace Addison as the contractual representative of the former stockholders of ConQuest Software Inc, Excalibur said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42561" id="root" date="1996-09-10" xml:lang="en">
+<title>UK: UK firm launches software to tighten compliance.</title>
+<headline>UK firm launches software to tighten compliance.</headline>
+<byline>Alexander Smith</byline>
+<dateline>LONDON 1996-09-10</dateline>
+<text>
+<p>A British firm believes it has developed a computer programme which could prevent other financial firms getting into the sort of situation Morgan Grenfell Asset Management (MGAM) is currently trying to resolve.</p>
+<p>Numerous risk management systems already exist, but Frasin Limited says its Windows-based SOFWIN is the first to address operational risk management rather than financial risk.</p>
+<p>&quot;We believe it will prompt senior management to ask the right questions, which will create a more disciplined and controlled environment,&quot; Frasin's chief executive Philip Martin told Reuters on Tuesday.</p>
+<p>MGAM is attempting to unscramble a complicated web of investments in three of its funds. These led to the funds being temporarily suspended last week after it revealed &quot;suspected irregularities&quot; in the them.</p>
+<p>A fund manager for two of the funds was suspended at the same time and had his assets frozen by a High Court injunction.</p>
+<p>Ironically, Martin says he took the product to show Deutsche Morgan Grenfell, the investment banking arm of Deutsche Bank, some months ago with a view to selling it to them.</p>
+<p>He says he will still offer it to the firm, freely admitting that his prospects may have been boosted by publicity surrounding MGAM and a recent fine for fund management firms in the Robert Fleming group over so-called &quot;rat-trading&quot; by a fund manager in a Hong Kong joint venture with Jardine Matheson.</p>
+<p>&quot;I have to thank Morgan Grenfell and Jardine Fleming because their timing has been impeccable,&quot; he says with a grin.</p>
+<p>Martin believes the software could also help banks avoid another Barings situation, where so-called &quot;rogue trader&quot; Nick Leeson, was able to run both the front and back offices, effectively monitoring his own trading.</p>
+<p>Leeson is currently serving a long jail sentence in Singapore for fraudulent trading which led to losses of around $1.4 billion and culminated in the blue-blooded bank's collapse.</p>
+<p>While Martin admits it will never be possible to eradicate rogue individuals, he says closer monitoring by senior management of all an institution's operations is essential.</p>
+<p>If a chief executive, chief financial officer or other top official wants to avoid criticism in the event of a problem within the firm, then a programme such as that offered by Frasin, which is part of the HSBC group, should ensure they have adopted every measure possible to avoid such events.</p>
+<p>SOFWIN, which costs 12,000 pounds ($18,640) a year and must be signed up to for three years, takes the institution through a detailed questionnaire, with a possible 3,600 different questions.</p>
+<p>The collated results, after any subsidiaries or branches have also been through the process, then gives a clear picture of where any potential weaknesses lie, Martin said. It can also compare the standards of different branches and how they each match up with an &quot;ideal&quot; set-up.</p>
+<p>Much of the programme is devoted to dealing activities, as this has been found to be a major area of concern.</p>
+<p>&quot;The largest part revolves around dealing activities. I have spoken to senior managers who are scared to death about what their traders are up to,&quot; he added.</p>
+<p>But however thorough the programme, Martin says the buck stops with senior management and they are the main target of his marketing.</p>
+<p>&quot;It takes commitment by senior management. If they are not committed to it (assessing the company's organisational risk), then it's a waste of time. But they are opening themselves up to criticism,&quot; he said. ($1=.6436 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

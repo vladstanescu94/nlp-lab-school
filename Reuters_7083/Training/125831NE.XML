@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125831" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: RESEARCH ALERT - Sybase.</title>
+<headline>RESEARCH ALERT - Sybase.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist analyst Jim Pickrel said he is cutting his earnings estimates for Sybase Inc &quot;to reflect a more conservative outlook&quot; on the company going forward.</p>
+<p>-- Pickrel cut his fourth quarter 1996 estimate from a share profit of $0.11 to $0.05, sending the full year to a loss of $0.35 a share from a loss of $0.31. He cut his 1997 earnings estimate to $0.33 a share from $0.54.</p>
+<p>-- Thursday, Sybase reported an operating profit of $0.01 a share, beating the Street estimate of a $0.06 share loss.</p>
+<p>-- In a statement, Pickrel called the third quarter results &quot;encouraging&quot; and said the &quot;return to profitability marks (the) first stage of a possible turnaround - customer loyalty and successful product rollouts will determine (the) outcome.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

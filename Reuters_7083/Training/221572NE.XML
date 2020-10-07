@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221572" id="root" date="1996-11-27" xml:lang="en">
+<title>JAPAN: Softbank shares sharply lower in mid-morning trade.</title>
+<headline>Softbank shares sharply lower in mid-morning trade.</headline>
+<dateline>TOKYO 1996-11-27</dateline>
+<text>
+<p>Shares in Softbank Corp were sharply lower in mid-morning Wednesday trade, dragged down by the company's decision on Tuesday to issue new stock and convertible bonds, brokers said.</p>
+<p>As of 0130 GMT, the shares were at 8,500 yen, after finishing at 9,020 in over-the-counter trading on Tuesday.</p>
+<p>On Tuesday, Softbank said it planned to issue 4.7 million new shares as well as 10 billion yen worth of convertible bonds with a maturity date set for March 31, 2000.</p>
+<p>The firm said it would raise 53.7 billion yen through the bonds and new share issues.</p>
+<p>The shares were weak in Tuesday trade in the over-the-counter market, hitting a new low for the year due to fears of a glut.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

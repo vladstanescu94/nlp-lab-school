@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179286" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Digital still sees PCs at break-even in Q2.</title>
+<headline>Digital still sees PCs at break-even in Q2.</headline>
+<dateline>NEW YORK 1996-11-11</dateline>
+<text>
+<p>Digital Equipment Corp said Monday its personal computer unit is still on target to break-even in its second fiscal quarter, ending December, and its goal still remains for PCs to be profitable next year.</p>
+<p>&quot;We have improving financial performance,&quot; said Howard Elias, vice president of worldwide business segments for Digital's PC business. &quot;We are on track with our goal to break even by the end of the calendar year.&quot;</p>
+<p>Elias said Digital has addressed many of the issues of its PC business, which has been losing money in recent quarters and was a major contributor to Digital's first-quarter loss.  </p>
+<p>Elias said Digital has doubled its gross profit margins, reduced its cost structure, and become cash-flow positive in the first quarter. Elias declined to be more specific about the PC unit's profit margins.</p>
+<p>He said an improved product mix will also contribute to profits and revenues. For example, Digital is focusing more on servers, which generate bigger profits than PCs. Servers are computers that run networks and store and manage the software and data in a corporate network.</p>
+<p>Digital on Monday introduced new servers based on Intel Corp's Pentium Pro processor, starting at $6,000.  </p>
+<p>Digital unveiled four servers, called the Prioris HX 6000 Series, which run Microsoft Corp's Windows NT operating system. They range in price from $6,000 to $10,000, depending on configuration.</p>
+<p>Digital also introduced Prioris LX 5200 and Prioris XL 5200 servers, priced at $2,800 to $4,000 and $3,000 to $5,000 respectively.  Digital said the servers are available from its channel partners, such as master resellers, wholesales, distributors and dealers, immediately.</p>
+<p>&quot;These are very competitive in features and in price,&quot; Elias said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

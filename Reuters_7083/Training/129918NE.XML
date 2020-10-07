@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129918" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Elcom unit signs $100 mln deal.</title>
+<headline>Elcom unit signs $100 mln deal.</headline>
+<dateline>NORWOOD, Mass. 1996-10-21</dateline>
+<text>
+<p>Elcom International Inc said on Monday its personal computer remarketing unit signed a an agreement with Smith Barney, worth over $100 million in revenues over three years, to provide computer equipment.</p>
+<p>Elcom said its Catalink Direct Inc subsidiary would provide Compaq Computer Corp personal computers for use in Smith Barney's offices across the United States.</p>
+<p>&quot;We believe this agreement is further validation of our PECOS electronic commerce technology which will allow Smith Barney to streamline its ordering process for the replacement of PC's and peripherals,&quot; Jim Rousou, Catalink Direct's president and chief executive officer said.</p>
+<p>Catalink develops and licenses proprietary client/server transaction-based software systems.  Elcom licenses this so-called PECOS technology to companies creating interactive electronic catalog and ordering systems.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWOOD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

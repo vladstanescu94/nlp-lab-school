@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="736183" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: Thomson unveils RCA Network Computer, WebTV rival.</title>
+<headline>Thomson unveils RCA Network Computer, WebTV rival.</headline>
+<dateline>NEW YORK 1997-07-17</dateline>
+<text>
+<p>Thomson Consumer Electronics introduced the RCA Network Computer, a set-top box device that turns a television into a low-cost Internet access device and is one of the first major competitors to WebTV Networks Inc.</p>
+<p>The RCA Network Computer provides Internet access, via a telephone line and a small device that attaches to a standard color television.  But Thomson executives said that the RCA Network Computer is more integrated with the TV than WebTV.</p>
+<p>The RCA Network Computer will be available nationwide in September, priced at $349 for a device with a wireless keyboard and for $299 for a base model with a wired keyboard.  </p>
+<p>The RCA Network Computer is designed around the standards developed by Oracle Corp and its Network Computer unit and it will be the first product designed around the Oracle specifications to enter the consumer market.</p>
+<p>&quot;We are the first ones to take network computing into the home,&quot; said Louis Lenzi, vice president of multimedia products and services at Thomson, the U.S. operations for Thomson Multimedia, which is a unit of Thomson SA in Paris.</p>
+<p>Lenzi said the RCA Network Computer provides a more personalized delivery of information to consumers than WebTV, which signed a deal to be acquired by Microsoft Corp.  </p>
+<p>The deal, announced in April and valued at $425 million, is still pending and has yet to receive regulatory approval.</p>
+<p>Lenzi said that RCA is targeting a potential market of 60 million television-equipped homes in the U.S. that are not equipped with personal computers and the 20 million homes with PCs but without modems for online and Internet access.</p>
+<p>NetChannel Inc, a privately-held company in South San Francisco, Calif., will provide Internet access for an additional $19.95 a month.  NetChannel said its service is personalized with specialized entertainment content for RCA users, an Electronic Program Guide and electronic mail.  </p>
+<p>Thomson also said its system can easily hook up to a standard PC printer, using a standard connection.  WebTV has been criticized for its lack of printing capabilities, which the company is addressing in a new software upgrade.</p>
+<p>&quot;Web TV is a box that allows you to surf the Web on your TV and this integrates computer technology into the TV,&quot; said Bonnie Crater, vice president of strategic marketing at Network Computer Inc, an Oracle unit.  &quot;WebTV is a great first generation product; this is a great second generation product.&quot; Other firms coming out with TV devices based on the Oracle specification include Zenith Electronics Corp.  </p>
+<p>Thomson said it plans a national retail rollout in September but it does not plan a hefty television campaign yet, much in the same way that it rolled out the Digital Satellite System (DSS) in 1994.  DSS was one of the most successful consumer electronics rollouts and Thomson initially had heavy in-store promoting and advertising with its retailers and later did a national TV advertising campaign.</p>
+<p>&quot;Bill (Gates), spend as much money as you want (on advertising Web TV),&quot; said Lenzi. &quot;We think we will be the ones that consumers buy.&quot;  Thomson and Oracle executives would not give any projections on how many RCA units will sell.  </p>
+<p>The RCA product is priced in a similar range to WebTV, which has a suggested retail price of about $300, including the keyboard.  WebTV is sold by its partners Sony Corp and Philips Electronics NV.  About 85,000 units have been sold since its launch last year.</p>
+<p>&quot;I think the NetChannel service is a lot closer to what we are going to need to get people really interested in this,&quot; said Josh Bernoff, a Forrester Research analyst. &quot;It's a lot more TV-like...There is a fundamental problem here; until the Web is a lot more entertaining and until it's better integrated with TV, (Internet access and TV) is an odd mix.&quot;</p>
+<p>&quot;You are not going to see this category take off just because RCA has a product,&quot; Bernoff said, adding that Sony and Magnavox, the Philips brand, are not exactly off brands in TV.</p>
+<p>Forrester forecasts the &quot;Internet-enabled TV&quot; market to reach about 100,000 households this year, growing to 400,000 in 1998 and reaching 3.2 million in the year 2000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

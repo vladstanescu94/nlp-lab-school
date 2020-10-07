@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328823" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Sun enters $50 billion data center market.</title>
+<headline>Sun enters $50 billion data center market.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO, Calif. 1997-01-22</dateline>
+<text>
+<p>Sun Microsystems Inc on Wednesday unveiled its first mainframe-class server, marking its entry into a $50 billion market for data-center computer hardware, storage, software and services.</p>
+<p>Ed Zander, president of the company's Sun Microsystems Computer Co, said he expected the machines to sell for an average price of more than $1 million.  </p>
+<p>Speaking to a a gathering of analysts, customers and reporters at San Francisco's Museum of Modern Art, Zander cautioned that the new Ultra Enterprise 10000 servers, which can compete with mainframe computers on many measurements of computing performance, would have a longer sales cycle than Sun's more traditional Unix product lines.</p>
+<p>Still, he said Sun expected to sell more of its speedy Ultra Enterprise 5000 and 6000 midrange servers as a result of its new high-end machine, which is available immediately to launch customers. It will begin shipping in volume in March.  </p>
+<p>&quot;It really puts Sun into some new markets where they have not been able to play before,&quot; said C.B. Lee, senior analyst at Sutro &amp; Co.</p>
+<p>Lee said the new server would be most useful for running complex database applications and for extending new computing capabilities, rather than replacing older software and hardware that have come to be known as legacy systems.  </p>
+<p>Montgomery Securities analyst Kurt King said by extending Sun's capabilities at the high end, the new machines may help overall investor sentiment by allaying somewhat the fears of competition at the lower end of Sun's product line from PCs based on Intel chips and Microsoft Windows.</p>
+<p>&quot;It expands Sun's business,&quot; he said, adding it would inevitably help boost margins and help move the mix toward servers and away from the Unix workstation market. Sun dominates that market but Intel and Windows NT are challenging its lead.</p>
+<p>The base Starfire configuration -- 16 processors and two gigabytes of memory -- will be priced around $870,000.  </p>
+<p>Sun officials declined to comment specifically on margin and revenue or earnings expectations, although John Shoemaker, who heads Sun's enterprise server and storage group, repeated that Sun aimed to become the leading midrange server supplier.</p>
+<p>It is currently third behind International Business Machines Corp and Hewlett-Packard Co, analysts said. Shoemaker said Sun estimated its rate of growth to be two to three times that of its archrivals, however.</p>
+<p>&quot;We think we have a realistic objective in about three years to be number one,&quot; he said. &quot;We are significantly gaining share on our competitors.&quot;  </p>
+<p>Sun said its 10000 series, codenamed 'Starfire', offers up to four times the performance of IBM's CMOS (complementary metal oxide semiconductor) mainframe and HP T-series servers.</p>
+<p>Zander said the company's sales force would market the machines aggressively. &quot;This is a hunk of Iron,&quot; he said after the machine was brought onto stage using a turntable. &quot;Bring back the old days -- gross margin, revenue,&quot; he said.</p>
+<p>Because it runs Sun's Solaris version of Unix, the 10000 series also can run 12,000 Solaris-based applications.</p>
+<p>Shares of Sun fell 68 cents to $32.75 in Nasdaq trade.  </p>
+<p>Sun also announced storage products, including its RSM Array 2000, which supports up to 20 terabytes for the 10000. It will begin shipping in February for Solaris servers.</p>
+<p>The RSM Array 2000 is priced at $0.49 per megabyte, sharply lower than the $1.75 per megabyte and $1.08 per megabyte it said new EMC machines cost.</p>
+<p>Sun said it would offer Veritas Software Corp's Veritas File System disk and information management system with its storage products, and it demonstrated it on the RSM Array 2000. Mountain View-based Veritas jumped $6.75 to $51.</p>
+<p>-- Sam.Perry@Reuters.com, Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

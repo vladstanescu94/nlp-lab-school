@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87433" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Citation sees Q2 up but below estimates.</title>
+<headline>Citation sees Q2 up but below estimates.</headline>
+<dateline>ST. LOUIS, Mo. 1996-10-01</dateline>
+<text>
+<p>Citation Computer Systems Inc said Tuesday that it expects to report revenues and operating earnings for the second quarter that are above the year-ago period but short of analysts' expectations.</p>
+<p>Citation, which makes comprehensive client/server information systems, said it expects earnings for the second quarter in the range of $0.09 to $0.12 a share. The earnings projection excludes a previously announced charge of $0.21 a share for restructuring and consolidation of its operations in the United Kingdom.</p>
+<p>Citation earned $0.01 a share in the year-ago quarter.  </p>
+<p>Citation also said it expects revenues for the quarter ended September 30 of between $6.2 million and $6.4 million, an increase of 35 to 39 percent from a year ago.</p>
+<p>A company spokesman said analysts have projected second quarter revenues of about $8.0 million and operating earnings, excluding the charge, in a range of $0.15 to $0.17 a share.</p>
+<p>Citation said it filed a registration statement on July 16 with the Securities and Exchange Commission covering a proposed secondary common stock offering. The company said it will review market conditions over the next week to determine whether and when to go forward with that offering.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

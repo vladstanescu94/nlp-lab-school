@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14924" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Delphi Information president resigns.</title>
+<headline>Delphi Information president resigns.</headline>
+<dateline>ROLLING MEADOWS, Ill. 1996-08-26</dateline>
+<text>
+<p>Delphi Information Systems Inc said Monday that Denis Connaghan resigned as president and chief executive officer for personal reasons.</p>
+<p>Delphi, which provides integrated business solutions to the personal and casualty insurance industry, said Connaghan will continue to serve as a director and consultant.  </p>
+<p>It was not immediately known who would replace Connaghan. The company could not be reached for comment.</p>
+<p>&quot;During Connaghan's tenure as president, Delphi has refocused its core business and solutions offerings to capitalize on new opportunities offered by changing distribution in the insurance industry,&quot; Yuval Almog, chairman, said in a statement. &quot;He also put in place the company's current management team and was responsible for Delphi's recent private placements of $10.7 million.&quot;</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROLLING MEADOWS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

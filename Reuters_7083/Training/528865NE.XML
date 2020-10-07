@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="528865" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: IDX Systems Corp Q1 shr flat at $0.16.</title>
+<headline>IDX Systems Corp Q1 shr flat at $0.16.</headline>
+<dateline>BURLINGTON, Vt. 1997-04-22</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr			  $0.16		    $0.16</p>
+<p> Net			  3,400		    3,353</p>
+<p> Revs			45,058		   37,345</p>
+<p> Avg shrs		  21,539		   21,282</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: 1997 period includes a charge of $2.3 million related to acquisitions costs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Vt."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

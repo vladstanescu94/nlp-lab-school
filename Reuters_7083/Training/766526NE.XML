@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766526" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: US House lawmakers savage encryption export bill.</title>
+<headline>US House lawmakers savage encryption export bill.</headline>
+<dateline>WASHINGTON 1997-07-30</dateline>
+<text>
+<p>Members of the House National Security Committee on Wednesday vowed to oppose legislation to dramatically relax strict U.S. export controls on computer encoding technology.</p>
+<p>The encryption export bill, authored by Virginia Republican Bob Goodlatte, has already been approved by the Judiciary and International Relations Committees, but could be severely watered down by the National Security panel. Goodlatte has said he wants to bring the bill to the House floor in the fall separately from any amendments added by the National Security Committee, but that determination will ultimately be made by the Rules Committee.</p>
+<p>Encryption programs, which scramble information and render it unreadable without a password or software &quot;key,&quot; have become an increasingly important means of securing electronic commerce and global communications on the Internet. But the scrambling capability can also be used by criminals to hide their dealings from law enforcement agencies.</p>
+<p>The Clinton administration has steadily raised the volume of its objections to the Goodlatte bill. In recent weeks, the secretary of defense, the attorney general and the president himself have written to lawmakers in favor of exporting strong encryption only if the products let the government decode any message by gaining access to the software keys.</p>
+<p>The bill is already backed by a majority of members of the House, including 24 members of the national security panel. But at Wednesday's hearing no members spoke in favor of the measure, although some expressed mixed opinions.</p>
+<p>Committee chairman Floyd Spence, Republican of South Carolina, came close to endorsing the key recovery approach but urged members to &quot;withhold final judgment on this legislation until the committee benefits from the expert testimony we are about to receive.&quot;</p>
+<p>A half dozen lawmakers decided not to wait and weighed in against the bill before hearing from industry experts scheduled to testify in favor of the measure. Rep Duncan Hunter, Republican of California, called the 254 co-sponsors of the bill a &quot;cabal,&quot; adding &quot;this thing is terrible.&quot;</p>
+<p>Perhaps the harshest critic on the committee was Rep. Curt Weldon. The Pennsylvania Republican said the bill &quot;offends me&quot; and of the supporters said &quot;some of my colleagues have been sold a bill of goods.&quot;</p>
+<p>Weldon said he had spoken to two co-sponsors of the bill who told him they no longer supported the legislation and would ask to be taken off the co-sponsor list. After the hearing, Weldon declined to name the members. In the past four months, three other lawmakers have dropped off the list.</p>
+<p>But a staffer for Goodlatte said late Wednesday that no members had asked to be removed from the list during the day and four new sponsors had been added since Tuesday.</p>
+<p>Hawaii Democrat Neil Abercrombie said the concerns of civil libertarians opposed to the bill seemed unsuited to the debate over export policy. &quot;I would oppose what's being done here,&quot; he said, noting that constitutional rights do not protect foreign spies.</p>
+<p>But ranking Democrat Ron Dellums of California challenged Abercrombie. &quot;I don't agree with the gentleman that issues of privacy are not national security issues,&quot; he said. Referring to the fourth amendment's requirement of a search warrant, Dellums said the government could become &quot;the ultimate hacker&quot; if imbued with too much authority.</p>
+<p>--Aaron Pressman((--202-898-8312)) REUTER</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

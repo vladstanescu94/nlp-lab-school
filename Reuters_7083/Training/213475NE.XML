@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213475" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Computer Assocs lures reseller from Tivoli.</title>
+<headline>Computer Assocs lures reseller from Tivoli.</headline>
+<dateline>ISLANDIA, N.Y. 1996-11-25</dateline>
+<text>
+<p>Computer Associates International Inc said privately held Network Computer Solutions Inc had ended its two-year partnership with Tivoli Systems and chosen to work with Computer Associates instead.</p>
+<p>Computer Associates said it has authorized Network Computer, a major systems integrator operating in the Carolinas region of the United States, to resell CA-Unicenter, its client/server enterprise management software.</p>
+<p>Tivoli is a unit of International Business Machines Corp.</p>
+<p>Computers Associates and Tivoli compete head-to-head in the business of supplying software to manage large corporate information networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="711095" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: Software Spectrum Q4 shr $0.02 vs $0.28.</title>
+<headline>Software Spectrum Q4 shr $0.02 vs $0.28.</headline>
+<dateline>GARLAND, Texas 1997-07-07</dateline>
+<text>
+<p>Three months ended</p>
+<p>		     April 30 1997	    March 31 1996</p>
+<p> Shr		 $0.02		    $0.28</p>
+<p> Net		 104			1,190</p>
+<p> Revs		200,818		  99,605</p>
+<p> Avg shrs	  4,366		    4,255</p>
+<p>	 Year ended</p>
+<p>		     April 30 1997	     March 31 1996</p>
+<p> Shr	 loss  $0.20	   profit $1.73</p>
+<p> Net	 loss  845	     profit 7,366</p>
+<p> Revs		796,285		  398,501</p>
+<p> Avg		 4,314		    4,260</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Software centrum said the 1997 fiscal year included transition costs of $3.7 million relating to the aqcuisitions of Egghead Inc's CGE division and the Essentially Group.</p>
+<p>It also said the 1997 quarter and year included $680,000 in goodwill and $2.67 million in amortization. The company added its Asia-Pacific operations posted an operating loss in the 1997 fiscal year.</p>
+<p>Software changed its fiscal year-end to Arpil 30 from March 31. The company's full name is Software Spectrum Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GARLAND, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

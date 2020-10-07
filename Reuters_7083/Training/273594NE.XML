@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273594" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: CBOE to list Siebel options on Dec 30.</title>
+<headline>CBOE to list Siebel options on Dec 30.</headline>
+<dateline>CHICAGO 1996-12-23</dateline>
+<text>
+<p>The Chicago Board Options Exchange (CBOE) said it will list options on Siebel Systems Inc on December 30.</p>
+<p>The exchange said the options will have introductory expirations in January, February, May and August. Opening strike prices will be 22-1/2, 25 and 30.</p>
+<p>It said Felt Trading LP will be the designated primary market maker (DPM) for the options.</p>
+<p>((--Derivatives desk, 312 408 8750))</p>
+<p>((E-mail: derivatives@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

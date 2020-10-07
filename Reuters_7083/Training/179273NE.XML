@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179273" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Micro-Integration Corp Q2 ended Sept 30.</title>
+<headline>Micro-Integration Corp Q2 ended Sept 30.</headline>
+<dateline>FROSTBURG, Md. 1996-11-11</dateline>
+<text>
+<p>(Amounts in thousands except per share data)</p>
+<p>				     Quarter Ended  Fiscal Year Ended</p>
+<p>					  September 30,    March 31,</p>
+<p>					1996     1995     1996     1995</p>
+<p>   TOTAL REVENUE		 1,565    1,972    7,784   10,123</p>
+<p>   GROSS PROFIT		    962    1,435    5,312    7,275</p>
+<p> OPERATING EXPENSES	    1,160    1,482    6,105    9,005</p>
+<p> OTHER INCOME (EXPENSE)	    9     (31)     (42)	132</p>
+<p>   Loss before income taxes  (189)     (78)    (835)  (1,598)</p>
+<p>Income tax (benefit) expense</p>
+<p>					 (2)	 33     (34)    (511)</p>
+<p>   NET (LOSS) INCOME	  ( 187)   ( 111)   ( 801) ( 1,087)</p>
+<p> Earnings per share	  ( 0.08)  ( 0.05)  ( 0.33)  ( 0.46)</p>
+<p>Weighted average common and common</p>
+<p>equivalent shares outstanding</p>
+<p>				     2,397    2,423    2,414    2,352</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FROSTBURG, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

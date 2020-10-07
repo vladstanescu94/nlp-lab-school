@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245457" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Netscape jumps on pact with Baby Bells.</title>
+<headline>Netscape jumps on pact with Baby Bells.</headline>
+<dateline>NEW YORK 1996-12-10</dateline>
+<text>
+<p>Shares of Netscape Communications Corp jumped after it signed a pact for five regional baby bells to use its Internet browser with their Internet access services, a move that analysts said confirmed it is still a big presence in the consumer Internet market.</p>
+<p>&quot;A few months ago, they announced a focus on the corporate marketplace,&quot; said Abhishek Gami, an analyst at Nesbitt Burns Securities. &quot;This is a little reminder from them that they are still a big player in the consumer marketplace.&quot;</p>
+<p>Netscape said the five regional Bells represent a 26-state potential market of 72 million consumers and businesses.  </p>
+<p>Netscape jumped 4-1/4, or seven percent, to 64-1/4.</p>
+<p>Netscape said the five Baby Bells -- Ameritech Corp, Bell Atlantic Corp, BellSouth Corp, Pacific Telesis Group's and SBC Communications Inc's Southwestern Bell -- will use its new Netscape ISP Select software, which lets Internet users easily select the Internet access services of these firms, through Netscape's Web site.</p>
+<p>In recent months, Netscape has lost some major browser wins to Microsoft Corp. A few days after Netscape signed a deal with America Online Inc, Microsoft Internet Explorer software became the preferred Internet browser on AOL.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

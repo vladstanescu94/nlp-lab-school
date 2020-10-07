@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69905" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Transaction Systems unit in software pact.</title>
+<headline>Transaction Systems unit in software pact.</headline>
+<dateline>OMAHA, Neb. 1996-09-23</dateline>
+<text>
+<p>Applied Communications Inc, a unit of Transaction Systems Architects Inc, said Monday it signed an agreement to distribute PRISM (Proactive Risk Management) software from Nestor Inc.</p>
+<p>It said PRISM will be packaged with select BASE24 and TRANS24 products from U.S. Software, another Transaction Systems subsidiary.</p>
+<p>PRISM is designed to identify subtle patterns of fraudulent purchasing behavior by comparing individual card usage with known patterns of fraud.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA, Neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

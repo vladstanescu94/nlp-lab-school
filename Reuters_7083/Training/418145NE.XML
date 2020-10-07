@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418145" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: NBC reorganizes interactive division.</title>
+<headline>NBC reorganizes interactive division.</headline>
+<dateline>NEW YORK 1997-03-04</dateline>
+<text>
+<p>NBC, a unit of General Electric Co, has reorganized its interactive division into five operating units, Martin Yudkovitz, president of NBC Interactive, said Tuesday.</p>
+<p>The new structure is intended to address the rapid growth in NBC's wholly owned new media operations and initiatives conducted in partnership with others, such as Microsoft Corp and Intel Corp, he said.</p>
+<p>The five units are digital productions, local interactive media operations, advanced technology, partnerships, and interactive business development.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

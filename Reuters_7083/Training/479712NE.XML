@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479712" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Microsoft denies report of NT breach.</title>
+<headline>Microsoft denies report of NT breach.</headline>
+<dateline>SEATTLE 1997-03-31</dateline>
+<text>
+<p>A Microsoft Corp executive on Monday denied an industry report that the software giant's high-end Windows NT operating system was vulnerable to a new password-cracking code being circulated on the Internet.</p>
+<p>EE Times Online, the online version of a weekly CMP Media Inc trade newspaper, reported that the code could enable a user to unscramble a list of passwords on a computer hard drive from a remote location.  </p>
+<p>&quot;If somebody wanted to crack an NT server today, for malicious purposes or financial gain, the pieces of the puzzle are now all there,&quot; consultant Yobie Benjamin of Cambridge Technology Partners told the publication.</p>
+<p>Microsoft's Rich Tong denied in an interview that the code-cracking &quot;hack,&quot; distributed by electronic mail and posted on the Internet, represented a new threat.</p>
+<p>&quot;This particular hack, if you will, relies on the hacker cracking the administrator's password from the get-go,&quot; said Tong, vice president of marketing for personal business systems. &quot;You can't do anything if you don't have the administrator's password.&quot;</p>
+<p>He said Microsoft recommends appropriate security measures, including passwords that contain letters, numbers and symbols rather than simple words from a dictionary.</p>
+<p>He also recommended that system administrators use their administration accounts only when needed to minimize exposure to hackers.</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

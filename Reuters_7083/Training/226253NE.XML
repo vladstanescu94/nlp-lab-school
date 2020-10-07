@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="226253" id="root" date="1996-11-29" xml:lang="en">
+<title>JAPAN: Tecmo - 6mth parent results.</title>
+<headline>Tecmo - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-29</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  4.45		vs	    2.98</p>
+<p> Operating	prft 257 mln	  vs   loss 250    mln</p>
+<p> Current	  prft 262 mln	  vs   loss 216    mln</p>
+<p> Net		prft 255 mln	  vs   loss 340    mln</p>
+<p> EPS	    prft 30.09 yen	  vs    loss 40.01 yen</p>
+<p> Shares		9 million	  vs	   9 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Tecmo Ltd makes computer game software.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

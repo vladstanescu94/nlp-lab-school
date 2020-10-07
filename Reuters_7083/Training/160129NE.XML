@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160129" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Microsoft to unveil networking strategy.</title>
+<headline>Microsoft to unveil networking strategy.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1996-11-01</dateline>
+<text>
+<p>Microsoft Corp. Monday will unveil a set of software technologies that lets programmers more easily create software for sharing information through corporate and public computer networks.</p>
+<p>Microsoft executives, including Chairman Bill Gates, also will discuss at an event in Los Angeles development plans for the company's Windows family of operating systems, the company said Friday.</p>
+<p>At one of its periodic Professional Developers Conferences, Microsoft executives will encourage programmers to write commercial software based on Microsoft's standards.</p>
+<p>Microsoft's event will be held the same week Oracle Corp., Microsoft's biggest rival in the corporate software business, is holding a conference in San Francisco to pitch its own approach to writing programmes for shuffling information through huge networks.</p>
+<p>Both companies in recent months have been retooling their key applications and networking software to work on the Internet's World Wide Web and internal corporate networks called intranets.</p>
+<p>Writing even simple programmes to let computer users collaborate on documents through networks tradionally has required intimate knowledge of difficult programming techniques.</p>
+<p>The technology Microsoft will unveil on Monday will relieve programmers of the need to know the secret handshakes of its Windows operating systems, said Tanya van Dam, a Microsoft group product manager.</p>
+<p>The move would encourage developers to base more of their commercial products on Microsoft's Windows NT networking operating system, analysts said.</p>
+<p>Oracle has a similar aim.</p>
+<p>On Monday, the company will unveil its own tools for writing intranet software for tapping information stored in Oracle databases, Oracle executives said.</p>
+<p>Corporate programmers have written huge libraries of financial, manufacturing and human resources software using Oracle's products. The new programming tools would let programmers easily convert the libraries to work on the Web, Oracle said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

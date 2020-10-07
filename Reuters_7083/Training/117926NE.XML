@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117926" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Intuit unveils new Quicken products.</title>
+<headline>Intuit unveils new Quicken products.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1996-10-15</dateline>
+<text>
+<p>Intuit Inc said it was releasing new personal finance software with new features that will make it easier for first-time users to pay bills or conduct other banking business online.</p>
+<p>Intuit said its new versions of Quicken and Quicken Deluxe anticipate common mistakes, intercept the user with on screen messages and guide the user back on track if errors are made.</p>
+<p>The new products, released in time for the Christmas selling season in an annual upgrade, also provide access to news, information and services on the Internet.  </p>
+<p>The new software will include products compatible with Microsoft Corp's Windows 3.1 and Windows 95 and a product that runs on Apple Computer Inc's Macintosh computers, Intuit said on Tuesday.</p>
+<p>The product display includes an activity bar which presents the user with multiple choices of related activities and explanations in non-technical language.</p>
+<p>Internet information and services are available under Quicken Live, with no charge to users of the latest Quicken version.  </p>
+<p>Within Quicken Live, Intuit in partnership with Excite Inc is offering &quot;Best of the Web,&quot; which gives users access to descriptive reviews of financial sites on the web. One click will let a user go from Quicken to a site of the web and and one click returns to Quicken.</p>
+<p>The direct Internet connection allows updates of software at any point during the year, Intuit said.</p>
+<p>The anticipated retail price of Quicken 6 for Windows is $29.95 less a $10.00 rebate for people who upgrade from existing Quicken products. the price of Quicken Deluxe 6 is $59.95 less a $20.00 rebate.  </p>
+<p>The Quicken 7 product for Macintosh is priced at $39.95 less a 10.00 rebate for customers who upgrade. Quicken Deluxe 7 for Macintosh is priced at $59.95 less a $20 dollar rebate for upgraders.</p>
+<p>The products will be available in stores in about a week, or can be purchased directly from Intuit.</p>
+<p>Intuit said the number of banks offering online banking through Quicken has grown to more than 40, covering all 50 states.</p>
+<p>In addition to the roster of banks, particpating financial institutions include American Express Co, Fidelity Investments and broker Smith Barney.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

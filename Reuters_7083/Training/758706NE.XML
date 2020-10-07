@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="758706" id="root" date="1997-07-27" xml:lang="en">
+<title>USA: Dell to unveil first workstations.</title>
+<headline>Dell to unveil first workstations.</headline>
+<dateline>NEW YORK 1997-07-27</dateline>
+<text>
+<p>Dell Computer Corp., the high-flying direct marketer of personal computers, is expected to shake up the $15 billion workstation market when it unveils its first personal workstations, priced very aggressively, on Monday.</p>
+<p>High-powered workstations, running Microsoft Corp.'s Windows NT operating system and Intel Corp.'s Pentium Pro and Pentium II processors, are becoming increasing popular, and their lower cost is helping them steal some of the market from UNIX-based workstations in certain markets.</p>
+<p>Workstations are powerful, number-crunching computers used mostly by engineers and designers for applications ranging from designing semiconductors, pharmaceuticals or automobiles, to special effects for movies.</p>
+<p>Dell said will introduce its new personal workstations at a press conference Monday at the NASDAQ stock market to demonstrate its focus on the financial markets. No other information about the new models was available, but at PC Expo in June, Dell demonstrated workstations running Pentium II processors at speeds of 266 megahertz and 300 megahertz.</p>
+<p>The company, which has the fastest growth rate in the personal computer industry, is also targeting the mechanical computer-aided design market and software development.</p>
+<p>&quot;What's happening is the commoditization of the workstation market,&quot; said Peter ffoulkes, an analyst at Dataquest Inc. &quot;We have reasonably fast Intel-based processors that can go head to head with the RISC (reduced instruction set computing) processors and with NT, they can handle the tradtional work.&quot;</p>
+<p>Growth of lower-cost workstations far outpaced traditional, UNIX-based workstations sold by Sun Microsystems Inc., Hewlett-Packard Co., International Business Machines Corp., Digital Equipment Corp. and Silicon Graphics Inc.</p>
+<p>In the first quarter, Dataquest said that unit shipments of Windows-based NT systems jumped 242 percent, compared with a 10 percent gain in UNIX systems.</p>
+<p>But Dell is not looking to displace UNIX-based vendors, analysts said, but instead to gain share from the companies that have pioneered the Windows NT-based workstation, such as H-P, Compaq and Digital.</p>
+<p>&quot;Dell is letting the others kick the doors down and their approach will be, 'Now that you have made your decision to go with Windows NT (instead of UNIX), let us sell you a cheaper workstation,'&quot; ffoulkes said.</p>
+<p>Dell has shaken up the personal computer industry with its direct sales to customers who can configure their own systems, with Dell's build-to-order manufacturing capabilities. But this model will not necessarily carry over into the workstation market, unless customers already know and understand what kind of system they want to buy.</p>
+<p>While Dell's pricing is not known, analysts said they expect Dell to be very aggressive and that it may offer complete systems at the same price as competitive systems without a monitor. Compaq introduced workstations in June at prices ranging from $4,200 to $11,400.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

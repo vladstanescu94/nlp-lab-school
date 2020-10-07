@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165410" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Microsoft sets alliance with Asia Connect.</title>
+<headline>Microsoft sets alliance with Asia Connect.</headline>
+<dateline>REDMOND, Wash. 1996-11-05</dateline>
+<text>
+<p>Microsoft Corp and Asia Connect Tuesday announced a broad technology alliance, making Asia Connect the first company in the Asia-Pacific area to license the Microsoft Commercial Internet System.</p>
+<p>In a statement, the companies said Asia Connect said it will use the Microsoft BackOffice-based system to run a variety of services.</p>
+<p>Malaysia's Asia Connect is an Internet service provider focused on developing Asian-rich content and serving Web- and transaction-based solutions for retail organizations, financial institutions, broadcasters, corporations and government agencies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

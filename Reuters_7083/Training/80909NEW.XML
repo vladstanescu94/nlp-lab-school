@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80909" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Cimatron sees Q3 lower than estimates.</title>
+<headline>Cimatron sees Q3 lower than estimates.</headline>
+<dateline>NEW YORK 1996-09-27</dateline>
+<text>
+<p>Cimatron Ltd of Tel Aviv said Friday its third quarter results will be significantly lower than currently estimated by analysts and &quot;substantially&quot; lower than results in prior quarters.</p>
+<p>The company said much of the anticipated decrease resulted from about $700,000 in expenses for its North American unit, Cimatron Technologies Inc, which is trying to expand the company's North American distribution network.  </p>
+<p>First Call estimates place third quarter earnings at $0.12 per share, and fourth quarter earnings at $0.18 per share.</p>
+<p>As reported in July, the software company said it will exercise its option to buy 100 percent of the outstanding shares of Cimatron Technologies. The transaction should close September 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

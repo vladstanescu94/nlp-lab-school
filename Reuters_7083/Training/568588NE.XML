@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568588" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: U.S. to allow encryption exports for transactions.</title>
+<headline>U.S. to allow encryption exports for transactions.</headline>
+<dateline>WASHINGTON 1997-05-08</dateline>
+<text>
+<p>The U.S. Commerce Department said on Thursday it would allow the unlimited export of products that include encryption and are specifically designed to support financial transactions.</p>
+<p>In general, the United States strictly limits the export of products containing encryption, software that scrambles information and renders it unreadable without a password or software key.</p>
+<p>But many companies have complained that the export limits held back the development of electronic commerce over the Internet.  </p>
+<p>Products covered by the new rule would include direct home banking software offered by banks to their customers worldwide, the Commerce Department said.</p>
+<p>But commercially available encryption products used by banks that could also be used for non-financial purposes will not qualify for the new export exemption.</p>
+<p>&quot;Today's action supports the rapid growth of secure electronic commerce that relies on a robust security infrastructure,&quot; Undersecretary of Commerce William Reinsch said in a speech to the American Bankers Association.  </p>
+<p>Bankers praised the new export policy.</p>
+<p>&quot;This policy is a major step forward for individuals and institutions involved in electronic commerce,&quot; Donald Ogilvie, executive vice president of the ABA, said.</p>
+<p>--Aaron Pressman ((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

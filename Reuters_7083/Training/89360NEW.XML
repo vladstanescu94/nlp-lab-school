@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89360" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Oracle unveils universal network platform.</title>
+<headline>Oracle unveils universal network platform.</headline>
+<dateline>REDWOOD SHORES, Calif. 1996-10-01</dateline>
+<text>
+<p>Oracle Corp. Tuesday unveiled a technology package that allows any personal or network computer to work with all Web servers, database servers and application servers over any network.</p>
+<p>The technology, called Oracle NetSolutions, makes it easy to design and develop enterprise or Internet applications, the company said. The flexibility of the technology gives software developers a choice for building applications in an open, standards-based component architecture, it said.</p>
+<p>Redwood Shores, Calif.-based Oracle is the world's second-largest software company, and the largest supplier of software for information management, with annual revenues of more than $4.2 billion.</p>
+<p>Oracle's stock rose 18.75 cents to $42.75 on Nasdaq at mid-morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

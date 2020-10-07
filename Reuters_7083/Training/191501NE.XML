@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191501" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Creative to integrate Wave system.</title>
+<headline>Creative to integrate Wave system.</headline>
+<dateline>SAN JOSE, Calif. 1996-11-15</dateline>
+<text>
+<p>Wave Systems Corp said on Friday it had entered into a memorandum of understanding with Creative Technology Ltd to incorporate Wave's electronic commerce system in Creative's multimedia products.</p>
+<p>Wave is the developer of a digital content metering system that ensures payment when information publishers transmit information to customers over computer networks.</p>
+<p>Creative is a leading supplier of multimedia enabling technology that allows personal computers to handle voice and video applications.  </p>
+<p>Wave said that with its technology, content providers will be able to securely offer -- and consumers will be able to purchase -- entertainment and educational multimedia software and other digital content on a pay-per-use basis via a PC.</p>
+<p>The Wave metering system, under development since the late 1980s, has failed to gain acceptance, in part due to Wave's failure to seed the technology among computer hardware makers so that it is widely available to consumers.</p>
+<p>The deal with Creative, if finalized, could help eventually thrust Wave technology into the consumer mainstream.  </p>
+<p>&quot;The adoption of Wave's metering technology establishes a unique, powerful and secure electronic commerce solution for our customers,&quot; said Lung Yeh, vice president of the communication and Internet division of Creative.</p>
+<p>&quot;Our planned partnership creates a completely new and efficient distribution model capable of securely delivering thousands of pay-per-use or rent-to-own titles,&quot; he said.</p>
+<p>Subject to final negotiation and execution of a definitive agreement, the relationship will establish Creative as a supporter of Wave Interactive Network's Internet pay-per-use content service, knownn as WINPurchase, the company said.  </p>
+<p>The WINPurchase system allows for secure transactions to be made either directly online over the Internet, &quot;off-line&quot; by copying information from compact disc, or through other electronic software distribution methods.</p>
+<p>The relationship with hardware component supplier Creative follows deals Wave has signed with various &quot;edutainment&quot; software suppliers to use its system to distribute their software titles. These partners include Viacom Inc's Simon &amp; Schuster Interactive unit, Strategic Simulations, and Star Press, a unit of Graphix Zone Inc, a spokesman said.</p>
+<p>-- Eric Auchard, New York Newsdesk 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

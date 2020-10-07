@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236660" id="root" date="1996-12-05" xml:lang="en">
+<title>POLAND: Disney Interactive enters Poland.</title>
+<headline>Disney Interactive enters Poland.</headline>
+<dateline>WARSAW 1996-12-05</dateline>
+<text>
+<p>U.S. Disney Interactive, a unit of Walt Disney Co, has started offering its electronic games in Poland this month, deputy president of the company said on Thursday.</p>
+<p>Dominique Bourse told a news conference that 15 Disney's games would be offered by in the retail network of Polish software firm Optimus.</p>
+<p>&quot;After analyzing the market we quickly reached the conclusion that the only partner for us in Poland is Optimus,&quot; he said. He did not give any financial data of the Optimus deal.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

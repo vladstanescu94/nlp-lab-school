@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="510700" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: IKOS says to buy Zycad unit for $5 mln.</title>
+<headline>IKOS says to buy Zycad unit for $5 mln.</headline>
+<dateline>CUPERTINO, Calif. 1997-04-15</dateline>
+<text>
+<p>IKOS Systems Inc and Zycad Corp said Tuesday that IKOS would purchase Zycad's Lightspeed technology for $5 million in cash.</p>
+<p>As result of the transaction, IKOS expects to record a charge of approximately $5 million during its third fiscal quarter ending June 30, 1997.</p>
+<p>Under the terms of the agreement, IKOS paid $2.5 million to Zycad upon execution of the agreement. An additional $2.5 million will be paid out upon completion of customer transition milestones.  The agreement calls for IKOS to buy all of the software and hardware simulation technology related to the Lightspeed product, and for Zycad to promote IKOS' logic verification products to its customers.	  Separately, IKOS</p>
+<p>said Tuesday that net income for its second quarter ended March 30 was $0.28 per share vs $0.24 per share fully taxed in the same period of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

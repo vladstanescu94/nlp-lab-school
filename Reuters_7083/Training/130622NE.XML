@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130622" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Microsoft earns record $614 million in quarter.</title>
+<headline>Microsoft earns record $614 million in quarter.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-10-21</dateline>
+<text>
+<p>Microsoft Corp. reported better-than-expected profits for the latest quarter Monday as strong demand for its Windows 95 and Windows NT computer operating systems helped fuel record sales.</p>
+<p>The world's largest software maker said earnings rose 23 percent to a record $614 million, or 95 cents a share, in its fiscal first quarter ended in September, from $499 million, or 78 cents a share, in the 1995 quarter. Revenues jumped 14 percent to $2.30 billion from $2.02 billion.</p>
+<p>The profits exceeded Wall Street's expectations of 90 cents a share, and shares of the software giant rose to $136.375 in after-hours trading from the earlier close of $134 on Nasdaq.</p>
+<p>Microsoft cited strong acceptance of the company's high end Windows NT operating system.</p>
+<p>&quot;We shipped version 4.0 of Windows NT this quarter, and the momentum behind the product is outstanding,&quot; said Jeff Raikes, Group Vice President, Sales and Marketing.</p>
+<p>&quot;Corporate customers made the decision to adopt Windows NT servers and workstations in record numbers, driving 19 percent revenue growth over last quarter in the U.S. and Canada. Sales of Windows NT server grew at nearly double the rate of other operating system environments.&quot;</p>
+<p>Microsoft's results were considered a crucial measure of its progress since the year-ago period included the launch of the company's much-hyped Windows 95 operating system.</p>
+<p>Industry analysts have said Microsoft's sales and earnings growth would slow from last year's blistering pace of more than 46 percent but noted it should continue to benefit from higher sales of personal computers and the growing use of Windows 95 and Windows NT.</p>
+<p>Microsoft Chief Financial Officer Mike Brown said he expected revenues to rise sequentially over the next two quarters from the $2.3 billion reported for the quarter ended on Sept. 30.</p>
+<p>In an interview, Brown also said he thought the company's cost of goods sold could decline &quot;a little bit&quot; in the long term from the 10.9 percent of revenues just reported, already down from 16 percent a year ago.</p>
+<p>&quot;We'll grow a little bit in December and then a little bit more in March, I think,&quot; Brown said. &quot;I'm very happy with the general revenue trend, and I was very pleased with the pattern of costs in the quarter.&quot;</p>
+<p>Brown said revenues in the December quarter would be driven in part by holiday season sales, while the next quarter would get a boost from the release of the company's Office 97 business applications upgrade to one of its core products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653333" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: Microsoft, Netscape respond to privacy fears.</title>
+<headline>Microsoft, Netscape respond to privacy fears.</headline>
+<byline>David Lawsky</byline>
+<dateline>WASHINGTON 1997-06-11</dateline>
+<text>
+<p>Microsoft Corp. and Netscape, which make the software running the World Wide Web, announced Wednesday they will build in features to allay increasing fears the Internet may compromise privacy.</p>
+<p>The announcement, made with Firefly Network Inc., came as industry went before the Federal Trade Commission for the second of four days to make the case for self-regulation instead of government intervention.</p>
+<p>Sean Gaddis of Netscape said that privacy is essential for the growth of the Web as an electronic marketplace.</p>
+<p>&quot;Privacy equals money,&quot; he said. &quot;If you can have trust it enables electronic commerce.&quot;</p>
+<p>Netscape and Microsoft will modify their Web browsers -- which serve tens of millions -- to permit users to click on privacy preferences. But the industry has a long road to win the public's trust.</p>
+<p>A series of surveys unveiled at the hearings Wednesday showed the Web-using public is dubious about what happens to information developed about its Web habits.</p>
+<p>A Louis Harris poll of 1,009 computer users over 18 found that more than 57 percent of on-line users feared information about Web sites they visit would be linked to their e-mail address and dislosed to others, without their knowledge or consent.</p>
+<p>&quot;The survey shows that most on-line subscribers and Net users are ready for some privacy law and order on the cyber-frontier,&quot; said Alan Westin of Columbia University, who conducted the survey for Harris.</p>
+<p>Those findings were reflected in six other studies conducted by experts.</p>
+<p>It was against this background that Microsoft announced it would formally endorse the efforts of a technical group, the World Wide Web Consortium, and a group of computer companies, consumers groups and others, the Internet Privacy Working Group.</p>
+<p>A prototype of the new design was demonstrated for the FTC. In the sample screens, users could set up preferences for privacy. For example, they might choose to have no information about themselves conveyed, or perhaps only limited information.</p>
+<p>Before a Web site was displayed it would be checked against the criteria. If a Web site did not match up, a warning screen would pop up to warn the Web user.</p>
+<p>Consumers could then choose to go to the site or not, or to change their preferences.</p>
+<p>An independent, third-party group would monitor sites to make certain they were complying with promises not to gather data. One such group, called Trust E and headed by computer expert Esther Dyson, announced it was beginning reviews starting immediately.</p>
+<p>When the FTC completes it hearings, it will report to Congress on whether there is a need for federal legislation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

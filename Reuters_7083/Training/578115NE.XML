@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578115" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: Oracle says to launch Oracle 8 on June 24.</title>
+<headline>Oracle says to launch Oracle 8 on June 24.</headline>
+<dateline>SANTA CLARA, Calif. 1997-05-13</dateline>
+<text>
+<p>Oracle Corp President and Chief Operating Officer Ray Lane said the company's next version of its database software, Oracle 8, is &quot;on track&quot; and will be launched on June 24.</p>
+<p>&quot;We'll combine it with network computing, but it's going to ship on time,&quot; he told Reuters after making a keynote speech at a UK US Partners in Technology conference here.</p>
+<p>Lane said the announcement will be made from New York City at a launch, which will take place in 54 cities simultaneously.  </p>
+<p>Oracle 8 is a revamped version of the company's flagship product, which is designed to handle much more information. Investors have been anticipating its release because it should enable the company to attract new customers.</p>
+<p>Lane said the worldwide announcement will also include further elaboration on the company's Network Computer initiative under which partners are making low-cost devices based on its specifications to make network computing more pervasive in businesses, as well as for consumer uses.  </p>
+<p>Lane did not elaborate, but sources close to Oracle said the event will also mark the major launch of Oracle's vision of the future, including plans to drive a new architecture for network-based computing.</p>
+<p>The event will include an update on its Network Computing Architecture, a three-tier software architecture for bringing business-cricital computing to the Internet, the World Wide Web and corporate networks, one of the sources said.  </p>
+<p>Oracle has been leading the charge to expand network-based computing, which also provides opportunities to increase sales of its database software products.</p>
+<p>Oracle Chairman Larry Ellison has also trumpeted Network Computers as a way to challenge Microsoft Corp, which together with Intel Corp dominante the personal computer market.  </p>
+<p>Microsoft has long argued that Network Computers are unnecessary andit can produce both low-cost PCs and reduce the cost of maintaining PCs linked to a network, but on Monday it announced a deal that analysts said demonstrates Microsoft also plans to be a player.</p>
+<p>Microsoft said it will add technology from Fort Lauderdale, Fla.-based Citrix Systems Inc into new versions of its Windows NT software, which enables a terminal or older PC to be hooked up to a network.  </p>
+<p>Lane said Oracle anticipated a year ago that problems would occur at rival Informix Corp after Informix said it could release a new sweeping database product within six months. But Oracle had not thought the problems would be so severe.</p>
+<p>&quot;We didn't think they would crash and burn so much, but we knew they were heading for disaster,&quot; he said.</p>
+<p>Analysts say the technology Informix shipped in December is too advanced for most customer needs as the company reported a huge first quarter loss and a restructuring plan, along with the resignation of its chief financial officer.</p>
+<p>Lane said his company has installed a processes to prevent such product transition issues from arising, after having a turbulent transition in 1990.</p>
+<p>&quot;We have pristine processes for these things because in 1990 Oracle had done the same thing,&quot; he said.</p>
+<p>(sam.perry@reuters.com, Palo Alto Bureau +415 846-5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

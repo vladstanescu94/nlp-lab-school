@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="730090" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Oracle sets 3-for-2 stock split.</title>
+<headline>Oracle sets 3-for-2 stock split.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-07-14</dateline>
+<text>
+<p>Oracle Corp said Monday it has set a three-for-two stock split of its outstanding shares of common stock.</p>
+<p>The stock split will be effected in the form of a stock dividend and will entitle each stockholder of record on August 1 to receive three shares for every two shares of Oracle common stock held on the record date. Oracle said it will pay cash in lieu of fractional shares.</p>
+<p>The stock dividend will be paid on August 15.  Oracle currently has about 652,624,000 shares of common stock outstanding.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

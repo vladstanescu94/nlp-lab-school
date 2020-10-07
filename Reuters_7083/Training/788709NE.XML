@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="788709" id="root" date="1997-08-08" xml:lang="en">
+<title>USA: Informix reports loss, to restate 1996 results.</title>
+<headline>Informix reports loss, to restate 1996 results.</headline>
+<dateline>MENLO PARK, Calif. 1997-08-07</dateline>
+<text>
+<p>Informix Corp. on Thursday reported a substantial second-quarter loss and said it plans to take back as much as $100 million of its 1996 revenue to reflect &quot;errors&quot; in the way it recorded database software sales.</p>
+<p>The second-largest publisher of database programmes also said it will cut another 10 percent to 15 percent of its 4,200-person workforce in the third quarter and take an unspecified charge.</p>
+<p>The database software company had been under fire from investors for aggresively recording revenue for products that had not landed in the hands of customers and for bartering its software for services from some of its customers. Chairman Phil White resigned from the company last week.</p>
+<p>The prospects of losses for several more quarters and possible accounting misdoings means Informix likely will not recover for years, analysts said.</p>
+<p>&quot;I think they're going to have a real tough time,&quot; said Melissa Eisenstat, analyst at Oppenheimer &amp; Co. &quot;I'm completely in the dark&quot; about how long it will take before Informix is profitable again.</p>
+<p>After the market closed, the Menlo Park, Calif., company reported a loss of $120.5 million, or 79 cents a share, for for the second quarter, including a $62.1 million restructuring charge for layoffs and asset writedowns.</p>
+<p>Revenues for the quarter ended June 29 were $164.7 million.</p>
+<p>In the second quarter of 1996, Informix reported a profit of $21.6 million, or 14 cents a share, on revenues of $226 million. Those results likely will be restated.</p>
+<p>&quot;We found 40 to 50 transactions that did not meet our internal revenue recognition policies,&quot; said Bob Finocchio, who was appointed Informix chairman last week. It had taken the title of chief executive from White two weeks earlier.</p>
+<p>Finocchio said the company and its auditors are still investingating how the revenue could have been mistated, but it looks as if some revenue was booked earlier than it should have been, and some should not have been recorded at all.</p>
+<p>Based on reviews so far, Informix estimated it might reduce the previously reported 1996 revenue of $939.3 million by $70 million to $100 million.</p>
+<p>Informix writes computer programmes that help companies store huge libraries of business information in their computer networks. The company sells much of its software through resellers and computer manufacturers who pack its products with new machines.</p>
+<p>Informix had been criticised for recognising revenue as soon as the resellers received its products, not when an actual customers received them.</p>
+<p>The company also disclosed in the first quarter that it bartered some of its products in exchange for services from some of its customers.</p>
+<p>Informix's fortunes plummeted earlier this year when it bet its future on a new generation of database programmes that can handle exotic type of data, such as sounds and graphics. While the products have been praised for their technology, not many customers yet need them.</p>
+<p>&quot;They still have some really good products, but I don't think they will have a quick turnaround,&quot; said Neil Herman, analyst at Salomon Brothers in New York.</p>
+<p>Finocchio replaced White last week. White had accepted blame for making the bad bet on the new technology. In addition, Informix's vice president of worldwide marketing and the vice president of European marketing resigned last week, the company said.</p>
+<p>The company also said it will not build a new headquarters campus in Santa Clara, Calif., on land acquired in January, and will put the real estate up for sale.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

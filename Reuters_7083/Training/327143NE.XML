@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327143" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: VMARK Q4 shr loss $0.91 vs profit $0.03.</title>
+<headline>VMARK Q4 shr loss $0.91 vs profit $0.03.</headline>
+<dateline>WESTBORO, Mass. 1997-01-23</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				   Three Months Ended    Year Ended</p>
+<p>					 December 31	 December 31</p>
+<p>					1996     1995     1996     1995</p>
+<p>Shr				  (0.91)     .03    (0.91)   (0.94)</p>
+<p>Net				 (7,340)     260   (7,375)  (3,890)</p>
+<p>Revs				 16,884  17,204    69,266   68,364</p>
+<p>Ave shrs			    8,089   8,321     8,096    8,013</p>
+<p>Full name of company is VMARK Software Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

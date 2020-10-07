@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760059" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: Tinkering continues with US Senate encryption bill.</title>
+<headline>Tinkering continues with US Senate encryption bill.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-07-28</dateline>
+<text>
+<p>In an unusual legislative manuever, the Senate Commerce Committee will continue negotiating through August over the provisions of a bill on computer encoding technology approved by the committee on June 19, staffers said.</p>
+<p>The controversial legislation, known as the Secure Public Networks Act, would slightly relax strict U.S. export controls on encryption software, which scrambles information and renders it unreadable without a password or software &quot;key.&quot;  </p>
+<p>Authored by Nebraska Democrat Bob Kerrey and co-sponsored by committee chairman John McCain, Republican of Arizona, the bill would also try to use the government's vast purchases of computers and software to influence the domestic market.</p>
+<p>The bill mirrors the approach favored by the Clinton administration and law enforcement agencies that would allow the government to decode any message by gaining access to the software keys.  Under the bill, the government would only buy or fund products that incorporated so-called key recovery.  </p>
+<p>While encryption is increasingly used to safeguard electronic commerce and global communications over the Internet, the administration fears that, without key recovery, crooks and terrorists could utilize the same programs to hide their nefarious activities.</p>
+<p>But the high-tech industry and privacy and civil liberties advocates oppose the bill.  They say strong encryption is needed to spur commerce and they argue criminals would be unlikely to use encryption products with key recovery since non-recovery products are sold by foreign companies.  </p>
+<p>Mark Buse, a committee staffer working on the bill, said negotiations were ongoing with a variety of interested parties, including opponents of the measure.  &quot;Senator McCain said at the mark-up that he would want to sit down with them over the next month or two and try to see if there were some areas of compromise,&quot; Buse told Reuters. &quot;We're going to try to sit down in August for some real serious discussions.&quot;</p>
+<p>Industry lobbyists expressed frustration about the committee's approach.  &quot;We just don't think that bill is a good starting point,&quot; Novell Inc lobbyist Daniel Burton said.  &quot;There are too many problems with it.&quot;  </p>
+<p>The committee will not budge on a provision allowing the President to restrict exports deemed to pose a risk to national security, Buse said.  Industry groups and privacy advocates strongly oppose the provision, arguing the President could use the open-ended authority to maintain the status quo.</p>
+<p>The committee may replace the key recovery approach with an alternate technology, if such an alternative met the needs of law enforcement, Buse said.  Sen. McCain &quot;is in no way wed to key recovery,&quot; he said.  &quot;What he is wed to is some system that will allow the government, with a subpoena, to track down or intercept messages that involve crime.&quot;  </p>
+<p>At last month's vote, the Commerce Committee was scheduled to consider a bill from Montana Republican Conrad Burns that would have dramatically relaxed export controls.  The Burns bill also prohibited the government from forcing domestic users of encryption to give the government access to their software &quot;keys.&quot;</p>
+<p>But at the mark-up, the committee approved the substitute legislation from Kerrey and McCain instead.</p>
+<p>The Senate Judiciary Committee, which is considering drafting a new encryption bill with stronger support from industry and privacy advocates, has asked that it be given authority to amend and review the Kerrey McCain bill.  A decision on the referral request is not expected until the bill is filed by the Commerce Committee.</p>
+<p>In the House, legislation to revoke most export controls without requiring key recovery continues to gain support.  The bill, authored by Virginia Republican Bob Goodlatte, has 216 co-sponsors, nearly half of the 435-member body.</p>
+<p>((--202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294125" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: 3M sues Microsoft over Post-It notes.</title>
+<headline>3M sues Microsoft over Post-It notes.</headline>
+<dateline>ST. PAUL, Minn. 1997-01-08</dateline>
+<text>
+<p>Minnesota Mining &amp; Manufacturing Co. has sued Microsoft Corp. for infringing on its trademark for Post-it notes.</p>
+<p>The lawsuit, filed on Friday in federal court in Minnesota, charged that Microsoft's Office 97 software allows users to create little yellow adhesive notes on screens that are similar to Post-It notes and infringe on 3M's trademark.</p>
+<p>This suit seeks to stop Microsoft from using the feature and asks for unspecified damages and attorneys fees.</p>
+<p>3M spokeswoman Mary Auvin said 3M had no other choice but to sue when Microsoft failed to comply with 3M requests to stop infringing on the trademark.</p>
+<p>Sales of Post-It brand products are in the hundreds of millions of dollars in paper and electronic formats, she said.</p>
+<p>Microsoft spokesman Mark Murray said the company was working with 3M to &quot;clear up the misunderstanding,&quot; but said executives believed the suit had no merit.</p>
+<p>In its complaint, 3M said Microsoft's Office 97 &quot;includes a software component for creating ... computer representations of repositionable adhesive notes, yellow in colour ... very similar to those of 3M's Post-It Software Notes sold under the Post-It mark.&quot;</p>
+<p>Microsoft's Murray said, &quot;We do not believe we have infringed their trademark in any way. We don't have a product named Post-It, we don't have a feature called Post-It, we don't use the phrase Post-It anywhere in our advertising and marketing.&quot;</p>
+<p>He said the feature at issue was part of Office 97's Outlook personal information manager, a new feature in the best-selling software package. The feature allows users to create an instant note by clicking on the &quot;Notes&quot; icon.</p>
+<p>Office 97 is to go on sale next week.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

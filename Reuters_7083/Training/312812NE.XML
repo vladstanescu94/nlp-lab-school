@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312812" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Arbor Software Corp Q3 shr rises.</title>
+<headline>Arbor Software Corp Q3 shr rises.</headline>
+<dateline>SUNNYVALE, Calif. 1997-01-15</dateline>
+<text>
+<p>ARBOR SOFTWARE CORPORATION</p>
+<p>		  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>			(in thousands, except per share amounts)</p>
+<p>				(Unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					     December 31,  December 31,</p>
+<p>					  1996    1995     1996    1995</p>
+<p>Revenues:</p>
+<p>     License		     $10,230 $ 5,733  $26,914 $14,643</p>
+<p>Maintenance, support and</p>
+<p>	 other			 2,244   1,026    5,625   2,264</p>
+<p>     Total revenues	     12,474   6,759   32,539  16,907</p>
+<p>Cost of revenues:</p>
+<p>     License			   130     159	553     367</p>
+<p>Maintenance, support and</p>
+<p>	 other			 1,078     244    2,642     628</p>
+<p>	   Total cost of revenues</p>
+<p>					 1,208     403    3,195     995</p>
+<p> Gross profit		     11,266   6,356   29,344  15,912</p>
+<p>Operating expenses:</p>
+<p>     Sales and marketing	 6,166   3,831   15,990   9,619</p>
+<p>     Research and development  2,041     966    4,994   2,599</p>
+<p>General and administrative</p>
+<p>					 1,161     697    3,165   1,917</p>
+<p>	 Total operating expenses</p>
+<p>					 9,368   5,494   24,149  14,135</p>
+<p> Income from operations	  1,898     862    5,195   1,777</p>
+<p> Interest and other income	 471     231    1,329     285</p>
+<p> Interest expense		   (57)    (80)    (195)   (220)</p>
+<p> Income before income taxes    2,312   1,013    6,329   1,842</p>
+<p> Provision for income taxes    (809)   (200)  (2,215)   (366)</p>
+<p> Net income			  1,503     813    4,114   1,476</p>
+<p> Net income per share		.13     .07	.35     .15</p>
+<p>Shares used to compute net</p>
+<p>   income per share	     11,713  10,889   11,715  10,110</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

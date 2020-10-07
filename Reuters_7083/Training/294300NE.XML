@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294300" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: Eagle Point sees weaker fiscal Q2 shr.</title>
+<headline>Eagle Point sees weaker fiscal Q2 shr.</headline>
+<dateline>DUBUQUE, Iowa 1997-01-07</dateline>
+<text>
+<p>Eagle Point Software Corp said Tuesday it foresaw its revenues and earnings for the second quarter ending December 31 to be below industry estimates.  </p>
+<p>It also said it expected &quot;a small loss from operations&quot; in the period.</p>
+<p>Industry earnings estimates for the second quarter were $0.03 per share, it added.</p>
+<p>&quot;Our expected results for this quarter reflect a continuation of the same market conditions that we've previously reported,&quot; it said, referring to market softness for it products and delays in customer purchases of its software.</p>
+<p>Founded in 1983, Eagle Point is a supplier of AEC application software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBUQUE, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209189" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Auto-Trol Technology Corp Q4 loss widens.</title>
+<headline>Auto-Trol Technology Corp Q4 loss widens.</headline>
+<dateline>DENVER 1996-11-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.53     loss	 $0.90</p>
+<p> Net loss		   3,298     loss	 3,011</p>
+<p> Revs			 4,503		    5,612</p>
+<p> Avg shrs		   6,234		    3,329</p>
+<p>		 YEAR</p>
+<p> Shr loss		   $2.31     loss	 $3.53</p>
+<p> Net loss		  11,787     loss	10,776</p>
+<p> Revs			21,231		   25,592</p>
+<p> Avg shrs		   5,086		    3,052</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Period ended September 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

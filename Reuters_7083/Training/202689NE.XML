@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202689" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Marimba says Netscape deal not exclusive.</title>
+<headline>Marimba says Netscape deal not exclusive.</headline>
+<dateline>LAS VEGAS 1996-11-20</dateline>
+<text>
+<p>Marimba Inc Chief Executive Kim Polese said on Wednesday that the deal announced earlier today by Netscape Communications Corp to include Marimba's Castanet software on a new product called Constellation is not exclusive.</p>
+<p>&quot;This is the first of many, many announcements,&quot; Polese told Reuters at an investment conference at the COMDEX conference. &quot;We don't do exclusives.&quot;</p>
+<p>Polese said the start up company, formed by herself and three other members of Sun Microsystems Inc Java development team, hopes to establish other deals with companies such as Microsoft Corp.</p>
+<p>Earlier, Netscape Chief Executive Jim Barksdale Constellation, due to be released in mid-1997, will integrate's Marimba's Castanet tuner technology. The technology allows users to subscribe to a wide range of self-updating content and applications.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

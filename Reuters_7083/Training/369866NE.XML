@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="369866" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: Amisys to be bought by HBO &amp; Co..</title>
+<headline>Amisys to be bought by HBO &amp; Co..</headline>
+<dateline>ATLANTA 1997-02-11</dateline>
+<text>
+<p>HBO &amp; Co., which makes patient care, clinical and financial software, has agreed to acquire Amisys Managed Care Systems Inc. in a stock deal worth about $159.4 million, the companies said Tuesday.</p>
+<p>Under the definitive agreement, HBO will offer 0.35 share of its stock for each of Amisys' 7.75 million shares outstanding in a pooling of interests.</p>
+<p>Amisys' stock jumped $4.125 to $20, while HBO fell $3.875 to $59 on Nasdaq at mid-morning.</p>
+<p>Amisys develops information systems for providers of managed health care products and services.</p>
+<p>Amisys, based in Rockville, Md., said the deal is scheduled to close during the second quarter, subject to approval by its shareholders and regulators.</p>
+<p>HBO, based in Atlanta, offers enterprisewide patient care, clinical, financial and strategic management software, as well as networking technologies and other services to health care providers in the United States, Britain, Canada, Australia and New Zealand.</p>
+<p>Separately, Amisys said its net income almost doubled to $1.67 million, or 20 cents a share, in the quarter ended Dec. 31 from $853,000, or 14 cents a share, in the year-ago period.</p>
+<p>Revenues grew 66 percent to $14.3 million from $8.6 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

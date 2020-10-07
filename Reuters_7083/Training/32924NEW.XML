@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32924" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Apple to implement QuickTime on Windows.</title>
+<headline>Apple to implement QuickTime on Windows.</headline>
+<dateline>SAN FRANCISCO, Calif. 1996-09-03</dateline>
+<text>
+<p>Apple Computer Inc said it is working with Macromedia Inc and several other technology leaders to make it possible to create and edit content on Microsoft Corp's Windows systems.</p>
+<p>For the first time developers will be able to use QuickTime for developing media programs on the operating system of its one-time archrival, whose Windows runs on some 90 percent of PCs, Apple said at a news conference here that.</p>
+<p>&quot;Simply put, this is QuickTime unleashed,&quot; Marco Landi, Apple Computer Inc's chief operating officer said in announcing the decision.</p>
+<p>&quot;We are working with the industry leaders in digital video creation to power our QuickTime architecture to its next critical level,&quot; he added.</p>
+<p>Apple has said it was seeking to extend the role of its five-year-old QuickTime technology to make it the pervasive industry standard for use in creating, playing and delivering content across broadcast, Internet and CD-ROM media.</p>
+<p>The Cupertino, California-based pioneer of the personal computer age has been struggling to return to profitability after posting a record $740 million loss in its second quarter to the end of March of this year.</p>
+<p>The company said its decision aimed at its bid to consolidate use of QuickTime as an architecture for storing, editing and playing synchronized video, sound, music, graphics and text across multiple computer platforms.</p>
+<p>Apple will collaborate with Macromedia, the Media 100 group of Marlboro, Massachusetts-based Data Translation Inc, and Truevision to implement the complete set of features of QuickTime Application Programming Interface (API) to work on Microsoft Windows 95 and Windows NT systems.</p>
+<p>Once in place, media and software developers will need only to create their products once, on either an Apple Macintosh or a Windows-based system, in order to deliver that content across multiple platforms.</p>
+<p>This will save cost of development, the company said.</p>
+<p>&quot;Developers will save time and money while delivering their content in a consistent manner to a larger audience,&quot; the company said in a statment, noting it has supported QuickTime for playback of digital media on Windows since 1992.</p>
+<p>The move is a major new step by Apple to make its core multimedia technologies available on a broad range of systems, including Windows, International Business Machines Corp's OS/2 and the Unix operating system.</p>
+<p>It also represents a warming of relations with Microsoft Corp, which Apple lawyers battled unsuccessfully in court for years over allegations Microsoft had illegally copied the &quot;look and feel&quot; of Apple's Macintosh for its Windows system.</p>
+<p>Microsoft has continued to be the largest provider of software applications for the Macintosh, and Apple chief executive Gil Amelio has met a number of times with Microsoft chairman Bill Gates since Amelio took over Apple in February.</p>
+<p>QuickTime currently supports video, sound, graphics, animation, text, music, and motion picture file standards such as MPEG, enabling these multiple media types to be synchronized and distributed in broadcast quality. MPEG is a data-compression standard used in personal computers.</p>
+<p>Apple said it plans to begin a program of widespread beta test seeding of the software in the late autumn, with interested developers able to participate in final testing.</p>
+<p>Apple noted surveys have found 62 percent of all CD-ROM authoring is done using its Macintosh, as is 60 percent of all digital music, 45-50 percent of digital video creation and 41 percent of all web content authoring.</p>
+<p>Analysts have been split over whether Apple will be able to expand its overall market share by making such technology available on the dominant Windows system, or whether this would be necessary regardless to retain a market position.</p>
+<p>--sam.perry@reuters.com, Palo Alto Bureau +1 415 846-5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

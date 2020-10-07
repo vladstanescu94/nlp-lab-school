@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="554628" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: Microsoft, Netscape shove push.</title>
+<headline>Microsoft, Netscape shove push.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN DIEGO, Calif. 1997-04-30</dateline>
+<text>
+<p>The shift by Microsoft Corp. and Netscape Communications Corp. from browser battles to peddling push computing may force some startups to revise their business model, executives said.</p>
+<p>Despite the newly launched rival systems for updating computers automatically, shown at an industry conference here Wednesday, some executives see a role for industrial- strength push capabilities, especially for business users.</p>
+<p>&quot;Push&quot; technology automatically routes information, news and other data from publishers to users.</p>
+<p>Maureen Fleming, a senior analyst at the research firm Gartner Group, told a &quot;Push Technology Summit&quot; on the final day of the Internet Showcase conference here that the biggest market for the technology is helping corporations tie together their heterogeneous computing systems.</p>
+<p>&quot;What you should be doing is solving problems to become rich,&quot; she said, urging the audience of push computing and Internet executives to &quot;get out of the box&quot; and look at the issue from a corporate customer's perspective.</p>
+<p>She warned that companies not doing this who focus only on the simplest forms of content delivery risk going out of business, a prospect echoed by several executives here.</p>
+<p>&quot;Look around you. Look to the right. Look to the left. Nobody's going to be around anymore,&quot; predicted Richard Masterson, executive vice president of U.S. Interactive, as he stood in a hall of dozens of demonstration booths where the latest push computing products were on display.</p>
+<p>Some expressed fear Netscape and Microsoft would obliterate the markets for dozens of companies aiming to introduce their own versions of push products.</p>
+<p>&quot;We're certainly at ground zero and I don't see where other push vendors really have the space when this becomes such a big play for both companies,&quot; one executive said in a question to representatives of the two Internet giants.</p>
+<p>Joe Belfiore, group program manager for Microsoft Corp.'s Internet Explorer 4.0, and Netscape director of advanced client technology Mike McCue, said they had no intention of running third parties out of the market.</p>
+<p>&quot;Really nothing that's being done is (designed) to shut out a lot of these folks,&quot; McCue said.</p>
+<p>Nonetheless, executives of some companies suggested companies stay on alert for unwanted competition.</p>
+<p>&quot;I think they're both friend and foe,&quot; said Sandy Goldman, vice president of WavePhore Inc.'s WaveTop consumer group. &quot;You have to work with them.&quot;</p>
+<p>Airmedia Inc. CEO David Rose said he considered the companies to be &quot;very much friend&quot; and cautioned colleagues not to project overly sinister motives onto them.</p>
+<p>Lanacom CEO Tony Davis said his company seeks to support both of the rival standards, as do other startups like Datachannel, while Richard Schwartz, chairman and chief technology officer of Diffusion, said his company was aimed more at higher-end business applications.</p>
+<p>Schwartz said many startup companies would now have to morph their business plans to accommodate fresh competition, and other executives warned of the potential for mergers and restructurings to spread in the current environment.</p>
+<p>Other companies are working on adding push technology to the infrastructure, or plumbing, of the Internet.</p>
+<p>Vivek Ranadive, CEO of Tibco Inc. which sponsored the push technology portion of the conference, said he distinguishes between consumer push technologies and those used in more hardened, industrial strength applications.</p>
+<p>Tibco, a unit of Reuters Holdings Plc, earlier this week added 10 new partners for its time-tested push technologies, which Ranadive said presents &quot;a fundamentally new version of computing.&quot;</p>
+<p>Reuters chief architect Bill Donner said in a presentation Reuters will use open standards push technology from Tibco to publish information to customers of the worldwide news and information company. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

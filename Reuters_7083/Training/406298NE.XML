@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406298" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Sapiens Q4 full results.</title>
+<headline>Sapiens Q4 full results.</headline>
+<dateline>RESEARCH TRIANGLE PARK, N.C. 1997-02-26</dateline>
+<text>
+<p>Quarter Ended	   Year Ended</p>
+<p>				    (unaudited)	     (audited)</p>
+<p>				12/31/96 12/31/95  12/31/96 12/31/95</p>
+<p>						 (a)		   (a)</p>
+<p>Revenues:</p>
+<p> Software licenses	   $3,916  $3,081  $13,699    $10,208</p>
+<p>Consulting, maintenance</p>
+<p>  and other revenues	  6,734   6,567   25,288     26,432</p>
+<p>Total revenues		 10,650   9,648   38,987     36,640</p>
+<p>Cost of revenues:</p>
+<p> Software licenses		354     502    1,473	2,347</p>
+<p>Consulting, maintenance</p>
+<p>  and other revenues	  4,105   4,130   16,511     17,569</p>
+<p>Total cost of revenues	4,459   4,632   17,984     19,916</p>
+<p>Gross profit		    6,191   5,016   21,003     16,724</p>
+<p>Operating expenses:</p>
+<p>Research and development</p>
+<p>  costs, net			586     443    2,429	4,316</p>
+<p>Selling, marketing, general</p>
+<p>  and administrative	  4,380   4,321   16,781     20,317</p>
+<p> Restructuring costs	     -	 -	  -	4,456</p>
+<p>Total  operating expenses   4,966   4,764   19,210     29,089</p>
+<p>Operating income (loss)     1,225     252    1,793   (12,365)</p>
+<p>Other income (expenses):</p>
+<p> Finance income		    96     360	198	   16</p>
+<p> Other income (expenses)(b)  (376) (2,941)  (8,710)(c)(3,217)</p>
+<p> Extraordinary item		96  15,911	 96     15,911</p>
+<p>Total other income (expenses) (184) 13,330   (8,416)   12,710</p>
+<p>Net income (loss)		$1,041 $13,582  $(6,623)    $345</p>
+<p>Earnings/loss per share	 $0.06  $1.12   $(0.62)    $0.03</p>
+<p>Weighted average shares</p>
+<p> outstanding:		   13,306   12,150   13,051   12,268</p>
+<p>Note:</p>
+<p>(a) For comparison purposes, 1995 license revenues are shown at net revenue versus gross revenue, as previously reported.</p>
+<p>(b) Including other expenses, tax and minority interests.</p>
+<p>(c) Including $8,730 class action costs</p>
+<p>Full company name is Sapiens International Corp N.V.</p>
+<p>(In thousands except per share amounts)</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESEARCH TRIANGLE PARK, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

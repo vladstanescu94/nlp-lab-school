@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="659662" id="root" date="1997-06-13" xml:lang="en">
+<title>USA: Kingston Technology cuts prices on computer memory.</title>
+<headline>Kingston Technology cuts prices on computer memory.</headline>
+<dateline>FOUNTAIN VALLEY, Calif. 1997-06-13</dateline>
+<text>
+<p>Kingston Technology Co, a privately-held maker of computer memory, on Friday said it is cutting prices effective immediately for many products up to 25 percent to speed the transition toward more advanced computers and operating systems.</p>
+<p>&quot;Many companies with diverse computing platforms are in the midst of upgrading their enterprise-wide computing systems to Windows 95 or Windows NT,&quot; Gary MacDonald, vice-president of sales and marketing, said in a statement. &quot;Kingston's aim is to help facilitate the process.&quot;</p>
+<p>The company will cut prices by about 10 percent on many modules supporting systems from Compaq Computer Corp and International Business Machines Corp, it said.</p>
+<p>Kingston products support over 30 major brands of personal computers, workstations, servers, printers, scanners and other electronic devices.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOUNTAIN VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

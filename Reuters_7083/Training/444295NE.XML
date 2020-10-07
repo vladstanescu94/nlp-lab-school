@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="444295" id="root" date="1997-03-14" xml:lang="en">
+<title>HONG KONG: Welback interim net rises sharply.</title>
+<headline>Welback interim net rises sharply.</headline>
+<dateline>HONG KONG 1997-03-14</dateline>
+<text>
+<p>Six months ended December 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   5.84   vs  2.12</p>
+<p>    Dividend (H.K. cents)    nil    vs  nil</p>
+<p>    Exceptional items	  nil    vs  nil</p>
+<p>    Net			    13.92  vs  5.06</p>
+<p>    Turnover		     267.66 vs  270.57</p>
+<p>    Company name		 Welback Holdings Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Welback Holdings is a hand-held video game maker.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

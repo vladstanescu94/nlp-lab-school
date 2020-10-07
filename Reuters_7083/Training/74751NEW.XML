@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74751" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Tribune is lead investor in Lightspan.</title>
+<headline>Tribune is lead investor in Lightspan.</headline>
+<dateline>CHICAGO 1996-09-25</dateline>
+<text>
+<p>Tribune Co said Wednesday it is the lead investor in a $20 million financing of the Lightspan Partnership Inc, a company that develops and markets interactive multimedia education products to schools.  </p>
+<p>Lightspan's curriculum, designed to supplement existing core materials, consists of interactive reading and math software and Internet products on CD-ROM.</p>
+<p>The products are designed so the majority of work by students is done at home, using Internet-equipped PCs or game machines.  The company also offers teachers a World Wide Web service that links schools using Lightspan products with support and information services.  </p>
+<p>David Hiller, Tribune senior vice president for development, will serve as Tribune's representative to Lightspan's board of directors.</p>
+<p>Tribune, an information and entertainment company, also is an equity investor in other emerging media businesses including America Online Inc, CheckFree Corp, Excite Inc, Open Market Inc, StarSight Telecast Inc, SoftKey International Inc and others.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

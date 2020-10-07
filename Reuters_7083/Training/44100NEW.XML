@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44100" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Microsoft, HP working on smart card standards.</title>
+<headline>Microsoft, HP working on smart card standards.</headline>
+<dateline>REDMOND, Wash. 1996-09-10</dateline>
+<text>
+<p>An international group of leading personal computer and &quot;smart card&quot; companies, including Hewlett-Packard Co and Microsoft Corp, Tuesday said they are working together to develop open standards that integrate smart cards with personal computers.</p>
+<p>In a statement, the PC/SC Workgroup said the new technology will allow application developers to take advantage of the smart card's portability and hardware-based security, which are critical to enabling new smart-card-based PC applications for health care, banking, corporate security and electronic commerce.</p>
+<p>The group, whose members have been working together since May 1996, said the technology is scheduled to be available to the industry during the fourth quarter of 1996.</p>
+<p>Smart cards are used today for a variety of applications that range from portable, digital cash storage to proof of identity at universities. The new specifications announced by the PC/SC Workgroup will promote the development of new applications that tie the security and portability of smart cards with the worldwide installed base of personal computers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

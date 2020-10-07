@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137830" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Truevision cites Avid sales for shortfall.</title>
+<headline>Truevision cites Avid sales for shortfall.</headline>
+<dateline>SANTA CLARA, Calif. 1996-10-22</dateline>
+<text>
+<p>Truevision Inc said on Tuesday that fewer shipments of its digital video products to customer Avid Technology Inc led to a first quarter loss that &quot;disappointed&quot; the company.</p>
+<p>&quot;Other portions of our business were adversely impacted by delays in new software applications and failed to make up the reductions,&quot; the company said in a statement along with its first quarter earnings for fiscal 1997.</p>
+<p>Tuesday, Truevision reported a net loss of $0.66 per share for the quarter ended September 29, versus a profit of $0.03 per share one year ago. First quarter fiscal 1997 earnings include a charge of $0.38 a share for an accounting change.</p>
+<p>First quarter revenues fell 41 percent to $10 million from $17.0 million one year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

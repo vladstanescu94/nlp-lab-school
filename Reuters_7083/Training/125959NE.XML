@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125959" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Computer Language buys Castle Lake assets.</title>
+<headline>Computer Language buys Castle Lake assets.</headline>
+<dateline>CARROLLTON, Texas 1996-10-18</dateline>
+<text>
+<p>Computer Language Research Inc said on Friday it acquired the rural housing services assets of Castle Lake Software Inc, and that the purchase was expected to add to earnings in 1997.</p>
+<p>Terms of the acquisition were not immediately available.</p>
+<p>The company said it made the acquisition through its Rent Roll Inc subsidiary, which sells residential property management software and services to the apartment housing market. Castle Lake supplied rural housing software to customers through a marketing agreement with A&amp;M Software, which was recently acquired by Rent Roll.  </p>
+<p>The company said Castle Lake president Lee Stout would continue to be involved with Rent Roll's affordable housing division through a consulting arrangement.</p>
+<p>The purchase, which became effective October 11, was not expected to add to revenues or earnings materially in 1996, the company said.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARROLLTON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751787" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - Open Market Q2 pro forma shr loss.</title>
+<headline>TABLE - Open Market Q2 pro forma shr loss.</headline>
+<dateline>CAMBRIDGE, Mass. 1997-07-24</dateline>
+<text>
+<p>Open Market Inc</p>
+<p>	    CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					     June 30,	 June 30,</p>
+<p>					1997     1996     1997     1996</p>
+<p>Total revenues		  15,534    4,708    26,892   7,383</p>
+<p>Gross Profit		    12,495    3,416    20,865   5,657</p>
+<p>Loss from operations	 (7,840)  (7,185)  (49,448)(14,233)</p>
+<p>Net loss			(7,510)  (6,659)  (48,654) (13,526)</p>
+<p>Pro forma net loss per common and</p>
+<p>  common equivalent share   (0.24)   (0.24)    (1.60)  (0.50)</p>
+<p>Pro forma weighted average number</p>
+<p>of common and common equivalent</p>
+<p>  shares outstanding	  31,328   27,274    30,459  26,877</p>
+<p>		     (in thousands, except per share data)</p>
+<p>CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)</p>
+<p>				     (in thousands)</p>
+<p>							  Jun 30,   Dec 31,</p>
+<p>							     1997     1996</p>
+<p>   Total assets					84,585    85,802</p>
+<p>Total liabilities and stockholders' equity</p>
+<p>							   84,585    85,802</p>
+<p>NOTE: -- Company says excluding the charge for acquired in-process R&amp;D in connection with acquisitions of Waypoint Software and Folio Corporation, the net loss for the six months ended June 30, 1997 was $14.4 million or $.47 per share, compared to a net loss of $13.5 million or $.50 per share for the same period of the prior year.</p>
+<p>-- New York Newsdesk 212 859-1700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

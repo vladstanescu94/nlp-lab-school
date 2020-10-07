@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="326964" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: BMC Software Q3 shr $0.45 vs $0.13.</title>
+<headline>BMC Software Q3 shr $0.45 vs $0.13.</headline>
+<text>
+<p>Maintenance			     46,071   40,476    14%</p>
+<p>	  Total revenues		    150,060  119,000    26%</p>
+<p> Selling and marketing expenses	  40,094   32,281    24%</p>
+<p> Research and development expenses     20,056   15,729    28%</p>
+<p>Cost of maintenance services and</p>
+<p>  product licenses			   13,657   11,367    20%</p>
+<p> General and administrative expenses   12,343   11,176    10%</p>
+<p>Acquired research &amp; development</p>
+<p>  costs						--   23,589    N/A</p>
+<p>	  Operating income		   63,910   24,858   157%</p>
+<p> Other income				   5,300    3,956    34%</p>
+<p>	  Earnings before income taxes   69,210   28,814   140%</p>
+<p> Income taxes				  21,109   15,749    34%</p>
+<p>	  Net earnings			 48,101   13,065   268%</p>
+<p>Earnings per share:</p>
+<p>	   Before acquired research</p>
+<p>	    &amp; development			 .45	.35    29%</p>
+<p>	   Acquired research &amp;</p>
+<p>	    development (net of taxes)	 --    (.22)    N/A</p>
+<p> Net earnings per share			 .45	.13   246%</p>
+<p>Shares used in computing earnings</p>
+<p>  per share				   107,748  103,930     4%</p>
+<p>						   Nine Months Ended</p>
+<p>						   December 31,</p>
+<p>					     Fiscal     Fiscal</p>
+<p>						 1997	1996	  %</p>
+<p>						 (In thousands,  Increase</p>
+<p>					   except per share  (Decrease)</p>
+<p>						data)</p>
+<p>Revenues:</p>
+<p>    Licenses			   $268,644   $182,590	47%</p>
+<p>    Maintenance			 133,966    117,960	14%</p>
+<p>	 Total revenues		 402,610    300,550	34%</p>
+<p> Selling and marketing expenses   113,355     79,100	43%</p>
+<p> Research and development expenses 57,748     43,036	34%</p>
+<p>Cost of maintenance services and</p>
+<p>  product licenses		     40,793     32,094	27%</p>
+<p>General and administrative</p>
+<p>  expenses				 34,021     27,003	26%</p>
+<p>Acquired research &amp; development</p>
+<p>  costs				    11,259     23,589    (52)%</p>
+<p>	 Operating income	     145,434     95,728	52%</p>
+<p> Other income			    14,233     11,541	23%</p>
+<p>	 Earnings before</p>
+<p>	  income taxes		  159,667    107,269	49%</p>
+<p> Income taxes			    49,208     40,455	22%</p>
+<p>	 Net earnings		   110,459     66,814	65%</p>
+<p>Earnings per share:</p>
+<p>	 Before acquired R &amp; D	   1.10	  .86	28%</p>
+<p>	 Acquired R &amp; D (net</p>
+<p>	  of income taxes)		(.07)	(.22)	68%</p>
+<p> Net earnings per share		  1.03	  .64	61%</p>
+<p>Shares used in computing</p>
+<p>  earnings per share		  106,921    104,500	 2%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

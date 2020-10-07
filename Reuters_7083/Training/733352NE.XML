@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733352" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: Clinton seeks to protect children from Internet smut.</title>
+<headline>Clinton seeks to protect children from Internet smut.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-07-15</dateline>
+<text>
+<p>U.S. President Bill Clinton on Wednesday will begin seeking technology-based solutions to shield children from the seamier side of cyberspace.</p>
+<p>Clinton will huddle with lawmakers, software manufacturers, parents and other groups to discuss new approaches, following last month's Supreme Court decision striking down a law banning indecent material on the Internet.</p>
+<p>The ban, contained in the 1996 Communications Decency Act, had placed the onus of keeping children away from indecent material on the millions of people who post information on the Internet. The court rejected the broad ban as violating the First Amendment rights of adults.</p>
+<p>After the law was struck down, Clinton said he saw promise in &quot;filtering&quot; software that parents could use to prevent their children from seeing pornographic material. And although Clinton on July 1 issued a policy paper calling for minimal government regulation of the Internet, the president said new laws might be justified to protect children.</p>
+<p>The president's challenge, Internet specialists said, is to allow children access to interesting and educational sites while blocking inappropriate sites -- all without violating the free speech rights of adults.</p>
+<p>Congress is already considering several proposals.</p>
+<p>Sen. Patty Murray, a Democrat of Washington state who will attend Wednesday's meeting, said last month she will introduce legislation to create incentives for Internet sites to carry ratings. Filtering software relies on ratings, similiar to those used for movies and, more recently, television, to determine which sites to block out.</p>
+<p>Murray said the Supreme Court ruling left &quot;a large vacuum&quot; that allowed children to access inappropriate material. &quot;We face an unprecedented opportunity to provide parents the necessary tools to protect our children,&quot; Murray said.</p>
+<p>Other lawmakers might go further than Murray's incentive-based approach. Sen. Dan Coats, a Republican of Indiana, is considering writing legislation but is skeptical that filtering and ratings will be sufficient.</p>
+<p>Asked if something like the ratings scheme for television could be applied to the Internet, one Coats staff person said &quot;the answer initially seems to be no,&quot; although adding &quot;ratings are still a possibility.&quot;</p>
+<p>Industry officials will also attend the meeting. Microsoft Corp plans to tout its preferred technology for rating sites on the World Wide Web. Called &quot;Platform for Internet Content Selection,&quot; or PICS, the system adds to Web sites a tag containing ratings that can be read by Web browsing software.</p>
+<p>Ratings could be provided by numerous groups and parents could set their children's software to read or ignore any group's ratings.</p>
+<p>&quot;It's important that families are empowered to make decisions that are right for them,&quot; said Laura Jennings, vice president at Microsoft who runs the company's 2.3 million member online service.</p>
+<p>Not everyone whole-heartedly endorses the PICS approach. The American Library Association passed a resolution earlier this month opposing use of filtering software by libraries.</p>
+<p>&quot;The use in libraries of software filters which block constitutionally protected speech is inconsistent with the United States Constitution and federal law,&quot; the group said.</p>
+<p>And civil libertarians said a tagging system could be used by foreign governments to censor anything on the Internet.</p>
+<p>&quot;It creates an immense infrastructure for censorship,&quot; said David Banisar, staff counsel for the Electronic Privacy Information Center.</p>
+<p>Although filtering is generally done by an individual's Web browser software, filtering could also be done at higher levels that prevent huge numbers of Internet users from accessing some sites, Banisar said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

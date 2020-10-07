@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46640" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Harlequin sues Scitex Corp over patents.</title>
+<headline>Harlequin sues Scitex Corp over patents.</headline>
+<dateline>SAN FRANCISCO 1996-09-11</dateline>
+<text>
+<p>Harlequin Ltd and its affiliate Harlequin Inc said Wednesday they have sued Scitex Corp and unit Printing Technologies Associates Inc, over certain patents held by Israel-based Scitex.</p>
+<p>The suit, filed in Federal Court in San Francisco, asks the cort to rule that Harlequin's EasyTrap product does not violate trapping patents owned by Scitex.</p>
+<p>Harlequin is also asking the court to rule the patents are invalid.  </p>
+<p>The suit is also joined by Dainippon Screen Manufacturing Co Ltd and units Island Graphics Corp, D.S. America Inc, and Dainippon Screen Engineering of America Inc, which are also seeking to establish that their Sigmagraph and Renatus/TaigaSPACE products do not infringe Scitex patents.</p>
+<p>The patents in question relate to pixel-based technology for processing color data to prepair printing plates. Trapping is a process that ensures gaps in misregistered plates will not appear in the final printed product.</p>
+<p>Privately-held Harlequin, a worldwide supplier of digital printing software and hardware, has developed EasyTrap using trapping technology supplied by Dainippon Screen.</p>
+<p>Scitex, headquartered in Herzila, Israel, has claimed patent infringement and demanded licensing fees, Harlequin said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32754">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

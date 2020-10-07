@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="736113" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: TABLE - Sybase Q2 results.</title>
+<headline>TABLE - Sybase Q2 results.</headline>
+<dateline>EMERYVILLE, Calif. 1997-07-17</dateline>
+<text>
+<p>SYBASE, INC.</p>
+<p>		  CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>			  (Unaudited)</p>
+<p>		     (In thousands, except per share data)</p>
+<p>					Quarter Ended  Six Months Ended</p>
+<p>					     June 30,	June 30,</p>
+<p>				     1997	1996     1997     1996</p>
+<p>Revenues:</p>
+<p>   License fees	     $128,870 $150,454 $264,043 $298,399</p>
+<p>   Services		    108,768   99,433  215,497  195,152</p>
+<p>     Total revenues	  237,638  249,887  479,540  493,551</p>
+<p>Costs and expenses:</p>
+<p>   Cost of license fees	6,148    7,585   14,206   14,702</p>
+<p>   Cost of services	   61,673   62,846  123,551  118,985</p>
+<p>   Sales and marketing     116,674  137,197  231,271  267,490</p>
+<p>Product development and</p>
+<p>    engineering		 33,707   46,085   69,007   89,176</p>
+<p>General and administrative</p>
+<p>				    14,443   19,735   31,806   38,461</p>
+<p>Total costs and expenses</p>
+<p>				   232,645  273,448  469,841  528,814</p>
+<p> Operating income (loss)    4,993  (23,561)   9,699  (35,263)</p>
+<p>Other income and expense, net</p>
+<p>				     1,740    2,197    2,746    4,691</p>
+<p>Income (loss) before income taxes</p>
+<p>				    6,733  (21,364)  12,445  (30,572)</p>
+<p> Provision for income taxes  2,357    3,200    4,528	898</p>
+<p> Net income (loss)	     4,376 (24,564)    7,917 (31,470)</p>
+<p> Net income (loss) per share  0.06   (0.33)     0.10   (0.42)</p>
+<p>Shares used in per share computation</p>
+<p>				    79,209   74,927   78,841   74,243</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EMERYVILLE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

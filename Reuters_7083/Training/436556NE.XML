@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="436556" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: Hewlett-Packard unveils several partnerships.</title>
+<headline>Hewlett-Packard unveils several partnerships.</headline>
+<dateline>LOS ANGELES, Calif. 1997-03-12</dateline>
+<text>
+<p>Hewlett-Packard Co unveiled several new Internet technology partners and initiatives on Wednesday at an industry trade show here.</p>
+<p>One initiative was a new architecture for images on the Internet based on a protocol jointly developed with Eastman Kodak and Live Picture. Hewlett said the Imaging for the Internet initiative was endorsed by Microsoft Corp, Informix Software Inc. and Oracle Corp..</p>
+<p>Hewlett also announced plans to use Internet technology to connect customers and business partners.  </p>
+<p>It said it was working on interactive Web publishing and navigation products with Netscape Communications Corp. Over the past year, Hewlett has built an alliance with Netscape as a supplier of services to Netscape customers.</p>
+<p>Palo Alto-based Hewlett also announced a strategic partnership with push technology startup PointCast, saying its HP-UX system is due to be the first Unix platform to support PointCast's I-Server for internal news publishing.  </p>
+<p>It also announced partnerships with NetScheme Solutions and Infospace for data access and management, and said a service to be available this summer will take advantage of Informix's Universal Server DataBlades.</p>
+<p>In a deal with workstation rival Sun Microsystems Inc., Hewlett-Packard said it will provide an HP-UX edition of the Java Workshop, to accelerate development of Java applications for HP Domain servers and workstations.</p>
+<p>HP said it will bundle Novell Inc.'s Novell Directory Services products, including LDAP, into its HP- UX system to provide global access to network services.  </p>
+<p>And latching onto one of the winter's hottest Internet startup companies, HP said it has entered a new strategic partnership with Marimba to work together on a scaleable method of distributing software updates to HP customers.</p>
+<p>HP also said it was partnering with Gemplus and Informix to offer security- enhanced smart card products based on its HP Praesidium/ImagineCard security framework.</p>
+<p>British Telecommunications said the card meets its requirements to develop new services based on authentication and digital signatures.  </p>
+<p>HP said Gemplus cards, smart card readers and an Informix-online Dynamic Server database will ship with its ImagineCard solutions. In the U.S. market, pricing for ImagineCard products will range from around $60 to $250 per user, depending on the number of installations. HP said it will begin shipping the products worldwide on April 1.</p>
+<p>HP said its professional services organization will work with leading systems integrators, such as BSG and Cambridge Technology Partners to help customers utilize Internet technologies.  </p>
+<p>Hewlett's role as a supplier of technology to the market for internal corporate networks had drawn it into partnerships with leading-edge Internet technology companies, said executives at Hewlett, the nation's second-largest computer company.</p>
+<p>The clustering of alliances was so broad that HP representatives had difficulty recognizing executives of some of its partners it was introducing to a crowded news briefing here at the Spring Internet World trade show. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

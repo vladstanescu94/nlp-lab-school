@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="424095" id="root" date="1997-03-06" xml:lang="en">
+<title>USA: In 50 years, computers that draw the bath.</title>
+<headline>In 50 years, computers that draw the bath.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN JOSE, Calif. 1997-03-05</dateline>
+<text>
+<p>In the next half century, computers will be ubiquitous in the home, waking us up to cheerful songbirds, making the morning coffee, filling the bathtub and driving us to work, according to leading computer scientists.</p>
+<p>In fact, advances in computer imaging and communications known as &quot;telepresence&quot; may eliminate the need to drive anywhere to hold business meetings and conferences, several scientists told the Association for Computing Machinery's 50th anniversary exposition and convention here.</p>
+<p>The theme of the three-day convention in the heart of Silicon Valley was to predict the progress of computing in the year 2047, 50 years from now.</p>
+<p>&quot;People will expect that when you wake up in the morning, you should be able to talk to your house,&quot; said Vinton Cerf, the scientist often described as the &quot;father of the Internet.&quot;</p>
+<p>Pervasive use of computer chips and smart electronic sensors will link everything from the refrigerator, which can be automatically locked to help a dieter's self discipline, to intelligent toilets, already available in Japan, that can analyse human waste to produce routine health reports, he said.</p>
+<p>Three leading scientists - former Digital Equipment Corp. researcher Gordon Bell, Hewlett-Packard Co. research head Joel Birnbaum, and Microsoft Corp. Chief Technology Officer Nathan Myhrvold -- predicted computers will rival human intelligence in the next half-century.</p>
+<p>A person could spend the first 40 years of life doing everything possible, then spend the rest of life reliving the sensations, Birnbaum speculated. Or one could chose to adapt the taste buds of a connoisseur.</p>
+<p>Just days after reports emerged from Scotland of the successful cloning of a sheep, an eclectic group of some of the world's most advanced thinkers in science, technology and the arts said biology may also hold keys to the future of the most advanced computing devices.</p>
+<p>For example, Birnbaum described how synthetic DNA strands could theoretically be used one day to create biological computing devices in which the DNA contained in one test-tube could compute one billion billion operations at once.</p>
+<p>Birnbaum said it was difficult to know if this could be achieved in the next 50 years, but it was theoretically feasible. He said quantum computing, in which calculations are made using subatomic particles, and optical computing also were promising areas.</p>
+<p>Myhrvold said software development also could move towards software that could re-generate itself for new purposes.</p>
+<p>But the experts also warned that eminent technologists in the past have also made very mistaken assumptions.</p>
+<p>Bell noted that International Business Machines Corp.'s Thomas Watson, Sr., had predicted when the first general purpose computers were being designed in the mid-1940s that the world would need no more than five computers in total.</p>
+<p>Digital's founder, Ken Olsen, projected in 1977 there would never be a reason for using computers in the home.</p>
+<p>Now roughly one-third of U.S. households have personal computers and computing devices are used in devices from dish washers to automobiles.</p>
+<p>On the other hand, many people thought voice recognition would advance far more quickly than it has.</p>
+<p>Massachusetts Institute of Technology professor Pattie Maes described how software agents can already be used at the MIT Media Lab to determine whether there's enough milk in the fridge or alert you if the value of your stock portfolio has plummeted.</p>
+<p>Maes described software agents under development like Kasbah, which will be available from MIT soon and buys or sells items such as personal computers electronically.</p>
+<p>&quot;The first 50 years was largely about hardware. My guess is the next 50 years is going to be about software,&quot; said John Sainson, general manager of International Business Machines Corp.'s applications solutions unit.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

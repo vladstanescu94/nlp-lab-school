@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113414" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Coherent Communications Q3 full results.</title>
+<headline>Coherent Communications Q3 full results.</headline>
+<dateline>LEESBURG, Va. 1996-10-14</dateline>
+<text>
+<p>(Amounts are in Thousands Except Earnings Per Share)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					September 30	September 30</p>
+<p>				     1996	 1995     1996    1995</p>
+<p> REVENUES			$14,102   $11,018  $38,376 $31,799</p>
+<p> GROSS PROFIT		    8,874     6,612   24,257  19,278</p>
+<p> PRE-TAX INCOME		  3,824     3,107   10,713   8,875</p>
+<p> NET INCOME			2,445     1,864    6,843   5,325</p>
+<p> EARNINGS PER SHARE	     0.16	0.12	.44    0.34</p>
+<p>AVERAGE SHARES OUTSTANDING</p>
+<p>				    15,479    15,556   15,472  15,441</p>
+<p>Note: Full company name is Coherent Communications Systems Corp.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEESBURG, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

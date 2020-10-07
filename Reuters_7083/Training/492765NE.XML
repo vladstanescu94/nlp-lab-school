@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="492765" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surpise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surpise data.</headline>
+<text>
+<p>Earnings surprise for April 8, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks</p>
+<p>COMPANY		  ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>PHOENIX INTL	    -0.03     0.01     133.33%</p>
+<p>STEEL DYNAMICS	   0.21     0.30	42.86%</p>
+<p>GREENBRIER COS	    0.12     0.15	25.00%</p>
+<p>COLDWATER CREEK	  0.29     0.36	24.14%</p>
+<p>EXCEL TECH		 0.13     0.16	23.08%</p>
+<p>HEALTHDYNE TECH	  0.13     0.16	23.08%</p>
+<p>TOTAL SYS SVC	     0.06     0.07	16.67%</p>
+<p>INTL SPEEDWAY	    0.39     0.45	15.38%</p>
+<p>PC SVC SOURCE	    0.07     0.08	14.29%</p>
+<p>CONSOL PAPERS	     0.57     0.63	10.53%</p>
+<p>CRYENCO SCIENCE	  0.02     0.01     -50.00%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I36200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I97911">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

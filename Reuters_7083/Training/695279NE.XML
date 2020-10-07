@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695279" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: Apple seen remaining strong in education market.</title>
+<headline>Apple seen remaining strong in education market.</headline>
+<dateline>SEATTLE 1997-06-30</dateline>
+<text>
+<p>Microsoft Corp.'s Windows operating system is making inroads in the education market, but Chairman Bill Gates acknowledged Monday that rival Apple Computer Inc. remains a significant force in schools.</p>
+<p>While Apple has fallen on hard times with its share of the personal computer market falling to the 5 percent range, the company's Macintosh computers retain a devoted following in schools and universities.</p>
+<p>Microsoft has taken market share in education as in other markets, in part by following the successful Apple formula of seeding schools with computers and software.</p>
+<p>In a speech to about 5,000 educators at the National Educational Computing Conference, Gates outlined a vision of technology in education that ranged from high-end network computers called servers running the Windows NT operating system to inexpensive television set-top boxes from WebTV Networks Inc., soon to be a Microsoft subsidiary.</p>
+<p>In a thinly veiled reference to Windows and Microsoft-based computing platforms, Gates urged the educators to provide students technology similar to what they will encounter in the workplace.</p>
+<p>But Gates was applauded when he responded to a question by saying, &quot;I think the Macintosh is going to continue to be very, very important in the educational environment for a long, long period of time.&quot;</p>
+<p>In his speech, Gates predicted the Internet would fulfill the promise of technology to improve education, and he said the next decade would see the emergence of computing devices that can reliably recgonize handwriting and speech and learn to adapt to the needs of different users.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="326979" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: RESEARCH ALERT - Compuware forecast raised.</title>
+<headline>RESEARCH ALERT - Compuware forecast raised.</headline>
+<text>
+<p>-- Robertson Stephens &amp; Co said analyst Paul Dravis raised his earnings estimates on Compuware Corp and reiterated a buy rating after the company reported a net profit of $0.72 a share in the third quarter ended Dec. 31, 1996 versus a $0.06/shr net loss one year ago.</p>
+<p>-- Dravis raised his fiscal year 1997 estimate to $2.43 a share from $2.31 and fiscal year 1998 to $3.20/shr from $2.85.</p>
+<p>-- In a statement, Dravis said overall market trend for Compware's mainframe and client/server products, as well as for professional services, should drive revenue growth.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

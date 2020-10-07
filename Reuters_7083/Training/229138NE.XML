@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229138" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: NetDynamics releases update of flagship product.</title>
+<headline>NetDynamics releases update of flagship product.</headline>
+<dateline>MENLO PARK, Calif. 1996-12-02</dateline>
+<text>
+<p>NetDynamics said it is releasing on Monday a new version of its main product, NetDynamics 3.0, to enable strategic business applications for the Web based on Sun Microsystems' Java language.</p>
+<p>The new release extends core applications, including those by PeopleSoft and SAP, to the World Wide Web and enables companies to integrate existing systems, in which they have substantial investment, with Web technologies.</p>
+<p>NetDynamics executives said they expect the less expensive, easier to use Web technologies will have a direct impact on companies' bottom lines.</p>
+<p>One customer, KeyCorp is already using the new software to give commercial customers the ability to view activity in their trust portfolio over the Internet.</p>
+<p>The company said the new version also offers three times the number of automatic guides, or wizards, to help users automatically generate Java programming for Web applications.</p>
+<p>NetDymamics 3.0 is available immediately at the same price point for users of Unix and Microsoft Corp's Windows: a single-developer NetDynamics Studio Developer system starts at $1,295 and NetDynamics Application Servers start at $5,000.</p>
+<p>The company, formerly Spider Technologies Inc, was founded in 1995 and has raised $7 million in funding, with financial backing from Intel Corp and venture capital firms Hummer Winblad and U.S. Venture Partners.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

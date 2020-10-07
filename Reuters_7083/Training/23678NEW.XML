@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23678" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: SofTech's accountants question ability to continue.</title>
+<headline>SofTech's accountants question ability to continue.</headline>
+<dateline>WALTHAM, Mass 1996-08-30</dateline>
+<text>
+<p>SofTech Inc said on Friday that its accountants raised concerns about the company's ability to continue as a &quot;going concern&quot; due to a change in SofTech's reseller agreement for one of its core products.  </p>
+<p>Under a new agreement with its primary supplier, Parametric Technology Corp, SofTech will no longer have the right to market and distribute Pro/ENGINEER.</p>
+<p>Pro/ENGINEER, which has been the core product responsible for the growth of the CAD Division over the past five years, will now be available only through PTC's direct sales force.</p>
+<p>SofTech will now distribute a new product to be introduced by PTC in September that will sell for half the price of Pro/ENGINEER.  </p>
+<p>Due to concerns about this new product and SofTech's reduced resources following the proposed sale of its NSG unit, the company's accountants questioned its ability to continue.</p>
+<p>SofTech plans to sell its NSG unit to Data Systems Network Corp in early September.</p>
+<p>Immediately following the sale, SofTech's vice president, Mark Sweetland, will be elected chief executive of SofTech. Sweetland will replace Norman Rasmussen, who will retire, the company said.  </p>
+<p>Also at the closing of the sale, the company said its current independent directors will resign after electing at least a comparable number of outside directors to replace them.</p>
+<p>SofTech also said its line of credit that permitted borrowings of up to $10 million has been reduced to $1.0 million until the NSG deal is completed and the bank can evaluate the creditworthiness of its continuing business.  </p>
+<p>SofTech also said it filed a complaint against several former NSG division employees, alleging violation of non-compete and confidentiality agreements, as well as breach of loyalty to the company.</p>
+<p>The civil case, filed State of Michigan courts, is seeking to enforce the confidentiality agreements and monetary damages.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I8394007">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

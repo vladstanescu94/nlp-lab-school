@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214000" id="root" date="1996-11-25" xml:lang="en">
+<title>MEXICO: Mexico software sales up 4 pct in '96 - industry.</title>
+<headline>Mexico software sales up 4 pct in '96 - industry.</headline>
+<dateline>MEXICO CITY 1996-11-25</dateline>
+<text>
+<p>The Mexican computer software industry expects full-year 1996 sales to increase by up to four percent over 1995 figures and to grow at a similar rate in 1997, an industry spokesman told Reuters on Monday.</p>
+<p>&quot;Fortunately we have seen a recovery in 1996, which I reckon to be between two and four percent,&quot; said Jesus de la Rosa, president of the Mexican Computer Software Industry Association.</p>
+<p>&quot;1995 was a critical and really difficult year, when the industry had serious problems, especially in a contracting market, but we're on the right track now,&quot; added de la Rosa, who is also legal director at IBM's Mexican subsidiary.</p>
+<p>--Claudia Villegas, Mexico City newsroom +525 728 9549</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

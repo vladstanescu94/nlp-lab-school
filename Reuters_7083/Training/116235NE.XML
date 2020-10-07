@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116235" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Micro Warehouse sees $28 mln total charge.</title>
+<headline>Micro Warehouse sees $28 mln total charge.</headline>
+<dateline>NORWALK, Conn. 1996-10-15</dateline>
+<text>
+<p>Micro Warehouse Inc said on Tuesday it would restate its financial results for both fiscal 1994 and 1995, and possibly for fiscal 1993, and it expected a total operating charge to profits for all of these periods of about $28 million after-tax.</p>
+<p>The company, which said the matters would not affect ongoing operations, said it would take $2.5 million of the after-tax charge in the first quarter 1996. It said it continued to oversee a previously announced review of errors uncovered in its accounting procedures during these periods.</p>
+<p>These errors affected Micro Warehouse's reported gross margins, it said.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWALK, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

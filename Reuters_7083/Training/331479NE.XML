@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331479" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Fractal Design Q3 shr profit widens.</title>
+<headline>Fractal Design Q3 shr profit widens.</headline>
+<dateline>SCOTTS VALLEY, Calif. 1997-01-23</dateline>
+<text>
+<p>FRACTAL DESIGN CORPORATION</p>
+<p>		  CONDENSED CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>	     (In thousands except per share amounts, unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   December 31,  December 31,</p>
+<p>					1996    1995	1996     1995</p>
+<p> Net revenues		 $ 10,934  $7,851   $27,897  $20,222</p>
+<p> Cost of net revenues	  2,096   1,373     5,287    3,509</p>
+<p> Gross profit		    8,838   6,478    22,610   16,713</p>
+<p>Operating expenses:</p>
+<p>  Research and development   1,225   1,128     3,578    2,837</p>
+<p>  Sales and marketing	  4,522   3,428    12,386    9,533</p>
+<p>  General and administrative   729     631     2,073    1,794</p>
+<p>  Merger expenses		   --	--     1,865	 --</p>
+<p>				     6,476   5,187    19,902   14,164</p>
+<p> Income from operations	2,362   1,291     2,708    2,549</p>
+<p> Other income, net		 237     167	 791	286</p>
+<p> Income before income taxes  2,599   1,458     3,499    2,835</p>
+<p> Provision for income taxes  (806)   (681)   (1,397)  (1,254)</p>
+<p> Net income			1,793     777     2,102    1,581</p>
+<p> Net income per share	   0.14    0.06	0.16     0.14</p>
+<p>Number of shares used to compute</p>
+<p>  net income per share	12,934  12,315    12,962   11,107</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTS VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453400" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Adobe rises on better-than-expected net.</title>
+<headline>Adobe rises on better-than-expected net.</headline>
+<dateline>SAN JOSE, Calif. 1997-03-19</dateline>
+<text>
+<p>Adobe Systems Inc's share price jumped as much as 11 percent Wednesday morning after the graphics-editing software company reported fiscal first-quarter earnings that exceeded analysts' expectations.</p>
+<p>Shares of Adobe, based in San Jose, Calif., were up four points at 38-7/8 on Nasdaq trade of 3.2 million shares.</p>
+<p>After the market closed Tuesday, Adobe said its profits from operations for the quarter, ended February 28, rose 35 percent from a year earlier, to $45.4 million, or $0.61 a share.  </p>
+<p>Wall Street had expected Adobe to earn $0.51 a share, according to a recent survey by Zacks Investment Research.</p>
+<p>First-quarter revenue rose 17 percent to $226.5 million, the company said.</p>
+<p>Strong sales of improved products and improved cost control helped boost earnings, said Mike Wallace, an analyst at UBS Securities in New York.</p>
+<p>&quot;They're in the middle of upgrading all their major products, as well as good fundamental demand for Photoshop,&quot; one of Adobe's key products, Wallace said.</p>
+<p>Investors also like that Adobe improved its gross margins -- a measure of profit made from every dollar of product sold -- by three percentage points to 85 percent, a significant improvement, Wallace said.</p>
+<p>Adobe writes computer programs that help graphic artists design publications and make illustrations.</p>
+<p>Adobe also runs a venture capital operation that invests in Silicon Valley startups. Adobe said yesterday it plans to pay a dividend based on the profit it makes from investments in other companies.</p>
+<p>Based on the better-than-expected earnings, at least three Wall Street analysts raised their ratings on Adobe.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709636" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: AFTER THE BELL - Syntellect sees Q2 loss.</title>
+<headline>AFTER THE BELL - Syntellect sees Q2 loss.</headline>
+<dateline>NEW YORK 1997-07-07</dateline>
+<text>
+<p>Stocks traded in line with their closing prices on Monday, traders said, with Syntellect Inc halted as it released warnings of a second quarter earnings loss.</p>
+<p>The voice response systems supplier forecast an earnings loss in the range of $0.19 per share to $0.22 per share after the bell, compared with a loss of $0.03 per share for the year-ago period.</p>
+<p>&quot;Nothing is really changing direction here after the close,&quot; a dealer said.  </p>
+<p>Software company Wall Data also remained halted as it reported that it would take a $10.7 million charge to settle a class action lawsuit.</p>
+<p>Medical device comapany Boston Scientific, meanwhile, traded unchanged, at 63-1/4, after reporting second quarter sales of $474 million, up from $379 million for the year-ago period.</p>
+<p>The New York Stock Exchange said session one volume was 3,200, compare with 24,200 on Thursday before the July 4th three-day weekend, and session two volume fell to 1,557,500, compared with Thursday's 4.6 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

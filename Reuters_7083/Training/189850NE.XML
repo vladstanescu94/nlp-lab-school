@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189850" id="root" date="1996-11-14" xml:lang="en">
+<title>UK: Commerzbank sets warrants on SAP.</title>
+<headline>Commerzbank sets warrants on SAP.</headline>
+<dateline>LONDON 1996-11-14</dateline>
+<text>
+<p>Commerzbank Aktiengesellschaft said it has issued 20 million European &quot;bottom-up' warrants, in two equal tranches, on SAP preferred stocks.</p>
+<p>* * * *</p>
+<p> EXPIRATION	17.NOV.97		 PAYDATE	21.NOV.96</p>
+<p> LISTING	   FRFT, DUSS</p>
+<p>* * * *</p>
+<p>		  BOTTOM-UP LEVEL	   PRICE</p>
+<p> TRANCHE 1    180.0 DEM		   8.29 DEM</p>
+<p> TRANCHE 2    200.0 DEM		   6.32 DEM</p>
+<p> ON EXPIRY THE HOLDER WILL RECEIVE 0.0271 DEM PER WARRANT</p>
+<p> FOR EVERY DAY DURING THE LIFETIME OF THE WARRANTS, WHEN</p>
+<p> THE SAP PREFERRED SHARE TRADES ABOVE THE BOTTOM-UP-LEVEL.</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

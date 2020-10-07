@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14543" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Netscape, others launch Internet affiliate.</title>
+<headline>Netscape, others launch Internet affiliate.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO</dateline>
+<text>
+<p>Netscape Communications Corp. said Monday it formed a new company aimed at allowing consumers to surf the Internet using telephones, televisions and other common electronic devices.</p>
+<p>Netscape said the new company, Navio Communications Inc., would develop software to let consumers search the Internet using pagers and game players as well as telephones and TVs, thus exposing a host of new users to its Netscape Navigator Internet software in a bid to hold its lead in that market.</p>
+<p>The move was the latest development in an increasingly fierce battle with Microsoft Corp. as each company vies to make its software the industry standard for the Internet.</p>
+<p>&quot;The way I see it there is going to be an explosion in the next year&quot; of interest in browsers in consumer devices, said Netscape co-founder and chairman James Clark.</p>
+<p>The popularity and use of the Internet in the past 18 months suprised many people involved with Internet products, he said.</p>
+<p>&quot;Netscape needs to evolve Navigator as its operating system,&quot; said analyst David Readerman of Montgomery Securities Inc., adding that Microsoft and Netscape are now each threatening the other's &quot;crown jewels.&quot;</p>
+<p>Netscape's Navigator browser software is used by 80 percent of Internet surfers, while Microsoft's computer operating system is found on about 85 percent of all PCs worldwide.</p>
+<p>At a news conference to launch Navio, Clark and his team made the point that PCs were not for everybody.</p>
+<p>&quot;The Internet today is primarily for the sophisticated computer user, primarily for the gifted and primarily for the professional. The Internet for tomorrow will be for everybody,&quot; said Navio President Wei Yen.</p>
+<p>Yen and Netscape senior vice president Marc Andreessen said they expect that Netscape Navigator software would be installed on 500 million consumer devices within five years, doubling the 240 million PCs in use worldwide today.</p>
+<p>&quot;Today, Netscape Navigator has reached more than 40 million users on traditional computer platforms. In the next five years, Navio and Netscape together can bring the Netscape Navigator platform to potentially more than 500 million devices applicable to consumers and businesses,&quot; Andreessen said.</p>
+<p>Netscape has a major stake in the new company, which Wei said already has 50 employees in a Sunnyvale, Calif., location and will have 120 employees by November.</p>
+<p>Netscape declined to elaborate on the other seven investors or on the size of individual investments.</p>
+<p>But it said Navio was working with leading consumer electronics and technology companies, including International Business Machines Corp., Sony Corp., Sega Enterprises Ltd., Nintendo Co. Ltd., NEC Corp., and Oracle Corp.</p>
+<p>Yen was previously senior vice president of products and technologies at Silicon Graphics Inc., another company Clark founded and once led.</p>
+<p>Navio's software will be based on Netscape technology as part of a strategy to extend Netscape's reach to the consumer devices.</p>
+<p>The strategy is similar to one launched by Microsoft in the early 1990s, when the Redmond, Wash.-based software company tried to install scaled-down versions of its Windows software on photocopiers and other office machines.</p>
+<p>Mountain View, Calif.-based Netscape's dominance of the browser market was threatened after Microsoft last week introduced a browser with many of the features of Navigator.</p>
+<p>A Netscape lawyer has asked the Justice Department to investigate allegations that Microsoft has been improperly using inducements to promote its own browser software.</p>
+<p>Microsoft has denied any wrongdoing and countered with its own complaints that Netscape has not kept its technology open.</p>
+<p>Netscape's stock rose 50 cents to close at $38.50 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196651" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Phoenix/Cybermedia in AST pact.</title>
+<headline>Phoenix/Cybermedia in AST pact.</headline>
+<dateline>NEW YORK 1996-11-18</dateline>
+<text>
+<p>Phoenix Technologies Ltd said Monday it signed a software license deal with AST Computer, allowing AST to integrate CyberMedia Inc's utility software into its notebook and desktop personal computers.</p>
+<p>The deal appeared to be behind a sharp decline in the shares of rival software maker SystemSoft Corp, which has in the past described AST as a key customer, an analyst said. The stock fell 3-3/16 to 21-3/16 Monday morning.</p>
+<p>Phoenix distributes Cybermedia's &quot;self-healing&quot; software utility programs to computer manufacturers as part of its own system-level software products.  </p>
+<p>Terms of the deal were not disclosed.</p>
+<p>Phoenix Technologies was up 1/2 point to 16-3/4 at midday Monday, while Cybermedia rose 1/4 point to 23-1/4.</p>
+<p>Robert Gutenstein, an analyst at Kalb, Voorhis, said the Phoenix-Cybermedia deal appears to come at the expense of SystemSoft.</p>
+<p>Gutenstein, who officially covers Phoenix, but not SystemSoft, said SystemSoft had referred to AST as one of its key customers at the recent annual conference of the American Electronics Association, held in Monterey, Calif.</p>
+<p>The &quot;self-healing&quot; software, which includes First Aid 97 and Oil Change, was developed by CyberMedia and is distributed by Phoenix. These programs automatically intercept and resolve software problems on personal computers, reducing customer technical support requirements.</p>
+<p>The deal was the third major computer manufacturer to sign-up with the Phoenix-Cybermedia partnership, since it was announced in September. Fujitsu Ltd and NEC Corp also have deals to pre-install Cybermedia's First Aid software on their systems.</p>
+<p>AST is a unit AST Research Inc. Samsung Electronics Co Ltd holds roughly 46 percent of AST shares.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565063" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: NYNEX-Bell Atlantic merger to shake up S&amp;P 500.</title>
+<headline>NYNEX-Bell Atlantic merger to shake up S&amp;P 500.</headline>
+<dateline>NEW YORK 1997-05-07</dateline>
+<text>
+<p>State Street Corp will replace NYNEX Corp in the Standard &amp; Poors 500 after NYNEX merges with Bell Atlantic Corp, Standard &amp; Poors said Wednesday.</p>
+<p>The company said in a statement that after the merger the Equity Services Group of Standard &amp; Poor's would make the following changes in the S&amp;P 100, S&amp;P 500, S&amp;P MidCap 400 and S&amp;P SmallCap 600 stock indexes:</p>
+<p>-- NYNEX will be replaced in the S&amp;P 100 by Microsoft Corp. All companies added to the S&amp;P 100 are also in the S&amp;P 500.</p>
+<p>-- NYNEX will be replaced in the S&amp;P 500 by S&amp;P MidCap 400 component State Street Corp.</p>
+<p>-- State Street Corp will be replaced in the S&amp;P MidCap 400 by S&amp;P SmallCap 600 component CompUSA Inc.</p>
+<p>-- CompUSA will be replaced in the S&amp;P SmallCap 600 by P-Com Inc.</p>
+<p>&quot;The Bell Atlantic-NYNEX merger still requires approval by the Federal Communications Commission, which is expected to rule on the merger this month,&quot; the statement said.</p>
+<p>&quot;The merger is expected to close shortly after it is approved.&quot;</p>
+<p>((-- New York newsdesk, (212) 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

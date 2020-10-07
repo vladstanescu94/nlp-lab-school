@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284290" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: Phoenix to take charge of $0.03/shr.</title>
+<headline>Phoenix to take charge of $0.03/shr.</headline>
+<dateline>SAN JOSE, Calif. 1997-01-02</dateline>
+<text>
+<p>Phoenix Technologies Ltd said on Thursday it will take a non-cash charge of about $800,000 or $0.03 per share for research and development expenditures and acquisition costs for the purchase of Nihon Joho Kenkyujo K.K., a Tokyo-based software company.</p>
+<p>The $1.4 million acquisition, recorded as a purchase transaction, was effective on Dec. 27, 1996, and will not have a material impact on the operating results for the company's quarter ended Dec. 31, 1996.</p>
+<p>Phoenix Technologies said it supplies standards-based compatibility software to the personal computer industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

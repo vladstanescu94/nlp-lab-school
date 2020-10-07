@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435434" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: Secure Computing in sales deal with JSB.</title>
+<headline>Secure Computing in sales deal with JSB.</headline>
+<dateline>ST. PAUL, Minn. 1997-03-11</dateline>
+<text>
+<p>Secure Computing Corp said Tuesday it entered into an agreement under which JSB Computer Systems Ltd will integrate and resell its SmartFilter Control List.</p>
+<p>Terms of the agreement were not disclosed.</p>
+<p>Secure Computing, which provides computer network security products, said the JSB will sell the SmartFilter along with JSB's surfCONTROL Internet access control technology. SmartFilter blocks access to more than 60,000 Internet sites, including chat rooms, online gambling and pornographic sites.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

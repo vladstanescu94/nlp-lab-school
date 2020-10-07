@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52015" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Santa Cruz wins Taco Bell upgrade order.</title>
+<headline>Santa Cruz wins Taco Bell upgrade order.</headline>
+<text>
+<p>SANTA CRUZ, Calif., Sept. 13 (Reuter) Santa Cruz Operation Inc said PepsiCo Inc's Taco Bell restaurants bought 1,200 upgrades to its OpenServer Enterprise System, marking the first phase of the chain's program to update its systems.</p>
+<p>Taco Bell uses the Santa Cruz computer systems to run the back-office operations in each of its stores.</p>
+<p>Financial details of the agreement were undisclosed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

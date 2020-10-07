@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="358426" id="root" date="1997-02-05" xml:lang="en">
+<title>GERMANY: SAP plans to open Ireland service center.</title>
+<headline>SAP plans to open Ireland service center.</headline>
+<dateline>WALLDORF, Germany 1997-02-05</dateline>
+<text>
+<p>German business software developer SAP AG said on Wednesday it would expand its custom support capability by opening a telephone service center in Ireland.</p>
+<p>The SAP Service and Support Centre Ltd. in Dublin would open in April and provide support for European customers and remote services for customers worldwide.</p>
+<p>&quot;Together with our customers we will profit not only from Ireland's excellent digital telecommunications infrastructure but also from the large number of well educated professionals in the labour market there.&quot;</p>
+<p>SAP expected the center to begin operations with 30 employees and to add about 100 or more by the end of 1998.</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

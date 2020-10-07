@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="595016" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: Gates says manageability of PC is No. 1 priority.</title>
+<headline>Gates says manageability of PC is No. 1 priority.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-05-19</dateline>
+<text>
+<p>Microsoft Corp. Chairman Bill Gates on Monday minimised the threat posed by network computers and said making personal computers easier to manage was the software giant's top priority.</p>
+<p>Gates, in an address to law office administrators, said the move toward inexpensive stripped-down network computers was being promoted by &quot;a couple of companies that hate the personal computer,&quot; namely Sun Microsystems Inc. and Oracle Corp.</p>
+<p>He maintained that network computer systems actually were more expenseive than comparable PC-based systems because of the costly server computers required as the backbone for networks.</p>
+<p>But he acknowledged that network computer proponents had touched a nerve by focusing on the complexity of managing personal computers.</p>
+<p>&quot;Making personal computers a lot more manageable is our top priority,&quot; Gates told an estimated 3,000 people at the annual meeting of the Association of Legal Administrators.</p>
+<p>He suggested that many of the current problems would be solved by network administrators using version 5.0 of Microsofts Windows NT Server software, which he said would be available in early 1998.</p>
+<p>Gates got an earful from members of the assocation, chiefly office managers at law firms and legal departments who are responsible for everything from managing documents to buying furniture.</p>
+<p>Microsoft has identified the legal profession as a key market for its Office 97 bundle of desktop applications, and the latest version of Microsoft Word includes many changes specifically requested for legal documents.</p>
+<p>Sheri Sims of the Cleveland-based law firm of Arter &amp; Hadden said it wanted to deploy the software on all 800 of its desktop computers but found apparent bugs in a month-long test with 10 users.</p>
+<p>Gates acknowledged that compatibility between various versions of Word had become a &quot;major issue&quot; and said a fix would be included in an update to the software to be available in July and known as Office 97A.</p>
+<p>He also promised Sims would receive immediate help from Microsoft officials at the convention.</p>
+<p>Other questioners asked Gates for help with electronic mail problems and software reliabilty.</p>
+<p>Gates said software was constantly improving, and said that 10 years from now, people would look back and wonder what computers did in an era before voice and image recognition.</p>
+<p>But he also promised plenty of changes that would require users to buy software updates.</p>
+<p>&quot;That's the way software is,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

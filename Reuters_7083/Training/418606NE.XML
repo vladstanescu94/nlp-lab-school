@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418606" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: Microsoft working to fix bug in Internet browser.</title>
+<headline>Microsoft working to fix bug in Internet browser.</headline>
+<dateline>SEATTLE 1997-03-03</dateline>
+<text>
+<p>Microsoft Corp. is working to fix a newly discovered bug in its Internet Explorer browser that could allow users to unknowingly download destructive programs, company officials said on Monday.</p>
+<p>Paul Balle, a Microsoft product manager, said developers were testing a software patch that would be posted onto the company's Web site within 48 hours and possibly much sooner.</p>
+<p>&quot;We recognize the severity of the issue and are working to resolve the problem,&quot; Balle said.</p>
+<p>The problem was discovered by Paul Greene, a junior at Worcester Polytechnic Institute in Massachusetts, who was posting documents onto a Web site when he accidentally created a Windows 95 &quot;shortcut.&quot;</p>
+<p>After some experimentation he and fellow-students discovered that a Webmaster could take advantage of the bug to evade security features of the browser and download damaging programs onto the user's hard drive.</p>
+<p>The transfer could happen in the background or so quickly that the user might not even be aware of it, said Brian Morin, one of the Worcester students.</p>
+<p>The flaw affects version 3.0 of the browser for the Windows 95 or Windows NT platforms.</p>
+<p>Netscape Communications Corp.'s rival Navigator browser gives users a chance to abort the download, Morin said.</p>
+<p>Microsoft's Balle pointed out that since Internet Explorer 3.0 became available nearly a year ago, millions of people have used the product without coming across the security flaw, which the students published onto their Web site.</p>
+<p>&quot;We haven't heard any other reports of this type of thing,&quot; Balle said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

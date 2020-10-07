@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162842" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: System Software off on accounting concern.</title>
+<headline>System Software off on accounting concern.</headline>
+<dateline>CHICAGO 1996-11-04</dateline>
+<text>
+<p>Shares in System Software Associates Inc fell 7/8 to 10-7/8 on news that the company's former accountants are urging a restatement of 1994 and 1995 financial results.</p>
+<p>&quot;Anytime you see anything like this in a stock, it is a concern,&quot; said Barrington Research Associates analyst Mike Hutchison.</p>
+<p>Analysts said they would defer further comment until after a conference call with management scheduled for this afternoon.  </p>
+<p>A company spokeswoman said System Software would have no further statetment until the conference call.</p>
+<p>The company issued three releases early Monday.  The first said that its former accountants, Price Waterhouse, were urging restatement of 1994 and 1995 results to correct what the firm sees as certain prior misstatements.  System Software said it disagrees with the accounting firm, but has asked KPMG Peat Marwick to reaudit fiscal 1994 and 1995.</p>
+<p>The second release said chief operating officer Terry Osborne was stepping down to become chairman of the company's SSA Europe affiliate.  No replacement was named.  </p>
+<p>The final release said System Software, based here, had achieved all its financial objectives for the fourth quarter, although formal quarterly results have not been issued.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

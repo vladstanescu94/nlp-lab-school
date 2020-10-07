@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712281" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: TABLE - Unison Software Inc Q4 results.</title>
+<headline>TABLE - Unison Software Inc Q4 results.</headline>
+<dateline>SANTA CLARA, Calif. 1997-07-08</dateline>
+<text>
+<p>Unison Software, Inc.</p>
+<p>			     Consolidated Statement of Operations</p>
+<p>			     (in thousands, except per share data)</p>
+<p>					     (unaudited)</p>
+<p>			    Fourth Quarter Ended  Fiscal Year Ended</p>
+<p>				 May 31,  May 31,     May 31, May 31,</p>
+<p>				     1997    1996	  1997    1996</p>
+<p>Net revenues:</p>
+<p>  License fees		 $8,560  $7,268     $27,109 $20,924</p>
+<p>  Services			3,701   2,633	12,727   9,091</p>
+<p>   Total net revenues	12,261   9,901	39,836  30,015</p>
+<p>Costs and expenses:</p>
+<p>  Cost of license fees	  396     386	 1,185     853</p>
+<p>  Cost of services		855     751	 3,254   2,052</p>
+<p>  Sales and marketing	 5,273   4,156	17,822  13,598</p>
+<p>  Research and development  1,809   1,145	 5,498   3,969</p>
+<p>General and administrative</p>
+<p>				    1,155     832	 4,273   2,741</p>
+<p>Total costs and expenses</p>
+<p>				    9,488   7,270	32,032  23,213</p>
+<p> Income from operations     2,773   2,631	 7,804   6,802</p>
+<p>Interest and other income,</p>
+<p>  net				 260     195	   948     719</p>
+<p> Income before net taxes    3,033   2,826	 8,752   7,521</p>
+<p>Provision for income taxes</p>
+<p>				    1,168   1,072	 3,370   2,855</p>
+<p> Net income		     1,865   1,754	 5,382   4,666</p>
+<p> Net income per share	  0.16    0.15	  0.45    0.40</p>
+<p>Shares used in per</p>
+<p>  share calculation	  12,030  12,132	12,092  11,775</p>
+<p>NOTE: The number of shares used in the per share calculation have been adjusted retroactively for a three-for-two stock split, effective on January 31, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

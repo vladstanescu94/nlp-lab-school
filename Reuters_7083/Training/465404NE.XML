@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="465404" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: PFN Inc unveils software for business Extranets.</title>
+<headline>PFN Inc unveils software for business Extranets.</headline>
+<dateline>NEW YORK 1997-03-25</dateline>
+<text>
+<p>PFN Inc said Tuesday it introduced software for businesses building global Intranet-to-Intranet, or Extranet, systems.</p>
+<p>PFN Continuum software enables companies to receive news, First Call financial information and other specialized information on their Intranets from multiple sources, including business partners.</p>
+<p>The ability to access First Call financial information on a company's Intranet is a result of a strategic deal with First Call Corp, a part of Thomson Corp, the company said.  </p>
+<p>To deliver specialized news, the company said it licensed nine topically defined news wires from Comtex Scientific Corp.</p>
+<p>PFN also said it has an agreement with Informix Software Inc in which Informix will market PFN Continuum through its worldwide sales force.</p>
+<p>&quot;Forward-thinking companies spent a lot of time and effort building corporate Intranets in 1996 and now want to leverage their investment by connecting with strategic business partners beyond their firewalls,&quot; said Ron Butman, chief executive of PFN.  </p>
+<p>Bruce Fador, president and chief executive of First Call, said in a company statement that the PFN alliance is a &quot;major leap forward&quot; in the delivery of time-sensitive financial informantion.</p>
+<p>&quot;It's no exaggeration to say that the combination of First Call and PFN Continuum's Extranet solution represents a true revolution in how Wall Street will produce, receive and consume key financial data electronically and in real-time,&quot; he said.  </p>
+<p>PFN said it is available immediately for First Call Notes and First Call's BondCall Notes. The remaining First Call services will be available over PFN later this year.</p>
+<p>The company said pricing for the PFN Continuum service starts at $995 monthly per node. A node is a single connection between two organizations' Intranets.</p>
+<p>The Wall Street Extranet will be widely available by the end of 1997's second quarter and the Continuum server software will be available on Microsoft Windows NT in the third quarter, PFN said.</p>
+<p>Extranets connect Intranets which are internal coporate networks that run on Internet technology. The Extranets allow companies to manage internal and external information sources and to have secure communications with customers, suppliers and business partners.</p>
+<p>PFN said it named John Landry, the former chief technology officer and senior vice president of Lotus Development Corp , to its board of directors.</p>
+<p>Landry is currently a consultant to International Business Machines Corp and chairman of Narrative Communications Corp.</p>
+<p>-- Patricia Willens, 212-859-1727</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

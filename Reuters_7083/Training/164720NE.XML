@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164720" id="root" date="1996-11-04" xml:lang="en">
+<title>FRANCE: Millennium bug stalks unaware Europeans.</title>
+<headline>Millennium bug stalks unaware Europeans.</headline>
+<dateline>CANNES, France 1996-11-04</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>Some European companies are still unaware they could face oblivion because of the millennium bug, which is set to cause mayhem in some computers at midnight on December 31, 1999, business leaders told a conference on Monday.</p>
+<p>As clocks tick past the start of the new millennium, many computers across the world will either crash or start pumping out wrong data.</p>
+<p>Despite widespread publicity about the threat, many companies have failed to take action soon enough and many could find their systems crashing -- possibly triggering a company collapse.</p>
+<p>&quot;By the end of 1999, more than 50 percent of IT (information technology) firms will have systems producing erroneous results because of the 2000 issue,&quot; Gartner Group analyst Peter Sondergaard told the conference.</p>
+<p>The problem stems from shortcuts taken by programmers in the 1970s and 1980s who tried to save computer memory by abbreviating dates to the last two digits. This will work fine until the end of the 20th Century, but computers will read the year 2000 as 00, sparking possibly fatal errors.</p>
+<p>Scouring through millions of lines of computers software code to solve the problem will take a massive army of computer programmers.</p>
+<p>European IT leaders at the conference expressed concern at the worldwide threat posed by the bug, which many companies are only just beginning to wake up to.</p>
+<p>&quot;We have to raise the profile (of the 2000 problem) to make sure all industries are aware of it,&quot; Lucio Stanca, general manager of International Business Machines Corp said.</p>
+<p>Stanca was on a panel with leaders of COMPAQ Computer Corp, French computer maker Groupe Bull, Germany's Siemens Nixdorf, and German software giant SAP AG to discuss the impact of information technology in Europe.</p>
+<p>The conference was organised by U.S. technology consultancy Gartner Group.</p>
+<p>&quot;This is a huge problem. Time is critical; when we get closer, demand for fixes will get huge and industry may not be able to handle it,&quot; Stanca said.</p>
+<p>Stanca said that this would not include IBM's customers, telling the conference: &quot;We have made this commitment that all our products will be enabled for the year 2000.&quot;</p>
+<p>Information technology experts fear that even though a huge amount of effort will be invested in curing this problem before 2000, many programmes dating back to the 1970s are buried deep in computer systems and will resist discovery.</p>
+<p>Some forecasters have said the problem could be serious enough not only to cause many corporate bankruptcies, but might even trigger a world economic depression.</p>
+<p>The industry leaders said they would stand by their customers.</p>
+<p>&quot;We have a duty to safeguard our customers, and all ours will be Year 2000 compliant. It is a huge investment, a huge task; we have 300 people working on this,&quot; said Jean Marie Descarpentries, chairman and chief executive of Groupe Bull.</p>
+<p>Gerhard Schulmeyer, president and chief executive of Siemens Nixdorf said his company would not abandon its customers, but added that it had to be a joint effort.</p>
+<p>Schulmeyer reminded the conference that a huge amount of computer time was also needed for companies to prepare for European economic and monetary union, set to go ahead on January 1, 1999.</p>
+<p>&quot;We are assuming it will happen. But it will take so many resources that other projects will fall by the wayside,&quot; Schulmeyer said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANNES, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

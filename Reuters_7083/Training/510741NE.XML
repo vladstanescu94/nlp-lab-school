@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="510741" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: Netscape launches &quot;Netcaster&quot; with push features.</title>
+<headline>Netscape launches &quot;Netcaster&quot; with push features.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-04-14</dateline>
+<text>
+<p>Netscape Communications Corp. executives said they would on Tuesday unveil the company's plans for enabling media to &quot;push&quot; information out to readers over the Internet.</p>
+<p>The new product, previously code-named &quot;Constellation,&quot; promises to transform the experience of Internet users from an active, surfing endeavor where they must hunt for information to a model in which content can be automatically delivered.</p>
+<p>Bob Lisbonne, a marketing executive at Netscape, said the product, dubbed Netscape Netcaster, would be available in the upcoming Netscape Communicator when it is shipped later this quarter, months before Constellation was due to appear.</p>
+<p>Lisbonne said Netscape expected the push paradigm to catch on among both consumers and corporate customers alike.</p>
+<p>Netscape's technology, which incorporates software from a Palo Alto, Calif., startup called Marimba, enables media companies to deliver software and information directly to people who tune in to the channel, like a television.</p>
+<p>&quot;We expect channels to proliferate -- there will be literally thousands of channels at the end of the quarter,&quot; he said in an interview on Monday, ahead of the formal release.</p>
+<p>The principle is not new -- about 30 companies are already targeting the area -- but with Tuesday's announcement at a South San Francisco briefing Netscape joins rival Microsoft Corp in a battle over who will set the pace of push.</p>
+<p>Last month, Microsoft announced a specification it calls channel definition format, or CDF, which it said has drawn the support of 30 companies.</p>
+<p>Marc Andreessen, Netscape's co-founder and senior vice president of technology, has discounted Microsoft's initiative as unnecessary, predicting it would &quot;wither on the vine.&quot;</p>
+<p>Some analysts believe the two parallel initiatives will only confuse consumers and potential corporate customers, while others expect the involvement of Microsoft and Netscape will make the highly touted push technologies into a commodity.</p>
+<p>One fledgling purveyor of push, New York-based Ifusion, has already been forced to file for bankruptcy, and industry executives said they now expect a rapid consolidation.</p>
+<p>A number of Internet publishers -- like Wired magazine's online sister HotWired, navigation firms Lycos Inc. and Infoseek and Softbank Corp.'s Ziff-Davis -- are currently signed up to support both standards.</p>
+<p>So have several of the software suppliers, including Diffusion, DataChannel, Freeloader and Wayfarer, according to documents prepared by Microsoft and Netscape.</p>
+<p>Other content partners of Netscape include Disney Co.'s ABC News and Time Warner Inc.'s Time Inc. New Media and CNNfn, according to Netscape.</p>
+<p>Some analysts and executives said the whole push element of the market may now be over-promoted, with technologies that can filter information likely to become as or more important than being able to update news and information continually.</p>
+<p>Joe Firmage, CEO of the Web service company USWeb, said users will need to find ways to tune out push technologies in the same way in which a couch potato uses a remote control to flick through television channels.</p>
+<p>Tiernan Ray, an editor at Technologic Partners in New York, said a Webtop feature employed by Netcaster, which lets users access their customized interface on nearly any networked computer, may prove to be more important than push features.</p>
+<p>&quot;I think push has been overhyped,&quot; he said.</p>
+<p>The Webtop may be significant in that it enables people to move from location to location, and it takes advantage of the Java programming language, he said.</p>
+<p>Netscape Netcaster will be available in a test preview version of Netscape Communicator within 30 days, and is due to be distributed as part of the $59 communicator package before the end of June. Microsoft's next product is still months away.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

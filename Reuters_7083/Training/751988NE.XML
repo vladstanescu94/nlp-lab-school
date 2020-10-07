@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751988" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: Management Tech files suit against ex-pres.</title>
+<headline>Management Tech files suit against ex-pres.</headline>
+<dateline>NEW YORK 1997-07-24</dateline>
+<text>
+<p>Management Technologies Inc said on Thursday that it had filed suit in the Supreme Court of the state of New York against its former president, Peter Morris, seeking to declare a $310,000 convertible debenture held by Morris as void.</p>
+<p>The company also said it had filed suit against 16 individual and corporate defendants, alleging they bought convertible debentures issued by the company to manipulate the price of its stock.</p>
+<p>The second suit, filed in the Southern District Court of New York, seeks to block the defendants from converting their debentures into common stock below market price.</p>
+<p>Management Technologies said it was seeking damages in the case, but did not disclose a dollar amount.</p>
+<p>Management Technologies develops software for international financial institutions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

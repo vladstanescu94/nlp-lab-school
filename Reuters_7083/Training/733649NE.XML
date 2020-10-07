@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="733649" id="root" date="1997-07-16" xml:lang="en">
+<title>ISRAEL: Live Picture Corp buys Israeli high-tech firm.</title>
+<headline>Live Picture Corp buys Israeli high-tech firm.</headline>
+<dateline>JERUSALEM 1997-07-16</dateline>
+<text>
+<p>Live Picture Corp, a California-based digital imaging company, has acquired Israeli high-tech firm OLiVR Corp, an Israeli investment bank which acted as an adviser on the deal said on Wednesday.</p>
+<p>A spokeswoman for the bank, HK Strategy &amp; Finance, said the purchase price was not made public.</p>
+<p>&quot;Live Picture is the leader in providing imaging solutions over networks. OLiVR's technologies can enhance the user's experience by supplying immediately interactive images that can be streamed in real time,&quot; HK chief executive Robin Hacke said in a statement.</p>
+<p>Live Picture's chairman John Sculley, former chief executive of Apple Computer, said during a visit to Israel last month that he intended to step up investment in the local high-tech industry through HK. Sculley is on the board of HK's Dutch-based parent company Catalyst.</p>
+<p>In addition to the OLiVR acquisition, Sculley and Catalyst will invest in the financing of Israeli software company Zapa Digital Arts, HK said, without giving any figures.</p>
+<p>Sculley will join Zapa's board of directors. Zapa provides visual communications solutions to Internet content providers, advertisers and marketers.</p>
+<p>- Jerusalem newsroom, 972-2-5370502</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

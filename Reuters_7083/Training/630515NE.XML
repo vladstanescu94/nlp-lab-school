@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="630515" id="root" date="1997-06-02" xml:lang="en">
+<title>VENEZUELA: Venezuela consortium wins Casma-Anaco oil contract.</title>
+<headline>Venezuela consortium wins Casma-Anaco oil contract.</headline>
+<dateline>CARACAS 1997-06-02</dateline>
+<text>
+<p>A Venezuelan consortium agreed Monday to pay $27.58 million for the contract to operate Venezuela's Casma-Anaco oil field, state oil company Petroleos de Venezuela (PDVSA) said.</p>
+<p>The consortium  -- made up of Cosa-Ingenieros Consultores, Cartera de Inversiones Venezolanas CA and Phoenix International CA -- was among 13 bidders on the first day of Venezuela's third round of oil operating contract auctions.</p>
+<p>A total of 131 companies are competing for 20 contracts and the winners are determined purely by the size of their cash bids.</p>
+<p>Under the 20-year contract, the operator will produce hydrocarbons on behalf of PDVSA subsidiary Corpoven in exchange for a fee worked out on a sliding scale.</p>
+<p>Discovered in 1972 in eastern Venezuela, Casma-Anaco was one of five fields reserved for Venezuelan operators with a minimum 30 percent stake. It curently produces 1,550 barrels per day. As a condition of the contract, the operator must invest at least $6 million within three years, although PDVSA expects investment to be higher.</p>
+<p>((-- Caracas newsroom, 582 505 2600))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="606200" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Microsoft unveils partners, plan to control &quot;push&quot;.</title>
+<headline>Microsoft unveils partners, plan to control &quot;push&quot;.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO, Calif. 1997-05-21</dateline>
+<text>
+<p>Microsoft Corp on Wednesday announced more than a dozen business information partners for its &quot;push&quot; technology, and said it will help companies control use of the bandwidth-hungry capability.</p>
+<p>The so-called &quot;push&quot; technology, which has become one of the hottest areas of Internet software, ends the need to surf the Web for information by enabling users to receive notice of updates to their favorite Internet sites.</p>
+<p>Push is also the latest battleground between Microsoft and Internet software pioneer Netscape Communications Corp, which has been promoting its own &quot;Netcaster&quot; model, offering customers a sneak preview on the company's web site. Netscape released its Netcaster technology to developers on Monday.</p>
+<p>At a San Francisco news conference, Microsoft introduced strategic and technical executives from more than a dozen companies that will support its push approach, which includes creating &quot;active channels&quot; for Microsoft's Internet Explorer 4.0 browser, expected to be available by the end of summer.</p>
+<p>The channels, which can be added to an individual's browser in the form of a click-on icon, provide instant access to a Web site and can provide notification of updates to the Web site content or store updates for viewing off-line.</p>
+<p>The partners, whose channels will be available to corporate customers through an Internet Explorer Administration Kit 4.0, include Dow Jones Co.'s Dow Jones Channel and Wall Street Journal Interactive Edition.</p>
+<p>Others include Dun &amp; Bradstreet, Ernst &amp; Young LLP, First Call Corp, Forbes Inc, Time Warner Inc.'s Fortune, Individual Inc, PointCast Network, Reed Elsevier Inc and Microsoft's MSNBC joint venture with General Electric Corp.</p>
+<p>But Microsoft also said a critical part of its new push technology will be using the administration kit to enable information managers to control use of bandwidth-consuming push technology over internal company networks, and to select only those channels they want employees to use.</p>
+<p>The control features enable companies to lock profiles of their employees so they can see only specific channels and otherwise control how much information can be downloaded and stored from the Internet onto corporate computers.</p>
+<p>Separately, Netscape said it had added more than 100 channels to its own Netscape Channel Finder, a user guide intended to provide access to thousands of Web channels.</p>
+<p>The added channels are partners of Marimba Inc., the Palo Alto, California, startup which supplies technology for automatically updating software and is also a partner of Netscape.</p>
+<p>These include ABCNEWS.com, CBS SportsLine, CNNfn, Gartner Group Advisor, software distributor Gamelan, Charles Schwab, Excite and Federal Express Corp.</p>
+<p>Mike Homer, Netscape's senior vice president of marketing, said the area on its site was modeled after the success of its Inbox Direct and Netscape Guide programs, which he said has featured more than 70 third-party content providers and generated more than seven million subscriptions.</p>
+<p>Homer said Netscape remains committed to ship its Communicator Internet software upgrade within the next 30 days, claiming at least a four- to five-month lead over Microsoft.</p>
+<p>&quot;Microsoft's tactic is to try to sell futures,&quot; Homer said in an interview, adding that with Microsoft's next version of Internet Explorer not expected to ship until September &quot;at best,&quot; Communicator will be available in versions for multiple operating systems well before then.</p>
+<p>(--sam.perry@reuters.com, in Palo Alto, +1 415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

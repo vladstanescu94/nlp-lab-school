@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="727983" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: TABLE - Phoenix Tech Q3 results.</title>
+<headline>TABLE - Phoenix Tech Q3 results.</headline>
+<dateline>SAN JOSE, Calif. 1997-07-15</dateline>
+<text>
+<p>Phoenix Technologies Ltd.</p>
+<p>		     Consolidated Statements of Income</p>
+<p>		  (In thousands, except per share amounts)</p>
+<p>				   (Unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   June 30,	   June 30,</p>
+<p>				 1997	 1996	  1997     1996</p>
+<p>Revenue:</p>
+<p> License fees	 $   16,987  $ 15,976  $   50,849 $ 43,938</p>
+<p> Services		    3,521     2,669	 9,235    7,449</p>
+<p>	Total revenue     20,508    18,645	60,084   51,387</p>
+<p>Cost of revenue:</p>
+<p> License fees		1,415     1,676	 3,498    5,154</p>
+<p> Services		    2,905     2,036	 7,255    5,689</p>
+<p>	   Total cost</p>
+<p>	    of revenue	  4,320   3,712	10,753  10,843</p>
+<p> Gross margin		  16,188  14,933	49,331  40,544</p>
+<p>Operating expenses:</p>
+<p>Research and</p>
+<p>	 development	    6,605   5,651	19,698  13,587</p>
+<p>Sales and</p>
+<p>	 marketing		4,500   4,187	13,027  11,284</p>
+<p>General and</p>
+<p>	administrative	  2,752   2,219	 8,597   6,965</p>
+<p>	     Total operating</p>
+<p>	     expenses	  13,857  12,057	41,322  31,836</p>
+<p> Income from operations     2,331   2,876	 8,009   8,708</p>
+<p> Interest income, net	   683     540	 2,267   1,526</p>
+<p>Other income (expense), net</p>
+<p>				    1,073    (33)	 1,720   (286)</p>
+<p>Income before income taxes</p>
+<p>				    4,087   3,383	11,996   9,948</p>
+<p>Provision for income taxes</p>
+<p>				    1,295   1,045	 3,825   2,999</p>
+<p> Net income		   $ 2,792 $ 2,338     $ 8,171 $ 6,949</p>
+<p> Net income per share	  0.16    0.13	  0.45    0.40</p>
+<p>Shares used in computation</p>
+<p>of net income per share</p>
+<p>				   17,615  18,179	18,084  17,351</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

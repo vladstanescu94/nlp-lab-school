@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35573" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: RESEARCH ALERT-Smith Barney restarts software cos.</title>
+<headline>RESEARCH ALERT-Smith Barney restarts software cos.</headline>
+<text>
+<p>-- Smith Barney reinitiated coverage of nine software companies, according to a market source.</p>
+<p>-- Restarted Oracle Corp, Informix Corp and Computer Associates International Inc with buy ratings, the source said.</p>
+<p>-- Restarted Sybase Inc and Rational Software Corp with neutral ratings.  </p>
+<p>-- Restarted Pure Atria Corp, PeopleSoft Inc, BMC Software Inc and Baan Co NV all with outperform ratings.</p>
+<p>-- Analyst not immediately available for comment.</p>
+<p>-- Wall Street desk, 212-859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

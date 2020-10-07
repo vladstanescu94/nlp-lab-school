@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219385" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: IDX Systems sees Q4 at or above estimates.</title>
+<headline>IDX Systems sees Q4 at or above estimates.</headline>
+<dateline>BURLINGTON, Vt. 1996-11-27</dateline>
+<text>
+<p>IDX Systems Corp said on Wednesday that it is confident its fourth quarter earnings will meet or exceed First Call analyst consensus estimates of $0.18 per share.</p>
+<p>The company said it also expects revenue and net profits for that period, which ends December 31, will be on target.</p>
+<p>Its fourth quarter results are expected to be released during the first week of February.</p>
+<p>IDX provides healthcare information systems to physician groups and academic medical centers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Vt."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

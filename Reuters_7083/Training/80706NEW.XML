@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80706" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: AFTER THE BELL - Microsoft falls 1-1/4 to 133-1/8.</title>
+<headline>AFTER THE BELL - Microsoft falls 1-1/4 to 133-1/8.</headline>
+<dateline>NEW YORK 1996-09-27</dateline>
+<text>
+<p>Shares of Microsoft Corp fell 1-1/4 to 133-1/8 after hours on Friday on news that the company's operating margins in 1997 may be lower than those in 1996, traders said.</p>
+<p>Trading activity was otherwise light, they said.</p>
+<p>The New York Stock Exchange said Crawford &amp; Co Class A and B was unavailable for after hours trade for news.</p>
+<p>The NYSE said session one volume was 3,068,700 shares, compared to 32,800 shares Thursday.</p>
+<p>There was no activity on in session two. Session two volume was 985,900 Thursday.</p>
+<p>The American Stock Exchange said there was no after-hours activity.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I83200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

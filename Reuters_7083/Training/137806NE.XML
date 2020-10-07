@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137806" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Geoworks Q2 Sept. 30 shr loss $0.20.</title>
+<headline>Geoworks Q2 Sept. 30 shr loss $0.20.</headline>
+<dateline>ALAMEDA, Calif. 1996-10-22</dateline>
+<text>
+<p>Geoworks</p>
+<p>		     Condensed Consolidated Financial Summary</p>
+<p>					  (unaudited)</p>
+<p>			(in thousands, except per share data)</p>
+<p>				  Three Months Ended Six Months Ended</p>
+<p>				   Sep 30,   Sep 30,  Sep 30, Sep 30,</p>
+<p>				     1996	 1995     1996    1995</p>
+<p> Net revenues		  $ 2,031   $   950  $ 4,460 $ 1,335</p>
+<p> Net loss			(2,837)   (2,371)  (4,768) (5,211)</p>
+<p> Net loss per share	   (0.20)    (0.21)   (0.34)  (0.46)</p>
+<p>Shares used in per share</p>
+<p>  computation		   14,039    11,401   14,004  11,352</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

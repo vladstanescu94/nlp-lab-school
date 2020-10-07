@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203826" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Unisys gives Microsoft home banking support.</title>
+<headline>Unisys gives Microsoft home banking support.</headline>
+<dateline>BLUE BELL, Pa. 1996-11-20</dateline>
+<text>
+<p>Unisys Corp said Wednesday it agreed to a mutual marketing deal with Microsoft Corp for Internet banking services in which it would provide integration services to support Microsoft software.</p>
+<p>Unisys said the two companies will provide a package that enables financial services businesses to offer their customers home banking services.</p>
+<p>The system will combine Unisys integration services and Microsoft's suite of Windows NT-based home banking software, and related software tools, including Microsoft Internet Information Server, Internet Explorer, and Money 97, it said.  </p>
+<p>In a statement, Michael Dusche, Microsoft's worldwide retail banking industry manager, said, &quot;The Unisys/Microsoft Home Banking solution will enable the customers of financial institutions to bank 24 hours a day, 7 days a week from their PCs at home or from their laptop computers anywhere with more control via the Internet.&quot;</p>
+<p>&quot;Financial institutions worldwide will benefit from Unisys ability to integrate Microsoft leading-edge home banking products seamlessly into their existing retail delivery architectures,&quot; said Glenn Santmire, group vice president, Unisys Worldwide Financial Services.</p>
+<p>&quot;The relationship between Unisys and Microsoft allows financial enterprises to create and deliver advanced home banking services more quickly than their competitors so they can better serve existing customers and capture new ones,&quot; he said.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLUE BELL, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

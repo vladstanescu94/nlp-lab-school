@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666789" id="root" date="1997-06-17" xml:lang="en">
+<title>SOUTH KOREA: Gates sees narrow role for NCs in PC market.</title>
+<headline>Gates sees narrow role for NCs in PC market.</headline>
+<dateline>SEOUL 1997-06-17</dateline>
+<text>
+<p>Microsoft Corp chairman Bill Gates said on Tuesday he saw network computers being promoted by his rivals playing only a narrow role in the personal computer market because of compatibility problems.</p>
+<p>&quot;These non-compatible devices, I think, will have quite a narrow role in the market,&quot; Gates told a news conference in Seoul.</p>
+<p>&quot;If you look at the last year, PCs actually did sell well at about 80 million, and I'm not sure what number of NCs, but certainly a small number of NCs.&quot;</p>
+<p>His remarks came hours after a dozen computer makers introduced a new class of PCs called NetPCs based on designs from Intel Corp and Microsoft.</p>
+<p>Both Ncs (network computers) and NetPCs are essentially stripped-down desktop computers. But NCs have only basic Internet and corporate network access functions. NetPCs run most Microsoft software but have no expansion slots.</p>
+<p>&quot;The idea of the NC is to give up compatibility and to throw away all of today's applications and ask people to rewrite those applications,&quot; Gates said.</p>
+<p>The world's largest PC maker Compaq Computer Corp, Dell Computer Corp, Hewlett-Packard Co, Gateway 2000 Inc and International Business Machines Corp are among the companies that introduced NetPCs.</p>
+<p>Initially, Microsoft and Intel and other computer makers paid little heed to Oracle Corp and others promoting the NC, but last October set an initiative to lower the cost of computing.</p>
+<p>The NetPC initiative reflects an effort to head off a campaign by Sun Microsystems Inc, Oracle and others to push for NCs that have no internal disk drives and do not use Windows operating systems.</p>
+<p>Although the NetPC is a result of joint efforts with many other companies, Gates emphasised that the device was a &quot;totally compatible device&quot;.</p>
+<p>But some officials and analysts say corporate users may resist some aspects of the new NetPCs because they think the widely touted features of the NetPC are already being incorporated into standard PCs.</p>
+<p>Gates also said Microsoft was expanding into interactive content as a supplementary business.</p>
+<p>&quot;Interactive content is a new area for everyone, and it's a mix of editorial and technology. And so we've been hiring in some great editorial people,&quot; he said. &quot;We are trying many things here. I'm sure we will learn a lot from them, I'm sure a lot of them will be successful.&quot;</p>
+<p>Gates visited Seoul on June 16-18, to promote Windows and Windows applications, including the Windows World '97.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

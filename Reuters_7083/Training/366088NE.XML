@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366088" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Computron Software names Jorgensen CFO.</title>
+<headline>Computron Software names Jorgensen CFO.</headline>
+<dateline>RUTHERFORD, N.J. 1997-02-10</dateline>
+<text>
+<p>Computron Software Inc said it named Michael Jorgensen as executive vice president and chief financial officer to replace Alex Comandini, who resigned recently.</p>
+<p>Jorgensen joins the company from Ground Round Restaurants Inc, where he was chief financial officer for the last three years.</p>
+<p>Late last month, Computron said information had come to its attention that may impact previously reported financial results.  The company said its independent auditors will withdraw their reports on the company's previously reported financial statements.</p>
+<p>Comandini was just named CFO last October.</p>
+<p>Company officials were not available to comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RUTHERFORD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

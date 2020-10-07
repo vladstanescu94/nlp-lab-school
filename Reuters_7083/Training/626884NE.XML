@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="626884" id="root" date="1997-05-30" xml:lang="en">
+<title>USA: CNN, Oracle to unveil Internet news site.</title>
+<headline>CNN, Oracle to unveil Internet news site.</headline>
+<dateline>NEW YORK 1997-05-30</dateline>
+<text>
+<p>CNN Interactive, the Internet arm of Time Warner Inc.'s 24-hour news operation, and database software maker Oracle Corp. next week will unveil an interactive news site, according to sources close to the companies.</p>
+<p>Time Warner Vice Chairman Ted Turner and Oracle Chairman Larry Ellison are scheduled to make a joint keynote address at the Comdex/Spring trade show in Atlanta on Wednesday.</p>
+<p>Neither CNN Interactive nor Oracle would comment on the proposed venture.</p>
+<p>But sources close to the companies said Oracle will provide CNN's existing Web site with technology for advanced text and data searching and streaming video, in which a user can click on an icon on the site and see video of an event.</p>
+<p>The site will compete with MSNBC, the joint venture by General Electric Co.'s NBC television network and software giant Microsoft Corp.; and Walt Disney Co.'s ABCNEWS.com, which is distributed by its partners: the America Online Inc. online service and Internet software maker Netscape Communications Corp.</p>
+<p>The sources were not sure if Oracle will add its brand to the CNN site or if it will simply supply technology.</p>
+<p>CNN operates several 24-hour cable news channels, and promotes its Web site in its programming.</p>
+<p>The venture would be the latest attempt by media companies to increase their presence on the Web.</p>
+<p>CBS has said it will unveil its plans to enter the Internet arena later this month. In April, the network purchased a 22 percent stake in Internet SportsLine USA, a provider of sports information and scores.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

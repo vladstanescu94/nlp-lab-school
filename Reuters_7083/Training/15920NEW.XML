@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15920" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Netscape agrees to support Apple technology.</title>
+<headline>Netscape agrees to support Apple technology.</headline>
+<byline>Samuel Perry</byline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-08-27</dateline>
+<text>
+<p>Netscape Communications Corp. gave a boost Tuesday to Apple Computer Inc.'s efforts to make the Internet a key element in its turnaround strategy.</p>
+<p>The two companies said Netscape had agreed to develop a new version of its Netscape Navigator Internet browser that supports Apple's Cyberdog Internet search software as well as OpenDoc, software backed by Apple for manipulating documents.</p>
+<p>Apple will distribute Netscape Navigator for Cyberdog with its Mac operating system and plans to incorporate the browser in future versions of its Mac system for Apple computers.</p>
+<p>Cyberdog allows Internet sufers to navigate by clicking on icons, for example, while Opendoc allows people to mix and match software combining text, graphics and video from different systems.</p>
+<p>Analysts said the move underscores Apple's commitment to developing Internet technologies and extends the relationship between the two companies at a time when they are both facing extreme competitive pressure.</p>
+<p>&quot;Hopefully, this will jump-start Apple's (Internet business). Apple's future really is the Internet,&quot; said Steve Harmon, senior investment analyst at Meckermedia Corp.</p>
+<p>&quot;I just wonder if they're moving fast enough, even with a partnership with Netscape,&quot; he said.</p>
+<p>Apple Computer has been reeling from weak sales and a major restructuring that forced it to take substantial charges and post a record $740 million loss in its second fiscal quarter.</p>
+<p>The Cupertino, Calif.-based pioneer of the personal computer, which is known for the ease of use and the graphics capabilities of its Macintosh machines, has said the Internet and multimedia are central to its future development.</p>
+<p>Larry Tesler, an Apple veteran who was named to head the AppleNet division earlier this year, recently said the company is now focused on the Internet and his group was working to cut development times dramatically.</p>
+<p>The pace of Internet rollouts has been also speeded in part by the escalating marketing battle between Netscape, which leads the market with nearly 80 percent of the Web browsers, and software giant Microsoft Corp. .</p>
+<p>Both Netscape and Microsoft have introduced new versions of their browsers this month, and, despite Netscape's lead in the market with some 40 million copies of Netscape Navigator in circulation, some analysts look at it as the underdog.</p>
+<p>Earlier this month, a lawyer for Netscape wrote to the Department of Justice complaining that Microsoft had allegedly violated a 1994 consent decree and violated antitrust laws to promote its browser, a charge Microsoft denies.</p>
+<p>Microsoft has not been a supporter of Opendoc, a standard for use in systems such as the Mac, Windows, Windows NT and International Business Machines Corp.'s OS/2 and AIX operating systems, while Netscape has been seeking to embrace cross-platform capabilities.</p>
+<p>But analysts also note that the relation between the companies remains complicated.</p>
+<p>Microsoft is the largest producer of applications for Apple's Mac system even though its Windows system dominates the personal computer market. And most machines running Netscape Navigator are running it on top of Microsoft's Windows system.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

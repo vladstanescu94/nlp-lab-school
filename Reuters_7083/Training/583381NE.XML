@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583381" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Trend Micro sues McAfee, Symantec for infringement.</title>
+<headline>Trend Micro sues McAfee, Symantec for infringement.</headline>
+<dateline>CUPERTINO, Calif. 1997-05-14</dateline>
+<text>
+<p>Trend Micro Inc said Wednesday it has sued its two largest competitors, McAfee Associates and Symantec Corp, for infringement of its recently issued Internet anti-virus patent.</p>
+<p>The complaint, filed Tuesday in the U.S. District Court for Northern California, identifies McAfee's WebShield and GroupShield anti-virus products, as well as Symantec's Norton Antivirus for Internet Email Gateways, as allegedly infringing products.  </p>
+<p>The federal lawsuit asks the court for damages, including treble damages for any willful infringement, and for a permanent injunction to prevent McAfee and Symantec from making, using or selling allegedly infringing products, including those cited.</p>
+<p>McAfee and Symantec could not immediately be reached for comment.  </p>
+<p>The lawsuit also asks the court to stop alleged ongoing infringement involving already-sold products by preventing McAfee and Symantec from supplying virus signature patterns for new viruses, renewing licenses on the products, and making new versions or enhancements of the products.</p>
+<p>Trend said its U.S. patent, issued April 22, is for its computer virus detection techniques used for data carried over the Internet, electronic mail and groupware.  </p>
+<p>The patented technology is used in Trend Micro's InterScan VirusWall.  It is also used in server-based anti-virus products of a number of other anti-virus vendors that scan for viruses in Internet traffic and in electronic mail.</p>
+<p>The company said it is investigating whether additional defendants and infringing products should be added to the lawsuit.  It said it is gathering more product information and awaiting the release of products or services now in testing phases before making final decisions.  </p>
+<p>The company said in some cases, it could look to turn &quot;patent infringers&quot; into business partners rather than suing them.</p>
+<p>Trend Micro is being represented by the law firm of Townsend, Townsend &amp; Crew, which has offices in San Francisco, Palo Alto, Calif., Seattle and Denver.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418948" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: Bay Networks named in shareholder lawsuit.</title>
+<headline>Bay Networks named in shareholder lawsuit.</headline>
+<dateline>NEW YORK 1997-03-03</dateline>
+<text>
+<p>Attorneys filed a lawsuit against Bay Networks Inc on behalf of shareholders who bought stock between July 25, 1995 and October 14, 1996, three law firms said in a statement.</p>
+<p>Bay Networks was not immediately available for comment.</p>
+<p>The complaint alleges that Bay Networks made misleading statements regarding, among other things, Bay's management and organization, its sales, revenues and profits, its products and capabilities, and its overall competitive market position, the law firms said.</p>
+<p>The law firms involved include Zwerling, Schachter, Zwerling LLP; Prongay &amp; Borderud; and Berman, DeValerio, Pease &amp; Tobacco.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

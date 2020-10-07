@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421441" id="root" date="1997-03-05" xml:lang="en">
+<title>INDIA: Gates urges Indian programmers to think global.</title>
+<headline>Gates urges Indian programmers to think global.</headline>
+<dateline>BOMBAY 1997-03-05</dateline>
+<text>
+<p>Microsoft Corp chairman Bill Gates said on Wednesday that infrastructure improvements were crucial to India's plans to emerge as a software superpower in the next century.</p>
+<p>Gates told a meeting of the heads of 500 Indian software firms in Bombay, India's commercial capital, that he wanted to exploit their employees' skills.</p>
+<p>&quot;India has what it takes to participate in, even to shape, the future if it makes the necessary investments now,&quot; he said.</p>
+<p>&quot;It must build a national telecommunications infrastructure, develop a robust domestic software industry, provide Internet connectivity for the consumer and invest in education.&quot;</p>
+<p>Thousands of Indian software engineers see Gates as a success story to emulate in a high-growth industry.</p>
+<p>India's software industry, which reported sales worth $1.2 billion in 1995/96 (April-March), expects to grow by 50 percent to $1.8 billion in the 1996/97 fiscal year that ends this month.</p>
+<p>The Microsoft chief, who arrived in New Delhi on Monday at the start of a four-day visit, has had meetings with Prime Minister H.D. Deve Gowda and Finance Minister P. Chidambaram.</p>
+<p>&quot;India has just one computer per thousand people today,&quot; Gates said. &quot;It is worthwhile to make the education investment and effort to pull more of the people into computers.&quot;</p>
+<p>Gates, who owns 25 percent of Microsoft, said the company was committed to establishing India as a global pool of talent and resources in computer software.</p>
+<p>&quot;The investment we're going to make here is going to continue to grow and grow,&quot; he said.</p>
+<p>He chalked out a strategy for Indian software firms, advising them to graduate from doing essentially project-based development to selling their own packaged products, and to develop applications for local markets to meet local needs.</p>
+<p>Gates urged the software chiefs to invest in research and development -- an area in which his own firm plans to invest $2 billion this year -- as well as make use of the Internet to market their products globally.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

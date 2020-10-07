@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="589963" id="root" date="1997-05-16" xml:lang="en">
+<title>COLOMBIA: Software piracy said rampant in Latin America.</title>
+<headline>Software piracy said rampant in Latin America.</headline>
+<dateline>BOGOTA 1997-05-16</dateline>
+<text>
+<p>At least 68 percent of the personal computers in Latin America and the Caribbean run on pirated software, according to a study issued in Bogota this week by Price Waterhouse.</p>
+<p>The sale of such software produces illicit revenues in the region that total up to $911 million per year, the study said, adding that Guatemala, Costa Rica, Jamaica, Trinidad and Tobago and Uruguay were among countries where pirated software had been detected in up to 80 percent of all PCs.</p>
+<p>The study, presented at a news conference Thursday by an industry watchdog group known as the Business Software Alliance, stressed that the leading cause of piracy was the lack of laws and enforcement of intellectual property rights in Latin America.</p>
+<p>((-- Juan Guillermo Londono, Bogota newsroom, 571 610 7944))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="TRTO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="URU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

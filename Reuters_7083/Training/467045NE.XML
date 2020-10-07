@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="467045" id="root" date="1997-03-25" xml:lang="en">
+<title>UK: Oxford Molecular in jv with Polymasc.</title>
+<headline>Oxford Molecular in jv with Polymasc.</headline>
+<dateline>LONDON 1997-03-25</dateline>
+<text>
+<p>Oxford Molecular Group Plc said on Tuesday that it had formed a strategic collaboration with Polymasc Pharmaceuticals to accelerate the discovery and development of a blood growth factor.</p>
+<p>According to the agreement, Oxford Molecular would provide Polumasc with proprietary molecular design services aimed at identifying key agents which stimulate red blood cell production.</p>
+<p>Polymasc would cover research costs and would provide Oxford Molecular with milestone and royalty payments. Financial details were not disclosed.</p>
+<p>Blood growth factors are used in the treatment of cancer, anaemia and AIDS. The global market for compounds in the therapeutic area was estimated at $4.0 billion.</p>
+<p>--London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

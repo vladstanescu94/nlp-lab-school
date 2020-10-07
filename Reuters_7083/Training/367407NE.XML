@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367407" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Multicom Publishing Inc Q2 loss.</title>
+<headline>Multicom Publishing Inc Q2 loss.</headline>
+<dateline>SAN FRANCISCO 1997-02-10</dateline>
+<text>
+<p>Multicom Publishing, Inc.</p>
+<p>Statement of Operations</p>
+<p>					     3 mos.		 3 mos.</p>
+<p>						ended		  ended</p>
+<p>					  12/31/96		 12/31/95</p>
+<p>					(unaudited)	   (unaudited)</p>
+<p> Gross Sales			 $1,826,562	    $1,971,222</p>
+<p> Returns and Allowances	   (977,064)	     (257,728)</p>
+<p> Net Sales				849,498	     1,713,494</p>
+<p> Cost of goods sold		 1,086,610		 859,646</p>
+<p> Gross Margin			 (237,112)		 853,848</p>
+<p>Operating Expenses:</p>
+<p> Research and Development	   624,104		 715,207</p>
+<p> Sales and marketing		  654,228	     1,166,592</p>
+<p> General and administrative	 463,945		 380,720</p>
+<p> Total operating expenses	 1,742,277	     2,262,519</p>
+<p> Operating loss		   (1,979,389)	   (1,408,671)</p>
+<p> Other income (expense)	   (151,243)	     (166,070)</p>
+<p> Loss before taxes		(2,130,632)	   (1,574,741)</p>
+<p> Income taxes				   0			 0</p>
+<p> Net loss			   (2,130,632)	   (1,574,741)</p>
+<p> Net loss per share		    (0.38)		  (0.31)</p>
+<p> Weighted average of shares     5,614,000	     5,060,000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

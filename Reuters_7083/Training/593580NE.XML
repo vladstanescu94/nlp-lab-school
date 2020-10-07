@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593580" id="root" date="1997-05-18" xml:lang="en">
+<title>USA: E-mail startup in deal to block bulk junk e-mail.</title>
+<headline>E-mail startup in deal to block bulk junk e-mail.</headline>
+<byline>Samuel Perry</byline>
+<dateline>MENLO PARK, Calif. 1997-05-18</dateline>
+<text>
+<p>A privately-held Internet company said it will Monday announce a pact with a big sender of bulk commercial e-mail solicitations that can enable registered voters to block junk e-mail.</p>
+<p>John Phillips, president of San Francisco-based Aristotle, said in an interview Sunday that the deal with Cyber Promotions Inc. and its President Sanford Wallace could help control unwanted bulk e-mail advertising.</p>
+<p>Wallace's Cyber Promotions is said to account for more than 4 million electronic mail advertisements a day and his methods have resulted in recent lawsuits brought by service providers and prompted heated Internet debate.</p>
+<p>Phillips said some Internet experts have expressed surprise that his company's fledgling Internet business would establish a direct deal with a service which has been subjected to scathing commentary in Web discussions.</p>
+<p>But he said the deal could put additional legal teeth into individual requests to block the electronic mail advertising because Aristotle has created legal electronic mailboxes covering the nation's 138 million voters.</p>
+<p>Internet users have complained in the past that Cyber Promotions has not honored requests to remove them from its lists permanently and the service has been accused of taking unusual measures to circumvent blocking mechanisms.</p>
+<p>&quot;We're bringing the lion into the den,&quot; Phillips said in an interview ahead of Monday's announcement. &quot;Ultimately, his (Wallace's) customers are not all that interested in sending mail to people who get pissed off.&quot;</p>
+<p>The agreement addresses the practice on the Internet known as &quot;spamming&quot; -- widely detested by individuals whose electronic mailboxes can quickly fill up with unwanted e-mail solicitations and by companies and Internet service providers whose services can be clogged by the messages.</p>
+<p>Two separate court cases in the last twelve months, brought by Prodigy Service Corp. and America Online Inc., have dealt a blow to Cyber Promotions's e-mail practices. In the America Online case a federal judge ruled the company had no constitutional right to send such messages.</p>
+<p>Under the Aristotle deal, any registered U.S. voter may request the blocking service at (www.aristotle.org) for up to five electronic mail addresses, Phillips said.</p>
+<p>The service is free and part of Aristotle's effort to leverage its database of 138 million voters nationwide into an Internet-based official electronic mail service.</p>
+<p>Aristotle, which is also seeking roughly $2 million in early stage venture investment for its e-mail business, has established legal electronic mailboxes for each U.S. voter for receiving government and commercial e-mail.</p>
+<p>The company said individuals representing more than 1.2 million e-mail addresses have already signed up for the blocking service.</p>
+<p>Aristotle, founded over a decade ago, supplies services and software to politicians and political parties on registered voters in the more than 3,100 U.S. counties.</p>
+<p>Last year the company and the California secretary of state launched a pilot program to enable the state's 14 million registered voters to receive official notices through e-mail, saving the state postage processing costs.</p>
+<p>Eventually, it plans to compensate voters a portion of the savings -- from 25 cents to $1 -- of each government or commercial mailer they pick up at their mailbox.</p>
+<p>Aristotle calculates the average consumer receives 1,000 pieces of junk mail and many unwanted telephone solicitations a year and hopes to divert some of this traffic to its legal electronic mailboxes. By the year 2001, Aristotle aims to deliver 10 percent of the mail for 5 percent of the U.S. population.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="I8395449">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

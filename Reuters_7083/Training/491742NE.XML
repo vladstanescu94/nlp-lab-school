@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="491742" id="root" date="1997-04-07" xml:lang="en">
+<title>USA: FTP sees Q1 oper loss $9-$11 million.</title>
+<headline>FTP sees Q1 oper loss $9-$11 million.</headline>
+<dateline>ANDOVER, Mass. 1997-04-07</dateline>
+<text>
+<p>FTP Software Inc said Monday it expects a first quarter loss from continuing operations of $9-$11 million, on revenues of $21-$23 million.</p>
+<p>The company said the expected revenue range falls below its goals.</p>
+<p>FTP said it generated lower than expected sales volumes with its IPX/IP gateway products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANDOVER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

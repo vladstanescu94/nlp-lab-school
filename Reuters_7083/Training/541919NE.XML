@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="541919" id="root" date="1997-04-27" xml:lang="en">
+<title>USA: EMC offers software to manage,retrieve stored data.</title>
+<headline>EMC offers software to manage,retrieve stored data.</headline>
+<dateline>SAN FRANCISCO 1997-04-27</dateline>
+<text>
+<p>EMC Corp filling a critical hole in its product line, will unveil Monday two software products that make it easier for companies to manage and retrieve information stored on their mainframe computers.</p>
+<p>EMC, a maker of big disk-drive systems, also will announce the backing of database software publisher Oracle Corp and computer maker Hewlett-Packard Co.</p>
+<p>The new storage products are an answer to customers' requests for easier access to data stored on EMC disk-drive systems, said Jim Rothnie, senior vice president of marketing.  </p>
+<p>They also will be a boost to EMC's small but profitable software business, analysts said.</p>
+<p>&quot;It's an important one for them,&quot; said Gary Helmig, a SoundView Financial Group analyst.</p>
+<p>EMC will unveil DataReach, a program that takes information stored in a mainframe's database and converts it into a format that can be read by popular database systems for desktop computer networks.</p>
+<p>The program helps speed up the operation of the mainframe and makes it easier for PC users to access information.</p>
+<p>DataReach will sell for about $100,000, EMC executives said.  </p>
+<p>EMC also will unveil TimeFinder, a program that takes a snapshot of the information zipping through a mainframe or corporate network and makes it easier for technicians to perform tasks such as back-ups.</p>
+<p>The program costs about $30,000.</p>
+<p>&quot;No products like these exist anywhere in the world today,&quot; Rothnie said. &quot;We were driven to develop these capabilities because of requests from our customers.&quot;</p>
+<p>EMC, based in Hopkinton, Mass., will showcase the products in San Francisco.</p>
+<p>Until recent years, EMC specialized in making giant disk-drive systems that stored information for mainframe computers, the computing workhorses of big companies.</p>
+<p>A couple of years ago, the company began making storage systems for networks based on the Unix standard, as well.</p>
+<p>Rothnie said the new software products should help EMC gain more customers as more companies use a mixture of mainframes and Unix networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

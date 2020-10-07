@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141371" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Sybase outsources Gain Momentum product.</title>
+<headline>Sybase outsources Gain Momentum product.</headline>
+<dateline>EMERYVILLE, Calif. 1996-10-23</dateline>
+<text>
+<p>Sybase Inc said Wednesday it has decided to outsource its Gain Momentum product to Triton Services Inc as part of a broader move to focus on its core technology.</p>
+<p>Triton will now provide sales, support, maintenance and continued product enhancement for the product. Sybase will discontinue distribution of Gain Momentum, which was formerly sold by Sybase's New Media unit.</p>
+<p>In 1991, Sybase acquired Gain Momentum, an interactive environment for building and deploying multimedia applications. Sybase said that with the growth of the Internet and intranet, Gain Momentum no longer plays a major role in it's future plans.</p>
+<p>Privately-held Triton is a value-added reseller of Sybase products and has been working with existing Sybase products since 1990.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I34340">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EMERYVILLE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

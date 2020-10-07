@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193330" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Health Management sees weak earnings, stock tumbles.</title>
+<headline>Health Management sees weak earnings, stock tumbles.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Health Management Systems Inc. said Friday it expects to report disappointing fourth-quarter earnings, triggering a heavy selloff of its stock.</p>
+<p>The stock fell $6.875 to $15.25 on Nasdaq, where it was the most active issue at midday.</p>
+<p>Health Management said it expects lower than expected earnings per share of about 15 cents to 16 cents in the fourth quarter ended Oct. 31, on revenues of $23 million to $24 million.</p>
+<p>This compares with earnings of $2.9 million, or 17 cents a share after a three-for-two stock split, on revenues of $24.7 million in the year-ago period.</p>
+<p>The New York-based company attributed the disappointing earnings to a reserve it set up after a large client raised a question in the final weeks of the quarter regarding Health Management's right to a fee in certain circumstances.</p>
+<p>&quot;While HMS believes the client's position to be without merit, the company believed it prudent to establish a reserve in the full amount at issue,&quot; the company said.</p>
+<p>Moreover, Health Management said it received an unanticipated request from another major client that it delay the completion of certain work from October until January. This requires Health Management to defer recognition of the revenue for work.</p>
+<p>The company said a restructuring also consumed more management resources than expected.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

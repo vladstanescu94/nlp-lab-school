@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="373967" id="root" date="1997-02-12" xml:lang="en">
+<title>AUSTRALIA: RTRS-Formida on show at Informix seminars.</title>
+<headline>RTRS-Formida on show at Informix seminars.</headline>
+<dateline>SYDNEY 1997-02-12</dateline>
+<text>
+<p>Software developer Formida Holdings Ltd said on Wednesday that a major database vendor, U.S-based Informix Software Inc, would use Formida software to present a demonstration to delegates at Informix's seminars on its new universal server database technology.</p>
+<p>In a statement to the Australian Stock Exchange, Formida said Informix was the first of the major database vendors to provide an object-relational database that could be used to store and interact with content-rich data such as images, sound, video Web pages and maps.  </p>
+<p>Formida's software allows users of these databases to build end-user applications putting that data to work in client/server environments, the company said.</p>
+<p>Formida said the Informix announcement was important because Formida was being recognised as an application development environment that was capable of working with the new object-relational database technology.</p>
+<p>The Informix seminars are to be held in 18 North American cities and is likely to be extended to the Asia-pacific market, Formida said.  </p>
+<p>However, the company cautioned that while its involvement with the seminars was part of its strategy to work with key database suppliers, it should not be seen as a precursor to future contracts or indication of any future or formal relationship with Informix.</p>
+<p>By 12.10 p.m. (0110 GMT), Formida shares were 15 cents higher at A$7.35 on light volume of 12,800 shares.</p>
+<p>-- Sydney Newsroom 61-2 8373 1810</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

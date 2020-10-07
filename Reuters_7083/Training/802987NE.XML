@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802987" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: Microsoft, Marimba to work on software standard.</title>
+<headline>Microsoft, Marimba to work on software standard.</headline>
+<dateline>REDMOND, Wash. 1997-08-14</dateline>
+<text>
+<p>Microsoft Corp. and Marimba Inc. said Thursday they will jointly develop a technology that will make it easier for big companies to automatically update software on thousands of personal computers on their corporate networks.</p>
+<p>The companies will develop a software standard, called Open Software Description, that will describe the underlying structure of software components. With that information, computers operating in a network will know when new components are available, and can automatically update popular programs such as word processors and Internet browsers.</p>
+<p>The specification is part of Microsoft's strategy to reduce the cost of managing PCs running its software. The technology also will be part of Marimba's products to automatically distribute, or &quot;push,&quot; information through networks.</p>
+<p>In recent years, Microsoft, the world's biggest PC software company, has faced increasing criticism from big corporate buyers for the high cost of upgrading its software. Currently, computer technicians have to spend days installing new versions of programs with floppy disks and CD-ROMs.</p>
+<p>A central installation mechanism that would automatically update software on hundreds of PCs at once would significantly reduce costs, Microsoft said.</p>
+<p>Microsoft and Marimba, a closely held software concern, said they have the backing of other key Internet software companies such as Netscape Communications Corp. and International Business Machines Corp.'s Lotus Development unit.</p>
+<p>(--Kourosh Karimkhany in Palo Alto)(650 846 5401)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

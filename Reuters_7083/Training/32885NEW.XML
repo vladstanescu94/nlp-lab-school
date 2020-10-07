@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32885" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Eltrax to buy communications company.</title>
+<headline>Eltrax to buy communications company.</headline>
+<dateline>ST. PAUL, Minn. 1996-09-04</dateline>
+<text>
+<p>Eltrax Systems Inc said Wednesday it had signed a letter of intent to acquire Atlantic Network Systems Inc, a Raleigh, N.C.-based privately held distributor of data and voice communication products.</p>
+<p>Eltrax has agreed to swap 650,000 Eltrax shares for the outstanding stock of Atlantic Network owned by founders Douglas Roberson, Walter Lovett and Taylor Koonce.</p>
+<p>In addition, Eltrax will provide financing for a $1 million pre-closing cash distribution to shareholders of Atlantic Network, which represents previously taxed s-corporation retained earnings.</p>
+<p>Atlantic Network provides communication products and services including voice, data, fax, video and LAN traffic for its customers. It has seven sales offices in the southeastern United States. It had 1995 sales of $14.6 million and pre-tax earnings of $455,000.</p>
+<p>Eltrax and the principals of Atlantic Network have agreed to five-year employment and non-compete agreements, which provide for compensation, fringe benefits and a package of warrants and performance bonuses.</p>
+<p>The transaction is expected to close by November 1.</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

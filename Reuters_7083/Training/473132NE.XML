@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473132" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: Microsoft ends Money software bank fees.</title>
+<headline>Microsoft ends Money software bank fees.</headline>
+<dateline>REDMOND, Wash.</dateline>
+<text>
+<p>Microsoft Corp. Thursday said it has eliminated all user fees charged to financial institutions that offer customers online banking and bill payment through Microsoft Money software.</p>
+<p>By eliminating the fees, Microsoft believes more financial institutions will adopt online banking, resulting in increased banking options and potentially reduced costs for consumers, it said in a statement.</p>
+<p>This decision will help support the current trend among financial institutions to offer online services free to their customers, the Redmond, Wash.-based company said.</p>
+<p>More than 80 banks and financial institutions offer home banking services to Money software users through direct connections to the Internet, private dial-up or private networks with home banking processors.</p>
+<p>Microsoft's stock rose $1.375 to $95.625 on Nasdaq, where it was among the most active issues at mid-morning.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

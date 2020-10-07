@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="693301" id="root" date="1997-06-27" xml:lang="en">
+<title>USA: Ericsson, Motorola, Nokia, Unwired Planet in pact.</title>
+<headline>Ericsson, Motorola, Nokia, Unwired Planet in pact.</headline>
+<dateline>LIBERTYVILLE, Ill. 1997-06-27</dateline>
+<text>
+<p>Telefon AB L.M. Ericsson, Motorola Inc, Nokia Group, and Unwired Planet said they plan to co-operate in defining a common wireless application protocol which will be used to bring advanced applications and Internet content to digital mobile phones.</p>
+<p>The initial proposal to develop the new protocol was first presented at a conference this spring in Munich.  </p>
+<p>With a common protocol, mobile phone users will be able to manage personal telephone profiles and handle voice, fax, and e-mail. It will also permit access to information services and Internet services.</p>
+<p>The goal of this effort is to produce a refined, license-free protocol which is independent of the underlying airlink standard, the companies said in a joint statement.</p>
+<p>The protocol will be available to vendors and mobile operators worldwide. The first protocol specification will be published on the World Wide Web by September 15, 1997.</p>
+<p>Motorola is the world's largest manufacturer of cellular telephones and provides wireless communications, semiconductors and advanced electronic systems and services.</p>
+<p>Nokia is the world's largest manufacturer of digital mobile phones.</p>
+<p>Unwired Planet was founded in 1994 to develop and market a communications platform including browser, gateway and markup language that provides wireless access from handheld devices to the Internet and corporate intranets.</p>
+<p>Ericsson provides fixed and mobile networks, mobile phones and other telecommunications systems.</p>
+<p>		  ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIBERTYVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

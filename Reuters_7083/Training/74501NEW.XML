@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74501" id="root" date="1996-09-25" xml:lang="en">
+<title>CANADA: Corel Corp Q3 Aug 31 turns to net loss.</title>
+<headline>Corel Corp Q3 Aug 31 turns to net loss.</headline>
+<dateline>OTTAWA 1996-09-25</dateline>
+<text>
+<p>Q3 ended Aug. 31</p>
+<p>	    1996			    1995</p>
+<p> Shr	   loss     US$0.05   profit     US$0.26</p>
+<p> Net	   loss	 3,201   profit	14,163</p>
+<p> Revs			84,942		   61,920</p>
+<p>	   9  MONTHS</p>
+<p> Shr	   loss     US$0.14   profit     US$0.28</p>
+<p> Net	   loss	 9,294   profit	15,440</p>
+<p> Revs		     208,839		  134,296</p>
+<p> Avg shrs		  65,368		   54,640</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: Corel already had said it would post a third quarter as a result of delays in product shipments.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="579223" id="root" date="1997-05-13" xml:lang="en">
+<title>LEBANON: Microsoft slams Lebanon software piracy.</title>
+<headline>Microsoft slams Lebanon software piracy.</headline>
+<dateline>BEIRUT, Lebanon</dateline>
+<text>
+<p>Microsoft Corp. said Tuesday that 90 percent of software in Lebanon is pirated and international companies would not invest in the country until it provided copyright protection.</p>
+<p>&quot;The level of software piracy in Lebanon is well over 90 percent,&quot; Ahmed Chami, Microsoft's regional general manager, was quoted as saying by the Beirut Daily Star newspaper.</p>
+<p>&quot;The market has a long way to go before we can feel confident about the integrity of products but we are definitely committed to investing more in Lebanon if the situation changes,&quot; Chami said.</p>
+<p>He was in Beirut to meet computer dealers and hear the problems they face in selling products.</p>
+<p>The Daily Star also quoted Sami Nsairi, head of Lebanon's professional computer association, as saying an anti-piracy bill was being drafted and would be presented to the Lebanese parliament for approval within a month.</p>
+<p>Dealers who met Chami in Beirut pointed out that the $600 price of the Microsoft Office software package was high compared with the $1,400 local price of PCs. The same pirated software package cost $20, the Daily Star quoted them as saying.</p>
+<p>Microsoft's stock rose 75 cents to $118.875 on Nasdaq at midday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

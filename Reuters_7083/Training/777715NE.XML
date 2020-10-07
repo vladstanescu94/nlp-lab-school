@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777715" id="root" date="1997-08-05" xml:lang="en">
+<title>FRANCE: Bay Networks sees growth in Europe.</title>
+<headline>Bay Networks sees growth in Europe.</headline>
+<byline>Marcel Michelson</byline>
+<dateline>PARIS 1997-08-05</dateline>
+<text>
+<p>California-based computer technology company Bay Networks Inc. is expecting further rapid sales growth in Europe, where it already sells almost a quarter of its products, from some $400 million in the fiscal year to June 30.</p>
+<p>Alain Sanchez, marketing director France, said in an interview that Europe now made up 22 percent of Bay Networks sales and this number would rise.</p>
+<p>Bay Networks is the third-largest maker of computer networking gear. Its rivals are companies such as CISCO Systems Inc. and 3COM Corp. .</p>
+<p>The company makes equipment and software that control the flow of information between computers operating in a network.</p>
+<p>David House, a former Intel Corp. executive who was named Bay Networks chief executive officer in November, is setting up a special management team for Europe, Middle East and Africa.</p>
+<p>Next to vice-president for Europe Peter George, Bay Networks two weeks ago named Steve Jenkins as marketing director. Jenkins, the former UK country manager, will soon join George at the offices in Valbonne near Nice.</p>
+<p>&quot;House made a client review after he arrived at Bay to establish the strengths and weaknesses of the company. Our weaknesses were that our products were over-engineered and our marketing not sufficiently client-oriented,&quot; Sanchez said.</p>
+<p>To cure that, Bay Networks is putting in place a &quot;marketing machine&quot; and centring its product policy on four &quot;corner stone&quot; technologies: switching/routing, access, IP services and administration. Its main clients are large companies, followed by the main telecommunications companies.</p>
+<p>Medium-sized companies have a lower priority in the Bay Networks sales strategy. It made a fourth-quarter operating profit of $30.5 million, which was larger than expected but below the 1996 comparative figure of $55.1 million.</p>
+<p>After a $148.5 million charge for an acquisition, Bay Networks made a loss of $118 million.</p>
+<p>Sanchez stressed that group sales had increased to their highest ever quarterly level at $543 million, with lower stocks at re-sellers, a 1.15 book-to-bill ratio and inventories reduced to six weeks from eight.</p>
+<p>Sanchez said the group's market position would forge ahead in an expanding market, riding a wave of increasing acceptance of the IP (Internet Protocol) standard for network traffic.</p>
+<p>&quot;In the time of DOS, people could still argue whether Windows or Apple would win. Now they don't anymore. For networks, it's already clear that IP is the standard of the future,&quot; he said.</p>
+<p>In the switching and routing segment, Bay Networks has the L3S switch node and the RS Processor which combine the two functions. These products are sold with such partners as Alcatel Alsthom .</p>
+<p>&quot;The switching of telecommunications and the routing of packages is becoming the same function. If you cannot deliver the two technologies on the same chip you're out of it,&quot; he said.</p>
+<p>In the access area -- allowing company workers to access their normal information set-up from whatever location -- the company has the 5399 product for Internet Service Providers and will soon launch Nautica 200.</p>
+<p>This is a modem-like box for home workers connected to an ISDN line, allowing telecommunications, fax and ethernet data traffic at the same time. In increasingly open and virtual networks, administration of the network becomes difficult.</p>
+<p>Bay Networks launched the RMON2 remote monitor to allow administrators to track traffic and assess the efficiency of their routers.</p>
+<p>In IP Services, Bay Networks has an alliance with Israel's Check Point Software Technologies Inc. and claims it can offer an &quot;integrated firewall&quot; to shield important information from prying eyes.</p>
+<p>Check Point has similar deals with Sun Microsystems Inc. , Xylan Corp , International Business Machines Corp and Hewlett Packard,</p>
+<p>To prove the strength of this system, Bay Networks is launching an unusual challenge -- it will build a network &quot;strong room&quot; at the Intereurope trade show in October and through IDG weekly is urging all computer hackers in the world to try and get a document from within this strongroom.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

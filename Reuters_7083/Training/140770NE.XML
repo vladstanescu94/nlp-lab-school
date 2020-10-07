@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140770" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: XOX Corp Q3 loss widens, revenues rise.</title>
+<headline>XOX Corp Q3 loss widens, revenues rise.</headline>
+<dateline>ST. PAUL, Minn. 1996-10-24</dateline>
+<text>
+<p>Third Quarter	     Nine Months</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p> Total Revenues   $140,754    $94,990    $405,709    $302,957</p>
+<p> Net loss	  (462,279)  (371,348) (1,234,181) (1,191,807)</p>
+<p>Net loss per common share</p>
+<p>			  (0.18)     (0.19)	(0.53)	(0.59)</p>
+<p>Weighted average number</p>
+<p>of shares outstanding</p>
+<p>		     2,511,894  2,004,633   2,337,503   2,004,633</p>
+<p>		   Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

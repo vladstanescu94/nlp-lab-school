@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345973" id="root" date="1997-01-30" xml:lang="en">
+<title>GERMANY: Vereinsbank lowers rating on SAP.</title>
+<headline>Vereinsbank lowers rating on SAP.</headline>
+<dateline>MUNICH, Germany 1997-01-30</dateline>
+<text>
+<p>Vereinsbank Research said on Thursday it lowered its rating on shares of German software developer SAP AG to below-average from market-neutral, based on market share and revenue concerns.</p>
+<p>Vereinsbank said it did not expect SAP, which presents year-end results on Friday, to reach fourth-quarter revenue goals. The bank said strong 1996 growth by rival Baan Co. NV raised concerns about market share losses by SAP.  </p>
+<p>Vereinsbank lowers rating on SAP</p>
+<p>Vereinsbank analyst Peter Thilo Hasler said in a research note that he lowered his earnings estimate for 1997 to 6.10 marks per share, and for 1998 to 7.60 marks per share.</p>
+<p>Hasler said recent versions of SAP's star product, R/3, which companies use to track accounting, purchasing, sales and production data, had become complex and unflexible.</p>
+<p>&quot;Customers may have remained reluctant to buy in the fourth quarter as they were in the third quarter,&quot; Hasler wrote.</p>
+<p>He also raised concern that SAP has had to increase research and development spending in view of an increasingly competitive market for so-called &quot;client/server&quot; software.</p>
+<p>After unexpectedly slow sales in the third quarter, SAP in October warned that 1996 profit would rise about 30 percent instead of 40 percent it had previously forecast. It also said 1996 sales would rise to 3.5 billion marks, eight percent lower than its previsous estimate.</p>
+<p>SAP shares lost about a quarter of their value after the warning. They fell 8.50 marks to 213 on Wednesday in floor trading, but rose to 218.75 in pre-bourse electronic trading on Thursday.</p>
+<p>-- Neal Boudette, Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

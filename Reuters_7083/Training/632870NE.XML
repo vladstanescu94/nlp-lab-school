@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632870" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: Sterling Software says names Wray as CFO.</title>
+<headline>Sterling Software says names Wray as CFO.</headline>
+<dateline>DALLAS 1997-06-03</dateline>
+<text>
+<p>Sterling Software Inc said on Tuesday it had hired R. Logan Wray as its senior vice president and chief financial officer.</p>
+<p>In addition, the company said in a statement, Don McDermett, Jr., was appointed senior vice president and general counsel, and Jeannette Meier was appointed executive vice president of finance and administration.</p>
+<p>Wray previously served as an audit partner with Ernst &amp; Young LLP, where he worked since 1981, principally with clients in the software and telecommunications industries, Sterling Software said.</p>
+<p>In the post of chief financial officer, he replaces Meier, who served as executive vice president and chief financial officer of the company since May 1996, and as executive vice president since July 1993.</p>
+<p>McDermett first joined Sterling Software in July 1996. Sterling Software is a provider of software and services for the applications management, systems management, and federal systems markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

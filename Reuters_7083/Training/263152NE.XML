@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="263152" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Execs sold $420 mln Microsoft shares in Nov.</title>
+<headline>Execs sold $420 mln Microsoft shares in Nov.</headline>
+<dateline>WASHINGTON 1996-12-18</dateline>
+<text>
+<p>Microsoft Corp chairman Bill Gates, co-founder Paul Allen and other executives sold about $420 million of their stock in the software company in November, filings with the Securities and Exchange Commission showed on Wednesday.</p>
+<p>The executives sold about 2.8 million shares during the month, with Gates topping the list at 800,000 shares.</p>
+<p>The shares were sold before the company announced a two-for-one stock split on December 9 and represent less than one percent of the total outstanding, adjusted for the split.  </p>
+<p>Gates, whose sales represented just a fraction of his shareholdings, sold between November 1 and 14 at prices ranging from $137.50 to $148.4375 each.</p>
+<p>At the end of the month, he owned 139.1 million shares, or 278.2 million shares after adjusting for the split.</p>
+<p>Allen sold 1.905 million shares at prices ranging from $142.00 to $157.50 per share between November 8 and November 22.</p>
+<p>Allen held 50.998 million shares at the end of the month, or 101.996 million shares adjusted for the split.</p>
+<p>Other Microsoft executives who reported sales during the month included Jon Shirley, Bernard Vergnes, Joachim Kempin, Brad Silverberg and James Allchin. Sales of some of these executives were made after they exercised options for shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

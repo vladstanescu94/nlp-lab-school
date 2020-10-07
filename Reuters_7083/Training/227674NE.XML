@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227674" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: INTERVIEW-Informix CEO on Universal Server.</title>
+<headline>INTERVIEW-Informix CEO on Universal Server.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-12-02</dateline>
+<text>
+<p>Informix Corp will sell 50 to 100 licenses of its new Universal Server software to customers this month, its chief executive said.</p>
+<p>Philip White, CEO, said the official launch Tuesday of its Universal Server, or mixed data database software, should be a turning point for Informix, allowing it to accelerate sales growth by taking market share from its biggest competitor.</p>
+<p>&quot;This is a chance to take market share from Oracle Corp and, yes, a chance to become the biggest database company,&quot; White said in an interview.  </p>
+<p>White said Informix might be able to surpass Oracle in database sales in two to three years.  Now, Informix's database sales, estimated by analysts at $558 million for 1996, are about a third of Oracle's $1.57 billion database server sales reported for its 1996 fiscal year.</p>
+<p>White also said the Universal Server launch vindicates Informix's acquisition of Illustra Corp last year.  Illustra's multimedia data managing technology is the core of the Universal Server, fit into Informix's existing database.</p>
+<p>&quot;People were skeptical when I paid $400 million for Illustra, saying we can't merge 900 lines of code,&quot; he said.  </p>
+<p>&quot;We said we'd ship in nine months.  We did on Sept 30 in beta, now we're launching it, available on Sun's (Sun Microsystems Inc 's) Solaris and Silicon Graphics (Inc),&quot;  computers, White added.</p>
+<p>Informix's Universal Server is a database management software that can handle video, sound and images as well as the text and numbers handled in traditional database management software known as relational databases.</p>
+<p>Oracle has also been working on a database to handle video sound and images and promises to deliver one in its Oracle 8 server due by summer 1997.  </p>
+<p>International Business Machines Corp already has similar multimedia database software in the market with its DB2 Common Server.  But White dismisses IBM as a competitor. &quot;They will never be successful running their database on other than IBM platforms,&quot; he said.</p>
+<p>The perceived market for these new databases, companies say, is the growing use of the World Wide Web and of voice mail.  Databases, which can sort through many files in huge company-wide databases and bring up answers to queries, can now include the graphical material in World Wide Web pages or voice.  </p>
+<p>White said one big market is companies that want to use internal databases mixed with Web pages for electronic commerce.</p>
+<p>But Informix is assuming that companies will want to pay $1,000 more per user for the Universal Server than they pay for its traditional database server, which is $1,500 per user.</p>
+<p>Analyst Marshall Senk of Robertson, Stephens &amp; Co said the market for these universal data type databases &quot;is very early but I do think the market is going to emerge.&quot; He added that the &quot;key benefit&quot; to Informix from its Universal Server for the next year is a higher profile and access to potential customers they wouldn't have been able to attract before.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

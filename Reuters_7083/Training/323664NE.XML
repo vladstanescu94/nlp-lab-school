@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323664" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Borland Q3 shr loss $0.81.</title>
+<headline>Borland Q3 shr loss $0.81.</headline>
+<dateline>SCOTTS VALLEY, Calif. 1997-01-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.81   profit	 $0.03</p>
+<p> Net loss		  29,400   profit	 1,100</p>
+<p> Revs			36,800		   55,300</p>
+<p>	  9  MONTHS</p>
+<p> Shr loss		   $1.80   profit	 $0.21</p>
+<p> Net loss		  65,500   profit	 7,800</p>
+<p> Revs		     114,200		  174,600</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Results for the latest quarter include restructuring charges and one-time acquisition charges totalling $11.9 million or $0.33 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCOTTS VALLEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

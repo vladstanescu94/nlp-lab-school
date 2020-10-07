@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645895" id="root" date="1997-06-08" xml:lang="en">
+<title>USA: HP to extend Windows NT servers, services.</title>
+<headline>HP to extend Windows NT servers, services.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-06-08</dateline>
+<text>
+<p>Hewlett-Packard Co. will roll out new high-end servers Monday based on Microsoft Corp.'s Windows NT and new services aimed at the growing Windows NT marketplace.</p>
+<p>Among the announcements, HP is offering new high- performance computers systems designed for corporate data centers, along with a new class of customer support.</p>
+<p>The support offerings and consulting services, available through HP and its retail partners, aim to take advantage of its partnership with Microsoft, which it stepped up earlier this year. HP aims to offer 24-hour support and a six-hour repair commitment for its systems with new programs starting in September, the company said.</p>
+<p>The HP NetServer LXr Pro, which comes in single and multiprocessor configurations.</p>
+<p>The computers include features previously available on higher-end systems, such as &quot;hot-swappable&quot; components that can be swapped out while the computer continues to operate, and range in price from about $14,799 for a single processor system to $24,099 for dual processor.</p>
+<p>The new machines will begin shipping this month, with full volume shipments available in August.</p>
+<p>Industry analysts said the new services were also an effort by HP to use its broad field presence and wide array of partnerships to differentiate its products from hard-charging rivals like Compaq Computer Corp.</p>
+<p>In a separate announcement scheduled for Monday, Compaq is to unveil powerful new NT workstations at a San Francisco news conference.</p>
+<p>Peter Lowber, an analyst at the research firm DataPro, said the services are an important feature for customers aiming to use Windows NT systems in increasingly complex configurations to run business applications.</p>
+<p>&quot;HP has an advantage here over Compaq in that, with their huge services organization, it's a pretty smart idea for them to try to figure out how to offer services solutions for high availability Windows NT,&quot; he said.</p>
+<p>In the near term, analysts said, HP must balance growth in its Windows NT-Intel offerings against its well-established, higher-end Unix products, which will make its approach to the growing NT market more complex.</p>
+<p>&quot;They still have to balance not ruining their Unix business at the same time as bringing an NT product on line, whereas Compaq can say this is a new market and 'Everything we can get is worth going after,'&quot; said Peter ffoulkes, a Dataquest analyst.</p>
+<p>&quot;As far as HP's concerned, they've only recently come out of the closet in terms of an NT strategy and they're doing very well within that,&quot; he said, adding that HP's long- term strategy, which includes working with Intel Corp. on next-generation processors, could pay off.</p>
+<p>Gabe Gotthard, worldwide product manager for HP's Intel-based servers, said he had not seen evidence that NT has so far cannibalized sales from its Unix groups.</p>
+<p>Gotthard said the majority of the growth in the NT business -- about 70 percent -- was from companies building up businesses, while 20 percent came from customers supplementing existing systems and up to 10 percent was related to replacement of other systems.</p>
+<p>Jennifer Parra, an JP business solutions manager, said the company aims to take advantage of experience in its Unix business to help NT customers. &quot;What we're selling is high availability,&quot; she said, or the ability of machines to always be up and running.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

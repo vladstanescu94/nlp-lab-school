@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="124551" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: XcelleNet Inc reports Q3 net loss.</title>
+<headline>XcelleNet Inc reports Q3 net loss.</headline>
+<dateline>ATLANTA 1996-10-16</dateline>
+<text>
+<p>XCELLENET, INC AND SUBSIDIARIES</p>
+<p>		   (In thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					 September 30,   September 30,</p>
+<p>				   1996    1995	 1996	 1995</p>
+<p>REVENUES:</p>
+<p>  Total			 9,360   7,113	28,936    24,825</p>
+<p>OPERATING EXPENSES:</p>
+<p>  Total			10,099   6,730	28,310    21,469</p>
+<p> OPERATING INCOME (LOSS)  (739)     383	   626     3,356</p>
+<p>  Other Income, Net	   204     330	   757	 968</p>
+<p>INCOME (LOSS) BEFORE</p>
+<p>  INCOME TAXES		(535)     713	 1,383     4,324</p>
+<p>Provision (Credit) for</p>
+<p>   Income Taxes	     (160)     264	   529     1,633</p>
+<p> NET INCOME (LOSS)	 ($375)   $ 449	 $ 854    $2,691</p>
+<p>EARNINGS (LOSS) PER</p>
+<p>  SHARE		     ( 0.05)    0.05	  0.11	0.31</p>
+<p>SHARES USED IN PER SHARE</p>
+<p>  COMPUTATIONS		7,238   8,502	 7,845     8,580</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

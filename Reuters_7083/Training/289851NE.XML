@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="289851" id="root" date="1997-01-06" xml:lang="en">
+<title>JAPAN: Canon to pull out of PC output, enter wafer market.</title>
+<headline>Canon to pull out of PC output, enter wafer market.</headline>
+<byline>Yuzo Saeki</byline>
+<dateline>TOKYO 1997-01-06</dateline>
+<text>
+<p>Japan's Canon Inc said on Monday it was pulling out of PC manufacture and moving into wafer production as part of a realignment of its computer-related business.</p>
+<p>The company, a major maker of photocopiers and printers, said it would enter the market for next-generation semiconductor wafers in mid-1997. The silicon-on-insulator (SOI) wafers allow chips to operate with greater speed and energy efficiency than previous types.</p>
+<p>As part of the changes, Canon will sell its one-fifth stake in NeXT Software Inc of the United States, which is being acquired by Apple Computer Inc.</p>
+<p>Faced with stiff competition from bigger players in the PC business, Canon also said it would transfer the running of its personal computer operations to its sales subsidiary and have Taiwanese manufacturers actually produce Canon-brand computers.</p>
+<p>Canon, which entered the computer business in the 1970s, would thus cease to produce PCs.</p>
+<p>The company plans to start sample shipments of its new SOI wafers to major chip makers this summer after investing around three billion yen ($25.8 million) to build a clean room for wafer production at its plant in Hiratsuka, south of Tokyo, a Canon spokesman said.</p>
+<p>The facility, to be completed in March, will be able to produce around 5,000 wafers a month.</p>
+<p>The SOI-based integrated circuits would have twice the data-processing speed of conventional types and use only one-tenth of the power, the spokesman said.</p>
+<p>The company has not yet decided when it will start mass-producing the SOI wafer, but hopes to see annual sales of about 100 billion yen ($862 million) by 2000 from the new enterprise, the spokesman said.</p>
+<p>The stake in NeXT Software will be sold to Apple for cash and will not be exchanged for Apple shares, the Canon spokesman said. NeXT Software Inc is led by Apple Computer Inc's co-founder Steven Jobs.</p>
+<p>Apple announced last month that it would rehire Jobs as a technology adviser and acquire NeXT Software for $400 million in a strategy to boost the Apple brand and win back market share from powerful rivals such as Microsoft.</p>
+<p>Canon's personal computer business will be transferred to its subsidiary Canon Sales Co Inc, which already handles the marketing of Canon's Innova PC range. Canon Sales plans to ask several Taiwan PC makers, including Acer Inc, to produce the PCs, the spokesman said.</p>
+<p>Canon said the changes would not have much impact on earnings as its computer business is a relatively small part of its overall operations. Canon made its name in cameras but has diversified into computer printers and various types of communications equipment, which make up around half its sales.</p>
+<p>Canon Sales said it sold about five billion yen ($43.1 million) worth of PCs last year. ($1=116 yen)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

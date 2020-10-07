@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191645" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Cover-All Tech Q3 loss widens.</title>
+<headline>Cover-All Tech Q3 loss widens.</headline>
+<dateline>FAIR LAWN, N.J. 1996-11-14</dateline>
+<text>
+<p>Cover-All Technologies Inc</p>
+<p>			  Three Months	    Nine Months</p>
+<p>			 Ended Sept. 30,	 Ended Sept. 30,</p>
+<p>			    1996	 1995	 1996	  1995</p>
+<p> Total revs	1,052,458   1,135,513  4,069,522   3,114,599</p>
+<p>  Special charges	 --	    --	   --   1,165,000</p>
+<p>		     3,098,749   1,523,571  8,194,285   5,941,107</p>
+<p>Loss from continuing</p>
+<p>  operations   (2,046,291)   (388,058)(4,124,763) (2,826,508)</p>
+<p>Loss from discontinued</p>
+<p>  operations     (392,872) (1,127,762)  (392,872) (5,560,101)</p>
+<p> Net loss     (2,439,163) (1,515,820) (4,517,635) (8,386,609)</p>
+<p>Loss per share from</p>
+<p>continuing operations</p>
+<p>			  (0.12)	(0.05)     (0.29)	(0.33)</p>
+<p> Net loss per share (0.25)	(0.18)     (0.32)	(0.98)</p>
+<p> Avg shrs	 16,716,700   8,560,904  14,248,505  8,558,774</p>
+<p>NOTE Company reported earnings late Thursday, after the market closed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIR LAWN, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

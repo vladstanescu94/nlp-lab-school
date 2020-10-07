@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712380" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: General Patent names seven firms in patent suit.</title>
+<headline>General Patent names seven firms in patent suit.</headline>
+<dateline>MONSEY, N.Y. 1997-07-08</dateline>
+<text>
+<p>General Patent Corp, a technology transfer company, said Tuesday it named seven companies, including modem market leaders Hayes Microcomputer Products Inc and Boca Research Inc, in a patent infringement suit.</p>
+<p>General Patent said it filed the complaint in a federal district court in Orange County, Calif.  </p>
+<p>In a statement, General Patent said the other companies it sued are Cardinal Technologies Inc, a Lancaster, Pa., company recently acquired by Hayes; Xircom Inc, of Thousand Oaks, Calif.; GVC Technologies, which does business under the name MaxTech Corp, of Cerritos, Calif.; Archtek America Corp, of City of Industry, Calif.; and New Media Corp, of Irvine, Calif.</p>
+<p>General Patent said its lawsuit seeks to enforce four of its patents which cover spescific aspects of personal computer card modems, the credit-card size modems used in notebook and laptop PCs.  </p>
+<p>In March, General Patent filed a similar lawsuit against International Business Machines Corp and U.S. Robotics Corp, which in June merged with 3Com Corp.</p>
+<p>&quot;Every company manufacturing or selling PC Cards owes it to themselves to take a close look at our patents and consider takaing a license,&quot; said Alexander Poltorak, General Patent's chairman and chief executive officer.</p>
+<p>The company said that the patents it alleged to be infringed are U.S. Patent Nos. 4,603,320, known as Connector Interface; 4,543,450, Integrated Connector and Modem; 4,686,506, Multiple Connector Interface; and 4,972,470, programmable connector.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONSEY, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

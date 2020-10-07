@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206925" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: PeopleSoft upgrades entire software line.</title>
+<headline>PeopleSoft upgrades entire software line.</headline>
+<dateline>SAN FRANCISCO 1996-11-21</dateline>
+<text>
+<p>PeopleSoft Inc, a fast growing seller of applications software for business client/server computing networks, announced new releases of its entire line of applications.</p>
+<p>Calling the group of new releases &quot;PeopleSoft 6,&quot; the company said it includes 11 applications covering financial, human resources, distribution and manufacturing operations. The upgrades focus on globalizing the applications to answer needs of multinational organizations with such things as multi-language and multi-currency support.  They also feature support for Internet/intranets use.  </p>
+<p>PeopleSoft 6 will be generally available in December.</p>
+<p>The company said PeopleSoft 6 offers solutions to two of the most daunting issues facing corporate information technology professionals, namely the coming of the Year 2000, which most existing database applications are unequipped to recognize, and the European Monetary Union.</p>
+<p>Year 2000 is a problem because many older computer applications only use the last two digits of a year, for example &quot;96&quot; for the year &quot;1996.&quot; Businesses lately have been scrambling to fix applications in financial planning, pension administration and others that could interpret 2000 as 1900.  </p>
+<p>PeopleSoft said that as organizations confront the costly and difficult task of reworking older systems to handle the year 2000, PeopleSoft offers a complete solution to do so.</p>
+<p>PeopleSoft 6 also addresses issues posed by the proposed unification of European currencies into the European Monetary Union (EMU).  EMU is expected to bring with it a pan-European Community currency called the Euro, as well as changes in accounting and reporting requirements.</p>
+<p>The globalization of PeopleSoft human resources and financials applications means customers can deploy one enterprise solution worldwide, the company said.  </p>
+<p>&quot;Increasingly, our customers are multinational companies that prefer global solutions to cover all their business processes, in every country where they do business,&quot; said Dave Duffield, president and CEO of PeopleSoft.</p>
+<p>PeopleSoft has been an up and coming competitor to client/server applications leaders SAP AG and Oracle Corp.</p>
+<p>With the introduction recently of its long-awaited manufacturing suite of applications, it can serve all the markets SAP and Oracle do.</p>
+<p>Its stock rose today 1-1/8 to 91-2/8.  </p>
+<p>Duffield said PeopleSoft is continuing to expand operations in Asia, Australia, Europe and Latin America and announced formation of a Japanese subsidiary, PeopleSoft Japan KK, to localize its software applications for Japan.</p>
+<p>PeopleSoft 6 includes industry-specific solutions for state and local governments, federal governments, and colleges.  Internet features include support for intranets, electronic commerce, workflow tools for business process modeling and navigation, and a 32-bit architecture.</p>
+<p>Prices start at $100,000 per application. --- BARBARA GRADY, SAN FRANCISCO BUREAU 415 677-2542</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

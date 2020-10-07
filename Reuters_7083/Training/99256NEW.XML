@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99256" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Nematron, Wonderware reach marketing pact.</title>
+<headline>Nematron, Wonderware reach marketing pact.</headline>
+<dateline>CHICAGO 1996-10-07</dateline>
+<text>
+<p>Nematron Corp said Monday it entered into a cooperative marketing agreement with Wonderware Corp of Irvine, Calif.</p>
+<p>Nematron's Pentium and Pentium Pro line of industrial control computers were selected as a hardware platform for all of Wonderware's software products.</p>
+<p>The company, demonstrating its wares at the Instrument Society of America trade show in Chicago, also said it formed a strategic alliance with S-S Technologies Inc of Kitchener, Ontario, Canada, that will allow Nematron to use S-S's Direct-Link interface in bundled OpenControl systems.</p>
+<p>In addition, both companies will continue to work together to share product and tehnical information, jointly market products and further discuss product partnerships.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

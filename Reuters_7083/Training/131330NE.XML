@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131330" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Zoran to buy CompCore for $57 million.</title>
+<headline>Zoran to buy CompCore for $57 million.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>Zoran Corp said Monday it had agreed to buy CompCore Multimedia Inc in a deal worth about $57 million.</p>
+<p>Zoran said it would give CompCore stockholders 0.6408 of a share of its common stock for every outstanding CompCore share that they owned.</p>
+<p>Outstanding options to buy CompCore common stock will be converted into Zoran options, it said.</p>
+<p>The deal, to be treated as a pooling of interests, will close in the first quarter of 1997, it added.</p>
+<p>Zoran said CompCore will operate as a subsidiary.</p>
+<p>Zoran provides integrated circuits for digital video and audio compression applications, while CompCore makes video and audio hardware designs for equipment manufacturers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233213" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: PC Quote closes on debenture placement.</title>
+<headline>PC Quote closes on debenture placement.</headline>
+<dateline>CHICAGO 1996-12-04</dateline>
+<text>
+<p>PC Quote Inc said Wednesday it closed its previously announced $2.5 million debenture private placement with Physicians Insurance Co of Ohio.</p>
+<p>The debentures are convertible at any time by Physicians Insurance or by PC Quote at the conclusion of a 1997 rights offering sometime in the first quarter, into 1.25 million shares of PC Quote stock at $2 per share.</p>
+<p>Concurrently, as part of the agreement, PC Quote said it is restructuring its board of directors, with John Hart and Michael Ellis nominated to assume positions made available upon the acceptance of resignations from M. Blair Hull and Alexander Piper III.</p>
+<p>On a 1997 record date yet to be decided, all holders of record with the exception of Physicians Insurance will have the right to buy one additional share of common stock at $2 for each approximately four shares owned.</p>
+<p>PC Quote provides database computer services and software programs.</p>
+<p>		  ((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

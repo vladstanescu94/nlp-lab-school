@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="124515" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Midisoft Corp Q3 shr loss narrows to $0.19.</title>
+<headline>Midisoft Corp Q3 shr loss narrows to $0.19.</headline>
+<dateline>ISSAQUAH, Wash. 1996-10-16</dateline>
+<text>
+<p>MIDISOFT CORPORATION</p>
+<p>			     STATEMENTS OF OPERATIONS</p>
+<p>				  (Unaudited)</p>
+<p>		    (in thousands, except per share amounts)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				    September 30,	September 30,</p>
+<p>				     1996	1995     1996     1995</p>
+<p> Revenues			 $1,158   $1,234   $2,161   $4,461</p>
+<p> Cost of revenues		  588	552	400    1,700</p>
+<p> Gross profit			570	682	761    2,761</p>
+<p>Operating expenses:</p>
+<p>  Sales and marketing	    723    1,182    2,459    2,948</p>
+<p>  General and administrative   488    1,804    1,708    2,754</p>
+<p>  Research and development     244	603	666    1,222</p>
+<p>  Restructuring charge	   ---    2,369	---    2,369</p>
+<p>   Total operating expenses  1,455    5,958    4,833    9,293</p>
+<p> Operating (loss)		(885)  (5,276)  (4,072)  (6,532)</p>
+<p> Interest and other income	17	 90	 95	339</p>
+<p> (Loss) before taxes	   (868)  (5,186)  (3,977)  (6,193)</p>
+<p> Provision for income taxes     --	326	 --	 --</p>
+<p> Net (loss)			(868)  (5,512)  (3,977)  (6,193)</p>
+<p> Net (loss) per share	  (.19)   (1.23)    (.85)   (1.37)</p>
+<p>Weighted average shares</p>
+<p>  outstanding		    4,691    4,497    4,677    4,512</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISSAQUAH, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

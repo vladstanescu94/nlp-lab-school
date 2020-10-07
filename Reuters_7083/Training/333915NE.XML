@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333915" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Interleaf sees further cost reductions.</title>
+<headline>Interleaf sees further cost reductions.</headline>
+<dateline>WALTHAM, Mass. 1997-01-27</dateline>
+<text>
+<p>Interleaf Inc said Monday it expects further reductions in costs and expenses.</p>
+<p>Reporting a third quarter, ended December 31, loss of $9.5 million, the company said it included $6.0 million in one-time charges, such as $3.7 million for a restructuring to reduce expenses, and $2.3 million for the write-down of intangible assets in connection with the sale of The Learning Alliance, an Interleaf subsidiary.</p>
+<p>Chief Financial Officer, Robert Langer, noted: &quot;Ongoing operating costs and expenses for the quarter totalled $18.7 million, a decrease of $3.3 million from the previous quarter.</p>
+<p>&quot;Based on anticipated additional savings from recent restructurings and our plans to continue to tightly control all expenditures, we expect additional reductions in costs and expenses going forward,&quot; he said.</p>
+<p>&quot;We still need to increase revenues and have made this the primary goal of Jaime Ellertson, who commences his new role as Interleaf president and CEO today,&quot; interim chief executive Rory Cowan said. ((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

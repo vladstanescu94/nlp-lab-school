@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="336573" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: FBI carries out nationwide searches in software probe.</title>
+<headline>FBI carries out nationwide searches in software probe.</headline>
+<byline>Adrian Croft</byline>
+<dateline>SAN FRANCISCO 1997-01-28</dateline>
+<text>
+<p>The FBI said it carried out searches from coast to coast on Tuesday as part of an undercover investigation, codenamed &quot;Cyber Strike&quot;, into software piracy through computer networks.</p>
+<p>The searches follow an eight-month undercover investigation of illegal duplication and distribution of computer software, a $1 billion a year crime, the Federal Bureau of Investigation said.</p>
+<p>The probe focused on groups that allegedly pass copyrighted software through the Internet, the global computer network, or through private computer bulletin board services, the FBI said. It said the searches were aimed at &quot;identifying and disrupting&quot; the most flagrant bulletin board service operators.</p>
+<p>The FBI said its agents were interviewing people or searching homes and businesses in Atlanta, Georgia; Columbus, Ohio; Miami, Florida; Oklahoma City, Oklahoma; Des Moines, Iowa; Pittsburgh, Pennsylvania; and San Leandro and Cedar Ridge in California.</p>
+<p>The search warrants allege violations of U.S. laws against copyright infringement and authorize agents to seize computer hardware, documents and records, the FBI said.</p>
+<p>FBI spokesman George Grotz said he did not expect any arrests to be made on Tuesday. The FBI said the investigation, led by the bureau's San Francisco-based International Computer Crime Squad, was continuing and more searches were expected.</p>
+<p>Bob Kruger, vice-president of the Business Software Alliance, which groups leading software publishers, praised the FBI. &quot;'Cyber Strike' comes at the right time, as the popularity of the Internet has increasingly provided an electronic haven for software pirates,&quot; Kruger said in a statement. &quot;'Cyber Strike' represents the most ambitious law enforcement action to date against Internet piracy...&quot;</p>
+<p>The FBI said it was investigating groups which had allegedly banded together to pass commercial software through computer bulletin board services, Internet file transfer protocol sites and Internet relay chat channels.</p>
+<p>Bulletin board services are privately-owned networks often run out of people's homes which allow users to log on to a central computer through a telephone line and a modem.</p>
+<p>File transfer protocol sites are libraries of documents or software and Internet relay chat channels are forums where computer users discuss different topics.</p>
+<p>The FBI said programs being pirated in this way included some of the most popular software programs such as utilities, graphics, netware, operating systems and games.</p>
+<p>Manufacturers whose products had been pirated included Sega Enterprises Ltd's Sega of America Inc, Sony Corp's Sony Computer Entertainment, Autodesk Inc, Microsoft Corp, Adobe Systems Inc, Intuit Inc, Symantec Corp, Novell Inc and Nintendo Co Ltd's Nintendo of America Inc, the FBI said.</p>
+<p>The FBI said the vast majority of the thousands of bulletin board services operated legitimately. But it said there were a significant number of &quot;pirate boards&quot; whose main purpose was to illegally duplicate and distribute copyrighted software, which was easily done by using a telephone and modem to access the central computer.</p>
+<p>Many pirate bulletin board services stocked nearly every release by major software publishers and pirated software often appeared there before its official release, the FBI said. Some bulletin board service &quot;owners&quot; and users were also involved in other criminal activities such as stealing telephone services, using stolen credit card and calling card numbers, spreading computer viruses, stealing corporate secrets and &quot;hacking&quot; into computers, the FBI said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

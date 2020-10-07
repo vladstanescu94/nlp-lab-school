@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="463526" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: Microsoft drops on news of delay in Windows update.</title>
+<headline>Microsoft drops on news of delay in Windows update.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-03-24</dateline>
+<text>
+<p>Software giant Microsoft Corp.'s stock dropped more than 4 percent Monday amid indications that a successor to the Windows 95 operating system will be delayed until 1998.</p>
+<p>The stock fell $3.875 to $90.125 and was the most active issue on Nasdaq after widespread reports that the Windows 95 update, code-named Memphis, probably would not be released this year as previously anticipated.</p>
+<p>Industry analysts said the likely delay of the operating system update would have little financial impact on Microsoft but could reflect a diminishing corporate appetite for frequent software upgrades.</p>
+<p>&quot;For large organisations, every year and a half to two years is too fast for new versions,&quot; said David Rothschild of brokerage Piper Jaffray. &quot;Every three or four years is more like it.&quot;</p>
+<p>Analysts said the delay likely stemmed from the difficulty of integrating into the operating system the upcoming version 4.0 of Redmond, Wash.-based Microsoft's Internet Explorer browser.</p>
+<p>Jonathan Roberts, director of Windows product management for Microsoft, declined to project a release date for Memphis but said computer manufacturers had been told they would not get software code in time for holiday season retail shipments.</p>
+<p>He added that it would be &quot;desirable&quot; to synchronize the retail release of the software to coincide roughly with shipments of new computers.</p>
+<p>Roberts said developers still expected to issue the first major beta test version to customers by June 30 but said computer manufacturers that sell in major retail outlets generally need final code by July to ship for the holiday season.</p>
+<p>The Windows 95 update, sometimes referred to as Windows 97 or Windows 9x, will include several performance-related features, most of which are ready. But developers are still working on the new Internet browser, which adds &quot;push&quot; technology and comes hard on the heels of version 3.0 of the browser, a major update released in August.</p>
+<p>In &quot;push&quot; technology, computer users can have customised information sent to them over the Internet rather than having to go out on the Net and search for it.</p>
+<p>Widely publicised security flaws discovered recently in Internet Explorer 3.0 might be part of the reason Microsoft has decided to go slow with the operating system update, some analysts said.</p>
+<p>&quot;It's fair to say Internet Explorer got a fair amount of heat for the security problem,&quot; said Larry Dietz of Zona Research, an analyst at Zona Research.</p>
+<p>But he also said Microsoft could be &quot;throttling back a little&quot; because of resistance to frequent upgrades from corporate users.</p>
+<p>&quot;Large end-users are in no hurry to spend the dollars,&quot; Dietz said. &quot;Most end-users know there is a tremendous amount of down time that exists any time you putter with people's computers.&quot;</p>
+<p>Microsoft's Roberts acknowledged that many corporate users are still making the transition to Windows 95.</p>
+<p>Piper Jaffray's Rothschild said the Memphis delay would be unlikely to affect Microsoft's earnings or revenues significantly, particularly because the company defers much of the income it gets from operating systems.</p>
+<p>But he and other analysts noted the company's stock is still relatively high priced compared with its expected growth.</p>
+<p>&quot;It's an expensive stock, and whenever you get a whiff of bad news, it's going to behave like this,&quot; said Mike Wallace of UBS Securities. &quot;I dont think it's a big deal.&quot;</p>
+<p>Microsoft, which has slipped about 13 percent from its peak of $103.50 in early February, was one of many high-technology stocks that slumped Monday.</p>
+<p>While the shipping date has slipped, Microsoft needs to update the operating system soon if only because its very name advertises the fact that Windows 95 is nearly 2 years old, analysts said.</p>
+<p>In addition, Microsoft's financial model requires it to maintain a regular stream of upgrade revenues, said Michael Gartenberg, research director of the Gartner Group consulting and research firm.</p>
+<p>He predicted the Memphis system would get a less historically specific name -- perhaps Windows 2000 -- and said Microsoft probably would increase the price for the new operating system relative to that for Windows 95.</p>
+<p>Roberts declined to comment on the naming or pricing of the product.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

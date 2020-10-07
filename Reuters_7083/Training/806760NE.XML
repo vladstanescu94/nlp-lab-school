@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="806760" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: Tecnomatix debt over-allotment exercised.</title>
+<headline>Tecnomatix debt over-allotment exercised.</headline>
+<dateline>NEW YORK 1997-08-18</dateline>
+<text>
+<p>Tecnomatix Technologies Ltd, a computer engineering software maker, said Monday the managing underwriters of its offering of 5-1/4 percent convertible subordinated notes due 2004 had excercised an over-allotment option on $12.75 million of the notes.</p>
+<p>The company, based in Herzliya, Israel, said the aggregate principal amount of the debt offering now totals $97.75 million.</p>
+<p>Tecnomatix said its proceeds would be used for working capital and general corporate puchases, which may indclude acquisitions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

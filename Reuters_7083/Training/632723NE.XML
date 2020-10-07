@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632723" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: Integrated Systems Inc sees lower Q1 shr.</title>
+<headline>Integrated Systems Inc sees lower Q1 shr.</headline>
+<dateline>SUNNYVALE, Calif. 1997-06-03</dateline>
+<text>
+<p>Integrated Systems Inc said that, based on information now available, it expects to report earnings per share in the fiscal 1998 first quarter of $0.01 to $0.03 per share on sales of $24.5 to $25.5 million.</p>
+<p>In the year-ago first quarter, the company reported earnings per share of $0.11 on sales of $23.2 million.</p>
+<p>The projection for the latest quarter compares with a consensus estimate for earnings of $0.06 per share, according to First Call. The company also said it would consolidate marketing, sales and support operations in anticipation of a series of product launches over the rest of the year. It was not immediately available to say what that would entail.</p>
+<p>Integrated Systems, which makes embedded operating software and simulation and control design tools, said bookings in the latest first quarter were lower than projected in North America and Europe, but higher in the Far East.</p>
+<p>&quot;We are in the midst of a major product transition cycle that will define the competitive landscape for many years,&quot; said Naren Gupta, Integrated Systems chairman. He said the company was disappointed in its recent performance but remained confident about the long term.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

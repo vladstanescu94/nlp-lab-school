@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="454167" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Hewlett-Packard, Microsoft aim to extend NT use.</title>
+<headline>Hewlett-Packard, Microsoft aim to extend NT use.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-18</dateline>
+<text>
+<p>Hewlett-Packard Co. and Microsoft Corp. are set to announce an expanded alliance Wednesday to strengthen customer acceptance of Microsoft's NT operating system, sources familiar with the plan said Tuesday.</p>
+<p>Both companies declined to discuss details, although an HP spokesman said it was &quot;a broad-based announcement by our two companies about what we will do to address managing costs of computing in an enterprise and improving productivity.&quot;</p>
+<p>But sources familiar with the details of the expanded alliance said it would deepen HP's commitment to Windows NT, with HP embracing Microsoft Exchange on that platform over its own OpenMail offering.</p>
+<p>&quot;It's obviously a fairly broad and sweeping strategy,&quot; said George Weiss, vice president and research director at the research firm Gartner Group. &quot;It certainly helps place HP more broadly in the Microsoft camp than previously.&quot;</p>
+<p>The two companies are expected to work together to make sure Exchange on NT can work together with protocols for OpenMail on HP's HP-UX Unix platform, for example.</p>
+<p>Microsoft is also expected to cross-license HP visual technology for use in its DirectX multimedia package, while HP will drop a part of the software it recently bought from Symantec and adapt Microsoft's system management software technology, one of the sources said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

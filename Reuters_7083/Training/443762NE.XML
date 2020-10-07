@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="443762" id="root" date="1997-03-14" xml:lang="en">
+<title>USA: Intel outlines steps to accelerate PC use.</title>
+<headline>Intel outlines steps to accelerate PC use.</headline>
+<dateline>LOS ANGELES, Calif. 1997-03-13</dateline>
+<text>
+<p>A senior Intel Corp. executive on Thursday outlined steps the company is taking to ensure that use of personal computers continues to rise, enabling it to grow chip sales.</p>
+<p>&quot;At Intel our business is PCs,&quot; said Frank Gill, executive vice president and general manager of Intel's Internet and communications group, noting the company sees a symbiotic relationship between PC industry growth and growth of Internet use.</p>
+<p>Echoing Intel CEO Andrew Grove's remarks at the Comdex computer show in Las Vegas last November, that the personal computer industry will need to battle with televisions as the focus of home entertainment, Gill noted the 80 million PC shipments expected this year would be roughly equivalent with the number of TVs sold.</p>
+<p>The research firm Dataquest projects PC shipments on a worldwide basis will rise to around 120 million in 1999, while Internet use is also expected to continue its dramatic growth over the next three years.</p>
+<p>Noting Intel's agreement announced on Wednesday that it was joining with Cisco Systems and Microsoft Corp in an initiative to promote multimedia computing, Gill said &quot;all three companies share a goal to accelerate the growth of multimedia.&quot;</p>
+<p>But Gill said Intel is also serious about its efforts to help lower the total cost of ownership of networked PCs, which has been estimated to be as high as $12,000 a year, and more than $9,000 for Intel itself.</p>
+<p>&quot;Despite the hype about the Internet, my clients are still struggling to bring down perceived costs,&quot; he said.</p>
+<p>Gill demonstrated capabilities of network management software under its &quot;wired for management&quot; initiative which is geared to help automate network management of personal computers, and allow for remote problem solving.</p>
+<p>Gill noted that Intel, the world's largest semiconductor maker, and its personal computer industry partners have also advanced a reference specification for a NetPC device based on Intel microprocessors.</p>
+<p>The Intel executive also said he expects the market for interactive PC theater products to take off, beginning around the end of this year, with PC technology moving into home living rooms.</p>
+<p>&quot;I think this is going to be a bonanza,&quot; he said, although he later acknowledged in a news briefing with reporters and analysts that WebTV Networks, a private startup based in Palo Alto, Calif., has not so far been successful in the market.</p>
+<p>Gill also demonstrated use of hybrid CD-ROM and Internet music, voice and video streaming technologies by a startup called JamTV, and similar video technology by Wells Fargo Bank, saying that faster bandwidth will eventually enhance use of these technologies.</p>
+<p>Analysts said Intel's efforts to promote more multimedia technology and programming was helping to foster new innovation in the media industry.</p>
+<p>&quot;Frankly, these guys are pushing the envelope,&quot; Kimball Brown, an industry analyst at Dataquest, said following the Intel presentation.</p>
+<p>Brown said the microprocessor giant is moving to advance capabilities such as multimedia production, even when it involves driving standards in software in order to create the enabling technologies that drive chip sales.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

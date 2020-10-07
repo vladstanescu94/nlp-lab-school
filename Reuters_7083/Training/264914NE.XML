@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264914" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Bay Networks acquires NetICs, plans charge.</title>
+<headline>Bay Networks acquires NetICs, plans charge.</headline>
+<dateline>SANTA CLARA, Calif. 1996-12-18</dateline>
+<text>
+<p>Bay Networks Inc said Wednesday it had acquired NetICs Inc, a developer of high-performance Fast Ethernet switches in a deal that includes $55 million in Bay stock and $44 million in cash.</p>
+<p>Bay said it plans to take a charge for a &quot;substantial portion&quot; of the acquisition price accounted for as a write-off of in-process technology.</p>
+<p>The company said the charge will be taken in the current quarter ending December 31, 1996.  </p>
+<p>Bay said NetICs' technology, which is based on custom-built semiconductor circuits known as ASICs, will be used for Fast Ethernet network switches and provide next generation semiconductor technology for other Bay products.</p>
+<p>It said the first switch based on the NetICs acquisition will offer autosensing 10/100 megabit per second Ethernet transmission speeds at an aggressive price below $250 per connection.</p>
+<p>The switch is set for release in the first quarter of 1997, Bay said.  </p>
+<p>Fast Ethernet switching is an intermediate networking technology that speeds up the vast existing infrastructure of computer local area networks running older Ethernet technology to transmit data at speeds from 10 to 100 megabits per second.</p>
+<p>Fast Ethernet marks a transition to even faster technologies network designers now envision running at gigabit speeds or faster. A gigabit represents roughly a billion bits.</p>
+<p>Bay is a leading supplier of Fast Ethernet technology.  </p>
+<p>Key to the new technology is the ability to &quot;future-proof&quot; 10/100 megabit per second switches with auto-negotiation technology that allow customers to move to adapt to faster transmission technology without replacing the switch.</p>
+<p>Bay said NetICs will continue to work as an independent operating group, within Bay Networks' Enterprise Business Unit.</p>
+<p>NetICs will focus on developing lower cost infrastructure products that connect Ethernet networks at any speed, including 10 megabits, 100 megabites and Gigabit Ethernet.</p>
+<p>Gary Vacon, founder and president of NetICs, will become vice president reporting to Dick Eyestone, senior vice president of Bay Networks' Enterprise Business Unit, Bay said.</p>
+<p>((-- Eric Auchard, New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

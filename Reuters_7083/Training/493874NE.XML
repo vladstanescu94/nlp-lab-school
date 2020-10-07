@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="493874" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: Oracle chairman buys stake in SuperGen.</title>
+<headline>Oracle chairman buys stake in SuperGen.</headline>
+<dateline>LOS ANGELES</dateline>
+<text>
+<p>Billionaire Larry Ellison, chairman of database software company Oracle Corp., expanded his horizons Tuesday with a $15 million investment in drug company SuperGen Inc.</p>
+<p>Ellison, whose interest in Apple Computer Inc. has resurfaced in recent weeks, purchased a 9 percent stake in San Ramon, Calif.-based SuperGen in a deal that also gives him the right to a seat on SuperGen's board of directors.</p>
+<p>Oracle was not immediately available to explain Ellison's reason for buying into a drug company, but a spokesman for SuperGen said he understood the purchase grew out of a personal interest Ellison had in cancer treatments.</p>
+<p>&quot;Larry has an interest in cancer, especially prostate cancer. A lot of his close friends like Michael Milken and (Intel Chairman) Andy Grove have had bouts with it,&quot; the spokesman said.</p>
+<p>The SuperGen spokesman said Ellison learned of SuperGen after meeting its chairman, Joe Rubinfeld, through a mutual friend. SuperGen, which went public in March, has acquired about five cancer chemotherapy drugs from larger pharmaceutical companies and is working to develop a new generation of cancer drugs.</p>
+<p>It recently entered a collaboration with Maryland-based Galenica Pharmaceuticals to develop drugs for prostate cancer, and separately is working on other drugs for cancer as well as for obesity and anaemia.</p>
+<p>SuperGen founder Rubinfeld was one of the first founders in Amgen Inc., which is the world's largest biotech company with annual sales of more than $2 billion.</p>
+<p>Ellison purchased the SuperGen stock in a private placement for $9 a share. Under the agreement reached, he has the right to purchase additional stock at $13.50 per share that could increase his stake in the company to 15 percent.</p>
+<p>In late March, Ellison expressed an interest in making a bid for struggling Apple Computer and had formed an investor group to gauge interest in taking over the computer maker.</p>
+<p>SuperGen stock closed up 87.5 cents at $13.75 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

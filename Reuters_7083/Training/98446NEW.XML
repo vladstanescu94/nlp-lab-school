@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98446" id="root" date="1996-10-06" xml:lang="en">
+<title>USA: Microsoft to launch new version of online service.</title>
+<headline>Microsoft to launch new version of online service.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-10-06</dateline>
+<text>
+<p>Microsoft Corp. rolls out its long-promised hybrid Internet online service this week as it relaunches the Microsoft Network and unveils aggressive marketing plans.</p>
+<p>The rollout comes just as reports are indicating a possible slowdown in the growth of online services, but few are willing to bet against Microsoft in a market the software giant has targeted as a priority.</p>
+<p>&quot;I never underestimate anything Microsoft does,&quot; said Robert Seidman, who covers the online industry for NetGuide magazine. &quot;If they want to get 5 million customers for MSN and they want to spend $500 million in marketing to do that, they will do that.&quot;</p>
+<p>Company executives and analysts said version 2.0 of MSN will be heavy on entertainment content and transaction services such as online stock trading and shopping.</p>
+<p>&quot;We're really looking at people who have not been on-line before or people who have not been on the Internet before,&quot; said MSN product manager Michele Bourdon.</p>
+<p>Microsoft claims its on-line service, launched along with the Windows 95 operating system in August 1995, already ranks No. 3 with 1.6 million members. That is far behind market leader America Online with over 6 million subscribers and Compuserve with 5 million, but ahead of No. 4 Prodigy.</p>
+<p>But the Microsoft Network was outdated almost from the moment it was launched, based on proprietary software that was scrapped when executives led by Chairman Bill Gates realized they had to transform the company to focus instead on the open standard of the Internet.</p>
+<p>The new Microsoft Network is based on the company's well-received Internet Explorer 3.0 browser technology and will be available as a full on-line service or to users who already have an Internet service provider, Bourdon said.</p>
+<p>She declined to give pricing details.</p>
+<p>In a preview version of the new service available last week, the opening screen looked like a downtown shopping district, with various storefronts representing areas for news, financial information, interactive games and shopping.</p>
+<p>The site made heavy use of computer animation, with advertising billboards flashing and customized news and stock quotes crawling across the bottom of some screens.</p>
+<p>The shopping plaza, still &quot;under construction,&quot; promised tie-ups with Avon Products, American Greetings, Tower Records and the QVC shopping channel.</p>
+<p>Electronic stock trades can be executed through Charles Schwab Corp., and another major Wall Street brokerage is expected to announce a partnership with Microsoft soon.</p>
+<p>Recent studies have indicated that an increasing number of consumers prefer direct Internet connections over the proprietary online services, which have been scrambling to tie themselves more closely to the vast worldwide network.</p>
+<p>And Seidman said most multimedia personal computers are sold into homes that already have computers, indicating possible market saturation.</p>
+<p>But Microsoft executives are determined to make the company into a major provider of content as demonstrated by such ventures as its high-profile news linkup with NBC, Slate magazine and the &quot;Cityscape&quot; local news project.</p>
+<p>&quot;They truly believe in the concept that the Net is going to become a very big thing, competing with television and other forms of delivery of information,&quot; said analyst Scott McAdams of brokerage Ragen MacKenzie. &quot;They feel there's a lot of money to be made by being successful in the media world.&quot;</p>
+<p>Last week the company announced the formation of an on-line production unit with offices in New York and Hollywood that will produce dozens of serial programs for the Microsoft Network, much as a television production company would develop weekly comedies and dramas.</p>
+<p>So far, the Microsoft Network's audience has been limited to the 40 million users with Windows 95, but Microsoft has promised new browsers for the Windows 3.1 and Apple Computer Inc Macintosh platforms, leading observers to believe that access to the on-line service also will be broadened.</p>
+<p>Microsoft executives also point out that the Microsoft Network has grown with virtually no advertising or marketing support. For the relaunched version, the company plans a campaign expected to rival the $300 million advertising blitz that accompanied the Windows 95 launch.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

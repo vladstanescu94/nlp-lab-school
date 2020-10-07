@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561558" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surpise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surpise data.</headline>
+<text>
+<p>Earnings surprise for May 6, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks.</p>
+<p>COMPANY		ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>PATINA OIL &amp; GAS	0.02     0.29     1350.00%</p>
+<p>BORROR CORP	     0.04     0.10	150.00%</p>
+<p>ALPHARMA INC	    0.04     0.10	150.00%</p>
+<p>MAXIS INC		 0.01     0.02	100.00%</p>
+<p>GORAN CAPITAL	   0.60     1.14	 90.00%</p>
+<p>INTERNEURON PHA     -0.26    -0.13	 50.00%</p>
+<p>AMYLIN PHARMA	 -0.39    -0.21	 46.15%</p>
+<p>PROVIDENT AMER	 0.05     0.07	 40.00%</p>
+<p>REGENERON PHARM     -0.38    -0.23	 39.47%</p>
+<p>ST MARY LD &amp; EXPL    0.41     0.55	 34.15%</p>
+<p>YOUTH SVCS INTL	0.01    -0.05     -600.00%</p>
+<p>THINK NEW IDEAS     -0.03    -0.21     -600.00%</p>
+<p>CASINO DATA SYS     -0.04    -0.18     -350.00%</p>
+<p>ELSCINT LTD	    0.06    -0.05     -183.33%</p>
+<p>INTERCARDIA CORP     0.04    -0.03     -175.00%</p>
+<p>IVAX CORP	     -0.03    -0.07     -133.33%</p>
+<p>CYTOTHERAPEUTIC     -0.12    -0.26     -116.67%</p>
+<p>ROGERS CANTEL B     999.0    -0.06     -100.01%</p>
+<p>EMBREX INC	     0.06     0.03	-50.00%</p>
+<p>ORTHOFIX INTL	  0.05     0.03	-40.00%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

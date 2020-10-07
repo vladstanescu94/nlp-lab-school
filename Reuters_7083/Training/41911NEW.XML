@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41911" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Netscape plans to give away intranet tools.</title>
+<headline>Netscape plans to give away intranet tools.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-09-09</dateline>
+<text>
+<p>Netscape Communications Corp, defending its Internet software market lead from Microsoft Corp, plans to distribute free copies of dozens of its business applications and development tools to corporate software developers working on intranets.</p>
+<p>Netscape will try to seal developers' loyalty to its platform with the Netscape AppFoundry program, to be announced Monday. It will include free access to forums by consulting firms such as Andersen Consulting and Deloitte &amp; Touche and an online chat space called Netscape AppFoundry Online.  </p>
+<p>&quot;How will it help us? We sell the platform - the SuiteSpot server environment upon which these applications are built,&quot; said Netscape director of server product marketing Apri Chatterje, who told Reuters about the program.</p>
+<p>&quot;All these applications are basically built on our platform,&quot; Chatterje said.</p>
+<p>Intranets are corporate networks built with the same protocols as the Internet. Netscape provides the lion's share of the browsers and Web site server software used in corporate intranets and derives 80 percent of its revenues from intranets.  </p>
+<p>But Netscape faces growing competition from Microsoft, whose Windows NT networking operating system has Internet links and is selling well into the corporate market.</p>
+<p>The intranets application market presents a good chance for Netscape to try to maintain its lead, analysts say.</p>
+<p>&quot;This helps Netscape get some share of mind in the business area in which their competition with Microsoft is going on,&quot; said analyst Jack Wilson of Technologic Partners, who was briefed by Netscape on its plan.</p>
+<p>Wilson noted that there are not many pre-made applications for intranets on the market.  </p>
+<p>Most corporate software staffs write their own applications in-house, Wilson said, adding that Netscape's program &quot;should stimulate the making of apps.&quot;</p>
+<p>This is largely because intranets are such a new phenomenon. It is just this year that corporations have discovered the possibility as well as the attractiveness of building intranets. But this year a majority of large corporations began building them, according to Netscape as well as numerous independent studies, with estimates ranging from 51 percent to 89 percent and 92 percent of large companies building intranets this year.</p>
+<p>Netscape has enlisted the cooperation of a host of software companies to provide their applications free for the program. Most of them are small and striving to gain exposure, however. They inclde Acclaim Technology, Red Oak, Informix Corp, Sage Solutions and others. None of the leading database or networking applications vendors are listed, such as Oracle Corp, PeopleSoft Inc or Novell Inc or International Business Machines Corp's Lotus Development unit.</p>
+<p>Companies providing development tools for the program include Borland International Inc NetObjects Inc and NeXT Software Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

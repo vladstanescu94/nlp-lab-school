@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168816" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Lotus in deal with Microsoft, Netscape.</title>
+<headline>Lotus in deal with Microsoft, Netscape.</headline>
+<dateline>ANAHEIM, Calif. 1996-11-06</dateline>
+<text>
+<p>Lotus Development Corp Wednesday announced plans to ship its next generation of products with Internet browsers from Microsoft Corp and Netscape Communications Corp.</p>
+<p>In two separate statements, Lotus, which is a division of International Business Machines Corp, said it will ship the Netscape Navigator 3.0 with selected Lotus products, including the Notes client family and Lotus SmartSuite. Lotus Notes 4.5, due to ship by year-end, is the first Lotus product planned for shipment with Netscape's Navigator browser.  </p>
+<p>Lotus said it will also ship the products with Microsoft's Explorer 3.0 browser, which competes with Netscape's more widely used Navigator.</p>
+<p>&quot;Today's customers want openness, inter-operability and simple delivery of product,&quot; said Jeff Papows, Lotus' president. &quot;This is another step in Lotus' strategy to integrate Notes clients with a variety of browser applications and browser components.&quot;</p>
+<p>The move comes as Lotus' popular workgroup software has faced a threat from lower-cost Internet technology.  </p>
+<p>Lotus has added Internet features to its latest version of Notes, version 4.0, with its own Web browser and the ability to translate files into Notes. But Notes is still a proprietary technology, built on different standards.</p>
+<p>Lotus just finished the beta version of its next version of Lotus Notes 4.5, an interim version of a major revamp of Notes that is based entirely on Internet technology, code-named Domino, that it previewed at PC Expo in New York.</p>
+<p>Lotus also announced users will be able to access the Lotus Domino 4.5 server's enterprise messaging facilities and collaborative groupware from any Web browser.  </p>
+<p>Lotus and Netscape had been in on-again, off-again talks about licensing the Navigator software for the Domino version of Notes and analysts said Lotus considered improving its current browser, but in the end, it was not worth the effort.</p>
+<p>&quot;They can't win the browser battle, there is no money in it,&quot; said Eric Brown, a Forrester Research analyst. &quot;It doesn't make sense for Lotus to write a browser, or to fight a browser war in which Microsoft took a year and incredible marketing resources to give away a product.&quot;</p>
+<p>Lotus also selected Internet Explorer, because customers want a choice. &quot;They endorsed the inevitable,&quot; Brown said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

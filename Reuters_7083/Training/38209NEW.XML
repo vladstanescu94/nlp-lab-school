@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38209" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Comshare Inc Q4 shr falls to loss.</title>
+<headline>Comshare Inc Q4 shr falls to loss.</headline>
+<dateline>ANN ARBOR, Mich. 1996-09-06</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>			   Three Months Ended  Twelve Months Ended,</p>
+<p>				   June 30,		 June 30,</p>
+<p>				   1996     1995	1996	1995</p>
+<p> Total revenue	     26,614   28,840    118,984   108,358</p>
+<p>Income (loss) from</p>
+<p>  operations		(3,200)  (3,607)   (16,792)     2,485</p>
+<p> Net income (loss)	  (575)    1,692    (9,891)     5,328</p>
+<p>Weighted average</p>
+<p>number of common</p>
+<p>and dilutive</p>
+<p>common equivalent</p>
+<p>  shares			9,666    8,526	9,048     8,398</p>
+<p>Net income (loss)</p>
+<p>  per common share	 (0.06)     0.20     (1.09)	0.63</p>
+<p>Note: The fourth quarter of fiscal 1996 included about $1.2 million of tax benefits which relate to the settlement of certain tax issues and the amending of certain tax returns to claims credits which had previously not been claimed.</p>
+<p>The fourth quarter of fiscal 1995 included a $4.1 million reduction in tax valuation reserves against prior year net operating losses and tax credits that had not been previously recognized.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANN ARBOR, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

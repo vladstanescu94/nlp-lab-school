@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="646150" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Avant! moves to disqualify prosecutor.</title>
+<headline>Avant! moves to disqualify prosecutor.</headline>
+<dateline>SUNNYVALE, Calif. 1997-06-09</dateline>
+<text>
+<p>Avant! Corp, whose executives face felony charges of trade secret theft, filed a court motion on Monday to disqualify the prosecutor from handling the lawsuit, citing conflict of interest and unfair access to evidence.</p>
+<p>Avant! said in a motion filed in a San Jose, California, court that the Santa Clara district attorney based his criminal investigation on experts paid for by Cadence Design System Inc, a software company that competes against Avant!.  </p>
+<p>Avant! also said that because Cadence executives knew of the district attorney's investigation, they allegedly profited by selling Avant!'s stock &quot;short,&quot; just before the prosecutor raided Avant! for evidence.</p>
+<p>In a short sale, investors profit from a stock's decline by borrowing shares, selling them immediately and replacing the stock once the share price drops.</p>
+<p>Officials in the Santa Clara district attorney's office could not be reached immediately.  </p>
+<p>For the past three years, Avant! has been fighting a civil lawsuit filed by Cadence. Both companies write software that help engineers design computer chips.</p>
+<p>Cadence alleges that Avant! executives stole a computer programming code from Cadence and based their key products on Cadence technology.</p>
+<p>In April, the Santa Clara district attorney increased the pressure on Avant! and its executives by filing criminal charges alleging trade secret theft.</p>
+<p>Avant! executives have denied any wrongdoing.  </p>
+<p>In its motion, Avant! said the district attorney, in an unusual move, has refused to provide Avant! with access to evidence until after the preliminary hearing.</p>
+<p>Cadence executives could not be reached immediately for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

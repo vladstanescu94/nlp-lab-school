@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="510201" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: IONA 5.3 pct stake held by group.</title>
+<headline>IONA 5.3 pct stake held by group.</headline>
+<dateline>WASHINGTON 1997-04-15</dateline>
+<text>
+<p>A group including Zweig-DiMenna Special Opportunities LP, a private investment partnership, said Tuesday it holds a 5.3 percent stake or 973,000 ordinary shares in IONA Technologies Plc.</p>
+<p>In a filing with the U.S. Securities and Exchange Commission, the group said it bought shares in the Dublin, Ireland, computer software company between Feb 25 and April 7 at $15.375 to $22.77 a share.</p>
+<p>The group said it holds the shares for investment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

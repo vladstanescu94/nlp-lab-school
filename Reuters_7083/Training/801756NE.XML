@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="801756" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: Microsoft denies plans to shutter Cinemania site.</title>
+<headline>Microsoft denies plans to shutter Cinemania site.</headline>
+<dateline>SEATTLE 1997-08-15</dateline>
+<text>
+<p>A Microsoft Corp. executive Friday denied a report that the software giant planned to shutter its Cinemania movie site on the Internet.</p>
+<p>Joan Morse, director of marketing for Cinemania, Sidewalk and Music Central, said that, contrary to the report in the trade publication Variety, there were no plans to terminate any of the company's entertainment-related Web sites.</p>
+<p>She acknowledged that Microsoft had laid off 20 contract employees at Cinemania but said that was part of a continuing process to rotate non-staff workers when their projects end. Microsoft officials have said they plan to reduce the number of contract workers within the interactive media division now that most major services are up and running.</p>
+<p>She also said there were no immediate plans to combine Cinemania, Music Central or other entertainment projects with Microsoft Sidewalk, the online guide to local arts and entertainment that has been launched in four cities so far.</p>
+<p>&quot;We do see some synergies with other products, including Sidewalk, but we intend to keep all of the sites up and running based on the demand we have from our consumers,&quot; Morse said.</p>
+<p>She also said well-known film critic Leonard Maltin would continue to write for Cinemania despite Variety's report he had been terminated by Microsoft.</p>
+<p>Cinemania's Web address is http://cinemania.msn.com, while Music Central is at http://musiccentral.msn.com. Sidewalk's four city sites are at http://newyork.sidewalk.com, http://seattle.sidewalk.com, http://twincities.sidewalk.com and http://boston.sidewalk.com.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

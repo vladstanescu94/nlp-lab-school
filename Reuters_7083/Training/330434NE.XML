@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="330434" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Software Spectrum sees Q3 shr below $0.20.</title>
+<headline>Software Spectrum sees Q3 shr below $0.20.</headline>
+<dateline>DALLAS 1997-01-24</dateline>
+<text>
+<p>Software Spectrum Inc on Friday said it estimated its earnings in the fiscal third quarter ended December 31 at less than $.20 per share.  </p>
+<p>For the same period last year, the company reported $0.62 a share. Analysts on average estimated the company would earn $0.62 a share in the most recent quarter, according to a First Call survey.</p>
+<p>The company, a supplier of microcomputer software and technology services, said it expected record sales of $240 million.</p>
+<p>&quot;Profitability for the quarter was negatively affected by an operating loss of approximately $1.8 million in the Asia/Pacific market,&quot; it said.</p>
+<p>&quot;Also, the company incurred approximately $600,000 of residual transition costs associated with acquisitions completed by the company in the first quarter of this fiscal year,&quot; it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

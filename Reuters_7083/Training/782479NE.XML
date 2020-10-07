@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="782479" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Wall Street shares seen mixed to higher at open.</title>
+<headline>Wall Street shares seen mixed to higher at open.</headline>
+<dateline>NEW YORK 1997-08-06</dateline>
+<text>
+<p>U.S. shares are expected to open mixed to slightly firmer on Wednesday, with the recently-strong tech stocks helped by news Microsoft Corp would invest money in Apple Computer Inc.</p>
+<p>Sources close to Microsoft said it was set to announce a $150 million investment in Apple Computer.  Market watchers said this could add more life to the technology sector.</p>
+<p>&quot;It could help the tech stocks,&quot; Hildegard Zagorski, an analyst at Prudential Securities, said. &quot;The techs have been flying lately.  This is certainly not a negative for tech stocks, though it won't send them flying.&quot;  </p>
+<p>Apple founder Steven Jobs also said he named himself, Oracle Corp Chairman Larry Ellison, Jerry York and Bill Campbell to its board.</p>
+<p>But technology stocks would also digest results from giant computer networking equipment maker Cisco Systems, whose fourth quarter earnings were in line with Wall Street estimates but below the so-called &quot;whisper&quot; number.</p>
+<p>Blue chip stocks might also struggle to make headway amid a higher interest rate environment, analysts said.</p>
+<p>The Standard &amp; Poor's 500 futures index rose 0.30 points to 956.80.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325340" id="root" date="1997-01-22" xml:lang="en">
+<title>BELGIUM: EU probing software distribution practices.</title>
+<headline>EU probing software distribution practices.</headline>
+<dateline>BRUSSELS</dateline>
+<text>
+<p>The European Union's competition chief, Karel Van Miert, said Wednesday he was investigating complaints of anti-competitive software distribution practices in the EU.</p>
+<p>&quot;We are looking into some of these cases,&quot; he said at a news conference.</p>
+<p>Despite repeated questions, Van Miert refused to give any details. But he has previously said the European Commission was investigating a complaint about the pricing practices of U.S. software giant Microsoft Corp.</p>
+<p>That complaint was filed more than a year ago by the Personal Computer Association in Britain, which said Wednesday it was getting impatient for results.</p>
+<p>The association charges Microsoft with abusing its dominant position in its pricing practices, when selling the MS Office software package to personal computer manufacturers who want to &quot;bundle&quot; it into the machines they sell.</p>
+<p>It says Microsoft charges a handful of key customers, including U.S. computer maker Gateway 2000, much lower prices than it charges the rest of its customers.</p>
+<p>&quot;The result of this is that Microsoft as a monopoly supplier is restricting the availability of a monopoly product,&quot; PCA executive director Keith Warburton said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="G157">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

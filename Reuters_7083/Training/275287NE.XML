@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275287" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: Gemstar to merge with StarSight Telecast.</title>
+<headline>Gemstar to merge with StarSight Telecast.</headline>
+<dateline>PASADENA, Calif 1996-12-23</dateline>
+<text>
+<p>Gemstar International Group Ltd said it had signed an agreement to merge with StarSight Telecast Inc in a $273 million deal.  </p>
+<p>Gemstar said StarSight would become a wholly-owned subsidiary of it under the terms of the agreement.</p>
+<p>It said it would pay StarSight shareholders 0.6062 shares of its common stock for each share of StarSight stock.</p>
+<p>In the end, StarSight shareholders will receive about 33 percent of the outstanding shares of the combined company, it added.</p>
+<p>Gemstar said it and StarSight were in litigation over certain intellectual property issues but had agreed to stay the proceedings with the aim of dismissing all claims upon completion of the merger.</p>
+<p>Gemstar develops, markets and licenses proprietary technologies and systems aimed at making technology like VCRs user-friendly for consumers.</p>
+<p>StarSight Telecast develops and markets StarSight, a patented on-screen interactive TV program guide with one-button VCR recording.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

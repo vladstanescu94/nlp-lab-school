@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116037" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: MDL Information Q2 shr falls to $0.11.</title>
+<headline>MDL Information Q2 shr falls to $0.11.</headline>
+<dateline>SAN LEANDRO, Calif. 1996-10-15</dateline>
+<text>
+<p>MDL INFORMATION SYSTEMS, INC.</p>
+<p>	    CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>	   (in thousands, except per share and share amounts)</p>
+<p>			  (unaudited)</p>
+<p>			     Three Months Ended    Six Months Ended</p>
+<p>				   Sept. 30,	     Sept. 30,</p>
+<p>				    1996    1995	 1996     1995</p>
+<p>Revenues:</p>
+<p>  License and other	 $7,649   $7,290    $16,030  $13,018</p>
+<p>  Database		     3,533    2,692	6,663    5,543</p>
+<p>  Maintenance		  4,237    4,038	9,216    8,606</p>
+<p>   Total revenues	   15,419   14,020     31,909   27,167</p>
+<p>Costs and Expenses:</p>
+<p>  Cost of revenues	   2,935    2,408	5,758    4,555</p>
+<p>  Product development	3,422    2,419	7,361    5,060</p>
+<p>Sales, marketing and customer</p>
+<p>   service		     6,622    6,225     13,218   12,336</p>
+<p>General and administrative</p>
+<p>				   1,462    1,005	2,824    2,027</p>
+<p>Total costs and expenses</p>
+<p>				  14,441   12,057     29,161   23,978</p>
+<p> Income from operations	978    1,963	2,748    3,189</p>
+<p>Other income (expense):</p>
+<p>  Interest income (expense)  136     (17)	  202     (47)</p>
+<p>  Other			     83	 59	  451	290</p>
+<p>   Total other income, net   219	 42	  653	243</p>
+<p>Income before income taxes</p>
+<p>				   1,197    2,005	3,401    3,432</p>
+<p>Provision for income taxes</p>
+<p>				   (101)    (218)	(573)    (586)</p>
+<p> Net income		    1,096    1,787	2,828    2,846</p>
+<p>Net income per common share</p>
+<p>				    0.11     0.19	 0.29     0.31</p>
+<p>Shares used in computing net</p>
+<p>income per common share</p>
+<p>			    9,686,831 9,178,975 9,660,548 9,057,040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN LEANDRO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

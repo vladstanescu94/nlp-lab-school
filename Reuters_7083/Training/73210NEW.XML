@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73210" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: RESEARCH ALERT - Verity Inc.</title>
+<headline>RESEARCH ALERT - Verity Inc.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist initiated coverage Tuesday of Verity Inc with a buy rating.</p>
+<p>-- Noted August order shortfall was primarily due to infrastructure issues rather than underlying demand for the product. Said management is convinced that these issues have been or are currently being solved.</p>
+<p>-- Estimated Q297 loss of $0.06 a shr versus loss of $0.08 a year ago. Estimated fiscal 97 loss of $0.07 a shr versus loss of $0.25 in fiscal 96. Fiscal year ends in May.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

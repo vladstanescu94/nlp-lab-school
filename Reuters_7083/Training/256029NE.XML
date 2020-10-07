@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256029" id="root" date="1996-12-13" xml:lang="en">
+<title>GERMANY: SAP readies R3 for Internet launch.</title>
+<headline>SAP readies R3 for Internet launch.</headline>
+<dateline>WALLDORF, Germany 1996-12-13</dateline>
+<text>
+<p>German business software developer SAP AG said on Friday it expected to release an Internet version of its widely used R3 business management software in the first quarter of 1997.</p>
+<p>Corporations using R3 version 3.1 could have their customers order products, check order status and access product data and other information over the Internet, SAP said.</p>
+<p>Some customers are testing version 3.1 now. It will be ready for general release in the first three months of next year, SAP said.</p>
+<p>The new version is a critical product for SAP, a world leader in so-called client-server business software that manages a company's purchasing, accounting, financial and other administrative functions.</p>
+<p>SAP shares, which are listed in Germany's DAX index of 30 blue-chip stocks, closed floor trading on Friday at 207 marks.</p>
+<p>The shares plummeted in October after the company reported weak third-quarter growth and reduced earnings forecasts. The shares fell 26 percent to 202 marks after the announcement.</p>
+<p>SAP shares also slumped in the spring after a computer industry analyst's report criticised R3 for lacking Internet connections.</p>
+<p>-- Neal Boudette, Bonn Newsroom (69-228) 260 97 150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

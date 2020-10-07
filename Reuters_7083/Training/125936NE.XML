@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125936" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: GT Interactive files for share offer.</title>
+<headline>GT Interactive files for share offer.</headline>
+<dateline>NEW YORK 1996-10-18</dateline>
+<text>
+<p>GT Interactive Software Corp said on Friday that it filed a follow-on registration statement with the U.S. Securities and Exchange Commission for a 15.5 million share offering.</p>
+<p>Certain GT shareholders were offering 11.1 million shares and GT was offering four million shares, the company said.</p>
+<p>GT, which publishes interactive entertainment software, completed an initial public offering in December 1995.</p>
+<p>Robertson, Stephens and Co, Merrill Lynch &amp; Co, Bear, Stearns and Co Inc, Hambrecht &amp; Quist LLC, Lehman Brothers Inc and Piper Jaffray Inc were managing the deal. Underwriters would have an option to buy another 2.33 million shares to cover over-allotments, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259374" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Network Appliance names Jeffry Allen CFO.</title>
+<headline>Network Appliance names Jeffry Allen CFO.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1996-12-16</dateline>
+<text>
+<p>Network Appliance Inc said it has appointed Jeffry R. Allen of Bay Networks Inc to the position of vice president of finance and operations and chief financial officer.  </p>
+<p>Allen served most recently as senior vice president of operations at Bay Networks, responsible for Bay's manufacturing and distribution functions. From 1990 to 1995, he held positions as controller for SynOptics Communications and as vice president and controller for Bay Networks, the company created upon the merger of SynOptics and Wellfleet Communications.</p>
+<p>Network Appliance makes network data storage and access devices, known as filers, which deliver shared file service for major computer operating systems and the World Wide Web.</p>
+<p>Filers provide access to network-attached data.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

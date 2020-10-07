@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262174" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Wiz Tech replaces independent auditor.</title>
+<headline>Wiz Tech replaces independent auditor.</headline>
+<dateline>SAN JUAN CAPISTRANO, Calif. 1996-12-17</dateline>
+<text>
+<p>Wiz Technology Inc said Tuesday it had hired Cacciamatta Accountancy Corp of Irvine, Calif., as its independent auditor, replacing Grant Thornton LLP, which resigned last week.</p>
+<p>Software developer Wiz said Grant Thornton, which became company auditors in September, has not issued any report on the financial statements of the company.</p>
+<p>Cacciamatta is working to expedite an audit and file the company's annual report. Trading in Wiz shares has been halted since November 11, when the company said it would not file its annual report for the year ended July 31 by its deadline.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JUAN CAPISTRANO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

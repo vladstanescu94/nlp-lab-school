@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="491165" id="root" date="1997-04-07" xml:lang="en">
+<title>USA: Netscape to embed Verity search engine.</title>
+<headline>Netscape to embed Verity search engine.</headline>
+<dateline>SUNNYVALE, Calif. 1997-04-07</dateline>
+<text>
+<p>Verity Inc said on Monday that Netscape Communications Corp will embed Verity's SEARCH'97 search engine software in its SuiteSpot Server software.</p>
+<p>The two companies said they would work together to provide Netscape customers with upgrade-ready access to additional Verity services, such as clustering, categorization and summarization.</p>
+<p>Verity shares rose 1-7/8 to 8-1/8 on Monday. Netscape was down 2-1/4 to 28.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35486" id="root" date="1996-09-05" xml:lang="en">
+<title>INDIA: Microsoft in alliance with India's TCS.</title>
+<headline>Microsoft in alliance with India's TCS.</headline>
+<dateline>BOMBAY 1996-09-05</dateline>
+<text>
+<p>Microsoft Corp. on Thursday announced a strategic alliance with India's Tata Consultancy Services (TCS), making TCS its premier consulting partner.</p>
+<p>&quot;TCS will be one of the prime engines of Microsoft products,&quot; Sanjay Parthasarathy, Microsoft's regional director for the Indian subcontinent, told reporters.</p>
+<p>Microsoft Corporation India Pvt. Ltd is a fully-owned subsidiary of the US-based Microsoft Corporation.</p>
+<p>&quot;India has the potential to be a worldwide leader in software development and value added services,&quot; Parthasarathy said.</p>
+<p>&quot;We are very excited about our partnership with Microsoft,&quot; said S. Ramadorai, TCS's chief executive officer.</p>
+<p>TCS is India's largest information technology consulting organisation. TCS will establish a consulting group to focus on Microsoft technologies and products, officials said.</p>
+<p>Microsoft in turn will provide TCS Consultants with extensive training and early access to Microsoft products still in the testing stage.</p>
+<p>&quot;In short, what we mean by this alliance is leveraging mutual strengths for customer products,&quot; TCS's Ramadorai said.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

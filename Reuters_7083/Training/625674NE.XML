@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="625674" id="root" date="1997-05-30" xml:lang="en">
+<title>USA: BEFORE THE BELL - Intel off sharply.</title>
+<headline>BEFORE THE BELL - Intel off sharply.</headline>
+<dateline>NEW YORK 1997-05-30</dateline>
+<text>
+<p>Shares of Intel Corp sank in U.S. pre-opening trade on Friday after the giant chipmaker warned that second-quarter results would be below its earlier expectations.</p>
+<p>Shares were trading at 146-1/2, off from the close on Thursday of 163-49/64, according to traders.  The stock was continuing to move lower, with some trades at 145-1/2.  </p>
+<p>&quot;The news surprised everybody,&quot; said one trader, who said that many major technology shares were also getting hit along with Intel.</p>
+<p>Microsoft Corp traded at 123, down from the close of 125-7/8, and Dell Computer Corp was selling at 107, off from the close of 110-3/8.  Shares of International Business Machines Corp dropped, to 83 from the close of 87-7/8.</p>
+<p>&quot;They are all trading down off the Intel numbers,&quot; said another trader.  </p>
+<p>Intel said revenues and net income for its fiscal second quarter will fall below company's expectations due to weaker-than-expected demand, particularly in Europe.</p>
+<p>Revenue for the period was expected to drop five to 10 percent below the first quarter's $6.4 billion while the gross margin is forecast to come under the 64 percent in the prior period, Intel said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

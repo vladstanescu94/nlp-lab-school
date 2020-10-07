@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="605612" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Informix lays off 100 workers around the U.S..</title>
+<headline>Informix lays off 100 workers around the U.S..</headline>
+<dateline>MENLO PARK, Calif. 1997-05-22</dateline>
+<text>
+<p>Informix Corp. has laid off 100 workers at various locations in the United States as part of its plan to stop losing money by the end of the year, a spokesman said Thursday.</p>
+<p>The database software company said it fired administrative workers and technical documentation staff Wednesday at its facilities in the San Francisco area and in Lenexa, Kan.</p>
+<p>The job cuts came the day before Informix's annual shareholder meeting, where top executives will have to explain how they misjudged the database market and what more they plan to do to make the company profitable again.</p>
+<p>In the first quarter, Informix reported an unexpected loss of $140.1 million as revenue plunged 34 percent to $133.7 million.</p>
+<p>Informix, based in Menlo Park, Calif., publishes database software, the computer programmes that big companies use to store huge libraries of corporate information in their networks.</p>
+<p>Earlier this year, the company made a huge bet on a new generation of database software aimed at customers who need to manage lots of multimedia files. The bet, company executives have said, was misplaced because there is not enough demand for these types of products yet.</p>
+<p>In addition, Informix neglected the marketing of its better-selling database products.</p>
+<p>With cost-cutting moves and improving sales, Informix could report a profit again by the end of the year, Informix Chairman Phil White has said.</p>
+<p>Robert Manetta, Informix spokesman, could not say immediately how much the lay offs will cost the company in quarterly charges. He also declined to say whether the company will fire more, but said executives still are &quot;evaluating the situation.&quot;</p>
+<p>The company fired 35 in the Bay Area. In Lenexa, the company laid off 28. The rest of the cuts were in various facilities around the United States, Manetta said. Informix employs about 4,000 people.</p>
+<p>Informix shares fell 38 cents to close at $8.59 on Nasdaq trading of 2.3 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

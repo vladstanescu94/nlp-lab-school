@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90145" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Arbor Software sues Comshare.</title>
+<headline>Arbor Software sues Comshare.</headline>
+<dateline>SUNNYVALE, Calif. 1996-10-02</dateline>
+<text>
+<p>Arbor Software Corp, a developer of client/server software for business planning, analysis and management, said on Wednesday it filed a lawsuit against distributor Comshare Inc, alleging fraud and breach of contract.</p>
+<p>Michigan-based Comshare has distributed Arbor's products since early 1994. Arbor is seeking damages and fees and is asking for injunctive relief preventing Comshare from future distribution of Arbor's products, specifically its flagship product Essbase.  </p>
+<p>Essbase is a multi-dimensional database server used for on-line analytical processing applications.</p>
+<p>Arbor and Comshare entered into a licensing agreement in 1993 allowing Comshare to distribute various versions of Essbase in return for different levels of royalties.</p>
+<p>Arbor claims Comshare systematically underpaid, or failed to report royalties due under the agreement, Arbor said in a written statement. Comshare executives were not immediately available for comment.</p>
+<p>Arbor will continue to provide information, technical support and product updates to Comshare so it can fulfill its service commitments to its Essbase customers. But groups concerned about licensing, long-term service, or support should contact Arbor directly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

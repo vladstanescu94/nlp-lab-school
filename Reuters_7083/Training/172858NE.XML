@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172858" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Borland's Kahn quits board, cuts all ties.</title>
+<headline>Borland's Kahn quits board, cuts all ties.</headline>
+<dateline>SAN FRANCISCO 1996-11-07</dateline>
+<text>
+<p>Borland International Inc. said Thursday its controversial founder and former chief executive, Philippe Kahn, cut all ties with the company and stepped down from the board of directors.</p>
+<p>Kahn said he resigned from Borland, a struggling developer of computer programming languages and database, to devote more time to his two-year-old company, Starfish Software, which is developing Internet products based on the Java computer language.</p>
+<p>Borland, based in Scotts Valley, Calif., was once the third-biggest software company behind Microsoft Corp. and Lotus Development Corp., now a unit of International Business Machines Corp..</p>
+<p>Kahn, a French mathematician, founded Borland in 1983 when he could not get a job in Silicon Valley without proper immigration documents.</p>
+<p>Using the popularity of its computer programming products, Borland, under Kahn, expanded its business to take on Microsoft in every niche of the software industry, including selling spreadsheets and databases.</p>
+<p>But Microsoft and its chairman, Bill Gates, fired back by improving Microsoft's programming products and cutting prices of its business applications.</p>
+<p>Kahn was criticised by shareholders in 1995 for spending the company's money for personal use, including the recording of a jazz album.</p>
+<p>Faced with huge losses and redoubled competition with Microsoft, Kahn resigned as Borland's CEO in 1995 and later as chairman.</p>
+<p>He said he still owns some Borland shares, but has no other ties to the company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

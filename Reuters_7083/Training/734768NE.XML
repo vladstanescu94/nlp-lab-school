@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="734768" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: TABLE - XcelleNet Inc Q2 shr increases.</title>
+<headline>TABLE - XcelleNet Inc Q2 shr increases.</headline>
+<dateline>ATLANTA 1997-07-17</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>			   Unaudited</p>
+<p>							 Three Months Ended</p>
+<p>							 6/30/97    6/30/96</p>
+<p> Total Revenues				     12,039     10,126</p>
+<p> Operating income (loss)			   (306)	  321</p>
+<p> Other income, net				     250	  265</p>
+<p> Net income (loss)				    (32)	  363</p>
+<p> Earnings (loss) per share			(0.00)	 0.05</p>
+<p> Weighted average shares outstanding	   8,160	7,883</p>
+<p>							  Six Months Ended</p>
+<p>							6/30/97     6/30/96</p>
+<p> Total Revenues				     25,389     19,576</p>
+<p> Operating income (loss)			   1,471	1,365</p>
+<p> Net income (loss)				   1,097	1,229</p>
+<p> Earnings (loss) per share			  0.13	 0.16</p>
+<p> Weighted average shares outstanding	   8,594	7,866</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

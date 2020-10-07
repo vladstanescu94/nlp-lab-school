@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67108" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Netscape, Microsoft duel leaves many experts divided.</title>
+<headline>Netscape, Microsoft duel leaves many experts divided.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO 1996-09-20</dateline>
+<text>
+<p>The tug of war between Netscape Communications Corp. and Microsoft Corp. is quickly evolving into a bitter battle for control of the Internet, leaving experts from Wall Street to Silicon Valley divided over who will win.</p>
+<p>One day after Microsoft announced the Justice Department was seeking further information about its business practices in the Internet software business, Silicon Valley was abuzz with speculation.</p>
+<p>&quot;Shocking,&quot; mocked one senior executive of California's high-tech industry, where Microsoft has come to be viewed as a bully for the overwhelming position in the market held by its Windows computer operating system.</p>
+<p>&quot;It's worrisome,&quot; said another. &quot;Microsoft has such a lock on the operating system that it's a very serious threat.&quot;</p>
+<p>Executives said it was far too early to judge what might be the result of further government antitrust investigation, although some rivals thought Microsoft had gotten off easily in its 1994 consent decree with the government.</p>
+<p>Nevertheless, antitrust attorneys were doubtful the Justice Department ultimately would find that Microsoft's marketing practices were illegal.</p>
+<p>Robert Skitol, an antitrust lawyer for Drinker Biddle &amp; Reath, said the allegations outlined by Netscape amount to &quot;leveraging&quot; -- a practice in which a company leverages its power from one market to another.</p>
+<p>&quot;I continue to be dubious that there is any consent decree violation,&quot; Skitol said.</p>
+<p>He noted that both the Justice Department and the Federal Trade Commission in previous probes of Microsoft both passed up the opportunity to take action against the company in similar situations.</p>
+<p>Skitol also noted that the 1994 consent decree did not address the issue of leveraging.</p>
+<p>&quot;Is this a violation of antitrust law?&quot; he said. &quot;That is one of the big, unresolved, cutting-edge antitrust issues of our day.&quot;</p>
+<p>The Redmond, Wash.-based software giant lags far behind Netscape in the sale of software for navigating the World Wide Web, but a study this week showed Microsoft is catching up.</p>
+<p>According to a Zona Research study, more people in August used Microsoft's Internet Explorer as their primary Web browser, doubling the company's share of that market to 8 percent -- far less than Netscape's 83 percent.</p>
+<p>Microsoft, however, produces the operating systems that run more than than 80 percent of the world's PCs.</p>
+<p>On Wall Street, the battle between the two companies has sparked debate, with 2 top Wall Street analysts weighing in with opposing views on whether Netscape will be able to stand the heat from Microsoft.</p>
+<p>On Wednesday, Mountain View, Calif.-based Netscape's stock tumbled $3.38 to $42.63 after Merrill Lynch analyst Bruce Smith cut his rating on Netscape to &quot;neutral&quot; from &quot;buy&quot;, warning Netscape's &quot;Window of Opportunity&quot; was closing fast.</p>
+<p>Smith said Netscape had to do more to differentiate its products from those of Microsoft, and although he expected that Netscape's latest quarter was on track financially, he believes the company has failed to capitalise on partnerships.</p>
+<p>Speaking after delivering a keynote speech at a Jupiter Communications conference here, Netscape co-founder and Vice President of Technology Marc Andreessen rebutted the idea the company has been falling short in forging alliances.</p>
+<p>&quot;We've partnered with virtually every company in the industry, other than Microsoft, and we're always looking for partnerships,&quot; he said in an interview.</p>
+<p>On Thursday, Netscape stock rebounded to $45.50 after Hambrecht &amp; Quist analyst Daniel Rimer raised his rating to a &quot;strong buy&quot; from a &quot;buy,&quot; saying &quot;Netscape is leading the charge&quot; in corporate intranet software.</p>
+<p>Intranets are private networks which use Internet technologies and these are viewed as the area where most of the software dollars will be spent in the near term.</p>
+<p>On Friday, Netscape stock surged further on the news from Microsoft, gaining $5.375 to $50.875. Microsoft ended the day at $137.125, down 62.5 cents.</p>
+<p>Andreessen declined to respond to questions about the Justice Department probe.</p>
+<p>&quot;We're just doing our thing,&quot; he said, while acknowledging that Microsoft was a fierce competitor.</p>
+<p>&quot;I think Microsoft's going to do whatever it is they're going to do no matter what ..,&quot; he said. &quot;They've got an extremely aggressive culture. They're an extremely aggressive competitor.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

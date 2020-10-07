@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544183" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: Polaroid to offer image software.</title>
+<headline>Polaroid to offer image software.</headline>
+<dateline>BOSTON 1997-04-28</dateline>
+<text>
+<p>Polaroid Corp on Monday introduced its first software product - Before &amp; After - which the Cambridge, Mass.-based company says can improve digitized pictures to photo-lab quality.</p>
+<p>It is the first time Polaroid, which has sales of $2.3 billion worldwide, has ventured into software, Dan Richards, director of software said in a telephone interview.</p>
+<p>The product will retail for about $30 and be sold at retail outlets and mail order. The company said it promises to significantly improve digitalized pictures with a mouse click and uses Polaroid's new IQA or Image Quality Assured technology.</p>
+<p>&quot;IQA will serve as the platform a new line of products,&quot; Richards said. &quot;Before and After is our first step in software.&quot; The program works on a variety of digital cameras, printers, scanners and computer monitors.</p>
+<p>Richards said the company was looking for IQA to be the platform for a number of software products.</p>
+<p>&quot;What we're really focusing on in IQA is partnering with a number of companies,&quot; Richards said. He declined to name any &quot;because we don't have any formal agreements in place.&quot;</p>
+<p>((--Boston bureau, 617-367-4106))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220358" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Two software makers claim faster Web surfing.</title>
+<headline>Two software makers claim faster Web surfing.</headline>
+<byline>Michelle V. Rafter</byline>
+<dateline>LOS ANGELES 1996-11-27</dateline>
+<text>
+<p>There's a reason they call the Internet an information superhighway: once you're online, you want to go fast.</p>
+<p>Nowhere is this more apparent than on the Web, where downloading pages of graphics and other memory-hogging material can take less than a minute -- but feel like forever.</p>
+<p>Until now, companies working to placate Internet speed demons have focused mainly on hardware: faster 56.6 kilobit-per-second telephone modems, cable TV modems, ISDN lines and digital subscriber line (DSL) technology. However, those alternatives are either expensive, not widely available or still being tested.</p>
+<p>Enter two small software companies, each hawking relatively low-cost programmes they claim dramatically reduce the time it takes to download pages by making better use of existing dial-up modems and Web image caching, or storage, among other things.</p>
+<p>Earlier this week, Datalytics Inc. of Dayton, Ohio, announced an Internet software suite called the Blaze Web Performance Pack that includes so-called intelligent caching and preloading Web sites, features company officials claim will let users surf the Web up to 20 times faster than today.</p>
+<p>Datalytics expects to start selling the $99 suite, which also includes search tools, bookmarks and other Web utilities, on its Web site (http://www.datalytics.com/) on Dec. 16 and through retailers in January.</p>
+<p>Peak Technologies Inc. of Bellingham, Wash., introduced its Java-based Peak Net.Jet software last week at the annual Comdex computer convention in Las Vegas to glowing write-ups in the computer trade press.</p>
+<p>Like Blaze, Net.Jet also uses preloaded browsing and intelligent caching to cut down the time it takes to download Web pages. Peak sells the $29.95 programme through its Web site (http://www.peak-media.com/), where consumers can try the software free for 30 days before buying it online. Software is also sold through retailers CompUSA, Best Buy and Electronic Boutique.</p>
+<p>Normally, Web browser software stores Web pages a surfer has visited recently in cache memory, and pulls them out for return visits. In Blaze and Net.Jet, so-called intelligent caching automatically tracks the Web sites an Internet user visits regularly and during idle modem time visits those sites, updates the images and stores them in the cache so they're there when the person wants to see them, cutting down on travel time.</p>
+<p>When someone is reading a Web page, the preloaded browsing feature in both programmes scans the page for hot links to related pages, then downloads those pages to cache memory so they'll load faster if the user decides to view them.</p>
+<p>&quot;We haven't made the Web faster, we've made your experience faster,&quot; said Jeff Maier, Datalytics president.</p>
+<p>Datalytics has created a companion software programme for Web servers -- the computer and software that run Web sites -- incorporating compression and encapsulation techniques that reduce the time it takes to send images a Web user has requested. Datalytics has already signed deals to bundle the software, which is free, with popular Web servers from Microsoft, Netscape and Apache.</p>
+<p>Since annoucing Blaze Monday, Datalytics officials said they have been swamped with e-mail messages from people eager to give the software a try.</p>
+<p>David Woodruff, a computer systems analyst and consultant in Tuscon, Ariz., has used a test version of Net.Jet for two months and already swears by it.</p>
+<p>&quot;We're like any other little business out there. We use a 28.8 kbps modem and when we loaded Net.Jet, we're getting 80 percent to 90 percent better performance,&quot; Woodruff said. &quot;Sites like Microsoft and Hewlett-Packard and 3Com with lots of links are quick for us now. While other people are waiting for pictures on the main page to draw, we're three levels down.&quot;</p>
+<p>Both Blaze and Net.Jet work with Windows 95 and NT computers outfitted with 486 or faster processors, a minimum of 8 megabytes of RAM and at least 10 megabytes of disk space. Both work with Netscape Navigator and Microsoft Internet Explorer Web browsers. Peak is working on a version of Net.Jet for the Mac; Datalytics is not.</p>
+<p>Some industry watchers view the companies' software solutions as stopgap measures that eventually will be overtaken by 56.6 kbps modems, cable TV modems and other improvements to Internet infrastructure.</p>
+<p>But company officials claim not to be concerned. &quot;It will easily be several years before those are widely used .... and we can make browsing faster in the immediate future,&quot; said Claudia Temple, Peak's marketing director. &quot;We plan to add other things to the product,&quot; such as off-line browsing, she said.</p>
+<p>According to Maier, Datalytics' software will work on a variety of technologies, including cable modems and ISDN lines.</p>
+<p>&quot;No matter what your bandwidth, you can always go faster,&quot; he said.</p>
+<p>(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own.)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

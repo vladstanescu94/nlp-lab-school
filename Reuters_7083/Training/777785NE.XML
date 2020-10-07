@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777785" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: TABLE-Interleaf Inc Q1 shr profit vs loss.</title>
+<headline>TABLE-Interleaf Inc Q1 shr profit vs loss.</headline>
+<dateline>WALTHAM, Mass. 1997-08-05</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>					    Three Months Ended June 30,</p>
+<p>							   1997	  1996</p>
+<p>Revenues:</p>
+<p> Products					   $ 2,742     $ 7,046</p>
+<p> Maintenance					  6,650	 7,472</p>
+<p> Services					     3,434	 4,536</p>
+<p> Total Revenues				    12,826	19,054</p>
+<p>Costs of revenues:</p>
+<p> Products						 730	 1,626</p>
+<p> Maintenance					    946	 1,308</p>
+<p> Services					     2,839	 4,200</p>
+<p> Total costs of revenues			  4,515	 7,134</p>
+<p> Gross margin					 8,311	11,920</p>
+<p>Operating expenses:</p>
+<p> Selling, general and administrative	  5,557	11,357</p>
+<p> Research and development			 2,451	 4,270</p>
+<p> Total Operating Expenses			 8,008	15,627</p>
+<p> Income (loss) from operations		    303     (3,707)</p>
+<p> Other income (expense)				83	  (93)</p>
+<p> Income (loss) before income taxes		386     (3,800)</p>
+<p> Provision for income taxes			   -	     -</p>
+<p> Net income (loss)				    386     (3,800)</p>
+<p>Earnings per share:</p>
+<p>   Primary					     0.02	(0.22)</p>
+<p>   Fully Diluted				     0.02	   N/A</p>
+<p>Shares used in computing</p>
+<p>  primary earnings per share		   22,974	16,998</p>
+<p>Shares used in computing</p>
+<p>  fully diluted earnings per share	   23,134	   N/A</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

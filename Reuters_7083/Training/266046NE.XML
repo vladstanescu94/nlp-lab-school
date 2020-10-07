@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266046" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Navarre says Q3 net will not meet expectations.</title>
+<headline>Navarre says Q3 net will not meet expectations.</headline>
+<dateline>MINNEAPOLIS 1996-12-19</dateline>
+<text>
+<p>Navarre Corp said Thursday net income in the third quarter will be lower than earnings one year ago and will not meet analysts expectations in spite of record sales in the period.</p>
+<p>The company, which publishes music, software and CD-ROM products, said earnings reached $979,000 in the third quarter of fiscal 1995. Sales one year ago reached $57 million.</p>
+<p>Current sales are up 46 percent, Navarre said, although no other financial details were released.</p>
+<p>Navarre Chairman and Chief Executive Officer Eric Paulson said the company decided to offer prepayment terms to certain customers suffering from financial difficulties to pay selected invoices in the period. The strategy had a negative short-term impact on earnings, he said.</p>
+<p>The company's stock closed down 1/8 Thursday at 3-7/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

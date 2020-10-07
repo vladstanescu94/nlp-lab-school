@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35603" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: IPO FILING - Puma Technology Inc.</title>
+<headline>IPO FILING - Puma Technology Inc.</headline>
+<dateline>WASHINGTON 1996-09-05</dateline>
+<text>
+<p>Company Name	    Puma Technology Inc</p>
+<p>Stock symbol			PUMA.O</p>
+<p>Estimated price range	   $8-10/shr</p>
+<p>Total shares to be offered    3.0 million</p>
+<p>Shrs offered by company	 2.5 million</p>
+<p>Shrs offered by shareholders  500,000 Shrs outstanding after IPO    11,828,352</p>
+<p>Lead Underwriter    Deutsche Morgan Grenfell</p>
+<p>Underwriters over-allotment  450,000 shrs Business: The San Jose, Calif.,-based company develops, markets and supports mobile data-exchange software, allowing users to access, exchange and synchronize information stores in a variety of different computing devices.</p>
+<p>Use of Proceeds: working capital and general corporate purposes.</p>
+<p>Financial Data in 000s, for fiscal year ended July 31</p>
+<p>				  1996		 1995</p>
+<p>   - Revenue		 $7,716		$860</p>
+<p>   - Net Income (Loss)   (2,401)	    ($2,146)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

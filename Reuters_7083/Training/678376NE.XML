@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="678376" id="root" date="1997-06-21" xml:lang="en">
+<title>USA: Microsoft fixes server bug on its site.</title>
+<headline>Microsoft fixes server bug on its site.</headline>
+<dateline>REDMOND, Wash. 1997-06-21</dateline>
+<text>
+<p>Microsoft Corp. said Friday its engineers have developed a software patch to fix a bug in its server software which the company said a hacker had reported to it Thursday afternoon.</p>
+<p>The bug, or software flaw, involved sending a string of characters to a Web site which the hacker claimed could shut down a site using Microsoft's Internet Information Server 3.0 running on Windows NT 4.0.</p>
+<p>Mike Nash, director of marketing for Microsoft's Windows NT servers, said late Friday Microsoft estimates its site may have been jammed for &quot;one or two times&quot; on Thursday, but for no more than about five minutes at a time.</p>
+<p>The Microsoft site has been congested in recent weeks by an increase in traffic - which has doubled in recent months to around one million individual visitors a day - prompting Microsoft to upgrade its site and add two international mirror sites in London and Tokyo.</p>
+<p>&quot;That has been the cause of most of the responsiveness issues over the last couple of weeks,&quot; Nash said.</p>
+<p>Microsoft should have completed most of the work on upgrading its site, which runs on two processor and four processor Compaq Computer Corp. servers, by the end of June, Nash said.</p>
+<p>The upgrade, and related congestion, affects only the Microsoft corporate site, which contains information on products, financial statements and information for developers, and not its editorial operations such as MSN, which operate from a different site.</p>
+<p>The  computer hacker was able to exploit the fact the corporate site was overtaxed and in the process of being upgraded in his bid to disrupt it.</p>
+<p>The hacker, who Microsoft said identified himself by the name Todd Fast, reported the bug at 4 p.m. PDT Thursday, Nash said. Under Microsoft's &quot;quick fix engineering program,&quot; a solution to the bug was developed by 8 p.m. PDT and tested on Friday morning.</p>
+<p>The patch to fix the problem was tested on Friday morning and available on Microsoft's own site by around midday, with a patch available on its site for customers by 5 p.m. PDT Friday, Nash said.</p>
+<p>&quot;There is no loss of data as a result of this problem. It never crashes the server,&quot; he said, adding that disruption to a Web site from the bug could occur &quot;only as a result of an intentional malicious attack.&quot;</p>
+<p>The problem was related to entering lengthy lists of characters known as Unique Resource Locators, or URLs, to access a site using a browser. Nash said the URLs that could jam sites were around 8,000 characters - much longer than would normally be used by a casual Web surfer.</p>
+<p>The bug was the latest in a series of flaws reported in Internet software by Microsoft and rival Netscape Communications Corp.,  which is based in Mountain View, California.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

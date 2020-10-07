@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95590" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Concentra awarded $2 mln contract. [CORRECTED]</title>
+<headline>Concentra awarded $2 mln contract. [CORRECTED]</headline>
+<dateline>BURLINGTON, Mass. 1996-10-04</dateline>
+<text>
+<p>Concentra Corp said Friday that an international aircraft maker has placed a $2.05 million order for its Aircraft Configuration Environment, otherwise called A.C.E.</p>
+<p>Revenues from the order will be counted in the company's second quarter earnings, said company Chief Financial Officer G.M. Schimmoeller.</p>
+<p>(Corrects to show revenues from the order will be included in, not excluded from, second quarter results.)</p>
+<p>A.C.E. is a software package that shortens the time it takes an aircraft manufacturer to design an aircraft or parts of one.</p>
+<p>The company reported first quarter earnings of $0.01 per share on revenues of $5.1 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

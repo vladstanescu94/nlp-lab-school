@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="392072" id="root" date="1997-02-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-Sausage pegs back year forecasts.</title>
+<headline>RTRS-Sausage pegs back year forecasts.</headline>
+<dateline>SYDNEY 1997-02-20</dateline>
+<text>
+<p>Internet software developer Sausage Software Ltd said on Thursday it has revised down its earnings forecasts for the year to June 30, 1997.</p>
+<p>Sausage said the net loss was now estimated at A$5.0 million for the 1996/97 year, an increase on the previous forecast of A$2.0 million loss, with revenues now seen at A$4.0 million, compared with A$7.6 million previously.</p>
+<p>It said the new forecast for the operating loss was A$2.8 million, compared with the previous estimate of A$100,000.</p>
+<p>Sausage earlier reported a net loss of A$1.93 million for the six months ended December 31, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

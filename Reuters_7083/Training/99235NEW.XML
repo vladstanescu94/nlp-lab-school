@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99235" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Computer Assoc merger deal puzzles analysts.</title>
+<headline>Computer Assoc merger deal puzzles analysts.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1996-10-07</dateline>
+<text>
+<p>Computer Associates International Inc's plan to acquire Cheyenne Software Inc in a deal worth about $1.2 billion met with initial puzzlement from Wall Street and industry analysts Monday.</p>
+<p>Analysts said that with only sketchy terms available, it was not evident how Computer Associates could justify paying the rich price of seven times Cheyenne's trailing revenues.</p>
+<p>In addition, they said, the terms of the merger represent a sharp departure by Computer Associates from its traditional bargain-hunting, patchwork acquisition model.  </p>
+<p>&quot;This is a departure from their standard practice,&quot; UBS Securities analyst Joseph Farley said.</p>
+<p>&quot;They are paying more than they ever have&quot; in relation to the target company's revenues, he said.</p>
+<p>Cheyenne reported revenues of $174.1 million in its fiscal year ended June 1996.</p>
+<p>&quot;There's clearly some synergies,&quot; Farley said. &quot;The question is whether those synergies are worth seven times sales.&quot;  </p>
+<p>He added, &quot;They have never paid more than three or three-and-a-half times sales, So you have to seriously evaluate this transaction.&quot;</p>
+<p>In the absence of further details, the analyst said he was withholding further judgment on the terms of the merger.</p>
+<p>The initial reaction by Computer Associates investors was muted. The shares gained slightly to 63, up 5/8 on the day, on moderate volume of just over 700,000 shares.</p>
+<p>Cheyenne's stock rocketed to 30, up 7-5/8 and just a half-point under the $30.50 cash per share that Computer Associates plans to offer Cheyenne holders.  </p>
+<p>Volume approached 9.3 million Cheyenne shares by early afternoon.</p>
+<p>The merger would bring together Cheyenne, a supplier of storage management software, with Computer Associates, which makes systems management software designed to manage the operations of entire computer networks.</p>
+<p>Computer Associates has acquired roughly 60 companies over the past two decades, mainly as a way of filling in missing pieces in its core systems management product line.  </p>
+<p>Paul Mason, an enterprise software analyst with technology research firm International Data Corp in Framingham, Mass., said the acquisition does not fit what he called &quot;the CA model, both in terms of acquisitions and product strategy.&quot;</p>
+<p>&quot;It's hard to see where this fits in. If they were getting this at a great price, I could understand the deal,&quot; he said. Like Farley, Mason said he was adopting a wait-and-see attitude until the companies provide more details on the deal.</p>
+<p>The companies were to hold a press conference in New York at 1300 EDT/1700 GMT on Monday. They were expected to provide further details of the motivations behind the merger.  </p>
+<p>&quot;The CA acquisiton model has been one of bottom-fishing,&quot; Mason said, mainly as a means of filling out its core systems management business. However, he said that lately CA has been willing to pay more for new technology.</p>
+<p>Mason said Cheyenne's storage management software fails to provide Computer Associates with a unified, &quot;open systems&quot; platform that CA could plug into its own existing CA/Unicenter systems management platform.</p>
+<p>By contrast, Legato Systems Inc storage management products could provide Computer Associates with a ready-built system to work with CA/Unicenter, he said. &quot;Why didn't they buy Legato?&quot; Mason asked.</p>
+<p>Cheyenne faces increasing competition from rivals such as Seagate Technology Inc's Seagate Software unit in Cheyenne's core business of providing storage management software used with Novell Inc NetWare.</p>
+<p>Cheyenne says it derived about 75 percent of its revenues from its NetWare-related business in fiscal 1996.</p>
+<p>Mason said Seagate is better positioned to compete with Cheyenne in this area since it has no existing NetWare business to defend. &quot;A price war in NetWare backup would hurt Cheyenne a lot more than Seagate,&quot; he said.</p>
+<p>-- New York Newsdesk 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105912" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: BEFORE THE BELL - Chips firm on book-to-bill news.</title>
+<headline>BEFORE THE BELL - Chips firm on book-to-bill news.</headline>
+<dateline>NEW YORK 1996-10-09</dateline>
+<text>
+<p>Shares in leading U.S. computer chip makers traded higher ahead of Wednesday's stock market open after the industry's key indicator supported a growing conviction that the chip market's slump is ending.</p>
+<p>Intel Corp rose to 103-3/4 from 101-5/8, Texas Instruments Inc added 5/8 to 55-3/4, and Micron Technology Inc gained 1/16 to 31-1/2, traders said.</p>
+<p>Following Tuesday's market close, the Semiconductor Industry Association said the North American book-to-bill ratio, which measures the value of orders against shipments, rose to 0.99 in September from a revised 0.93 in August.  </p>
+<p>The ratio means chip manufacturers received $99 in new orders last month for every $100 in shipments.</p>
+<p>The September figure was the highest this year, reflecting a greater-than-expected increase in orders for computer chips.</p>
+<p>Intel's advance was built on a rise to 103 in after-hours trading on Tuesday.</p>
+<p>Elsewhere, Tellabs Inc stock was bought up vigorously after the electronic communications equipment company announced quarterly earnings last night that exceeded Wall Street forecasts.  </p>
+<p>Tellabs gained 5-1/2 to 78-1/2, a new year high, in pre-open trading, traders said.</p>
+<p>Tellabs said its third quarter per share earnings were $0.50, up $0.08 from analysts' consensus estimate and up $0.20 from a year earlier.</p>
+<p>In other pre-open trade related to the chip optimism, Cisco Systems climbed 3/4 to 65, Sun Microsystems rose to 66-1/4 from 65-3/4, Microsoft added 5/8 to 136, 3Com improved 5/8 to 67, and DSC Communications was up 3/8 to 15-7/16.</p>
+<p>-- Brendan Intindola, Wall Street Desk 212-859-1734</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

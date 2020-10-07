@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196472" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: LifeRate Systems Inc Q3 net loss widens.</title>
+<headline>LifeRate Systems Inc Q3 net loss widens.</headline>
+<dateline>MINNEAPOLIS 1996-11-18</dateline>
+<text>
+<p>(A development stage company)</p>
+<p>			Three months ended  Nine months ended</p>
+<p>				  Sept. 30,	    Sept. 30,</p>
+<p>			 1996	 1995	   1996	   1995</p>
+<p> Net revenues    49,200 $    19,500  $   308,500  $   153,900</p>
+<p>Operating expenses:</p>
+<p>Sales and mktg.</p>
+<p>		    638,700   1,007,700    1,875,400    2,190,200</p>
+<p>Research and dev.</p>
+<p>		    564,900     199,500    1,617,200	342,100</p>
+<p>Gen. and admin.</p>
+<p>		    700,200     192,000    1,911,100	676,600</p>
+<p>Loss from operations</p>
+<p>		(1,879,400) (1,388,000)  (5,199,800)  (3,063,300)</p>
+<p>Interest income, net</p>
+<p>		     57,900	27,600	223,300	 83,900</p>
+<p> Net loss   (1,821,500) (1,360,400)  (4,976,500)  (2,979,400)</p>
+<p>Net loss per share</p>
+<p>			(.48)	 (.59)	 (1.27)	 (1.45)</p>
+<p> Avg shrs     3,811,639   2,318,241    3,931,561    2,058,746</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

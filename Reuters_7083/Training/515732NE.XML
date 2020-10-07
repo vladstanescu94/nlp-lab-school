@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="515732" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: Greentree Software Inc Q3 loss narrowed.</title>
+<headline>Greentree Software Inc Q3 loss narrowed.</headline>
+<dateline>MINNEAPOLIS 1997-04-17</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss		  $ 0.01     loss	$ 0.03</p>
+<p> Net loss		     130     loss	   268</p>
+<p> Net sales		    385			(4)</p>
+<p> Avg shrs		   9,664		    8,125</p>
+<p>			9 MONTHS</p>
+<p> Shr loss		   $0.10     loss	$ 0.13</p>
+<p> Net loss		   1,002     loss	   772</p>
+<p> Revs			   556			238</p>
+<p> Avg shrs		   9,557		    6,024</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>Periods ended February 28 vs February 29.</p>
+<p>Company reported negative sales of $4,281 for the year-ago Q3. A quantity of product booked in the previous quarter was returned.</p>
+<p>	  ((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411530" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: Microsoft says still talking to Citrix.</title>
+<headline>Microsoft says still talking to Citrix.</headline>
+<dateline>NEW YORK 1997-02-27</dateline>
+<text>
+<p>Microsoft Corp said it still has not finalized its ongoing talks with Citrix Systems Inc, over the possibility of licensing Citrix's technology to give its Windows NT operating system multi-user capability.</p>
+<p>A Microsoft spokeswoman said the company wanted to clarify its earlier comments on its talks with Citrix.</p>
+<p>She said Microsoft has not ended its talks with Citrix, even though Microsoft said earlier Thursday that it currently has a development team working on integrating multi-user capability, which Citrix also develops, into Windows NT.  </p>
+<p>&quot;Microsoft is going to deliver this (the multi-user capability) in the operating system,&quot; a Microsoft spokeswoman said. &quot;How they do it, no decision has been made.&quot;</p>
+<p>&quot;The solution will be offered from Microsoft,&quot; she said, adding that how the technology ends up inside the operating system has not yet been determined. It could be through licensing the technology from Citrix, or another company, or from Microsoft itself.</p>
+<p>&quot;Microsoft will deliver it and how it will be delivered is an open question,&quot; she said. &quot;The solution will now be offered by Microsoft.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

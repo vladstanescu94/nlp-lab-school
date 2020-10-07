@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70965" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Atlantic Energy sets investment venture.</title>
+<headline>Atlantic Energy sets investment venture.</headline>
+<dateline>EGG HARBOR TOWNSHIP, N.J. 1996-09-23</dateline>
+<text>
+<p>Atlantic Energy Inc said it joined with Safeguard Scientifics Inc and its TL Ventures affiliate to create an equity partnership that will invest in and support a variety of energy related technology growth companies.</p>
+<p>The new venture, EnerTech Capital Partners LP, may invest up to $50 million, the utility holding company said.</p>
+<p>EnerTech will focus the majority of its investment efforts on mature, established companies that are close to the initial public offering stage, Atlantic Energy said. About 15 percent of the investments will be aimed at early stage companies.</p>
+<p>The two companies first joined forces in 1995, when Atlantic Energy invested in Technology Leaders II LP, a venture fund associated with Safeguard.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EGG HARBOR TOWNSHIP, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

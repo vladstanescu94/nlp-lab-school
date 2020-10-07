@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191321" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Clinton signs executive order on encryption policy.</title>
+<headline>Clinton signs executive order on encryption policy.</headline>
+<dateline>WASHINGTON 1996-11-15</dateline>
+<text>
+<p>President Bill Clinton signed an executive order Friday announced in October to liberalize export restrictions on computer encoding technology, a critical component of global communications and online commerce.</p>
+<p>The new policy will not take effect until the Commerce Department writes regulations to implement the order, Vice president Al Gore's office said in a statement. The regulations are expected to be completed before the end of the year, Gore's office said.  </p>
+<p>Recognizing the international significance of U.S. export policy, Clinton also designated Ambassador David Aaron as special envoy for cryptography.</p>
+<p>&quot;We are moving forward to implement the encryption export liberalization plan that I announced in October,&quot; Gore said. &quot;These two actions will help promote the growth of international commerce and robust secure global communications in a manner that protects the public safety and our national security.&quot;</p>
+<p>Some in Congress and the high-tech industry have complained the administration's plan does not go far enough.  </p>
+<p>They argue that Cold war era limits on export of encryption, computer programs that use mathematical formulas to scramble information, put U.S. companies at a disadvantage.</p>
+<p>Foreign companies are not required to abide by the export limits and can sell programs using strong encryption inside and outside the United States.</p>
+<p>Encryption has become widely used, for example to safeguard corporate electronic mail from outsiders or keep credit card numbers transmitted over the Internet away from hackers' prying eyes.  </p>
+<p>Under current law, U.S. companies can only export programs using short passwords or software &quot;keys.&quot; Companies seeking to export stronger programs must get permission from the State Department.</p>
+<p>Under the new Clinton policy, companies could eventually export any strength of encryption if the programs also provided a means for the government to decode the messages acting under a court order or similiar authorization.</p>
+<p>Jurisdiction over export applications would be transferred to the Commerce Department, but the Justice Department would be added to the list of agencies that review such requests.  </p>
+<p>Departments of State, Defense, Energy and the Arms Control and Disarmament Agency also review the applications.</p>
+<p>But Gore's office noted that no one agency will have a veto over export decisions. Some companies feared that the Federal Bureau of Investigation would be given veto power.</p>
+<p>Several companies, including International Business Machines Corp and Hewlett-Packard Co, have said they will introduce new forms of encryption that will be exportable under the executive order and, they said, meet the needs of commercial users.  </p>
+<p>The executive order limits the use of a common argument that companies make in seeking permission to export encryption.</p>
+<p>Under U.S Export Administration Regulations, companies can point to the availability of comparable products being sold by foreign companies when applying for an export license.</p>
+<p>But Clinton concluded in the order that export of encryption could harm U.S. national security and foreign policy interests &quot;even where comparable products are or appear to be available from sources outside the United States.&quot;</p>
+<p>The order gives the Secretary of Commerce discretion to consider foreign availability in determining whether to issue a license but the Secretary is not required to issue a license on that basis.</p>
+<p>--Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

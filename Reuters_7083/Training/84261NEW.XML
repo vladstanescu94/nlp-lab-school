@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84261" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Reddi Brake sees FY96 shr loss $0.51.</title>
+<headline>Reddi Brake sees FY96 shr loss $0.51.</headline>
+<dateline>VENTURA, Calif. 1996-09-30</dateline>
+<text>
+<p>Reddi Brake Supply Corp said on Monday it expects a loss of about $8.6 million, or $0.51 a share, on sales of about $62.7 million for the fiscal year ending June 30.</p>
+<p>The company said in a statement that it filed for an extension on the deadline to file its report on Form 10K with the Securities and Exchange Commission.</p>
+<p>The company said about $1.3 million of its expected loss is attributable to a year-end write down of certain assets.</p>
+<p>Reddi Brake said it is discussing with investment banks about obtaining additional working capital it will need to implement its restructuring.</p>
+<p>The company said it signed an agreement with Oracle Corp for the installation of a new system-wide state-of-the-art computer system that it hopes will bring about significant savings and correct audit and management tool deficiencies that have continually hampered operations of the company. Reddi Brake operates 85 brake system outlets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VENTURA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

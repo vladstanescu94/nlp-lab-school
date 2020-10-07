@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="727190" id="root" date="1997-07-14" xml:lang="en">
+<title>USA: McAfee product targets hostile applets.</title>
+<headline>McAfee product targets hostile applets.</headline>
+<dateline>SANTA CLARA, Calif. 1997-07-14</dateline>
+<text>
+<p>McAfee Software said it will Monday unveil a computer virus protection product designed to protect computer users from hostile &quot;applets&quot; off the Internet.</p>
+<p>Applets are small computer applications which reside on a computer network such as the Internet and can be called up from the World Wide Web to perform specific functions on a desktop computer, for example.</p>
+<p>The capability also enables computer hackers to unleash so-called hostile applets, which can wreak havoc on a computer unexpectedly by reformatting a hard disk or swiping confidential information, for example.</p>
+<p>MacAfee said its new WebScanX product can be used to block hostile applets in particular, or other objectionable or unnecessary content or sites.</p>
+<p>The software works with applets which use both Microsoft Corp.'s ActiveX and Sun Microsystem Inc.'s Java technologies, the company said, and will be available in August in retail stores priced at $39.95.</p>
+<p>The same capabilities will be available to corporate customers as part of McAfee's VirusScan Security Suite.</p>
+<p>McAfee said the product will work on both Microsoft Corp.'s Internet Explorer 4.0 and Netscape Communications Corp.'s Navigator 4.0 browsers.</p>
+<p>The market for Internet filtering and security software is becoming increasingly crowded.</p>
+<p>In addition to companies which create so-called fire walls to protect corporate information from being accessed from the public Internet, such as Check Point Software Ltd, and Raptor, others have been providing filtering and protection software.</p>
+<p>Privately held Finjan Inc., an Israel-based startup with U.S. headquarters in Santa Clara, Calif., has been offering SurfinShield, a desktop-level Internet security tool to protect against attacks using Java and ActiveX.</p>
+<p>McAfee says more than 12,000 computer viruses exist today.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

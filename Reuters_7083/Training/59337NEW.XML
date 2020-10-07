@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59337" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Microware Systems launches Internet OS.</title>
+<headline>Microware Systems launches Internet OS.</headline>
+<dateline>SAN JOSE, Calif. 1996-09-16</dateline>
+<text>
+<p>Microware Systems Corp unveiled Internet OS-9, a system software package which will enable users of consumer electronics products to access the Internet and its World Wide Web multimedia section.</p>
+<p>The Des Moines, Iowa-based Microware said the Internet version of its operating system, based on Microware's OS-9 Real-Time Operating System, will be able to work on millions of consumer devices from pagers and cellular phones to television sets.</p>
+<p>But the operating system will also have stiff competition from Microsoft Corp, which unveiled its own Windows CE consumer electronic system on Monday, and Apple Computer Inc which said it and its partners will launch new devices over the next six weeks.</p>
+<p>Microware said it had licensed the Java programming environment and HotJava web browser from Sun Microsystems Inc, which developed it, and had licensed World Wide Web access technology from Spyglass.</p>
+<p>But even Sun Microsystems is developing a scaled-down operating system, known as Java OS, intended to run on stripped down computing systems, such as appliances.</p>
+<p>Nevertheless, Microware noted that industry research firm International Data Corp estimates there will be nearly 22 million non-PC Internet access devices by the year 2000.</p>
+<p>Internet OS-9 is due to be available by year-end.</p>
+<p>Microware also announced a Wireless OS-9 version of its operating system, which will include features critical to mobile communications equipment, like power management.</p>
+<p>Available in October, the wireless system can be found on devices built on a wide variety of processors, including Motorola Inc 68K and PowerPC families and National Semiconductor Corp's 32-bit X86 family.</p>
+<p>Microware also said it had teamed up with Counterpoint Systems Foudry Inc to port to OS-9 the Counterpoint technology that enables infrared communication capabilities.</p>
+<p>The system-maker also said it had formed a strategic partnership with Redwood Shores, Calif.-based Unwired Planet to port its UP.Browser to Microware's OS-9 system.</p>
+<p>Unwired Planet's UP.Link computing platform has been endorsed by network carriers such as AT&amp;T Wireless, Bell Atlantic NYNEX Mobile and GTE Mobilnet and products and services based on it are now on the market.</p>
+<p>Microware said its OS-9 operating system would support Uniden America Corp's line of Internet products.</p>
+<p>Motorola Inc said its QuickPrint handwriting recognition software and CrystalTalk speech recognition software were also being made to work on the OS-9 system, which is currently licensed by Hitachi Ltd, International Business Machines Corp, Matsushita, and Motorola, among others.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

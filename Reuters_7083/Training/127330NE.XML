@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127330" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Microsoft, IBM oppose California measure.</title>
+<headline>Microsoft, IBM oppose California measure.</headline>
+<dateline>PALO ALTO, Calif. 1996-10-17</dateline>
+<text>
+<p>Microsoft, International Business Machines Corp , Compaq Computer Corp and Dell Computer Corp on Thursday came out in opposition to a California shareholder ballot measure.</p>
+<p>The initiative, Proposition 211 on the state's November 5 ballot, would roll back federal legislation enacted late last year and make board directors of companies personally culpable to pay damages in shareholder lawsuits.</p>
+<p>The opposition of the four companies is noteworthy in that they are all based outside California and their main operations are outside California.</p>
+<p>Opponents of Proposition 211, including major Silicon Valley Companies, argue the legislation could impact any company which has a shareholder or a customer in the state.</p>
+<p>Microsoft Chief Operating Officer Bob Herbold said passage of Proposition 211 &quot;will adversely affect all public companies doing business in California, whether they are incorporated there or not, by opening the door to frivolous lawsuits.&quot;</p>
+<p>&quot;Proposition 211 would actually hurt shareholders, by making it harder for public companies to attract strong directors, who can manage companies well and protect shareholder interests,&quot; he added.</p>
+<p>Proponents of the ballot initiative, which is seen as heavily supported by securities lawyers who specialize in shareholder class action lawsuits and who would benefit directly from its passage, argue the legislation can help protect pensioners from cases of financial fraud.</p>
+<p>But officials of the four high tech companies who revealed their opposition on Thursday said they would be forced to severely limit any forward-looking financial statements to minimize the threat of lawsuits, unless 211 is defeated.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

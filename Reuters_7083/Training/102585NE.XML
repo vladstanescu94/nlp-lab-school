@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102585" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Top CEOs say drop mumbo jumbo, make computers useful.</title>
+<headline>Top CEOs say drop mumbo jumbo, make computers useful.</headline>
+<byline>Russell Blinch</byline>
+<dateline>LAKE BUENA VISTA, Fla.</dateline>
+<text>
+<p>Some of the computer industry's leading spokesmen admitted Monday that they use too many buzzwords and build complicated products that are not always useful in everyday life.</p>
+<p>A blue-ribbon panel from Silicon Valley and elsewhere agreed that building easier-to-use products was the best way of bringing more people into the new digital world.</p>
+<p>But they said consumers have all too often been bombarded with needless software updates while being distracted by competing software &quot;wars&quot; waged by the big computer players.</p>
+<p>&quot;People do want more stability and things have to become more simple,&quot; commented Ted Waite, chairman of Gateway 2000, one of the largest direct personal computer sellers.</p>
+<p>Waite said consumers have every right to be frustrated with personal computers that have become difficult to use and cost too much to maintain because of their complexity.</p>
+<p>Speaking at an annual Gartner Group computer conference, the executives said consumers, both at home and at work, were confused by a huge selection of products.</p>
+<p>&quot;We are tyrannized by the amount of choices out there,&quot; said Gary Fernandes, vice chairman of the consulting firm EDS Corp. &quot;The product life cycle is getting smaller and smaller.&quot;</p>
+<p>They said there has been too much emphasis on the various competing operating software &quot;platforms&quot; available while the market was also being hurt by software updates that in fact offer very little in useful new features.</p>
+<p>The industry also needs to drop the jargon and speak clearer so consumers can make proper choices.</p>
+<p>&quot;We have technical clutter,&quot; said Fernandes, &quot;We speak in buzzwords and acronyms.&quot;</p>
+<p>The chairman and CEO of Apple Computer Inc. Gilbert Amelio, said with only about 10 percent of the world having access to a personal computer, one of the bigger challenges facing the industry was bringing more people into the new digital environment.</p>
+<p>He said the quickest way to do that was to bring to market products that really make a difference in people's lives.</p>
+<p>He said all the attention focused on the so-called &quot;browser wars&quot; -- on whether Microsoft Corp. or Netscape Communications Corp. offered better software to cruise the Internet -- was really a waste of time.</p>
+<p>He said browsing was essentially an unproductive activity and companies really need to focus on making products that make the Internet a useful tool for people to find information and to communicate.</p>
+<p>&quot;Right now browsing has a negative productivity factor, instead of a positive one. The question is how do we get people more productive,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAKE BUENA VISTA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

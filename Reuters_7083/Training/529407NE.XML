@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="529407" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: WebTV in set-top box deal with UK's Pace Micro.</title>
+<headline>WebTV in set-top box deal with UK's Pace Micro.</headline>
+<dateline>PALO ALTO, Calif. 1997-04-21</dateline>
+<text>
+<p>WebTV Networks said Pace Micro Technology has signed an agreement to licence the WebTV reference design technology for enabling Internet services to be delivered over television sets.</p>
+<p>WebTV said Pace, which was due to preview its Internet set-top box design at the Cable and Satellite '97 exhibition in London, will work with it to make the set-top box and trial service available before Christmas this year.</p>
+<p>Pace, based in Shipley, West Yorkshire, manufactures satellite and cable receiver decoders. It will initially launch the its products with the WebTV service in Britain.</p>
+<p>WebTV, which was founded in mid-1995, agreed to be acquired by software giant Microsoft Corp earlier this month in a deal worth about $425 million in stock and cash.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

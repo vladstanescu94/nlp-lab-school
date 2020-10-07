@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49301" id="root" date="1996-09-12" xml:lang="en">
+<title>JAPAN: Sega, Softbank in publishing link - paper.</title>
+<headline>Sega, Softbank in publishing link - paper.</headline>
+<dateline>TOKYO 1996-09-13</dateline>
+<text>
+<p>Sega Enterprises Ltd and Softbank Corp are to link up in a global publishing business, a Japanese newspaper said on Friday.</p>
+<p>The Japanese business daily Nikkan Kogyo Shimbun said that Sega would supervise editing of magazines and books on game-related topics and Softbank would sell them at book stores and convenience stores. They plan to conduct the business worldwide in line with Sega's operations of game centres and its Internet business, the paper said.</p>
+<p>Company spokesmen were not immediately available for comment.</p>
+<p>The two companies already cooperate in distribution of game software for personal computers, the paper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="702658" id="root" date="1997-07-02" xml:lang="en">
+<title>USA: IPO PRICING - Peritus prices above range.</title>
+<headline>IPO PRICING - Peritus prices above range.</headline>
+<dateline>NEW YORK 1997-07-02</dateline>
+<text>
+<p>Company Name	     Peritus Software Inc</p>
+<p>   Priced At					 $16</p>
+<p>   Estimated Pricing Range	     $12 - $14</p>
+<p>   Number of Shares			3,500,000</p>
+<p>   Lead Underwriter	Montgomery Securities</p>
+<p>NOTE: Terms were modified for the planned initial public offering in Peritus Software Inc. The estimated price range was raised to $12 to $14 from $10 to $12 initially and the proposed number of shares on offer were 3.5 million shares, up from 2.9 million shares previously.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

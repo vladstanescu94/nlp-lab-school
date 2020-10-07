@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251396" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Greentree names Joseph Mooney CEO.</title>
+<headline>Greentree names Joseph Mooney CEO.</headline>
+<dateline>MINNEAPOLIS 1996-12-12</dateline>
+<text>
+<p>Greentree Software Inc said it named Joseph Mooney to its board of directors and to the position of chief executive officer.</p>
+<p>He was previously retained as a consultant in August 1996 to assist the company in product marketing and establishing strategy, Greentree said.  </p>
+<p>Mooney replaced John Medico, who left the company, it said.</p>
+<p>Greentree also said it closed a private placement of convertible notes, common shares and warrants.</p>
+<p>The company raised gross proceeds of $790,000 in the offering, it said.</p>
+<p>The funds are being used for working capital and to fund the marketing of the company's software.</p>
+<p>The company also said it is in the process of preparing its proxy materials and expects to hold its annual meeting of shareholders in late January or February of 1997.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

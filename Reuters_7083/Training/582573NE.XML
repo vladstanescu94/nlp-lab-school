@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="582573" id="root" date="1997-05-14" xml:lang="en">
+<title>CHINA: Microsoft signs cooperation accords with Shanghai.</title>
+<headline>Microsoft signs cooperation accords with Shanghai.</headline>
+<dateline>SHANGHAI 1997-05-14</dateline>
+<text>
+<p>U.S. software giant Microsoft has signed two agreements with China's city of Shanghai to increase cooperation in software technology and technical education, according to a statement issued on Wednesday.</p>
+<p>Under one agreement, Microsoft will help the Shanghai Science and Technology Commission's Computer Application and Development Department set up a centre to help ensure local producers sell genuine software, the commission said.</p>
+<p>The other agreement calls for Shanghai to support local computer manufacturers to install Microsoft's Windows 95 on their products and encourage them to enter into original equipment manufacturer (OEM) agreements with the U.S. company, it said.</p>
+<p>Microsoft on Wednesday introduced the simplified Chinese character version of its Office 97 software package in Shanghai, the company said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

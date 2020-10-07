@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379206" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: IPO PRICING - Ilog SA prices within range.</title>
+<headline>IPO PRICING - Ilog SA prices within range.</headline>
+<dateline>NEW YORK 1997-02-14</dateline>
+<text>
+<p>Company Name			    Ilog S.A.</p>
+<p>   Priced At					 $11</p>
+<p>   Estimated Pricing Range	     $10 - $12</p>
+<p>   Number of ADS			   2,500,000</p>
+<p>   Lead Underwriter		     Cowen &amp; Co</p>
+<p>NOTE: Each ADS represents one ordinary share, and all the ADSs are being sold by the company. Following the IPO, the company will have about 10,911,149 ADSs outstanding.</p>
+<p>Underwriters have an option to buy an additional 375,000 ADSs to cover over-allotments, if any.</p>
+<p>Proceeds from the sale will be used for working capital and other general corporate purposes, the company said in a statement.</p>
+<p>ILOG develops, markets and supports advanced software class libraries for user interface, resource optimization, and data service functions.</p>
+<p>Soundview Financial Group Inc also underwrote the offering.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

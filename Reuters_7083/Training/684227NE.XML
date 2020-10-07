@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="684227" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: CNET shares fall after details Web service.</title>
+<headline>CNET shares fall after details Web service.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SAN FRANCISCO 1997-06-23</dateline>
+<text>
+<p>CNET Inc. shares slumped Monday after the company released details of an ambitious new project aimed at making itself the first port of call on the Internet for millions of consumers.</p>
+<p>Financial analysts said CNET's plans for Snap! Online, to be launched in September, will likely boost revenues next year, but the substantial startup costs associated with the project will drag it into deeper losses throughout this year.</p>
+<p>CNET shares fell $4.13, or roughly 15 percent, to close at $27.13 in Nasdaq trading.</p>
+<p>Robertson Stephens analyst Keith Benjamin said Snap! Online will compete for consumer &quot;eyeballs&quot; with online media companies like America Online Inc., and Internet media companies like Yahoo! Inc. and Excite Inc..</p>
+<p>&quot;I think it's going to work out for CNET that they can create some significant value,&quot; he said. &quot;By the December quarter or the beginning of next year it's possible that we see significant numbers of subscribers.&quot;</p>
+<p>But Benjamin pushed out his estimated break-even point for CNET to the third quarter of 1998 from this year's December quarter, based on the costs of building up staff for Snap!</p>
+<p>CNET CEO Halsey Minor said in a briefing at the headquarters of the Internet news and television production company here the project already involves 110 full-time CNET employees and some 45 staff on loan from other areas.</p>
+<p>The Snap! Online site will involve a total of 150 people going forward, he said, and costs for developing and marketing it in the current second quarter will exceed the $2.2 million the company spent on the project in the first quarter.</p>
+<p>&quot;It will be higher this quarter,&quot; Halsey told Reuters during a briefing with reporters and analysts. He declined to provide details of the investment to date, but some analysts project CNET has spent nearly $5 million on the project.</p>
+<p>Danny Rimer, Internet analyst at San Francisco-based investment bank Hambrecht &amp; Quist, said he estimates CNET will expend $30 million on the project over 18 months, producing some $11 million in additional revenues during the period.</p>
+<p>Shares of companies CNET is targeting with Snap! Online, which CNET said it will promote through its own online and TV sites as well as through Internet service providers, PC makers and marketing partners, also declined Monday.</p>
+<p>AOL fell $1 to close at $58.75 in New York Stock Exchange trade and Excite, in which AOL and Intuit Corp. are investors, slid $1.31 to $12.88 in Nasdaq trade.</p>
+<p>Yahoo!, which closed Friday just shy of its trading high but which Baltimore-based investment bank Alex. Brown said it downgraded to a &quot;buy&quot; from a &quot;strong buy,&quot; shed $2.25 to $37.</p>
+<p>Minor said CNET expects to receive a fee from each of its distribution partners for initially customizing Snap! for their customers, and then hopes to generate annuity fees in the hundreds of thousands of dollars from each going forward.</p>
+<p>CNET expects to have 25 to 50 distribution partners by the end of 1998, and realistically does not expect to begin generating significant revenues until first quarter 1998.</p>
+<p>But by far the principal revenue source in the plan will be from generating advertising revenues, Minor added.</p>
+<p>Major ISPs who have agreed to participate include AT&amp;T Corp.'s AT&amp;T WorldNet Service, MCI Communications Inc.'s MCI Internet and Sprint Corp.'s Sprint Internet Passport.</p>
+<p>Earthlink Network Inc. has agreed to distribute at least 10 million co-branded Earthlink/ Snap! Online CD-ROMs, which help guide Internet &quot;newbies&quot; around the World Wide Web, beginning in the fourth quarter of 1997.</p>
+<p>An Earthlink spokeswoman said the company also will enable subscribers to make Earthlink the default starting point for those who wish to have a customized Internet entry point.</p>
+<p>The new CNET Web site, (http://www.snap.com) can be accessed directly as well using different browsers.</p>
+<p>CNET's financial backers include Intel Corp. and Paul Allen, the co-founder of Microsoft Corp..</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

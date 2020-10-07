@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99138" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Logic Works buys data software technology.</title>
+<headline>Logic Works buys data software technology.</headline>
+<dateline>PRINCETON, N.J. 1996-10-07</dateline>
+<text>
+<p>Logic Works Inc said Monday it acquired the technology behind TestBytes, an automatic test data-generation tool, from a privately held software manufacturer.</p>
+<p>It did not disclose the terms of the transaction, which it said would be accounted for as a purchase in the third quarter ended September 30. In addition, about $1 million will be spent primarily for research and development in the quarter.</p>
+<p>Logic Works did not identify the software manufacturer.  </p>
+<p>Logic Works said the product will be available in the fourth quarter. The price will be announced at that time, it said.</p>
+<p>Lead engineers for TestBytes will join the staff of Logic Works to continue to support and improve the product, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

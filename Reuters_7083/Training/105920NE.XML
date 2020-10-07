@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105920" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: ENlighten sees Q3 loss, stronger Q4.</title>
+<headline>ENlighten sees Q3 loss, stronger Q4.</headline>
+<dateline>SAN MATEO, Calif. 1996-10-09</dateline>
+<text>
+<p>ENlighten Software Solutions Inc said Wednesday it expects to report a net loss of about $0.09 to $0.10 per share for the 1996 third quarter, despite increasing license sales for certain products.</p>
+<p>The loss reflects increasing investment in research and development and sales and marketing in support of the Unix, NT and Tandem products, the company said.</p>
+<p>The company said that while costs for restructuring its North American sales force hurt first and second quarter results, third quarter sales indicate the company is &quot;back on track.&quot;  </p>
+<p>&quot;Based on our pipeline of prospects, which is stronger than at any time in the company's history, we anticipate a strong fourth quarter and a record year in 1997,&quot; the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MATEO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

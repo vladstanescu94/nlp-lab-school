@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113431" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Bay Networks CEO Andrew Ludwick resigns. [CORRECTED 23:31 GMT]</title>
+<headline>Bay Networks CEO Andrew Ludwick resigns. [CORRECTED 23:31 GMT]</headline>
+<dateline>SANTA CLARA 1996-10-14</dateline>
+<text>
+<p>Bay Networks Inc on Monday said Andrew Ludwick resigned as chief executive.</p>
+<p>Paul Severino, the company's chairman, will serve as acting chief executive until the company completes the search for a permanent successor, it said.</p>
+<p>Bay Networks, a maker of computer-networking equipment, also said profit in its fiscal first quarter fell to $48.3 million, or 25 cents a share, before one-time charges. That compares with net income of $63.2 million, or $0.32 a share, in the same quarter a year ago.</p>
+<p>(Corrects year-ago figures to account for restatement to reflect the merger of Xylogics Inc. in a pooling-of-interests transaction effective December 15, 1995).</p>
+<p>First-quarter revenue rose 19 percent to $522.7 million from $438.3 million.</p>
+<p>Wall Street had expected Bay Networks to earn 29 cents a share, according to a recent report by First Call.</p>
+<p>Ludwick became chief executive of Bay Networks when the company was created in 1994 with the merger of Wellfleet Communications Inc and Synoptics Communications Inc. Although Bay Networks has doubled its revenue in the past two years, the company has not grown as fast as its chief rival, Cisco Systems Inc.</p>
+<p>For the past year, Wall Street analysts had expected Ludwick to resign and the company to find a new CEO to better weld the products and operations of the predecessor companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

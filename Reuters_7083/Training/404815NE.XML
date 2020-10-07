@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404815" id="root" date="1997-02-26" xml:lang="en">
+<title>GERMANY: German software maker unveils new office program.</title>
+<headline>German software maker unveils new office program.</headline>
+<byline>William Boston</byline>
+<dateline>MUNICH, Germany 1997-02-26</dateline>
+<text>
+<p>German software maker Star Division GmbH said on Wednesday it would release the next version of its popular Star Office software next month with features to enhance integration with the global Internet.</p>
+<p>Star Division was founded 12 years ago and now has more than 22 percent of the German market for office software programs, or so-called suites, and is making plans for a listing on the stock exchange later this year.</p>
+<p>&quot;We believe that we can become one of the leading software companies worldwide,&quot; Star Division founder and managing director Marco Boerries told reporters in Munich.</p>
+<p>It is one of the few German companies in the hard-fought software industry to make any inroads in basic programs against titans from the United States like Microsoft Corp.</p>
+<p>Star Office version 4.0 includes word processing, spreadsheets, graphic presentations as well as the ability to well to view and edit of documents on the World Wide Web, the popular graphical part of the global Internet.</p>
+<p>It will be available on March 24 in German, English, Dutch, Italian and French and includes a variety of features such as the ability to make 3D objects for company presentations or automatic formatting of electronic mail and Internet addresses.</p>
+<p>The new version of Star Office will cost 498 marks, the same as the previous version.</p>
+<p>&quot;This does not represent any kind of dumping pricing. I think we are well within the range of American products,&quot; said Boerries.</p>
+<p>The program's structure is based on the recognition that office workers are increasingly being connected to internal communications networks based on Internet technology, so-called intranets.</p>
+<p>The office suite puts all of the basic computer programs needed to do everyday office tasks in one place and are now becoming integrated with the Internet to allow editing and publishing of documents by office workers on intranets.</p>
+<p>One of the innovations of Star Office is that all of the separate applications share the same starting page. Unlike other programs where the user must switch between different programs, Star Office allows the user to stay in one place, the so-called Star Desktop, and use a variety of other programs.</p>
+<p>There are other features that will thrill Web addicts, though may be less practical in the office. In composing documents for the Web, authors often uses colourful graphics to decorate bulleted lists of separate items.</p>
+<p>Star Office contains a basic &quot;gallery&quot; of such graphical objects, sounds and small animation that can be easily placed in any type of document and published on the Web or intranet.</p>
+<p>Only time will tell if such peripheral innovations in Star Division's flagship product will allow the company to take a bigger share of the German and later the international market against fierce competition from the likes of Microsoft.</p>
+<p>Star Division also announced that it would release an application server based on the Java programming language for use on so-called Network Computers (NCs).</p>
+<p>The NC is the brainchild of Sun Microsystems, which designed the Java language, and is meant to allow a streamlined computer to use programmes that only exist on other computers.</p>
+<p>&quot;This programme shows people that they can really do something with an NC,&quot; said Boerries.</p>
+<p>But, because these programs run noticeably slower than a program on one's own computer, its success will depend on how powerful a computer one is using.</p>
+<p>-- Bonn Newsroom, +49 228 26097 150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

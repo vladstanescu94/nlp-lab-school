@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="572287" id="root" date="1997-05-09" xml:lang="en">
+<title>JAPAN: Japan's Fuji TV says asked to take stake in JSkyB.</title>
+<headline>Japan's Fuji TV says asked to take stake in JSkyB.</headline>
+<dateline>TOKYO 1997-05-09</dateline>
+<text>
+<p>Japan's Fuji Television said on Friday that it has been asked by Japan Sky Broadcasting Corp (JSkyB) to take a stake in the satellite broadcasting venture, but added that no agreement had yet been reached.  </p>
+<p>Earlier, JSkyB told Reuters the company was in talks with Fuji on possible capital participation in JSkyB and hoped to wind these up as early as possible, or at least during News Corp chairman Rupert Murdoch's visit to Japan next week, he said.</p>
+<p>JSkyB is a satellite broadcasting venture already linking Softbank Corp, News Corp Ltd and Sony Corp.</p>
+<p>It plans to start test-beaming in Japan this spring and to offer 150-channels next spring.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

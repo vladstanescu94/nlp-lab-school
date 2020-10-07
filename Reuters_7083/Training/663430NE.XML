@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="663430" id="root" date="1997-06-16" xml:lang="en">
+<title>JAPAN: Softbank, GeoCities to set up venture in Japan.</title>
+<headline>Softbank, GeoCities to set up venture in Japan.</headline>
+<dateline>TOKYO 1997-06-16</dateline>
+<text>
+<p>Japanese software firm Softbank Corp and GeoCities Corp said on Monday they had agreed to set up a joint venture in Japan later this month.</p>
+<p>GeoCities, a U.S. internet venture set up in November 1994, offers 37 cyber-communities of individuals' web pages grouped by themes.</p>
+<p>The Japanese joint venture will be established with starting capital of 200 million yen, with Softbank holding a 60 percent stake and GeoCities 40 percent, the companies said in a statement.</p>
+<p>GeoCities posted sales of about $50,000 in the U.S. in 1996. Sales are expected to jump to $5 million this year and to $20 million in 1998, the statement said.</p>
+<p>The joint venture will rely on corporate advertisements on its web pages for revenue, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

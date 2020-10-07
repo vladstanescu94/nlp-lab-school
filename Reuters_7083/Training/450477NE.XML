@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450477" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Novell names Sun's Eric Schimdt as CEO.</title>
+<headline>Novell names Sun's Eric Schimdt as CEO.</headline>
+<dateline>PROVO, Utah 1997-03-18</dateline>
+<text>
+<p>Novell Inc said Tuesday it named Sun Microsystems chief technology officer Eric Schmidt as Novell's new chairman and chief executive.</p>
+<p>The selection of Schmidt follows an extended search by the struggling networking software company after the departure last August of Robert Frankenberg as chairman.</p>
+<p>The company said John Young, who had served as Novell's interim chairman during the seven-month search, will become vice chairman of Novell. Young was the fomer president and chief executive of Hewlett-Packard Co.</p>
+<p>Schmidt is scheduled to join the company April 7.  </p>
+<p>Schmidt is credited as a driving force behind Sun's Internet software strategy and was instrumental in the development of Java technology, the Internet-based programming language that is fast becoming a software industry standard.</p>
+<p>A Wall Street analyst said Schmidt had been rumored to be on a short-list of three candidates for the top job at Novell.</p>
+<p>Schmidt faces an uphill climb to restore Novell to prominence in the computer industry. He must fend off encroachment by Microsoft Corp's Windows NT operating system and speed up Novell's efforts to embrace the Internet.  </p>
+<p>He is aided by Novell's strategic position in the emerging business of building internal corporate networks based on the company's enormous franchise of more than 50 million corporate PCs running its NetWare local area network operating system.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PROVO, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

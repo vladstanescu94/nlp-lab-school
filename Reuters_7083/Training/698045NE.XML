@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="698045" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: IKOS sees lower oper earnings, higher revs.</title>
+<headline>IKOS sees lower oper earnings, higher revs.</headline>
+<dateline>CUPERTINO, Calif. 1997-07-01</dateline>
+<text>
+<p>IKOS Systems Inc on Tuesday said it expected to report third-quarter operating income of about $2 million, or $0.22 per share, which excludes estimated charges of about $7 million.</p>
+<p>Analysts on average forecast third-quarter earnings before charges at $0.29 per share, according to a First Call survey.</p>
+<p>The company also said it expected revenues in the third quarter ended June 28 to rise to about $14.4 million from $11.9 million in the year-earlier period.</p>
+<p>It said the estimated $7 million in charges were related to its purchase of Zycad Corp's Lightspeed technology and related customer-transition costs.</p>
+<p>IKOS said the transition to direct selling in Japan has been slower than previously expected.</p>
+<p>In last year's third quarter, the company earned $1.5 million, or $0.20 per share, excluding charges.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55105" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Informix offers intranet database system.</title>
+<headline>Informix offers intranet database system.</headline>
+<dateline>MENLO PARK, Calif. 1996-09-16</dateline>
+<text>
+<p>Informix Software Inc said Monday it is offering its Informix-OnLine Workgroup Server database system for Microsoft Corp's Window NT 4.0 and various UNIX platforms operating systems.</p>
+<p>Separately, Informix said the OnLine Workgroup Server system would be the database platform in a new package of ready-to-use corporate intranet applications from Netscape Communications Corp.</p>
+<p>It said the OnLine Workgroup Server would provide the database for Netscape's AppFoundry, a collection of reusable tools for building network-based corporate intranet sofware.  </p>
+<p>Informix noted that it is the first relational database vendor to ship database software supporting Microsoft's new Windows NT operating system.</p>
+<p>UNIX support for OnLine Workgroup Server is immediately available for Sun Microsystems Inc's Solaris 2.5 operating environment for its UltraSPARC system and for Windows NT 4.0.</p>
+<p>It said support for International Business Machines Corp's AIX 4.1, Santa Cruz Operation Corp's SCO OpenServer Release 5, and Hewlett-Packard Co's HP-UX 10.x and Solaris 2.5 operating environment for Intel is scheduled to be available early in the fourth quarter of 1996.</p>
+<p>Combined with Netscape's market-leading FastTrack Server software and Netscape Navigator 3.0 client software, the INFORMIX-OnLine Workgroup Server enables companies to share and distribute information cost-effectively and quickly, via client/server or intranet applications.</p>
+<p>The INFORMIX-OnLine Workgroup Server for both NT and UNIX is priced at $295 per user, with a five-user minimum.  Informix also offers an Internet-based, unlimited-user license priced at $6,000 per central computer.  </p>
+<p>Informix stock was among the most active issues on the Nasdaq, trading up 1-1/4 at 27-1/2 at midday Monday on volume of 3.1 million shares.</p>
+<p>Netscape stock rose 4-3/8 points to 43-1/8 at midday.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

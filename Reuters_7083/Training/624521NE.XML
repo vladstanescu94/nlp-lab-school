@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="624521" id="root" date="1997-05-29" xml:lang="en">
+<title>ITALY: Over half of software in Italy is pirated - report.</title>
+<headline>Over half of software in Italy is pirated - report.</headline>
+<dateline>MILAN 1997-05-29</dateline>
+<text>
+<p>Over half of computer software applications used in Italy last year were pirated, an industry study said on Thursday.</p>
+<p>The report by the Business Software Alliance (BSA) and the Software Publishers Association (SPA) said 55 percent of the software in circulation in Italy was illegal resulting in a total loss of revenue of some 580 billion lire ($343.4 million).</p>
+<p>The European average percentage of illegal programmes installed on personal computers last year was 43 percent.</p>
+<p>The study released by BSA's Milan office said Italy was in fourth place in Europe based on rates of piracy behind Greece with 78 percent, Ireland 70 percent and Spain 65 percent.</p>
+<p>But in terms of loss of revenue, Italy ranked third behind Germany with 850 billion lire and France with 700 billion.</p>
+<p>Total turnover of the legal software market in Italy in 1996 was 4.6 trillion lire, a rise of five percent on 1995.</p>
+<p>The total of pirated software fell slightly last year from a 61 percent rate in 1995 mainly due to increased awareness of the risks involved and heightened vigilance by police, BSA said.</p>
+<p>The study said that on a global basis, nearly half of software applications used around the world last year were pirated, losing software companies over $11 billion.</p>
+<p>Commenting on the Italian figures, Microsoft Italy managing director Umberto Paolucci said that although there had been a slight inversion of the trend last year, &quot;the size of the phenomenon of piracy in Italy remains enormous and could compromise the future of the software sector.&quot;</p>
+<p>BSA Italy head Nuria Vea told Reuters that the main problem in Italy had been that small and medium-sized industries -- forming the vast majority of the country's entrepreneurial base -- had not realised the software they used was pirated. &quot;But they are now more aware,&quot; she said. ($ = 1688 Italian Lire)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

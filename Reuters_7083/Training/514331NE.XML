@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514331" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: Technology Modeling Q1 shr $0.06 vs $0.02.</title>
+<headline>Technology Modeling Q1 shr $0.06 vs $0.02.</headline>
+<dateline>SUNNYVALE, Calif. 1997-04-15</dateline>
+<text>
+<p>TECHNOLOGY MODELING ASSOCIATES, INC.</p>
+<p>		     CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>		    (in thousands, except per share amounts)</p>
+<p>						     Three Months Ended</p>
+<p>							    March 31,</p>
+<p>						   1997		  1996</p>
+<p>							  (Unaudited)</p>
+<p>REVENUE:</p>
+<p>     License				$ 3,322	     $ 2,769</p>
+<p>     Maintenance and other		1,401		   914</p>
+<p>     Professional services		  332		     0</p>
+<p>	   Total product revenue	  5,055		 3,683</p>
+<p>     Funded development			 0		    81</p>
+<p>	   Total revenue		    5,055		 3,764</p>
+<p>COST OF REVENUE:</p>
+<p>     License				    285		   254</p>
+<p>     Maintenance and other		  240		   230</p>
+<p>     Professional services		  261		    57</p>
+<p>     Funded development			 0		   135</p>
+<p>	   Total cost of revenue	    785		   676</p>
+<p>	   Gross profit		     4,269		 3,088</p>
+<p>OPERATING EXPENSES:</p>
+<p>     Sales and marketing		  1,728		 1,264</p>
+<p>     Research and development	   1,633		 1,146</p>
+<p>     General and administrative	   491		   426</p>
+<p>	   Total operating expenses     3,852		 2,836</p>
+<p>	   Income from operations	   417		   252</p>
+<p> OTHER INCOME, net			    445		    10</p>
+<p>	   Income before provision for</p>
+<p>	    income taxes			862		   262</p>
+<p> PROVISION FOR INCOME TAXES		 353		   142</p>
+<p>	   Net income			   509		   120</p>
+<p> NET INCOME PER SHARE			0.06		  0.02</p>
+<p>WEIGHTED AVERAGE COMMON AND COMMON</p>
+<p>     EQUIVALENT SHARES		    8,480		 5,510</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

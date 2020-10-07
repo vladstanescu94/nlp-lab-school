@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="316990" id="root" date="1997-01-18" xml:lang="en">
+<title>USA: Computer makers eye Hollywood market.</title>
+<headline>Computer makers eye Hollywood market.</headline>
+<byline>Sue Zeidler</byline>
+<dateline>VENICE BEACH, Calif 1997-01-17</dateline>
+<text>
+<p>Workstations made by Silicon Graphics Inc -- long a staple of the Hollywood special effects industry -- are facing sharp competition as other computer makers eye the lucrative market.</p>
+<p>&quot;SGI is our pre-eminent platform. But I'm not wedded to any firm,&quot; said Scott Ross, chief executive of Digital Domain, an Oscar-nominated special effects company partly-owned by International Business Machines Corp. &quot;I'm wedded to performance and price. If you can show me something that performs better and costs less, I'll say SGI who?&quot;  </p>
+<p>Because moviegoers are infatuated with special effects, studios have thrown billions of dollars at a handful of sophisticated firms like Digital Domain, film director George Lucas's Industrial Light and Magic and Pacific Data Images.</p>
+<p>These companies, in turn, have invested heavily in computer graphics machines from Silicon Graphics, which makes high-end workstations costing as much as $100,000 or more, and software that costs as much as the hardware. Between 15 percent and 20 percent of Silicon Graphics' $2.92 billion 1996 sales came from Hollywood and the animation industry.  </p>
+<p>Silicon Graphic's sales to the entertainment industry consist of these high-end workstations, as well as lower-priced units priced from $6,000 to $20,000.</p>
+<p>But over the past year, Hollywood started to look elsewhere for graphics gear.</p>
+<p>The once humble personal computer has been gaining horsepower thanks to a new generation of speedy Pentium microprocessors from Intel Corp. Some PC makers are putting two or four Pentiums Pro microprocessors in one PC, producing enough power to challenge top-of-line Silicon Graphic machines at a fifth of the price.  </p>
+<p>These souped-up PCs also run relatively cheap software based on Microsoft Corp's widely available Windows NT software standard.</p>
+<p>&quot;We're always looking for the most elegant solution that's the least amount of money. SGI has proven the most elegant, but not for the least amount of money,&quot; said Ross, who formed the firm with director James Cameron and special effects artist Stan Winston in 1993. IBM and Cox Enterprises, parent of Cox Communications Inc, own 30 percent each.</p>
+<p>Digital Domain has 140 Silicon Graphics-based workstations and 20 Windows NT-platform based stations.  </p>
+<p>&quot;The mix is changing slowly and we are integrating the NT platform into the work of all three of our divisions,&quot; said a Digital Domain spokesman.</p>
+<p>Said Patty Blau, executive in charge of production at Industrial Light &amp; Magic, the company owned by special effects guru George Lucas: &quot;We're in a constant race to upgrade machinery as clients demand higher and higher effects. The expense is never paid off and you're always chasing your tail. Most of our computers are Silicon Graphics, but we're always looking out for the latest and greatest.&quot;  </p>
+<p>What's more, other high-end workstation makers are going after Silicon Graphics' business. After ignoring the graphics market for years, Sun Microsystems Inc is pitching machines specialized for the task.</p>
+<p>Pixar Animation Studios supplemented its arsenal of Silicon Graphics machines with over 100 Sun Sparc workstations to generate animation for the hit &quot;Toy Story.&quot;</p>
+<p>Greg Estes, director of marketing for advanced entertainment systems at Silicon Graphics said Silicon is addressing the market's needs with faster and less expensive equipment.</p>
+<p>&quot;We've come out with new architectures and changed our price performance in October. Our new product line is selling like hot cakes as is our server line,&quot; Estes said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="I9741112">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VENICE BEACH, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="693327" id="root" date="1997-06-27" xml:lang="en">
+<title>USA: Bay Networks' ad agency resigns account.</title>
+<headline>Bay Networks' ad agency resigns account.</headline>
+<dateline>SANTA CLARA, Calif. 1997-06-27</dateline>
+<text>
+<p>Bay Networks Inc said Friday its advertising agency EURO RSCG Dahlin Smith White of Salt Lake City resigned its account.</p>
+<p>&quot;We respect DSW's decision in this amicable parting and wish them continued success,&quot; said Jeffrey Brooks, a Bay vice president of brand management, in a statement.</p>
+<p>A spokeswoman for privately held Dahlin Smith White spokeswoman could not immediately say how much the account generated in annual billings.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

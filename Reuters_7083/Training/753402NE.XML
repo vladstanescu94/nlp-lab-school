@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753402" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - SELECT Software Tools Q2 results.</title>
+<headline>TABLE - SELECT Software Tools Q2 results.</headline>
+<dateline>IRVINE, Calif. 1997-07-24</dateline>
+<text>
+<p>SELECT Software Tools</p>
+<p>		  Consolidated Statements of Operations Data</p>
+<p>		     In thousands, except per share data</p>
+<p>			   Three months ended	Six months ended</p>
+<p>				  June 30,		   June 30,</p>
+<p>			 1997    1996   1995    1997   1996    1995</p>
+<p>Revenues</p>
+<p> License fees     $4,259 $2,649   $980  $8,724 $4,616  $2,110</p>
+<p>Services and</p>
+<p>  maintenance	1,925    765    268   3,613  1,297     432</p>
+<p> Total revenues    6,184  3,414  1,248  12,337  5,913   2,542</p>
+<p>Cost of revenues</p>
+<p> License fees	  263    184     57     491    284     115</p>
+<p>Services and</p>
+<p>  maintenance	  982    402    241   1,733    797     374</p>
+<p>Total cost of</p>
+<p>  revenues	   1,245    586    298   2,224  1,081     489</p>
+<p> Gross profit	4,939  2,828    950  10,113  4,832   2,053</p>
+<p>Operating expenses</p>
+<p>Sales and marketing</p>
+<p>			 3,358  1,676  1,236   6,405  2,984   2,435</p>
+<p>Research and</p>
+<p>  development	1,485    404    220   2,694    773     401</p>
+<p>General and</p>
+<p>  administrative     635    339    282   1,153    663     523</p>
+<p>Total operating</p>
+<p>  expenses	   5,478  2,419  1,738  10,252  4,420   3,359</p>
+<p>Operating profit</p>
+<p>  (loss)	    (539)    409  (788)   (139)    412  (1,306)</p>
+<p> Interest, net     (193)    104     80   (415)    227     145</p>
+<p>Profit (loss) before</p>
+<p>  tax		 (346)    305  (868)     276    185  (1,451)</p>
+<p>Provision for income</p>
+<p>  tax		   (93)     60     --	--     60	--</p>
+<p> Net profit (loss) (253)    245  (868)     276    125 (1,451)</p>
+<p>Net profit (loss) per</p>
+<p>  share	     (0.02)   0.03 (0.10)    0.03   0.01  (0.17)</p>
+<p>Shares used in</p>
+<p>computing per share</p>
+<p>  amount	    10,317  8,856  8,528  10,697  8,856   8,528</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

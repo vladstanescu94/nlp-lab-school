@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420181" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: Indus Group buys stake in TenFold.</title>
+<headline>Indus Group buys stake in TenFold.</headline>
+<dateline>SAN FRANCISCO 1997-03-05</dateline>
+<text>
+<p>The Indus Group said it acquired a 10 percent stake in TenFold Corp, a software development firm based in Salt Lake City, Utah.</p>
+<p>Indus did not disclose financial terms of the agreement, but said that with its investment it obtains a &quot;perpetual and unrestricted license&quot; to use the TenFold Architecture. In addition, Indus President and Chief Executive Officer Robert Felton gains a seat on the TenFold board of directors.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

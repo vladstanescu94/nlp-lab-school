@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="134537" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Viewlogic Q3 sales, net edge lower.</title>
+<headline>Viewlogic Q3 sales, net edge lower.</headline>
+<dateline>MARLBORO, Mass. 1996-10-22</dateline>
+<text>
+<p>VIEWLOGIC SYSTEMS INC</p>
+<p>				3 Mos ended 9/30     9 Mos ended 9/30</p>
+<p>				  1996    1995	     1996    1995</p>
+<p> Revs: Software	  $21,023 $22,038	  $58,589 $56,628</p>
+<p>	 Services &amp; other 13,404  11,142	   37,137  31,878</p>
+<p> Total Revenue	    34,427  33,180	   95,726  88,506</p>
+<p> Net income		  3,124   3,304	    5,775   5,122</p>
+<p> Net EPS			0.18    0.19	     0.33    0.30</p>
+<p> Wgtd avg shrs	    17,403  17,592	   17,250  17,218</p>
+<p>			 (In thousands, except per share data)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

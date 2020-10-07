@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="387172" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: Blyth says Konrad to assume CFO duties.</title>
+<headline>Blyth says Konrad to assume CFO duties.</headline>
+<dateline>FOSTER CITY, Calif. 1997-02-18</dateline>
+<text>
+<p>Blyth Holdings Inc, a supplier of tools and components for client/server and Internet applications, on Tuesday said board member Bill Konrad will assume the duties of chief financial officer.</p>
+<p>Bill Glynn will continue as vice president of finance reporting to Konrad, Blyth said in a statement.</p>
+<p>The CFO's duties had been handled by Steve Lorentzen until his announced resignation as president and chief operating officer on February 5, a company spokesman said.</p>
+<p>Blyth also said David Colby, formerly a director and chief financial officer for American Medical Response Inc, has joined Blyth's board of directors.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOSTER CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

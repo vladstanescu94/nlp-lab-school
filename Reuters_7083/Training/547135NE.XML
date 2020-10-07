@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="547135" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: Microsoft working to make PCs into TVs.</title>
+<headline>Microsoft working to make PCs into TVs.</headline>
+<dateline>SAN FRANCISCO 1997-04-29</dateline>
+<text>
+<p>Microsoft Corp plans to put software in personal computers to enable them to get television broadcasting, a senior vice president for Microsoft said Tuesday.</p>
+<p>The world's biggest PC software company plans to have the software in about 40 million PCs by the year 2000, Craig Mundie, Microsoft senior vice president, told investors at the Hambrecht &amp; Quist Technology conference in San Francisco.</p>
+<p>&quot;Microsoft has been working for some time to have better PCs and now better TVs,&quot; Mundie said.  </p>
+<p>Mundie reaffirmed the company's plans to turn PCs into souped-up TVs that can mix broadcast video with up-to-the-minute information from the World Wide Web.</p>
+<p>Turning the PC into a beefy TV is one of the best hopes for the computer industry to keep its double-digit revenue growth going.</p>
+<p>In March, Microsoft, chipmaker Intel Corp and Compaq Computer Corp  CPQ.O said they work with each other to come up with the software and hardware to enable PCs to act like TVs.</p>
+<p>Earlier this month, Microsoft also paid $425 million to buy WebTV Networks Inc, a closely held maker of set-top boxes that let TV viewers browse the Web.</p>
+<p>Mundie demonstrated software that lets broadcasters send their audio and video programs to viewers through the Web.</p>
+<p>((--Kourosh Karimkhany, in San Francisco, 415 269 6931))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

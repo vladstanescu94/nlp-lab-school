@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217986" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Integrated to consolidate Diab, take charge.</title>
+<headline>Integrated to consolidate Diab, take charge.</headline>
+<dateline>SUNNYVALE, Calif. 1996-11-26</dateline>
+<text>
+<p>Integrated Systems Inc said Tuesday it agreed to a deal with executives of a previously acquired firm, Diab Data Inc, which calls for it to make a one-time payment in exchange for termination of future payments Integrated Systems was to make through December 1998.</p>
+<p>The company said it will take a one-time pretax charge of approximately $5 million during the current quarter, ending November 30, 1996, to cover these payments and related costs.</p>
+<p>Integrated said this restructuring will allow it to begin consolidating the results of Diab Data rather than continuing to treat Diab Data results on an equity basis.</p>
+<p>Previously, Diab Data revenue and income were not included in Integrated Systems' operating results.</p>
+<p>Integrated stock gained two to 19-1/2 in early trading.</p>
+<p>The company is a supplier of embedded software used to operate a variety of electronic products.</p>
+<p>-- E. Auchard, Wall Street bureau, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

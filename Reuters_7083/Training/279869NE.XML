@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="279869" id="root" date="1996-12-30" xml:lang="en">
+<title>USA: Greentree Software gets new orders.</title>
+<headline>Greentree Software gets new orders.</headline>
+<dateline>MINNEAPOLIS 1996-12-30</dateline>
+<text>
+<p>Greentree Software Inc said Monday it received new orders for its products in the last eight weeks with initial revenues seen at $550,000 compared to the company's product sales for the fiscal year ended May 31, 1996 of $125,000.</p>
+<p>&quot;These new orders were placed by companies looking to boost profitability by significantly reducing purchasing costs,&quot; said Greentree chief executive officer Joe Mooney.</p>
+<p>The orders came from Viacom Inc, Pulitzer Publishing Co, Pacific Press and others.</p>
+<p>Greentree Software develops and markets workgroup application software products for purchasing and materials management.</p>
+<p>	 ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303754" id="root" date="1997-01-13" xml:lang="en">
+<title>CANADA: Corel, Netscape set alliance.</title>
+<headline>Corel, Netscape set alliance.</headline>
+<dateline>TORONTO 1997-01-13</dateline>
+<text>
+<p>Corel Corp and Netscape Communications Corp said on Monday that they had agreed to work together on a new suite of computer software applications to be released later this year.</p>
+<p>Corel has licensed Netscape Communicator, Netscape's new suite of client software, and will &quot;integrate it tightly&quot; with Corel's WordPerfect Suite 8 and Corel Office Professional 8, Corel said.</p>
+<p>Joint development will focus on combining Netscape's open-standards-based features, such as email and groupware, with Corel's desktop products, the companies said.</p>
+<p>&quot;Our combined efforts will produce the only desktop productivity suite that is completely open and standards-based, a concept in sharp contrast to the competition, said Michael Cowpland, Corel's president.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

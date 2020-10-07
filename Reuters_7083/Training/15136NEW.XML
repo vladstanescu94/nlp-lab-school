@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15136" id="root" date="1996-08-26" xml:lang="en">
+<title>REPUBLIC OF IRELAND: CBT appoints James Buckley as president and CEO.</title>
+<headline>CBT appoints James Buckley as president and CEO.</headline>
+<dateline>DUBLIN 1996-08-26</dateline>
+<text>
+<p>Dublin-based software company, CBT Group, said on Monday that it had appointed James Buckley as president and chief operating officer of the group, with effect from September 3.</p>
+<p>&quot;We are very pleased that Jim (Buckley) has agreed to join CBT. He has a wealth of experience running a large complex business, which will be of enormous help to us as we move into the next stage of our development,&quot; CBT chairman William McCabe said in a statement.</p>
+<p>Buckley was formerly president of Apple Americas and senior vice president of Apple Computer Inc, CBT said.  </p>
+<p>CBT provides interactive education software designed for technology education and training.</p>
+<p>-- Dublin Newsroom +353 1 676 9775</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

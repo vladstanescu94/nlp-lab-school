@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259758" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Verity to use Xerox LinguistX.</title>
+<headline>Verity to use Xerox LinguistX.</headline>
+<dateline>PALO ALTO, Calif. 1996-12-16</dateline>
+<text>
+<p>A Xerox Corp software venture said it licensed its language processing software to Verity Inc for use in Verity's search and retrieval computer programs.</p>
+<p>InXight Software Inc, the Xerox software venture, said its LinguistX technology will let computer users find specific documents or Internet sites by typing in questions in regular English sentences.  </p>
+<p>Verity will use the natural language processing capability in its &quot;search engines&quot; -- computer programs that act as library card catalogs and keep track of huge amounts of information stored in computers.</p>
+<p>Terms of the transaction were not disclosed.</p>
+<p>The agreement is part of InXight's drive to aggressively sell technology developed at Xerox's famed research and development center, said Mohan Trikha, InXight's president.</p>
+<p>Although Xerox's Palo Alto Research Center invented devices such as the laser printer, it let other companies reap billions off its innovations. InXight is one of 10 companies Xerox has set up in the past year to profit from its technologies.</p>
+<p>Trikha said InXight plans to license its natural language processing technology to software companies and Internet sites.</p>
+<p>&quot;The over-abundance of information creates a very large opportunity for products and companies that can sort out the clutter,&quot; Trikha said.</p>
+<p>-- Kourosh Karimkhany, in Palo Alto, + 1 415 846-5401</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

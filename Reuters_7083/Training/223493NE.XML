@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="223493" id="root" date="1996-11-28" xml:lang="en">
+<title>GERMANY: German police seek 12 after raids on computer gang.</title>
+<headline>German police seek 12 after raids on computer gang.</headline>
+<byline>Neal Boudette</byline>
+<dateline>MUNICH, Germany 1996-11-28</dateline>
+<text>
+<p>European police are seeking 12 members of an international computer chip counterfeiting gang that was smashed this week in Germany and nine other countries, Bavarian law officials said on Thursday.</p>
+<p>The raids, part of an operation code-named &quot;Goldfish,&quot; resulted in the arrest of 12 others suspected of selling counterfeit Pentium chips and pirated software programmes as well as fraud, money-laundering and tax evasion, Bavarian prosecutor Hubert Vollmann told a news conference.</p>
+<p>Police did not release the names of the suspects.</p>
+<p>The highly-organised ring specialised in smuggling old Intel Corp Pentium chips into Europe and selling them as new, Vollmann said. It also sold illegal copies of Microsoft Corp programmes and counterfeit Hercules graphics adapters, he said.</p>
+<p>Vollmann said the ring caused damages of several millions of dollars in lost sales.</p>
+<p>On Tuesday and Wednesday, more than 2,000 law enforcement officals confiscated &quot;truckloads&quot; of files, computer disks and equipment in Germany, France, Italy and Belgium, he said.</p>
+<p>The raids centered on offices and apartments near Munich in southern Germany, and in the state of North Rhine-Westphalia, Vollmann said.</p>
+<p>Three Germans and five Asians were arrested in Germany. Four other arrests were made in France.</p>
+<p>The raids were the culmination of a three-year probe that began when a Laotian businessman reported he was robbed of 30,000 marks ($19,570) in 1993. He came under suspicion after two of his attackers told police they had robbed him of 500,000 marks.</p>
+<p>A series of unusually large bank transactions by the man's companies led to an investigation into tax evasion and money laundering, police said.</p>
+<p>In addition to the 12 individuals under arrest and the 12 still at large, 16 others were arrested in the raids on charges unrelated to chip counterfeiting, Vollmann said.</p>
+<p>The chip counterfeiting ring operated a multi-tiered organisation that bought used 133-megahertz Pentium chips in Asia and retouched them in Hong Kong to look like new 166- megahertz processors, Vollmann said.</p>
+<p>The group shipped the chips to Europe by courier to avoid customs and taxes, and sold them to personal computer companies, he said.</p>
+<p>Intel's Pentium chips measure about one-inch square. The 166 megahertz version sells for about 400 marks more than the 133 megahertz version. Intel is cooperating with the investigation, a company spokesman in Munich said.</p>
+<p>Vollmann said the gang may have avoided more than a million marks in customs and taxes.</p>
+<p>Illegal copying of computer parts and computer programmes is increasing in Germany, said Werner Paul, an officer in the Bavarian Crime Office's computer crime unit.</p>
+<p>Programmes are often copied in Germany and sent over the Internet to other countries for reproduction, Paul said.</p>
+<p>The Business Software Alliance, a group of major software companies, said damages from pirated software in Germany totaled 1.2 billion marks in 1995, up 15.6 percent from 1994. ($1=1.5330 Mark)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

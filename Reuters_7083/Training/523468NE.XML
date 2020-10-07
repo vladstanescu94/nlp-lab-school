@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="523468" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: Intergraph Corp Q1 net, shr loss widen.</title>
+<headline>Intergraph Corp Q1 net, shr loss widen.</headline>
+<dateline>HUNTSVILLE, Ala. 1997-04-21</dateline>
+<text>
+<p>Quarter Ended March 31 (Unaudited)</p>
+<p>							1997	    1996</p>
+<p> Revenue				   $252,758,000  $256,706,000</p>
+<p> Loss from operations		  (24,204,000)  (16,737,000)</p>
+<p> Gain on sale of stock investment	     ---     9,373,000</p>
+<p>Other non-operating income (expense)</p>
+<p>					     ( 2,085,000)	     973</p>
+<p> Income taxes					 ---	     ---</p>
+<p> Net loss				(26,289,000)  ( 6,391,000)/a</p>
+<p> Net loss per share			     (.55)	 (.14)/a</p>
+<p>Weighted average shares outstanding</p>
+<p>						 47,758,000    46,902,000</p>
+<p>(a) Includes a gain of $9,373,000 ($.20 per share) from the sale of a stock investment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTSVILLE, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

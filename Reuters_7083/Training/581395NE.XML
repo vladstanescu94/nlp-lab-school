@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581395" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: HP, Microsoft tout graphics advance.</title>
+<headline>HP, Microsoft tout graphics advance.</headline>
+<dateline>PALO ALTO, Calif. 1997-05-14</dateline>
+<text>
+<p>Hewlett-Packard Co. and Microsoft Corp. said they will unveil graphics software technology on Thursday which they said boosts performance by 100 times over existing systems.</p>
+<p>The technology will enable industrial designers display whole working parts of complex products, such as automobiles or aircraft, and manipulate them in real time.</p>
+<p>Previously, this has been only possible on the most powerful, custom-made computing systems, but now it will be available on personal computers and engineering workstations.</p>
+<p>&quot;The complexity of an entire car is orders of magnitude beyond the complexity of a car door, for example,&quot; said Ted Wilson, research and development manager at Hewlett-Packard's workstation division in Corvallis, Oregon.</p>
+<p>The technology could help reduce the cost of sophisticated modeling techniques such as in aircraft design, where computer simulation design is a cost-effective replacement to building mockup models.</p>
+<p>Wilson said the system, dubbed DirectModel and developed jointly by HP and Engineering Animation Inc., enables collaborative engineering projects to be carried out using a variety of systems.</p>
+<p>Through a cross-licensing agreement, Microsoft will license DirectModel for integration into its DirectX multimedia framework and HP has licensed DirectX from Microsoft for use in its HP-UX system.</p>
+<p>The agreements provides an industry standard for Unix and Microsoft Windows NT interoperability, and HP said it has chosen 3-D graphics tools and applications supplier Template Software Inc. to supply HP DirectModel for Unix platforms that compete with HP's HP-UX.</p>
+<p>These include Unix from Digital Equipment Corp., International Business Machines Corp., Silicon Graphics Inc. and Sun Microsystems Inc.</p>
+<p>Mathew Rizai, chief executive officer of Engineering Animation, said work on the technology has been part of his company's initiative to handle particularly complex 3-D images.</p>
+<p>The technology is also as a challenge to Silicon Graphics Inc.'s OpenGL Optimizer programming interface, although Silicon Graphics said they supported efforts to extend and accelerate graphics performance.</p>
+<p>John Shimph, a manager in the OpenGL group, said OpenGL Optimizer had been used to boost application performance by two to 10 times, and in some cases over 100 times.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

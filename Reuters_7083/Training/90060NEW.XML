@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90060" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: RESEARCH ALERT - Summit Medical downgraded.</title>
+<headline>RESEARCH ALERT - Summit Medical downgraded.</headline>
+<text>
+<p>--Robertson Stephens healthcare information systems analyst Michael Samols said he downgraded Summit Medical Systems Inc to market performer from buy.</p>
+<p>--Shares in the medical outcomes data management systems concern were off 5-3/4 to seven.</p>
+<p>--&quot;You've got a credibility issue here,&quot; Samols said. Changes are under way at Summit, but uncertainty surrounds a new product line it is launching and its future financial outlook, he said.</p>
+<p>--&quot;They are unfortunately in the position now where they are a show-me story from a financial standpoint,&quot; he said.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

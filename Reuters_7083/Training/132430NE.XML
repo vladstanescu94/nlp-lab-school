@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132430" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Structural Dynamics Q3 share rises.</title>
+<headline>Structural Dynamics Q3 share rises.</headline>
+<dateline>MILFORD, Ohio 1996-10-22</dateline>
+<text>
+<p>(000, except per share data)</p>
+<p>				   Three Months	   Nine Months</p>
+<p>				     1996     1995     1996     1995</p>
+<p> Total revenue		   71,777  55,747  203,495  155,559</p>
+<p> Cost of revenue		 22,375  17,818   62,615   46,714</p>
+<p> Gross profit		    49,402  37,929  140,880  108,845</p>
+<p>Operating Expenses:</p>
+<p>   Selling and marketing     27,565  24,224   79,854   68,616</p>
+<p>   Research and development   8,514   4,991   22,795   15,713</p>
+<p>   G&amp;A				3,787   3,353   12,062   10,311</p>
+<p>   Total operating expenses  39,866  32,568  114,711   94,640</p>
+<p> Operating income		 9,536   5,361   26,169   14,205</p>
+<p>Equity in earnings (loss)</p>
+<p> of affiliates		    (630)   2,144     (89)    (858)</p>
+<p> Acquisition costs		    -	 -  (1,102)	  -</p>
+<p> Other income		     1,309     110    2,017    1,383</p>
+<p> Income before income taxes  10,215   7,615   26,995   14,730</p>
+<p> Income tax expense	     1,836   1,726    5,653    5,325</p>
+<p>	Net income		  8,379   5,889   21,342    9,405</p>
+<p> Net income per share	     .24     .18	.61	.29</p>
+<p> Outstanding shares	     34,948  33,176   34,760   32,605</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILFORD, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

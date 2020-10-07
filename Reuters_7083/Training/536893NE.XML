@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536893" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Software Artistry Inc Q1 profit vs loss.</title>
+<headline>Software Artistry Inc Q1 profit vs loss.</headline>
+<dateline>INDIANAPOLIS 1997-04-23</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p> Three Months Ended   March 31,	 1997		1996</p>
+<p>Revenues:</p>
+<p>Initial license fees		     $5,284	   $3,590</p>
+<p>Renewal license fees and services     3,396	    2,482</p>
+<p>    Total revenues			  8,680	    6,072</p>
+<p>Expenses:</p>
+<p>Costs of license fees			 405		385</p>
+<p>Costs of renewal license</p>
+<p>  fees and services			 1,541	    1,189</p>
+<p>Sales and marketing			 4,349	    3,132</p>
+<p>Product development			 1,358	    1,017</p>
+<p>General and administrative		  727		748</p>
+<p>    Total operating expenses	    8,380	    6,471</p>
+<p>    Income (loss) from operations	 300	    (399)</p>
+<p>    Interest income, net		    160		175</p>
+<p>    Income (loss) before income taxes   460	     (224)</p>
+<p>Provision for (benefit of) income taxes 156		(76)</p>
+<p>    Net income (loss)			$304	    $(148)</p>
+<p>Primary per share (loss):		 $0.04	   $(0.02)</p>
+<p>Primary shares				7,510	    7,567</p>
+<p>Diluted per share			   $0.04	   $(0.02)</p>
+<p>Diluted shares				7,566	    7,567</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46688" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Semiconductor stocks firm after book-to-bill rise.</title>
+<headline>Semiconductor stocks firm after book-to-bill rise.</headline>
+<dateline>PALO ALTO, Calif. 1996-09-11</dateline>
+<text>
+<p>Shares of the U.S. computer chipmakers received a modest boost after the industry reported its book-to-bill ratio firmed in August, despite warnings of a profits shortfall from Motorola Inc.</p>
+<p>Shares of microprocessor giant Intel Corp hit a 52-week high of 84-7/8 and was trading up 5/16 at 84-5/8 at midsession, while Micron Technology Inc, the Idaho-based memory chip maker, jumped 1-1/8 to 22.</p>
+<p>Intel was the second most actively traded share on the Nasdaq market. Motorola, which said third-quarter earnings may be significantly below its second quarter, fell 1-5/8 to 49.  </p>
+<p>The Semiconductor Industry Association said after the market close on Tuesday the industry's book-to-bill ratio rose to 0.90 in August from a revised July ratio of 0.86.</p>
+<p>The index means that for every $100 in shipments last month, semiconductor firms received $90 in new orders. An index above 1.00 normally means demand for computer chips is expanding while a ratio below one means demand is slowing.</p>
+<p>Industry analysts had expected the ratio to be between 0.86 and 0.92. Many analysts said the number was a positive sign, since new orders rose fractionally on a sequential basis in a summer month when demand is usually slack.  </p>
+<p>&quot;Other companies that may struggle in Q3 include VLSI, Texas Instruments, Novellus Systems, Lam Research and Applied Materials,&quot; Klauer said.</p>
+<p>VLSI Technology rose 5/16 at 13-1/16, Texas Instruments edged 1/8 higher to 45-5/8, Novellus Systems Inc rose 1/4 to 36, Lam rose 1/8 to 23-1/2 and Applied Materials rose 5/16 3/8 to 23-5/8.</p>
+<p>Although the monthly book-to-bill figure is a key industry indicator, many analysts and companies are critical that it only covers the America region, rather than the global market, and is a broad measure across all semiconductor products.  </p>
+<p>&quot;Our business is fundamentally microprocessors but book-to-bill is broader from a product point of view,&quot; an Intel spokesman said. &quot;It's too broad for us from a product point of view and too narrow from a geographic standpoint.&quot;</p>
+<p>The Intel spokesman declined to discus the company's third quarter financial performance in detail, but said the company has not changed its perspective on the overall market.</p>
+<p>&quot;We have said that we generally see a robust PC market continuing and we've said fundamentally in agreement with observers who saw PC market growth in the high teens to 20 percent range,&quot; he said.</p>
+<p>Intel noted the PC market it supplies is expected to get a boost in the second half from shipment of Microsoft Corp's Windows NT 4.0 upgrade and from &quot;the usual strong consumer buying season during Q4 and the holiday.&quot;</p>
+<p>-- sam.perry@reuters.com, Palo Alto Bureau +415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

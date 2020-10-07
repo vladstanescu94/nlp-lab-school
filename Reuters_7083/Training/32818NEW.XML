@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32818" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: FEATURE - Businesses flock to intranets.</title>
+<headline>FEATURE - Businesses flock to intranets.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-09-04</dateline>
+<text>
+<p>Surfing the Internet may be the coolest recreation around, but in the work-a-day world businesses are flocking to intranets.</p>
+<p>The more serious offspring of the flamboyant Internet, intranets are corporate networks built with the same software standards. But they are where the big money is being made by virtually any company in the Internet market.</p>
+<p>&quot;Intranets -- business to business communications -- this is where the money is,&quot; said John Warnock, chief executive officer for Adobe Systems Inc, a Mountain View, California, software firm whose markets used to be largely the newspaper and publishing industries. Adobe's growth is coming from corporate publishing on intranets, he added.</p>
+<p>James Clark, chairman of Netscape Communications Corp, a company known for the popularity of its Internet browser among consumers echoed Warnock's assessment.</p>
+<p>&quot;More business opportunities than we can possibly handle are coming from the business side,&quot; he said. Netscape gets 80 percent of its sales from business intranets, said Clark.</p>
+<p>INTRANETS BOOST DECISIONS, PRODUCTIVITY, COMPANIES SAY</p>
+<p>By using the openness of Internet-style networks and adding security layers and software for managing information flow, companies find they can share information with employees and selected outsiders, such as distributors, on everything from employee benefits to product designs and pricing.</p>
+<p>They find intranets speed up decision-making and boost productivity.</p>
+<p>For instance Chrysler Corp has just entered a multi-million dollar contract with Netscape for 6,000 copies of its server software, licence to use its browser worldwide and consulting services for a corporate intranet.</p>
+<p>Susan Unger, Chrysler's executive director of information services, said the plan is to connect not only Chrysler's tens of thousands of employees worldwide, but also suppliers and auto dealerships. Among other things, she said, Chrysler expects a much more efficient way of communicating with suppliers about newly-developed parts and incorporating them in its auto production lines.</p>
+<p>This year in particular, corporations are allocating &quot;enormous budgets&quot; to building inhouse intranets, said venture capitalist John Doerr of Kleiner Perkins Caufield &amp; Byers.</p>
+<p>A survey by Network World magazine and International Data Corp found that 89 percent of large corporations are building intranets this year, spending an average $2.6 million.</p>
+<p>In Silicon Valley dozens of companies hoping to cash in on the intranet craze are publicising &quot;intranet strategies&quot; and customising products for intranets. Oracle Corp, Sun Microsystems Inc, NetManage Corp, Cisco Systems Inc, Intel Corp and, outside the Valley, Microsoft Corp and Novell Inc. are just some who have promoted intranet products.</p>
+<p>For these companies that offer software for browsing and hosting Web sites, or writing applications on the Web, networking equipment, security and transaction software, or software for managing data flows on intranets, the trend toward intranets is a bonanza.</p>
+<p>According to Zona Research Inc, sales this year of software and hardware just for intranet servers -- the computers that host Web sites -- are three times sales of such software and hardware for Internet servers, at $2.6 billion compared with $979 million.</p>
+<p>Even International Business Machines Corp, which bought the former Lotus Development Corp last year for $3.5 billion because it wanted the Lotus Notes software to enhance its corporate communications products, has been forced to react to the growth of intranets. IBM added Internet features to its latest version of Notes, 4.0, and is working on a new version, 4.5, that would be entirely based on open, intranet standards.</p>
+<p>Novell Inc., another provider of network groupware, also has found it needed to respond to a threat from intranets by gradually opening its NetWare networking products. Two weeks ago Novell took a bigger plunge and announced a completely Internet-standards based version of NetWare called InternetWare and a slew of applications and management tools for it.</p>
+<p>&quot;It's survival,&quot; said Novell executive vice president Steve Markman, explaining the move.</p>
+<p>Industry analysts agree.</p>
+<p>COMPANIES MUST REVISE PRODUCTS TO COMPETE</p>
+<p>&quot;Companies like IBM's Lotus and Novell are not willing to take the risk that they will lose so they are increasingly revising their products to be open standards based,&quot; infusing more intranet qualities into their once proprietary systems, said analyst Mark Levitt of International Data Corp, adding that &quot;the battle for the enterprise&quot; will soon be between these quasi-proprietary systems and pure intranets.</p>
+<p>Currently, intranets do not have the security, reliability or manageability of the groupware systems of Lotus Notes or NetWare, he said, nor is there an automatic way to merge new intranets with companies existing databases.</p>
+<p>That, however, is where the huge market for intranet products emerges.</p>
+<p>Dozens of companies are addressing those very issues of security, encryption, manageability in new intranet products.</p>
+<p>The wild and anarchistic nature of the Internet -- in which anybody can participate in an online conversation and security is lax -- won't do for most business uses.</p>
+<p>Consequently, one of the hottest intranet markets is for security and encryption software to create firewalls between a corporate intranet and the rest of the Internet and to limit with encryption the people who have access to your intranet.</p>
+<p>The second big market includes equipment to add reliability to networks, a market addressed by Cisco.</p>
+<p>Businesses cannot afford to have intranets suffer the bottlenecks from capacity overload the Internet experiences.</p>
+<p>The lure and promise of intranets comes partly from the shortfalls of its predecessor, client-server computer networks installed in the early 1990s, and partly from the phenomenal success of the Internet in democratising information access.</p>
+<p>Corporations spent huge sums to build client/server distributed computing networks, putting a PC on every employee's desk and connecting them on local area networks (LAN) hooked to servers. These systems allow co-workers on the same LAN to collaborate, get access to the same information and to e-mail each other.</p>
+<p>But typically LANS are not interoperable with others' LANS because they have been built department by department, using proprietary software and hardware systems. The result is often that various departments within one company cannot share databases, unless a costly administrative effort is taken on to adapt the software on each PC and the communications software as well as hardware to get the LANs to communicate.</p>
+<p>&quot;One of the problems that prompted the interest in intranets was the lack of interoperability between networks,&quot; said IDC's Levitt.</p>
+<p>&quot;Before intranets, there were islands of information,&quot; said Andy Grove, chief executive officer of Intel Corp and an advocate of intranets. Within Intel for example, there were separate networks for order entry, manufacturing, materials management, finance and information management, he said, adding that &quot;the integration of these was truly difficult.&quot;</p>
+<p>Intel, which is now promoting an ethernet-based network management product, converted all its stand-alone networks to one intranet, he said. The result is less complexity, low training costs and employee access to information needed.</p>
+<p>Analyst Clay Ryder of Zona said client/server systems eventually suffered a bad reputation as costly and &quot;more difficult to administer than people thought.&quot;</p>
+<p>Gartner Group estimated last April that the cost of owning and maintaining each desktop PC in a client server LAN network is about $12,000 a year, including the cost of the PC itself, staff time in installing new software or upgrades, maintenance and per user licence fees for some applications.</p>
+<p>Gartner's report turned heads in corporate America and is often quoted among companies peddling intranet solutions.</p>
+<p>Intranets promise to erase much of the administrative cost, analysts say, because information can be posted on internal Web sites for any authorised employee to see. Or two employees, regardless of where they are physically, can collaborate on a document posted on a specific Web site. Authorisation is granted with an encrypted code.</p>
+<p>Also, with a new programming language called Java developed by Sun Microsystems Inc, some of the cost of upgrading each PC's software can be avoided. Java allows some simpler applications to be reduced into &quot;applets&quot; that use the network as its operating system. That means an applet written in Java can be used on a PC running Windows or a UNIX based-workstation or Macintosh computer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

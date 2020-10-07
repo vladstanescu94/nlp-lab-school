@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272370" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Apple to take $300 mln Q2 charge for NeXT.</title>
+<headline>Apple to take $300 mln Q2 charge for NeXT.</headline>
+<dateline>CUPERTINO, Calif. 1996-12-23</dateline>
+<text>
+<p>Apple Computer Inc will take a $300 million charge in its fiscal second quarter ending March 31 for the purchase of NeXT Software Inc, Apple's chief financial officer said Monday.</p>
+<p>Fred Anderson, the finance chief, also expects NeXT to report about $50 million in revenue for 1996. In the quarter ending December 31, NeXT will break even and will be profitable in the March quarter, Anderson said.</p>
+<p>Apple said Friday it agreed to buy NeXT for $400 million as part of a plan to revamp the fundamental software of the Macintosh personal computer.  </p>
+<p>Apple also will rehire Steven Jobs, the Apple co-founder who was fired in 1985 and left to found NeXT, to help in the effort.</p>
+<p>In a conference call with investors and reporters on Monday, Apple and NeXT executives said the operating system they will jointly develop also will be able to run on personal computers using microprocessors based on Intel Corp's design. That would let Apple compete in the much broader market of Intel-based personal computers. There are 200 million Intel-based PCs compared with 20 million Apple Macs.</p>
+<p>Apple executives, however, said they will concentrate initially on making software for the PowerPC microprocessor, the chip that currently controls the Macintosh.</p>
+<p>&quot;In terms of our new modern Mac operating system based on (NeXT's technology), we would plan at this time to only run it on the PowerPC,&quot; said Christopher Escher, Apple's chief spokesman. &quot;Of course, we would have the flexibility in the future to re-evaluate that.&quot;</p>
+<p>-- Kourosh Karimkhany, in Palo Alto, + 1 415 846 5401.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

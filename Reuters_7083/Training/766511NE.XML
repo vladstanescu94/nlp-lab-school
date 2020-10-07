@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766511" id="root" date="1997-07-30" xml:lang="en">
+<title>USA: TABLE - Cimatron Ltd Q2 shr shrinks.</title>
+<headline>TABLE - Cimatron Ltd Q2 shr shrinks.</headline>
+<dateline>NEW YORK 1997-07-30</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>	     Year ended   Three months ended   Six months ended</p>
+<p>		  December 31,	June 30,		 June 30,</p>
+<p>			   1996	 1996    1997     1996    1997</p>
+<p>Revenue:</p>
+<p>International:</p>
+<p>     Products    $  11,937  $  2,908$  3,774 $  5,213 $ 7,253</p>
+<p>     Services	  2,370	 491     822    1,112   1,599</p>
+<p>	Total	   14,307     3,399   4,596    6,325   8,852</p>
+<p>Israel:</p>
+<p>     Products	  2,238	 478     337    1,315     714</p>
+<p>     Services	  1,534	 434     412	716     813</p>
+<p>	   Total	 3,772	 912     749    2,031   1,527</p>
+<p> Total revenue	18,079     4,311   5,345    8,356  10,379</p>
+<p>Cost of revenue:</p>
+<p>     Products	  1,301	 294     399	729     826</p>
+<p>     Services	  2,149	 484     350    1,022     690</p>
+<p>	    Total	3,450	 778     749    1,751   1,516</p>
+<p> Gross profit	 14,629     3,533   4,596    6,605   8,863</p>
+<p>Research and development</p>
+<p>    expenses, net    4,023     1,032     935    2,147   2,285</p>
+<p>Selling, general &amp;</p>
+<p>administrative</p>
+<p>     expenses	  7,310     1,737   2,660    2,834   4,936</p>
+<p> Operating income    3,296	 764   1,001    1,624   1,642</p>
+<p>Financial income, net</p>
+<p>			     357	  70     109	 55     274</p>
+<p> Other income   (expenses)   12	12	  -	12  (1)</p>
+<p>Income before taxes</p>
+<p>			   3,665	 846   1,110    1,691   1,915</p>
+<p> Taxes on income	 250	 429   (113)	219   (140)</p>
+<p> Net income	    3,915     1,275     997    1,910   1,775</p>
+<p>Net income</p>
+<p>  per share	     0.52	0.16    0.13     0.27    0.22</p>
+<p>Weighted average</p>
+<p>number of shares</p>
+<p>   outstanding	 7,519     7,925   7,950    7,074   7,950</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

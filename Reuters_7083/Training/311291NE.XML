@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="311291" id="root" date="1997-01-16" xml:lang="en">
+<title>UK: Deutsche sets warrants on German blue chips.</title>
+<headline>Deutsche sets warrants on German blue chips.</headline>
+<dateline>LONDON 1997-01-16</dateline>
+<text>
+<p>DB Capital Markets has issued 16 million American-style call and put warrants, in 32 equal tranches, on a basket of German blue chips, lead manager Deutsche Morgan Grenfell said.</p>
+<p>The basket comprises BASF AG, Bayerische</p>
+<p>Motoren-Werke AG (BMW), Commerzbank AG,</p>
+<p>Degussa AG, Deutsche Bank AG, Hoechst AG, </p>
+<p>Mannesmann AG, Metallgesellschaft AG,</p>
+<p> RWE AG, SAP AG, Schering AG,</p>
+<p>Thyssen AG, VEBA AG, VIAG AG</p>
+<p>and Volkswagen AG.</p>
+<p>COMMON TERMS</p>
+<p> EXERCISE PERIOD 23.JAN.97-18.JUN.98   PAYDATE	23.JAN.97</p>
+<p> LISTING	   FRANKFURT</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I22472">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

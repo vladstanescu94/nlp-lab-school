@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431232" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: Microsoft expanding Internet games effort.</title>
+<headline>Microsoft expanding Internet games effort.</headline>
+<dateline>SEATTLE 1997-03-09</dateline>
+<text>
+<p>Microsoft Corp., a laggard in the computer games industry until recently, plans to launch a new version of its Internet Gaming Zone Monday that executives hope will attract thousands of new players.</p>
+<p>Microsoft has invested heavily in games over the past two years, particularly with the launch of the Windows 95 operating system, its first successful platform for game developers since DOS.</p>
+<p>As part of a companywide drive to capitalise on the Internet, the software giant has ramped up its games investment, buying several game companies including Electric Gravity Inc., designer of the Internet Gaming Zone.</p>
+<p>The free site, at http://www.zone.com/, has grown to 200,000 registered users from 15,000 just last May, said Steve Murch, product unit manager.</p>
+<p>On Monday, Microsoft will take the wraps off several enhancements to the zone including &quot;lobbies&quot; where players can find partners for 11 games including bridge, chess and Microsoft Golf, Murch said.</p>
+<p>The games also will include online versions of Monopoly, Scrabble, Risk and others to be offered under a partnership with Hasbro Interactive Worldwide, a unit of Hasbro Inc.</p>
+<p>The game matching service will be free, but Microsoft expects to make money from advertising, increased sales of game software and subscription fees for upcoming &quot;massively multiplayer games,&quot; such as a golf tournament and a fighter pilot game that each can handle thousands of online players, Murch said in an interview.</p>
+<p>&quot;We really think that new entertainment experiences and the games that emphasise social play are critical to the success and the growth of the category,&quot; Murch said.</p>
+<p>The company hopes to continue increasing its share of the $1.2 billion market for computer game software, where it has risen to No. 3 or 4 from as low as No. 10, and to help expand the overall category, which still is overshadowed by the much-larger video game industry.</p>
+<p>&quot;We're really interested in the category growing first and foremost because it's very good for Windows 95 and for the Internet,&quot; Murch said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

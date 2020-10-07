@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327191" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Security Dynamics Q4 oper shr $0.11.</title>
+<headline>Security Dynamics Q4 oper shr $0.11.</headline>
+<dateline>BEDFORD, Mass. 1997-01-23</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>				   December 31,	   December 31,</p>
+<p>				    1996	1995	1996     1995</p>
+<p> Revenue			$23,502  $14,350   $76,148  $45,404</p>
+<p> Gross profit		  18,196   11,507    58,580   36,897</p>
+<p>Operating expenses:</p>
+<p> Research and development   3,104    1,562    10,216    5,727</p>
+<p> Marketing and selling	6,797    3,935    21,725   13,171</p>
+<p>General and</p>
+<p>  administrative		3,408    3,650    11,674    9,870</p>
+<p> Merger expenses		    -	  -     6,100	  -</p>
+<p> Purchased technology	 1,000	  -     1,000	  -</p>
+<p> Total operating expenses  14,309    9,147    50,715   28,768</p>
+<p> Operating income	     3,887    2,360     7,865    8,129</p>
+<p> Interest income		1,340	627     4,951    1,735</p>
+<p>Gain on sale of</p>
+<p>   marketable securities    6,481	  -    11,027	  -</p>
+<p>Provision for income taxes</p>
+<p>				    4,267    1,160    10,798    3,102</p>
+<p> Net income		     7,441    1,827    13,045    6,762</p>
+<p> Net income per share	  0.20     0.05	0.36     0.21</p>
+<p>Weighted average</p>
+<p>number of common</p>
+<p> shares outstanding	  36,693   33,760    36,515   32,550</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

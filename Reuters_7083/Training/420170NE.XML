@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420170" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: System Software sets millenium compliance product.</title>
+<headline>System Software sets millenium compliance product.</headline>
+<dateline>CHICAGO 1997-03-05</dateline>
+<text>
+<p>System Software Associates Inc said Wednesday it will provide special customer services to help clients prepare their computer systems for the change to the year 2000.</p>
+<p>The company said its new version of the progam BPCS Millennium will identify and assess date processing issues on a variety of computer systems.</p>
+<p>System Software Associates is a software development firm.</p>
+<p>Its shares were up 5/8 Wednesday at 10-7/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

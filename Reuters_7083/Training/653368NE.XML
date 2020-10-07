@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653368" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: IMR gets American Greetings Year 2000 job.</title>
+<headline>IMR gets American Greetings Year 2000 job.</headline>
+<dateline>CLEARWATER, Fla. 1997-06-11</dateline>
+<text>
+<p>Software firm Information Management Resources Inc on Wednesday said that it will perform the conversion, testing and implementation phase of a Year 2000 compliance project for American Greetings Corp.</p>
+<p>Financial details of the deal were not disclosed.</p>
+<p>Many older computers and software programs, unable to process two-digit dates correctly after December 31, 1999, could crash on January 1, 2000, while many other will think the date is Jauary 1, 1900. Many firms must hire others to mine through millions of lines of code to correct the problem.</p>
+<p>Information Management said the job would involve about 15 million lines of code.</p>
+<p>The company said it completed earlier this year the analysis and planning phases for solving American Greetings's year 2000 problems.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEARWATER, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

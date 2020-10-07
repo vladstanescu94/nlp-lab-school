@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160195" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Inference stock plunges after earnings forecast.</title>
+<headline>Inference stock plunges after earnings forecast.</headline>
+<dateline>NOVATO, Calif. 1996-11-01</dateline>
+<text>
+<p>The stock of Inference Corp. lost almost half its value Friday after the software maker surprised Wall Street with a forecast for a loss for the third quarter.</p>
+<p>Inference stock tumbled $6 to $6.25 in active trading on Nasdaq.</p>
+<p>The Novato, Calif.-based maker of corporate information and customer service help software said it expects a loss of $800,000 to $1 million for the quarter, or 9 to 12 cents a share. Sales are expected to be $7 million to $7.3 million.</p>
+<p>Analysts had forecast earnings of 12 cents a share on average, according to First Call, which tracks estimates.</p>
+<p>In the 1995 quarter, Inference earned $1.1 million, or 13 cents a share, on sales of $7.7 million.</p>
+<p>Inference said it expects to release full financial results on Nov. 12.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

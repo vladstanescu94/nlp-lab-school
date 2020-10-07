@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421209" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: Microsoft has fix for browser security bug.</title>
+<headline>Microsoft has fix for browser security bug.</headline>
+<dateline>REDMOND, Wash. 1997-03-05</dateline>
+<text>
+<p>Microsoft Corp. Wednesday offered a software fix for a security flaw that was discovered by a Massachusetts college student in some versions of its Internet Explorer browser.</p>
+<p>&quot;We're strongly recommending that people download this (software) patch&quot; from the Internet, a Microsoft spokesman said in a telephone interview. &quot;It's the only way to be secure.&quot;</p>
+<p>The company said no one has reported problems due to the security flaw -- which could allow someone to put damaging programmes on a computer's hard drive from the Internet -- but the spokesman said users would be vulnerable if they did not download and install the patch.</p>
+<p>Microsoft said in a statement that Internet Explorer users would be able to download patches later Wednesday for Versions 3.0 and 3.01 of the software for certain operating systems.</p>
+<p>The free patches will be available at the Redmond, Wash., software giant's Internet Explorer site, http://www.microsoft.com/ie, the company said.</p>
+<p>For people who prefer not to download the software, Microsoft provided a toll-free number to call to order it on a flopy disk.</p>
+<p>The problem was discovered by Paul Greene, a student at Worcester Polytechnic Institute in Massachusetts, who was posting documents onto a Web site when he accidentally created a Windows 95 &quot;shortcut.&quot;</p>
+<p>After some experimentation, he and fellow students discovered that a Webmaster could take advantage of the bug to evade security features of the browser and download damaging programmes onto a computer user's hard drive.</p>
+<p>The transfer could happen in the background or so quickly the user might not even be aware of it.</p>
+<p>Microsoft said the security issue affects only users of Internet Explorer Versions 3.0 and 3.01 for the Windows 95 and Windows NT 4.0 operating systems. It does not affect users of Internet Explorer for Windows 3.1 or Internet Explorer for the Macintosh.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

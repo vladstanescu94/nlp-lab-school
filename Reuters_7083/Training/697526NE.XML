@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="697526" id="root" date="1997-06-30" xml:lang="en">
+<title>UK: Oxford Molecular, Dainippon in deal.</title>
+<headline>Oxford Molecular, Dainippon in deal.</headline>
+<dateline>LONDON 1997-06-30</dateline>
+<text>
+<p>British biotechnology company Oxford Molecular Group Plc said on Monday it had agreed to provide technical services and consulting in drug design and combinatorial chemistry to Japan's Dainippon Pharmaceutical Co Ltd.</p>
+<p>Oxford said the two-year agreement involved an initial sum, ongoing research fees and milestone payments. It gave no specific financial details.  </p>
+<p>Oxford Molecular said it would also receive royalties from any compounds which made it to the market as medicines.</p>
+<p>The company said the research programme would involve a selected biological target. It would use proprietary molecular modelling techniques to design novel targeted combinatorial libraries which it would synthethise.</p>
+<p>Oxford Molecular said it would also provide consultancy services to help Dainippon set up its own combinatorial chemistry unit.</p>
+<p>--London Newsroom +44 171 542 4017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

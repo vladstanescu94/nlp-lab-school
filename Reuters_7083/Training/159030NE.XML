@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159030" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: System Software switching accountants.</title>
+<headline>System Software switching accountants.</headline>
+<dateline>CHICAGO 1996-11-01</dateline>
+<text>
+<p>System Software Associates Inc said Friday it terminated its relationship with Price Waterhouse LLP, its independent accountants.</p>
+<p>Chairman Roger Covey in a statement said the company requested that KPMG Peat Marwick assume the auditing responsibilities previously held by Price Waterhouse.  </p>
+<p>Covey said Friday was the first day of the company's new fiscal year and was an appropriate time to bring about the change in auditors.</p>
+<p>Company executives were unavailable for further comment.</p>
+<p>System Software develops business application software products.  </p>
+<p>A Price Waterhouse spokesman said the company did not comment on its client relationships.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

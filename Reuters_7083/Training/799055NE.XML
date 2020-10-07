@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799055" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: TABLE-XOX Corp Q2 loss.</title>
+<headline>TABLE-XOX Corp Q2 loss.</headline>
+<dateline>ST. PAUL 1997-08-14</dateline>
+<text>
+<p>Three months ended  Six months ended</p>
+<p>				June 30,		  June 30,</p>
+<p>			 1997	  1996	   1997	  1996</p>
+<p>	     (unaudited)   (unaudited)  (unaudited) (unaudited)</p>
+<p>Net revenues:</p>
+<p>Customer support</p>
+<p>and consulting</p>
+<p>		    $81,381	$43,267     $185,484    $169,524</p>
+<p>Product revenues</p>
+<p>		     62,400	 31,595	289,908	78,655</p>
+<p> Royalties	     --	 10,766	     --	16,776</p>
+<p>		    143,781	 85,628	475,392     264,955</p>
+<p>Operating expenses:</p>
+<p>Research and development</p>
+<p>		    303,913	165,805	690,023     346,136</p>
+<p>Selling, general</p>
+<p>and administrative</p>
+<p>		    373,552	293,544	823,463     549,753</p>
+<p>		    677,465	459,349    1,513,486     895,889</p>
+<p>Loss from operations</p>
+<p>		  (533,684)    (373,721)  (1,038,094)   (630,934)</p>
+<p>Interest income</p>
+<p>		     24,667	     81	 51,521	   549</p>
+<p>Interest expense</p>
+<p>		   (10,664)     (78,980)     (24,230)   (141,517)</p>
+<p>Share of joint</p>
+<p>venture net gain</p>
+<p>		     19,862	     --	 19,596	    --</p>
+<p> Net loss    ( 499,819)   ( 452,620)   ( 991,207)  ( 771,902)</p>
+<p>Net loss per share</p>
+<p>		    ( 0.17)	( 0.20)	( 0.34)     ( 0.34)</p>
+<p>Weighted average number</p>
+<p>of shares outstanding</p>
+<p>		  2,952,931    2,313,000    2,941,666   2,250,308</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

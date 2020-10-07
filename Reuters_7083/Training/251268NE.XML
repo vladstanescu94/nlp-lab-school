@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251268" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Oracle Corp Q2 net rises.</title>
+<headline>Oracle Corp Q2 net rises.</headline>
+<dateline>REDWOOD SHORES, Calif 1996-12-12</dateline>
+<text>
+<p>($ in thousands except per share data)</p>
+<p>			    (unaudited)</p>
+<p>				2nd Quarter Ended  Six Months Ended</p>
+<p>				   November 30,	November 30,</p>
+<p>			     1996     1995	   1996	 1995</p>
+<p>REVENUES</p>
+<p>Licenses and other</p>
+<p>			  624,137  502,948     1,085,985    868,668</p>
+<p> Services	     687,236  464,236     1,277,708    870,319</p>
+<p> Total Revenues   1,311,373  967,184     2,363,693  1,738,987</p>
+<p>OPERATING EXPENSES</p>
+<p>Sales and marketing</p>
+<p>			  454,688  356,650	 814,538    635,673</p>
+<p> Cost of services   377,483  255,422	 713,590    486,931</p>
+<p>Research and</p>
+<p>   development (1)  135,300   93,272	 252,509    177,713</p>
+<p>General and</p>
+<p>   administrative    69,714   57,228	 139,993    108,936</p>
+<p>Acquired in-process</p>
+<p>research and</p>
+<p>   development (2)	 --	 --		--     50,931</p>
+<p>Total Operating</p>
+<p>   Expenses	 1,037,185  762,572     1,920,630  1,460,184</p>
+<p> OPERATING INCOME   274,188  204,612	 443,063    278,803</p>
+<p>Other income (expense)</p>
+<p>			    6,275    2,814	  13,605     10,082</p>
+<p>INCOME BEFORE TAXES</p>
+<p>			  280,463  207,426	 456,668    288,885</p>
+<p>Provision for income</p>
+<p>   taxes		100,967   70,525	 164,401     98,221</p>
+<p> NET INCOME	   179,496  136,901	 292,267    190,664</p>
+<p> EARNINGS PER SHARE    0.27     0.20	    0.43	 0.28</p>
+<p>Common and common</p>
+<p>equivalent shares</p>
+<p>			  675,949  670,710	 674,880    670,244</p>
+<p>(1) In accordance with Statement of Financial Accounting Standards No. 86, $7,383 and $12,764 were capitalized in the quarters ended November 30, 1996 and 1995, respectively. Amortization of capitalized software costs was $7,521 and $12,975 in the quarters ended November 30,1996 and 1995, respectively.</p>
+<p>(2) Represents the acquisition charge for the IRI transaction that closed in July, 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

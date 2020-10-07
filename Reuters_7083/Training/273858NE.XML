@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273858" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: New stocks garner interest from analysts - daily.</title>
+<headline>New stocks garner interest from analysts - daily.</headline>
+<dateline>NEW YORK 1996-12-22</dateline>
+<text>
+<p>Companies that have issued shares on the stock exchange for the first time this year have generated interest among analysts because their prices have remained close to original offerings, the New York Times reported Sunday.</p>
+<p>Although they were unlikely to turn a quick profit, the shares were probably a good investment for the long term, the newspaper said.</p>
+<p>Analysts recommended companies like Raptor Systems Inc that make security software for use on the Internet, it said.</p>
+<p>Communications companies such as Powerwave Technologies Inc were also garnering some interest, it added.</p>
+<p>The newspaper said analysts also recommended Donnelley Enterprise Solutions, which offers computer and business services, airline reservations business Sabre Group and Panavision Inc, which makes camera systems for the movie industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I34532">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

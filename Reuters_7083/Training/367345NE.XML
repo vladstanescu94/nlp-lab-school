@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367345" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: 3Com plunges on profit outlook, rising competition.</title>
+<headline>3Com plunges on profit outlook, rising competition.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>SAN FRANCISCO 1997-02-10</dateline>
+<text>
+<p>3Com Corp. stock lost more than a quarter of its value Monday after the computer networking equipment maker said its fiscal third-quarter earnings will be less than Wall Street had expected.</p>
+<p>3Com, the nation's second largest networking vendor, also had to respond to rising competition from PC component powerhouse Intel Corp. by sharply cutting prices of its so-called ethernet network products, from which it derives 43 percent of its revenue.</p>
+<p>The move fuelled even more concern among investors about 3Com's earnings outlook in coming quarters.</p>
+<p>Stock in 3Com, based in Santa Clara, Calif., fell $13.50 to $37.25 in Nasdaq trading of more than 36 million shares, making the stock the most active in U.S. markets.</p>
+<p>&quot;This goes beyond just the third quarter for 3Com,&quot; said Martin Pyykkonen, an analyst at brokerage Furman Selz.</p>
+<p>3Com said for the quarter ending Feb. 28 it will report earnings per share in a range from the mid-40s to low 50 cents a share. Wall Street expected 3Com to earn 60 cents per share, according to a recent survey by First Call, which tracks analyst estimates. A year earlier, 3Com earned 42 cents a share, or $74.6 million.</p>
+<p>3Com said third-quarter revenues will reach $770 million to $810 million, missing analyst forecasts by at least $20 million.</p>
+<p>3Com makes electronic devices that shuffle information between PCs operating in a network. The company gets about 43 percent of its revenue from ethernet adapter cards: graham cracker-sized devices that plug into PCs to link them with networks.</p>
+<p>Last week, Intel, the world's biggest maker of PC components, cut prices of its line of fast ethernet cards sharply. The reduction forced 3Com to announce its own sharp price cuts Monday, fuelling concern about the company's revenue in coming quarters.</p>
+<p>&quot;Intel rocked 3Com off its solid foundation,&quot; said Carl Howe, senior analyst at market researcher Forrester Research Inc. &quot;They hit 3Com's cash cow.&quot;</p>
+<p>In the next few years, Intel potentially could incorporate networking functions into its computer chips, eliminating the need for seperate networking products, analysts said. Meanwhile, Intel will use its huge manufacturing facilities and its cost benefit to undercut 3Com in ethernet prices, analysts said.</p>
+<p>Pyykkonen said Intel could elbow aside networking suppliers, just as it knocked down suppliers of sound and video components by making multimedia functions a built-in feature of its microprocessors.</p>
+<p>&quot;There's no reason why networking can't go the way of PCs,&quot; Pyykkonen said.</p>
+<p>3Com's shortfall projection prompted several Wall Street analysts to slash their ratings on 3Com stock to hold or neutral.</p>
+<p>&quot;The tone of 3Com's business remains weak,&quot; said William Rabin, analyst at J.P. Morgan Securities Inc., who cut 3Com to &quot;market performer&quot; from &quot;buy.&quot;</p>
+<p>3Com's earnings forecast also raised concerns about the entire networking industry, whose revenue has been growing about 35 percent annually. 3Com's woes are a sign that industry growth is finally slowing.</p>
+<p>&quot;Everyone is not only more on edge about 3Com's numbers but also whether they need to change the revenue picture in the longer term.&quot;</p>
+<p>Stock in another major network equipment company, Cisco Systems Inc. also fell, dropping $5.125 to $58 on Nasdaq. Ascend Communications Inc., another closely watched networking stock, fell $4.625 to $62.625, also on Nasdaq. Bay Networks Inc. fell 87.5 cents to $18.625, and Cabletron Systems Inc. fell $1.875 to $29, both on the New York Stock Exchange.</p>
+<p>Intel also dropped, losing $4.75 to $151.625 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139482" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Versant Object Tech Q3 profit vs loss.</title>
+<headline>Versant Object Tech Q3 profit vs loss.</headline>
+<dateline>MENLO PARK, Calif. 1996-10-24</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>					 Sept. 30,	  Sept. 30,</p>
+<p>				    1996	 1995    1996	1995</p>
+<p>Revenue:</p>
+<p> License		     $ 3,053    $ 1,588 $ 8,024   $ 5,126</p>
+<p> Services			1,929	  977   4,752     3,143</p>
+<p> Total revenue		 4,982	2,565  12,776     8,269</p>
+<p>Cost of revenue:</p>
+<p> License			   278	  154     769	 857</p>
+<p> Services			  965	  679   2,155     1,656</p>
+<p>Total cost of</p>
+<p>  revenue			1,243	  833   2,924     2,513</p>
+<p> Gross profit		  3,739	1,732   9,852     5,756</p>
+<p>Operating expenses:</p>
+<p> Marketing and sales	 1,987	1,547   5,842     4,563</p>
+<p> Research and development    928	  478   2,450     1,471</p>
+<p> General and administrative  409	  247     995     1,067</p>
+<p> Total operating expenses  3,324	2,272   9,287     7,101</p>
+<p>Income (loss)</p>
+<p>  from operations		415	(540)     565   (1,345)</p>
+<p>Interest income</p>
+<p>  and other, net		 256	   12     238	  69</p>
+<p> Foreign tax expense	   (2)	  (4)    (13)	(67)</p>
+<p> Income (loss) before taxes  669	(532)     790   (1,343)</p>
+<p> Provision for income taxes   63	   --	75	  --</p>
+<p> Net income (loss)	     606	(532)     715   (1,343)</p>
+<p>Net income (loss)</p>
+<p>  per share		     0.07     (0.09)    0.10    (0.23)</p>
+<p>Weighted average</p>
+<p>common and common</p>
+<p>  equivalent shares	  8,831	5,976   7,273     5,822</p>
+<p>(in thousands, except per share amounts)</p>
+<p>NOTE: Full name is Versant Object Technology Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

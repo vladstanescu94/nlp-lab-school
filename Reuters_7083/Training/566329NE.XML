@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="566329" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Net companies researching bandwidth reservations.</title>
+<headline>Net companies researching bandwidth reservations.</headline>
+<byline>Michelle V. Rafter</byline>
+<dateline>LOS ANGELES</dateline>
+<text>
+<p>Consider, for a moment, how information moves on the Internet.</p>
+<p>Somebody dials into their Internet service provider and asks for an e-mail or World Wide Web connection. The request is broken into chunks of data called packets that pass through a series of routers connecting one computer network to another until they reach their destination and are reassembled.</p>
+<p>If the network is busy, packets get delayed, or dropped, and need to be resent. The return trip can be equally as perilous.</p>
+<p>In the Internet industry, this kind of data transmission is called best effort, because Internet service providers do their best to deliver and receive data as requested but don't offer any guarantees.</p>
+<p>But, increasingly, best effort isn't good enough.</p>
+<p>As corporations and consumers start using the Internet for telephone calls, video broadcasts and other real-time applications, they want better assurances information will pass through the network intact and on time, performance they expect from phone companies and other communication providers.</p>
+<p>As a consequence, major Internet companies, standards groups and university Internet R&amp;D departments are researching ways to segment the Internet into different service levels, including a portion of bandwidth that could be reserved throughout the network for a specific application.</p>
+<p>The Internet industry calls this concept Quality of Service. Work on Quality of Service is taking place on two levels, starting with standards to make reserved-bandwidth services available to anybody on the Internet willing to pay for it.</p>
+<p>The Internet Engineering Task Force (http://www.ietf.org), an official Internet standards organisation, has spent more than five years hammering out rules for reserved bandwidth services. An IETF task force recently approved a final draft of these rules, called the Resource Reservation Protocol (RSVP).</p>
+<p>Under RSVP, a host computer would request a certain service level from a network for an Internet phone call or other application.</p>
+<p>As the data stream travelled through the network, an RSVP agent attached to it would request a service and detect if it is available. If it is, the agent would set parameters to obtain it. (For a detailed explanation, see the University of Southern California's Information Sciences Institute Web site at http://www.isi.edu/div7/rsvp/overview.html.)</p>
+<p>But installing the hardware and software needed to provide RSVP across the Internet could take years. Until then, analysts and academics believe the first offerings will appear within an Internet backbone provider or Internet service provider's own network or on corporate intranets.</p>
+<p>Under those conditions, it's no surprise backbone companies, which operate the major fiber-optic pipelines that other Internet service providers hook up to, are some of the first to experiment with RSVP.</p>
+<p>Since September, MCI (http://www.mci.com) has been operating a trial RSVP exchange between its office in Richardson, Texas, and partners Intel (http://www.intel.com) and Cisco (http://www.cisco.com). Engineers at the companies are using it to hold face-to-face training meetings and do three-way brain storming, said John Scarborough, a MCI Internet product marketing director.</p>
+<p>In another experiment, soon-to-be-merged MCI and British Telecom are offering tiered Internet service to two unnamed customers through the companies' Concert Internet Plus partnership.</p>
+<p>BBN Corp. (http://www.bbn.com), which is being acquired by GTE (http://www.gte.com), is running a trial RSVP network between Cambridge, Mass., and New York offering continuous video and data stream from Worldwide Broadcasting Networks (http://www.wbnet.com), an Internet broadcaster. BBN expects to expand the trial to Silicon Valley soon and offer new applications, said Rich Blatt, a BBN service line manager.</p>
+<p>Networking equipment manufacturers are also experimenting with bandwidth reservation services.</p>
+<p>Bay Networks (http://www.baynetworks.com) and Cisco are building RSVP into the routers, switches and other network gear, as are computer workstation makers Sun Microsystems (http://www.sun.com/) and Silicon Graphics (http://www.sgi.com).</p>
+<p>Intel is working on a technology demonstration of software for managing bandwidth reservations. Using such tools, an Internet service provider could decide which user or users have access to best-effort or high-capacity bandwidth, said Pierre Laurent, an Intel product marketing manager.</p>
+<p>&quot;An ISP could decide which subscribers get the video at night or not at night, or a specific company could pay to subscribe to the feed,&quot; Laurent said.</p>
+<p>When RSVP is available, Internet service providers could charge for it by the packet, connection or event, according to economists and academics working in the area.</p>
+<p>Analyst Clay Ryder, with Zona Research, Redwood City, Calif., believes providers will offer multiple tiers of service with gradually increasing prices, all predicated on factors such as network load. Customers will decide ahead of time how much they're willing to spend to transmit data a certain service level.</p>
+<p>&quot;In the end, those who are willing to wait a little get a better price and those who need it absolutely now, like for videoconferencing, you'll pay more,&quot; Ryder said.</p>
+<p>(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

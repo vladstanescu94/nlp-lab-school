@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333639" id="root" date="1997-01-26" xml:lang="en">
+<title>USA: Apple mulls closer Intel, Microsoft ties - paper.</title>
+<headline>Apple mulls closer Intel, Microsoft ties - paper.</headline>
+<dateline>NEW YORK 1997-01-26</dateline>
+<text>
+<p>Struggling computer maker Apple Computer Co. is considering closer ties with semiconductor power Intel Corp and software giant Microsoft Corp., The New York Times reported Sunday.</p>
+<p>Company executives told the newspaper Apple was weighing making a line of machines that run on Intel microprocessors. Apple computers now run on microprocessors made by Motorola Inc.</p>
+<p>In addition, Microsoft Chairman Bill Gates visited Apple headquarters in Cupertino, Calif., in mid-January. The hourlong session was attended by Gates; Apple Chairman Gilbert Amelio; Steven Jobs, Apple's co-founder and head of NeXT Software Corp,., recently bought by Apple; and Ellen Hancock, Apple's chief technology officer.</p>
+<p>The meeting covered other matters, but the subject of closer cooperation in the years ahead was on the agenda.</p>
+<p>The Times, quoting people familiar with the meeting, said one item was a discussion of the possibility of Apple's licensing Windows NT, Microsoft's industrial-strength operating system for the corporate market.</p>
+<p>Amelio was not directly quoted about possible alliances with Microsoft and Intel, Apple's longtime rivals.</p>
+<p>However, he told the Times that within two or three years, &quot;I would like to have the most compatible personal computer in the industry, able to run more software than anyone -- period.&quot;</p>
+<p>Amelio added, &quot;We're not in a world by ourselves. We have to be able to support the commodity technology standard.&quot;</p>
+<p>Personal computers with Intel microprocessors and running on Microsoft operating systems overwhelmingly dominate the worldwide PC market.</p>
+<p>Apple has been hit by declining sales, mounting losses and a falling stock price. The company on Jan 15 reported a loss of $120 million, or 96 cents a share, in its fiscal first quarter.</p>
+<p>Apple predicts a return to profitability in the fiscal fourth quarter, which ends in September 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

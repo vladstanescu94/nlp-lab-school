@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="664388" id="root" date="1997-06-16" xml:lang="en">
+<title>USA: Novell's Marengi to join Dell.</title>
+<headline>Novell's Marengi to join Dell.</headline>
+<dateline>ROUND ROCK, Texas 1997-06-16</dateline>
+<text>
+<p>Dell Computer Corp said Monday that outgoing Novell Inc president Joseph Marengi will join Dell to handle development of large corporate customers and other business clients.</p>
+<p>Marengi, whose resignation as president and chief operating officer of Novell was announced June 6, will join Dell as senior vice president of the relationship group, the company said in a press release. Marengi leaves Novell on June 30.  </p>
+<p>Marengi joined Novell in 1989 and has served as Novell's president since September 1996. He had been considered a contender for Novell's top job following the departure last August of chief executive Bob Frankenberg. The job went to Eric Schmidt, former chief technology officer of Sun Microsystems Inc.</p>
+<p>Marengi's resignation was announced a week after Novell said it would lay off 1,000 workers -- about 18 percent of its workforce -- after a slump in sales of its computer networking software.</p>
+<p>Marengi joins Dell as it initiates plans to broaden its offerings to large and mid-sized businesses through such new products as workstations and such new services as expanded factory integration of software, Dell said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROUND ROCK, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

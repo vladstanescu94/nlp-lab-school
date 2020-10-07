@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292698" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: U.S. IPO Pricings due week of Jan 6.</title>
+<headline>U.S. IPO Pricings due week of Jan 6.</headline>
+<text>
+<p>**For long-term U.S. IPO Diary, see IPO/ **</p>
+<p>COMPANY		SIZE(MLN) RANGE UNDERWRITER TRADEDATE</p>
+<p>Sun Hydraulics	2.0 9.5-11.5  AGEdwards	Jan9</p>
+<p>Tuscany Inc	   1.6	 5   Paragon	   Jan</p>
+<p>EarthLink Network   2.0   14-16   Invemed	midJan</p>
+<p>Multimedia Access   1.8     5-6   Natl Secs    midJan</p>
+<p>TN Technologies			 Morgan    mid/ltJan</p>
+<p>Vita Food Products  0.75    6-7   Natl Secs   wkJan13</p>
+<p>Transcrypt Intl     3.75  12-14   DainBoswort wkJan13</p>
+<p>Orion Acquisition I 0.8	10   HJMeyers    wkJan13</p>
+<p>Gentle Dentle	 1.25	5   Black&amp;Co    wkJan13</p>
+<p>Aramex Intl	   1.0     7-8   CommonwealthwkJan13</p>
+<p>Eltek		   1.5     6-7   Josepthal   wkJan13</p>
+<p>Birman Managed	1.55 5.75-6.75 WB McKee   wkJan13</p>
+<p>8 x 8		   2.5    8-10   Montgomery  wkJan13</p>
+<p>Coral Systems	 2.7   10-12   Montgomery  wkJan13</p>
+<p>Amplidyne	     1.2	 5   Patterson   wkJan13</p>
+<p>SEEC		    1.0    9-11   Wainwright  wkJan13</p>
+<p>CD Warehouse	  1.0     5-7   CapitalWest   Jan14</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

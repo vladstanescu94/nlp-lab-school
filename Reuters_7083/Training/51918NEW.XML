@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51918" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Transaction Systems completes acquisition.</title>
+<headline>Transaction Systems completes acquisition.</headline>
+<dateline>OMAHA, neb. 1996-09-13</dateline>
+<text>
+<p>Transaction Systems Architects Inc said on Friday it completed the previously announced acquisition of Grapevine Systems Inc of Nebraska.</p>
+<p>It said it exchanged 380,441 shares, adjusted from 370,000 shares, to complete the transaction.</p>
+<p>Following the share exchange, Transaction Systems, which develops software to facilitate electronic access to money, will have 23.4 million shares of Class A stock outstanding.</p>
+<p>Grapevine Systems, which had revenues of $4.8 million last year, markets transaction processing software.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA, neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

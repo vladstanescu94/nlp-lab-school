@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292902" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: HP, Oracle target next power chips.</title>
+<headline>HP, Oracle target next power chips.</headline>
+<dateline>PALO ALTO, Calif. 1997-01-08</dateline>
+<text>
+<p>Hewlett-Packard Co and Oracle Corp said Wednesday they were increasing joint development efforts on technology for high-powered computer systems based on new processors being designed by HP and Intel Corp.</p>
+<p>HP and Oracle Executives declined to discuss financial details of the joint development deal, but HP said the backing of the database powerhouse Oracle was a major milestone in HP's effort to spearhead a new computing architecture with Intel.  </p>
+<p>Rich Sevcik, vice president and general manager of HP's System Technology Group, told Reuters the new architecture aims to increase transaction capabilities by an order of magnitude.</p>
+<p>Sevcik said in an interview that HP and Oracle technologies operating on the new 64-bit system are expected to be capable of performing more than a billion transactions per week on a system, or &quot;about a factor of 10 times more&quot; than the current top-end machines.  </p>
+<p>Systems based on the new high-end processors, codenamed the Merced, are expected to begin rolling off the production line two years from now. Executives said investment is required now to make the systems successful.</p>
+<p>&quot;By doing some early joint development here, we can really maximize performance,&quot; Sevcik said.  </p>
+<p>The new architecture is designed to run both the high-end Unix operating system, used for processing-intensive computing workstations and servers, and the fast-growing Microsoft Corp Windows NT operating system.</p>
+<p>Since launching the new architecture with Intel in June 1994, the 64-bit Intel Architecture (IA-64) effort has attracted endorsements from Microsoft, which aims to optimize NT for IA-64 processors, along with Netscape Communications Corp and Compaq Computer Corp.  </p>
+<p>Compaq, which aims to become the world's third largest computer maker by the year 2000, recently stepped up its drive into the market for higher-end workstations and servers.</p>
+<p>Sevcik said that with the addition of Oracle, the IA-64 program, which enables HP and Intel to pool resources in an industry where processor fabrication plants cost billions of dollars, has now reached a critical mass of industry backing.</p>
+<p>HP aims to outflank rivals in the high-end computing performance market like Sun Microsystems Inc, International Business Machines Corp, Digital Equipment Corp and Silicon Graphics Inc.  </p>
+<p>&quot;Basically, we're establishing a new computing platform for the industry,&quot; Sevcik said. &quot;Historically we've been No. 1 or No. 2. Our strategy is to be No. 1.&quot;</p>
+<p>HP plans to continue supporting its current PA-RISC-based systems into the next decade, but will make it relatively easy for customers to migrate to the new systems by introducing, well ahead of the Merced introduction, software compatible with the new systems.</p>
+<p>&quot;We're all coordinating together and we're investing billions of dollars,&quot; Sevcik said of the Merced project.  </p>
+<p>HP is also pitching itself as being the most flexible in providing customers both NT and Unix, accepting that there could be a shift in mix between its roughly $10 billion Unix-based business and its $8 billion of NT system sales.</p>
+<p>&quot;Together, we can come to customers and offer a single architecture for the entire enterprise,&quot; Sevcik said. HP is working with a wide range of key industry players on the new architecture in addition to those announced, he said.</p>
+<p>&quot;All the key software vendors are on board,&quot; he said. Oracle is the world's second-largest independent software firm after Microsoft, and others are also collaborating, he said.</p>
+<p>HP has also been working with software systems group SCO to develop a 64-bit version of its HP-UX Unix system, which it aims to forge as the main standard in a market that a decade ago was struggling with more than a dozen variants.</p>
+<p>((-- sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

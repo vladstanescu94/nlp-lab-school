@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237010" id="root" date="1996-12-05" xml:lang="en">
+<title>SINGAPORE: Microsoft steps up Singapore piracy war.</title>
+<headline>Microsoft steps up Singapore piracy war.</headline>
+<dateline>SINGAPORE 1996-12-05</dateline>
+<text>
+<p>Software giant Microsoft Corp boosted its efforts to defeat software piracy on Thursday, opening a store with a local partner in the heart of what is reputed to be the home of pirated software in Singapore.</p>
+<p>Microsoft said its partnership with Advance Gravis Computer Technology Pte Ltd would deter piracy by giving customers the confidence to buy genuine products with all the back-up benefits.</p>
+<p>The company is not normally in the retail store business.</p>
+<p>About 58 percent of software used in Singapore in 1994 was pirated, according to the Business Software Alliance, which represents leading software publishers. This accounted for US$45 million in lost revenue.</p>
+<p>Within Asia, Singapore is now on par with Japan for having the lowest software piracy rates, said Paul Lovell, managing director of Microsoft, Singapore, at the opening of the store.</p>
+<p>&quot;I see trends (against piracy) within the Singapore government as very encouraging,&quot; he added.</p>
+<p>The government has said it views software theft as a serious offence and local courts have been handing down heavier penalties. Retailers convicted of piracy have been fined as much as S$45,000 and jailed for up to 30 months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

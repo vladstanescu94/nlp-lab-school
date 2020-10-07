@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353090" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: Timeline Inc Q3 net loss narrows.</title>
+<headline>Timeline Inc Q3 net loss narrows.</headline>
+<dateline>BELLEVUE, Wash 1997-02-04</dateline>
+<text>
+<p>(unaudited)		     Third Quarter	  Nine Months</p>
+<p>			    ended December 31,  ended December 31,</p>
+<p>			    1996	 1995	  1996	 1995</p>
+<p>REVENUES:</p>
+<p>Software licenses $ 700,978  $ 211,725  $1,691,552 $1,598,727</p>
+<p> Software development    --    400,000	    --    400,000</p>
+<p> Maintenance	  188,574    254,081     601,674    685,272</p>
+<p> Consulting	   732,279    502,515   2,070,340  1,392,165</p>
+<p> Other		    9,450	   --	50,292     15,000</p>
+<p> Total revenues   1,631,281  1,368,321   4,413,858  4,091,164</p>
+<p> COST OF REVENUES   723,984    765,208   1,674,720  1,443,815</p>
+<p> Gross profit	 907,297    603,113   2,739,138  2,647,349</p>
+<p>OPERATING EXPENSES:</p>
+<p> Sales &amp; marketing  446,709    325,807   2,312,561  1,064,349</p>
+<p>General &amp; administrative</p>
+<p>			  533,516    502,244   1,446,022  1,256,885</p>
+<p>Research &amp; development</p>
+<p>			  311,492    225,130     976,424    550,454</p>
+<p> Depreciation	  71,567     45,117     196,920    108,631</p>
+<p>Total operating expenses</p>
+<p>			1,363,284  1,098,298   4,931,927  2,980,319</p>
+<p>Net Income (loss)</p>
+<p>from operations</p>
+<p>			(455,987)  (495,185) (2,192,789)  (332,970)</p>
+<p>OTHER INCOME (EXPENSE):</p>
+<p> Interest Income	1,283     28,476	14,861    103,672</p>
+<p> Interest Expense  (43,403)   (13,768)   (102,802)   (21,467)</p>
+<p>Total other income</p>
+<p>	  (expenses) (42,120)     14,708    (87,941)     82,205</p>
+<p>NET INCOME (LOSS)</p>
+<p>			(498,107)  (480,477) (2,280,730)  (250,765)</p>
+<p>NET LOSS PER COMMON SHARE</p>
+<p>			   (0.16)     (0.19)	(0.78)     (0.10)</p>
+<p>WEIGHTED AVERAGE COMMON</p>
+<p>SHARES OUTSTANDING</p>
+<p>			3,055,283  2,519,376   2,931,477  2,519,376</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELLEVUE, Wash"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

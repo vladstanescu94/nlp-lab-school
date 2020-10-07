@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709456" id="root" date="1997-07-06" xml:lang="en">
+<title>USA: Air Force move seen boosting Windows NT sales.</title>
+<headline>Air Force move seen boosting Windows NT sales.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-07-06</dateline>
+<text>
+<p>An Air Force decision paves the way for the potential sale of tens of thousands of computers running Microsoft Corp.'s Windows NT operating system, a software company executive said.</p>
+<p>Douglas Miller, chief executive officer of Softway Systems Inc. in San Francisco, said in an interview the Air Force will announce Monday its approval of the company's OpenNT software as a substitute for the UNIX operating system.</p>
+<p>The Softway software runs on Windows NT servers and workstations and allows users to operate UNIX and Windows applications on a single terminal.</p>
+<p>Windows NT has been gaining share in the market for high-end workstations and for business and enterprise networks.</p>
+<p>But UNIX and similar systems sold by vendors including Sun Microsystems Inc. and International Business Machines Corp. remain hugely popular particularly in large enterprises, including the U.S. government, the world's largest UNIX user.</p>
+<p>Miller said he and his colleagues founded San Francisco-based Softway in 1995 to exploit the growth in Windows NT by providing a way to integrate the Microsoft system with UNIX applications.</p>
+<p>&quot;The challenge has been, &quot;How do I move to Windows NT but exploit and maintain my investment in UNIX technology?'&quot; Miller said. &quot;This offers them the solution where with one hardware platform they can host both classes of applications.&quot;</p>
+<p>The five-year Air Force contract allows Softway partner Hughes Data Systems to supply up to 37,000 workstations, but Miller said the total number could end up far higher if other government agencies take advantage of the approval. Hughes is a unit of Hughes Electronics Corp.</p>
+<p>A Hughes executive said he expected the Air Force decision to give the company a competitive edge over Sun, which also has the right to supply computers to the government under the previously awarded contract.</p>
+<p>Last month the Softway system was approved on a similar basis by NASA under a contract the space agency has with Compaq Computer Corp.</p>
+<p>Mary Hubley, an analyst with Datapro Information Services Group, said she expected the government moves would cause UNIX users to take notice of the new software solution.</p>
+<p>&quot;A lot of UNIX users are uncomfortable using NT because they've been using UNIX so long,&quot; she said. &quot;How can you go wrong with something that does both?&quot;</p>
+<p>Miller said privately held Softway expects revenues  of about $10 million over the next year as a result of sales to the government and other customers. He said he hoped to double sales in the following 12 months.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

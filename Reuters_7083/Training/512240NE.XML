@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512240" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: Avant! Q1 shr rises.</title>
+<headline>Avant! Q1 shr rises.</headline>
+<dateline>SUNNYVALE, Calif. 1997-04-16</dateline>
+<text>
+<p>AVANT! CORPORATION</p>
+<p>			 CONSOLIDATED STATEMENTS OF INCOME</p>
+<p>		     (in thousands, except per share data)</p>
+<p>				  (unaudited)</p>
+<p>						     Three Months Ended</p>
+<p>							     March 30</p>
+<p>						     1997		1996</p>
+<p>Revenue:</p>
+<p>  Software				  $  23,998	 $  18,603</p>
+<p>  Services					7,195	     4,944</p>
+<p>   Total revenue			     31,193	    23,547</p>
+<p>Costs and expenses:</p>
+<p>  Costs of software			     448		 615</p>
+<p>  Costs of services			   3,018	     1,798</p>
+<p>  Selling and marketing		     8,222	     6,867</p>
+<p>  Research and development		  5,965	     4,781</p>
+<p>  General and administrative		3,806	     2,735</p>
+<p> Total operating expenses		  21,459	    16,796</p>
+<p>  Income from operations		    9,734	     6,751</p>
+<p> Interest income				  929		 908</p>
+<p>  Income before income taxes	     10,663	     7,659</p>
+<p> Provision for income taxes		 3,839	     2,745</p>
+<p>  Net income				    6,824	     4,914</p>
+<p> Net income per common share		 0.25		0.19</p>
+<p>Weighted average number of</p>
+<p>common and common equivalent</p>
+<p>  shares outstanding			 27,298	    26,120</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

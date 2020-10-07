@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="445919" id="root" date="1997-03-16" xml:lang="en">
+<title>USA: Time Warner, others stocks picked - Barron's.</title>
+<headline>Time Warner, others stocks picked - Barron's.</headline>
+<dateline>NEW YORK 1997-03-16</dateline>
+<text>
+<p>Time Warner Inc and other stocks were recommended by Joan Lappin, president and chief investment officer of the New York-based private and pension asset manager Gramercy Capital, according to Barron's.</p>
+<p>Lappin also told the magazine that two stocks she did not like at this time were Bay Networks Inc and International Business Machines Corp.</p>
+<p>Time Warner, whose shares closed Friday at 41-3/4, will get a boost from vice chairman Ted Turner's leadership, Lappin said. She also recommended:</p>
+<p>Genzyme Corp</p>
+<p>Ensco International Inc</p>
+<p>Motorola Inc</p>
+<p>NYNEX Corp</p>
+<p>Continental Airlines Inc</p>
+<p>PerSeptive Biosystems Inc</p>
+<p>Westwood One Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

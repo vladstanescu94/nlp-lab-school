@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695298" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: Intuit acquires 19 pct of Excite.</title>
+<headline>Intuit acquires 19 pct of Excite.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-06-30</dateline>
+<text>
+<p>Intuit Inc, the financial software developer, Monday completed definitive agreements and cleared regulatory hurdles to acquire 19 percent of Internet search service Excite Inc.</p>
+<p>In a statement, Intuit said it purchased 2.9 million Excite shares at $13.50 a share for a total value of about $39.1 million.</p>
+<p>The deal, unveiled on June 11, makes Intuit the exclusive provider of financial content on all of Excite's services. In return, Excite will become the exclusive Internet search engine for Excite software like Quicken, Quickbooks and TurboTax.  </p>
+<p>The companies plan to launch a new financial &quot;channel&quot; on the Internet this summer. It will offer content and services to help consumers manage their finances, and will feature financial news, stock quotes and transactional services.</p>
+<p>The financial channel will be distributed through the Excite Network, which has 2.5 million daily users, and through Intuit's Quicken Financial Network. The companies also plan to promote the financial channel to Quicken's 10 million software customers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22177" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Microsoft knows of no new DOJ inquiry.</title>
+<headline>Microsoft knows of no new DOJ inquiry.</headline>
+<dateline>SAN FRANCISCO 1996-08-29</dateline>
+<text>
+<p>Microsoft Corp executive vice president Steve Ballmer said he was not aware of any fresh inquiries by the U.S. Department of Justice following complaints by Netscape Communications Corp over Microsoft's business practices.</p>
+<p>&quot;No, not to the best of my knowledge,&quot; Ballmer said in answer to a reporter's question during a news conference at a Windows NT Intranet exposition here.</p>
+<p>&quot;We have not received any request for information from the Department of Justice,&quot; Ballmer said.  </p>
+<p>In recent weeks, the battle between Microsoft and Netscape over the market for Internet browsers has intensified, with a lawyer for Netscape writing an eight-page letter to the Justice Depertment, complaining of practices he said violated U.S. antitrust laws and Microsoft's 1994 consent decree with the Justice Department.</p>
+<p>That decree followed a five year investigation initially by the Federal Trade Commission and subsequently by the Department of Justice into allegations of anticompetitive behavior by Microsoft.  </p>
+<p>Ballmer, however, said Netscape's strategy was similar to that taken by other companies who had lost market share to Microsoft.</p>
+<p>Apple Computer Inc brought a lawsuit claiming that Microsoft had broken copyright laws in adopting the &quot;look and feel&quot; of Apple's Macintosh computer systems. Microsoft succeeded in defending itself in that case, which lasted for five years. &quot;This is getting to be an old ploy,&quot; Ballmer said, adding that &quot;Netscape is copying out of the books of the people that preceded them. It didn't work for the last guys who complained.&quot;  </p>
+<p>Both Microsoft and Netscape earlier this month introduced new versions of their Internet browser software and Microsoft is seen as aggressively challenging Netscape's estimated 80 percent share of the browser market.</p>
+<p>Netscape in its complaint accused Microsoft of using unfair means to persuade customers to favor its own Microsoft Internet Explorer browser over other products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

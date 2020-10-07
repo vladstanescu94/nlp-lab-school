@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162701" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: CA, Cheyenne call motion without merit.</title>
+<headline>CA, Cheyenne call motion without merit.</headline>
+<dateline>ISLANDIA, N.Y. 1996-11-04</dateline>
+<text>
+<p>Computer Associates International Inc and Cheyenne Software Inc said on Monday they consider a motion to preliminarily enjoin the completion of CA's tender to buy Cheyenne as without merit.</p>
+<p>The companies said in a joint statement that they deny any wrongdoing and will defend the action vigorously.</p>
+<p>A hearing is set for November 6 in Delaware Chancery Court to consider a motion related to an amendment to a class action complaint originally filed against Cheyenne in April, 1996.</p>
+<p>The motion alleges, among other things, that Cheyenne's directors breached their fiduciary duties by rejecting an earlier offer from McAfee Associates Inc to negotiate a merger of Cheyenne and McAfee and by agreeing to the proposed transaction with CA.</p>
+<p>The amended complaint also names CA as a party to the litigation, the companies said.</p>
+<p>The companies said the tender offer is scheduled to expire on November 8, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

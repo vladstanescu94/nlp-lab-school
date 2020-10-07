@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246460" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Sun Micro makes move to standardize Java.</title>
+<headline>Sun Micro makes move to standardize Java.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-12-10</dateline>
+<text>
+<p>Sun Microsystems Inc said it will announce on Wednesday an initiative with several industry leaders to standardize its popular Java programming language, which is widely used to develop Internet software.</p>
+<p>Sun said International Business Machines Corp, Apple Computer Inc, Netscape Communications Corp, Oracle Corp and others support its initiative, which will guarantee a program is &quot;pure Java.&quot;</p>
+<p>The move comes amid recent industry talk that the Java language could become fragmented with multiple versions.  </p>
+<p>Recently, there have been a spate of reports in the computer industry trade press about fears that Java -- which enables software developers to write an application in the Java language and it will run on any computer system -- will become fragmented like the UNIX operating system.</p>
+<p>There are now at least twenty different versions of UNIX, which was developed by AT&amp;T Corp as a high-performance operating system for networked computers, and these multiple versions prevented its widespread industry adoption.</p>
+<p>&quot;There has been a great deal of concern about Java splintering,&quot; said Jon Kannegaard, vice president of software.  </p>
+<p>The brouhaha started at Comdex, the industry's biggest trade show, when Microsoft Corp announced plans to develop several programming interfaces and tools for the Java language. The resulting programs developed with their software programming tools would run only on its Windows software.</p>
+<p>&quot;There really will be a tug and we are making sure that you don't give anything up by going with the 100 percent pure solution,&quot; Kannegaard said.</p>
+<p>Wednesday, Sun will unveil what the &quot;100 Percent Pure Java&quot; initiative, which will provide education for the industry, developer assistance and program certification.  </p>
+<p>In the first quarter of 1997, Sun will introduce testing, certification and branding for applications that pass its criteria. Sun, IBM, and Netscape will launch a worldwide educational tour aimed at training software developers to write and test Pure Java applications.</p>
+<p>Sun said that it hopes its initiative will help contribute to the momentum that has been building all year around Java, a language it originally developed for interactive television.</p>
+<p>&quot;If we think of 1996 as 'the year of Java, the platform,' then we should think of 1997 as 'the year of Java deployment,'&quot; Kannegaard said.  </p>
+<p>Sun said that a recent survey by Morgan Stanley indicated that 75 percent of the corporations interviewed were developing, or had plans to develop applications using Java.</p>
+<p>Java - which is widely used to develop World Wide Web sites and content on the Internet - lets developers write a program once that will run on any system compatible with Java. Developers can also easily add animation and other features.</p>
+<p>Over 200,000 software developers are now writing applications in Java. Sun said it will spend millions of dollars on its 100 Percent Pure Java program. Sun's JavaSoft unit is leading the initiative to standardize Java.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

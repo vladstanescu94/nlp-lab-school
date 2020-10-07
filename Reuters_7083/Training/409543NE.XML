@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="409543" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: E-mail seen as better marketing tool than Web Site.</title>
+<headline>E-mail seen as better marketing tool than Web Site.</headline>
+<byline>Randall Mikkelsen</byline>
+<dateline>PHILADELPHIA 1997-02-27</dateline>
+<text>
+<p>Electronic mail will soon surpass World Wide Web sites as a key to doing business over the Internet, industry leaders said Friday.</p>
+<p>&quot;E-mail has the ability to become a point-of-sale terminal...to become a purchase order,&quot; said Lee Stein, president of First Virtual Holdings Inc, which has developed a payments system for Internet commerce and entered Internet marketing relationships with firms such as Bell Atlantic Corp.  </p>
+<p>Advances in e-mail and marketing database technology will make e-mail a preferred method of reaching customers, Stein and other industry executives predicted at a Wharton business school seminar.</p>
+<p>Stein said First Virtual's software can send e-mail advertisements with the graphics and interactive capabilities of World Wide Web pages. Receivers of e-mail ads can place orders through them using First Virtual's &quot;Virtual PIN&quot; security identification code. The transaction system also allows the sender of the original e-mail message to receive a commission for any order placed by the recipient.  </p>
+<p>Stein said software &quot;filters&quot; should be available in 1998, allowing users to block indiscriminate &quot;junk&quot; e-mail and specify the kinds of e-mail they will accept. This, he said, would help make e-mail a more efficient way to reach potential customers than hoping they find their way to a Web site.</p>
+<p>A panel of other Internet industry leaders offered similar assessments of e-mail's growing potential for direct marketing.  </p>
+<p>Greg Shove, vice president for electronic commerce at America Online Inc, said direct marketing, &quot;might be horrfying...but it's what's working,&quot; as a business model for Internet companies.</p>
+<p>He said America On-Line's own product pitches, made to consumers as they sign on, &quot;are a profit driver for the company&quot; and added that the company expects its large subscriber base to attract more advertisers.</p>
+<p>&quot;We have basically the information you need to develop one-to-one marketing,&quot; he said.  </p>
+<p>For instance, he said, a new America On-Line venture with Barnes &amp; Noble Inc allows the bookstore chain to compete with Web bookseller Amazon. He said the rivals will need to add value, and therefore charge for, their services as price competition increases. One way they could do this would be to track customers' buying preferences, and help publishers reach consumers with specific preferences, he said.</p>
+<p>Lycos Inc, , producer of a &quot;search engine&quot; to find information on the Web, is also looking at ways to tailor its product to individual needs, said product development director Jeff Crown.</p>
+<p>Crown said Lycos was on the verge of &quot;a major product relaunch,&quot; brought about by a large market study. He did not disclose the results of the study, but said it was aimed at &quot;providing a very useful guide to the Internet...a navigational center.&quot;</p>
+<p>Advertising would continue to play an important role, he said. &quot;The value of providing targeted content with a targeted ad or a targeted offer is significant.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I47530">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

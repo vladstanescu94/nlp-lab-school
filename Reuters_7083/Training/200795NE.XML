@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200795" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: Microsoft releases Office 97.</title>
+<headline>Microsoft releases Office 97.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>LAS VEGAS 1996-11-18</dateline>
+<text>
+<p>Microsoft Corp said on Monday it had sent the final version of Office 97 -- a product that is expected to be its biggest revenue generator in 1997 -- to factories and will have it in stores within weeks.</p>
+<p>The product, a package of Microsoft's top-selling business programs, is Microsoft's biggest new product since the release of Windows 95, and is expected by analysts to increase the company's revenue by about 15 to 20 percent this year.</p>
+<p>About half of Microsoft's $8 billion in revenue came from business applications last year.</p>
+<p>&quot;People on the (Office 97) development team were jumping in the fountain this afternoon,&quot; just after Microsoft sent the final version to manufacturing, said Pete Higgins, Microsoft group vice president of applications.</p>
+<p>The new version, which had been in development for more than two years, features better ties to the Internet, help tools that guide computer users through common tasks and a new component called Outlook, which manages computer users' documents, appointments, contacts and electronic mail.  </p>
+<p>Higgins said the standard edition of Office 97 will cost about $239 for users of existing versions of Office. He said Office 97 will be available on a limited basis in December, and more broadly in early January.</p>
+<p>Foreign versions of the product will be available a month to six months later, he said.</p>
+<p>Analysts said the new version has several significant features that could goad corporate computer buyers to upgrade.</p>
+<p>&quot;It will take some time to catch on because it requires a high-end PC,&quot; said Mary Meeker, an analyst at Morgan Stanley &amp; Co. &quot;But I think products like these are going to drive PC sales.&quot;</p>
+<p>On Sunday, International Business Machine Corp's Lotus Development Corp unveiled its own suite of office applications, called SmartSuite 97, which it said would begin shipping in January.</p>
+<p>Microsoft has roughly 70 percent of the market by unit volume, followed by Lotus with 23 percent, according to recent market research data.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

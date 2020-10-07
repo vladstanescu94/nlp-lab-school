@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="729613" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Novell, IBM offer gateway products.</title>
+<headline>Novell, IBM offer gateway products.</headline>
+<dateline>PALO ALTO, Calif. 1997-07-14</dateline>
+<text>
+<p>Novell Inc. said it and International Business Machines Corp. will Tuesday unveil a new version of Novell's gateway product for IBM's AS/400 line of midrange computers.</p>
+<p>A Novell spokesman said the company views what it calls the host-connectivity business, which links various established computer systems, as a $50 million to $60 million revenue opportunity which also serves to promote sales of Novell's Intranetware and other products.</p>
+<p>The product, dubbed IntranetWare for SAA AS/400 Edition 2 enables customers to integrate their existing systems' new applications to deploy Internet technologies across local area networks, the company said.</p>
+<p>Last week, Novell said it has incorporated its Novell Directory Services (NDS) product into IBM's RS/6000 workstations and S/390 mainframe systems. NDS enables companies to connect and manage diverse networked systems.</p>
+<p>David Holbrook, product line manager for host connectivity products at Novell, said the products &quot;help customers that have an investment in IBM minicomputers and mainframes to integrate those with local area networks.&quot;</p>
+<p>For example, a person could print a report originally designed to print on an AS/400 dedicated printer on other types of machines.</p>
+<p>IntranetWare will be available immediately in English, French, German, Italian, Portuguese and Spanish priced from $995 for a five-user package to $7,695 for a 100-user package.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

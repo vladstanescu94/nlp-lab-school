@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127303" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: NetManage Q3 hurt by Windows delays.</title>
+<headline>NetManage Q3 hurt by Windows delays.</headline>
+<dateline>CUPERTINO, Calif. 1996-10-18</dateline>
+<text>
+<p>NetManage Inc, reporting sharply lower third-quarter profit, said Friday it had been hurt by customers delaying use of Windows 95 and Windows NT in their networks, as well as overall uncertainty about what technology to use.</p>
+<p>&quot;Our performance in the third quarter reflects an overall industry trend characterized by a delay in implementation of Windows 95 and NT by customers, and general confusion over future direction for desktop platforms by corporate accounts,&quot; said Zvi Alon, president and chief executive officer of NetManage, in a statement accompanying the earnings announcement.</p>
+<p>&quot;Many customers have been waiting for the release of Windows NT 4.0, which only recently shipped. In addition, our continued investment in expanding our direct corporate sales and support in the U.S. has yet to produce the expected results,&quot; he said.</p>
+<p>Alon said the company remained optimistic about &quot;the basic business for connectivity application software.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

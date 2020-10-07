@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="731288" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: TABLE - Storm Technology Q2 results.</title>
+<headline>TABLE - Storm Technology Q2 results.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-07-16</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>	 Three Months Ended June 3O,  Six Months Ended June 30,</p>
+<p>			     1997	   1996     1997	  1996</p>
+<p>Revenues:</p>
+<p>   Product		$6,430	$5,198    $8,260     $7,633</p>
+<p>   Royalty and other     172	   294	 389	  388</p>
+<p>     Total revenues    6,602	 5,492     8,649	8,021</p>
+<p>Cost of product revenues</p>
+<p>			     6,300	 3,716    10,068	5,697</p>
+<p> Gross profit (loss)     302	 1,776   (1,419)	2,324</p>
+<p>Operating expenses:</p>
+<p>Research and</p>
+<p>    development	  1,289	   666     2,405	1,125</p>
+<p>Marketing and selling</p>
+<p>			     1,991	 2,017     4,079	3,419</p>
+<p>General and</p>
+<p>    administrative     1,158	   477     2,589	  702</p>
+<p>In-process research</p>
+<p>    and development	 --	    --	  --	5,000</p>
+<p>Total operating</p>
+<p>	expenses	   4,438	 3,160     9,073     10,246</p>
+<p>Loss from operations</p>
+<p>			   (4,136)     (1,384)  (10,492)    (7,922)</p>
+<p>Interest income</p>
+<p>  (expense), net	    90	    14	 180	   33</p>
+<p> Net loss		(4,046)     (1,370)  (10,312)    (7,889)</p>
+<p>Net loss per common</p>
+<p>and common equivalent</p>
+<p>   share		  (0.39)	(0.17)    (0.99)     (0.98)</p>
+<p>Weighted average number</p>
+<p>of common and common</p>
+<p>  equivalent shares   10,406	 8,246    10,415	8,047</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

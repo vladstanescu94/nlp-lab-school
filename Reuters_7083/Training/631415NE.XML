@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="631415" id="root" date="1997-06-02" xml:lang="en">
+<title>USA: More info sought on Rational Software deal.</title>
+<headline>More info sought on Rational Software deal.</headline>
+<dateline>SANTA CLARA, Calif. 1997-06-02</dateline>
+<text>
+<p>Rational Software Corp and Pure Atria Corp said early Monday they have received a request for additional information from the Department of Justice in connection with their planned merger.</p>
+<p>The request extends the waiting period under the Hart-Scott-Rodino antitrust law during during which the Justice Department is permitted to review the proposed transaction.</p>
+<p>The deal, which was announced in early April, has an estimated value of $839 million.</p>
+<p>The companies said they intend to promptly furnish the Justice Department with all information necessary for the timely completion of its investigation.</p>
+<p>The companies said they still anticipate closing the proposed merger, under which Rational Software is to acquire Pure Atria, by mid-August.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

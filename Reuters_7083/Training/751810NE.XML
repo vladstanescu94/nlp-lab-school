@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751810" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - Spectrum Holobyte Inc Q1 results.</title>
+<headline>TABLE - Spectrum Holobyte Inc Q1 results.</headline>
+<dateline>ALAMEDA, Calif. 1997-07-24</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>						     Three Months Ended</p>
+<p>							   June 30,</p>
+<p>					   1997			  1996</p>
+<p>						    (unaudited)</p>
+<p>    Net revenue		   $13,580		     $13,072</p>
+<p>    Cost of revenue		 5,778			 4,899</p>
+<p>     Gross profit		   7,802			 8,173</p>
+<p>Operating expenses:</p>
+<p>     Sales and marketing	  4,181			 4,582</p>
+<p>     General and administrative 3,173			 3,672</p>
+<p>     Research and development   5,863			 5,688</p>
+<p>	Total operating expenses 13,217			13,942</p>
+<p>    Operating loss		(5,415)		     (5,769)</p>
+<p>Other income (expense), net</p>
+<p>					(2,897)			 1,586</p>
+<p>Net loss before</p>
+<p>     extraordinary item	 (8,312)		     (4,183)</p>
+<p>Extraordinary item, net</p>
+<p>     of tax effect		     --			 2,668</p>
+<p>    Net loss		     $(8,312)		    $(1,515)</p>
+<p>Per share data:</p>
+<p>Net loss before extraordinary</p>
+<p>     item			   $(0.30)		     $(0.18)</p>
+<p>Extraordinary item, net</p>
+<p>     of tax effect		     --			  0.11</p>
+<p>    Net loss per share	  $(0.30)		     $(0.07)</p>
+<p>Shares used in per share</p>
+<p>     computations		  28,304			24,384</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALAMEDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

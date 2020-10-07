@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14058" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Atria, Pure Software merge.</title>
+<headline>Atria, Pure Software merge.</headline>
+<dateline>LEXINGTON, Mass. 1996-08-26</dateline>
+<text>
+<p>Atria Software Inc and Pure Software Inc said on Monday their shareholders had approved a merger to create Pure Atria Corp. The merger will be completed today, they said.</p>
+<p>The companies said the merger transaction will be accounted for as a pooling of interests, and the combined company expects to incur a one-time charge of about $36 million in the third quarter of 1996, for direct merger transaction costs, and costs associated with integrating the companies, and other merger related expenses.</p>
+<p>A merger agreement was announced on June 6 and was approved by shareholders on August 23 following special shareholder meetings held by both companies.</p>
+<p>Each outstanding share of Atria will be converted into 1.54 shares of Pure Atria.</p>
+<p>The newly combined company is to be among the leaders in the fast-growing Automated Software Quality (ASQ) market, the companies said.</p>
+<p>Pure Atria offers an integrated set of ASQ products designed to enable Windows and UNIX development teams to address the challenges of complex software development, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

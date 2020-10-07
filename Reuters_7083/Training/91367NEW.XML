@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91367" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Fix for latest Internet hacker attack released.</title>
+<headline>Fix for latest Internet hacker attack released.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1996-10-02</dateline>
+<text>
+<p>A small Colorado software firm released a program on Wednesday to protect computers on the Internet from the latest form of hacker attack.</p>
+<p>Unknown hackers have virtually shut down about 20 Internet sites over the past month by transmitting vast streams of bogus data to the computers that serve as the sites' hosts.</p>
+<p>An attack against Public Access Networks Corp, the oldest public Internet provider in New York City, beginning September 6 quickly brought the company's system to its knees.  </p>
+<p>Berkeley Software Design Inc said its new fix, which alters the software that operates computers of Internet service providers, helps filter out bogus data and make systems less likely to crash when under attack. The company posted the new code on its Web site, http://www.bsdi.com.</p>
+<p>&quot;Protecting the Internet from attacks requires a coordinated response from the entire Internet community,&quot; said Mike Karels, vice president of engineering at Berkeley.</p>
+<p>The hackers' technique, known as SYN-flood, has been a theoretical possibility for years, but instructions to carry out an attack were published in two hacker magazines recently.  </p>
+<p>&quot;We're not sure why now,&quot; said Larry Rogers, senior member of the Computer Emergency Response Team, or CERT, Coordination Center at Carnegie Mellon University. The magazine articles were out for several months before the attacks began, he noted.</p>
+<p>Rogers compared a SYN-flood attack to tying up the phone lines of a business dependent on telephones with crank calls.</p>
+<p>CERT has issued an advisory on warding off the attacks and Rogers said other vendors would follow Berkeley's lead and release software fixes.  </p>
+<p>A more effective remedy is likely some years off.</p>
+<p>Various Internet bodies are debating the next generation of standards and protocols, called IP6, to control traffic flowing across the network.</p>
+<p>In a few years, when IP6 is in place, SYN-flood attackers will not be able to mask their location and should be deterred, Rogers said. &quot;You could still attack but you would simply be able to find out with no question who it is,&quot; he said.</p>
+<p>The mode of attack is used against computers connected full-time to the Internet to provide Web sites, electronic mail boxes or other services. It does not directly affect the vast majority of users who connect to the Internet through modems and online services.</p>
+<p>Berkeley sells a line of software originally developed at the University of California in Berkeley that is widely used to operate computers on the Internet.</p>
+<p>--202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

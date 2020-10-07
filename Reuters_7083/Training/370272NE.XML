@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="370272" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: Keane Inc Q4 shr $0.21 vs $0.12.</title>
+<headline>Keane Inc Q4 shr $0.21 vs $0.12.</headline>
+<dateline>BOSTON 1997-02-11</dateline>
+<text>
+<p>For the Quarter</p>
+<p>				    ending December 31</p>
+<p>				   1996	     1995</p>
+<p> Revenues	     $127,354,000   $101,124,000</p>
+<p> Net Income		7,035,000	3,788,000</p>
+<p> E.P.S.			    .21	     .12*</p>
+<p> Shares		   33,458,174    32,821,714*</p>
+<p>NOTE: *Adjusted to reflect the company's 2 for 1 stock split in the form of a dividend that was distributed November 29, 1996 to shareholders of record as of November 14, 1996.</p>
+<p>					  For the Year</p>
+<p>				  ending December 31</p>
+<p>				     1996		  1995</p>
+<p> Revenues		    $467,090,000     $382,739,000</p>
+<p> Net Income		    25,358,000	 19,257,000</p>
+<p> E.P.S.				   .76		 .59*</p>
+<p> Shares			  33,226,618	32,695,506*</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

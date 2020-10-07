@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104663" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: PSINet teams up to offer Internet service.</title>
+<headline>PSINet teams up to offer Internet service.</headline>
+<dateline>HERNDON, Va. 1996-10-09</dateline>
+<text>
+<p>PSINet Inc, CyberCash Inc and Mercantec Inc said Wedneday they have introduced PSIWeb eCommerce, a service for businesses seeking to sell products and services on the Internet.</p>
+<p>The service is being made available immediately with PSIWeb, a World Wide Web hosting service of PSINet Publishing Corp.</p>
+<p>CyberCash will provide the electronic payment system, which is designed to process purchases securely.  </p>
+<p>Mercantec's SoftCart software will be used to keep track of each customer's purchases and set up the payment method and shipping.</p>
+<p>CyberCash is based in Reston, Va. Mercantec is based in Lisle, Ill.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HERNDON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

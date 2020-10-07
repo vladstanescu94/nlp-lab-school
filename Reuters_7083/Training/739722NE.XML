@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="739722" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: TABLE - Applix Inc Q2 shr loss vs profit.</title>
+<headline>TABLE - Applix Inc Q2 shr loss vs profit.</headline>
+<dateline>WESTBORO, Mass. 1997-07-17</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>			     Three Months Ended    Six Months Ended</p>
+<p>				Jun 30,    Jun 30,   Jun 30,  Jun 30,</p>
+<p>				   1997	 1996	1997     1996</p>
+<p> License revenue	   $8,367     $8,548   $15,877  $16,357</p>
+<p> Service revenue	    3,338	3,567     6,924    6,546</p>
+<p>	Total revenues     11,705     12,115    22,801   22,903</p>
+<p> Cost of license revenue    792	  542     1,605    1,063</p>
+<p> Cost of service revenue  1,715	1,156     3,250    2,233</p>
+<p>	Gross margin	  9,198     10,417    17,946   19,607</p>
+<p>Operating expenses:</p>
+<p>   Selling and marketing  6,995	5,201    13,941    9,789</p>
+<p>Research and development</p>
+<p>				  2,282	1,558     4,545    3,006</p>
+<p>General and</p>
+<p>    administrative	    989	  791     1,846    1,671</p>
+<p>Total operating</p>
+<p>	 expenses	    10,266	7,550    20,332   14,466</p>
+<p>Operating (loss) income</p>
+<p>				(1,068)	2,867   (2,386)    5,141</p>
+<p> Interest income (net)	244	  300	 474	627</p>
+<p>Net (loss)income</p>
+<p>  before income taxes     (824)	3,167   (1,912)    5,768</p>
+<p>Provision for</p>
+<p>(benefit from) income</p>
+<p>  taxes			 (305)	1,110     (712)    2,018</p>
+<p> Net (loss) income	 ( 519)	2,057  ( 1,200)    3,750</p>
+<p>Net (loss) income per</p>
+<p>common and common</p>
+<p>  equivalent share	( 0.05)	 0.19   ( 0.12)     0.35</p>
+<p>Weighted average</p>
+<p>common and common</p>
+<p>equivalent shares</p>
+<p>   outstanding		9,986     10,767     9,945   10,746</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

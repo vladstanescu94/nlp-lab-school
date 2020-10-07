@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="755318" id="root" date="1997-07-24" xml:lang="en">
+<title>GERMANY: SAP details second quarter results.</title>
+<headline>SAP details second quarter results.</headline>
+<dateline>FRANKFURT 1997-07-24</dateline>
+<text>
+<p>Results for the second quarter ending June 30 (in millions of marks unless stated):</p>
+<p>					     Q297	    Q296</p>
+<p>    Group sales			 1,370    vs     904</p>
+<p>    Group pretax profit		 401    vs     257</p>
+<p>Sales breakdown:</p>
+<p>	Product sales		     920    vs     647</p>
+<p>	Consulting			  280    vs     171</p>
+<p>	Training			    150    vs	72</p>
+<p>	Other				  20    vs	14</p>
+<p>NOTE - Full name of the German software group is SAP AG.</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

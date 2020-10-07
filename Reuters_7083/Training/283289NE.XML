@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283289" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: American Medcare to merge into InfoCure.</title>
+<headline>American Medcare to merge into InfoCure.</headline>
+<dateline>ATLANTA 1997-01-02</dateline>
+<text>
+<p>American Medcare Corp said Thursday it signed a letter of intent to merge into InfoCure Corp. </p>
+<p>The company said InfoCure will exchange about 3.3 million shares of its common stock for all of the issued and outstanding stock of American Medcare.</p>
+<p>It said the merger would occur in the first quarter of 1997 when InfoCure makes its initial public offering.</p>
+<p>InfoCure was formed by executives of American Medcare to make acquisitions of certain practice management system businesses.</p>
+<p>American said a wholly owned subsidiary acquired the assets of the healthcare division of Info Systems Inc, headquartered in Charlotte, North Carolina.</p>
+<p>The division markets practice management systems to mid- and large-sized medical practices and clinics, it said.</p>
+<p>The aggregate consideration consisted of $150,000 in cash and a promissory note of $1.6 million, it added.</p>
+<p>American also said it had signed a letter of intent with Atlanta-based Millard-Wayne Inc to acquire all of its outstanding capital stock for cash and common stock. Millard-Wayne is in the same business as Info Systems.</p>
+<p>American Medcare is a supplier of practice management software and services to health care providers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

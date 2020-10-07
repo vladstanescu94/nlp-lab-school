@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="430564" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: Spyglass device market software available.</title>
+<headline>Spyglass device market software available.</headline>
+<dateline>NAPERVILLE, Ill. 1997-03-10</dateline>
+<text>
+<p>Spyglass Inc said Monday it released its Spyglass Device Mosaic 1.0, a software that requires very little memory and can be used to link devices other than computers to the Internet.</p>
+<p>In a related announcement, Spyglass said its Spyglass MicroServer is also available. The MicroServer can be used in office equipment, vending machines and industrial equipment.</p>
+<p>Spyglass said Xerox Corp has become the first licensee of the the MicroServer technology. MicroServer allows products such as copy machines to provide diagnostics or data via the Internet.  </p>
+<p>Spyglass said networking company Network Computing Devices Inc has licensed Device Mosaic for use in its network computers.</p>
+<p>Development licenses for Device Mosaic and the MicroServer start at $50,000, Spyglass said.</p>
+<p>Spyglass also said it will unveil its Spyglass Prism, which takes content from the World Wide Web and adapts it for non-computer devices.</p>
+<p>The announcements are part of Spyglass's move into the &quot;device market&quot;, connecting non-computer products and appliances to the Web and each other using the Internet protocol.</p>
+<p>&quot;We're making it real with product shipments and with deals,&quot; said Randy Pitzer, spokesman for Spyglass.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

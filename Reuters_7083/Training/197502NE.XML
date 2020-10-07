@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197502" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Pure Atria buys Integrity QA for $43 mln.</title>
+<headline>Pure Atria buys Integrity QA for $43 mln.</headline>
+<dateline>SUNNYVALE, Calif. 1996-11-18</dateline>
+<text>
+<p>Pure Atria said Monday it had agreed to acquire Integrity QA Software, a privately-held company, in a deal valued at about $43 million.</p>
+<p>Pure Atria said it will pay $30 million in common stock and $13 million in cash for Integrity.</p>
+<p>It said it expects to record a one-time charge of about $48 million to write off in-process research and development and other costs. The deal should close within the next 60 days, it said.</p>
+<p>Integrity, of Campbell, Calif., is developing technology to automatically detect software defects.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

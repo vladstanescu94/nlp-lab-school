@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114712" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Netscape, 40 companies in real-time media pact.</title>
+<headline>Netscape, 40 companies in real-time media pact.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-10-14</dateline>
+<text>
+<p>One of the Internet users' biggest frustrations -- the long wait required to access audio and video -- could be eliminated if 42 companies are successful in an effort announced Monday.</p>
+<p>Netscape Communications Corp. and Progressive Networks Inc. said they and 40 other companies agreed to a proposed standard for delivering video and audio instantaneously over the Internet.</p>
+<p>The so-called Real Time Streaming Protocol (RTSP) is a set of communications rules for control and delivery of real-time media. It would allow bits of audio or video data to &quot;stream&quot; through a transmission wire in broadcast fashion and be received by a computer in so-called real time, replacing the need to download the entire video or audio onto a computer's hard disk before a user could view or listen to it.</p>
+<p>Currently several companies have &quot;streaming&quot; audio technologies on the market. Some are software, such as Macromedia Inc.'s &quot;Shockwave,&quot; and others use broadcasting technology, such as Progressive Network's &quot;RealAudio.&quot;</p>
+<p>Analysts say the effort to establish a standard protocol could spur development of applications that use the technology, as well as a market for them.</p>
+<p>&quot;With Real Time Streaming Protocol, what they are trying to do is extend streaming as a standard to all sorts of areas,&quot; said Dana Blankenhorn, senior online editor at NetGuide, the largest Internet trade magazine.</p>
+<p>&quot;A number of companies have come out with streaming technologies but they are all a bit different. What Netscape and Progressive are trying to do is at least provide a framework in which these things work together so it ceases to matter what (type of computer operating system) you have.&quot;</p>
+<p>Until now, each vendor of Internet multimedia systems had a different approach, which has led to confusion, said Jerry Michalski, managing editor of Release 1.0, a computer industry newsletter.</p>
+<p>&quot;This, combined with the impressive group of industry-leading companies that support RTSP, should catalyze streaming media development on the Web,&quot; he said.</p>
+<p>Backers of the new standard include computer industry giants such as Apple Computer Inc., Autodesk Inc.'s Kinetix unit, Cisco Systems Inc., Hewlett-Packard Co., International Business Machines Corp., Silicon Graphics Inc., Sun Microsystems Inc. and Macromedia Inc.</p>
+<p>Notably absent from the list was Microsoft Corp.</p>
+<p>Microsoft's absence is important because it could mean Microsoft -- Netscape's nemesis -- might counter with its own code or standard before the industry settles on one.</p>
+<p>&quot;Everytime Netscape makes a proposal for a standard, Microsoft generally responds,&quot; NetGuide's Blankenhorn said.</p>
+<p>A Microsoft spokesman said the company was evaluating the new protocol but declined to elaborate. &quot;We are committed to the concept of an open standards process for the whole environment regarding streaming multimedia,&quot; he said.</p>
+<p>Gartner Group analyst David Smith said that Netscape, in a sense, could be responding to Microsoft's NetMeeting technology, which allows users to share a document and make alterations without having to download it each time it is changed.</p>
+<p>The backers of RTSP compare development of the standard to similar standards efforts in other broadcast media such as FM, or Frequency Modulation, in radio and the NTSC, or National Television Standards Committee, which is the U.S. and Canadian television industry standard broadcast quality video.</p>
+<p>Widespread support for this unified standard is considered crucial to ensure interoperability and give software developers more flexibility in developing multimedia programmes.</p>
+<p>RTSP evolved from work done at Progressive Networks and Netscape. Progressive Networks is a leading provider of Internet voice transmission technology based in Seattle, Wash.</p>
+<p>The RTSP incorporates aspects of the International Telecommunications Unions H.323 videoconferencing standard and is designed to minimise the amount of data necessary to produce high quality sound and pictures over the Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

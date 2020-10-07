@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569950" id="root" date="1997-05-08" xml:lang="en">
+<title>INDIA: India software stocks rally after tax concession.</title>
+<headline>India software stocks rally after tax concession.</headline>
+<dateline>BOMBAY 1997-05-08</dateline>
+<text>
+<p>Shares of Indian software firms staged a sharp rally on Thursday at the National Stock Exchange after the government offered a tax concesssion to profits earned from software exports, traders said.</p>
+<p>Finance Minister P. Chidambaram said on Wednesday that he was proposing to exclude profits earned from software exports from a mininum tax on companies.  </p>
+<p>Chidambaram told parliament that the government had introduced the change in the 1997/98 (April-March) Finance bill which parliament is expected to approve on Friday.</p>
+<p>At the National Stock Exchange, NIIT shares rose 5.70 rupees to 376.0, Infosys 40.0 to 1,467.0, Satyam Computers 3.30 to 73.80 rupees and Tata Unisys 15.0 to 600.</p>
+<p>Software stocks have been market outperformers in recent months, with many brokerage firms giving &quot;buy&quot; recommendations on the companies forecasting strong performance.</p>
+<p>The Bombay Stock Exchange is closed for a local holiday, but other Indian exchanges are open.</p>
+<p>-- Bombay equities desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

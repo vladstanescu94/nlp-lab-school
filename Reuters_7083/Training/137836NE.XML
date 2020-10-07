@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137836" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Fourth Shift Corp Q3 full results.</title>
+<headline>Fourth Shift Corp Q3 full results.</headline>
+<dateline>MINNEAPOLIS 1996-10-22</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				Three months ended  Nine months ended</p>
+<p>				   September 30	  September 30</p>
+<p>				  1996	1995	1996	 1995</p>
+<p> Total revenue	    11,891     8,981    34,886     26,452</p>
+<p>Loss from discontinued</p>
+<p>   operations		   --	 (9)	  --    (7,807)</p>
+<p>Net gain on sale of</p>
+<p>discontinued operations</p>
+<p>				   193	  --	 565	   --</p>
+<p>Total discontinued</p>
+<p>	operations	     193	 (9)	 565    (7,807)</p>
+<p> NET INCOME (LOSS)	   355	  55     1,420    (7,950)</p>
+<p>EARNINGS (LOSS) PER COMMON SHARE:   Continuing operations   0.02	0.01	0.09     (0.02)</p>
+<p>Discontinued</p>
+<p>   operations		 0.02    (0.00)	0.05     (0.83)</p>
+<p>  Net income (loss)	 0.04	0.01	0.14     (0.85)</p>
+<p>  AVG SHARES		9,969     9,560     9,852	9,350</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

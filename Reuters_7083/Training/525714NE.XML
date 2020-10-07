@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="525714" id="root" date="1997-04-21" xml:lang="en">
+<title>UK: Coda Group finance director Shay resigns.</title>
+<headline>Coda Group finance director Shay resigns.</headline>
+<dateline>LONDON 1997-04-21</dateline>
+<text>
+<p>Loss-making British business systems firm, the Coda Group Plc said on Monday that its finance director Ian Shay had resigned with immediate effect to pursue alternative opportunities.</p>
+<p>The company said it was looking for a new finance director and until then the group's finance team would be looking after its accounting requirements.</p>
+<p>The company did not say whether it had sacked Shay but said: &quot;We intend to appoint a new finance director with appropriate experience and qualifications to take the group forward in the next phase of development&quot;.</p>
+<p>Coda supplies financial and management information systems.</p>
+<p>--London Newsroom +44 171 542 4366</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

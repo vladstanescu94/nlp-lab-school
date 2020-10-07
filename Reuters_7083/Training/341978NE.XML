@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="341978" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Former Oracle employee found guilty of perjury.</title>
+<headline>Former Oracle employee found guilty of perjury.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-01-28</dateline>
+<text>
+<p>A former employee of software company Oracle Corp. was found guilty on Tuesday of creating false electronic mail and lying about it under oath to support a wrongful termination suit.</p>
+<p>A jury of eight women and four men deliberated for just under a day at a court in Redwood City, near San Francisco, before pronouncing Adelyn Lee, 33, guilty of two counts of perjury, one count of preparing a false document and one count of offering a false document into evidence.</p>
+<p>Lee, a former administrative assistant at Oracle, once had a relationship with the company's billionaire chairman and chief executive, Lawrence Ellison.</p>
+<p>Ellison, 52, who founded the company and turned it into a Silicon Valley powerhouse, was a key witness in the three-week trial in San Mateo County Superior Court in Redwood City.</p>
+<p>Lee was fired in 1993, days after her last date with Ellison. Later that year, she filed a wrongful termination suit against the company, alleging that Ellison had had her fired for refusing to have sex with him.</p>
+<p>The cornerstone of Lee's suit was an e-mail message that she alleged was sent by her boss, former vice president for sales Craig Ramsey, to Ellison on April 22, 1993. It read: &quot;I have terminated Adelyn per your request.&quot; The suit was settled out of court for $100,000.</p>
+<p>But prosecutors later filed criminal charges against Lee, accusing her of breaking into Oracle's computer system and sending the e-mail message herself.</p>
+<p>Testifying at the trial earlier this month, Ellison denied he had had Lee fired for refusing to have sex.</p>
+<p>Ellison said Lee peppered him with requests for expensive gifts like a Rolex watch and an Acura sports car during their sporadic, 18-month relationship.</p>
+<p>Company officials said Lee was fired for tardiness and for having an abrasive attitude.</p>
+<p>Lee's attorney Gordon Rockhill said many employees at the high-tech company could have doctored e-mail records and said the evidence did not prove her guilt.</p>
+<p>In a statement released after Tuesday's hearing, Ellison said sexual harassment was a crime.</p>
+<p>&quot;It is not always the case, however, that everyone accused is guilty and everyone making a claim is telling the truth. Today a jury of 12 unanimously determined that Adelyn Lee's sexual harassment claim was based on her perjured testimony and evidence that she manufactured. And that's a crime too,&quot; Ellison said.</p>
+<p>Lee was taken into custody at the end of Tuesday's hearing and Judge Carl Holm set bail at $100,000. Lee is scheduled to be sentenced on Feb. 27 when she faces up to four years and four months in jail, San Mateo County Deputy District Attorney Paul Wasserman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

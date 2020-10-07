@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16128" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Computer Associates to use Microsoft browser.</title>
+<headline>Computer Associates to use Microsoft browser.</headline>
+<dateline>NEW ORLEANS 1996-08-27</dateline>
+<text>
+<p>Computer Associates International Inc will integrate Microsoft Corp's Internet Explorer browser with its Unicenter TNG systems management software under an agreement announced Tuesday.</p>
+<p>In an announcement made at CA's annual users conference, the two companies said they had agreed to work together on systems for managing enterprise applications, including those on the Internet's World Wide Web.  </p>
+<p>Under the agreement CA will distribute Internet Explorer 3.0 with its Unicenter TNG software developers kit.</p>
+<p>Microsoft's ActiveX Controls and &quot;Wolfpack&quot; clustering technology also will be integrated with Unicenter TNG.</p>
+<p>The two companies also agreed to support HyperMedia Management Schema and MyperMedia Management Protocol for Web-based enterprise management to ensure compatibility between their future products.</p>
+<p>				  -- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

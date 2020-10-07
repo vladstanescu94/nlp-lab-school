@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="736867" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: TABLE-OneWave Inc Q2 shr loss widens.</title>
+<headline>TABLE-OneWave Inc Q2 shr loss widens.</headline>
+<dateline>WATERTOWN, Mass. 1997-07-16</dateline>
+<text>
+<p>(In thousands, except per share data, 1996 data preceeds 1997 data)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>						June 30,     June 30,</p>
+<p>				     1996     1997     1996	1997</p>
+<p>Revenues:</p>
+<p>Software license and</p>
+<p>  maintenance		  $2,217     $248    $2,928     $548</p>
+<p>Consulting and education</p>
+<p>  services			  935	669     2,605    1,881</p>
+<p> Total revenues		 3,152	917     5,533    2,429</p>
+<p>Cost of Revenues:</p>
+<p>Software license and maintenance</p>
+<p>					321	239	 610	518</p>
+<p>Consulting and education services</p>
+<p>					845	950     1,819    2,172</p>
+<p> Total cost of revenues     1,166    1,189     2,429    2,690</p>
+<p> Gross Profit		   1,986    (272)     3,104    (261)</p>
+<p>Operating Expenses:</p>
+<p> SG&amp;A			     2,420    1,757     4,121    3,909</p>
+<p> Research and development     953	728     1,352    1,487</p>
+<p> Restructuring charge	   ---    1,782	 ---    1,782</p>
+<p>Compensation to executive</p>
+<p>  officer			 (612)	227     6,903	227</p>
+<p> Total operating expenses   2,761    4,494    12,376    7,405</p>
+<p> Operating loss		 (775)  (4,766)   (9,272)  (7,666)</p>
+<p>Interest Income (Expense), net</p>
+<p>				     (18)	472	(36)	986</p>
+<p>Net loss before provision</p>
+<p>   for income taxes	   (793)  (4,294)   (9,308)  (6,680)</p>
+<p> Provision for Income taxes   ---	---	 ---	 15</p>
+<p>  Net loss		     ( 793) ( 4,294)  ( 9,308) ( 6,695)</p>
+<p>Net Loss per Common and Common</p>
+<p>  Equivalent Share	  ( 0.06)  ( 0.29)   ( 0.71)  ( 0.45)</p>
+<p>Weighted Avg. Number of Common</p>
+<p>and Common Equivalent Shares</p>
+<p>  Outstanding		  13,141   14,734    13,141   14,856</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WATERTOWN, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521568" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: Legato says confident on 1997 estimates.</title>
+<headline>Legato says confident on 1997 estimates.</headline>
+<dateline>PALO ALTO, Calif. 1997-04-17</dateline>
+<text>
+<p>Legato Systems Inc said it remains confident it can meet analysts' estimates for 1997 earnings despite posting first quarter earnings per share which were one penny below consensus.</p>
+<p>&quot;We said we were confident with the projections that are still there,&quot; Ed Cooper, corporate director of strategic communications at Palo Alto-based Legato, said.</p>
+<p>Shares of Legato tumbled 4-5/8 to 12 as market sources cited concerns over product mix and a product transition to lower price products for network storage and backup for Microsoft Corp's Windows NT system from Unix.</p>
+<p>Market sources said some investors were concerned about Legato's ability to execute its product transition plans in the near-term and about increased competition.</p>
+<p>One market source said he expects the company to feel greater competitive pressure at the high end from Veritas Software Corp.'s newly acquired Open Vision Technologies Inc. Veritas, which reported a 67 percent jump in first quarter revenues after the market close on Wednesday, rose 3-3/8 to 30.  </p>
+<p>But Cooper said there had been no change to its competitive environment. &quot;We really don't compete in the same exact market segment,&quot; he said of Open Vision.</p>
+<p>&quot;We took a near-term blip on the radar screen for longer-term gain,&quot; he said of the company's strategy of shifting into the rapidly growing Windows NT marketplace. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

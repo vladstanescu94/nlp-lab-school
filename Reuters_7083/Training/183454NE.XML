@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183454" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Creative Computer Q4 net rises.</title>
+<headline>Creative Computer Q4 net rises.</headline>
+<dateline>CALABASAS, Calif. 1996-11-12</dateline>
+<text>
+<p>Creative Computer Applications Inc.</p>
+<p>		     Operating Results (Audited)</p>
+<p> Fiscal year Ending Aug. 31,		 1996	     1995</p>
+<p> Net Sales and Service Revenues    $ 6,236,962    $ 5,926,519</p>
+<p>Net Income before Income Tax (Benefit)</p>
+<p>						   465,387	    8,970</p>
+<p> Income Tax (Benefit)		    (502,410)	    2,000</p>
+<p> Net Income				    967,797	    6,970</p>
+<p> Earnings Per Share			     0.32	     0.00</p>
+<p>Quarter Ending Aug. 31,</p>
+<p> Net Sales and Service Revenues	1,589,613	1,624,894</p>
+<p>Net Income before Income Tax (Benefit)</p>
+<p>						   182,460	   15,960</p>
+<p> Income Tax (Benefit)		    (502,410)	    2,000</p>
+<p> Net Income				    684,870	  152,960</p>
+<p> Earnings Per Share			     0.22	     0.06</p>
+<p> Average Shares Outstanding	    3,006,926	2,863,346</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALABASAS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

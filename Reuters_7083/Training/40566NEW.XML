@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40566" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: MVSI sets terms of proposed e-Net purchase.</title>
+<headline>MVSI sets terms of proposed e-Net purchase.</headline>
+<dateline>VIENNA, Va 1996-09-09</dateline>
+<text>
+<p>MVSI Inc said Monday it had negotiated the conditions under a term sheet for the proposed acquisition of e-Net Inc, a development-stage telecommunications company.</p>
+<p>Under the deal, e-Net would become a wholly-owned subsidiary of MVSI, it said.</p>
+<p>MVSI said it would exchange on a proposed tax-free basis 6.0 million of its shares and warrants for all of the 12 million shares and warrants held by e-Net's stockholders.</p>
+<p>MVSI said it would also give at least $5.3 million to e-Net during a 24-month period ending in September 1998 in order to finance its business operations.</p>
+<p>It said it planned to keep expanding its business and operations through the merger or acquisition of other U.S. or foreign companies.</p>
+<p>MVSI makes vision-based robotic and sensor products and systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA, Va"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

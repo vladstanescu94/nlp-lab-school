@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379110" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surprise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surprise data.</headline>
+<text>
+<p>Earnings surprise for February 13, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks</p>
+<p>COMPANY		   ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>DATA DIMENSIONS	  0.04     0.17	325.00%</p>
+<p>ENERTEC		    0.09     0.30	233.33%</p>
+<p>KRYSTAL		    0.13     0.25	 92.31%</p>
+<p>LA JOLLA		  -0.23    -0.04	 82.61%</p>
+<p>INFO RESOURCES	   0.08     0.14	 75.00%</p>
+<p>ENGLE HOMES		0.24     0.41	 70.83%</p>
+<p>K TRON INTL		0.24     0.38	 58.33%</p>
+<p>CATELLUS		   0.06     0.09	 50.00%</p>
+<p>WESTERN GAS RES	  0.17     0.24	 41.18%</p>
+<p>APPLIED GRAPHICS	 0.19     0.26	 36.84%</p>
+<p>GEOGRAPHICS INC	  0.03    -0.04     -233.33%</p>
+<p>US WEST MED GRP	 -0.05    -0.16     -220.00%</p>
+<p>WALBRO		     0.14    -0.05     -135.71%</p>
+<p>QUALITY SYS		0.07    -0.01     -114.29%</p>
+<p>EQUALNET		  -0.24    -0.45	-87.50%</p>
+<p>SCITEX		    -0.32    -0.57	-78.13%</p>
+<p>JACOR COMMS		0.03     0.01	-66.67%</p>
+<p>CREDENCE SYS	     0.15     0.05	-66.67%</p>
+<p>ENSERCH EXPLOR	   0.05     0.03	-40.00%</p>
+<p>INSITUFORM EAST	  0.08     0.05	-37,50%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I1300014">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

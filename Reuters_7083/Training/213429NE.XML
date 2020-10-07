@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213429" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: INTERVIEW - Borland CEO plans &quot;rightsizing&quot;.</title>
+<headline>INTERVIEW - Borland CEO plans &quot;rightsizing&quot;.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-11-25</dateline>
+<text>
+<p>Borland International Inc's newly appointed chief executive Delbert W. Yocam said he expects to do another round of &quot;rightsizing&quot; at Borland to pare its expenses to a level supported by revenues.</p>
+<p>Yocam, who starts Dec. 2, also said he sees a niche for Borland to succeed as an independent provider of software tools within a competitive field of dueling alliances.</p>
+<p>&quot;It appears to me Borland is going after the right high growth parts of the (software) market in client/server and Internet and intranets marketplaces,&quot; Yocam told Reuters.  </p>
+<p>Acknowledging that the client/server Internet software market is very competitive, with some well-heeled players including Microsoft Corp and Oracle Corp, Yocam said he sees an opportunity for Borland as an independent, able to provide tools for all computer platforms.</p>
+<p>&quot;There's a place for Borland of being the one who is very independent and can provide tools for every (platform) all the way from AS400 to the Windows NT to Java and the Internet,&quot; he said naming operating systems developed by International Business Machines Corp, Microsoft and Sun Microsystems, respectively along with the Net.  </p>
+<p>Borland earlier today announced its board appointed Yocam, former CEO of Tektronix Inc and a 1980s chief operating officer at Apple Computer Inc, as CEO and chairman. Borland has been operating under an acting CEO since July, when Gary Wetsel resigned, amid more losses at the beleagured software company.</p>
+<p>Borland has struggled to return to sustained profitability and a sustainable business model after two years of redefining and restructuring itself.  Wetsel had been brought in as a turnaround CEO and trimmed Borland's payroll and product line down to focus solely on software development tools.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="397012" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: Macromedia names Parsons CFO.</title>
+<headline>Macromedia names Parsons CFO.</headline>
+<dateline>SAN FRANCISCO 1997-02-24</dateline>
+<text>
+<p>Macromedia Monday named Jack Parsons to the post of vice president, finance and operations and chief financial officer.</p>
+<p>Parsons previously worked at Learning Co, an educational consumer software company, where he was vice president, finance and operations and chief financial officer.</p>
+<p>Richard Wood, Macromedia's chief financial officer and vice president of operations, will be leaving the company in order to pursue other opportunities.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214361" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Novell adopts rights plan.</title>
+<headline>Novell adopts rights plan.</headline>
+<dateline>OREM, Utah 1996-11-25</dateline>
+<text>
+<p>Novell Inc said its board approved a rights plan to protect shareholders in the event of an unsolicited attempt to take the company over in a way the board would deem unfavorable.</p>
+<p>However, in a filing with the Securities and Exchange Commission, the software company said the plan would not prevent a takeover and is not designed to do so.</p>
+<p>Under the plan the board declared a dividend to buy preferred stock.</p>
+<p>The plan goes into effect if a party accumulates 15 percent or more of the outstanding stock.  </p>
+<p>Rumors have circulated for more than a year that the Orem, Utah-based software giant might be the object of a takeover.</p>
+<p>The rights plan was adopted to deter tactics designed to deprive the company and holders of an opportunity to control the company's destiny, Novell said.</p>
+<p>It said things it is concerned about include a two-tier tender that does not treat all shareholders equally.</p>
+<p>The dividend gives a holder the right to buy one 1/000 share of Novell Series A junior participating preferred stock for each outstanding share of common at an exercise price of $65. The dividend is payable on Dec. 16.</p>
+<p>The rights plan was written in 1988, but amended last week. The company was unavailable to comment on the plan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

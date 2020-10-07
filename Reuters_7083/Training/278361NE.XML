@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278361" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: Computer Associates skids after NYSE delay.</title>
+<headline>Computer Associates skids after NYSE delay.</headline>
+<dateline>NEW YORK 1996-12-27</dateline>
+<text>
+<p>Computer Associates International Inc shares opened New York Stock Exchange trade Friday with a 10-1/2 point decline to 51-1/2 after warning about weakness in quarterly revenues.</p>
+<p>The NYSE delayed CA's share opening for 45 minutes because of an imbalance in orders, it said.</p>
+<p>After trading for about 20 minutes, the shares settled into the 50-1/2 to 50-3/4 range in unusually vigorous trade.</p>
+<p>Despite the delay, CA was the most active NYSE issue with almost five million shares traded at midmorning.  </p>
+<p>The company said softness in the European market will cause revenues for the third quarter ending December 31 to come in below Wall Street estimates.</p>
+<p>The company said it expects to post revenues of between $1 billion and $1.1 billion, rather than the consensus estimate of $1.2 billion.</p>
+<p>Despite the revenues projection, the company said in a statement that consensus estimates of $0.75 per share for the quarter &quot;appeared achievable.&quot;</p>
+<p>((--Brendan Intindola, Wall Street Desk, 212-859-1734))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

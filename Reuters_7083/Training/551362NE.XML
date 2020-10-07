@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551362" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: SPSS Inc Q1 net, revenues rise.</title>
+<headline>SPSS Inc Q1 net, revenues rise.</headline>
+<dateline>CHICAGO 1997-04-30</dateline>
+<text>
+<p>1997	   1996  Yr/Yr %</p>
+<p>								     change</p>
+<p> Net revenues		     $22,194	  20,119	10</p>
+<p> Operating income		   3,636	   2,795	30</p>
+<p> Net income			   2,506	   1,867	34</p>
+<p> Earnings per share		  0.29	    0.23	26</p>
+<p>Weighted shares</p>
+<p>  outstanding		   8,605,248     8,249,701	 4</p>
+<p>		 ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

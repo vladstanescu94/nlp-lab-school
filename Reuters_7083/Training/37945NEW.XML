@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37945" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Datalogix sees $0.69-$0.73/shr FY loss.</title>
+<headline>Datalogix sees $0.69-$0.73/shr FY loss.</headline>
+<dateline>VALHALLA, N.Y. 1996-09-06</dateline>
+<text>
+<p>Datalogix International Inc said it expects to report an after-tax loss of about $8 million to $8.5 million, or about $0.69 to $0.73 per share, for its fiscal year ended June 30.</p>
+<p>Datalogix said the loss includes a charge of about $7 million related to reserves established to reflect anticipated costs required to meet contractual commitments to customers and to other accounting adjustments.</p>
+<p>The company earned a profit of $5.3 million or $0.59 per share last fiscal year.  </p>
+<p>Datalogix said the loss reflects accounting restatements for the first half of fiscal 1996 to eliminate a reseller transaction not in accordance with accounting policies regarding revenue recognition, to reverse a credit taken against royalties owed to Oracle Corp under a joint distribution agreement and to record as compensation certain expenses related to a former employee.</p>
+<p>Datalogix said results were also hurt by lower than anticipated revenues due to slower than expected sales of its GEMMS and CIMPRO products and increased costs attributable to the ongoing support requirements of customers.</p>
+<p>--New York Newsdesk 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALHALLA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

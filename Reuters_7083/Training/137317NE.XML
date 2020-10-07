@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137317" id="root" date="1996-10-23" xml:lang="en">
+<title>GERMANY: SAP slips, but analysts say market intact.</title>
+<headline>SAP slips, but analysts say market intact.</headline>
+<byline>William Boston</byline>
+<dateline>BONN 1996-10-23</dateline>
+<text>
+<p>German business software group SAP AG slipped in the third quarter, causing a slow-down in its turbulent growth, but industry analysts said on Wednesday the company would not be down for long.</p>
+<p>The company that has soared through several years of stellar growth reported an unexpectedly sharp slow-down in the expansion of revenues in the first nine months of the year, unleashing a pounding of its shares on the stock market.</p>
+<p>SAP chairman Dietmar Hopp in a telephone interview was at a loss to explain why revenue growth slowed to 33 percent from 38 percent in June, but indicated that optimistic forecasts for the client-server software market could be exaggerated.</p>
+<p>&quot;That conclusion seems justifiable if you also consider developments at other companies like Oracle,&quot; said Hopp.</p>
+<p>&quot;But we don't want to jump to conclusions now and say the market isn't as big as we thought. It's just that booked orders were down in the last quarter. The market is still strong.&quot;</p>
+<p>But some of SAP's faithful apparently got the jitters after the company issued a profit warning on the weaker growth.</p>
+<p>SAP shares were pounded in pre-bourse trade, falling as much as 26 percent and dragging down the DAX index of 30 blue-chips. The company's preference shares, which are listed in the DAX index, closed floor trade at 212 marks, down 24 percent from the previous day's close.</p>
+<p>Forecasts for the market for client-server business applications -- computer programmes that control core processes of companies and hook up their far-flung operations to central computers -- vary widely.</p>
+<p>Industry analysts said that SAP was trying to portray its stumbling in the third quarter more as a market factor than as another sign of growing pains at the burgeoning company.</p>
+<p>&quot;It is completely realistic that we will see annual growth of around 34 percent worldwide in client-server technology,&quot; said Helmut Guembel, a former Gartner Group analyst who set up a company called Strategy Partners International in Munich.</p>
+<p>&quot;The problem is not in the market, it's at SAP,&quot; he added.</p>
+<p>There are plenty of reasons to the expect client-server applications market, one of the swiftest technology sectors at the moment, to continue along its path of steady growth.</p>
+<p>Companies around the world, public administrations and banks will all make major adjustments when Europe adopts the &quot;Euro&quot; at the end of the century as its single currency.</p>
+<p>There is also the Millenium problem, the fact that existing computer operating systems cannot recognise the year 2000, but instead read it as 0000, a zero hour that will wreak havoc on corporate computer systems.</p>
+<p>These two factors alone, analysts say, are creating huge demand for software fixes that only client-server systems can supply across a company's entire network.</p>
+<p>&quot;There will be a huge boost in growth in 1998 and 1999 if only because of the Euro and the Year 2000 problem,&quot; said Guembel.</p>
+<p>While most large companies in SAP's main markets have either made the leap to client-server technology or are about to, there is still a huge market of so-called second-tier companies that have not yet made the leap.</p>
+<p>&quot;This is certainly no weakness in the market or in SAP products but rather at SAP. This is just a blip,&quot; said Heinz Steffen of Kleinwort Benson Research, the investment banking arm of Dresdner Bank.</p>
+<p>&quot;But the market has lost some confidence and it will take a quarter or two before it returns. There is still some potential for the share to fall,&quot; he added.</p>
+<p>Some of SAP's competitors have reported strong growth. PeopleSoft of the United States said on Tuesday that earnings in the first nine months of the year rose $0.64 per share from $0.33 per share a year ago.</p>
+<p>Baan NV of the Netherlands was expected to report its earnings later on Wednesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="459908" id="root" date="1997-03-21" xml:lang="en">
+<title>USA: Novell, Netscape say Novonyx stakes not yet set.</title>
+<headline>Novell, Netscape say Novonyx stakes not yet set.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-21</dateline>
+<text>
+<p>Network software leader Novell Inc. and Internet browser power Netscape Communications Corp., as expected, said Friday they were forming a joint company to take on the likes of Microsoft Corp. and IBM's Lotus Development Corp. unit</p>
+<p>&quot;We expect to have some type of a product available in the marketplace in about six months, and maybe employees in the range of 50-100 after one year,&quot; Novell Chief Operating Officer Joe Marengi said in a conference call with analysts and reporters.</p>
+<p>The ownership structure of the new company, Novonyx, has not been determined, senior Novell and Netscape executives said.</p>
+<p>The new company will be based near Novell's Provo, Utah, headquarters. Netscape is based in Mountain View, Calif.</p>
+<p>Novonyx will offer communications software packages to compete with software behemoth Microsoft Corp. and with International Business Machines Corp.'s Lotus unit. Until now, Novell and Netscape could not on their own offer a complete product line to directly take on their bigger rivals.</p>
+<p>Netscape Chief Executive Officer Jim Barksdale said Novonyx's ownership structure will be unveiled after the company wins federal antitrust approval. He said Novonyx excecutives would share ownership with Novell and Netscape.</p>
+<p>Novell is the largest provider of network services software worldwide. More than 4 million network computers, or servers, run on Novell network operating systems serving 60 million users, according to Marengi.</p>
+<p>Netscape makes the leading Internet browser, which enables computer users to access the Web and other sections of the globe-spanning computer network.</p>
+<p>The executives declined to specify exactly which technologies would come from which company, noting there was an overlap and that this was why they had formed a separate company that could license technology from both.</p>
+<p>Marengi said Novell would continue to offer &quot;groupware&quot; software -- which enable teams of people to collaborate, even at great distances, using electronic mail and other features -- for its IntranetWare, Microsoft's Windows NT and the Unix operating systems.</p>
+<p>Netscape will also continue to independently offer groupware products, but the new company will then be able to combine aspects of both to suit customer needs.</p>
+<p>Novell stock climbed 6.25 cents to $10.3125 and Netscape rose $1.25 to $29.75, both in afternoon trading on Nasdaq. Microsoft dropped $2 to $94, also on Nasdaq.</p>
+<p>IBM tumbled $4.375 to $132.50 in consolidated trading on the New York Stock Exchange after negative comments by analysts over two days.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

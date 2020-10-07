@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641695" id="root" date="1997-06-05" xml:lang="en">
+<title>JAPAN: NTT Data to supply systems to Shanghai exchange.</title>
+<headline>NTT Data to supply systems to Shanghai exchange.</headline>
+<dateline>TOKYO 1997-06-05</dateline>
+<text>
+<p>NTT Data Corp said on Thursday that it had won an order from the Shanghai Metal Exchange for computerised systems to manage the exchange's building.</p>
+<p>The order includes security systems, an in-house broadcasting system and a system for operating parking facilities, NTT Data said in a statement.</p>
+<p>A spokesman for NTT Data declined to disclose the amount of the order.</p>
+<p>Construction of the exchange's 37-storey building is expected to be completed in April 1998, with investment totalling 1.05 billion yuan.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="636993" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: PRT Group plans Hartford expansion, 200 new jobs.</title>
+<headline>PRT Group plans Hartford expansion, 200 new jobs.</headline>
+<dateline>HARTFORD 1997-06-04</dateline>
+<text>
+<p>New York-based software company PRT Group Inc said Wednesday it will expand to the greater Hartford area and hire more than 200 new employees by 1998.</p>
+<p>PRT, a privately held company founded in 1989, gave no details about the size of its investment.</p>
+<p>The company said in a statement that it will lease 35,000 square feet of space in Windsor, Conn., where it plans to open its Hartford Development Center in July.</p>
+<p>PRT provides information technology solutions in various fields including the so-called &quot;year 2000 problem.&quot; Its clients include trading, insurance, banking, pharmaceutical and telecommunications companies.</p>
+<p>The 200 new employees will include software professionals and support staff.</p>
+<p>PRT said it expected 1997 sales to reach $60 million, compared with $20 million last year.</p>
+<p>The company said it is receiving $1.20 million in financing from the state of Connecticut in the form of a low-interest loan.</p>
+<p>--Hartford newsroom (((860) 727-0224))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARTFORD"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

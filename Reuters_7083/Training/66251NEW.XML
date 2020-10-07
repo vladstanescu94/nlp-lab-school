@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66251" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: Netscape's Andreessen won't comment on Microsoft.</title>
+<headline>Netscape's Andreessen won't comment on Microsoft.</headline>
+<dateline>SAN FRANCISCO 1996-09-20</dateline>
+<text>
+<p>Netscape Communications Corp co-founder and Vice President of Technology Marc Andreessen declined comment Friday on the Justice Department's probe of Microsoft Corp's Internet software business.</p>
+<p>&quot;We're letting Wilson, Sonsini comment on that,&quot; Andreessen said, referring to the company's outside antitrust counsel. Andreesen was speaking after after a keynote address to a developers conference here.</p>
+<p>On Thursday, Microsoft said the Justice Department intended to request additional information about Microsoft's business practices.  </p>
+<p>The request represents the first time in more than a year the agency is issuing a written request.</p>
+<p>Both Microsoft and the Department of Justice declined to provide details about the pending request.</p>
+<p>Microsoft Senior Vice President for Law and Corporate Affairs William Neukom said Thursday that it appeared that the Justice Department's request was &quot;prompted by complaints from competitors which are reminiscent of allegations that were thoroughly reviewed in the past.&quot;  </p>
+<p>Neukom added, that Microsoft's &quot;Internet Explorer 3.0 is consistently rated better than competing technology and is winning strong consumer support.  In response, some of our competitors have resorted to a public relations campaign of baseless allegations designed to divert attention from the quality of our technology.&quot;</p>
+<p>Andreessen shrugged off a question on whether the battle between Microsoft and Netscape had become more hostile in recent weeks. &quot;We're just doing our thing,&quot; he said, noting Netscape is continuing to build partnerships and has scheduled a developers conference in New York City for mid- October.  </p>
+<p>&quot;We've partnered with virtually every company in the industry, other than Microsoft, and we're always looking for partnerships,&quot; he said.</p>
+<p>Andreessen acknowledged Microsoft had been an aggressive force in the market, as it pushed to compete in the Internet software arena it had virtually ignored until late last year.</p>
+<p>&quot;I think Microsoft's going to do whatever it is they're going to do no matter what.... They've got an extremely aggressive culture. They're an extremely aggressive competitor,&quot; he said.  </p>
+<p>In a letter to the Justice Department in August on behalf of Netscape, attorney Gary Reback charged Microsoft had violated the terms of its 1994 consent degree in its aggressive entry into the browser market Netscape dominates.</p>
+<p>Specifically, the letter accused Microsoft of offering special deals to computer makers and Internet service providers, and of using its widespread Windows operating system to force them to use its Explorer browser.</p>
+<p>Antitrust attornies remain doubtful the Justice Department ultimately will find that Microsoft's marketing practices were illegal in the hot market for Internet browser software.  </p>
+<p>&quot;The chances are slim,&quot; said one attorney who requested anonymity. &quot;I bet 60 to 1 that they don't come out against (Microsoft).&quot;</p>
+<p>According to a study by Zona Research released Wednesday, Microsoft is gaining ground on Netscape in the market for browsers, which enable users to search for data on the Internet's World WIde Web of computer networks.</p>
+<p>While it found 83 percent of respondents to its survey in August use Netcape Navigator as their primary browser, the portion using Microsoft's Internet Explorer had doubled to eight percent last month.</p>
+<p>Both Netscape and Microsoft introduced 3.0 versions of their browsers last month.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="436636" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: VeriFone, DIGEX unite for Internet product.</title>
+<headline>VeriFone, DIGEX unite for Internet product.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-03-12</dateline>
+<text>
+<p>VeriFone Inc said on Wednesday it agreed to an alliance with DIGEX Inc to develop a turnkey Internet product to enable merchants set up storefronts on the World Wide Web.</p>
+<p>&quot;The largest barrier to mass adoption of Internet commerce today is the lack of a simple, safe system for setting up shop on the Internet,&quot; said George Hoyem, a VeriFone executive, in a statement released by the company.  &quot;If merchants and financial institutions establish the Internet as a compelling shopping arena, consumers will follow.&quot;</p>
+<p>The planned VeriFone-DIGEX product is expected to allow secure Internet payment transactions.  Retailers would need only a standard Internet connection to open for business on the Web, VeriFone said.</p>
+<p>DIGEX would develop the storefront product, using software from VeriFone and Microsoft Corp.</p>
+<p>VeriFone shares were trading at 37-1/2 late Wednesday afternoon, up 1-5/8 on the day.  DIGEX shares were down 3/8, to 10-5/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

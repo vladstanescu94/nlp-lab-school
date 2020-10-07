@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732477" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: McAfee awarded $2 mln US defense contract.</title>
+<headline>McAfee awarded $2 mln US defense contract.</headline>
+<dateline>SANTA CLARA, Calif. 1997-07-16</dateline>
+<text>
+<p>McAfee Associates Inc said Wednesday it was awarded a $2 million contract from the U.S. Defense Department to supply antivirus software to more than two million government computer users.</p>
+<p>The five-year contract could lead to more Defense Department orders for McAfee's security and systems management software, Mark Woodward, McAfee vice president of North American sales, said.</p>
+<p>&quot;The Defense Department is the largest private network,&quot; Woodward said. &quot;We absolutely think this will give us a bigger presence&quot; in the government's software purchasing departments.</p>
+<p>McAfee, based in Santa Clara, California., writes software that detects viruses and prevents unauthorized access to information in computer networks. The company also supplies software that makes it easier to manage complex computer networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

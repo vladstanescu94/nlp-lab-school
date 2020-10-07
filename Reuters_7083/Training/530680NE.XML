@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530680" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Spyglass in more software licensing talks.</title>
+<headline>Spyglass in more software licensing talks.</headline>
+<dateline>NAPERVILLE, Ill. 1997-04-23</dateline>
+<text>
+<p>Spyglass Inc said Wednesday it is in talks with with various industrial and commercial companies interested in using the company's software to link their products to the World Wide Web.</p>
+<p>&quot;While consumer electronics applications are highly visible, significant opportunities exist for us on the industrial and commercial side,&quot; chief executive Doug Colbeth said in a statement. &quot;We are in discussions with a number of companies in these areas who are interested in adding Web functionality to their products and services.&quot;  </p>
+<p>Spyglass on Wednesday reported fiscal second quarter earnings of $0.16 a share including an $8 million one-time payment from Microsoft Corp, versus $0.06 a share last year.</p>
+<p>Spyglass said it has made &quot;significant progress&quot; in entering the Internet device market. Late last year Spyglass said it was implementing a company strategy to develop software and services to help companies connect everyday devices such as cell phones and industrial equipment to the Internet.</p>
+<p>Colbeth noted, however, the market is a young and needs to be cultivated.</p>
+<p>&quot;We are the only company providing a comprehensive set of solutions allowing us to capture important design wins now that will pay off as our customers' products are widely deployed in the future,&quot; Colbeth said. &quot;However, in the short term this remains a very new market which is going to take time for us and our partners to develop.&quot;</p>
+<p>Spyglass said Tim Krauskopf, a founder of Spyglass, has decided to leave the company as a full-time employee to pursue additional academic credentials. He will continue as a member of the board of directors.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

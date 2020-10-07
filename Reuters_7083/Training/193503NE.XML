@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193503" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Checkpoint to provide labels to Microsoft.</title>
+<headline>Checkpoint to provide labels to Microsoft.</headline>
+<dateline>THOROFARE, N.J. 1996-11-15</dateline>
+<text>
+<p>Checkpoint Systems Inc said Microsoft Corp will use its paper-thin radio frequency labels to protect Microsoft Office '97 products from theft in stores.</p>
+<p>In a statement released Thursday, Checkpoint said its labels will be embedded in packaging of Microsoft Office '97, beginning with the launch in January.</p>
+<p>Checkpoint Systems provides security systems for retailers, as well as radio frequency source tagging.</p>
+<p>Reuters Chicago Newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THOROFARE, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119206" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Documentum Inc Q3 shr rises.</title>
+<headline>Documentum Inc Q3 shr rises.</headline>
+<dateline>PLEASANTON, Calif. 1996-10-16</dateline>
+<text>
+<p>Documentum, Inc.</p>
+<p>		Condensed Consolidated Statement of Operations</p>
+<p>	     (in thousands, except per share data; unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				     September 30,	September 30,</p>
+<p>					1996	1995     1996    1995</p>
+<p>Revenues:</p>
+<p>     Licenses		   $9,127    $5,615  $23,768 $13,930</p>
+<p>     Services		    2,909     1,391    7,157   3,425</p>
+<p>	   Total revenues     12,036     7,006   30,925  17,355</p>
+<p>Cost of revenues:</p>
+<p>     Licenses			476	 242    1,397     829</p>
+<p>     Services		    1,732	 932    4,652   2,302</p>
+<p>	   Total cost of revenues</p>
+<p>				     2,208     1,174    6,049   3,131</p>
+<p> Gross profit		    9,828     5,832   24,876  14,224</p>
+<p>Operating expenses:</p>
+<p>     Sales and marketing     5,159     3,356   13,765   8,744</p>
+<p>Research and development</p>
+<p>				     2,175     1,327    5,504   3,069</p>
+<p>General and administrative</p>
+<p>				     1,074	 724    2,951   1,607</p>
+<p>	   Total operating</p>
+<p>	     expenses	    8,408     5,407   22,220  13,420</p>
+<p> Income from operations	1,420	 425    2,656     804</p>
+<p>Interest and other income, net</p>
+<p>					 660	  83    1,577     191</p>
+<p>Income before income tax</p>
+<p>   provision		     2,080	 508    4,233     995</p>
+<p> Provision for income taxes  (728)     (127)  (1,482)   (249)</p>
+<p> Net income			1,352	 381    2,751     746</p>
+<p> Net income per share	   0.09	0.03     0.19    0.06</p>
+<p>Shares used to compute</p>
+<p>   net income per share     14,923    12,934   14,664  12,934</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

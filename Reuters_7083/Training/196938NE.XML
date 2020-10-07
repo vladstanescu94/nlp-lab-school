@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196938" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Wired Ventures launches news service.</title>
+<headline>Wired Ventures launches news service.</headline>
+<dateline>SAN FRANCISCO 1996-11-18</dateline>
+<text>
+<p>Wired Ventures Inc, publisher of Wired magazine and the HotWired Network site on the World Wide Web, launched a third news outlet today -- an online technology news service called Wired News.</p>
+<p>Wired News aims to provide 15 to 20 stories a day on technology and the digital and Internet worlds, according to senior producer Martha Baer.</p>
+<p>Wired has deals with Netscape Communications Corp to distribute Wired News through Netscape's In-Box Direct and in December will start distribution through the  PointCast Network.  </p>
+<p>Later, the @Home Network and GeoWorks will become distributors, Wired said.</p>
+<p>Wired Ventures will not disclose its investment in the Wired News project, which involves paying a staff of 20 reporters and editors assigned to the news service alone.</p>
+<p>The company three weeks ago withdrew an initial public offering that would have funded this and other projects.</p>
+<p>Baer said advertising will support much of the project.</p>
+<p>Wired News does not plan to charge subscribers.  </p>
+<p>Initital advertisers include Microsoft Corp, Toyota Motor Co Ltd, NYNEX Corp, Hewlett-Packard Co and Oracle Corp.</p>
+<p>&quot;We think there is a niche there, a gap,&quot; in how technology is covered, Baer said, which she described as &quot;interpretive pieces and sort of knowledge about how the digital world affects the way we live in different arenas.&quot;</p>
+<p>Baer said Wired News will take the same analytical approach as Wired magazine does.</p>
+<p>&quot;No one is covering it (technology) the way Wired magazine would, but Wired is only a monthly,&quot; he said.</p>
+<p>She said the most direct competitor would be C/NET's News.Com service. Wired News service can be found at www.wired.com on the Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I47520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

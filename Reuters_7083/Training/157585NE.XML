@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157585" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Comet Software Q2 June 30 shr $0.004.</title>
+<headline>Comet Software Q2 June 30 shr $0.004.</headline>
+<dateline>NEW YORK 1996-10-31</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr profit		$0.004     loss	$0.077</p>
+<p> Net profit		    21     loss	   412</p>
+<p> Revs			 1,385		    1,070</p>
+<p> Avg shrs primary	 5,375		    5,375</p>
+<p>	  SIX MONTHS</p>
+<p> Shr profit		$0.024     loss	$0.077</p>
+<p> Net profit		   129     loss	   413</p>
+<p> Revs			 2,958		    2,441</p>
+<p> Avg shrs primary	 5,375		    5,375</p>
+<p>Note: Full company name is Comet Software International Ltd.</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

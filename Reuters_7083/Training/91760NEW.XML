@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91760" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Software Publishing, Allegro to merge.</title>
+<headline>Software Publishing, Allegro to merge.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-02</dateline>
+<text>
+<p>Allegro New Media Inc and Software Publishing Corp said Wednesday they have entered a definitive merger agreement.</p>
+<p>Under the deal Software Publishing stockholders will receive about 0.26805 shares of Allegro common stock for each share of Software Publishing stock.</p>
+<p>After the merger Software Publishing stockholders and vested option holders will hold 45 percent of the outstanding shares and vested options of Allegro.  </p>
+<p>Software Publishing will become a subsidiary of Allegro but continue to operate under the Software Publishing name, the companies said. They also said key Software Publishing officers will become Allegro officers.</p>
+<p>The companies said their boards have unanimously approved the agreement and they are awaiting approval from their stockholders.</p>
+<p>The merger would be a tax-free reorganization accounted for under the purchase method, and it should close around December 31, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

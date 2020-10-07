@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="598234" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: Internet Service Providers form operators group.</title>
+<headline>Internet Service Providers form operators group.</headline>
+<dateline>RESTON, Va. 1997-05-20</dateline>
+<text>
+<p>Nine Internet service providers (ISPs) said Tuesday they formed IOPS.ORG, a group of ISPs committed to make the commercial Internet more reliable.</p>
+<p>IOPS.ORG will focus on resolving and preventing network integrity problems, especially those requiring technical coordination and information exchange among ISPs.</p>
+<p>The founding members are ANS Communications, AT&amp;T Corp, BBN Corp, EarthLink Network Inc, GTE Corp, MCI Communications Corp, NETCOM On-Line Communications Inc, PSINet Inc and UUNET, a unit of WorldCom Inc.  </p>
+<p>&quot;IOPS.ORG will play a key role in the healthy technical and operational evolution of the Internet as an increasingly important component of the economy,&quot; said Robert Kahn, president of the Corporation for National Research Initiatives (CNRI), a non-profit organization that will host the initial operations of IOPS.ORG.</p>
+<p>&quot;We're fully behind IOPS.ORG.  It will be a very useful organization to help steer the growth of the Internet,&quot; said Paul Gudonis, president of BBN Planet.</p>
+<p>&quot;IOPS is an organization whose time has come,&quot; said Vint Cerf Sr, MCI's vice president for Internet architecture and engineering.</p>
+<p>&quot;As the Internet continues its rapid evolution and growth as a new global telecommunications infrastructure, the collection of Internet Service Providers needs increasing amounts of coordinated effort to sustain worldwide quality of service,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

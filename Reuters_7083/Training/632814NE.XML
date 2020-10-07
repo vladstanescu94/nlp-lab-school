@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632814" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: Astea says names John Phillips as CFO.</title>
+<headline>Astea says names John Phillips as CFO.</headline>
+<dateline>HORSHAM, Pa. 1997-06-03</dateline>
+<text>
+<p>Astea International said on Tuesday that it had promoted John Phillips to vice president and chief financial officer as part of the company's recent restructuring.</p>
+<p>In addition, the company said in a statement, Leonard von Vital, who previously served as the company's chief financial officer, was promoted to senior vice president of product initiatives.</p>
+<p>&quot;Phillips will work closely with the company's three business units to ensure Astea maintains consistent business results,&quot; the company said. Phillips previously served as Astea's corporate controller.</p>
+<p>In his new role, von Vital will be responsible for the overall coordination and launching of Astea's new product initiatives worldwide. Since joining Astea in the fall of 1993, von Vital has served as the company's vice president and CFO.</p>
+<p>Astea International develops client/server-based customer interaction software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HORSHAM, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

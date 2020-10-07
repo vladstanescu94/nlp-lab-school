@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278199" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: BEFORE THE BELL - Computer Assocs falls apart.</title>
+<headline>BEFORE THE BELL - Computer Assocs falls apart.</headline>
+<dateline>NEW YORK 1996-12-27</dateline>
+<text>
+<p>Computer Associates International Inc shares fell sharply in Friday pre-open trade as investors abandoned the stock upon hearing of expected weakness in CA's third quarter revenue.</p>
+<p>After the company released the forecast early this morning, CA shares tumbled to 54-3/8 from 61-3/4, then inched back to 54-1/2 in later pre-open activity, traders said.</p>
+<p>Hastening the slide was a Morgan Stanley downgrade of the stock to outperform from strong buy, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

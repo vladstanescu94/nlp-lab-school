@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="336698" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: AFTER THE BELL - Stocks active in scattered trade.</title>
+<headline>AFTER THE BELL - Stocks active in scattered trade.</headline>
+<dateline>NEW YORK 1997-01-28</dateline>
+<text>
+<p>Stocks were active in the after-hours session amid scattered trading but attracted no significant operations, traders said Tuesday.</p>
+<p>&quot;The market is recuperating from the big swing in the daily session,&quot; one trader said.</p>
+<p>U.S. blue chips ended lower after a wild ride in which a 100-point gain in the Dow Jones Industrial Average unraveled in the last hours of the session.  </p>
+<p>EMC Corp was trading at 36-3/4 against a close of 37-3/4 on the New York Stock Exchange, Iomega Corp was down at 18-1/2 against 19, Netscape Communications Corp was even at 38, while Warrantech Corp was up 11-1/8 against 11.</p>
+<p>&quot;It's scattered (trading),&quot; the trader said.</p>
+<p>EMC had fourth quarter earnings of $0.50 a share against $0.26 for the same period last year. Iomega reported fourth quarter EPS of $0.15 against $0.08, Netscape saw its fourth quarter share rise to $0.10 from $0.01 and Warrantech had its third quarter rise to $0.12 from $0.09.  </p>
+<p>The New York Stock Exchange said session one had a volume of 194,400 shares compared to 131,500 on Monday, while session two had 14,957,030 shares against 81,700.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

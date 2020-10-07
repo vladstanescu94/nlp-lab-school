@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327116" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Netscape in software agreement with Ichat.</title>
+<headline>Netscape in software agreement with Ichat.</headline>
+<dateline>AUSTIN, Texas 1997-01-23</dateline>
+<text>
+<p>Ichat Inc on Thursday said it reached agreement with Netscape Communcations Corp to support and promote standards for so-called chat software and enhance Ichat's software for use with Netscape's products.</p>
+<p>Under the deal, Ichat said it planned to enhance its client and server software to better support Netscape's line, and Netscape would recommend Ichat's products to its customers and prospects wanting Internet chat features.  </p>
+<p>The Ichat products integrate the ability to exchange messages in &quot;chat groups&quot; over the Internet and over company intranets using Internet technology, along with audio and advertising support.</p>
+<p>The companies also plan to work together on a proposal to be presented to the Internet Engineering Task Force for extending the Internet Relay Chat (IRC) standard, the company said.</p>
+<p>The companies will promote the Ichat Plug-in and Ichat ROOMS server to Netscape's customers. They are expected to undertake joint marketing and online activities to demonstrate the capability for communicating by real-time Internet links.  </p>
+<p>Netscape SuiteSpot will become Ichat's preferred World Wide Web server platform as a result of the deal, Ichat said, adding that it would optimize its server software to enhance its integration of the Web.</p>
+<p>Svrivats Sampath, vice president of server product marketing at Netscape, said in a statement the agreement would help achieve the goal of &quot;providing customers with simple, easy communication and collaboration via the Internet.&quot;</p>
+<p>Mark Saul, president and chief executive of Ichat, said the partnership with Netscape represented &quot;a true coming of age&quot; for the company, extending its use in business applications such as sales, marketing and product development.</p>
+<p>((-- Palo Alto Bureau, +1 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUSTIN, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

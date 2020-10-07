@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66417" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: News Corp not precluded from Time Warner.</title>
+<headline>News Corp not precluded from Time Warner.</headline>
+<dateline>NEW YORK 1996-09-20</dateline>
+<text>
+<p>Time Warner Inc's agreement to carry MSNBC, the all-news joint venture information service, on half of its cable systems does not preclude the systems from carrying a news channel produced by News Corp Ltd, Time Warner Cable spokesman Mike Luftman said Tuesday.</p>
+<p>&quot;There's nothing in the agreement with MSNBC that precludes carrying news from (News Corp's) Fox in the future,&quot; he said.</p>
+<p>Time Warner talks with Fox about use of its 24-hour news channel have have broken off, Lufttman confirmed.</p>
+<p>There are no talks &quot;at present,&quot; he said.</p>
+<p>MSNBC is produced by Microsoft Corp and General Electric Co's NBC.</p>
+<p>Luftman said the agreement reached with MSNBC early this week meets requirements made by the Federal Trade Commission when it approved Time Warner's acquisition of Turner Broadcasting System Inc.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

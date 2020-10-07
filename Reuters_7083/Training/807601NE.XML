@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="807601" id="root" date="1997-08-19" xml:lang="en">
+<title>CANADA: Corel to modify Java drive for new product.</title>
+<headline>Corel to modify Java drive for new product.</headline>
+<dateline>TORONTO 1997-08-19</dateline>
+<text>
+<p>Corel Corp said on Tuesday that it refined its development of Java products to include a new one, called Remagen, which can be used to across many computers to run Corel's Word-Perfect software.</p>
+<p>&quot;It's a continuation of what we're doing,&quot; Cowpland told reporters in a conference call on Tuesday.</p>
+<p>Corel is developing this technology to allow users to run its WordPerfect office software product, a rival to giant Microsoft Corp's Word.</p>
+<p>Corel officials said they were refining their strategy to emphasize research and development in Java, which has been called the next wave in computing. Java allows applications run across any platform.</p>
+<p>Of Corel's C$80 million annual expenditure on research and development, up to 30 percent will be spent on Java, Cowpland said.</p>
+<p>The new Java-based product Remagen is a layer of software which runs on Microsoft's Windows NT and lets WordPerfect run on top across many computer platforms, said one analyst who declined to be identified.</p>
+<p>It also allows companies with old software and lower-powered desktop and other computers to run Corel's software while Microsoft is shoved aside.</p>
+<p>&quot;The end result is the same for users; WordPerfect gets to go on desktops that Microsoft's abandoned,&quot; the analyst said.</p>
+<p>Corel officials said that they expected some revenue will start rolling in as soon as the first quarter of 1998.</p>
+<p>&quot;The work that they've put into Java is not completely wasted,&quot; the analyst said. &quot;It's an extension of their whole Java strategy.&quot;</p>
+<p>Corel also said it plans to ship cheaper network computers (NC), which do not have disc drives but can surf the Net and do other things, before the end of December.</p>
+<p>The news &quot;does not affect our financial model, which includes only minimal revenue from new Java and NC products,&quot; wrote analyst David Kramer from RBC Dominion Securities in his morning commentary.</p>
+<p>The anonymous analyst forecast that Corel's 1998 financial results would produce at most C$5 million in revenue, or less than one percent, from all new products.</p>
+<p>Corel shares fell 0.60 to 8.40 in moderate trading on the Toronto Stock Exchange and slipped 0.44 to 6 on Nasdaq. ((Lydia Zajc, Reuters Toronto Bureau (416) 941-8109 or lydia.zajc@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

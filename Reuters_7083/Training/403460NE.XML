@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403460" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: Deltek IPO offers 2.9 mln shrs at $11/shr.</title>
+<headline>Deltek IPO offers 2.9 mln shrs at $11/shr.</headline>
+<dateline>MCLEAN, Va. 1997-02-26</dateline>
+<text>
+<p>Deltek Systems Inc on Wednesday announced an initial public offering of 2.9 million common shares at an initial price of $11 per share.</p>
+<p>The company said it is offering 1.7 million of the shares, and selling shareholders are offering the remaining 1.2 million.</p>
+<p>The offering was managed by Montgomery Securities and William Blair &amp; Co. Certain of the selling shareholders have granted the underwriters a 30-day option to buy up to 435,000 additional shares to cover over-allotments, if any.</p>
+<p>The company said net proceeds will be used for general corporate purposes, including product development, working capital and potential acquisitions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MCLEAN, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

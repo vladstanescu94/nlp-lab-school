@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802865" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: TABLE - StarBase Corp Q1 results.</title>
+<headline>TABLE - StarBase Corp Q1 results.</headline>
+<dateline>IRVINE, Calif. 1997-08-15</dateline>
+<text>
+<p>StarBase Corp.</p>
+<p>			  Summarized Financial Information</p>
+<p>		     For the Quarter Ended June 30, 1997</p>
+<p>		    (In thousands, except per-share amounts)</p>
+<p>				   Three mos ended    Three mos ended</p>
+<p>					Jun 30, 1997	 Jun 30, 1996</p>
+<p>					 (unaudited)	  (unaudited)</p>
+<p> Net revenue			    $    338	     $    209</p>
+<p> Gross margin				  306		    208</p>
+<p> Net loss				  (1,332)		(1,210)</p>
+<p> Net loss per share		     (0.11)		 (0.14)</p>
+<p>Weighted average shares</p>
+<p>  outstanding			     12,002		  8,796</p>
+<p>					Jun 30, 1997	 Mar 31, 1997</p>
+<p> Cash and cash equivalents	    $1,296		 $2,722</p>
+<p> Total assets				2,465		  3,876</p>
+<p> Total liabilities			   806		    885</p>
+<p>NOTE: During the year ended March 31, 1997, the company changed its method of calculating loss per common share to exclude the 1,408,638 outstanding common shares held in escrow.  These shares are considered contingent shares and were incorrectly included in the calculations of previously reported losses per common share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

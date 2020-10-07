@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17158" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Netscape, Apple to develop new Navigator.</title>
+<headline>Netscape, Apple to develop new Navigator.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-08-27</dateline>
+<text>
+<p>Apple Computer Inc and Netscape Communications Corp said Tuesday they had signed an agreement for Netscape to develop a new version of Netscape Navigator that supports Cyberdog, Apple's Internet suite, and OpenDoc, the open component architecture.</p>
+<p>The Navigator is the leading browser software for conducting searches on the Internet's World Wide Web of computer networks.  </p>
+<p>The companies said Netscape would develop a custom component called Netscape Navigator for Cyberdog, developed specifically for the Apple Cyberdog Internet suite.</p>
+<p>They said Apple would distribute Netscape Navigator for Cyberdog with its Mac OS, as the default browsing component for Cyberdog. Apple also planned to incorporate it into the Mac OS in Apple computers, they added.</p>
+<p>&quot;With Cyberdog and other initiatives, Apple has been incorporating Internet access directly into the OS and Macintosh applications, so that Internet access is user-content and experience driven, rather than accessible only through stand-alone browsers,&quot; Apple said.</p>
+<p>Cyberdog is a full-featured Internet/intranet suite of products. Cyberdog makes it easier to gain access to Internet from within common software applications running on Apple Mac systems. It also includes many built-in data-types, such as for GIF and JPEG files and QuickTime movies.</p>
+<p>Cyberdog is tightly integrated with the Mac OS.</p>
+<p>OpenDoc enables computer software makers to design software in a modular fashion that allows it to plug into various competing operating systems.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75470" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Adobe reports lower third quarter earnings.</title>
+<headline>Adobe reports lower third quarter earnings.</headline>
+<dateline>SAN JOSE, Calif.</dateline>
+<text>
+<p>Adobe Systems Inc., a maker of printing and graphics software, reported third quarter net income on Wednesday of $29.8 million, down from $33.9 million a year ago but right in line with analysts's expectations.</p>
+<p>In after hours trading immediately after the earnings announcement, Adobe shares rose $2.50 to $37.50 from Wednesday's closing price of $35.</p>
+<p>In the year ago quarter, Adobe earned a profit of $33.9 million, or 44 cents a share.</p>
+<p>Third quarter revenues totalled $180.9 million vs. $183 million last year, Adobe said in a statement.</p>
+<p>The company cited softer sales of Macintosh computers, made by Apple Computer Inc., delayed product shipments and the traditionally slow summer season as leading to the earnings that were lower than last year.</p>
+<p>Macintosh computers appeal strongly to graphics and design professionals who also are more likely to purchase Adobe products. Sales of Microsoft Corp.'s Windows-based products, by contrast rose 35 percent form year ago levels and now make up roughly 44 percent of total sales, Adobe said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

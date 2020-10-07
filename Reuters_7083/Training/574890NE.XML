@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574890" id="root" date="1997-05-11" xml:lang="en">
+<title>GERMANY: SAP says to clamp down on staff share trade.</title>
+<headline>SAP says to clamp down on staff share trade.</headline>
+<byline>Kate Kelland</byline>
+<dateline>BONN 1997-05-11</dateline>
+<text>
+<p>SAP, the German software company embroiled in an insider trading probe, plans to curb trading in its shares by its own employees, the German weekly magazine Focus said in its weekend issue.</p>
+<p>&quot;We want to put all employees under the obligation not to trade in SAP shares in the dangerous three weeks at the end of each quarter,&quot; SAP's chief executive Dietmar Hopp told Focus in an interview.</p>
+<p>Hopp said anyone who broke the rule, which also covered top-ranking employees, could be fired.</p>
+<p>Frankfurt prosecutors have launched an investigation to establish whether inside information was used in trades in SAP shares and derivatives by more than 100 people around the time of the firms's third quarter results announcement on October 22 last year.</p>
+<p>SAP has said that 71 of its staff members knew by October 18 last year that third quarter results would come in below expectations.</p>
+<p>After the results, which were below market expectations with sales growth slowing to 33 percent from 38 percent in the first half, SAP shares plunged 23 percent. The stock had risen 75 marks to a record high of 285 marks in the previous ten weeks.</p>
+<p>The Supervisory Authority, or BAWe, investigated the price fall and said it found enough evidence of dubious activity to pass the case on to prosecutors.</p>
+<p>Members of SAP's supervisory and management boards have given sworn statements that they did not engage in share dealing on the basis of the results data.</p>
+<p>Hopp told Focus that he stood by these statements. &quot;I cannot imagine that a management or supervisory staff member would do such a thing. They know the law.&quot; he said.</p>
+<p>But Hopp said he could not rule out that other employees might have been involved in forbidden transactions. &quot;It is possible that someone opened his mouth after a few beers,&quot; he told the magazine.</p>
+<p>German weekly Der Spiegel said in its weekend edition that of the 71 staff who had results information ahead of time, four engaged in share transactions under their own names just before the results were announced.</p>
+<p>None of these four were members of SAP's management or supervisory boards, Spiegel said.</p>
+<p>SAP has pledged to cooperate with investigators to bring the probe to a swift conclusion, saying any members of staff found guilty of insider trading would face &quot;appropriate consequences&quot;.</p>
+<p>The BAWe, based in Frankfurt, has said that the SAP case may Germany's most serious suspected insider dealing case since such activity was criminalised in 1994.</p>
+<p>The watchdog has passed on 11 cases of suspected insider trading to prosecutors so far this year. The maximum penalty for insider trading is a five-year jail term, but as yet no custodial sentence has ever been imposed.</p>
+<p>-- Frankfurt Newsroom +49 69 7565 1246</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183829" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Microsoft names online city guide, new sites.</title>
+<headline>Microsoft names online city guide, new sites.</headline>
+<dateline>SEATTLE 1996-11-11</dateline>
+<text>
+<p>Microsoft Corp. Monday identified four more cities including Sydney, Australia, that will be covered by a planned online guide to local entertainment dubbed Sidewalk.</p>
+<p>The project, formerly code-named Cityscape, has been watched closely in the media industry because it represents Microsoft's most aggressive foray yet into markets traditionally dominated by newspapers and magazines.</p>
+<p>In addition to Sydney, Microsoft said it would launch online guides to Washington, D.C.; Minneapolis and St. Paul, Minn.; and San Diego by the end of 1997.</p>
+<p>The company previously announced plans to launch Sidewalk next year in Seattle, New York, San Francisco, Boston and at least two additional cities next year.</p>
+<p>The guides, which will include entertainment reviews and restaurant listings, will be supported by advertising and offered free on the Internet's World Wide Web.</p>
+<p>&quot;Sidewalk will be produced by local editorial teams that include print, broadcast and online journalists who will work together to deliver on our promise of providing the next generation of city media,&quot; Sidewalk publisher Frank Schott said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

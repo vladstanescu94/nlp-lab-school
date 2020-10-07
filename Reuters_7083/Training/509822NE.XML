@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="509822" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: Dow Jones meeting a forum for fireworks.</title>
+<headline>Dow Jones meeting a forum for fireworks.</headline>
+<dateline>NEW YORK 1997-04-15</dateline>
+<text>
+<p>Dow Jones &amp; Co shareholders will get their first opportunity in a year to question company executives closely about its plans to revamp its financial information services and to turn around its stock performance.</p>
+<p>After months of grumblings from dissident members of the family that controls Dow Jones as well as some of its more prominent shareholders, the company is scheduled to hold its annual meeting Wednesday in New York.</p>
+<p>Company observers said that although there were bound to be plenty of questions and heated discussion at the meeting, they doubted any significant action would occur.  </p>
+<p>&quot;I don't think it'll be as dramatic as people believe,&quot; Dean Witter Reynolds analyst James Dougherty said.</p>
+<p>Ron Chen, president of the Independent Association of Publishers' Employees and a copy editor at Dow Jones' Wall Street Journal, said it was unlikely that a union-backed proposal will be enacted at the meeting.</p>
+<p>The union has put forth a proposal to conduct independent reviews of the company's chairman and chief executive. Management opposes the measure, saying that the board of director's compensation committe already evaluates the performance of top management.</p>
+<p>&quot;I believe our proposal has become the lightening rod ... by which a discussion tomorrow will become focused,&quot; Chen said.</p>
+<p>The annual meeting comes after the company's recent announcement that it would spend $650 million to revamp its Telerate financial information services unit. The unit has since been renamed Dow Jones Markets.</p>
+<p>It also comes a week after the company reported an alliance with Microsoft Corp to build a package of services compatible with standard computer software and the Internet to bring financial information and electronic trade into new markets.</p>
+<p>Dougherty said that although there may be questions about the future of Dow Jones Markets, the annual meeting will be unable to resolve them.</p>
+<p>&quot;It's just too soon,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

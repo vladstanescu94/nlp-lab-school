@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32271" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Bay Networks sees lower costs and prices.</title>
+<headline>Bay Networks sees lower costs and prices.</headline>
+<dateline>LOS ANGELES 1996-09-04</dateline>
+<text>
+<p>Bay Networks said its merger with LANcity Corp should enable it to cut prices of the advanced cable modems that LANcity currently manufactures.</p>
+<p>&quot;Basically, today, LANcity has a price of $599,&quot; said Bruce Sachs, executive vice president of Bay Networks Internet/Telecomm Business unit on a conference call. Sachs said the combined companies will begin rolling out a co-branded product immediately with the closure of the $54 million merger. &quot;And, as volume grows, we're expecting its price to drop over time,&quot; he said. Sachs said he expected the deal to close September 24 and be accounted for as a purchase.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

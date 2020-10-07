@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16159" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Netscape says Bellsouth in deal.</title>
+<headline>Netscape says Bellsouth in deal.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1996-08-27</dateline>
+<text>
+<p>Netscape Communications Corp said BellSouth Corp was launching a new Internet service, using Netscape software.</p>
+<p>BellSouth will provide a customized version of Netscape Navigator(TM) client software to its business and residential customers. It will also use Netscape Enterprise Server(TM) software as the foundation for its Internet site, it said.  </p>
+<p>In addition to offering Internet access and a customized version of Netscape Navigator, BellSouth.net will offer integrated electronic mail based on Netscape Navigator Mail capabilities, an optional site blocking feature and an easy-to-use gateway to local and national information and electronic yellow pages.</p>
+<p>BellSouth.net will be available initially in the Atlanta and New Orleans metropolitan areas.  In October, BellSouth will expand the service to an additional eight markets including Raleigh, Charlotte, Miami, Orlando, Jacksonville, Louisville, Nashville and Memphis.  Additional markets will be added in 1997, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270404" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Broderbund profit falls 44 percent on weak sales.</title>
+<headline>Broderbund profit falls 44 percent on weak sales.</headline>
+<dateline>NOVATO, Calif.</dateline>
+<text>
+<p>Broderbund Software Inc. said Thursday its fiscal first quarter net income fell 44 percent amid declining revenue from its chief educational software products.</p>
+<p>Broderbund, based in Novato, Calif., said profit for the quarter ended Nov. 30 fell to $8.9 million, or 42 cents a share, from $15.9 million, or 73 cents, in the same quarter a year ago.</p>
+<p>Wall Street expected Broderbund to earn 43 cents a share, according to a recent analyst survey by First Call.</p>
+<p>First-quarter revenue slipped 13 percent to $61.5 million from $71 million a year ago.</p>
+<p>Broderbund publishes educational and entertainment programs such as &quot;Where in the World is Carmen Sandiego?&quot; and &quot;Myst.&quot;</p>
+<p>Although sales of its productivity and education products rose in the quarter, sales of its entertainment titles declined because of a lack of new products, the company said.</p>
+<p>The company also blamed price cuts for the lower results.</p>
+<p>&quot;Although we are please our first-quarter results met expectations, we are not satisfied with this level of overall operations,&quot; Joe Durrett, chief executive officer, said in a release.</p>
+<p>((--Kourosh Karimkhany, in Palo Alto, +1 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

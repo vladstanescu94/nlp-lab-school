@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="413968" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: Advantage Learning registers 3.0 mln IPO shares.</title>
+<headline>Advantage Learning registers 3.0 mln IPO shares.</headline>
+<dateline>WISCONSIN RAPIDS, Wis. 1997-03-03</dateline>
+<text>
+<p>Advantage Learning Systems Inc said it filed a registration statement relating to a proposed initial public offering of three million shares of common stock to be offered by the company.</p>
+<p>It anticipates the initial public offering price will be between $11 and $13 per share.</p>
+<p>Advantage Learning produces the Accelerated Reader and is parent company of the Institute for Academic Excellence Inc and IPS Publishing Inc. The company supplies schools with learning information systems, including computer software and training seminars.</p>
+<p>Piper Jaffray and Montgomery Securities will manage the offering.</p>
+<p>	 ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WISCONSIN RAPIDS, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

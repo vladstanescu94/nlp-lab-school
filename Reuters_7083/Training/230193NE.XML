@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230193" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: Microsoft Merchant Server up. [CORRECTED]</title>
+<headline>Microsoft Merchant Server up. [CORRECTED]</headline>
+<dateline>SEATTLE 1996-12-03</dateline>
+<text>
+<p>Microsoft Corp's Merchant Server software for businesses to sell products and services over the Internet is winning wide acceptance, chief operating officer Robert Herbold said Tuesday.</p>
+<p>(Corrects headline and first paragraph to show that product has already launched.)</p>
+<p>&quot;It's a very hot product,&quot; Herbold said at a technology conference sponsored by Forbes magazine.</p>
+<p>He said about 200 businesses were testing the software, which is based on Microsoft's Windows NT operating system. </p>
+<p>Herbold also said he expected worldwide personal computer sales to rise this year as much as 17.5 percent over 1995 levels, compared with the 13-14 percent analysts were predicting earlier.</p>
+<p>&quot;Things are a little healthier than we thought,&quot; he said at the conference.</p>
+<p>He said Microsoft's primary focus over the coming year would be on making personal computers easy to use, including development of a sealed &quot;NetPC&quot; with Intel Corp to compete with rival network computers.</p>
+<p>Herbold said 60 to 70 percent of the cost of the business cost of computers is incurred when hardware or software is updated, and he said Microsoft's &quot;zero-administration Windows&quot; initiative aimed to lower that by allowing software updates to be done remotely.</p>
+<p>For example computer reboots would be done directly off a server, ensuring that the operating system is continuously updated, he said.</p>
+<p>Herbold offered sneak previews of Microsoft technology that would allow computers to recognize speech and even distinguish among users and read facial expressions, but he said such projects were in research stages.</p>
+<p>-- Martin Wolk, Reuters Seattle bureau,  206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

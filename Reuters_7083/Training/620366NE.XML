@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="620366" id="root" date="1997-05-28" xml:lang="en">
+<title>USA: Informix, Oracle clash in Portland courtroom.</title>
+<headline>Informix, Oracle clash in Portland courtroom.</headline>
+<byline>Miriam Widman</byline>
+<dateline>PORTLAND, Ore. 1997-05-28</dateline>
+<text>
+<p>Troubled database software company Informix Corp. and its giant rival Oracle Corp. clashed in court Wednesday in a high-profile hearing over 13 programmers who switched employers.</p>
+<p>In opening statements of what is expected to be a two-week hearing, Informix attorneys charged that Oracle improperly hired the engineers away and that the engineers took important trade secrets about a forthcoming Informix database product with them.</p>
+<p>Robert Haslam, Informix's lead attorney, asked the county judge to issue a ruling that would block the engineers from working on a similar Oracle product.</p>
+<p>Oracle attorneys said the engineers did not bring any proprietary information with them, and said the employees left only because they were unhappy with Informix management.</p>
+<p>Oracle also argued that an injunction is not needed because the engineers are working on &quot;Web enabling applications&quot; rather than database software.</p>
+<p>In addition to the injunction, Informix seeks unspecified monetary damages from Oracle.</p>
+<p>Informix faces troubles outside the court. The company reported an unexpected first-quarter loss of $140.1 million as revenue plunged 34 percent to $133.7 million. Last week, Informix laid off about 100 workers to cut costs.</p>
+<p>Informix, based in Menlo Park, Calif., filed the lawsuit in January, charging that a former vice president and other Oregon-based employees were hired away improperly.</p>
+<p>But Oracle attorney Jeff Channin said the employees &quot;engaged in no deception and were pretty open about their desire to leave,&quot; especially after the vice president was demoted by Informix.</p>
+<p>Oracle attorneys also said the practice of switching companies is common in the software industry. Informix headhunters, in fact, have made cold calls to Oracle employees at the company's Redwood Shores, Calif., headquarters, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

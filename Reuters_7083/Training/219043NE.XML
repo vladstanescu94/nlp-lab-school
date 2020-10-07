@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219043" id="root" date="1996-11-26" xml:lang="en">
+<title>ISRAEL: FEATURE-Israel software industry short of labour.</title>
+<headline>FEATURE-Israel software industry short of labour.</headline>
+<byline>David Rosenberg</byline>
+<dateline>TEL AVIV 1996-11-26</dateline>
+<text>
+<p>Israel's software industry has grown rapidly over the last five years, but the sector has become a victim of its own success as it now faces a shortage of engineers.</p>
+<p>The combined revenues of Israel's software companies are only a fraction of Microsoft's, but they have grown 76 percent in five years to $950 million in 1995 and are expected to top $1.1 billion this year, according to the Israel Association of Software Houses.</p>
+<p>Exports have risen even faster, by a factor of nearly three to $300 million in 1995 and are expected to reach $400 million this year.</p>
+<p>In addition, hundreds of millions of dollars in software built into electronics products are made and sold by Israeli companies and not counted in the association's statistics.</p>
+<p>But finding trained personnel for the fast-growing industry is becoming increasingly difficult.</p>
+<p>&quot;Because of all the start-ups -- more than 1,500 high-tech companies have been formed in the last few years -- there's big shortage of software engineers,&quot; said Menachem Hasifri, managing director of Edusoft, a maker of educational software.</p>
+<p>Amiram Shur, chairman of the Israel Association of Software Houses, estimates Israeli high-tech companies employ 23,000 to 25,000 software engineers but could use another 1,000 to 1,500 immediately.</p>
+<p>As a result, salaries have been rising. Starting software engineers can expect to earn $2,500 a month before taxes, which is quite high by Israeli standards.</p>
+<p>&quot;Israel used to be a cheaper place (to develop software). Simply because of the explosion of software companies, it is less so,&quot; said Rob Rosenschein, president of Accent Software, which develops word-processing and Internet software in languages other than English. &quot;But the quality is very high.&quot;</p>
+<p>Industry executives say Israelis acquire a penchant for teamwork during army service, which nearly all men and women do. That gives them an important edge in software design, which is usually a cooperative effort.</p>
+<p>&quot;In Israel, there's a lot of talent and stability of groups,&quot; said Yaron Shamir, who heads the development unit for Microsoft Corp in Haifa. &quot;Compared to Silicon Valley, there is a lot less job movement. People are committed to the team.&quot;</p>
+<p>Shur is not worried about rising salaries. &quot;The cost of labour is really a question of price performance and the real question is performance,&quot; he said. Israeli companies are geared towards making products rather than subcontracting for other companies, which means they are less sensitive to costs, he explained.</p>
+<p>In the meantime, Shur said, the government is addressing the shortage by sponsoring re-training programmes. The association is helping by sponsoring computer olympiads and other programmes to encourage high school students to study computer science. He said university computer science departments were filling up again after several lean years.</p>
+<p>The quality of human resources makes up for the fact that Israel is not a natural location for software makers. Its domestic market is tiny, and the country is distant from the United States, the world's biggest market and trendsetter.</p>
+<p>But industry executives say they have overcome the problem.</p>
+<p>&quot;Because we don't have a big local market, the world is our market. The minute we see an idea, we think how we can market it worldwide....An American company is very U.S.-centric,&quot; said Sharon Hess, marketing director for Finjan, a start-up company that makes Internet security software.</p>
+<p>Israeli companies also choose their product niches carefully.</p>
+<p>&quot;We knew we'd survive only if we went to specific niches that are very international,&quot; explained Hasifri, whose company had sales last year of $11 million, of which only five percent was domestic.</p>
+<p>That is why Edusoft chose to specialise in the teaching of English as a second language. &quot;English-teaching is the same in Sweden as in Thailand,&quot; he said.</p>
+<p>In software design, industry executives say distance is not a problem. &quot;Software is one of the few areas where you can be located anywhere from a development point of view,&quot; said Rosenschein.</p>
+<p>Even highly centralised multinational companies have set up research and development operations in Israel. Microsoft was initially hestitant, recalls Shamir. But a team of Israeli-born engineers working for the company were determined to return home and persuaded management.</p>
+<p>Today Microsoft employs 50 people who develop programmes for operating systems, networking and Internet access. &quot;There are issues to overcome with communications, but we've solved them over the last five years,&quot; Shamir said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

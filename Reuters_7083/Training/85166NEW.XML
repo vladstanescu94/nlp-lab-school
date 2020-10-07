@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85166" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Microsoft sets new personal finance software.</title>
+<headline>Microsoft sets new personal finance software.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-09-30</dateline>
+<text>
+<p>Microsoft Corp. Monday announced the availability of the latest version of its Money personal finance software with a new feature that allows users to convert data from Intuit Inc.'s rival Quicken product.</p>
+<p>Microsoft said Money 97, which is available immediately for a retail price of about $34.95, also includes a specification that allows banks and other financial institutions to connect directly to the software programme.</p>
+<p>While Quicken still has a market share lead of more than 3-1 over Money, industry analysts said Microsoft's Open Financial Connectivity gives the software an advantage that Intuit will not match for about a year.</p>
+<p>While some financial institutions offer home banking options using either Money or Quicken as their user interface, others have stayed out of the market. One reason cited by analysts is the reluctance of banks to pay check-clearing fees demanded by Intuit Services Corp., which acts as intermediary for both software packages.</p>
+<p>Intuit has announced plans to sell the unit for $228 million to CheckFree Corp.</p>
+<p>Microsoft's new specification allows banks to handle their own check clearing, although Microsoft still will get a 75 cent-per-customer monthly licensing fee, said analyst David Weisman of Forrester Research.</p>
+<p>He said Intuit would not offer a similar option for banks until the fall of 1997.</p>
+<p>Intuit stock fell $1.75 to close at $31.50 Monday on Nasdaq, where Microsoft dropped $2.50 to $131.875.</p>
+<p>The market for personal finance software has proven extremely difficult for Microsoft to crack, and in October 1994 the company announced a deal to acquire Intuit in a deal ultimately valued at more than $2 billion.</p>
+<p>The deal was cancelled seven months later after the Justice Department objected on antitrust grounds, and since then Microsoft has been chipping away slowly at Intuit's dominant position, analysts said.</p>
+<p>&quot;I would expect Microsoft to succeed in eroding some share from Intuit now that they're devoting more resources to it,&quot; said Dwight Davis, editor of Windows Watcher, an industry newsletter.</p>
+<p>&quot;Whether it succeeds in eroding Intuit's &quot;mind share&quot; is another question,&quot; he said, noting that Quicken users tend to be fanatical in their devotion to the product.</p>
+<p>Weisman said Microsoft's focus on home banking was a smart approach, especially with the rise in popularity of the Internet and the increasing ease of electronic commerce.</p>
+<p>&quot;Intuit is really going to have to move here to keep its lead,&quot; he said.</p>
+<p>Currently about 1 million U.S. households take advantage of computer banking from home, Weisman said, but he estimated that would grow to 10 million by 2001.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="358299" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: Oracle sees new computer in Japan by April.</title>
+<headline>Oracle sees new computer in Japan by April.</headline>
+<dateline>NEW YORK 1997-02-04</dateline>
+<text>
+<p>Oracle Corp Chief Executive Larry Ellison on Tuesday said he expected about 1,000 network computers to be delivered in Japan in mid-April.</p>
+<p>During a conference call to announce a licensing agreement with Borland International Inc, Ellison said 1,000 NCs and 100 servers will be delivered during Oracle's Open World conference in Japan.</p>
+<p>A spokeswoman declined to comment further on Ellison's brief comments. Oracle is one of the big proponents of the stripped-down, lower-cost network computers.</p>
+<p>Oracle declined to say which company were producing the NCs to be delivered in Japan. Oracle is developing software to run on the computers, which are also being developed by Sun Microsystems Inc and International Business Machines Corp.</p>
+<p>Network computers are computers with limited memory and no peripherals such as disk drives. The software that runs on the NCs resides on a network server. NCs have been likened to dumb terminals accessing mainframe computers.</p>
+<p>Oracle, Sun, IBM and others have defined a set of specifications for the development of network computers, and several Japanese companies are developing NCs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

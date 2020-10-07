@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="627031" id="root" date="1997-05-30" xml:lang="en">
+<title>USA: IRS unveils derivatives pricing software.</title>
+<headline>IRS unveils derivatives pricing software.</headline>
+<dateline>WASHINGTON 1997-05-30</dateline>
+<text>
+<p>The Internal Revenue Service this week formally unveiled a long-awaited computer program designed to help its agents audit a broad range of financial derivatives held by securities firms and banks.</p>
+<p>The $2.6 million software, developed under contract by the Los Alamos National Laboratory, uses a model to compute ranges of values for the instruments.</p>
+<p>The proposal, published in the May 29 Federal Register, asks for comments on the planned use of the software as well as its scope and underlying mathematical formulas. But the public will not be able to physically test the software.  </p>
+<p>&quot;We have disclosed sufficient information in the Federal Register that we feel is enough for the public and the financial industry to make comments,&quot; Suzanne Boule, program manager of the Los Alamos project, told Reuters.</p>
+<p>The software is still in the testing mode and &quot;everything is very fluid,&quot; Boule said. &quot;We are soliciting comments before we actually roll it out.&quot;</p>
+<p>&quot;A tentative target date has been set for the fall of 1997, but...if some of the comments happen to be very substantive and require a lot of changes it could be later,&quot; she said.  </p>
+<p>In 1993 the IRS required that securities dealers use a mark-to-market method of accounting in which inventoried securities must be included at fair market value.</p>
+<p>The IRS contracted with the Department of Energy in 1994 to develop the model for the program, which agents will use in the field.</p>
+<p>The software was demonstrated here at a public meeting on last month, where it was criticized by some members of the derivatives industry. Some industry participants said during the demonstration that the computer software worked well for standard swaps but not for more complex ones.  </p>
+<p>In a letter to the IRS, the Wall Street Tax Association Inc wrote, &quot;We continue to have serious doubts about the usefulness of the Los Alamos software, given the problems that IRS agents are sure to encounter in attempting to apply the software.&quot;</p>
+<p>The group said it thought &quot;the valuation software would, on balance, only reflect abstract theory, not the nuances and business judgments necessary to properly value derivatives.&quot;</p>
+<p>Others in the industry have questioned the need for sophisticated, expensive software, suggesting traditional programs such as plain vanilla swaps could be computed by using store-bought programs.</p>
+<p>Other members of the industry wondered if computer software was necessary at all.</p>
+<p>The IRS has said it does not intend to change how it values derivatives, but only make the valuation process easier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

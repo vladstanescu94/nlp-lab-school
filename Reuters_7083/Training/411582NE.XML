@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411582" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: Citrix stock falls on expected Microsoft rivalry.</title>
+<headline>Citrix stock falls on expected Microsoft rivalry.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1997-02-27</dateline>
+<text>
+<p>The stock of networking software company Citrix Systems Inc. lost almost 60 percent of its value Thursday amid concerns that its core product might face competition from industry behemoth Microsoft Corp.</p>
+<p>Citrix shares tumbled $15.625 to $10.625 in heavy trading, with over 13.8 million shares changing hands.</p>
+<p>Late Wednesday, Citrix said it was told by Microsoft that Microsoft was looking to develop multi-user features in its increasingly popular Windows NT operating system that would compete with Citrix's WinFrame software that lets users of multiple computers acccess Windows NT.</p>
+<p>Microsoft later said it does have a product team working on such a software project, Microsoft Senior Vice President Jim Allchin said Thursday.</p>
+<p>&quot;We have a development team under way,&quot; Allchin said in a phone interview. He also said Microsoft is &quot;always talking&quot; to other companies about licensing technology.</p>
+<p>Allchin said Microsoft will end up offering the multi-user capability to its users in Windows NT, but it has yet to decide if the technology will come from its own development, from Citrix, or from another company.</p>
+<p>Fort Lauderdale, Fla.-based Citrix said Wednesday that if Microsoft decided to develop features that would compete with its WinFrame technology, it would hurt Citrix's finances, but it did not give any specifics.</p>
+<p>A Citrix spokeswoman said the licensing talks were continuing and that its relationship with Redmond, Wash.-based Microsoft &quot;remains strong.&quot; A Microsoft spokeswoman said that the talks between the two are continuing and nothing is final.</p>
+<p>Microsoft Treasurer Greg Maffei is a member of Citrix's board of directors, and Microsoft owns an equity stake of about 6 percent of Citrix.</p>
+<p>Microsoft's Allchin said, &quot;Customers are asking for this.... It's a natural extension of the family that we already have. It should not be a surprise to anyone. It's just another part of the Windows family.&quot;</p>
+<p>Last year Microsoft introduced Windows CE, a slimmed-down version of Windows and applications for personal digital assistants and consumer devices in the future.</p>
+<p>Allchin said Microsoft already has a team of &quot;reasonable&quot; size working on developing multi-user capability, which would allow, with remote access, users on multiple devices ranging from personal digital assistants, PCs, so-called network computers, laptops and other devices, to access a server running Windows NT and applications.</p>
+<p>Last month, Citrix reported record revenues of $15.6 million in the fourth quarter, up from $5.2 million in the year-ago quarter. The company said that its strong quarter reflected the momentum in the Windows NT marketplace.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

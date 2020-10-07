@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85762" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: Micro Warehouse restating financial results.</title>
+<headline>Micro Warehouse restating financial results.</headline>
+<dateline>NORWALK, Conn. 1996-09-30</dateline>
+<text>
+<p>Micro Warehouse Inc said Monday it is likely to restate its financial results for its 1994 and 1995 fiscal years after finding errors in accounting procedures.</p>
+<p>The company said it hasn't determined the charge from these errors but believes it will total about $18 million after tax.</p>
+<p>The company said it doesn't expect an effect on its ongoing operations.  </p>
+<p>The company said it believes the errors accumulated over several years and mainly involve years before 1996.</p>
+<p>The company said it has formed a task force to examine the issue, and its audit committee is working with independent auditors KPMG Peat Marwick LLP and counsel Jones, Day, Reavis &amp; Pogue.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWALK, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137605" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Psinet Sept 30 Q3 shr loss narrows.</title>
+<headline>Psinet Sept 30 Q3 shr loss narrows.</headline>
+<dateline>HERNDON, Va. 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr    loss		$0.31     loss	 $0.40</p>
+<p> Net    loss	     12,500     loss	13,100</p>
+<p> Revs			24,200		   11,100</p>
+<p> Avg shrs		  39,900		   32,300</p>
+<p>	   9 MONTHS</p>
+<p> Shr    loss		$0.98     loss	 $0.81</p>
+<p> Net    loss	     38,300     loss	23,400</p>
+<p> Revs			61,600		   24,700</p>
+<p> Avg shrs		  39,100		   28,700</p>
+<p>(All data above 000s except per share numbers) Full company name is PSINet Inc</p>
+<p>NOTE: The third quarter 1996 net income included a non-recurring $2.1 million loss mostly due to accelerated amortization of some software costs. PSINet said its third quarter 1996 results were due to a rising subscriber count, increased revenue per subscriber and the completion of the global network in the United States, UK, Canada and Japan.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HERNDON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

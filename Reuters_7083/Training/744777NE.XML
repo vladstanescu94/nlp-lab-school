@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744777" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE - Marcam Corp Q3 June 30 net loss.</title>
+<headline>TABLE - Marcam Corp Q3 June 30 net loss.</headline>
+<dateline>NEWTON, Mass. 1997-07-22</dateline>
+<text>
+<p>3 Mos ended 6/30     9 Mos ended 6/30</p>
+<p>				   1997	1996     1997	1996</p>
+<p>Revenues:</p>
+<p>  Licenses		   $17,698  $24,085   $55,782   $65,493</p>
+<p>  Services		    26,344   27,099    77,811    83,121</p>
+<p>    Total revenues	  44,042   51,184   133,593   148,614</p>
+<p>Operating expenses:</p>
+<p>  Cost of license revenues 3,967    3,484    12,642    11,870</p>
+<p>  Costs of services revs  14,695   17,142    43,813    53,680</p>
+<p>  Selling and marketing   18,828   21,337    55,586    62,110</p>
+<p>  Product development	9,637    7,339    25,317    20,966</p>
+<p>  General &amp; administrative 3,197    2,361     7,513     7,782</p>
+<p>Restructuring and other</p>
+<p>   charges		    18,535    8,300    18,535     8,300</p>
+<p>    Total oper expenses   68,859   59,963   163,406   164,708</p>
+<p> Operating loss	   (24,817)  (8,779)  (29,813)  (16,094)</p>
+<p> Litigation settlement	  --	 --	  --   (3,250)</p>
+<p> Interest and other income    79	260	 695     1,195</p>
+<p>Interest and other expense</p>
+<p>				 (1,238)    (953)   (3,273)   (2,890)</p>
+<p>Loss before income tax</p>
+<p> expense		    (25,976)  (9,472)  (32,391)  (21,039)</p>
+<p> Income tax expense	  1,001    1,110     3,002     3,151</p>
+<p> Net loss		   (26,977) (10,582)  (35,393)  (24,190)</p>
+<p> Net loss per share	 (2.35)   (0.93)    (3.09)    (2.13)</p>
+<p> Wgtd shrs outstanding    11,498   11,429    11,472    11,382</p>
+<p>NOTE: 1997 Q3 includes charges of $18.5 million, less than the previously announced $22.0 million because of the cost of restructuring operations is expected to be less than anticipated.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

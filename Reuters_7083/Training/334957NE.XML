@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="334957" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Lotus sees Lotus Notes sales growing. [CORRECTED 23:59 GMT]</title>
+<headline>Lotus sees Lotus Notes sales growing. [CORRECTED 23:59 GMT]</headline>
+<dateline>LAKE BUENA VISTA, Fla. 1997-01-27</dateline>
+<text>
+<p>Top Lotus Development Corp. executives said Monday they expected sales of the company's core Lotus Notes software to grow 90 percent to 18 million users in 1997, up from 9.5 million last year.</p>
+<p>The prediction, made at a conference here called Lotusphere, represents a substantial rise in the growth IBM is forecasting for its Lotus Notes franchise (corrects from &quot;....is scaled back from previous predictions made by Lotus and International Business Machines Corp executives, who predicted at the time of the IBM/Lotus merger that Lotus will have 20 million Notes seats by the end of 1997&quot;). </p>
+<p>&quot;By contrast, a Lotus spokeswoman said it had sold nine million Notes seats by the end of 1996 and 12 million users of its of its cc:Mail electronic mail program, a simpler form of electronic mail often sold in conjunction with Notes.&quot;</p>
+<p>&quot;The new 1997 estimate from IBM Lotus represents absolute growth of 8.5 million Notes seats by the end of 1997, excluding any additional cc:Mail users.&quot;</p>
+<p>But Lotus executives and IBM Chairman Louis Gerstner said Lotus now has even more momentum, fuelled partly by the positive customer reception to its new server software for Lotus Notes, called Domino and written according to Internet standards. Server software runs on the computers on which networks operate.</p>
+<p>&quot;At this time last year, we were beginning to see some encouraging evidence that the merger was working,&quot; said Gerstner, referring to IBM's $3.5 billion acquisition of Lotus. &quot;Now a year later, I think the evidence is irrefutable ... Notes seats have doubled again.&quot;</p>
+<p>Gerstner referred to Domino as the &quot;crown jewel&quot; in IBM's Internet strategy.</p>
+<p>&quot;All of this contributed to the 6 percent growth ... of our (IBM's) $12 billion software business,&quot; Gerstner added. &quot;While some people in the press cannot get it straight, we are the world's largest software company.&quot;</p>
+<p>Lotus Notes is a leading product in the category of software known as groupware, in which corporate users can communicate with each other and collaborate on documents, among other things.</p>
+<p>Lotus also announced many new products and previewed more pieces in its overall strategy to make Lotus Notes completely compatible with the Internet.</p>
+<p>The new products included Domino.Broadcast, which will allow corporate users to receive customised news and other information delivered straight to their personal computers from PointCast Inc., as well as corporate information.</p>
+<p>The company previewed new software being developed for networked computers that was written entirely in Sun Microsystems Inc.'s Java language for Internet applications, code-named Kona.</p>
+<p>Lotus also demonstrated a preview version of its &quot;Kona Desktop,&quot; a package of applications such as a calendar, spreadsheet and other tools for a network computer, running on IBM's Network Station. Network computers are a new breed of low-cost, scaled down computers that run off software and data on networks, including the Internet.</p>
+<p>IBM stock dropped $4.25 to $146.25 in afternoon trading on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAKE BUENA VISTA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148171" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Acclaim FY 96 loss exceeding expectations.</title>
+<headline>Acclaim FY 96 loss exceeding expectations.</headline>
+<dateline>GLEN COVE, N.Y. 1996-10-28</dateline>
+<text>
+<p>Acclaim Entertainment Inc said on Monday it expects to report a net loss for fiscal year 1996, which ended Aug  31, 1996, &quot;significantly&quot; in excess of prior market expectations.</p>
+<p>The company said it sees a net loss for the fourth quarter of at least $140 million, due in part to the establishment of significant additional reserves.  </p>
+<p>This loss is attributable, in part, to the additional writeoff of receivables, to the establishment of further reserves in the fourth quarter for receivables, to severance charges and the reduction of certain deferred costs, as well as fourth-quarter operating losses, the company said.</p>
+<p>It also said also that, due to the expected loss, it would not be able to meet certain fiscal year-end financial covenants in its bank credit facilities and that it had begun discussions with its lenders seeking waivers and a restructuring of the facilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLEN COVE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127414" id="root" date="1996-10-18" xml:lang="en">
+<title>UK: Britain calls for candour on millennium software.</title>
+<headline>Britain calls for candour on millennium software.</headline>
+<dateline>LONDON 1996-10-18</dateline>
+<text>
+<p>Computer companies still selling software that will not cope with the millennium date change must come clean with their customers, a British minister said on Friday.</p>
+<p>&quot;Computer companies still selling non-millennium-compliant software and services must come clean and make the position clear to the customer,&quot; said Science and Technology Minister Ian Taylor.</p>
+<p>Most computer systems abbreviate the year to the last two digits. When the year 2000 arrives, many will interpret &quot;00&quot; as 1900 instead of 2000. This could create enormous problems in all areas of business and cost millions of pounds (dollars) to correct.</p>
+<p>&quot;I warn that anyone in business who fails to face up to these challenges now could be exposed to severe and costly repercussions,&quot; Taylor told a business conference.</p>
+<p>&quot;It's not only single companies' own systems which must be millennium ready, but also all the systems that must link together in communicating between suppliers, manufacturers, carriers and buyers.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

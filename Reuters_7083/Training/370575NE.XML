@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="370575" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: Dendrite approves share purchase program.</title>
+<headline>Dendrite approves share purchase program.</headline>
+<dateline>MORRISTOWN, New Jersey 1997-02-10</dateline>
+<text>
+<p>Dendrite International Inc said late Monday that its board had approved a share purchase program that may include open market purchases of up to $10 million based on market conditions.</p>
+<p>The company said an initial $3 million in share purchases would begin after February 10.</p>
+<p>Also on Monday the company reported a fourth quarter net loss of $3.3 million, or $0.29 per share, including non-recurring items, compared to a profit of $2 million, or $0.19 per share, in the year-ago quarter.</p>
+<p>Dendrite closed down 1/4 on Monday at 8-7/8.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MORRISTOWN, New Jersey"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

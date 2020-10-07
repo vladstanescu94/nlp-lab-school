@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227625" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Novell banking on intranet systems.</title>
+<headline>Novell banking on intranet systems.</headline>
+<byline>Judith Crosson</byline>
+<dateline>DENVER 1996-12-02</dateline>
+<text>
+<p>Novell Inc, the giant software company that has been shedding assets and shuffling top management, is banking on the growth of corporate-wide intranet systems to boost earnings.</p>
+<p>Novell's fierce rivalry with Microsoft Corp once prompted it to take on the software giant in a variety of areas including word processing software.</p>
+<p>But now the Orem, Utah-based firm is puzzling over how it can defend the market for networking software, which has been its flagship business product since the company's inception.  </p>
+<p>Chris Le Tocq of Dataquest said investors will have to keep a keen eye on Novell's new products, such as its Novell Directory Services.</p>
+<p>In the fourth quarter, sales for new products such as IntranetWare showed strong gains over the third quarter, but analysts want to see if this becomes a trend.</p>
+<p>John McCarthy, director of research at Forrester Research, said the question about IntranetWare sales is whether customers will be interested in the new products on a companywide basis -- which would produce the kind of revenues the market wants to see.  </p>
+<p>All of the problems have kept alive rumors that Novell could be a takeover target.  But for the time being at least, the company has squelched that talk and the distraction it has caused, saying last week that it sees its future course as an independent entity.</p>
+<p>Last week Novell reported fourth quarter earnings of $0.17 a share, compared with $0.16 a share in the year-ago period.  Revenues fell to $346 million from $481 million, underscoring the benefits of cost cutting and getting rid of poor performers.  </p>
+<p>&quot;They've turned the corner financially,&quot; a key first step in holding on to customers, McCarthy said.  &quot;Customers get reallly nervous when you lose money,&quot; he said.</p>
+<p>But McCarthy and other analysts say it is too early to predict the future for Novell.</p>
+<p>It has been a rocky road in the past few years. When former Chief Executive Officer Bob Frankenberg, who left in late summer, came on board, his first task was to figure out what to do about poor performance at WordPerfect, a major software company that analysts said should never have been acquired by Novell.  </p>
+<p>Gruntal &amp; Co analyst David Takata said Novell's problems with WordPerfect diverted management's attention at a time when the company should have been getting on the Internet bandwagon.</p>
+<p>Novell sold WordPerfect to Canadian software company Corel Corp and the sigh of relief could be heard on Wall Street.  But time was lost.  Novell's biggest headache now is finding a way to easily link customers on its network software with the Internet.</p>
+<p>Novell's software technology, which once created the market for enabling computers to talk to each other on a network, is based on a proprietary system and pre-dates Internet standards.</p>
+<p>Novell's biggest challenge is how to continue to perpetuate its dominance in computer networking software while at the same time letting customers easily link into the Internet and the open technologies that surround it.</p>
+<p>In addition to this challenge, Novell also faces stiff competition from rivals like Microsoft, which has for years been seeking to unseat it as the top supplier of networking products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

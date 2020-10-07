@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56742" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Microsoft to launch system for hand-held devices.</title>
+<headline>Microsoft to launch system for hand-held devices.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-09-16</dateline>
+<text>
+<p>Microsoft Corp on Monday plans to announce a version of its Windows 95 operating system for hand-held consumer devices that will be available this year, according to sources familiar with the company's plans.</p>
+<p>The Windows CE system for consumer electronics comes two years after Microsoft scuttled a similar project known as Winpad because its intensive memory requirements would have made the hardware too costly.</p>
+<p>Since then the explosive growth of the Internet has expanded the market possibilities for small wireless devices, while Microsoft rival Oracle Corp has popularised the concept of a $500 consumer device for accessing the Internet.</p>
+<p>Microsoft officials declined to comment, but the company said it would have an announcement on Monday on &quot;a significant addition in the area of Microsoft Windows platform software.&quot;</p>
+<p>Microsoft executives previously had disclosed plans to supply a system for hand-held devices in time for the holiday season.</p>
+<p>The devices, ranging from a &quot;smart&quot; wireless telephone to personal organisers with communcations capabilities, will be marketed by eight computer and consumer electronics companies including Hewlett-Packard Co., Casio Computer Co. Ltd., and Philips Electronics NV, industry analysts said.</p>
+<p>The operating system will include stripped-down versions of Microsoft's Word and Excel applications and are likely to have some ability to get information off the Internet's World Wide Web.</p>
+<p>But with their tiny, monochrome screens, analysts believe they will be used at first largely for accessing electronic mail and personal information such as telephone numbers and appointments.</p>
+<p>&quot;The Web doesn't look good on a 4-inch screen,&quot; said analyst Mike McGuire of Dataquest. &quot;What this is about is Internet transactions and communications.&quot;</p>
+<p>While hand-held &quot;personal digital assistants&quot; such as Apple Computer Inc.'s Newton have been available for several years the products have failed to grow beyond a niche category in part because of the difficulty of swapping information between them and desktop computers, analysts say.</p>
+<p>Microsoft aims to break that logjam with its new system, built for RISC microprocessors from Hitachi and others rather than the Intel Corp. processors used for most Windows-based computers.</p>
+<p>But at $500 -- or close to $1,000 for a machine fully loaded with communications accessories -- price will continue to be an obstacle, said analyst Rob Enderle of Giga Information Group, who said the &quot;sweet spot&quot; for small devices was about $300.</p>
+<p>&quot;I don't really think the market is going to really jump off in big number until next year,&quot; he said.</p>
+<p>McGuire of Dataquest estimated worldwide shipments of hand-held devices would rise to at least five million units a year by the end of the decade from the current one million.</p>
+<p>While that's still relatively small compared with a personal computer market of about 60 million units annually, Microsoft needs to protect its Windows franchise from any potential incursion, said analyst Scott McAdams of Ragen MacKenzie.</p>
+<p>&quot;If you let someone else get that operating system, over time someone could start working that system upmarket,&quot; he said. &quot;Microsoft needs to be a player here.&quot;</p>
+<p>Microsoft move into hand-held systems could pose a threat to U.S. Robotics Corp. and Britain's Psion Software Plc, two of the most successful marketers of proprietary hand-held products.</p>
+<p>The Windows CE system also could be licensed for use with a rival to Oracle's  Network Computer, analysts said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

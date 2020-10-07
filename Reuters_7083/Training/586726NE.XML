@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="586726" id="root" date="1997-05-15" xml:lang="en">
+<title>USA: BankAmerica, VISA to start Internet test.</title>
+<headline>BankAmerica, VISA to start Internet test.</headline>
+<dateline>SAN FRANCISCO 1997-05-15</dateline>
+<text>
+<p>BankAmerica Corp and Visa International said they will start testing stored-value chip card transactions on the Internet this summer.</p>
+<p>Employees of Bank of America and Visa will participate in the test using reloadable Visa Cash stored-value chip cards and their personal computers to purchase goods from participating merchants on the World Wide Web.</p>
+<p>Broderbund Software Inc, CardMart Greetings and Newsletter Technologies Inc will be the first merchants to participate in the six-month pilot, with several additional companies expected to follow.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

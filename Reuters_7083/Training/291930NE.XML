@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291930" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: RISC system sales top $50 billion in 1996 - report.</title>
+<headline>RISC system sales top $50 billion in 1996 - report.</headline>
+<dateline>CARMEL, California 1997-01-06</dateline>
+<text>
+<p>Revenues for computer systems using reduced instruction set computing (RISC) microprocessors and the Unix operating system rose by $10 billion to $51.7 billion in 1996, a market survey has found.</p>
+<p>However, industry analyst Andrew Allison said in his annual survey of the industry released on Monday that the rate of growth of RISC systems revenues slowed significantly to 24 percent compared with more than 40 percent a year earlier.</p>
+<p>Most vendors grew roughly with the market and, Allison said in his January &quot;Inside the New Computer Industry&quot; report, they had essentially maintained their market position.</p>
+<p>Hewlett-Packard Co's share of the revenue pie for RISC systems slipped fractionally to 29.6 percent from 30.0 percent in 1995, according to the report, while the Power and PowerPC systems used by International Business Machines Corp and others slipped to 27.5 percent from 28.3 percent.</p>
+<p>Sun Microsystems Inc's SPARC systems gained a half a percentage point to 17.0 percent of the RISC systems revenue, according to the survey, while MIPS systems produced and licensed by Silicon Graphics Inc slid to 15.9 percent from 16.3 percent.  </p>
+<p>Digital Equipment Corp's Alpha systems rose nearly 50 percent, but this reflected its relatively small base of 8.9 percent in 1996 and 6.0 percent in 1995 and the contribution of its high-end servers, Allison said.</p>
+<p>Allison said 1997 would be another challenging year, as Microsoft Corp's Windows NT and the Intel Corp chips which together are known as the &quot;Wintel&quot; platform continue to win customers away from RISC systems.</p>
+<p>The shift is particularly pronounced in the market for workstations -- high-end desktop computer devices -- as opposed to the powerful computer servers, which relay traffic and tasks between whole groups of computer users.</p>
+<p>Allison estimated RISC/Unix workstation unit shipments to actually declined by between five and 10 percent last year, with revenue at best flat during the period.</p>
+<p>Industry executives have blamed the sluggish market for traditional workstations in part on the launch of a new upgrade of Microsoft's Windows NT. Allison said the RISC/Unix workstation volume decline will &quot;accelerate markedly this year&quot; unless vendors match Wintel price and performance.  </p>
+<p>&quot;... the only obstacle between Wintel and domination of the new technical workstation mid-range today, namely application availability, is rapidly being whittled away,&quot; he said.</p>
+<p>--sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARMEL, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

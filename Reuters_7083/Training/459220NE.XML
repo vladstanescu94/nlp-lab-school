@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="459220" id="root" date="1997-03-21" xml:lang="en">
+<title>USA: Novell, Netscape say Novonyx stakes not yet set.</title>
+<headline>Novell, Netscape say Novonyx stakes not yet set.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-21</dateline>
+<text>
+<p>Senior executives of Novell Inc and Netscape Communications Corp said the capital structure of their joint networking software company Novonyx has not yet been determined.</p>
+<p>In a conference call with analysts and reporters, Netscape CEO Jim Barksdale said the ownership structure will be unveiled after government approval and it will include ownership by executives at Novonyx, Novell and Netscape.</p>
+<p>&quot;We expect to have some type of a product available in the market place in about six months and maybe employees in the range of 50-100 after one year,&quot; said Novell COO Joe Marengi.  </p>
+<p>Novell and Netscape earlier announced they agreed to form Novonyx in a bid to offer a complete line of products to take on Microsoft Corp and International Business Machines Corp's Lotus Development Corp unit.</p>
+<p>Netscape's Barksdale said details on individuals involved and final capital structure would not be released until after the company passes Hart-Scott-Rodino antitrust approvals.</p>
+<p>Novonyx is charted with tightly integrating current and future products from both Novell and Netscape, who up until now have not been able to offer a broad set of products the executives said can tap the best of both companies' offerings.  </p>
+<p>Novell boasts the largest installed base of network servers, with more than four million running its network operating systems serving 60 million users, said Marengi, while Netscape claims more than 50 million users of its Internet software.</p>
+<p>The executives declined to specify exactly which technologies would come from which company, noting there was an overlap and that this was why they had elected to form a separate company that could license technology from both.  </p>
+<p>Novell offers IntraNetware, GroupWise, ManageWise and its Novell Directory Server, while Netscape's SuiteSpot product offers electronic mail, publishing and groupware.</p>
+<p>Marengi said Novell will continue to offer its groupware solutions, which enable teams of people to collaborate, even at great distances, using electronic mail and other features, on its IntranetWare, Microsoft's Windows NT and the Unix system.</p>
+<p>Netscape will also independently continue to offer products in the same groupware space, but the new company will then be able to combine from both to suit customer needs.  </p>
+<p>&quot;Look at this as a separate company,&quot; said Marengi. Some Novell employees will be among the first employees of the new company &quot;because there's some good experience that we want to seed into the company,&quot; he said.</p>
+<p>Novonyx will be set up near Novell's Provo, Utah, headquarters.</p>
+<p>Barksdale said the new company will help customers building internal networks based on Internet standards, also known as intranets and deploy software to help customers communicate over the Internet, or so-called Extranets.  </p>
+<p>Novonyx &quot;will work to make Netscape's Intranet and Extranet solutions available to customers running Novell IntranetWare,&quot; he said in the conference call.</p>
+<p>Despite years of leadership in the network software market, Novell has been seen as lagging behind competitors in addressing the Internet software market and faces growing competition from Microsoft's Windows NT as a network platform.</p>
+<p>Earlier this week Novell named Eric Schmidt, a prime architect of Sun Microsystems Inc's Internet strategy, as its chairman and chief executive, effective April 7.  </p>
+<p>Barksdale said Novell ships more copies of server operating system software than Windows NT or Unix, which he said was &quot;a huge untapped market for Netscape.&quot;</p>
+<p>Barksdale said Netscape expects its Enterprise Server and its FastTrack Server to be its first products made specifically for the IntranetWare platform. These will be formally launched in the autumn.</p>
+<p>&quot;The companies have already made good progress and will be demonstrating the current beta version of Netscape Enterprise Server 3.0 running on IntranetWare and integrated with Novell directory services NDS at Novell's Brainshare conference next week in Salt Lake City, Utah,&quot; he said.</p>
+<p>((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

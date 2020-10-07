@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473863" id="root" date="1997-03-27" xml:lang="en">
+<title>FRANCE: OECD to agree encryption guidelines - U.S. envoy.</title>
+<headline>OECD to agree encryption guidelines - U.S. envoy.</headline>
+<dateline>PARIS</dateline>
+<text>
+<p>The OECD is to adopt common guidelines Thursday on the regulation of rapidly developing communications-scrambling technology in its 29 member countries, the U.S. ambassador to the OECD David Aaron said Wednesday.</p>
+<p>The guidelines provided a blueprint which strikes a balance between the right to privacy and access to information for law enforcement agencies as the use of encryption on the Internet and in electronic commerce develops at breakneck speed, he said.</p>
+<p>&quot;This is an area that's moving quickly, delay is the enemy of success,&quot; Aaron said at the headquarters of the Organisation for Economic Cooperation and Development, which groups 20 countries committed to free-market economic policies.</p>
+<p>&quot;The Internet will need safe ways of carrying out business transactions,&quot; he said, citing the rapidly growing computer communications network as one key area of crucial importance.</p>
+<p>Aaron, who is also U.S. special envoy on encryption policy, said the guidelines were not legally binding on signatories. But he hoped they would establish a platform for OECD countries and said he would try to promote them in non-OECD countries as well.</p>
+<p>A copy of the final guidelines could not released ahead of a meeting of OECD ambassadors on Thursday, where they are expected to be approved, Aaron said.</p>
+<p>The United States, where the Internet network set root but is now rapidly emerging as a global communications infrastructure, has been pushing hard to promote &quot;key recovery&quot; controls which would allow encryption codes to be cracked where judged necessary to gain access to information.</p>
+<p>Aaron said that the United States was committed to allowing market-driven encryption technology and &quot;strong encryption&quot; was inevitable.</p>
+<p>But it was equally important that the scrambling technology, while vital to business, should not be exploited by terrorist groups, or for child pornography or other illegal uses, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="OECD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125833" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: RESEARCH ALERT - Platinum Tech raised to buy.</title>
+<headline>RESEARCH ALERT - Platinum Tech raised to buy.</headline>
+<text>
+<p>-- Chicago Corp said Friday it had raised Platinum Technology Inc to buy from hold.</p>
+<p>-- Chicago Corp also revised its 1996 earnings estimate on Platinum to a loss of $0.30 a share, excluding merger costs and/or writeoffs of purchased research and development, from a loss of $0.20. Its 1997 estimate was cut to a profit of $0.55 a share from a profit of $0.80.</p>
+<p>-- The rating upgrade, despite the lowered estimates, is based on expectations that Platinum can grow revenues at a 35 percent rate over the long term, Chicago Corp said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

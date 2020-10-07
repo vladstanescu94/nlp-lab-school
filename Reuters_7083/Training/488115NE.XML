@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488115" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: American Medcare postpones merger.</title>
+<headline>American Medcare postpones merger.</headline>
+<dateline>ATLANTA 1997-04-03</dateline>
+<text>
+<p>American Medcare Corp said Thursday it had postponed its proposed merger with InfoCure Corp.</p>
+<p>It also said InfoCure Corp had decided to postpone its planned initial public offering due to &quot;unfavorable&quot; conditions on the stock market.  </p>
+<p>&quot;In recent weeks, the market for IPOs has deteriorated significantly due to the decline in the overall stock market,&quot; it said. &quot;Such conditions have resulted in the postponement of the InfoCure IPO, which was a precondition to affecting the merger of American Medcare into InfoCure.&quot;</p>
+<p>American Medcare said it was considering with InfoCure alternatives such as filing an amended registration statement with the Securities and Exchange Commission. The registration would enable the company to complete the offering and merger when market conditions become more favorable, it said.</p>
+<p>In January, American signed a letter of intent to merge into InfoCure in an exchange of about 3.3 million shares for all of American's outstanding stock.</p>
+<p>The merger was to occur in the first quarter of the year after the public offering.</p>
+<p>Based in North Carolina, American Medcare provides practice-management software and services to health-care practices.</p>
+<p>InfoCure is a privately-held company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799770" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: Intelligent Decision sets merger pact.</title>
+<headline>Intelligent Decision sets merger pact.</headline>
+<dateline>GRAND RAPIDS, Mich. 1997-08-14</dateline>
+<text>
+<p>Intelligent Decision Systems Inc and National Purchasing Corp of Irvine, Calif., said they signed a letter of intent to merge in a transaction that could be valued at more than $30 million.</p>
+<p>Under terms announced Wednesday, management of National Purchasing, which does business as HPSI, will succeed IDSI management after the deal is completed.</p>
+<p>IDSI expects to finance the merger with a common stock offering or by issuing convertible preferred stock to institutional investors. The size will be determined after negotiations are concluded.</p>
+<p>HPSI operates as a group purchasing organization servicing more than 6,000 locations, the majority of which are in the health care industry.</p>
+<p>IDSI, through subsidiaries Digital Sciences Inc and Neptune Technology Leasing Corp provides computer software, hardware and systems leasing.</p>
+<p>The company announced in October it hired consultants to identify strategic alliances and partners.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRAND RAPIDS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

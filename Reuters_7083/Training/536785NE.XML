@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536785" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Award Software Intl Q1 shr $0.12 vs $0.06.</title>
+<headline>Award Software Intl Q1 shr $0.12 vs $0.06.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-04-23</dateline>
+<text>
+<p>Award Software International Inc.</p>
+<p>Condensed Consolidated Statement of Income</p>
+<p>							 Three Months Ended</p>
+<p>								 Mar. 31,</p>
+<p>							1997(1)     1996(1)</p>
+<p>						(In thousands, except per</p>
+<p>							     share amounts)</p>
+<p>Revenues:</p>
+<p>   Software license fees			 $ 3,494    $ 2,175</p>
+<p>   Engineering services				347	  131</p>
+<p>   Related parties				     645	  506</p>
+<p>     Total revenues				  4,486	2,812</p>
+<p>Cost of revenues:</p>
+<p>   Software license fees			     139	   52</p>
+<p>   Engineering services				 85	   26</p>
+<p>   Related parties					26	  210</p>
+<p>     Total cost of revenues			  250	  288</p>
+<p> Gross Profit					  4,236	2,524</p>
+<p>Operating expenses:</p>
+<p>   Research and development			1,522(2)     855</p>
+<p>   Sales and marketing				 917	  560</p>
+<p>   General and administrative			660	  590</p>
+<p>Total operating</p>
+<p>	expenses					 3,099	2,005</p>
+<p> Income from operations			    1,137	  519</p>
+<p> Interest Income, Net				  266	   84</p>
+<p> Income before income tax provision	    1,403	  603</p>
+<p> Income tax provision				  477	  217</p>
+<p> Net income						926	  386</p>
+<p> Net income per common share			0.12	 0.06</p>
+<p>Weighted average number of common</p>
+<p>   and common equivalent shares outstanding  7,483	6,076</p>
+<p>Notes: (1) Unaudited (2) Includes a one time charge of $289,000 for in-process R&amp;D. Award Software International Inc. Condensed Consolidated Balance Sheet</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

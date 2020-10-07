@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43188" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Storm Primax cuts IPO size, price range.</title>
+<headline>Storm Primax cuts IPO size, price range.</headline>
+<dateline>NEW YORK 1996-09-10</dateline>
+<text>
+<p>Storm Primax Inc, in a filing with the Securities and Exchange Commission, said it had cut both the number of shares and the estimated price range for its upcoming initial public offering.</p>
+<p>The company will offer 2.75 million shares, down from 3.7 million, in a range of $9 to $11 each, down from $10 to $12, the filing said.</p>
+<p>Goldman Sachs is the lead underwriter of the offering, which is tentatively scheduled for mid-September.</p>
+<p>Storm Primax has filed to trade on the Nasdaq under the symbol &quot;EASY.&quot;  </p>
+<p>Of the shares to be sold, two million will be sold by the company and 750,000 by shareholders.</p>
+<p>The company is based in Sunnyvale, Calif.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

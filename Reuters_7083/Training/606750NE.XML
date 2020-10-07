@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="606750" id="root" date="1997-05-22" xml:lang="en">
+<title>SINGAPORE: INTERVIEW - Informix Asia spared corporate woes.</title>
+<headline>INTERVIEW - Informix Asia spared corporate woes.</headline>
+<byline>Josephine Ng</byline>
+<dateline>SINGAPORE 1997-05-22</dateline>
+<text>
+<p>U.S. database company Informix Corp is making money in Asia and expects regional business to remain profitable this year despite the company's overall losses, a senior official said on Thursday.</p>
+<p>&quot;It (Asia) is profitable,&quot; Wilson Tan, managing director of Informix Southeast Asia told Reuters in an interview.</p>
+<p>Tan was referring to the region's first quarter performance against Informix's overall losses of US$140.1 million. The company has also said it would not return to profitability until the end of the year.  </p>
+<p>&quot;We've had some weaknesses in Europe, some weaknesses in America. Predominantly within Asia-Pacific itself we've had some weaknesses in Japan, but anything that is outside that, we have had good growth,&quot; he said.</p>
+<p>Countries like Thailand and Philippines had achieved revenue growth of 70-80 percent in the first quarter and was &quot;very profitable still&quot; but he declined to reveal profit levels.</p>
+<p>The Southeast Asia region as a whole should see revenue grow 30-50 percent, Tan said. Profit was expected to grow at a stable rate, he added.  </p>
+<p>In 1996, the Asia Pacific region, excluding Japan, accounted for about 10 percent of Informix's global sales of US$939.3 million, he said.</p>
+<p>Informix's problems stemmed from an over-emphasis on its leading edge product, the Universal Server launched last December. Despite praises from analysts, customers have not been quick to adopt the technology.</p>
+<p>The Universal Server, which Informix was promoting in a roadshow in Singapore on Thursday, merges relational and object-oriented database capabilities. It can recognise linkages between data as well as track multimedia images.  </p>
+<p>It provides databases for the low-end Windows NT environment suitable for smaller business up to the very high-end MPP (massively parallel processing) environment for huge amount of different data types.</p>
+<p>&quot;Over the last eight to 12 months, with the emphasis on the new media-type databases, we may have been a little bit before the market and we could have kept our eyes off the ball of our core products.</p>
+<p>&quot;But within Asia, the impact is less significant,&quot; Tan said.  </p>
+<p>Asia was still focused on online transactions which Informix has been addressing with its traditional alpha-numeric products. With the hindsight of its U.S. and Europe experiences, Informix would keep its focus on traditional products while making known its leading edge technology, Tan said.</p>
+<p>Driven by the Internet and emphasis on multimedia, Universal Server would become more pervasive in 1999-2000, he said.</p>
+<p>With the new product, Informix is aiming to capture some 85 percent of data worth US$20-30 billion that are currently not digitally stored on traditional databases, Tan said.  </p>
+<p>Tan brushed aside several class action lawsuits filed by some shareholders, saying they were not uncommon when financial performance was down.</p>
+<p>There was no concerns in Asia over whether Informix would succeed in its plans to raise capital to offset upcoming losses and shore up its shrinking cash supply, he said.</p>
+<p>Informix plans to add new Informix superstores in Asia Pacific by the third quarter where customers can test run and build prototypes of their database applications.</p>
+<p>Besides its main competitor, Oracle Corp, Informix has to keep a close watch on Microsoft Corp as well.  </p>
+<p>&quot;We cannot take our eyes off Microsoft... as they make NT at some point or other scalable.</p>
+<p>&quot;And as Intel comes up with even more powerful chips and could replace some things like symmetric multiprocessing on the Intel platform itself, then Microsoft will become a very potent force to be reckoned with,&quot; Tan said.</p>
+<p>-- Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ASIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

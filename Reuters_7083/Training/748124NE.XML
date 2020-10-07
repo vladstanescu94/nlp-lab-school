@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="748124" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: TABLE - Caere Corp Q2 results.</title>
+<headline>TABLE - Caere Corp Q2 results.</headline>
+<dateline>LOS GATOS, Calif. 1997-07-23</dateline>
+<text>
+<p>(Unaudited)</p>
+<p>		   (In thousands except per share data)</p>
+<p>						     Quarter Ended</p>
+<p>							  June 30,</p>
+<p>							  1997	 1996</p>
+<p> Net revenues				   $ 12,751   $ 13,989</p>
+<p> Cost of revenues				  3,353	4,457</p>
+<p>							 9,398	9,532</p>
+<p>Operating expenses:</p>
+<p> Research and development			2,204	1,858</p>
+<p> Selling, general and administrative	 6,683	6,575</p>
+<p> Merger related costs				 --	   --</p>
+<p>							 8,887	8,433</p>
+<p> Operating earnings (loss)			 511	1,099</p>
+<p> Interest income, net				613	  745</p>
+<p> Earnings (loss) before income taxes	 1,124	1,844</p>
+<p> Income tax expense				  112	  369</p>
+<p> Net earnings (loss)			     1,012	1,475</p>
+<p> Net earnings (loss) per common share	 0.08	 0.11</p>
+<p> Shares used in per share calculation     13,320     13,820</p>
+<p>						     Six Months Ended</p>
+<p>							   June 30,</p>
+<p>							  1997	  1996</p>
+<p> Net revenues				   $ 25,323    $ 27,545</p>
+<p> Cost of revenues				  7,069	 8,772</p>
+<p>							18,254	18,773</p>
+<p>Operating expenses:</p>
+<p> Research and development			4,206	 3,620</p>
+<p> Selling, general and administrative	12,995	13,003</p>
+<p> Merger related costs			    2,935	    90</p>
+<p>							20,136	16,713</p>
+<p> Operating earnings (loss)		   (1,882)	 2,060</p>
+<p> Interest income, net			    1,175	 1,393</p>
+<p> Earnings (loss) before income taxes	 (707)	 3,453</p>
+<p> Income tax expense				  222	   678</p>
+<p> Net earnings (loss)			 (    929)	 2,775</p>
+<p> Net earnings (loss) per common share  (   0.07)	  0.20</p>
+<p> Shares used in per share calculation     12,983	13,658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS GATOS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

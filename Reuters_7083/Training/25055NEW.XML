@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25055" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: Microsoft Exec sees NT Server doubling.</title>
+<headline>Microsoft Exec sees NT Server doubling.</headline>
+<dateline>SAN FRANCISCO, Calif. 1996-08-29</dateline>
+<text>
+<p>Microsoft Corp Executive Vice President Steve Ballmer said the company's Windows NT server product had exceeded its expectations and is set to more than double in sales this year.</p>
+<p>&quot;The NT Server product has exceeded in every way our expectations of popularity and success,&quot; Ballmer said in a keynote address to an industry conference here on integrating Windows NT with Internet technologies.</p>
+<p>He said the NT product for use on computers at the center of data networks had doubled in sales last year and &quot;it looks like we're well on the way to more than doubling this year.&quot;</p>
+<p>Microsoft's fiscal year ends at the end of June each year.</p>
+<p>Montgomery Securities analyst David Readerman noted Microsoft's business systems revenues, the grouping which includes sales of Windows NT products, were around the $1 billion mark in the fiscal year to June 30, 1996.</p>
+<p>Analyst estimates are for this to grow to more than $2 billion in Microsoft's current 1997 fiscal year, as revenues are projected to jump to $10.2-$10.3 billion from around $8.2 billion in 1996, he added.</p>
+<p>&quot;NT's important, but Microsoft's not just NT,&quot; he said, noting Microsoft was expected to launch the next version of its suite of productivity software, including word processing and spreadsheets, Office 97, during the fiscal year.</p>
+<p>Growth of Microsoft, which supplies systems software for about 90 percent of the world's personal computers, also remains dependent on PC unit shipment levels and on continued upgrade sales of its Windows 95 system, Readerman said.</p>
+<p>Ballmer told conference participants that Microsoft will introduce a version of its Internet Explorer 3.0 for use on the Unix operating system later this year.</p>
+<p>But, he stressed, the Unix version lacks the integration between different uses and applications that will be available to users of Microsoft's Windows operating systems, especially in the next-generation Internet Explorer 4.0.</p>
+<p>He said people using Microsoft's own operating systems and subsequent Internet Explorer browser technology will benefit from Microsoft's &quot;one unified view of information...a single 'information at your fingertips' view.&quot;</p>
+<p>&quot;Information at your fingertips,&quot; is a concept promoted by Microsoft co-founder and chairman Bill Gates over the years by which individuals will gain greater decision making power by being able to access and manipulate computer data easily.</p>
+<p>Ballmer said it was &quot;frankly nuts,&quot; not to be able to combine a variety of computing applications into one seemless computing environment to simplify the process.</p>
+<p>The executive, who is in charge of worldwide sales and support at the Redmond, Wash.-based software giant, also made clear that the company is seeking to reduce the cost of ownership for its customers, a hot industry issue.</p>
+<p>Microsoft is now aiming to achieve cost savings by building this objective into its software design process, he added, to augment cost savings from lower hardware prices.</p>
+<p>Hardware costs will continue to come down, he said, taking as an example an expected price point within two years of $1,200 for an Intel Pentium-based computer and what he termed &quot;capable&quot; PCs prices at $600 to $700.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

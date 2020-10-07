@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="746029" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: Informix names 3Com veteran as chief executive.</title>
+<headline>Informix names 3Com veteran as chief executive.</headline>
+<dateline>PALO ALTO, Calif.</dateline>
+<text>
+<p>Informix Corp. said Tuesday it named Robert Finocchio, a senior executive at 3Com Corp., to succeed Phil White as chief executive of the software company. White will stay on as chairman.</p>
+<p>Informix, which sells database software, has been struggling to recover from losses earlier this year from a flawed marketing strategy. The company had focused its marketing and technical resources on multimedia databases when there was little demand for these types of products.</p>
+<p>White took the blame for the mistake, but still had faced shareholder criticism for not stepping down as chairman.</p>
+<p>Informix, based in Menlo Park, Calif., announced Finocchio's appointment after the market closed. Informix stock jumped $1.09 to $10.81 on Nasdaq on speculation that White would bring in help to run the company.</p>
+<p>Finocchio, 46, will try to improve the software company's operations to make the business more predictable, he said in an interview, while White will focus on the company's long-term strategy.</p>
+<p>Finocchio said his first priority will be to shore up the company's operations and set a clear strategy to keep customers' confidence.</p>
+<p>&quot;The second priority (is to) build financial strength and stability, to build a plan to get to a sustainable financial model, to shore up the balance sheet,&quot; he said.</p>
+<p>Finocchio was most recently president of 3Com's systems unit, which makes complex gear for big corporate networks. He was one of the managers who helped 3Com expand in the early 1990s into new markets, Informix said.</p>
+<p>Informix also is looking for a chief financial officer. The previous CFO, Alan Henricks, quit the company in April shortly after it reported a $140.1 million loss on revenue of $133.7 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

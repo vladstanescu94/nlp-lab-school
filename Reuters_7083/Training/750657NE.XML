@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750657" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Microsoft readies sequel to blockbuster Windows 95.</title>
+<headline>Microsoft readies sequel to blockbuster Windows 95.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-07-22</dateline>
+<text>
+<p>Two years after Microsoft Corp. launched Windows 95 in a marketing blitz unmatched in computer industry history, the sequel to the operating system is shaping up as a decidedly more minor affair.</p>
+<p>The software giant last week released the first major test version of the updated system code-named &quot;Memphis,&quot; sometimes known as Windows 98, and Microsoft executives will discuss how the product fits into the Windows family at a briefing for analysts and reporters Wednesday.</p>
+<p>From what they have seen so far, many analysts believe the new system will offer users few reasons to upgrade from Windows 95.</p>
+<p>&quot;You can construct a scenario where you would want Windows 98 on your current machine, but it's pretty hard,&quot; said Jesse Berst, editorial director of ZDNet AnchorDesk, an online news service. &quot;There's not even a compelling reason for manufacturers to hurry to add it to their machines.&quot;</p>
+<p>Windows 95, by contrast, represented a true break from the older Windows 3.1 platform, with a new interface, new file management tools and the ability to handle information in bigger 32-bit chunks.</p>
+<p>Microsoft's unprecedented $100 million-plus publicity campaign had computer enthusiasts lining up at midnight to buy the $90 software package hours before its August 1995 launch under a carnival tent on the company's Redmond, Wash., campus.</p>
+<p>Since then Microsoft has sold 77 million copies of Windows 95, the vast majority pre-loaded on new computers, and has seens its revenues nearly double, driven by a wave of upgrades to 32-bit products.</p>
+<p>Still, Berst said only about one-third of all Windows users have upgraded to Windows 95, and he and other analysts said the forthcoming release of another &quot;flavor&quot; of the product already is causing confusion.</p>
+<p>At the briefing Wednesday, executives led by group Vice President Paul Maritz are expected to focus on Memphis as well as an upgrade expected next year to the company's high-end Windows NT operating system, which is emerging as a favoured platform for business.</p>
+<p>&quot;They probably feel that their message has gotten a little muddied over the past few months,&quot; said Scott Winkler, an analyst at gartner Group.</p>
+<p>The briefing is a warmup event to the company's annual daylong meeting with financial analysts Thursday, where Chairman Bill Gates and other executives will lay out the company's financial and strategic outlook.</p>
+<p>The analysts gathering traditionally is a forum for Microsoft executives to issue cautionary comments about their future growth while maintaining excitement about the company's long-term prospects.</p>
+<p>Chief financial officer Mike Brown gave a preview of that message last week when he warned of slower growth over the next year after the company released its fiscal fourth-quarter earnings.</p>
+<p>Microsoft stock slid $13.50 over the next two sessions but came roaring back Tuersday to gain $8.125 and close at $144.125, an increase of nearly 60 percent in four months.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

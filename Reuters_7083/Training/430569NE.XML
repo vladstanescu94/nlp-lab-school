@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="430569" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: NBC, Microsoft launch news service.</title>
+<headline>NBC, Microsoft launch news service.</headline>
+<dateline>NEW YORK 1997-03-10</dateline>
+<text>
+<p>NBC, a unit of General Electric Co, and Microsoft Corp said Monday they launched a new business news service called MS-NBC Business Video that offers business news events, including live audio and video over the Internet.</p>
+<p>The venture is part of a new company called MS-NBC DeskTop Video, formerly known as NBC DeskTop Video, the companies said at a press conference in New York.</p>
+<p>The service is the latest joint venture between NBC and Microsoft. The terms of the venture were not disclosed.</p>
+<p>Part of the material from the venture will be carried on Bloomberg LP terminals, the companies said.</p>
+<p>The service is subscription-based, costing $24.95 per month per user, with corporate discounts. It will not have advertising, an NBC spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

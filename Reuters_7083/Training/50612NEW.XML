@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50612" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: MSNBC to offer Individual's Freeloader.</title>
+<headline>MSNBC to offer Individual's Freeloader.</headline>
+<dateline>PALO ALTO, Calif.</dateline>
+<text>
+<p>Individual Inc. said Wednesday it will unveil an exclusive deal on Thursday with MSNBC to allow users of MSNBC's site on the World Wide Web to download news from the Internet and read it off-line.</p>
+<p>Individual said MSNBC, a joint news venture between General Electric Co.'s NBC news network and Microsoft Corp., would provide users with a customer version of Individual's FreeLoader software this autumn.</p>
+<p>The special MSNBC version of the software will incorporate many of the elements expected to be included in the next upgrade of FreeLoader, version 2.0, and Individual said MSNBC would serve as a branded Internet channel for that software.</p>
+<p>FreeLoader downloads news and information from the Internet so individuals can view it off-line, avoiding the waits associated with the global computer network by storing it on viewers' hard disks for speedy retreival.</p>
+<p>MSNBC's Web site is http://www.msnbc.com/.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

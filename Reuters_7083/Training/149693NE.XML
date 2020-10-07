@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149693" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Wonderware sees Q4 reorganization charge.</title>
+<headline>Wonderware sees Q4 reorganization charge.</headline>
+<dateline>IRVINE, Calif. 1996-10-28</dateline>
+<text>
+<p>Wonderware Corp said Tuesday it would reorganize its Manufacturing Systems unit and expected to take a charge of $1 million to $2 million in the fourth quarter of 1996.</p>
+<p>As a part of the reorganization, aimed at reducing operating costs, Wonderware will close its development center in Cupertino, Calif.</p>
+<p>Wonderware is the leading independent supplier of Windows-based software for industrial automation.</p>
+<p>The company will continue development activities for its InTrack product at its product development site in York, Pa. The company said the move would streamline development operations for both its InBatch and InTrack products.</p>
+<p>The company said in a statement its long-term goal is to merge the two technologies into one comprehensive product.</p>
+<p>The shutdown is set to start in early November.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

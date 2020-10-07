@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="682046" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: INSCI Corp Q4 March 31 loss widens.</title>
+<headline>INSCI Corp Q4 March 31 loss widens.</headline>
+<dateline>WESTBOROUGH, Mass. 1997-06-24</dateline>
+<text>
+<p>(in thousands, except per share amount)</p>
+<p>		 For Fiscal Years Ended  For Fourth Quarter Ended</p>
+<p>				   March 31,		 March 31,</p>
+<p>				 1997	 1996	 1997	1996</p>
+<p> Revenue		   $11,381     $7,913    $3,001    $2,841</p>
+<p> Net income (loss)	 (936)    (1,452)     (253)	  41</p>
+<p>Preferred stock</p>
+<p>  dividends		(1,543)	(470)     (593)     (212)</p>
+<p>Net loss applicable</p>
+<p>  to common shares    ( 2,479)   ( 1,922)    ( 846)    ( 171)</p>
+<p>Net loss per common</p>
+<p>  share		    ( 0.62)    ( 0.53)   ( 0.21)   ( 0.05)</p>
+<p>Average common shares</p>
+<p>  outstanding		4,022	3,655     4,094     3,697</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTBOROUGH, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

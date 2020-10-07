@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237914" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: WordPerfect founder resigns Novell board.</title>
+<headline>WordPerfect founder resigns Novell board.</headline>
+<dateline>OREM, Utah 1996-12-04</dateline>
+<text>
+<p>Novell Inc said on Wednesday that WordPerfect Corp founder Alan Ashton resigned from the Novell board of directors.</p>
+<p>The company said the 54-year-old Ashton is leaving the Novell board to pursue community and other interests in Utah.</p>
+<p>&quot;We understand Alan's decision and wish him well in his future ventures,&quot; said John Young, Novell chairman.</p>
+<p>Ashton had joined the Novell board following the 1994 acquisition of WordPerfect.</p>
+<p>Novell spent $855 million to buy the software maker in 1994 only to sell most of WordPerfect's assets at a fraction of that price to Canada's Corel Corp in early 1996.</p>
+<p>The Corel deal called for it to pay US$10.75 million and roughly 10 million shares of its stock to Novell to acquire the WordPerfect product family. Corel also agreed to future royalty payments to Novell of at least $70 million.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

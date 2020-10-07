@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142450" id="root" date="1996-10-24" xml:lang="en">
+<title>GERMANY: SAP sees 1997 sales growth under 30 pct.</title>
+<headline>SAP sees 1997 sales growth under 30 pct.</headline>
+<dateline>FRANKFURT 1996-10-24</dateline>
+<text>
+<p>SAP AG, the German business software group, said late on Wednesday that it did not expect sales growth next year to exceed 30 percent.</p>
+<p>SAP board member Henning Kagermann told German television that the company must get used to lower growth rates in the future.</p>
+<p>&quot;For 1997 that means that sales growth will probably be under 30 percent,&quot; he told N-TV television.</p>
+<p>SAP, the world's leading manufacturer of client-server business application software, stunned markets this week when it reported that sales and pre-tax profit in the first nine months of the year grew considerably slower than expected.</p>
+<p>The company was forced to abandon earlier forecasts of achieving sales and profit growth of around 40 percent this year, cutting the outlook to just over 30 percent.</p>
+<p>SAP shares were pounded on Wednesday, falling as much as 26 percent and dragging down the DAX index of 30 blue-chips. The company's preferred stock, which is listed in the DAX index, plunged 24 percent on the day to close at 212 marks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

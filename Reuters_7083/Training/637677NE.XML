@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="637677" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: CNN, Oracle to annouce web site venture.</title>
+<headline>CNN, Oracle to annouce web site venture.</headline>
+<byline>Franklin Paul</byline>
+<dateline>ATLANTA 1997-06-04</dateline>
+<text>
+<p>CNN, the cable television news network, will unveil on Wednesday an enhanced internet web site developed by database software company Oracle Corp, officials from the two companies said.</p>
+<p>Financial details about the joint venture were not disclosed.</p>
+<p>The site (http://cnn.com/customnews) will be introduced at the Spring Comdex show here in a joint presentation by Ted Turner, vice chairman of CNN parent Time Warner Inc, and Larry Ellison, Oracle's chairman and chief executive.</p>
+<p>CNN executives said the site, which will offer free personalized news and information, is not meant to compete with MSNBC and ABCNEWS.com, other web entities owned jointly by technology companies and media giants.</p>
+<p>&quot;It's not a global MSNBC kind of thing,&quot; Mark Bernstein, of the network's CNN Interactive arm, told Reuters. &quot;(The venture) is  limited to the personalized news product. We don't want to be a technology company and they (Oracle) don't want to get into the news business.&quot;</p>
+<p>Microsoft Corp and General Electric Co jointly own MSNBC, the cable television station and web site which began in 1996. ABCNEWS.com, owned by Walt Disney Co and distributed by investors Netscape Communications Corp and America Online Inc, was launched in May of this year.</p>
+<p>&quot;We jumped onto the web long before MSNBC and long before ABC and we think that our (web site) traffic is in a leadership position,&quot; Bernstein said. &quot;So we are just trying to stay ahead of them.&quot;</p>
+<p>Oracle's Beatriz Infante, senior vice president of Internet and Media Products for Oracle, repeated the sentiment.</p>
+<p>&quot;Unlike MSNBC, Oracle does not believe that a technology company has any business specifying content,&quot; she said.</p>
+<p>The CNN site, which will be branded by both Oracle and CNN, will offer consumers more than 300 categories of news topics from which to choose.</p>
+<p>Users will be able to view text, pictures and video of CNN stories, which can be organized using searching technology supplied by Oracle.</p>
+<p>Oracle's Web Application Server and ConText Option software were used to design the site and give it its personalized attributes, Infante said.</p>
+<p>&quot;Oracle has contributed the software, the database technology and the web application technology, and CNN contributed the content, the overall organization of the information and the user interface,&quot; she said.</p>
+<p>Revenues will be derived solely from advertising, they said. CitiCorp's Citibank Corp has signed on as key advertiser for an initial 18-month period, CNN said.</p>
+<p>CNN said it will continue to operate its original site (http://cnn.com), which offers news in a more general manner.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

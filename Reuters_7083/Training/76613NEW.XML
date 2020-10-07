@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76613" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Microsoft to launch city news service in early '97.</title>
+<headline>Microsoft to launch city news service in early '97.</headline>
+<dateline>SEATTLE 1996-09-24</dateline>
+<text>
+<p>Microsoft Corp. said Tuesday its widely anticipated online city entertainment guide, code-named &quot;Cityscape,&quot; will be launched in the first quarter of 1997 with Seattle as the debut coverage area.</p>
+<p>Guides for New York, Boston and San Francisco will follow by midyear with 10 to 15 cities worldwide to be covered by the year-end, the computer software giant said in a statement.</p>
+<p>The advertiser-supported service will be available at no extra charge to users who have access to the Internet. It will feature information about movies, restaurants and arts and entertainment events.</p>
+<p>Cityscape has been hiring journalists led by Editor in Chief Michael Goff, founder of Out magazine, to provide content for the service, seen by many publishers as a direct threat to traditional daily and weekly newspapers.</p>
+<p>Microsoft is not alone in trying to fill the Internet's lack of local information. America Online Inc. has launched a similar service, and AT&amp;T Corp. is backing a rival venture.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

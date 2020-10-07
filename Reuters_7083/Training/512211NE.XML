@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512211" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: Harbinger Corp Q1 shr loss $0.83.</title>
+<headline>Harbinger Corp Q1 shr loss $0.83.</headline>
+<dateline>ATLANTA 1997-04-16</dateline>
+<text>
+<p>Quarter Ended March 31,</p>
+<p>								As Originally</p>
+<p>							   Pooled  Reported</p>
+<p>					    1997	    1996     1996</p>
+<p>Revenues:</p>
+<p> Services			    $ 12,117     $  7,497 $  5,078</p>
+<p> Software				 4,886	  4,007    2,084</p>
+<p>   Total revenues		    17,003	 11,504    7,162</p>
+<p>Direct costs:</p>
+<p> Services				 3,833	  2,419    1,296</p>
+<p> Software				   694	    675	485</p>
+<p>   Total direct costs		 4,527	  3,094    1,781</p>
+<p> Gross margin			  12,476	  8,410    5,381</p>
+<p>Operating costs:</p>
+<p> Selling and marketing		3,482	  3,056    1,488</p>
+<p> General and administrative	 3,356	  2,752    1,517</p>
+<p> Product development		  1,743	  1,637	919</p>
+<p> Depreciation and amortization	985	    491	254</p>
+<p>Charge for purchased in-process  product development and</p>
+<p>   acquisition related charges   16,236	  8,350    8,350</p>
+<p>   Total operating costs	   25,802	 16,286   12,528</p>
+<p> Operating loss		    (13,326)	(7,876)  (7,147)</p>
+<p> Interest expense (income), net    (64)	   (90)    (102)</p>
+<p> Equity in losses of joint ventures  18	  1,179    1,179</p>
+<p>Loss before income tax expense and</p>
+<p>  extraordinary item	     (13,280)	(8,965)  (8,224)</p>
+<p> Income tax expense			23	     49	 49</p>
+<p>Loss before extraordinary item: (13,303)    (9,014)  (8,273)</p>
+<p>Extraordinary loss on debt</p>
+<p>  extinguishment			2,419	    ---	  0</p>
+<p> Net loss			    (15,722)	(9,014)  (8,273)</p>
+<p> Preferred stock dividends	    ---	   (28)     (28)</p>
+<p>Net loss applicable to common</p>
+<p>   shareholders		    (15,722)	(9,042)  (8,301)</p>
+<p>Net loss per share:</p>
+<p>Loss before extraordinary item applicable to common</p>
+<p>   shareholders			(0.70)	 (0.51)   (0.54)</p>
+<p>Extraordinary loss on debt</p>
+<p>  extinguishment		     (0.13)	    ---	---</p>
+<p> Net loss per common share	 (0.83)	 (0.51)   (0.54)</p>
+<p>Weighted average number of common</p>
+<p>and common equivalent shares</p>
+<p>   outstanding			 18,930	 17,903   15,503</p>
+<p>Net income applicable to common shareholders (excluding charge for in-process product development, extraordinary loss on debt extinguishment, equity in loss of HNS in 1996, and acquisitions, net of related</p>
+<p>  income taxes)			 1,803	    274	726</p>
+<p>Net income per common share (excluding charge for in-process product development, extraordinary loss on debt extinguishment, equity in loss of HNS in 1996, and acquisitions, net of related</p>
+<p>  income taxes)			  0.09	   0.01     0.04</p>
+<p>Note: Share and per share amounts have been adjusted to reflect the 3-for-2 stock split effected in the form of a stock dividend paid on January 31, 1997.</p>
+<p>Note: Full company name is Harbinger Corporation</p>
+<p>(In thousands, except per share data)</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

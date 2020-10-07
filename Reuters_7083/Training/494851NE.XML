@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494851" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: US banks gear up to fix &quot;millenium bug&quot; - S.F. Fed.</title>
+<headline>US banks gear up to fix &quot;millenium bug&quot; - S.F. Fed.</headline>
+<byline>Jose Paulo Vicente</byline>
+<dateline>NEW YORK 1997-04-08</dateline>
+<text>
+<p>U.S. banks are moving ahead full throttle to amend a computer programming problem that could wreak havoc in digitized financial systems at the turn of the century, Federal Reserve Bank of San Francisco officials said.</p>
+<p>Dubbed the &quot;millenium bug,&quot; the threat results from the fact that older computer systems use a two-digit format to show the year.  </p>
+<p>For example, 1997 would be interpreted by the computer as simply 97. At the turn of the century, however, machines running old software code, known as legacy code, will interpret 00 as 1900 rather than 2000.</p>
+<p>&quot;The banks have been contacted by their supervisory agencies. They're aware of the problem. They're moving to fix their systems,&quot; Nigel Ogilve, senior financial analyst at the San Franciso Fed, told Reuters.</p>
+<p>&quot;So we don't see that there are any banks that are not going to be ready when the year 2000 comes around. This has been on our minds for some time,&quot; he added.  </p>
+<p>The &quot;millenium bug&quot; affects all computer systems running old software, and some industry experts estimate that U.S. firms will spend up to $90 billion to fix the problem as the end of the century looms.</p>
+<p>All processing involving dates may be affected, including investment calculations, bonds, bills, notes, mortgages, leases, payroll, accounts payable, receivables, contracts and inventory systems, among others.  </p>
+<p>Tod Glissman, an assistant vice president at the San Francisco Fed, said he does not see major problems as a result of the &quot;millenium bug&quot; because the central bank has been touting the issue for quite some time.</p>
+<p>&quot;The Federal Reserve did recognize this issue quite early on. We've been espousing it publicly for well over a year now,&quot; Glissman said.</p>
+<p>&quot;I think we've got the word out to banks nationally and the banks are making very good progress in this regard,&quot; the San Francisco Fed official said.  </p>
+<p>Glissman said it was not clear, however, whether foreign banks were putting in the same amount of effort and addressing the issue as quickly as their U.S. counterparts.</p>
+<p>&quot;Internationally, I think there is more of an issue. The question that comes to mind is whether some other countries have identified and are addressing the issue as significantly as we are,&quot; Glissman said.</p>
+<p>The San Francisco Fed is also keeping a close eye on how the development of new technologies, including the Internet, smart cards and telephone banking, might affect the way Americans use the banking system.</p>
+<p>&quot;We feel there is a need to continue strengthening our examining skills and our supervisory process going forward to deal with these issues,&quot; said Terry Schwakopf, a senior vice president at the San Francisco Fed.</p>
+<p>(( -- 212-859-1676 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

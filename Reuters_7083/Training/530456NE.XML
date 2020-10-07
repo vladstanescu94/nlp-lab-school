@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530456" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: FileNet to consolidate, sees big charge.</title>
+<headline>FileNet to consolidate, sees big charge.</headline>
+<dateline>COSTA MESA, Calif 1997-04-23</dateline>
+<text>
+<p>FileNet Corp said Wednesday it plans to consolidate its operations and as a result expects to record about $6 million in restructuring and other charges in the second quarter.</p>
+<p>The software vendor said it will consolidate its Burlington, Massachusetts, engineering and marketing functions with its Costa Mesa, California, headquarters and cut personnel.</p>
+<p>The Costa Mesa, California-based company said the restructuring charge will consist primarily of severance costs, write-off of impaired assets and facility closing costs.</p>
+<p>It did not provide an exact figure on the job cuts, but its recent worldwide expansion of its direct sales force remains intact.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COSTA MESA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

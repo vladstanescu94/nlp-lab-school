@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127344" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Storm Technology Inc Q3 loss.</title>
+<headline>Storm Technology Inc Q3 loss.</headline>
+<dateline>SUNNYVALE, Calif. 1996-10-17</dateline>
+<text>
+<p>Storm Technology, Inc.</p>
+<p>		  Condensed Consolidated Statement of Operations</p>
+<p>			 (In thousands, except per share data)</p>
+<p>				    (Unaudited)</p>
+<p>		   Three months ended	    Nine months ended</p>
+<p>			  Sept. 30,		     Sept. 30,</p>
+<p>			1996	1995	     1996	    1995</p>
+<p>Revenues:</p>
+<p> Product	   $7,853     $795	  $15,486	  $2,337</p>
+<p> Royalty and other  361	 51		749	     512</p>
+<p> Total revenues   8,214	846	   16,235	   2,849</p>
+<p>Cost of product</p>
+<p>  revenues	  5,805	576	   11,502	   1,650</p>
+<p> Gross profit     2,409	270	    4,733	   1,199</p>
+<p>Operating expenses:</p>
+<p>Research and</p>
+<p>  development	 865	358	    1,990	   1,107</p>
+<p>Marketing and</p>
+<p>  selling	   1,988	890	    5,407	   2,279</p>
+<p>General and</p>
+<p>  administrative    761	145	    1,463	     486</p>
+<p>In-process</p>
+<p>research and</p>
+<p>   development	 --	 --	    5,000		--</p>
+<p>Total operating</p>
+<p>  expenses	  3,614    1,393	   13,860	   3,872</p>
+<p>Loss from</p>
+<p>  operations    (1,205)  (1,123)	  (9,127)	 (2,673)</p>
+<p>Interest income</p>
+<p>  (expense), net   (30)	  8		  3		33</p>
+<p> Net loss	 (1,235)  (1,115)	  (9,124)	 (2,640)</p>
+<p>Pro forma net loss</p>
+<p>per common and</p>
+<p>common equivalent</p>
+<p>     share	 (0.15)   (0.15)	   (1.12)	  (0.35)</p>
+<p>Pro forma weighted</p>
+<p>average number of</p>
+<p>common and common</p>
+<p>equivalent</p>
+<p>     shares	 8,334    7,528	    8,143	   7,491</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

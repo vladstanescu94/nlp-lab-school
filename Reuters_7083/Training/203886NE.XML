@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203886" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: INTERSOLV Q2 full results.</title>
+<headline>INTERSOLV Q2 full results.</headline>
+<dateline>ROCKVILLE, Md. 1996-11-19</dateline>
+<text>
+<p>Summary Financial Results (in 000's)</p>
+<p>				    Qtr Ended		   Qtr Ended</p>
+<p>				  Oct 31, 199	  Oct 31, 1995 (a)</p>
+<p> Revenue			    $37,665		   $  33,714</p>
+<p> Operating income		   2,050		   ($10,375)</p>
+<p> Pretax income			2,053		   ($10,100)</p>
+<p> Net income			   1,396		    ($9,906)</p>
+<p> Net income per share		0.07		     ($0.51)</p>
+<p>(a) Operating losses include one-time acquisition charges of $11.6 million pretax, or $0.56 per share after tax.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKVILLE, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

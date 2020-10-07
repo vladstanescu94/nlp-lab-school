@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205610" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: System Software ships new management product.</title>
+<headline>System Software ships new management product.</headline>
+<dateline>CHICAGO 1996-11-21</dateline>
+<text>
+<p>System Software Associates Inc said Thursday it began shipping on October 31, its new Release Management System product which allows automotive and other suppliers to better manage inventory.</p>
+<p>The product offers three release tracking levels that can be applied to the order line manually or automatically, SSA said in a statement. The software was written to meet the requirements of the Big Three U.S. automakers, Ford Motor Co, General Motors Corp and Chrysler Corp, SSA added.</p>
+<p>SSA develops and markets information systems and software to industrial manufacturers worldwide.</p>
+<p>- Chicago newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

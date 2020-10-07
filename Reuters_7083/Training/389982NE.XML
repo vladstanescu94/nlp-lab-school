@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389982" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: MEDIWARE Information Q2 Dec 31 net grows.</title>
+<headline>MEDIWARE Information Q2 Dec 31 net grows.</headline>
+<dateline>MELVILLE, N.Y. 1997-02-20</dateline>
+<text>
+<p>MEDIWARE Information Systems, Inc.</p>
+<p>(Unaudited; amounts in thousands, except per share amounts)</p>
+<p>			     Three Months Ended  Six Months Ended</p>
+<p>				     December 31,    December 31,</p>
+<p>				     (unaudited)	(unaudited)</p>
+<p>				1996	1995	 1996	 1995</p>
+<p>  Total Revenue    $4,672,000  2,504,000  9,031,000  5,022,000</p>
+<p>Total Operating</p>
+<p>   Costs	     3,852,000  2,208,000  7,612,000  4,384,000</p>
+<p> NET EARNINGS	  625,000    248,000  1,071,000    527,000</p>
+<p> Earnings Per Share     0.11	 0.08	 0.18	 0.16</p>
+<p> Shares o/s	  5,873,000  3,899,000  5,585,000  3,888,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

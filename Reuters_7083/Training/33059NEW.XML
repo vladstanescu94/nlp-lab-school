@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33059" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. Robotics enhances Courier modems.</title>
+<headline>U.S. Robotics enhances Courier modems.</headline>
+<dateline>CHICAGO 1996-09-04</dateline>
+<text>
+<p>U.S. Robotics Corp said Wednesday it added enhancements to its Courier line of modems and made some available in packages developed specifically for Apple Computer Inc's Macintosh computers.</p>
+<p>The enhancements include caller I.D., carrier loss redial, distinctive ring and Microsoft Plug and Play. Current users of Courier V.Everything and Courier V.34 modems can download the features from U.S. Robotics' Internet site, the company said.</p>
+<p>The enhancements were also added to the modems for use with Macintosh computers. U.S. Robotics said the Courier I-Modem with ISDN/V.34 and the Courier V.Everything will now be available in packages developed specifically for Macs.</p>
+<p>The packages include software, cables and manuals for Mac users.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117885" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Netscape to align products with Microsoft.</title>
+<headline>Netscape to align products with Microsoft.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-15</dateline>
+<text>
+<p>Netscape Communications Corp unveiled a strategy to &quot;embrace and integrate&quot; Microsoft Corp's systems in its own Netscape ONE open network environment for corporate offices.</p>
+<p>Netscape said it plans to offer greater integration with core Microsoft products, including Office, BackOffice, Windows 95 and NT and Microsoft's underlying OLE/COM/ActiveX software technologies in future versions of its corporate products.</p>
+<p>The strategy of snuggling up to Microsoft products was made as part of several new product announcements designed for intranets, or corporate networks that use Internet tools.  </p>
+<p>Netscape said its new strategy to &quot;embrace&quot; Microsoft was merely a recognition that many of its potential corporate customers rely on a range of existing Microsoft products to run their computer operations.</p>
+<p>Netscape introduced a new set of electronic mail and groupware products for offices using its new Netscape SuiteSpot 3.0 integrated server suite and Netscape Communicator client software product.</p>
+<p>The company said its goal with this new product family was to capture more than 50 percent of the intranet market.  </p>
+<p>Netscape cited market research by Forrester Research Inc, which estimates the corporate intranet market will become a $10 billion market by the year 2000.</p>
+<p>To capture this market, Netscape said it will make its new products available through more than 70 manufacturing partners including Apple Computer Inc, Compaq Computer Corp, Digital Equipment Corp, Hewlett-Packard Co, International Business Machines Corp, Ing. C. Olivetti &amp; C. SpA, Siemens Nixdorf and Sun Microsystems Inc.  </p>
+<p>Netscape said it plans to integrate the Netscape SuiteSpot server family with key Microsoft Corp Windows NT system services, including security, network administration and symmetric multiprocessing.</p>
+<p>In addition, it said it is committed to interoperating with the relational databases and network management systems customers use.</p>
+<p>The company committed to integrating its products with Microsoft Office software, enabling customers to take advantage of the Netscape Intranet suite in combination with Microsoft word processing, spreadsheet and other programs.  </p>
+<p>As part of the new product announcements, Netscape said it will offer Netscape Communicator software that provides desktop computer users the tools to communicate, share data and access information on Intranets and the Internet.</p>
+<p>Netscape Communicator is an integrated product that provides tools such as electronic mail, groupware, editing, calendaring and Web browsing on Intranets and the Internet.</p>
+<p>Communicator integrates in one product five key components including Netscape Navigator 4.0 browser software, hypertext authoring software, electronic mail, group discussion and real-time videoconferencing collaboration software.  </p>
+<p>The company said Netscape Communicator is scheduled for availability by the first quarter of 1997 on 17 major computer platforms including Microsoft Windows 3.1, Windows 95, Windows NT 3.51 and 4.0, Apple's Macintosh and various UNIX operating systems.</p>
+<p>It said Netscape Communicator will be priced at $49 for its standard edition and $79 for the professional version.</p>
+<p>Users of Netscape Navigator 3.0 who have purchased a subscription receive an upgrade to Netscape Communicator at no charge.</p>
+<p>Netscape said the products will be written to support the following languages initially: Danish, Dutch, English, French, German, Italian, Japanese, Korean, Portuguese, Spanish, Swedish.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

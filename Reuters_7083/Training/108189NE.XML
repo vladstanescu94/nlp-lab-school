@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108189" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Lotus shifts leaders, Zisman named executive VP.</title>
+<headline>Lotus shifts leaders, Zisman named executive VP.</headline>
+<dateline>CAMBRIDGE, Mass.</dateline>
+<text>
+<p>Lotus Development Corp., a unit of International Business Machines Corp., said Thursdday it named Jeff Papows as its president and that Michael Zisman will become an executive vice president, ending an arrangement where the two had shared the office of the president.</p>
+<p>Previously, the two shared the office of the president at Lotus, where Papows had been the chief operating officer and Zisman was the chief executive.</p>
+<p>In a memo issued Thursday to employees, Zisman said personal obligations from a death in his immediate family would require him to change his role at the company and become executive vice president for strategy.</p>
+<p>In his new role, Zisman will focus on formulating and advising Papows on strategy, consulting with customers and representing Lotus externally.</p>
+<p>Lotus will continue to operate as an independently managed subsidiary of IBM and Papows will continue to report to John M. Thompson, senior vice president of IBM and head of its Software Group. Zisman will report to Papows.</p>
+<p>Lotus also promoted Deborah Besemer to executive vice president of worldwide field operations, with responsibility for worldwide sales, services and business partner operations. Besemer was previously senior vice president of worldwide sales.</p>
+<p>Zisman came to Lotus in 1994, when Lotus acquired his company, Soft-Switch Inc. Papows was previously president of Cognos Inc. and he joined Lotus in 1993.</p>
+<p>The two took over as the joint leaders of Lotus after founder and Chief Executive Jim Manzi quit a few months after IBM had bought Lotus for $3.5 billion last year.</p>
+<p>Manzi quit as head of Lotus and as an IBM senior vice president in October last year. Industry sources said at the time that Manzi wanted to run IBM's entire software business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

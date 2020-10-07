@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175267" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Lycos, Blockbuster in Internet venture.</title>
+<headline>Lycos, Blockbuster in Internet venture.</headline>
+<dateline>MARLBORO, Mass. 1996-11-08</dateline>
+<text>
+<p>Lycos Inc and Viacom Inc's Blockbuster Entertainment said on Friday they had formed a new Internet navigational site to bring entertainment news and information to online users worldwide.</p>
+<p>The companies said the site, located at http://www.blockbuster.com/passport, is being introduced at over 3,200 Blockbuster video and music stores in the U.S. through the distribution of 1.5 million copies of Sprint Corp's Internet Passport software.</p>
+<p>The site, which uses Lycos technology, will provide online users with the latest news about the stars, entertainment events and products.</p>
+<p>Blockbuster has also entered into a relationship with Starwave, a leading producer and publisher of online content, owned by Microsoft Corp cofounder Paul Allen, the companies said.</p>
+<p>Starwave will provide Blockbuster with links to entertainment news information from its Mr. Showbiz site, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

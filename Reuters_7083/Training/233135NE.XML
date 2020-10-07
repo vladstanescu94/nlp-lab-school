@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233135" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Newport News to join S&amp;P MidCap 400 Index.</title>
+<headline>Newport News to join S&amp;P MidCap 400 Index.</headline>
+<dateline>NEW YORK 1996-12-04</dateline>
+<text>
+<p>Standard &amp; Poor's said on Wednesday it will add Newport News Shipbuilding to the S&amp;P MidCap 400 Index after the close of trading in Wednesday, December 11, 1996.</p>
+<p>Tenneco Inc is spinning off the Newport News operations and selling its Tenneco Energy unit to El Paso Energy Corp on that date.</p>
+<p>Tenneco will remain in the S&amp;P 500 Index, while El Paso Energy will remain in the S&amp;P MidCap 400 Index, Standard &amp; Poor's said.</p>
+<p>Newport News will replace Borland International Inc in the S&amp;P MidCap 400 Index, Standard &amp; Poor's said. Borland International, which had a market capitalization of $281.8 million at the close of trading on December 3, will not be added to another S&amp;P Index at that time.</p>
+<p>Standard &amp; Poor's also said it will replace Augat Inc in the SmallCap 600 Index with Fritz Cos Inc on December 11, 1996. Augat is being acquired by S&amp;P 500 component Thomas &amp; Betts Corp, Standard &amp; Poor's said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52115" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: American Software may form new company.</title>
+<headline>American Software may form new company.</headline>
+<dateline>ATLANTA 1996-09-13</dateline>
+<text>
+<p>American Software said Friday it is evaluating the formation of a separate company for its fastest growing business unit, Supply Chain Planning.</p>
+<p>The company said it is also considering selling a portion of the new company to the public and the impact such a public offering would have on American Software stock.  </p>
+<p>Supply Chain Planning provides software aimed at helping manufacturing companies lower their supply costs. The company said market research shows the the marketplace potential of such software and service could exceed $8 billion annually by the year 2000.</p>
+<p>American Software is an Atlanta- based firm that offers business solutions to a range of industries.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

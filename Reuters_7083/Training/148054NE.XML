@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148054" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Netscape, Oracle in Internet software pact.</title>
+<headline>Netscape, Oracle in Internet software pact.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-28</dateline>
+<text>
+<p>Netscape Communications Corp. and Oracle Corp., seeking to limit Microsoft Corp.'s efforts to become a dominant provider of Internet software, Monday announced a plan to integrate and market each others' products.</p>
+<p>Netscape, whose Navigator software has more than 80 percent of the Internet browser market, and Oracle, the world's second-largest software provider, said the alliance brings together Oracle's Universal Server and so-called Network Computer products, with Netscape Commercial Applications for the Internet and Netscape's market-leading Netscape Navigator.</p>
+<p>&quot;While we are enormous proponents of supporting all client technologies, there are times when its more appropriate to select a closer alliance partner,&quot; said Oracle Chairman and CEO Larry Ellison. &quot;We've chosen to work with Netscape.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

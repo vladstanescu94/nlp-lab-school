@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107361" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Group Technologies says part of merger plan.</title>
+<headline>Group Technologies says part of merger plan.</headline>
+<dateline>TAMPA, Fla. 1996-10-10</dateline>
+<text>
+<p>Group Technologies Corp said Thursday its majority holder, Group Financial Partners Inc, plans to acquire the company.</p>
+<p>Group Financial Partners is a private holding company based in Louisville, Ky., which originally acquired Group Technologies in 1989 and currently owns about 80 percent of the company's outstanding shares.</p>
+<p>The proposed merger is part of a plan under which Group Financial would combine several companies in which it owns the controlling interest into a new publicly held firm.  </p>
+<p>The other companies to be merged into the new entity are Bell Technologies Inc and  Tube Turns Technologies Inc, each of which is a subsidiary of Group Financial, the company said.</p>
+<p>Terms of the proposed merger remain subject to negotiation. The company said it hopes to close the merger in the first quarter of 1997.</p>
+<p>The plan is to effect the merger through a tax-free exchange of shares in the new corporation, the company said.</p>
+<p>The new firm would be focused primarily on providing specialty electronic manufacturing services and products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

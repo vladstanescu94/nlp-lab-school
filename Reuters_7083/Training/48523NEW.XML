@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48523" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Oracle Q1 license sales rose 27 percent.</title>
+<headline>Oracle Q1 license sales rose 27 percent.</headline>
+<dateline>REDWOOD SHORES, Calif 1996-09-12</dateline>
+<text>
+<p>Oracle Corp said first quarter license sales - the equivalent of software sales - rose 27 percent while revenues from services such as training, consulting and support grew 45 percent.</p>
+<p>Revenues as a whole rose 36 percent.</p>
+<p>Oracle, a seller of corporate database software as well as applications and development tools for those databases, said the results set a first quarter record.</p>
+<p>Its net earnings of $0.17 a share matched Wall Street's consensus estimate, which First Call Corp tallied at $0.17 a share.  </p>
+<p>In its fourth quarter ended May 31, which was an exceptionally strong quarter, license sales rose 45 percent.</p>
+<p>Oracle said that in its first quarter, license sales from its core database products led the growth at 41 percent. It did not describe revenues achieved by applications or tools.</p>
+<p>The company said sales were solid from all regions of the world, despite a weak Yen in Japan and an overall 3 percent negative currency translation. It said Oracle's Americas operation reported the strongest growth geographically at 43 percent.  </p>
+<p>Among the quarter's achievements, Oracle mentioned the successful launch of its Oracle(R) Universal Server, a version of its core database product that can handle all sorts of data, including video and sound. The company recently said it regards Oracle Universal Server as its flagship product now.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

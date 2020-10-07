@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94833" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: IBM, other firms, in data encryption alliance.</title>
+<headline>IBM, other firms, in data encryption alliance.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-10-02</dateline>
+<text>
+<p>International Business Machines Corp., Apple Computer Inc., Hewlett-Packard Co. and eight other companies on Wednesday announced a data encryption alliance to protect and facilitate international electronic commerce.</p>
+<p>The companies said data encryption, which scrambles data using complex mathematical formulas, would allow them to send information securely over the Internet and other international computer networks.</p>
+<p>Other members of the alliance are Digital Equipment Corp., Sun Microsystems Inc., United Parcel Service of America Inc., NCR Corp., Groupe Bull, RSA Data Security Inc. (which is now owned by Security Dynamics Inc.) and a little-known company called Trusted Information Systems Inc..</p>
+<p>The alliance said its members will develop high-level cryptographic &quot;key-recovery&quot; solutions, which use strings of computer codes that lock and unlock data.</p>
+<p>&quot;Key recovery will truly open the Internet for serious business,&quot; said Irving Wladwsky-Berger, general manager of IBM's Internet division, in a statement. &quot;Once businesses are confident that their electronic transactions are safe and they control the recovery of keys, a flood of new market opportunities will open.&quot;</p>
+<p>The consortium, which was initiated by IBM, was formed as a way to deal with the compromise solution that the Clinton administration has proposed in order to let U.S. companies export software and electronic communications that are encrypted for security and privacy outside the U.S.</p>
+<p>Tuesday, the White House announced that it would ease its export regulations on encrypted software, provided that the software has a &quot;key recovery&quot; capability, to let law enforcement agencies to unlock the scrambled messages with a court order.</p>
+<p>The issue of giving out the deciphering key to a third party has caused furore and debate in the computer industry. The alliance hopes to achieve some kind of compromise by developing a technique to unlock only parts of the encypted data in stages.</p>
+<p>&quot;Export controls are a fact of life,&quot; said Jim Bidzos, president of RSA Data Security, the leading developing of data encryption software. &quot;The key recovery alliance's approach will allow companies to use crytography with differing levels of security in an interoperable way.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

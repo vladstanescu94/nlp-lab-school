@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652255" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: Microsoft backs Web profiling proposal.</title>
+<headline>Microsoft backs Web profiling proposal.</headline>
+<dateline>WASHINGTON 1997-06-11</dateline>
+<text>
+<p>Privately held Firefly Network Inc and Netscape Communications Corp said Microsoft Corp is cooperating in building on the Open Profiling Standard for the Internet they proposed two weeks ago.</p>
+<p>The announcement, made as the U.S. Federal Trade Commission held hearings on Internet privacy, will bring added momentum to the proposal, which aims to provide a framework for built-in privacy safeguards and greater individual control over exchange of personal information over the Internet.</p>
+<p>Firefly, Netscape, Microsoft and privately held VeriSign will work together on the new protocol during the remainder of a standards review process of the World Wide Web Consortium (W3C), which is the Web's main standards body.</p>
+<p>&quot;We're delighted that Microsoft, Netscape and Firefly have chosen to work together with our staff and other member organizations,&quot; Jim Miller, leader of the technology and society domain of the World Wide Web consortium, said in a statement.</p>
+<p>In the two weeks since its unveiling, support for the standards effort has grown to include more than 100 companies, according to a statement released by a Firefly representative.</p>
+<p>((-sam.perry@reuters.com, in Palo Alto +1 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

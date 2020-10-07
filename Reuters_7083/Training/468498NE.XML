@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468498" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Certicom launches Elliptic Curve products.</title>
+<headline>Certicom launches Elliptic Curve products.</headline>
+<dateline>SANTA CLARA, California 1997-03-25</dateline>
+<text>
+<p>Certicom Corp. on Tuesday launched a new family of cryptographic products based on a new process it said could provide much stronger protection than current commercial technology.</p>
+<p>The company's (CE)2 product line is based around the company's Certicom Elliptic Curve Engine, which enables equipment makers to integrate its technology for public key encryption and digital signatures into their products.</p>
+<p>Companies already working with Ontario-based Certicom include Motorola, Inc., which has plans to use the technology in its paging systems, VeriFone Inc., which plans to use the technology in smart card terminals, and Schlumberger, investigating smart card uses.</p>
+<p>The company's Elliptic Curve Cryptosystem (ECC) is nearly an order of magnitude stronger than other public key systems - for example a 160-bit ECC key is roughly equivalent to a 1,024-bit RSA or DSA key, it said.</p>
+<p>RSA Data Security, which supplies public key encryption products, was acquired by Security Data Technology Inc. last year. RSA executives were not immediately available for comment, but industry sources said it is looking at elliptic curve technology.</p>
+<p>Public key cryptography enables participants in a transaction to verify each other's identity and the integrity of data being transmitted between them.</p>
+<p>Industry analysts said although elliptic curve technology is already in the public domain, Certicom has effectively grabbed an early lead by launching its products and by seeking rights for key implementations.</p>
+<p>Philip Deck, president and CEO of Certicom, said in an interview the company has applied for around 30 patents on its own implementations of cryptography technology, of which he said at least two have been issued.</p>
+<p>One analyst who attended briefings by the company here today said he expects there may only be room for one player in this encryption space, if that player succeeds in providing consulting services and easy-to-use products.</p>
+<p>Although for the fiscal year to April 30, 1996, the company posted a net loss of C$2.7 million on sales of just C$1.3 million, Deck said the company is aiming at markets with a broad growth potential.</p>
+<p>Deck said the system was designed to easily plug into existing encryption infrastructure, adding that the company has been in discussions with the major companies in the equipment market.</p>
+<p>As a supplier to equipment manufacturers who then embed the technology in their own products, Certicom can provide its cryptography capabilities for a price of one dollar or less in software for a broad product range.</p>
+<p>Deck said markets it hopes to cultivate are &quot;shallow and wide,&quot; - rapidly growing into ample volume opportunities. By the year 2000, for example, the smart card market will hit an estimated four billion cards.</p>
+<p>Included in the products unveiled here are the company's Certicom cryptographic software toolkit.</p>
+<p>Certicom shares closed down one at 30 on Tuesday on the Canadian Dealing Network. Microsoft Corp. co-founder Paul Allen recently acquired a stake of slightly more than five percent, while the Thomson family owns roughly seven to eight percent of the company.</p>
+<p>The company, which was founded in 1985 and has some 60 employees, has a legacy facsimile encryption business and boasts customers ranging from Toronto-Dominion Bank to Motorola, Lockheed Martin and Scientific Atlanta. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

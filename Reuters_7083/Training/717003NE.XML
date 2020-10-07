@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="717003" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: Stanford, Yamaha join in audio licensing.</title>
+<headline>Stanford, Yamaha join in audio licensing.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-07-09</dateline>
+<text>
+<p>Stanford University and Yamaha Corp.  on Wednesday announced a programme to jointly license audio technologies they said can produce electronically synthesized sound virtually indistinguishable from the sound of natural instruments.</p>
+<p>There are more than 400 patents and patent applications for the technology, dubbed Sondius-XG and previously marketed under the names Sondius and Virtual Acoustic (VA).</p>
+<p>The programme, announced at a news conference in Palo Alto, also includes patents and applications covering Yamaha's XG format.</p>
+<p>A Silicon Valley start-up company, Staccato Systems, will be the first external licensee under the collaboration, which will be administered by Stanford's Office of Technology Licensing.</p>
+<p>Staccato, a spinoff from Stanford, will initially concentrate on developing software for Apple Computer Inc.'s Macintosh computers and Microsoft Corp Windows systems used on personal computers.</p>
+<p>Katherine Ku, director of the office of technology licensing at Stanford, said the technology is based on physical modelling of sound production, which can produce more realistic sounds and enable people to create make-believe instruments.</p>
+<p>&quot;I'm hoping one day to be able to ask children, 'Did you practice your computer today?'&quot; said Ku, adding that people will be able to create virtual instruments such as a 10-foot clarinet or a flute measuring 2 feet in diameter.</p>
+<p>Stanford and Yamaha officials said the technology can be used with products ranging from musical instruments themselves to karaoke equipment, personal computers and computer games.</p>
+<p>Yamaha, also a licensee, said it has already begun using the technology, and will begin marketing it using the Sondius-XG trademark. Ku said other products based on the technology should be available within a year.</p>
+<p>&quot;At Yamaha we know that sound is not just important, it is essential,&quot; said Masatada Wachi, a company director, saying sound is often critical to setting the mood and themes of movies and other forms of entertainment.</p>
+<p>The partnership between Stanford and Yamaha dates back to 1975, when Stanford granted Yamaha a license for Frequency Modulation (FM) Synthesis. Yamaha has since enhanced the technology for use in its first fully digital synthesizer.</p>
+<p>Subsequent development of sound generation chips that utilize FM synthesis enabled it to become a standard for reproduction of sound on personal computers.</p>
+<p>The collaboration combines Stanford's Sondius trademark, established in 1993 to include technologies developed at the Stanford Centre for Computer Research in Music and Acoustics and Yamaha's XG extensions of GM, or General Musical Instrument Digital Interface, created in 1991.</p>
+<p>&quot;We expect that it will be in our homes, our schools, our workplace,&quot; Stanford Dean of Research Charles Kruger said of the technology. He said proceeds from the licensing activity would benefit the Stanford centre and Yamaha, which he said was willing to take a risk on developing the technologies further.</p>
+<p>Yamaha is based in Tokyo.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I49200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

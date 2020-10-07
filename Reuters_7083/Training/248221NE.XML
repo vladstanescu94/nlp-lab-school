@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248221" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Alpha Bytes Inc Q3 net increases.</title>
+<headline>Alpha Bytes Inc Q3 net increases.</headline>
+<dateline>NIAGARA FALLS, N.Y. 1996-12-11</dateline>
+<text>
+<p>For the quarter ended</p>
+<p>							    Oct. 31,</p>
+<p>							1996	    1995</p>
+<p> Revenues				    $ 357,677	$ 160,447</p>
+<p> Earnings before income taxes	    129,450	    4,489</p>
+<p> Net earnings				   84,050	    2,579</p>
+<p> Earnings per share			    0.012	  0.00004</p>
+<p>Average number of shares outstanding</p>
+<p>						 7,143,002	6,925,000</p>
+<p>						For the nine months ended</p>
+<p>							    Oct. 31,</p>
+<p>						     1996	     1995</p>
+<p> Revenues				    1,127,463	  642,303</p>
+<p> Earnings before income taxes	    636,157	  112,672</p>
+<p> Net earnings				  402,657	  106,615</p>
+<p> Earnings per share			    0.056	    0.015</p>
+<p>Average number of shares outstanding</p>
+<p>						 7,143,002	6,925,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIAGARA FALLS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

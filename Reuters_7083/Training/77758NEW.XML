@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77758" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Software suite market growth slowed in Q2 - survey.</title>
+<headline>Software suite market growth slowed in Q2 - survey.</headline>
+<dateline>SAN JOSE, Calif. 1996-09-26</dateline>
+<text>
+<p>The worldwide software suite market showed signs of slowing in the second quarter of this year, according to market data compiled by the technology research firm Dataquest.</p>
+<p>The market grew 24.3 percent versus the second quarter of 1995, but second quarter 1996 shipments grew just 2.3 percent over the first quarter of this year, Dataquest said.</p>
+<p>Microsoft Corp continues to dominate the market, but a Dataquest analyst said that if the second quarter's slowdown in shipments continues there could be serious ramifications for Microsoft and the entire software market.  </p>
+<p>&quot;Microsoft relies extensively on suite revenue and profitability to drive its overall business, so any sort of a slowdown will concern Microsoft,&quot; said Dan Lavin, an analyst with Dataquest's Personal Computing Software program.</p>
+<p>&quot;This market is still astonishingly healthy and profitable, but these early warning signs warrant careful attention,&quot; he added.</p>
+<p>Suites refer to a set of distinct software applications designed to work in tandem. They typically include word processing, spreadsheet and database programs.  </p>
+<p>Leading examples include Microsoft's Office, International Business Machines Corp's Lotus SmartSuite and Corel Corp's WordPerfect and Office Professional suites.</p>
+<p>Based on preliminary estimates, Dataquest said that Microsoft's share of the suite market, measured in terms of revenue for the second quarter of 1996, slipped slightly to 84.5 percent from 87.4 percent in the year-ago second quarter.</p>
+<p>IBM's Lotus share of the most recent second quarter's suite market was roughly steady year-to-year at 7.8 percent. Corel gained a few points to hold 7.7 percent in the quarter.  </p>
+<p>Corel had a very strong second quarter as revenue reached $68.6 million in the second quarter of this year.</p>
+<p>Lavin said Corel's success is due to the huge initial shipment of the new WordPerfect suite, although he warned that these products did not sell through to customers at the same rate that the company shipped the product to its distributors.</p>
+<p>Corel acquired WordPerfect from Novell Inc in January 1996.</p>
+<p>Dataquest said Lotus is succeeding in its goal of increasing SmartSuite unit shipments market share in 1996, with its share rising to 26.3 percent in the second quarter of this year, up from 12.4 percent in the same quarter last year.</p>
+<p>A key reason behind the gain is that SmartSuite is now bundled with every new IBM Aptiva consumer PC that ships.</p>
+<p>As a result, Microsoft's second quarter market share in terms of shipments was 66.3 percent, down from 80.0 percent in the second quarter of 1995.</p>
+<p>Corel's unit shipments held steady year-over-year at around 7.5 percent, Dataquest found.</p>
+<p>Because of rounding, the market share figures do not add up to 100 percent exactly.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

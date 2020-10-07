@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="660560" id="root" date="1997-06-13" xml:lang="en">
+<title>USA: Netscape probing possible bug in browser.</title>
+<headline>Netscape probing possible bug in browser.</headline>
+<dateline>NEW YORK 1997-06-12</dateline>
+<text>
+<p>Netscape Communications Corp said on Thursday it is investigating a potential bug found in the beta versions its Internet browser.</p>
+<p>The company said it was told by an independent Internet consultant that the bug could, under specific conditions, allow access to files on users' hard drives.</p>
+<p>Thursday evening CNN reported that the bug was found in all versions of Netscape's internet browser.</p>
+<p>Mike Homer, Netscape's senior vice president of marketing, said the consultant has told them that the bug exists on Navigator II, III and test versions of the Communicator Internet browsers.</p>
+<p>Homer said the consultant has refused to provide technical details of the bug.</p>
+<p>&quot;Our team is working hard to discover the bug using limited information from various sources,&quot; Homer said. &quot;Just like in the past, we'll fix the bug when we find it.&quot;</p>
+<p>&quot;It is likely to cost the company very little. The engineers will find it and stamp it out immediately,&quot; Homer said.</p>
+<p>He said if the bug exists, customers will be notified immediately.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

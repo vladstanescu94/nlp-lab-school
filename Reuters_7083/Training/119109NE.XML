@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119109" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Macromedia Inc Q2 net falls.</title>
+<headline>Macromedia Inc Q2 net falls.</headline>
+<dateline>SAN FRANCISCO 1996-10-16</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>					  September 30,  September 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p> Revenues			$31,025  $27,301  $66,035  $51,158</p>
+<p> Cost of revenues		4,505    4,675    9,939    8,900</p>
+<p> Gross profit		   26,520   22,626   56,096   42,258</p>
+<p>Operating expenses:</p>
+<p> Sales and marketing	  12,352    9,516   24,538   18,592</p>
+<p> Research and development    7,125    4,615   14,037    8,720</p>
+<p> General and administrative  1,588    1,370    3,113    2,590</p>
+<p> Merger				  0	400	  0	400</p>
+<p> Total operating expenses   21,065   15,901   41,688   30,302</p>
+<p> Operating income		5,455    6,725   14,408   11,956</p>
+<p>Other income (expenses), net</p>
+<p>				     1,228	906    2,594    1,202</p>
+<p> Income before income taxes  6,683    7,631   17,002   13,158</p>
+<p>Provision for income taxes</p>
+<p>				   (2,073)  (2,214)  (5,272)  (3,319)</p>
+<p> Net income			4,610    5,417   11,730    9,839</p>
+<p> Net income per share	   0.12     0.15     0.29     0.27</p>
+<p>Shares used in computing</p>
+<p>   net income per share     40,013   37,316   40,648   36,166</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

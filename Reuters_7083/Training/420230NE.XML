@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420230" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: Microsoft has software fix for Explorer bug.</title>
+<headline>Microsoft has software fix for Explorer bug.</headline>
+<dateline>REDMOND, Wash. 1997-03-05</dateline>
+<text>
+<p>Microsoft Corp said it has developed a software fix for a security problem with its Internet Explorer 3.0 browser.</p>
+<p>In a statement, the company said the software patch will be available free to users at the Microsoft Web site.</p>
+<p>The problem was discovered by Paul Greene, a student at Worcester Polytechnic Institute in Massachusetts, who was posting documents onto a Web site when he accidentally created a Windows 95 &quot;shortcut.&quot;</p>
+<p>After some experimentation, he and fellow-students discovered that a Webmaster could take advantage of the bug to evade security features of the browser and download damaging programs onto a user's hard drive.</p>
+<p>The transfer could happen in the background or so quickly that the user might not even be aware of it.</p>
+<p>Microsoft said the security issue affects only users of Microsoft Internet Explorer versions 3.0 and 3.01 for the Windows 95 and Windows NT 4.0 operating systems.  The issue does not affect users of Microsoft Internet Explorer for Windows 3.1 or Microsoft Internet Explorer for the Macintosh.</p>
+<p>Microsoft said so far no Microsoft Internet Explorer customers have reported they have been affected by the bug.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

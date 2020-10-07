@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230652" id="root" date="1996-12-03" xml:lang="en">
+<title>CANADA: Corel puts hand-held computer on hold.</title>
+<headline>Corel puts hand-held computer on hold.</headline>
+<dateline>TORONTO 1996-12-03</dateline>
+<text>
+<p>Corel Corp is putting on hold plans to develop a hand-held computer in favor of concentrating on its new networked computer, company spokeswoman Carrie Bendzsa said on Tuesday.</p>
+<p>Corel, Canada's largest software company, had been planning to ship one million of the tiny computers by mid 1997, marking a major foray into the hardware business.</p>
+<p>But Bendzsa said the company now wanted to see how the market developed before deciding whether to proceed with the hand held unit that was to be powered by the new Java software programming language.</p>
+<p>Microsoft Corp, Corel's rival in the software market, recently unveiled Windows CE, an operating system for handheld computers and an alternative to Java.</p>
+<p>She said the company was continuing to develop the Corel Video NC, however. Corel expected to have a prototype ready early in the new year, she added.</p>
+<p>The NC computer, which was designed to be a slimmed-down version of a personal computer, should sell for under C$1,000 and be suitable for the office, educational and home markets.</p>
+<p>((Reuters Toronto bureau 416-941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

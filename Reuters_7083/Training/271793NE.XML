@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271793" id="root" date="1996-12-21" xml:lang="en">
+<title>USA: Apple to acquire NeXT in $400 mln deal.</title>
+<headline>Apple to acquire NeXT in $400 mln deal.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>CUPERTINO, Calif 1996-12-20</dateline>
+<text>
+<p>Apple Computer Inc. Friday agreed to acquire NeXT Software Inc. for $400 million, a stunning move that reunites the computer company with its co-founder, Steven Jobs.</p>
+<p>The acquisition will give Apple the software technology it needs to revamp the Macintosh personal computer, which has lost much of its technological luster to PCs running software from Microsoft Corp.</p>
+<p>&quot;The Mac has provided the innovation that the industry has been feeding off for the last 10 years,&quot; Jobs said. &quot;It's time for someone to come up with innovation to drive the industry forward. Who better than Apple?&quot;</p>
+<p>Apple Chief Financial Officer Fred Anderson said the company will pay $350 million, mostly in cash and a little stock, for Redwood City, Calif.-based NeXT. Apple also will pay off NeXT's $50 million debt.</p>
+<p>Jobs, who founded Apple with a friend in his garage 20 years ago, led Apple through its early years until he was fired by the company's board in 1985.</p>
+<p>Apple said he will come back to Apple part-time to lead an effort to rewrite the fundamental software of the Macintosh. He will report to Apple Chairman Gilbert Amelio.</p>
+<p>Apple will base much of its next-generation operating system -- the computer program that controls the basic function of the Mac -- on Nextstep.</p>
+<p>NeXT's technology will not only provide many of the software bells and whistles that Apple needs to compete with Microsoft's Windows, but will attract outside software companies to write more titles for the Mac, Amelio said.</p>
+<p>&quot;Without question, the technology at NeXT was the superior technology, by a significant amount,&quot; Amelio said.</p>
+<p>Apple had been for months looking outside for help after having abandoned an unfinished operating system code-named &quot;Copland.&quot;</p>
+<p>The company looked at operating system technology and multimedia software from companies such as Sun Microsystems Inc. and closely held Be Inc.</p>
+<p>Amelio said with NeXT's existing technology, he hopes Apple will have a new operating system in 1997.</p>
+<p>For Jobs, the cheerleader who instilled an attitude in Apple that the company was out to change the world, the merger is another stop in a strange odyssey.</p>
+<p>After being fired by his successor John Sculley in 1985, he left to found NeXT, which initially made a line of whiz-bang computers.</p>
+<p>When NeXT ran into financial trouble in the late 1980s, the company dropped its computers to concentrate on software. In the past two years, NeXT has been selling a line of reasonably successful software for creating sites on the Internet's World Wide Web.</p>
+<p>Meanwhile, Jobs helped co-found Pixar Animation Studios, a production studio that uses powerful computers instead of drawings. The company made last year's hit &quot;Toy Story.&quot;</p>
+<p>Jobs said he will continue to run Pixar.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

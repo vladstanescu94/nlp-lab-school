@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="483546" id="root" date="1997-04-02" xml:lang="en">
+<title>JAPAN: FEATURE - Experts say small Japan firms six months behind for 2000.</title>
+<headline>FEATURE - Experts say small Japan firms six months behind for 2000.</headline>
+<byline>Eugene Moosa</byline>
+<dateline>TOKYO 1997-04-02</dateline>
+<text>
+<p>Japan's small firms are ill-prepared to deal with the feared millennium crash and lag about six months behind the United States and Europe in efforts to re-write software programmes.</p>
+<p>Computer manufacturers and industry officials say smaller firms were only now waking up to what needed to be done after having left preparations mainly in the hands of their so-called &quot;general affairs man&quot;, a jack-of-all-trades employee who handles everything from buying stationery to arranging cherry-blossom parties.</p>
+<p>With less than three years to go, six months is a crucial time lag, said an official at the Japan Information Service Industry Association (JISA), which groups software firms.</p>
+<p>JISA's survey of 2,900 firms and government offices last June said only 25 percent of them have finished or were in the process of re-writing their software to deal with the millennium crash. Based on this, JISA said their estimate now was that only 20 percent of all firms have finished re-writing software.</p>
+<p>&quot;Our biggest headache is the average office manager in small and and medium-sized firms,&quot; Tatsuya Omata of JISA's Year 2000 Project Team said in an interview.</p>
+<p>Affectionately called the &quot;Somu no Ojisan&quot; or &quot;the Old Man of the General Affairs Section,&quot; the junior grade office manager at Japan's small factories and firms has often been given the job to call a computer firm if something goes wrong, in the absence of full-time software engineers.</p>
+<p>&quot;Our theme now is to advertise the problem and make end-users, especially those jack-of-all-trade office managers, become aware of the danger,&quot; Omata said.</p>
+<p>INCREASING AWARENESS OF THE PROBLEM</p>
+<p>Officials at IBM Japan and NEC Corp agreed.</p>
+<p>&quot;Big firms have technical staff to handle the problem,&quot; said an official at IBM Japan's Communications Department.</p>
+<p>&quot;The biggest worry is the small firm which did not have the funds to upgrade their system during the post-'bubble' recession of the past five years.&quot;</p>
+<p>&quot;We don't think the high-tech users of our super computers have too much to worry about,&quot; Junichi Taki of NEC's A.D. 2000 Promotion Team told Reuters.</p>
+<p>&quot;Research institutions and other high-end users which run super computers generally upgrade systems very frequently, to keep up with their requirements, and so most of them have already dealt with the problem,&quot; Taki said.</p>
+<p>Asked about mainframe or super computers used at nuclear power stations and for earthquake predictions, JISA's Omata said: &quot;Most special users of these 'mission-critical' computers have already dealt with the issue.&quot;</p>
+<p>DELAY WILL MEAN DEMAND FOR SOFTWARE ENGINEERS</p>
+<p>The time lag in small business may mean there will be a sudden rush for the country's estimated 85,000 software engineers, JISA said.</p>
+<p>&quot;Next year, during the expected peak time in the millennium problem, the general affairs man at the small firm may find out that there is nobody out there they can hire to re-write their appications,&quot; Omata said.</p>
+<p>According to JISA's estimate, Japan may lack 17,000 software engineers to re-write all programmes in time.</p>
+<p>A big problem is the outdated languages used in the software of models that date from the late 1980's.</p>
+<p>&quot;These days, most computers applications use C-language,&quot; said the IBM official. &quot;But the languages used in the 1980s models were COBOL and PL-1. No software engineer will want to learn this outmoded languages.&quot;</p>
+<p>But not all is bleak, the NEC and IBM Japan officials said.</p>
+<p>&quot;Japanese firms in general are ready for an overhaul of computer systems, because the recession is over and there are expected changes in infrastructure such as deregulation. The millennium problem is one incentive for such an overhaul,&quot; NEC's Taki said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119412" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: MCI unit in pact with DEC, Marcam, Microsoft.</title>
+<headline>MCI unit in pact with DEC, Marcam, Microsoft.</headline>
+<dateline>ATLANTA 1996-10-16</dateline>
+<text>
+<p>MCI Systemhouse, a unit of MCI Communications Corp, on Wednesday said it has drawn an agreement with three firms to offer a pre-partnered enterprise-wide solution to support the process-manufacturing industries.</p>
+<p>The offering combines products and services from MCI, Marcam Corp, Microsoft Corp and Digital Equipment Corp, to provide a complete enterprise solution including the ability to integrate new technology with existing applications, the firms said.</p>
+<p>Marcam will provide core Enterprise Resource Planning applications, Microsoft will provide its family of software products and tools and Digital will provide its AlphaServer hardware. The full scope of MCI services will be available including project management, systems integration, communications and systems management, MCI said.</p>
+<p>&quot;The resources from all four organizations will be combined to serve as a single offering able to integrate a client's existing applications both at the business and plant levels,&quot; Robert Laza, MCI Systemhouse's senior vice president and managing director of Process Industries, said in a statement.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

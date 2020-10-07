@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560559" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Complete Business backs 25-30 pct revenue growth.</title>
+<headline>Complete Business backs 25-30 pct revenue growth.</headline>
+<dateline>FARMINGTON HILLS, Mich. 1997-05-05</dateline>
+<text>
+<p>Complete Business Solutions Inc said Monday it is comfortable with analysts' estimates for revenue growth of 25 to 30 percent.</p>
+<p>&quot;Altogether, we are comfortable with the analysts' estimates for our top-line growth of 25 to 30 percent, with potential growth in net income outpacing that if margins continue to increase,&quot; Tim Manney, executive vice president of financial and administration, said in a statement.  </p>
+<p>Earlier, Complete Business reported first quarter net income of $0.15 a share, up from $0.09 a year ago. Sales rose about 27 percent to $24.3 million from $19.1 million.</p>
+<p>&quot;Our solid revenue growth and the change in our business mix toward higher-margin services was the driving factor in last quarter's strong profits, and why we exceeded analysts' earnings estimates by one to two cents per share,&quot; Raj Vattikuti, president, said in a statement.</p>
+<p>For the first quarter, the operating margin rose to 7.3 percent from 6.4 percent a year ago. The pro forma net margin was 4.9 percent, up from 3.6 percent.</p>
+<p>Complete Business provides information technology services.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARMINGTON HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

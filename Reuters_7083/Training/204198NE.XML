@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204198" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Banc One in pact with CYBERTEK.</title>
+<headline>Banc One in pact with CYBERTEK.</headline>
+<dateline>INDIANAPOLIS 1996-11-19</dateline>
+<text>
+<p>Banc One Mortgage, a unit of Banc One Corp, on Tuesday said it has agreed to license its Mortgage loan origination management system software to a unit of CYBERTEK Corp.</p>
+<p>In the agreement, Banc One will provides CYBERTEK's COGENSYS, its mortgage banking subsidiary, with a database system that will support mortgage loan origination, processing and secondary marketing.</p>
+<p>CYBERTEK is a subsidiary of Policy Management Systems Corp .</p>
+<p>Terms of the deal were not disclosed.</p>
+<p>In a statement, Banc One Mortgage President Jeffrey Gaia said, &quot;This relationship takes advantage of CYBERTEK's technology strengths in development and distribution and of Banc One Mortgage's strengths in mortgage product delivery.&quot;</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

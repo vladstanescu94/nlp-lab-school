@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91739" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Viewlogic sees Q3 revs of about $34 mln.</title>
+<headline>Viewlogic sees Q3 revs of about $34 mln.</headline>
+<dateline>MARLBORO, Mass. 1996-10-02</dateline>
+<text>
+<p>Viewlogic Systems Inc said Wednesday that it expects third quarter revenues of $34 million.</p>
+<p>The company said that earnings per share for the quarter would be $0.14-$0.18, which includes a $1.2 million pre-tax, or $0.04 per share, gain in investment income.  </p>
+<p>The lower than expected third quarter revenue level is primarily attributable to a shortfall in sales in Europe and, delays in the impact of recently released new products, the company said.</p>
+<p>Viewlogic Systems, a supplier of electronic design automation software, will announce definitive third quarter results for 1996 on October 22.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARLBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

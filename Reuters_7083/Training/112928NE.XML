@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112928" id="root" date="1996-10-13" xml:lang="en">
+<title>USA: Goldman Sachs official sees Dow breaking 6000.</title>
+<headline>Goldman Sachs official sees Dow breaking 6000.</headline>
+<dateline>NEW YORK 1996-10-13</dateline>
+<text>
+<p>Citing ongoing corporate profit growth and moderate inflation, Goldman Sachs investment policy committee co-chair Abby Joseph Cohen told Barron's the Dow is likely to close above the 6000 mark in coming months.</p>
+<p>Cohen, in a four-page interview in the October 14 issue, also says S&amp;P 500 operating profits will grow by at least 10 percent and stock prices will rise commensurately from current levels. She says financial services is another area that will show strong profit growth in the months to come.</p>
+<p>&quot;I don't see inflation becoming a problem for the equity markets within the next year or so,&quot; Cohen says. &quot;We think inflation has troughed in the U.S., but its rise will be gradual.&quot;</p>
+<p>In the technology sector, Cohen says she likes Intel Corp and Microsoft Corp and personal computer makers such as Compaq Computer Corp and Dell Computer Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

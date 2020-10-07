@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751854" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: Imageline says claims vs Corel dismissed.</title>
+<headline>Imageline says claims vs Corel dismissed.</headline>
+<text>
+<p>RICHMOND, Va., July 24 - Privately-held Imageline Inc said Thursday its claims against Canada's Corel Corp in a copy right infringement suit were dismissed with prejudice.</p>
+<p>The developer of electronic art for computers said the suit was pending in the U.S. District Court in Charlottesville, Va. Imageline's lawyer Richard Diamond declined to discuss the dismissal, saying Imageline and Corel had a non-disclosure agreement.</p>
+<p>Imagineline in a statement said Corel's lawyers stated they believe the claims' dismissal represents a complete vindication of Corel.  </p>
+<p>Corel's lawyers and Imageline officials were not immediately available to elaborate.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

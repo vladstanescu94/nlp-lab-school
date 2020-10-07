@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="442621" id="root" date="1997-03-14" xml:lang="en">
+<title>USA: IPO FILING - NxTrend Technology Inc.</title>
+<headline>IPO FILING - NxTrend Technology Inc.</headline>
+<dateline>WASHINGTON 1997-03-14</dateline>
+<text>
+<p>Company Name			NxTrend Technology Inc</p>
+<p>Stock symbol			NXTT.O</p>
+<p>Estimated price range	   $12-$14/shr</p>
+<p>Total shares to be offered    4.3 million</p>
+<p>Shrs offered by company	 4.3 million</p>
+<p>Shrs outstanding after ipo    13,370,331</p>
+<p>Lead Underwriter		  Montgomery Securities</p>
+<p>Underwriters over-allotment   645,000 shrs</p>
+<p>Business: Based in Colorado Springs, Colo., NxTrend is a provider of software solutions that address the business information requirements of durable goods wholesale distributors.</p>
+<p>Use of Proceeds: For repayments in connection with the redemption of preferred stock, repayment of indebtedness, working capital and other general corporate purposes. Financial Data in 000s year ended Dec 31:</p>
+<p>				   1996		 1995</p>
+<p>   - Revenue		 $39,620	    $35,124</p>
+<p>   - Net Income	     $3,129	     $2,981</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

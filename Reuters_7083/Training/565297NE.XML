@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565297" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Excalibur to report Q1 loss, lower revs.</title>
+<headline>Excalibur to report Q1 loss, lower revs.</headline>
+<dateline>VIENNA, Va. 1997-05-07</dateline>
+<text>
+<p>Excalibur Technologies Corp said Wednesday it expects to report a first quarter loss and revenue of about $3.4 million, a 15 percent decrease from the $4.0 million reported in the same period a year ago.</p>
+<p>Expense figures have not been finalized, but the company said it does not expect to report net income for the first quarter. &quot;You can say we expect a loss,&quot; a company spokesman told Reuters.</p>
+<p>The information software company said it plans to release final, unaudited results in late May.</p>
+<p>Excalibur attributed the revenue drop to a combination of factors including lower-than-expected sales in North America, delays in the ramp-up of a joint venture in Europe, and failure to close a joint development agreement with a business partner.</p>
+<p>The company also announced changes in conjunction with a reorganization of the sales force and the formation of a new business unit, the Visual Business Group.</p>
+<p>As part of these changes the company said it plans to eliminate about 10 percent of its total workforce.</p>
+<p>Excalibur does  not expect to record a charge against earnings on the job cuts, a spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

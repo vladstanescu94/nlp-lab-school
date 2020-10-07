@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="678712" id="root" date="1997-06-22" xml:lang="en">
+<title>USA: Intel says in collaboration with Oracle.</title>
+<headline>Intel says in collaboration with Oracle.</headline>
+<dateline>SANTA CLARA, Calif. 1997-06-22</dateline>
+<text>
+<p>Intel Corp said it and Oracle Corp will Monday announce a broad-ranging collaboration for optimizing use of Oracle's new Oracle8 database software on Intel microprocessors.</p>
+<p>John Miner, Intel's vice president in charge of development and marketing for high-end server products, said the effort will focus on the next generation of Intel chips, code-named Merced, including advanced cluster computing systems.  </p>
+<p>Servers are powerful computers used to link individual outlets, like desktop personal computers, together in networks. Clustered systems link multiple processors to provide maximal computing power.</p>
+<p>Intel's Merced processor, expected to begin shipping in 1999, is a critical new product family because it is based on a faster chip architecture.</p>
+<p>Oracle is formally introducing Oracle8 this week with a flashy, round-the-world event, and Miner told Reuters in an interview ahead of Monday's announcement that Intel systems are the fastest-growing segment of Oracle's database business.  </p>
+<p>The widespread use of Intel processors and the early availability of Oracle's flagship product for use on Intel platforms, he said, &quot;should fuel even more growth in this fast-moving, highest growth end of their business.&quot;</p>
+<p>The collaboration of the two computer powerhouses also marks the ever-increasing power of Intel processors -- years ago databases were largely the province of large, costly mainframe computers.</p>
+<p>Now, Oracle's mainline product is released for what Intel calls its standard high-volume server platform at the same time as it is shipped for other systems.  </p>
+<p>Intel said it and Oracle will also work together on cluster features for the Oracle Parallel Server (OPS) and for a new cluster communications standard known as VI Architecture.</p>
+<p>The development efforts will support the speediest versions of Microsoft Corp's Windows NT and SCO's UnixWare systems.</p>
+<p>The companies will work to ensure Oracle's products will be certified to work on Merced-based systems to be offered by a range of computer makers, including Hewlett-Packard Co and Compaq Computer Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

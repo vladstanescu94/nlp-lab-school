@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246342" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Autodesk to acquire Softdesk.</title>
+<headline>Autodesk to acquire Softdesk.</headline>
+<dateline>HENNIKER, N.H.</dateline>
+<text>
+<p>Autodesk Inc. said Tuesday it would acquire computer-aided-design software firm Softdesk Inc. in a deal valued at about $72 million, or $12 per share for Softdesk shareholders.</p>
+<p>Autodesk, based in San Rafael, Calif., supplies PC design software, and Henniker, N.H.-based Softdesk supplies software for architecture, engineering and construction.</p>
+<p>Autodesk said it would issue about 0.44 shares of its common stock for each outstanding Softdesk share, and that it expected to take a one-time charge of about $10 million to $12 million when the deal closed.</p>
+<p>The merger was expected to close the first quarter of Autodesk's fiscal year, the companies said.</p>
+<p>The deal was worth $72 million based on closing stock prices on Dec. 9, the companies said.</p>
+<p>In connection with the deal, Softdesk said it also granted Autodesk an option to acquire 19.9 percent of Softdesk stock under certain circumstances.</p>
+<p>Softdesk would be integrated into Autodesk's architecture, engineering and construction market group, would be headquartered in Henniker and managed by David Arnold, formerly Softdesk chief executive officer, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HENNIKER, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="634928" id="root" date="1997-06-03" xml:lang="en">
+<title>USA: Lotus' Papows urges acceptance of Java.</title>
+<headline>Lotus' Papows urges acceptance of Java.</headline>
+<byline>Franklin Paul</byline>
+<dateline>ATLANTA 1997-06-03</dateline>
+<text>
+<p>The rapid acceptance of the Java programming language is critical to the advancement of productivity in the information technology business sector, Lotus Development Corp president Jeff Papows said.</p>
+<p>In his keynote speech on Monday to the Spring Comdex conference here, he said of the need to back Java on an industry wide level, &quot;I think it is systemic, lasting and absolutely critical.&quot;</p>
+<p>Developed by Sun Microsystems Corp, Java is a computer language that promises to enable programmers to write one piece of software that can run on many different systems.</p>
+<p>Lotus, a division of International Business Machines Corp, plans to introduce in the third quarter of this year its own set of Java-based software tools and applications, code-named &quot;Kona.&quot;</p>
+<p>The growing use of the Internet and corporate networks called Intranets, as business tools are connecting more and more people and companies, opening the doors to new types of commerce, he says.</p>
+<p>But without an open universal applications platform, like Java, the industry will become mired in a costly development and years of testing to find programmes that work for all platforms and architectures.</p>
+<p>&quot;We can advance the rate of the technology, as rapid as it is, even faster if we are not forced to stop and test and write independently to reach a platform,&quot; he told Reuters in an interview after the address.</p>
+<p>Papows said that while many industry partners have taken up the charge for Java, Microsoft Corp may not support the language, and indeed may develop a proprietary application of its own. That would present a very formidable problem, he says.</p>
+<p>&quot;The reality is that if they (Microsoft) manage to coopt a majority of the developers to their...version, they will completely pervert this operating system transparancy,&quot; Papows said.</p>
+<p>&quot;That is absolutely unnecessary,&quot; he continued. &quot;We all invest our energies in making Java perform instead of parochially optimizing individual environments.&quot;</p>
+<p>Papows said that Microsoft has had a &quot;near monopolistic&quot; degree of power over products developed for the computer desktop for about eight years, but feels a groundswell of corporate support for Java could overcome any attempt by Microsoft to assert its power.</p>
+<p>&quot;I think that the industry...has grown up now, and hopefully will mature enough to preclude that from happening,&quot; he said. &quot;It would be a travesty if we allowed them to use that monopoly to pervert something that is this important to everybody.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

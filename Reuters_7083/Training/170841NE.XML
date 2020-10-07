@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170841" id="root" date="1996-11-06" xml:lang="en">
+<title>FRANCE: Microsoft wants partners to develop Internet.</title>
+<headline>Microsoft wants partners to develop Internet.</headline>
+<dateline>CANNES, France 1996-11-06</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>Microsoft Corp's long-term goal is to seek partnerships that could help the software giant deliver a range of Internet services from banking to news.</p>
+<p>Microsoft chairman and chief executive Bill Gates said the company would invest heavily to achieve this aim, which would take upwards of 10 years.</p>
+<p>Gates, answering questions at a computer symposium, said: &quot;It will take a huge investment, absolutely gigantic, but money is not in short supply....we've got $7 billion in the bank.&quot;</p>
+<p>He stressed partnerships were crucial because Microsoft did not want to move outside its areas of core competency.</p>
+<p>&quot;With our merchant server product (for electronic shopping), publishing, and banking with Microsoft Money our role is to have a product for customers to use. We are offering building blocks, we are only technical suppliers,&quot; Gates told a panel of analysts.</p>
+<p>Microsoft, which has become one of world's most succesful companies from supplying computer software, has a joint venture with U.S. television network NBC to provide news to customers of its Windows 95 system that is used in many PCs.</p>
+<p>&quot;We found ourselves a partner with NBC, as that gets more successful we will reach out to other partners. We are looking at cable channels, and how to customise news for the computer user. We are hoping to make this the way they will get their news,&quot; Gates said.</p>
+<p>Analysts have speculated the Internet, the worldwide network of computers, could provide another business area that could become immensely profitable for Microsoft but devastate other companies which lack its resources.</p>
+<p>Gates' hints that Microsoft is unlikely to move outside its core businesses may come as a relief to companies as diverse as retailers or banks which fear their traditional markets might fall victim to his aggressive U.S.-based company.</p>
+<p>&quot;About 15 per cent of my time is spent on this (Internet) business. It's a lot (of) fun, you can call up travel information, pay bills. But getting the business model right for making money, that's the challenge,&quot; Gates said.</p>
+<p>Microsoft is developing new Internet products in the United States but might eventually seek partners around the world.</p>
+<p>&quot;We are looking at a 10-year timeframe, but kids today are getting used to the Internet as part of the educational experience,&quot; Gates said.</p>
+<p>This educational experience would provide ready-made Internet customers in the future.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANNES, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

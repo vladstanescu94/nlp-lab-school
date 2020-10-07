@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485163" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: PHLX to list MoneyGram, Visio options.</title>
+<headline>PHLX to list MoneyGram, Visio options.</headline>
+<dateline>PHILADELPHIA 1997-04-03</dateline>
+<text>
+<p>The Philadelphia Stock Exchange (PHLX) said Thursday it would list options on shares of MoneyGram Payment Systems Inc and Visio Corp on April 8.</p>
+<p>The exchange said MoneyGram options would have opening strike prices of 7-1/2, 10 and 12-1/2, with position limits of 7,500 contracts. Initial expirations are set for May, June, July and October.</p>
+<p>Visio options would open with strikes of 35, 40 and 45 and initial expirations in May, June, September and December. Position limits of 4,500 contracts have been set.  </p>
+<p>The exchange said TFM Investment Group has been named the specialist unit for both options.</p>
+<p>((--Derivatives desk, 312 408 8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

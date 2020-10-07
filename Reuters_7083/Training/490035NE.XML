@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="490035" id="root" date="1997-04-06" xml:lang="en">
+<title>USA: Microsoft to buy WebTV for $425 million.</title>
+<headline>Microsoft to buy WebTV for $425 million.</headline>
+<dateline>LAS VEGAS</dateline>
+<text>
+<p>Software giant Microsoft Corp. said Sunday it has agreed to acquire privately-held WebTV Networks Inc. for cash and stock valued at about $425 million.</p>
+<p>&quot;This partnership with WebTV underscores our strategy of delivering to consumers the benefits of the Internet together with emerging forms of digital broadcasting,&quot; said Bill Gates, chairman and chief executive of Microsoft in a statement.</p>
+<p>Founded in 1995, WebTV Networks has developed a set of technologies and guidelines for manufacturers to create set-top boxes that allow consumers to use their televisions to surf the Internet.</p>
+<p>WebTV Networks, which includes Microsoft co-founder Paul Allen among its investors, licenses its design for set-top boxes to Philips Consumer Electronics Co. and Sony Corp.</p>
+<p>&quot;WebTV Networks has developed the state-of-the-art user experience for accessing Internet content on the television,&quot; said Microsoft Senior Vice President Craig Mundie.</p>
+<p>&quot;This acquisition is the cornerstone of our long-term effort to combine the best of the Internet and the best of digital television technology,&quot; he added.</p>
+<p>WebTV Networks, based in Palo Alto, Calif., will operate as a unit of Microsoft and will continue to be managed by President and Chief Executive Officer Steve Perlman.</p>
+<p>&quot;Our vision has been to make Internet access via TV a low-cost, fun, easy and compelling experience for consumers,&quot; Perlman said. &quot;We look forward to working with Microsoft to make that experience available to an even broader range of consumers.&quot;</p>
+<p>The acquisition is subject to regulatory approval.</p>
+<p>Speaking earlier at a keynote speech at the National Associations of Broadcasters Multimedia World Conference here, Mundie said Microsoft will include key broadcasting-related technology in the Windows operating system.</p>
+<p>Future versions of Windows and Windows NT will include features that will allow personal computer users to view traditional television programmes, enhanced television programmes and Internet broadcasts, and access innovative new services such as personalized news delivery on their PCs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

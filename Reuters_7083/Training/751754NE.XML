@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751754" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE -  Orcad Q2 results.</title>
+<headline>TABLE -  Orcad Q2 results.</headline>
+<dateline>BEAVERTON, Ore. 1997-07-24</dateline>
+<text>
+<p>OrCAD, Inc.</p>
+<p>			   Consolidated Statements of Operations</p>
+<p>				  Three-Months and Six-Months</p>
+<p>					   Ended June 30</p>
+<p>					     Unaudited</p>
+<p>		   (in thousands of dollars, except per share data)</p>
+<p>								   Three-   Six-</p>
+<p>		   Three-Months    Six-Months Ended    Months   Months</p>
+<p>		   Ended June 30   Ended June 30	 % Change % Change</p>
+<p>		   1997     1996     1997     1996     97 vs 96 97 vs 96</p>
+<p>REVENUE:</p>
+<p>PRODUCT	  5,846    4,579   10,813    8,827	  28	22</p>
+<p>SERVICE	  1,157	730    2,092    1,407	  58	49</p>
+<p>TOTAL REVENUE  7,003    5,309   12,905   10,234	  32	26</p>
+<p>COST &amp; EXPENSES:</p>
+<p>COST OF REVENUE-</p>
+<p> PRODUCT	   786	395    1,401	842	  99	66</p>
+<p>COST OF REVENUE-</p>
+<p> SERVICE	   175	192	346	357	  -9	-3</p>
+<p>R&amp;D		1,385    1,150    2,669    2,155	  20	24</p>
+<p>MARKETING AND</p>
+<p> SALES	   2,799    1,813    4,831    3,508	  54	38</p>
+<p>G &amp; A		750	741    1,515    1,497	   1	 1</p>
+<p>IN-PROCESS</p>
+<p> R &amp; D	   2,203	 --    2,203	 --	  --	--</p>
+<p>TOTAL COST &amp;</p>
+<p> EXPENSES	8,098    4,291   12,965    8,359	  89	55</p>
+<p>OPERATING INCOME</p>
+<p>(LOSS)	  (1,095)   1,018	(60)   1,875	  --	--</p>
+<p>TOTAL INTEREST &amp;</p>
+<p> OTHER	     391	367	758	477	   7	59</p>
+<p>INCOME (LOSS) BEFORE</p>
+<p> TAXES	    (704)   1,385	698    2,352	  --     -70</p>
+<p>INCOME TAX EXPENSE</p>
+<p> (BENEFIT)	(247)     310	244	494	  --     -51</p>
+<p>NET INCOME</p>
+<p> (LOSS)	   (457)   1,075	454    1,858	  --     -76</p>
+<p>NET INCOME (LOSS) PER</p>
+<p>SHARE	   ($0.07)   $0.15    $0.07    $0.30</p>
+<p>WEIGHTED AVERAGE</p>
+<p>NUMBER OF COMMON AND</p>
+<p>COMMON EQUIVALENT SHARES</p>
+<p>OUTSTANDING    6,727    6,985    6,961    6,112</p>
+<p>Note - Excluding the one-time research and development charges of $2.2 million, or $.21 per share related to the acquisitions of assets from TEAM Corporation and Q Point Technology, net income for second quarter 1997 was $974,000, or $.14 per share.  Including the one-time research and development charges, net loss for second quarter 1997 was $457,000, or $.07 per share. This compares with second quarter 1996 net income of $1.1 million, or $.15 per share ($.13 per share at the 1997 estimated effective tax rate of 35 percent).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEAVERTON, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

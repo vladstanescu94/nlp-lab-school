@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="671885" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: Integrated Systems Q1 shr $0.01 vs $0.11.</title>
+<headline>Integrated Systems Q1 shr $0.01 vs $0.11.</headline>
+<dateline>SUNNYVALE, Calif. 1997-06-19</dateline>
+<text>
+<p>Condensed Consolidated Statements of Operations</p>
+<p>(in thousands, except per share data)</p>
+<p>						  Three Months Ended</p>
+<p>							 May 31,</p>
+<p>						    1997		 1996</p>
+<p>Revenue:</p>
+<p>   Product			    $	15,012     $    13,718</p>
+<p>   Services				     9,576	     9,433</p>
+<p>     Total revenue			   24,588	    23,151</p>
+<p>Costs and expenses:</p>
+<p>   Cost of product revenue		  2,873	     2,011</p>
+<p>   Cost of services revenue		 4,856	     4,174</p>
+<p>   Marketing and sales		     10,060	     8,821</p>
+<p>   Research and development		 4,802	     3,712</p>
+<p>   General and administrative	     2,446	     2,114</p>
+<p>     Total costs and expenses	    25,037	    20,832</p>
+<p>	 Income (loss) from operations    (449)	     2,319</p>
+<p> Interest and other income		    795	     1,394</p>
+<p>	 Income before income taxes	   346	     3,713</p>
+<p> Provision for income taxes		   125	     1,262</p>
+<p> Net income					 221	     2,451</p>
+<p> Earnings per share			    0.01		0.11</p>
+<p>Shares used in per share</p>
+<p>  calculations				 23,852	    22,709</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

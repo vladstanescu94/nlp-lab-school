@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66197" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: RESEARCH ALERT - Microsoft Corp.</title>
+<headline>RESEARCH ALERT - Microsoft Corp.</headline>
+<text>
+<p>-- Goldman Sachs analyst Rick Sherlund said he was not changing his rating or estimates for Microsoft Corp following news Thursday the Justice Dept. was requesting information on the company's business practices in the browser market.</p>
+<p>-- In a research report, he said it is reasonable to expect the Justice Dept. to look into these allegations, although the agency is only requesting information as part of an investigation of these issues and would need to complete an investigation before deciding whether any action might be needed.</p>
+<p>-- &quot;We believe investors have experienced numerous legal issues including a lengthy FTC and DOJ investigation previously, and believe that while this is somewhat negative, that investors are likely to have developed a rather thick skin on these sorts of issues,&quot; he said.</p>
+<p>-- He said he does not anticipate much further information for &quot;quite some time&quot; resulting from any investigation.</p>
+<p>-- Maintained rating on recommended list.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

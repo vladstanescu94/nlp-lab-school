@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107336" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Systems of Excellence says assisting SEC.</title>
+<headline>Systems of Excellence says assisting SEC.</headline>
+<dateline>CORAL GABLES, Fla. 1996-10-10</dateline>
+<text>
+<p>Systems of Excellence Inc said Thursday it is cooperating fully with the Securities and Exchange Commission, which is seeking information on the company's financial and administrative activities.</p>
+<p>Trading on the company's stock was suspended Monday by the SEC because of questions raised on the accuracy of its information.  </p>
+<p>The SEC said it ordered the suspension because of the reported financial condition, existence and value of services rendered to the company in exchange for stock issued by Systems of Excellence and questions on whether the stock was issued to consultants without registration.</p>
+<p>The SEC also questioned the reasons for changes in the company's independent accountants and sales of its video teleconferencing products.  </p>
+<p>The company quoted an unidentified spokesman as saying it is cooperating with the SEC, and that it has full confidence in its &quot;video teleconferencing product, sales force, and product development and engineering teams.&quot;</p>
+<p>The suspension is in effect from October 7 through October 21.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CORAL GABLES, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

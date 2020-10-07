@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="779055" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: Market for 3D animation products set to grow-study.</title>
+<headline>Market for 3D animation products set to grow-study.</headline>
+<dateline>LOS ANGELES 1997-08-05</dateline>
+<text>
+<p>The market for professional three dimensional, or 3D, animation software packages will grow to well over $1 billion in value by 2000, a recent study showed.</p>
+<p>Market research firm Jon Peddie Associates, which tracks digital media technologies, Tuesday said its latest study showed that total global unit sales of the software will surpass 326,000 units in 1999, up from 216,000 in 1996.</p>
+<p>The biggest growth for this market  should be in the area of computers using Microsoft Corp's Windows 95 and Windows NT software. Jon Peddie predicts 51 percent growth for Windows products, with steady growth of 34 percent seen for the total animation tool market.</p>
+<p>Those Windows-based operating systems hold 37 percent of the animation software market, the study said. Another Microsoft operating system, DOS, holds 28 percent.</p>
+<p>&quot;Hollywood and the electronic entertainment industry have spurred the demand for 3D animation content, hence the market for 3D animation tools continues to grow,&quot; said Wanda Meloni, Senior Analyst at Jon Peddie.</p>
+<p>However, she noted that a lack of creative talent presents a stumbling block for many companies. But with demand high, many colleges and educational institutes have already integrated 3D animation programs.</p>
+<p>Companies competing to make 3D animation products include Alias Wavefront of Canada, a unit of Silicon Graphics Inc, Microsoft's Softimage, and privately held Electric Image.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

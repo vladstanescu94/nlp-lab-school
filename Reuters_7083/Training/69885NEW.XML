@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69885" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: Forte Computer says acquisitions progress.</title>
+<headline>Forte Computer says acquisitions progress.</headline>
+<dateline>YOUNGSTOWN, Ohio 1996-09-23</dateline>
+<text>
+<p>Forte Computer Easy International Inc said Monday that negotiations to acquire Eagle Window &amp; Door Inc, Taylor Building Products Co and Mallyclad Corp are advancing toward the stage of reaching a definitive agreement.</p>
+<p>The company said it hopes to be ready to sign a definitive agreement with American Architectural Products Inc, which owns the three firms, in mid-October.</p>
+<p>If the deal is completed, Forte Computer Easy said it intends to change its name to American Architectural Products Inc.  </p>
+<p>Eagle Window &amp; Door is based in Dubuque, Iowa; Taylor Building Products is based in West Branch, Mich.; and Mallyclad is based in Detroit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YOUNGSTOWN, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

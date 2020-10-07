@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166906" id="root" date="1996-11-05" xml:lang="en">
+<title>NETHERLANDS: Microsoft's Gates forecasts talking, seeing PCs.</title>
+<headline>Microsoft's Gates forecasts talking, seeing PCs.</headline>
+<dateline>THE HAGUE 1996-11-05</dateline>
+<text>
+<p>Personal computer (PC) users will in the coming years be able to sit down at a machine that will recognise them, give it commands both verbally and by gesture and hear its response in a voice of their own choice.</p>
+<p>&quot;If you look out over the next five to 10 years there's no doubt that the way we interact with a computer will be far better than it is today,&quot; said Microsoft Corp chairman and chief executive Bill Gates on Tuesday.</p>
+<p>Gates was giving the keynote speech at a Microsoft convention in the Netherlands.</p>
+<p>He told delegates that a significant amount of Microsoft's $2.0 billion a year research and development budget was being focused on new ways of getting through to computers: &quot;To be able to talk to the computer and have the computer talk to you using a voice signature so it sounds like whoever you want,&quot; he said.</p>
+<p>Cameras attached to PCs for video conferencing will in future be able to see the user and new software packages will allow it to interpret gestures as commands, for instance opening and closing documents with the crook of a finger or a shake of a head.</p>
+<p>New hardware would also come onto the market continuing the spectacular leaps in technology seen since the introduction of the PC in the early 1980s, he said, with computer screens ballooning in size as users demand higher quality.</p>
+<p>&quot;The reason that people haven't all switched away from using paper based communication is because high resolution displays are not a substitute for reading large documents,&quot; he said.</p>
+<p>&quot;Sometime in three or four years, very, very large screens, even 30 or 40 inch (75-100 cm) screens, will be available as an add on to the PC.&quot; At the moment PC screens average around 14 inches (35 cm). -- Keiron Henderson, Amsterdam Newsroom +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="THE HAGUE"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

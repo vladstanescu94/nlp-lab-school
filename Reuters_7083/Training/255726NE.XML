@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255726" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Laser Storm to open laser tag arenas.</title>
+<headline>Laser Storm to open laser tag arenas.</headline>
+<dateline>DENVER 1996-12-12</dateline>
+<text>
+<p>Laser Storm said on Tursday that its strategy will focus on opening company-owned &quot;stores,&quot; or arenas, where participants play laser tag.</p>
+<p>The company said it will de-emphasize system sales, where it sells to others the systems and equipment needed for setting up the arenas.</p>
+<p>According to the company, all of the &quot;stores&quot; it opened in 1996 are already operating profitably.</p>
+<p>Laser Storm said that it has eliminated positions related to system sales and expects to save about $500,000 in 1997 from staff reductions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

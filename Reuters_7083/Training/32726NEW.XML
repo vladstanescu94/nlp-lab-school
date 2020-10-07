@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32726" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Class action suit filed against Comshare.</title>
+<headline>Class action suit filed against Comshare.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>Comshare Inc was hit with a class action suit on August 21, filed by purchasers of the company's common stock between April 17 and August 6, a law firm representing the plaintiffs said Wednesday.</p>
+<p>The complaint charges Comshare and certain of its officers with violations of federal securities laws by, among other things, misrepresenting or omitting material information about the company's financial results, a statement from the plaintiffs said.</p>
+<p>&quot;The damages have not been established yet, but we estimate we'll be asking for millions of dollars,&quot; said Marian Rosner of New York, lawyer for the plaintiffs, in a telephone interview.  </p>
+<p>Plaintiffs say Comshare reported revenue that it did not have a right to claim.</p>
+<p>&quot;We have not seen that suit,&quot; said Janet Neary, Comshare's outside attorney.&quot; It has not been served on us yet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

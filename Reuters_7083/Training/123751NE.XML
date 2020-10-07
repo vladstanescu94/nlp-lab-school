@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123751" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: White House rejects critique of new code policy.</title>
+<headline>White House rejects critique of new code policy.</headline>
+<dateline>WASHINGTON 1996-10-17</dateline>
+<text>
+<p>The Clinton administration rejected on Thursday criticism from 20 U.S. legislators of its new policy to relax export restrictions on computer encoding technology.</p>
+<p>The legislators, Democrats and Republicans, sent a letter to the administration this week attacking the new policy as probably unworkable and needlessly restrictive.</p>
+<p>&quot;If you look, there is a critical mass of industry that is working with the federal government to develop this system,&quot; Heidi Kukis, a spokeswoman in Vice President Al Gore's office said.  </p>
+<p>Under the administration policy announced Oct 1, U.S. companies could export powerful encryption programs only if the programs included a feature known as key recovery to allow the government to read encoded messages.</p>
+<p>&quot;The policy has always been based on the fact that development of a key recovery system will be market driven,&quot; Kukis said.</p>
+<p>After the administration unveiled its new policy, a number of prominent hardware firms led by International Business Machines Corp formed a consortium to propagate key recovery systems.  </p>
+<p>Software firms and online services have opposed key recovery, however.</p>
+<p>In the last session of Congress, legislators introduced several bills to relax U.S. export laws without requiring key recovery features, but the measures did not pass.</p>
+<p>Kukis pointedly rejected one charge in the letter and repeated in a press release from Sen. Ron Wyden concerning the administration's new policy.</p>
+<p>The Oregon Democrat and the letter said the Clinton policy granted the Federal Bureau of Investigation &quot;veto power&quot; over applications for exporting encryption programs.  </p>
+<p>&quot;Wyden's statement is incorrect,&quot; Kukis said. &quot;The FBI does not and will not have veto power over dual use encryption exports. It's irresponsible to suggest that they would.&quot;</p>
+<p>Rather, the FBI will have a seat on a committee to review export applications along with the departments of Defense, Commerce, State, Energy and Justice and the Arms Control and Disarmament Agency, Kukis said.</p>
+<p>&quot;The only person who will have veto power is the President himself,&quot; she said.</p>
+<p>--Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

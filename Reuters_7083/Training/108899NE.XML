@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108899" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Business Objects expects Q3 loss.</title>
+<headline>Business Objects expects Q3 loss.</headline>
+<dateline>NEW YORK 1996-10-10</dateline>
+<text>
+<p>Business Objects SA said Thursday it expects to report a net loss of about $0.02 per American Depository share in the third quarter ended September 30.</p>
+<p>In the same period the prior year, the company reported net earnings of about $0.12 per American Depository share.</p>
+<p>The results are expected to be released by October 22.</p>
+<p>The company attributed the loss to delays in releasing a version of its BusinessObjects software as it worked out the kinks with the product.  </p>
+<p>Business Objects President and Chief Executive Bernard Liautaud said in a statement that its upgrade of BusinessObjects software to Version 4 from Version 3 &quot;necessitated a prolonged product release cycle including controlled release phases and frequent updates to resolve problems discovered by customers and prospects in initial implementations and evaluations, including unsatisfactory performance on Microsoft Windows 3.1.&quot;</p>
+<p>&quot;Releases of the product available early in the third quarter did not resolve these problems sufficiently to meet customers' and prospects' deployment requirements,&quot; he said.  </p>
+<p>The company said it believes that Version 4.0.4, which was released in mid-September, represented the first release to satisfactorily address those problems.</p>
+<p>Customers and prospects, therefore, did not have enough time to complete their evaluations, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

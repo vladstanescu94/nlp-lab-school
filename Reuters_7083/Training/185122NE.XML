@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185122" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Novell, Sun Microsystems enter alliance.</title>
+<headline>Novell, Sun Microsystems enter alliance.</headline>
+<dateline>OREM, Utah 1996-11-13</dateline>
+<text>
+<p>Novell Inc and Sun Microsystems Inc said Wednesday they have entered into a strategic alliance to broaden the reach and capabilities of Sun's Java technologies to developers creating Java applications for business intranets.</p>
+<p>According to the statement, Novell will license Sun's Java WorkShop development environment, other Java technologies and WebNFS for use with its IntranetWare platform, while Sun will license Novell Directory Services (NDS) and make it available on its Solaris operating environment.</p>
+<p>The statement said intranet solutions resulting from the alliance will allow developers and business users to take advantage of the strengths of technologies from both companies. Java's platform-independent &quot;write once, run anywhere&quot; capability; and the ability of NDS to access, manage, and secure network information, it said.</p>
+<p>The intranet alliance includes a range of marketing and engineering activities to promote Java, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

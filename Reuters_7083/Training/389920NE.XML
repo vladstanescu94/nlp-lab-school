@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389920" id="root" date="1997-02-20" xml:lang="en">
+<title>USA: Lotus seeks market share with new SmartSuite.</title>
+<headline>Lotus seeks market share with new SmartSuite.</headline>
+<dateline>CAMBRIDGE, Mass. 1997-02-20</dateline>
+<text>
+<p>In a bid to reduce Microsoft Corp's dominance of the corporate software market, Lotus Development Corp unveiled a new SmartSuite version that is designed to compete with Microsoft on features and price.</p>
+<p>In a statement, Lotus, a unit of International Business Machines Corp, said SmartSuite 97 features powerful collaborative tools for corporate office workers and strong integration with the Internet.</p>
+<p>It said SmartSuite 97 will carry an estimated retail price of $399 versus the $499 price of Microsoft's rival Office suite standard edition and $599 for the Professional edition.  </p>
+<p>The standard edition of Office 97 does not include Microsoft's database product, Access, but the professional edition does. Lotus' SmartSuite includes a database for $399.</p>
+<p>Users of individual Lotus software programs, such as 1-2-3, and certain competing suites, spreadsheets, word processors, databases and presentation graphics packages will become eligible to upgrade for a price of $149, compared with $249 for Microsoft.</p>
+<p>While market research statistics vary, all agreed that Microsoft Office holds the lion's share of the suite business with well over 80 percent of the market in terms of revenues.  </p>
+<p>SmartSuite holds only 6.0 percent in terms of revenues, putting it just ahead of a third player in the market, Corel Corp's WordPerfect suite of office software.</p>
+<p>However, measured in terms of units shipped, SmartSuite's share of the market is much larger.</p>
+<p>That is because Lotus has taken advantage of its ties to parent company IBM to give away the SmartSuite product with the millions of PCs shipped by IBM in recent years, something of a Trojan Horse strategy to increase use of the product.</p>
+<p>As a result, millions of IBM PC buyers now qualify under Lotus's upgrade pricing plan of $149.  </p>
+<p>&quot;Our relationship with IBM provides us with the resources necessary to deliver productivity solutions that are both superior to the competition and moderately priced,&quot; said Jeff Papows, Lotus' president.</p>
+<p>&quot;In what is becoming a two-player, $5 billion office suite market, we're number two, so we try harder when it comes to delivering better value for business users,&quot; he said.</p>
+<p>The new SmartSuite contains a redesigned version of its 1-2-3 spreadsheet to take advantage of the faster processing capabilities of Windows 95 and NT, compared with older versions.  </p>
+<p>In addition to 1-2-3, SmartSuite 97 comprises new editions of the Word Pro word processor, Freelance Graphics presentation application, Approach database, Organizer personal information manager and other applications.</p>
+<p>It also ships with versions of Netscape Communications Corp's Navigator and Microsoft Internet Explorer, the two leading programs for browsing the Internet.</p>
+<p>SmartSuite 97 enables users to find, publish and share Internet or intranet-based information directly from within familiar desktop software programs.  </p>
+<p>SmartSuite 97 offers collaborative work features that allow users to review, route, track and consolidate their word processing, spreadsheet and presentation files and transmit them over internal corporate networks and the Internet.</p>
+<p>The product is also designed to make it easy to transmit electronic documents using the various programs found in SmartSuite via electronic mail and Lotus Notes, Lotus said.</p>
+<p>SmartSuite 97 is set to begin shipping February 28 and will be widely available at U.S. retail outlets by March 26, Lotus said.  </p>
+<p>Stand-alone versions of SmartSuite applications, including 1-2-3 97, Word Pro 97, Freelance Graphics 97 and Approach 97, will become available in English at that time.</p>
+<p>French, Italian, German, Spanish and Japanese versions of SmartSuite 97 for Windows 95 and NT are scheduled to ship simultaneously with the English version. Additional languages are due by late May.</p>
+<p>Microsoft Office, which shipped January 16, has an estimated retail price of $249 for users of older Microsoft Office products and for users of competing office suite products, a Microsoft spokeswoman said.</p>
+<p>Users upgrading from previous versions of Office qualify for a $40 rebate, bringing the cost to $209, she added.</p>
+<p>((-- E. Auchard, New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

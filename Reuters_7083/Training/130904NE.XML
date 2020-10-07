@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130904" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: AT&amp;T, Pacific Animated set deal.</title>
+<headline>AT&amp;T, Pacific Animated set deal.</headline>
+<dateline>ANNAPOLIS, Md. 1996-10-21</dateline>
+<text>
+<p>- Pacific Animated Imaging Corp (PAI) on Monday announced an alliance with AT&amp;T Corp which it said would significantly boost revenues.</p>
+<p>PAI said its Forsight division joined AT&amp;T's alliance of web site developers, giving access to AT&amp;T customers who are looking for a web presence. No financial details were given.</p>
+<p>&quot;The rapid growth of AT&amp;T's hosting services will increase PAI's public exposure and significantly enhance the sales momentum for Web site creation that we have been building over the last year,&quot; said PAI chairman John Cadigan. -- Nick Louth, New York Newsroom 212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANNAPOLIS, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

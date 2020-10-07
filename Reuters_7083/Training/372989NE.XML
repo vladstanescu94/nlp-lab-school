@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="372989" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: Internet could be stymied by bad laws, companies fear.</title>
+<headline>Internet could be stymied by bad laws, companies fear.</headline>
+<byline>Aaron Pressman</byline>
+<dateline>WASHINGTON 1997-02-12</dateline>
+<text>
+<p>Internet access providers and others who met with Net-savvy lawmakers said they fear Congress will wreak havoc on cyberspace but are also heartened by the growing number of legislators who understand the global computer network.</p>
+<p>Company representatives met Tuesday night at the Capitol with members of the Congressional Internet Caucus, about 85 legislators with a common interest in the Net, to express their hopes and fears about efforts to make laws governing cyberspace.</p>
+<p>&quot;I think it's inevitable that there will be bills introduced that attempt to legislate the content of everything on the Internet,&quot; Tom Evslin, vice president of AT&amp;T Corp.'s WorldNet Internet service, said after the meeting.</p>
+<p>Evslin said it would be as difficult to keep Congress from making wrong moves as it would be to get the legislature to act to head off problems.</p>
+<p>Bill Schrader, president of Internet provider PSINet Inc., was more blunt. &quot;Be very careful or you will destroy this industry,&quot; he warned.</p>
+<p>The members of Congress who attended the meeting pledged to try to protect the Internet.</p>
+<p>&quot;We have a lot of pretty tough work ahead of us,&quot; Representative Rick White, R-Pa., and a co-chairman of the caucus conceded. &quot;We have many, many issues coming down the pike from encryption to privacy, to copyright and taxation.&quot;</p>
+<p>Encryption is the use of software to encode and decode information.</p>
+<p>On Wednesday, White co-sponsored one of the first Internet-related bills in the 105th Congress. The bill, authored by Virginia Republican Rep Bob Goodlatte, would relax export restrictions on computer hardware and software containing encryption features.</p>
+<p>Sen. Conrad Burns, also a co-chairman, warned that, despite the caucus, legislation will always trail developments in the private sector.</p>
+<p>&quot;The government making policy is never ahead of the curve,&quot; the Montana Republican said. &quot;If we do the right thing now, I guarantee you that by the time it's passed and the president signs it, we'll be behind the curve.&quot;</p>
+<p>Last year was a mixed bag for the Internet in Congress.</p>
+<p>Legislators passed the Communications Decency Act, opposed by online companies and civil libertarians as an infringement on free speech rights, but also defeated measures that would have imposed liability on Internet providers for copyright infringement.</p>
+<p>Sun Microsystems Inc.'s chief scientist, John Gage, fretted that, with only 85 pro-Internet legislators out of 435 in the House and 100 in the Senate, most in Congress remained ignorant of the Net. &quot;We've got a long way to go,&quot; he said.</p>
+<p>Companies interested in the Internet offered some conflicting goals for Congress. Jack Valenti, president of the Motion Picture Association of America, urged the legislators to impose new laws protecting Hollywood products.</p>
+<p>&quot;Congress cannot avoid that all intellectual property has to be protected -- this can't be Dodge City without a sheriff,&quot; Valenti said. But he also praised the Internet as &quot;the most valuable and spacious information greenhouse that's ever been built.&quot;</p>
+<p>PSINet's Schrader countered that existing laws already protected movies, books and other works. &quot;Everything is not new,&quot; he said. &quot;It's the same-old, same-old.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

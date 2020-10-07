@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59080" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Sharp launches wide-screen format notebooks.</title>
+<headline>Sharp launches wide-screen format notebooks.</headline>
+<dateline>MAHWAH, N.J. 1996-09-17</dateline>
+<text>
+<p>Sharp Electronics Corp said Tuesday it launched WideNote, the industry's first wide-screen format notebook computer line.</p>
+<p>These new notebook computers feature an ultra-compact design that offers liquid crystal displays with the same ratio found in movie-theater screens, along with high-performance communications and computing capabilities, Sharp said.</p>
+<p>The new format notebooks should be available in early October, selling at about $2,999 to $3,499, Sharp said.</p>
+<p>WideNote format allows users to view two Web pages or two Microsoft Corp Windows applications simultaneously, with minimal side-to-side scrolling when viewing landscape-mode applications, such as spreadsheets, Sharp said.</p>
+<p>WideNote weighs about 4.6 pounds and has footprint smaller than a standard letter-sized pad, Sharp said.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAHWAH, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

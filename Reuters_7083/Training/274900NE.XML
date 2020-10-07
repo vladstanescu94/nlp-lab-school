@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="274900" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: NYSE sees big listings move from Nasdaq on Dec 31.</title>
+<headline>NYSE sees big listings move from Nasdaq on Dec 31.</headline>
+<dateline>NEW YORK 1996-12-24</dateline>
+<text>
+<p>At least seven companies are shceduled to move their stock listings to the New York Stock Exchange from Nasdaq in one day, on December 31, according to the NYSE.</p>
+<p>The total would be the biggest one-day exodus from Nasdaq to the NYSE, according to the NYSE.</p>
+<p>If all the moves occur on that day, a total of 95 companies will have transferred from Nasdaq to the NYSE in 1996, a new record, compared to 62 companies in 1995, the previous record.  </p>
+<p>According to the NYSE, the seven companies that are confirmed to move include: Willamette Industries Inc, Culp Inc, SITEL Corp, IPSCO Inc, PXRE Corp, JP Foodservice Co, Rock-Tenn Co.</p>
+<p>A Nasdaq spokesman was not immediately available.</p>
+<p>Some high-profile U.S. technology companies moved to the NYSE from Nasdaq earlier this year, including America Online Inc, Iomega Corp, and Bay Networks Inc.</p>
+<p>-- Jeff Benkoe, Wall Street Desk, 212-859-1730.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I47000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I8200318">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

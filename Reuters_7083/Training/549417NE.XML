@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="549417" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Bay Networks sees revenue growth in FY98.</title>
+<headline>Bay Networks sees revenue growth in FY98.</headline>
+<dateline>SAN FRANCISCO 1997-04-30</dateline>
+<text>
+<p>Bay Networks Inc Chief Financial Officer David Rynne said Tuesday the company expects revenues to begin rising again in fiscal 1998 following flat revenues in fiscal 1997.</p>
+<p>Rynne declined to say by how much he saw revenues growing.</p>
+<p>Following a presentation at a Hambrecht &amp; Quist investor conference here, he told Reuters that revenue growth will be spurred by Bay's new Internet switching product, SwitchNode.</p>
+<p>Rynne called SwitchNode &quot;the most fundamentally important switch for the future&quot; of Bay. &quot;It will become dramatically more important in the next generation of switching,&quot; he said.  </p>
+<p>Shares of Bay were up one point at 17-1/2 at midday.</p>
+<p>Through three quarters of fiscal 1997, ended March 31, Bay revenues had risen to $1.55 bln from $1.52 billion a year earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

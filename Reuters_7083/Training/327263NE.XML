@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327263" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Netscape updates commercial applications.</title>
+<headline>Netscape updates commercial applications.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-01-23</dateline>
+<text>
+<p>Netscape Communications Corp said it released new versions of its software for online commerce featuring advanced billing, advertising, publishing and merchandising features.</p>
+<p>The software -- Netscape Publishing System version 1.6 and Netscape Merchant System version 1.6 -- are aimed at companies building new businesses on their World Wide Web sites.</p>
+<p>Netscape said that more than 150 customers are using its commercial applications to deliver content, merchandise and services to consumers online, including Macromedia, National Geographic and SportsLine USA.  </p>
+<p>The new version of Netscape Publishing System includes public and private bulletin board software and enhanced searching capabilities, while the latest Netscape Merchant System version adds payment processing features such as credit, refunds and address support verification.</p>
+<p>The new merchant software also adds international features, including support for a broad range of currencies and date formats, as well as Canadian sales tax calculations.</p>
+<p>The new products include a bundled copy of Oracle Corp's Oracle 7.3 database software.  </p>
+<p>Netscape's commercial applications are developed by Actra Business Systems, a venture-funded company started by Netscape and General Electric Co's GE Information Services.</p>
+<p>The new publishing and merchant products are the first to be issued by the new Sunnyvale, Calif.-based venture company.</p>
+<p>Netscape has teamed up with more than 50 resellers, including Andersen Consulting and Electronic Data Systems, to facilitate purchase and installation of the commercial applications, which are priced starting at $60,000.  </p>
+<p>A Netscape spokeswoman said the company has also signed deals with online advertising companies NetGravity and Bellcore, or Bell Communications Research Inc, to build powerful advertising server applications.</p>
+<p>The software applications will take advantage of Netscape Publishing System in combination with NetGravity AdServer and Bellcore's Adapt/X Advertiser system, Netscape said.</p>
+<p>Bellcore currently is owned by Ameritech Corp, Bell Atlantic Corp, BellSouth Corp, NYNEX Corp, Pacific Telesis Group, SBC Communications and U S West Inc. Science Applications International Corp is due to acquire Bellcore later this year.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

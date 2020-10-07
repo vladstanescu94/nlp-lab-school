@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68791" id="root" date="1996-09-21" xml:lang="en">
+<title>DUBAI: Microsoft launches new Arabic software.</title>
+<headline>Microsoft launches new Arabic software.</headline>
+<byline>Christine Hauser</byline>
+<dateline>DUBAI 1996-09-21</dateline>
+<text>
+<p>U.S. software maker Microsoft Corp on Saturday launched Arabic language versions of its latest software programmes, with anti-piracy controls, in the Gulf and Middle East markets, an official said.</p>
+<p>&quot;The launch of Arabic versions of Windows 95 and Office 95 is a major step forward for computing in the Middle East,&quot; Microsoft Middle East General Manager Ahmed Chami said.</p>
+<p>&quot;..I think that no one can have any doubt that Microsoft is very serious about this market,&quot; he said in a statement.</p>
+<p>Microsoft's Windows 95 was released last year with much fanfare.</p>
+<p>Chami told Reuters that in addition to the United Arab Emirates the products would be launched in Saudi Arabia, Egypt, Jordan, Lebanon, Oman, Qatar, Bahrain and Kuwait.</p>
+<p>He said that the Middle East was a growing market but the issue of software piracy remained a concern.</p>
+<p>He forecast revenue growth at 40 to 45 percent a year in the Middle East and Gulf &quot;for the whole information technology (IT) community&quot;, compared to 15 to 20 percent in a mature market.</p>
+<p>&quot;I would think that they are booming markets, booming not only for Miscrosoft but for the IT community. They will be lucrative once we recoup our investments,&quot; Chami said.</p>
+<p>&quot;We think these markets are growing very fast compared to more mature markets. They have a lot of potential that has not been exploited or tapped especially because of piracy.&quot;</p>
+<p>The statement said Microsoft built anti-piracy controls into its programmes, including designs to frustrate disk-copying.</p>
+<p>&quot;The most important progress has been in the UAE, followed by Egypt. But we are far from being satisfied. Saudi and other countries have to take a much tougher stance,&quot; Chami said.</p>
+<p>The software piracy watchdog Business Software Alliance (BSA), of which Microsoft and other major software firms are members, has said software piracy losses in 1995 were about $100 million in Saudi Arabia, the highest in the Gulf.</p>
+<p>&quot;Selling legitimate copies...is as important as getting the products to the market at all,&quot; said BSA Middle East Director Ashok Sharma in the statement. &quot;...we are confident that the market is heading in the right direction towards legitimacy..&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

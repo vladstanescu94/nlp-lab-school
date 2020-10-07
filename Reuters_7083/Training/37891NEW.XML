@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37891" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: RESEARCH ALERT - Remedy EPS, rating raised.</title>
+<headline>RESEARCH ALERT - Remedy EPS, rating raised.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist raised its rating on shares of Remedy Corp to strong buy from buy after the company completed its 1997 planning with a &quot;very positive outlook on all fronts.&quot;</p>
+<p>-- Hambrecht &amp; Quist also raised its 1996 earnings estimate to $0.95 a share on revenues of $74.7 million from $0.91 a share on revenue of $73.5 million. It raised the company's 1997 estimate to $1.44 a share on revenue of $121.5 million from $1.10 a share on revenue of $105 million.</p>
+<p>-- The investment firm expects growth from large account wins and repeat business, product uptake in the Windows NT market and new opportunities overseas, especially in Asia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

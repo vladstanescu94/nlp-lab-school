@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="614292" id="root" date="1997-05-26" xml:lang="en">
+<title>USA: Netscape seen unveiling database links.</title>
+<headline>Netscape seen unveiling database links.</headline>
+<dateline>PALO ALTO, Calif. 1997-05-26</dateline>
+<text>
+<p>Netscape Communications Corp is moving to develop high-performance links between its software and mainstream business applications such as databases, industry sources said.</p>
+<p>The new capabilities, part of Netscape's &quot;crossware&quot; strategy to enable companies to link with customers, suppliers and collaborators using cost-effective Internet technologies, are due to be unveiled ahead of Netscape's Development Conference in San Jose next month.  </p>
+<p>A Netscape spokeswoman declined to comment, but industry sources said industry allies such as Sun Microsystems Inc and Information Builders, a New York-based middleware company, were working with Netscape to extend its technology.</p>
+<p>The new software is expected to enable Netscape customers to establish high-speed access to existing business applications, such as databases supplied by Oracle Corp and Informix Corp.</p>
+<p>A spokesman for Information Builders declined to discuss details of its work with Netscape, but said the company will brief analysts and reporters next week on products which combine its technology with Netscape's.  </p>
+<p>Last Friday, PC Week Online also reported Netscape will unveil a new component strategy that ties together its crossware applications, enabling developers to snap together components to run on various computer systems.</p>
+<p>The components would include a collection of Hyper Terminal Markup Language (HTML), JavaScript, Common Object Request Browker Architecture (CORBA) and JavaBeans - emerging Internet standards, PC Week Online said.  </p>
+<p>It also said Netscape would release the final version of its Communicator product, which includes the fourth generation of its browser software plus collaboration features, at the show in the second week of June.</p>
+<p>Netscape officials have said the final version of the software will be out in about the next three weeks, giving it up to five months leap on its larger rival Microsoft Corp, but last week Mike Homer, senior vice president of marketing, declined to say whether this meant it would be out in time for the gathering of developers.  </p>
+<p>He did say, however, that Netscape developers were working under an imperative to ship the multi-faceted product as soon as possible.</p>
+<p>Netscape, based in Mountain View, Calif., unveiled its crossware strategy in February, and has said over the next year it plans to deploy capabilities that allow companies to link existing systems using Internet technology.</p>
+<p>(sam.perry@reuters.com, Palo Alto Bureau 415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

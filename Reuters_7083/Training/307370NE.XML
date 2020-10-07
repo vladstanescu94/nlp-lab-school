@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="307370" id="root" date="1997-01-14" xml:lang="en">
+<title>HONG KONG: China Wide Web intranet due to launch in February.</title>
+<headline>China Wide Web intranet due to launch in February.</headline>
+<dateline>HONG KONG 1997-01-14</dateline>
+<text>
+<p>Bay Networks Inc and the China Internet Corp (CIC), controlled by Beijing's state news agency, have formed a partnership to design and implement a nationwide intranet in China, the two companies said on Tuesday.</p>
+<p>The companies declined to disclose the value of the deal which will establish a network covering more than 50 cities in China, 20 of them by the end of this year.</p>
+<p>An intranet is an internal network which uses Internet global computer network technology. Access in and out of the intranet is possible -- intranets can be linked to the Internet proper -- but access can be controlled.</p>
+<p>The first phase connecting Hong Kong, Shanghai, Beijing and the southern city of Guangzhou was expected to be launched next month, offering tailored information mostly in Chinese to government entities, joint ventures and corporations in China.</p>
+<p>The customised intranet, designated the China Wide Web (CWW), would ride on the official Xinhua news agency's satellite network, Michael McLeod, director of sales and marketing at CIC (Hong Kong) Ltd, told a news conference.</p>
+<p>Bay Networks is responsible for providing the network design, Internet hardware and network management software products, and training for CIC engineers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

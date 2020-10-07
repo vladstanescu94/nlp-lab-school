@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164379" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: System Software says accountants urge restatement.</title>
+<headline>System Software says accountants urge restatement.</headline>
+<dateline>CHICAGO 1996-11-04</dateline>
+<text>
+<p>System Software Associates Inc said on Monday it had been advised by Price Waterhouse LLP that the accountants find the company's 1994 and 1995 financial statements were materially misstated and should be corrected through restatement.</p>
+<p>System Software Chairman and Chief Executive Roger Covey said, &quot;With respect to fiscal 1994, PW (Price Waterhouse) has advised SSA that the revenue relating to one material contract should not have been recognized in fiscal 1994. SSA completely disagrees with PW's new position on this issue.&quot;  </p>
+<p>He added, &quot;That contract was the subject of subsequent well-publicized litigation resulting in a settlement pursuant to which SSA wrote off certain of its previously recognized income. Although it is possible that additional write-offs may occur in the future, all of these are covered by existing reserves.&quot;</p>
+<p>Covey also said that &quot;with respect to the 1995 fiscal year, PW has notified SSA that the revenue from two Latin American contracts with the same customer should not have been recognized in 1995. SSA completely disagrees with PW's new position on this issue.&quot;  </p>
+<p>The company also said it disagreed with PW on other issues. PW no longer serves as the company's accountants.</p>
+<p>Covey said, &quot;The current financial condition of the firm would not be affected by any of these possible changes. Further, there would be no impact on any of the company's on-going plans and programs relative to any aspect of the business.</p>
+<p>&quot;Given the company's complete disagreement with PW on all of these issues, SSA has requested that KPMG Peat Marwick reaudit fiscal 1994 and 1995.&quot;</p>
+<p>SSA sells business information systems.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

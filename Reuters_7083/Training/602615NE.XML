@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602615" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: IBM seen as a Microsoft Windows NT booster.</title>
+<headline>IBM seen as a Microsoft Windows NT booster.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-05-20</dateline>
+<text>
+<p>As Microsoft Corp was showcasing its latest Windows NT technology in New York Tuesday, the company's high-end operating system was winning support from an unlikely corner -- International Business Machines Corp.</p>
+<p>IBM executives have begun showing a newfound fondness for the Windows NT market, refering to it in terms that just months ago might have been deemed traitorous.</p>
+<p>&quot;IBM is providing more software on NT than Microsoft Corporation,&quot; boasts Jocelyne Attal, IBM's vice president of NT marketing and a former executive of Microsoft networking rival Novell Inc.</p>
+<p>Not only that, but IBM intends to haunt its former close allies at Microsoft's Redmond, Wash., headquarters by becoming the dominant supplier of Windows NT products and services.</p>
+<p>Attal said in an interview IBM aims to compete by offering the broadest range of hardware, software and services for Windows NT, a dramatic shift for the computer giant.</p>
+<p>Big Blue gave Microsoft its first big industry boost when it struck a deal 25 years ago with Microsoft CEO Bill Gates to supply the basic operating software for the IBM PC, but had a falling out in 1991 over Microsoft's Windows system.</p>
+<p>The two companies had been collaborating over a next generation operating system for IBM, known as OS/2, which Microsoft had been developing for IBM before deciding to throw its weight behind upgrades of its Windows system instead.</p>
+<p>IBM, whose total software business at $13.8 billion is still nearly 30 percent greater than Microsoft's revenues, is shaking off its pride and embracing NT, analysts said.</p>
+<p>&quot;The political, religious and technological battles between Microsoft with its NT operating environment and IBM...have ended,&quot; the Aberdeen Group stated in a recent report on IBM's new NT strategy.</p>
+<p>By offering customers end-to-end solutions, Attal said IBM aims to outflank rivals in hardware and software combined.</p>
+<p>Aberdeen Group currently ranks Compaq Computer Corp as the market leader in NT systems, with roughly 35 percent of the market, while Hewlett-Packard Co. and IBM are vying for second place with about 16 percent each.</p>
+<p>Both Compaq and HP are working closely with Microsoft, but IBM aims to provide a broader array of offerings.</p>
+<p>IBM aims to provide NT-based offerings ranging from reselling Microsoft NT-based products, including Microsoft's BackOffice business applications family, to alternatives it can provide which have had a longer time on the market.</p>
+<p>New BackOffice features were among a series of new developments Microsoft demonstrated Tuesday in New York in its so-called &quot;Scalability Day,&quot; along with new updated products.</p>
+<p>Attal said IBM is offering an NT practice with &quot;very targeted services around the NT platform,&quot; including its own expertise in supporting customers' systems around the clock with more than 1,200 service personnel around the world.</p>
+<p>NT services alone could be a $10 billion business by the year 2000, the IBM executive said.</p>
+<p>IBM's Lotus Development Corp unit, whose workgroup products compete with Microsoft and Netscape Communications Corp, is a key product in Big Blue's effort, and shipped more NT products than any others last quarter.</p>
+<p>&quot;Every software we have is available on NT. Every software we will have will be released on NT,&quot; she said.</p>
+<p>This includes programs ranging from its DB2 industrial-strength database software to transactional service software tools. IBM promotes itself as a one-stop shop for NT.</p>
+<p>&quot;In order to get what IBM is providing on NT, you have to go to 20 different vendors right now,&quot; Attal said.</p>
+<p>To keep up with Microsoft's developments, IBM has around 200 people working in Kirkland, Wash., near Microsoft's main campus, testing NT hardware and software. But despite the latter-day conversion to the Windows NT fan club, IBM does not expect to cozy up to Microsoft any more than it already has to establish good techical dealings.</p>
+<p>&quot;We have to recognize where NT's good and where it won't sell,&quot; said Attal, adding the ability to run complex business applications which cannot be allowed to fail is, in IBM's view, &quot;not something you can build overnight.&quot;</p>
+<p>&quot;I don't think you'll see Bill Gates back on stage with (IBM CEO) Louis Gerstner any time soon,&quot; she added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203236" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: NGFA, GE unit to offer grain trade software.</title>
+<headline>NGFA, GE unit to offer grain trade software.</headline>
+<dateline>WASHINGTON 1996-11-20</dateline>
+<text>
+<p>National Grain and Feed Association (NGFA) Wednesday said it has teamed up with a General Electric Co unit to offer software and a network that will enable grain companies to do more business electronically.</p>
+<p>The trade association said the software, which will be available in December, will allow companies to transmit inspection certificates and bills of lading electronically.</p>
+<p>It said upgrades of the software, to be released later in 1997, will allow electronic settlement of feed grain, feed, feed ingredients and other grain products transactions.  </p>
+<p>NGFA said in addition to the software, GE Information Services Inc will provide a network to route and protect the integrity of information.</p>
+<p>NGFA said the customized software will have a price tag of $895 for members and $1,595 for non-members. It said the fee for the network was not set but would likely be based on cost per document and would be signficantly less than mailing.</p>
+<p>It said the new technology would provide a standardized electronic format for key grain transactions, cut down on paperwork and reduce the chance for human error.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

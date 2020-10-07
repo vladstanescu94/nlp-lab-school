@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249794" id="root" date="1996-12-11" xml:lang="en">
+<title>INDIA: India's Mafatlal in insurance software tie-up.</title>
+<headline>India's Mafatlal in insurance software tie-up.</headline>
+<dateline>BOMBAY 1996-12-11</dateline>
+<text>
+<p>India's Mafatlal Consultancy Services (I) Ltd, a leading software solutions and consultancy firm, has tied-up with Norwegian firm Continuum SICS to market insurance software in India, the Indian firm said.</p>
+<p>Mafatlal Consultancy Services, a member of the Arvind Mafatlal group, said it will represent Continuum locally and market their insurance reinsurance software product.</p>
+<p>It said in a statement that Continuum is the world's leading supplier of software and consultancy services for the reinsurance and insurance industry.</p>
+<p>India's insurance sector is dominated by state firms but is likely to be opened to the private sector under the country's economic reforms programme.</p>
+<p>-- Bombay newsroom 91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

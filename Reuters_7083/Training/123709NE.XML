@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123709" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Microware enters pact with Corel, eyes other deals.</title>
+<headline>Microware enters pact with Corel, eyes other deals.</headline>
+<dateline>NEW YORK 1996-10-17</dateline>
+<text>
+<p>Microware Systems Corp's pact with Corel Corp is but the first of several alliances the firm hopes to make for its OS-9 real-time operating system this fall, the company said.</p>
+<p>&quot;There's a lot of activity in our business,&quot; said Ken Kaplan, Microware's chief executive. &quot;I think you will see a series of announcements, both from us and our customers, continuing through the fall.&quot;</p>
+<p>Real-time operating systems are slimmed down versions of full-scale software operating systems that can be used to run consumer electronics devices or small handheld computers.  </p>
+<p>On Thursday, Microware said Corel will use OS-9 as the platform for products using Corel's Java-based programming language, including Corel's business software suite composed of Wordperfect and the spreadsheet Quatrro Pro.</p>
+<p>The Corel deal also allows Microware, whose OS-9 package will enable users of devices like handheld terminals that access the internet, to license Corel's Office software to its customers.</p>
+<p>&quot;Offering technology like the Corel Office for Java means that people...can access the same documents and databases while they are on the road, or even through a TV set potentially, that they can through their desktop today,&quot; Kaplan said.</p>
+<p>He added that other deals are in the works.</p>
+<p>&quot;It's pretty well known that IBM is basing their wireless internet products on our operating system,&quot; he said, though no products have been officially announced.</p>
+<p>The OS-9 operating system is expected to draw stiff competition from giants like Microsoft Corp and Apple Computer Inc for the non-desktop PC market.</p>
+<p>Up to 22 million of these appliances, such as personal digital assistants, could be in use by the year 2000, according to a study by International Data Corp.</p>
+<p>-- Franklin Paul, New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

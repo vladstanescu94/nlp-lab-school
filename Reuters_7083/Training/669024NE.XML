@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="669024" id="root" date="1997-06-18" xml:lang="en">
+<title>USA: Oracle shares fall after earnings.</title>
+<headline>Oracle shares fall after earnings.</headline>
+<dateline>PALO ALTO, Calif. 1997-06-18</dateline>
+<text>
+<p>Oracle Corp shares fell as much as 6.1 percent Wednesday after the software company's earnings failed to match Wall Street's more optimistic forecasts.</p>
+<p>&quot;They had a fine quarter but they didn't blow out the numbers,&quot; said Joe Farley, a software analyst at investment bank UBS Securities in New York. &quot;A lot of times when tech stocks don't blow their numbers out, they get a backlash.&quot;  </p>
+<p>After the market closed Tuesday, Oracle, the world's second-biggest software company, said its fiscal fourth quarter earnings rose 35 percent from a year earlier, to $359.9 million, or $0.54 a share.</p>
+<p>That matched Wall Street's consensus forecast, according to First Call, but fell short of some investors' expectations.</p>
+<p>Oracle shares were down 2-3/4 at 50-1/2. Earlier, the shares traded as low as 50.</p>
+<p>In recent days, talk of huge contracts for Oracle's database and manufacturing software had boosted the stock, analysts said.</p>
+<p>Oracle executives would not discuss particular contracts but said they had plenty of business lined up heading to the first fiscal quarter.</p>
+<p>The optimistic outlook, however, was overshadowed by growing concerns about flagging revenue in the technology business.</p>
+<p>Yesterday, disk-drive maker Seagate Technology Inc and PC company Gateway 2000 Inc said their quarterly earnings will be less than expected because of weak sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

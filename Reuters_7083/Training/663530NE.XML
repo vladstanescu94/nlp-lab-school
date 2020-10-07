@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="663530" id="root" date="1997-06-16" xml:lang="en">
+<title>USA: Microsoft sues for copyright infringement.</title>
+<headline>Microsoft sues for copyright infringement.</headline>
+<dateline>NEW YORK 1997-06-16</dateline>
+<text>
+<p>Microsoft Corp sued B. Computer International Ltd in New York City, for copyright and trademark infringement, according to a complaint filed by Microsoft in the U.S. District Court for the Southern District of New York.</p>
+<p>Microsoft said in its complaint that B. Computer loaded, marketed, distributed and advertised copies of Microsoft's software products without Microsoft's authorization.</p>
+<p>Balla Sissoko, the owner and operator of B. Computer, said he has no knowledge of this lawsuit.</p>
+<p>Microsoft's complaint alleged that B. Computer has failed to make payments it agreed to make after B. Computer sold a computer with an unauthorized version of Microsoft's software loaded onto it to an undercover Microsoft agent. Microsoft said Sissoko agreed to stop selling unauthorized copies of Microsoft's software and make five timely settlement payments.</p>
+<p>Microsoft has requested permanent injunctive relief, damages and attorneys' fees in its complaint.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

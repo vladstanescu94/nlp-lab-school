@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581430" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Silicon Graphics buys ParaGraph, sets up 3-D unit.</title>
+<headline>Silicon Graphics buys ParaGraph, sets up 3-D unit.</headline>
+<byline>Samuel Perry</byline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-05-14</dateline>
+<text>
+<p>Silicon Graphics Inc. said Wednesday it agreed to acquire ParaGraph International, a company that makes three-dimensional Internet software for personal computers.</p>
+<p>Silicon Graphics also said it is establishing a new company, called Cosmo Software, to focus on the fast-emerging market for interactive 3-D Internet software, which runs on multiple computer systems.</p>
+<p>ParaGraph will be integrated into the new Cosmo unit, which will spearhead Silicon Graphics' Second Web initiative to bring more engaging multimedia content and applications to the World Wide Web.</p>
+<p>Financial terms of the acquisition were not disclosed.</p>
+<p>Founded in 1989 by world chess champion Garry Kasparov, Stepan Pachikov and prominent Russian scientists, ParaGraph has become a leader in virtual reality and three-dimensional Web tools and software, as well as pen-based technologies.</p>
+<p>Kasparov still holds an unspecified stake in ParaGraph, which is based in Campbell, Calif., with research and development activities both there and in Moscow.</p>
+<p>Silicon Graphics, which has been struggling to put its financial house in order after a series of quarterly profit shortfalls and a sweeping but turbulent product transition, said the value of the deal was not financially material.</p>
+<p>Dr. Kai-Fu Lee, named president of Cosmo Software, said Forrester Research estimates that by the year 2000 the market it is addressing will exceed $500 million in revenues.</p>
+<p>Cosmo Software will combine the two companies' product lines, which include free 3-D browsers and revenue-generating products ranging from authoring tools for $39 to Cosmo server products that cost upward of $2,000.</p>
+<p>Silicon Graphics has been active in the emerging business of creating three-dimensional environments on the Web and has bundled its Cosmo Player virtual reality browser with ParaGraph's Internet3D family of authoring tools.</p>
+<p>The company intends to expand the partnership to make it possible for consumers to create their own 3-D worlds.</p>
+<p>ParaGraph set out to help people build their own virtual worlds, including 3-D Web sites inhabited with digital personalities known as avatars.</p>
+<p>Paragraph boasts an in-house team of 90 scientists, engineers and digital artists among a total of 140 employees, around 100 of whom are at its facilities in Russia.</p>
+<p>Before the acquisition, ParaGraph projected its revenues will roughly double this year to $12 million.</p>
+<p>The acquisition comes as the market for software capable of authoring and displaying 3-D multimedia graphics is heating up. Just one week ago, Microsoft Corp. snapped up Dimension X, a privately held San Francisco startup that provides 3D multimedia authoring software.</p>
+<p>Industry sources said the estimated price tag on each of the two transactions was less than $50 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

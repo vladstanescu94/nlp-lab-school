@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="553810" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: Acclaim embarked on cost-cutting plan.</title>
+<headline>Acclaim embarked on cost-cutting plan.</headline>
+<dateline>GLEN COVE, N.Y. 1997-05-01</dateline>
+<text>
+<p>Acclaim Entertainment Inc said on Thursday that it had embarked on a cost cutting plan to eliminate 115 positions at its Glen Cove headquarters, consolidate administrative and operational functions and reduce operating budgets in a bid to reach annualized savings of about $40 million.</p>
+<p>&quot;It is anticipated that through the implementation of these measures that the company will become cash-flow positive based on our current operating plans,&quot; said Gregory Fischbach, Acclaim president and chief executive officer.</p>
+<p>In April, the company reported a second quarter loss of $16.8 million, compared with a $55.8 million loss for the same quarter in 1996.</p>
+<p>Acclaim Entertainment is a publisher of software for video game and personal computer hardware systems and also publishes comic books under a variety of imprints.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLEN COVE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

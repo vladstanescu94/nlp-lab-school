@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207360" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: CONSENSUS: U.S. corporate earnings surprise data.</title>
+<headline>CONSENSUS: U.S. corporate earnings surprise data.</headline>
+<text>
+<p>Earnings surprise for November 20, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks.</p>
+<p>COMPANY		  ESTIMATE  ACTUAL  PCT SURPRISE</p>
+<p>LEARMONTH &amp; BURCH     -0.02     0.01	150.00%</p>
+<p>WIND RIVER SYS	   0.15     0.19	 26.67%</p>
+<p>VIRCO MANUFG	     0.70     0.85	 21.43%</p>
+<p>WET SEAL INC -A	  0.25     0.30	 20.00%</p>
+<p>TARRAGON OIL &amp; GAS     0.11     0.13	 18.18%</p>
+<p>JUST FOR FEET	    0.17     0.20	 17.65%</p>
+<p>GOODYS FAM CLTH	  0.18     0.21	 16.67%</p>
+<p>INTERSOLV INC	    0.06     0.07	 16.67%</p>
+<p>BLUE SQUARE -ISR	 0.22     0.25	 13.64%</p>
+<p>ENGLE HOMES INC	  0.39     0.44	 12.82%</p>
+<p>PARACELSUS HLTH	  0.11    -0.10     -190.91%</p>
+<p>NOR WESTERN BREW	-0.08    -0.23     -187.50%</p>
+<p>SAVANNAH FOODS	   0.08     0.02	-75.00%</p>
+<p>JAN BELL MKTG	   -0.07    -0.11	-57.14%</p>
+<p>HECHINGER CO	    -0.16    -0.24	-50.00%</p>
+<p>GOOD GUYS		 -0.37    -0.55	-48.65%</p>
+<p>SPORTMARC INC	   -0.11    -0.16	-45.45%</p>
+<p>BOOMTOWN INC	     0.13     0.08	-38.46%</p>
+<p>FERRELLGAS -LP	  -0.30    -0.33	-10.00%</p>
+<p>SCB COMP TECH	    0.23     0.21	 -8.70%</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I64600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

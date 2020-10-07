@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567104" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Health Systems Design Corp Q2 loss narrows.</title>
+<headline>Health Systems Design Corp Q2 loss narrows.</headline>
+<dateline>OAKLAND, Calif. 1997-05-06</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>					March 31,	    March 31,</p>
+<p>				    1997	 1996     1997     1996</p>
+<p>Revenues:</p>
+<p>   System sales		$3,503    $2,281  $ 6,361   $4,193</p>
+<p>   Services and other	   619	 509    1,084	852</p>
+<p>     Total revenues	   4,122     2,790    7,445    5,045</p>
+<p> Cost of revenues:	    1,391	 880    2,727    1,584</p>
+<p>     Gross margin	     2,731     1,910    4,718    3,461</p>
+<p>Operating expenses:</p>
+<p>General and</p>
+<p>    administrative	    1,444	 860    2,778    1,525</p>
+<p>   Sales and marketing	  978	 679    2,048    1,098</p>
+<p>   Product development	  930	 807    1,787    1,497</p>
+<p>Total operating</p>
+<p>	expenses		  3,352     2,346    6,613    4,119</p>
+<p>     Loss from operations   (621)     (436)  (1,895)    (658)</p>
+<p> Interest income (expense)    178     (327)	361    (389)</p>
+<p>Loss before provision</p>
+<p>    for income taxes	  (443)     (763)  (1,534)  (1,047)</p>
+<p> Provision for income taxes    --	  --	 --	 --</p>
+<p> Net loss			 (443)     (763)  (1,534)  (1,047)</p>
+<p> Net loss per share	  (0.07)    (0.14)   (0.24)   (0.21)</p>
+<p>Weighted average shares</p>
+<p>  outstanding		   6,456     5,271    6,446    4,998</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

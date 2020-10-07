@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="636837" id="root" date="1997-06-04" xml:lang="en">
+<title>JAPAN: Netscape founder says new software is &quot;complete&quot;.</title>
+<headline>Netscape founder says new software is &quot;complete&quot;.</headline>
+<dateline>TOKYO 1997-06-04</dateline>
+<text>
+<p>Netscape Communications Corp co-founder Marc Andreessen said on Wednesday that the final version of the company's Communicator 4.0 Internet software will have a complete set of functions to support users.</p>
+<p>&quot;Communicator, which comes out this month, is an attempt to build a complete set of tools, a complete set of capabilities that people need to live and work in the network itself,&quot; Andreessen said in his keynote speech at a Tokyo exhibition.</p>
+<p>Andreessen is in Japan for the first time since he set up the pioneer Internet software company with Silicon Graphics Inc's founder James Clark in April 1994.</p>
+<p>The final versions of Netscape's Communicator 4.0 Internet software and SuiteSpot 3.0 server products will be released next week, to coincide with the company's third software developer conference starting on June 11, he said.</p>
+<p>Andreessen did not make any comments on whether the company will be delivering the software on time.</p>
+<p>Analysts in the United States have been divided over the last several months over whether the Mountain View, California-based company will be able to ship the software on schedule.</p>
+<p>Communicator, available in preliminary, or beta, versions since late last year, combines a large set of new features including upgraded electronic mail capabilities, collaboration and a &quot;Netcaster&quot; capability which enables users to receive updated information from the Internet.</p>
+<p>Andreessen told the Tokyo exhibition that the recent decision to merge Navio Communications Inc, which is owned by Netscape and other investors, into a software unit of Oracle Corp is part of its efforts to promote network computers.</p>
+<p>&quot;The reason (for the merger) is to be able to push forward the idea of the network computer,&quot; he said.</p>
+<p>Network computers are similar to personal computers (PCs), although they contain fewer electronic components and, because they get their computing power from computer networks, they are expected to be cheaper than PCs.</p>
+<p>Netscape, which makes an Internet browser used by millions of people worldwide, has been facing fierce competition with software giant Microsoft Corp, which began offering its Internet browser Explorer in August 1995.</p>
+<p>But Andreesen told reporters on Tuesday that, &quot;Our primary competitor is not actually Microsoft's Explorer. Our competitors are Lotus Notes and Microsoft Back Office.&quot;</p>
+<p>Those programs, known as groupware, are designed primarily to enable the sharing of information among multiple users.</p>
+<p>--Yuzo Saeki/Tokyo Equities Desk +81-3-3432-7443</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

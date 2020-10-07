@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="348986" id="root" date="1997-01-31" xml:lang="en">
+<title>GERMANY: SAP details 1996 results.</title>
+<headline>SAP details 1996 results.</headline>
+<dateline>WALLDORF, Germany 1997-01-31</dateline>
+<text>
+<p>German software developer SAP AG announced the following results for 1996. All figures are in millions of marks, unless otherwise noted.</p>
+<p>			    1996		 1995	   Pct change</p>
+<p>    Net profit	    567		  405	   +40</p>
+<p>    Pretax profit	 966		  674	   +43</p>
+<p>    Revenue	     3,722		2,696	   +38</p>
+<p>	Product sales   2,631		1,934	   +47</p>
+<p>	Consulting rev    735		  499	   +52</p>
+<p>	Training rev	306		  225	   +63</p>
+<p>	Other rev	    50		   38	   +72</p>
+<p>-- Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

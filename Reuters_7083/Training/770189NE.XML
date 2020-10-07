@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="770189" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: Informix names Finocchio chairman.</title>
+<headline>Informix names Finocchio chairman.</headline>
+<dateline>MENLO PARK, Calif. 1997-07-31</dateline>
+<text>
+<p>Informix Corp Thursday named Chief Executive Officer Bob Finocchio as its chairman of the board of directors, replacing Phil White, who resigned his seat on the board.</p>
+<p>Last week, Finocchio replaced White as president and chief executive officer.</p>
+<p>&quot;Now that we have Bob Finocchio in place as chief executive officer, I agree with the board that the company is best served with one clear leader to take a new view of the company's direction,&quot; White said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

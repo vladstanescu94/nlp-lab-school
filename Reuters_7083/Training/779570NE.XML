@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="779570" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: Microsoft set to buy VXtreme, industry sources say.</title>
+<headline>Microsoft set to buy VXtreme, industry sources say.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1997-08-05</dateline>
+<text>
+<p>Microsoft Corp. plans to announce Tuesday that it will acquire Internet startup VXtreme Inc., industry sources said.</p>
+<p>One of the sources familiar with the deal said late Monday that Microsoft's acquisition price values VXtreme at $75 million. That compares with the $1 million in initial seed money with which the fledgling company was founded some 18 months ago.</p>
+<p>Officials of the two companies confirmed that VXtreme would be part of a Microsoft announcement but declined to comment on industry reports of an imminent purchase that have circulated on the Internet and in trade newspapers.</p>
+<p>VXtreme, which employs about 90 people from its base in Sunnyvale, Calif., makes software to allow &quot;streaming,&quot; or continuous delivery of audio and video over the Internet.</p>
+<p>Its biggest rival is Seattle-based Progressive Networks Inc., which last month also got a vote of confidence from Microsoft in the form of a licensing agreement and equity investment.</p>
+<p>Industry analysts say the two companies offer different technologies that ultimately could serve different Internet delivery needs.</p>
+<p>Progressive, best known for its RealAudio player which is ubiquitous on the Internet, is supported by scores of content providers and claims an 85 percent share of the market for streaming audio players.</p>
+<p>The three-year-old company, founded by a former Microsoft executive, is pushing aggressively into video and plans to make its own announcement Tuesday with long-distance telephone company MCI Communications Corp.</p>
+<p>VXtreme, founded in 1996 by a Stanford University professor and student, is known for video technology used by CNN Interactive, among others, for delivery over the Internet.</p>
+<p>&quot;Progressive is more along lines of a broadcast technology, more like push, where VXtreme is more along the lines of pull,&quot; said Rob Enderle, an analyst at Giga Information Group.</p>
+<p>He said VXtreme's technology was well-suited for video on demand such as training.</p>
+<p>Through its alliances with Progressive and VXtreme, Microsoft is positioning itself to define standards for sending audio and video over the Internet as the worldwide computer network becomes more like television.</p>
+<p>Enderle called the market potential &quot;very large.&quot;</p>
+<p>&quot;We're kind of in the same phase televisions were in the early 1950s,&quot; he said. &quot;People are trying to figure out what to put out on it.&quot;</p>
+<p>Microsoft said its announcement would include details about version 2.0 of its NetShow client and server software for delivering streaming media over the Internet.</p>
+<p>Investors in Vxtreme, which raised $10 million in a venture round last year, include Cisco Systems, Softbank Corp. of Japan and Informix Software in addition to top Silicon Valley executives.</p>
+<p>VXtreme will be moved to Washington state to be near Microsoft's Redmond, Wash., headquarters, sources said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="153697" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: DataWorks completes DCD acquisition.</title>
+<headline>DataWorks completes DCD acquisition.</headline>
+<dateline>MINNEAPOLIS 1996-10-30</dateline>
+<text>
+<p>DataWorks Corp, based in San Diego, Calif., said Wednesday it completed the previously announced acquisition of DCD Corp, a Minneapolis software company.</p>
+<p>The agreement was signed in August, when DataWorks said it planned to issue 1.8 million shares of its common stock to pay for the acquisition.</p>
+<p>DCD develops management software for job shop control.</p>
+<p>DataWorks supplies software for midrange manufacturers.</p>
+<p>Separately, DataWorks said  TKS Informatique Inc of Montreal, Canada, has begun selling DCD's Vantage integrated manufacturing software system in Quebec.</p>
+<p>It said TKS' first Vantage customer is  EZEFLOW, a pipeline fittings manufacturer based in Granby, Quebec.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

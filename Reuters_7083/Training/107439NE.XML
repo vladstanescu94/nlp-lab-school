@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107439" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Microsoft to spend $100 mln on MSN in FY97.</title>
+<headline>Microsoft to spend $100 mln on MSN in FY97.</headline>
+<dateline>REDMOND, Wash. 1996-10-10</dateline>
+<text>
+<p>Microsoft Corp will spend $100 million in the current fiscal year to market its relaunched Microsoft Network (MSN) online service, a company executive said Thursday.</p>
+<p>Laura Jennings, an MSN vice-president, said at a briefing here for press and analysts that company executives did not expect the service to become profitable for &quot;at least three years.&quot;</p>
+<p>She said the service has implemented a new billing system to resolve problems that have caused lengthy delays, and the network now has the capacity to handle six to seven million subscribers.</p>
+<p>Because of billing problems, many subscribers have not received bills for up to three months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

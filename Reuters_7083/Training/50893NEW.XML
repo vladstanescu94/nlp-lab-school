@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50893" id="root" date="1996-09-12" xml:lang="en">
+<title>AUSTRALIA: RTRS-ISR year net loss A$4.85 mln.</title>
+<headline>RTRS-ISR year net loss A$4.85 mln.</headline>
+<dateline>SYDNEY 1996-09-12</dateline>
+<text>
+<p>Year to June 30</p>
+<p>		 (million A$ unless stated)</p>
+<p>    Operating			 loss 4.17 vs loss 2.69</p>
+<p>    Net				 loss 4.85 vs loss 3.32</p>
+<p>    Final dividend (cents)		nil vs nil</p>
+<p>    Total dividend (cents)		nil vs nil</p>
+<p>    Sales				    1.34 vs 2.29</p>
+<p>    Other income			   0.66 vs 1.20</p>
+<p>    Shr (cents)		     loss 6.1  vs loss 4.4</p>
+<p>    Abnormal items		  loss 0.82 vs loss 0.66</p>
+<p>    Tax					 nil vs nil</p>
+<p>    Interest				  nil vs nil</p>
+<p>    Depreciation			   0.12 vs 0.15</p>
+<p>    Minorities			     0.15 vs 0.03</p>
+<p>NOTE: ISR Group Ltd is a software developer.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

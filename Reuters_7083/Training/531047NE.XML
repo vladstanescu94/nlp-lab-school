@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="531047" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Spatial Technology Inc Q1 full results.</title>
+<headline>Spatial Technology Inc Q1 full results.</headline>
+<dateline>BOULDER, Colo. 1997-04-22</dateline>
+<text>
+<p>SELECTED FINANCIAL DATA</p>
+<p>							 Three Months Ended</p>
+<p> INCOME STATEMENTTATEMENT				   March 31,</p>
+<p>						     1997	     1996</p>
+<p>Revenue:</p>
+<p>   License fees			     $613,700	 $950,800</p>
+<p>   Royalties				   767,600	  718,300</p>
+<p>   Maintenance				 674,400	  672,200</p>
+<p>   Other					  34,300	   43,900</p>
+<p> Total revenue			     2,090,000	2,385,200</p>
+<p> Gross margin				1,897,400	2,079,600</p>
+<p> Net income (loss)			 (411,400)	   59,500</p>
+<p> Earnings (loss) per share		   (.05)		.01</p>
+<p>Weighted average shares outstanding</p>
+<p>						 7,486,000	5,218,000</p>
+<p>BALANCE SHEET</p>
+<p> Current assets			    9,889,000	2,928,000</p>
+<p> Total assets			     10,783,000	3,526,000</p>
+<p> Current liabilities		     2,724,000	4,233,000</p>
+<p> Shareholders' equity		    8,059,000	(707,000)</p>
+<p>Liabilities &amp; shareholders' equity</p>
+<p>						10,783,000	3,526,000</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

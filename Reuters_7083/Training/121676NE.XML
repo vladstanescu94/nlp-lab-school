@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121676" id="root" date="1996-10-16" xml:lang="en">
+<title>GERMANY: SAP is Germany's most sucessful firm - report.</title>
+<headline>SAP is Germany's most sucessful firm - report.</headline>
+<dateline>FRANKFURT 1996-10-16</dateline>
+<text>
+<p>German computer software group SAP AG, a highflyer on the bourse this year, has been rated as the nation's top company by a German magazine.</p>
+<p>Manager magazine, in an advance copy of an article to be published in this week's edition, said it had awarded top to honours to SAP as the group beat off 499 competitors in scorings on the company's return on capital, sturdiness and growth.</p>
+<p>SAP, founded in 1972 with 500,000 marks capital, floated its shares in 1988 and joined the DAX index of 30 blue-chip companies in September 1995. It is now the tenth biggest firm in Germany according to market capitalisation.</p>
+<p>SAP has topped the magazine's performance list three times in the last ten years.</p>
+<p>The medical technology group company Fresenius came overall second and was also chemical sector winner ahead of Beiersdorf, the magazine said.</p>
+<p>In general the magazine said the performance of the bigger companies had improved from a long-term perspective, with DAX companies Veba, BASF, Bayer and BMW all jumping into the top-100 of performers.</p>
+<p>--Emma Thomasson, Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

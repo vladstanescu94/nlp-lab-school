@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763042" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: Computer Concepts unit revenues rise.</title>
+<headline>Computer Concepts unit revenues rise.</headline>
+<dateline>BOHEMIA, N.Y. 1997-07-29</dateline>
+<text>
+<p>Computer Concepts Corp on Tuesday said that revenues at its Softworks Inc unit rose to $6.2 million in the second quarter, up from $3.4 million in the same period last year.</p>
+<p>The boost in revenues was attributed to strong demand for the company's software products, including its products for fixing the Year 2000 programming bug.</p>
+<p>Softworks' first quarter revenue surpassed that of Computer Concepts' first quarter 1997 revenues and its second quarter 1996 revenues, which were $5.9 million and $3.7 million, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOHEMIA, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

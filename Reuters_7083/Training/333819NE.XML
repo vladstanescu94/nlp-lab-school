@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333819" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Eagle Point cites continuing softness.</title>
+<headline>Eagle Point cites continuing softness.</headline>
+<dateline>DUBUQUE, Iowa 1997-01-27</dateline>
+<text>
+<p>Eagle Point Software Corp said its weaker December 31 second-quarter results reflect continuing softness in the AutoCAD and AutoCAD-related markets as well as delays in customer software purchases.</p>
+<p>Chief executive officer Rod Blum in a statement also said, &quot;We've noticed that portions of some of our markets have slowed their purchasing decisions as they assimilate the effects of the proposed merger between Autodesk Inc  and Softdesk Inc.&quot;</p>
+<p>Eagle Point, a supplier of architecture, engineering and construction software, earlier Monday reported a quarterly loss of $0.05 a share, which included a nonrecurring charge. Ecluding the charge, the loss was $0.01 a share. Revenues declined to $4.1 million from $5 million.</p>
+<p>	     ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBUQUE, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

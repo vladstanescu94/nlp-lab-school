@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="768323" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: TABLE - Datawatch Q3 net loss vs profit.</title>
+<headline>TABLE - Datawatch Q3 net loss vs profit.</headline>
+<dateline>WILMINGTON, Mass. 1997-07-31</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>			  06/30/97    06/30/96  06/30/97   06/30/96</p>
+<p> Net sales		$7,608	$8,027   $24,024    $22,324</p>
+<p> Net income (loss)   (1,437)	   681     (929)	  783</p>
+<p>Income (loss)</p>
+<p>  per share	     (0.16)	  0.08    (0.10)	 0.09</p>
+<p> Revenue		 7,608	   8,027    24,024     22,324</p>
+<p>	  (Amounts in Thousands, except per share data)</p>
+<p>NOTE:  Datawatch Corp said its third quarter period ended June 30.</p>
+<p>Net income for the third quarter of 1997 included a loss of approximately $700,000 of expenses associated with organizational changes and the discontinuance of certain promotional programs in the WorkGroup Systems subsidiary.</p>
+<p>Net income for the first nine months of 1996 was net of $450,000 of expenses associated with its acquisition of WorkGroup in March of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

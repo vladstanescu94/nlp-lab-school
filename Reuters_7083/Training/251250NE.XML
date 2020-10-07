@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251250" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Oracle Q2 application revs grew 77 pct.</title>
+<headline>Oracle Q2 application revs grew 77 pct.</headline>
+<dateline>REDWOOD SHORES, Calif 1996-12-12</dateline>
+<text>
+<p>Oracle Corp said license sales of its software rose 25 percent in its second quarter from the year earlier period, led by applications license sales growth of 77 percent.</p>
+<p>The maker of relational database software and applications and tools software for those databases said revenues from services such as support and consulting grew by 48 percent when compared to the same period of fiscal 1996.</p>
+<p>Geographically, Oracle said sales from North and South America grew most at 49 percent, followed by Asia Pacific where sales rose 44 percent.  </p>
+<p>Oracle did not provide a figure for revenue growth in database licenses, its largest product and officials couldn't be reached for comment.</p>
+<p>Database license sales grew 41 percent in the first quarter when total license sales grew 27 percent and applications sales were up only four percent.</p>
+<p>Oracle's second quarter net income of $0.27 a share was $0.01 short of Wall Street's mean estimate of $0.28 a share, as tallied by First Call Corp.  </p>
+<p>&quot;I would have been happier with higher database server revenue growth,&quot; said analyst Neil Herman of Salomon Brothers.</p>
+<p>He said Oracle executives told analysts on a conference call that database license revenue growth was 24.4 percent. That percentage growth might have been a couple points higher, Herman said, if it were not for unfavorable currency translations.</p>
+<p>Herman said Oracle officials cited a weak European market as the reason for slower growth in database sales.</p>
+<p>In the year ago quarter, database license revenues grew 43.9 percent.  </p>
+<p>Catherine Buan, Oracle's director of investor relations, later confirmed that database license revenues grew 24.4 percent.</p>
+<p>&quot;Business in the second quarter was different in different regions. Overall business was very good in the U.S. and Asia-Pacific,&quot; Buan said. &quot;Europe was not nearly that,&quot; she continued, adding that Europe dragged down total growth.</p>
+<p>She said that growth in U.S. and Asia database revenues was in the &quot;30s-to-40s&quot; percentage range.</p>
+<p>Applications license sales rebounded, Buan noted, and the current quarter has a full pipeline of orders, she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

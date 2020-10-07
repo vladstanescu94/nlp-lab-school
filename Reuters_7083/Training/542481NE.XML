@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="542481" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: Netscape says has US encryption export permission.</title>
+<headline>Netscape says has US encryption export permission.</headline>
+<dateline>WASHINGTON 1997-04-28</dateline>
+<text>
+<p>Netscape Communications Corp said it received permission from the U.S. Commerce Department to export some of its products containing stronger computer encoding features.</p>
+<p>But the company, a prominent opponent of the current encryption export restrictions, said it continued to favor legislation relaxing the limits.</p>
+<p>Encryption products, which scramble information and render it unreadable without a password or software &quot;key,&quot; have become an increasingly important component of global communications and online commerce over the Internet.  </p>
+<p>The strength of encryption is largely a function of the length of the software keys measured in bits, the zeros and ones that make up the smallest unit of computer data.</p>
+<p>Netscape said it would be able to begin exporting products with 56-bit long keys, up from the previous limit of 40-bits. Each additional bit doubles the number of possible sequences in the key, so the gain will make Netscape's keys more than 65,000 times harder to crack.</p>
+<p>Taher Elgamal, chief scientist at Netscape, said the company abided by current rules and promised to incorporate features allowing government access to coded messages.  </p>
+<p>Within two years, Netscape's products will allow the government to decode encrypted data by gaining access to the software keys used to encode the data. Products that allow key recovery by the government can include unlimited key lengths under the current export rules.</p>
+<p>By promising to develop key recovery, the company can begin exporting 56-bit products in a few months.</p>
+<p>&quot;That plan is actually business oriented,&quot; Elgamal said in a telephone interview. &quot;That came from actual customers with a real business need to retrieve old encrypted E-mails.&quot;  </p>
+<p>But Netscape only promised to allow key recovery on stored data in its secure electronic mail applications, not on live messages in transit, Elgamal said. Some companies have complained that the current rules require key recovery for live messages in transit as well.</p>
+<p>The Netscape applications involved send encrypted messages between a host computer, known as a server, and computers connected to the host over a network, referred to as clients.</p>
+<p>&quot;The case that we made in the plan that got approved was that that data is always available on the server and it is a lot easier to get it from the server,&quot; Elgamal said.  </p>
+<p>But Netscape's chief lobbyist, Peter Harter, said the company still favored overhauling the export restrictions.</p>
+<p>&quot;The fact remains that the U.S. government's export control rules are causing serious difficulties for U.S. corporations selling security-enabled software products abroad,&quot; Harter said in a prepared statement.</p>
+<p>Without relaxation of the rules, &quot;U.S. corporations will remain at a competitive disadvantage due to the burdensome export controls laws which do not impact manufacturers in other countries,&quot; he said.</p>
+<p>Legislative proposals to dramatically relax the rules are moving ahead in the House and Senate but are opposed by the Clinton administration.</p>
+<p>--Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

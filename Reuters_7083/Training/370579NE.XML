@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="370579" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: FEATURE - U.S. phone, Internet firms wage war over fees.</title>
+<headline>FEATURE - U.S. phone, Internet firms wage war over fees.</headline>
+<byline>Michelle V. Rafter</byline>
+<dateline>LOS ANGELES 1997-02-11</dateline>
+<text>
+<p>Regional phone companies and Internet service providers are waging a war of words over Internet traffic on the nation's local telephone network and who should pay for upgrades as the online boom continues.</p>
+<p>As a drama, the phone companies vs. Internet providers contest is dry, complicated stuff, lacking the sex appeal of, say, the power struggle between Netscape and Microsoft for control of the personal computer desktop.</p>
+<p>Even so, analysts and other industry watchers counsel consumers and businesses to take heed of the tug of war because it could affect how much they pay to use the Internet, and ultimately, how they connect to it.</p>
+<p>In one corner, Pacific Bell, Bell Atlantic Corp. and other regional phone carriers say the growth of Internet traffic is pushing local telephone networks to the breaking point.</p>
+<p>Pacific Bell, for example, says Internet surfers use its phone lines an average of 45 minutes a day -- more than twice the amount the network was built to handle. Heavy Internet use in Silicon Valley led to brief service outages in that area earlier this year, the company said.</p>
+<p>Pacific Bell and other local phone companies say they've poured millions of dollars into hardware improvements as a result of Internet traffic, improvements they claim would otherwise have been unnecessary.</p>
+<p>To help defray costs, phone companies think providers should pay for service on a per-minute basis, the way long-distance companies do, rather than by the line, like other business phone customers. Internet providers have been exempt from paying so-called access fees under a 1983 federal ruling meant to foster growth of compute data networks.</p>
+<p>On the other side, Internet service providers say phone companies have it all wrong. A recent report sponsored by the Internet Access Coalition, an industry lobby group, maintains computer traffic poses no threat to local phone networks and that earlier phone-company studies identifying trouble spots were based on theoretical claims and a few areas with engineering and planning problems that could easily be rectified.</p>
+<p>If Internet traffic was such a threat, phone companies wouldn't be exacerbating the problem by jumping into the Internet access business themselves, providers say.</p>
+<p>Rather than hurting phone companies, Internet traffic has been a windfall, according to the coalition. In 1995, local phone companies spent a total of $245 million adding 6 million residential phone lines used primarily for Internet access, but reaped $1.4 billion in revenue on those lines, the group said.</p>
+<p>If providers are required to pay access fees, they'll have no choice but to raise their rates, which could stifle Internet growth just as it's taking off, they say.</p>
+<p>Internet providers and phone companies are arguing their respective positions in Washington, where the Federal Communications Commission is considering the access-fee issue.</p>
+<p>As part of ongoing telecommunication industry reform, the FCC said in late December it would cut access fees levied on long-distance carriers and is investigating options for doing that. But the agency held off making a decision affecting Internet use to allow time for parties with an interest in the issue to present their cases.</p>
+<p>The FCC took the unusual step of setting up an e-mail address -- isp(at)fcc.gov -- consumers and others can use to send their thoughts. Internet providers and phone companies have until Feb. 21 to submit formal comments, and the agency is expected to make a ruling later this year.</p>
+<p>Even if the FCC levies access fees on providers and companies raise rates accordingly, it won't dampen consumers' love affair with the Internet, some analysts said.</p>
+<p>If, for example, Internet providers passed through an access fee of 1 cent a minute, a subscriber spending 10 hours online a month would pay an extra $6 -- hardly a deterrent, said David Goodtree, an analyst with Forrester Research in Cambridge, Mass.</p>
+<p>&quot;Cable TV rates have doubled in the last three or four years, we got nothing more for it, but cable subscribership didn't go down because of it,&quot; Goodtree said.</p>
+<p>On one point everyone agrees --  the nation's current analogue telephone network eventually will not be able to handle demand from Internet users, and must be supplanted by a digital system better suited to transmitting computer data.</p>
+<p>Both phone companies and Internet providers have begun working on solutions. Phone carriers that have offered digital ISDN (integrated services digital network) lines are stepping up their marketing efforts. Phone companies and Internet providers are investigating a new technology called digital subscriber line, or DSL, which routes Internet phone traffic around analogue phone-company switches into all-digital networks.</p>
+<p>But inevitably, discussion of DSL and other new technologies circles back to who'll pay for upgrades. Sky Dayton, president of Internet provider Earthlink Networks in Pasadena, Calif., believes it is in phone companies' best interests to spend on digital upgrades because of the profit potential from selling them to companies such as his.</p>
+<p>But why should phone companies pick up all the costs when Internet service providers will benefit, too, says Pacific Bell spokesman Bob Deward.</p>
+<p>(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own.)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

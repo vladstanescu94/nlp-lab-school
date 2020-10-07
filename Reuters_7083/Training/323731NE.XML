@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323731" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Cayenne sees 10 pct rev rise in Dec qtr.</title>
+<headline>Cayenne sees 10 pct rev rise in Dec qtr.</headline>
+<dateline>NEW YORK 1997-01-22</dateline>
+<text>
+<p>Cayenne Software Inc said its revenue for the December quarter increased 10 percent from the same quarter a year ago.</p>
+<p>The company did not say how the increase would specifically effect its earnings. The company said its pre-tax income would be &quot;in a range of four percent to six percent of revenue.&quot;</p>
+<p>It also did not have a specific revenue number for the same quarter last year, when Cayenne was two separate companies.</p>
+<p>A company spokesman declined to comment.</p>
+<p>The company also said its gross margins improved for the quarter and its operating expenses were about $10.7 million -- a more than 25 percent decline from a year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

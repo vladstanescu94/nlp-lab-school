@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111365" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: MDL loses almost 50 pct after Q2 forecast.</title>
+<headline>MDL loses almost 50 pct after Q2 forecast.</headline>
+<dateline>NEW YORK 1996-10-11</dateline>
+<text>
+<p>MDL Information Systems Inc shares were pummelled in early trading Friday after the company said following the market close on Thursday that it expected substantially lower second quarter earnings.</p>
+<p>The stock fell 14-5/8, or 48 percent, to 15-5/8 in early trading.</p>
+<p>MDL forecast second-quarter earnings per share in a range of $0.10-$0.12, compared with $0.19 in the year-ago period. It said revenues for the period should rise to $15 million to $16 million, up from $14 million in the year-ago period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

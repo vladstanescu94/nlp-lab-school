@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122525" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Mechanical Dynamics Inc Q3 net up.</title>
+<headline>Mechanical Dynamics Inc Q3 net up.</headline>
+<dateline>ANN ARBOR, Mich. 1996-10-17</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.12		    $0.08</p>
+<p> Net			    713			303</p>
+<p> Revs			 6,663		    5,324</p>
+<p> Avg shrs		   5,862		    3,853</p>
+<p>(All Data Above 000s Except Per Share Numbers)  </p>
+<p>	  9  MONTHS</p>
+<p> Shr			  $0.34		    $0.19</p>
+<p> Net			  1,645			904</p>
+<p> Revs			18,952		   15,257</p>
+<p> Avg shrs		   4,809		    3,840</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>-- Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANN ARBOR, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

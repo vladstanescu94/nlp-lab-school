@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418012" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: CallWare integrates with Microsoft, Lotus.</title>
+<headline>CallWare integrates with Microsoft, Lotus.</headline>
+<dateline>SALT LAKE CITY 1997-03-04</dateline>
+<text>
+<p>CallWare Technologies Inc said Tuesday it has integrated with Microsoft Corp's Microsoft Exchange and Outlook and with International Business Machines Corp's Lotus Notes e-mail to provide unified messaging for mobile and office-based users.</p>
+<p>The company said the integration allows users to view, control, save and forward CallWare voice mail messages from their inboxes and give them access to their e-mail, faxes and voice mail in the same location.  </p>
+<p>CallWare, a private company, also said it made two OEM agreements, one with Xerox Corp and the other with Lucent Technologies Inc.</p>
+<p>The company said its Xerox OEM, or original equipment manufacturing, pact allows it to integrate TextBridge scanning software with CallWare's IntrFAX fax server.</p>
+<p>The coupling of these technologies will allow people to edit incoming faxes without manually scanning a hard copy of the document.  They will be able to send incoming faxes directly to a printer and retain complete document integrity.</p>
+<p>TextBridge will be included in every IntrFAX software package, the company said.</p>
+<p>With Lucent, CallWare will integrate its Phonetastic software with Lucent's new Merlin Legend X5 communications system.</p>
+<p>The package will be sold through Lucent's direct distribution and authorized dealer channels, the company said.</p>
+<p>No terms for the OEM agreements were available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SALT LAKE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

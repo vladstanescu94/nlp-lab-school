@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197437" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Xerox, Computer Sciences in pact.</title>
+<headline>Xerox, Computer Sciences in pact.</headline>
+<dateline>STAMFORD, Conn. 1996-11-18</dateline>
+<text>
+<p>Xerox Corp said on Monday its consulting and services unit and Computer Sciences Corp would pursue joint business consulting contracts worldwide, initially focusing on the U.S. and European pharmaceutical industries.</p>
+<p>Xerox Professional Document Services and the information technology consulting firm said they would focus joint project efforts on document management, providing consulting services using tools like Documentum Inc 's Documentum software, Xerox Document Assembler, Documentum Inc's SAVE and InConcert software.</p>
+<p>Xerox Document Assembler is a software package which reduces the time and effort required to generate long, complex documents such as applications for new drug approvals, utility regulation filings and aerospace documentation, Xerox said.</p>
+<p>Documentum is Enterprise Document Management System software, the companies said.</p>
+<p>SAVE is an extension of Documentum which allows paper documents to be scanned automatically, indexed, and archived to secure optical media.</p>
+<p>InConcert is document-based workflow management software for UNIX- and PC-based distributed computing environments.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54957" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: FOCUS--Intuit steps aimed at home banking.</title>
+<headline>FOCUS--Intuit steps aimed at home banking.</headline>
+<byline>Cal Mankowski</byline>
+<dateline>NEW YORK 1996-09-16</dateline>
+<text>
+<p>Users of online banking services are likely to be the beneficiaries in the long run of an unusual deal struck by technology rivals Intuit Inc and CheckFree Corp, industry participants and analysts said Monday.</p>
+<p>Intuit Corp, maker of the popular Quicken personal computer financial software, announced a series of steps it said will speed up the use of online banking and bill payment.  </p>
+<p>The measures include the swap of the Intuit bill processing subsidiary to CheckFree in exchange for a 23 percent equity stake in CheckFree.</p>
+<p>The announcement comes at a time when use of the Internet for online financial transactions shows signs of catching fire after a period of modest penetration. &quot;I think there is a lot of movement in that direction across the industry,&quot; said Joe Pendleton, senior vice president for alternate delivery systems at CoreStates Financial Corp, a $43.7 billion bank holding company headquartered in Philadelphia.  </p>
+<p>&quot;We're not using the Internet today for banking transactions. However, that's something we'd like to see happen,&quot; Pendleton said. He predicted Internet banks would grow from about half a dozen today to 40 or 50 by the middle of 1997.  </p>
+<p>George Boutros, an investment banker with Deutsche Morgan Grenfell who advised Intuit in the negotiations with CheckFree, called the resulting deal &quot;a win-win for both.&quot; He said Checkfree, a leader in payment processing, gets access to Intuit's strong customer base of about 12 million while Intuit is able to direct more focus on Internet initiatives. &quot;Each ends up doing what it knows how to do best,&quot; Boutros said.</p>
+<p>David Weisman, an analyst with Cambridge, Mass.-based consulting firm Forrester Research Inc, said the number of U.S. households doing online banking is expected to grow to 9.1 million by the year 2001 from 1.1 million today.  </p>
+<p>Executives of IBM and the banks said the effort would address security concerns by relying on IBM's global network as opposed to the Internet. But they also said the system would interface with the Internet.</p>
+<p>Wall Street analysts said the issue was not so much security as it was control by the banks over the payments system.</p>
+<p>A source familiar with the Intuit effort said the thrust of the Monday announcements was that financial institutions would have more control and greater choice in how they build an online banking service.  </p>
+<p>Referring to Integrion and the Intuit announcements, Weisman said, &quot;I don't think they're mutually exclusive.&quot; He added, &quot;you can use Quicken (on) Integrion. The combination is a powerful one for home banking.&quot;</p>
+<p>Weisman said the Internet already provides a high level of security and new methods under development such as &quot;Digital Signatures and Certifications&quot; will bring user authentication to a new level of sophistication.</p>
+<p>&quot;The Internet is now becoming sufficiently secure and reliable to become the backbone for financial activity, and at the same time consumer access to the Internet has exploded,&quot; Intuit executive vice president Bill Harris said in a telephone conference with reporters.</p>
+<p>The initiatives announced by Intuit include opening its software and Internet-based services to direct connections with financial services companies through development of new protocols to be called OpenExchange.</p>
+<p>Intuit said OpenExchange will support a broad range of financial services, including banking, brokerage, mutual funds and insurance.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

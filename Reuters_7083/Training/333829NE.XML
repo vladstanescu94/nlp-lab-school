@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333829" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Eagle Point Software Corp Q2 Dec 31 loss.</title>
+<headline>Eagle Point Software Corp Q2 Dec 31 loss.</headline>
+<dateline>DUBUQUE, Iowa 1997-01-27</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		  $ 0.05   profit	 $0.14</p>
+<p> Net loss		     226   profit	   686</p>
+<p> Revs			 4,119		    5,031</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Latest Q2 includes non-recurring charge of $234,000 for claims and settlements relating to issues brought by former employees and the U.S. Department of Labor. Excluding the charge, Q2 was a pro forma loss of $73,000 or $0.01/shr vs profit of $712,000 or $0.14/shr.  </p>
+<p>		  6 MONTHS</p>
+<p> Shr loss		   $0.06   profit	 $0.28</p>
+<p> Net loss		     299   profit	 1,368</p>
+<p> Revs			 8,272		    9,837</p>
+<p> Avg shrs		   4,942		    4,970</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Pro-forma six-month results excluding nonrecurring charges were a loss of $146,000 or $0.03/shr vs a profit of $1,394,000 or $0.28/shr.</p>
+<p>	     ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBUQUE, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

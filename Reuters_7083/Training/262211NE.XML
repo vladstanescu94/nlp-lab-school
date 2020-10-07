@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262211" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Bay, Time Warner in Cablevision pacts.</title>
+<headline>Bay, Time Warner in Cablevision pacts.</headline>
+<dateline>NEW YORK 1996-12-17</dateline>
+<text>
+<p>Bay Networks Inc said on Tuesday that Cablevision Systems Corp would use its networking solutions for the delivery of high-speed Internet services to Long Island, N.Y., subscribers to Cablevision's cable system.</p>
+<p>Cablevision will deploy Bay Networks' LCP cable modems as the application-independent modem for its roll-out of Optimum Online. The terms of the deal were not disclosed.</p>
+<p>In a separate release, Time Warner Inc said Cablevision would distribute Road Runner, Time Warner's broadband high-speed online service, to all of its online customers nationwide as part of its new Internet link service.  </p>
+<p>The agreement includes the provision that Cablevision Systems be the exclusive provider of Road Runner programming in the franchise areas it serves. No further details of the deal were disclosed.</p>
+<p>Bay Networks said its LANcity division, an internetworking provider for the cable TV industry, is providing Cablevision with its LANcity Personal, or LCP, cable modems.</p>
+<p>Cablevision announced Tuesday it launched Optimum Online, high-speed access to the Internet and online services via cable wires, to 15,000 homes in Oyster Bay, N.Y.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

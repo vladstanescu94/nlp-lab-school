@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="643196" id="root" date="1997-06-06" xml:lang="en">
+<title>USA: Novell says president resigning.</title>
+<headline>Novell says president resigning.</headline>
+<dateline>PROVO, Utah 1997-06-06</dateline>
+<text>
+<p>Novell Inc. said Friday that Joseph Marengi will resign as president and chief operating officer of the networking company at the end of June.</p>
+<p>The departure follows the appointment of Eric Schmidt, the former chief technology officer of Sun Microsystems Inc., as chairman and chief executive earlier this year.</p>
+<p>Marengi himself had been a top contender for the posts.</p>
+<p>Schmidt, who will assume the responsibilities of president, said Marengi was a friend he had hoped would stay on.</p>
+<p>Austin Edgington, a spokesman for Novell, said Marengi would be departing on amicable terms.</p>
+<p>&quot;Joe has made a personal decision to move on,&quot; the spokesman said. &quot;He has been pretty instrumental in driving the company and also in bringing Eric Schmidt in.&quot;</p>
+<p>Marengi had served as president since September, leading Novell during a critical period while the company was searching for a new chief executive following the departure of Bob Frankenberg a month earlier.</p>
+<p>Marengi, who joined Novell in 1989, was executive vice president of worldwide sales at the company from 1992 to 1996.</p>
+<p>Rumours of Marengi's departure were reported on Thursday by Computer Reseller News Online, which cited sources close to the company as saying the Novell marketing veteran had received a lucrative severance package.</p>
+<p>Edgington declined to comment on severance. Schmidt and Marengi were not available.</p>
+<p>Marengi's departure comes on the heels of Novell's announcement last week that it will cut 1,000 workers -- equal to about 18 percent of its work force -- after it was hit by declining sales of its computer network software. The cuts by Novell, based in Provo, Utah, rank among the largest ever by a computer software company.</p>
+<p>The second biggest publisher of personal computer software behind Microsoft Corp., Novell last week reported a loss of $14.6 million, or 4 cents a share, in its second quarter ended on April 30, compared with a loss of $55.4 million, or 15 cents, a year earlier. Sales rose to $273.1 million from $188.2 million.</p>
+<p>The company said will take a third-quarter charge of $25 million to $35 million to pay for the layoffs. Novell's stock was barely changed at $7.69 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PROVO, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

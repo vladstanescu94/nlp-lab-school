@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309444" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: MVSI Inc ends e-Net acquisition.</title>
+<headline>MVSI Inc ends e-Net acquisition.</headline>
+<dateline>NEW YORK 1997-01-15</dateline>
+<text>
+<p>MVSI Inc said Wednesday that it has decided against proceeding with its acquisition of e-Net, a development stage telecommunications products and services company in Washington, D.C.</p>
+<p>It said the December 5 expulsion of MVSI's former underwriter, Stratton Oakmont Inc, from the securities industry hurt trading volume and depressed the price of its stock.  </p>
+<p>&quot;As a result of this adverse and untimely development, MVSI and e-Net have agreed that it is not in the best interests of the shareholders of either company to proceed,&quot; MVSI said in a release.</p>
+<p>The company said e-Net will now give it a five-year conversion option to acquire e-Net securities that MVSI could exercise instead of demanding cash repayment for a $1.25 million loan it made to e-Net.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87304" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: INTERVIEW - Microsoft browser progresses.</title>
+<headline>INTERVIEW - Microsoft browser progresses.</headline>
+<byline>Martin Wolk</byline>
+<dateline>SEATTLE 1996-10-01</dateline>
+<text>
+<p>Microsoft Corp group vice president Paul Maritz said he expected the company's Internet Explorer version 4.0 browser to be in beta test by year-end.</p>
+<p>In a telephone interview he said the product, which will be tightly integrated with the Windows 95 operating system, will be available early next year, but he said it was &quot;premature&quot; to project a release date.</p>
+<p>Maritz also said a group of software developers meeting in New York voted to shift control of Microsoft's ActiveX technology to an independent body.  </p>
+<p>Microsoft had said in July that it planned to cede control of the ActiveX technology, in part to address concerns of those suspicious that the software giant's &quot;open&quot; standards were designed in part to give the company's own developers an advantage.</p>
+<p>Maritz said developers from several dozen vendors voted 63-19 in favor of Microsoft's proposal, aimed at increasing acceptance of ActiveX as a platform for Internet applications.  </p>
+<p>As a result of the vote, a committee has been established with representatives of Microsoft and eight other companies to begin mapping the future of the ActiveX tools, with its first proposal due by the end of this month, Maritz said.</p>
+<p>Among the companies represented in the group are Hewlett-Packard Co, Digital Equipment Corp, Computer Associates International Inc and International Business Machines Corp.</p>
+<p>&quot;For developers and end users it means the evolution of the standard will be under a broader representative set of inputs from the industry with a greater degree of independence from Microsoft,&quot; Maritz said. &quot;It's also a strong signal from Microsoft that we believe interoperability is very important.&quot;</p>
+<p>Maritz said the new version of Internet Explorer would be available before a forthcoming update to the Windows 95 operating system, also expected sometime next year.</p>
+<p>But he said IE 4.0 would be &quot;integrated in two directions&quot; -- with existing versions of Windows 95 and as an automatic feature of the as-yet unnamed Windows 95 update.</p>
+<p>				 -- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

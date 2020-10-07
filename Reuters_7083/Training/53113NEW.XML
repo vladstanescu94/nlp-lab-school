@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53113" id="root" date="1996-09-13" xml:lang="en">
+<title>JAPAN: Sega confirms tie-up with Softbank on publishing.</title>
+<headline>Sega confirms tie-up with Softbank on publishing.</headline>
+<dateline>TOKYO 1996-09-13</dateline>
+<text>
+<p>Sega Enterprises Ltd on Friday confirmed a newspaper report that said it would join Softbank Corp in a global publishing business.</p>
+<p>As a first project in their tie-up, the two companies will publish a monthly magazine on games and amusement facilities in Japan this October, a Sega spokesman said. They may publish similar publications abroad in the future, he said.</p>
+<p>The two companies already cooperate in the distribution of game software for personal computers, he said, but added that Sega has not decided whether to further expand its ties with Softbank.</p>
+<p>The Japanese business daily Nikkan Kogyo Shimbun said on Friday that the two companies were to link up in a global publishing business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

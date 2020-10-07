@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456987" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: U.S. HEADLINE STOCKS -- Issues to watch - March 20.</title>
+<headline>U.S. HEADLINE STOCKS -- Issues to watch - March 20.</headline>
+<dateline>NEW YORK 1997-03-20</dateline>
+<text>
+<p>Stocks to watch this morning:</p>
+<p>* Intel Corp, which fell 3-3/8 to 133-3/8 during regular trading hours, continued its decline after the bell Wednesday, slipping to 132-7/8, traders said.</p>
+<p>* Avant! Corp fell one point to 25-3/4 after the close. Avant! had gained two points during regular trading hours.</p>
+<p>* SpeedFam International Inc rose to 34-1/4 from 33 in after-hours trade following release of its third-quarter results.  </p>
+<p>* Boeing Co was up 3/4 to 104-3/4 in London after a Wall Street Journal report said Delta Air Lines Inc and Boeing would announce a long-term pact for the airline to buy all of its planes from Boeing.</p>
+<p>* First Bank System Inc and U.S. Bancorp said they had agreed to merge in a deal worth $9 billion. First Bank closed at 78-1/4 while U.S. Bancorp closed at 48-1/4.  </p>
+<p>* AMR Corp's American Airlines and negotiators from its pilots union reached tentative agreement on a new contract, the union said. AMR closed at 84-5/8.</p>
+<p>* Portland General Corp said it and Enron Corp were informed by a senior member of the Oregon Public Utility Commission that commission staff had decided to recommend disapproval of the companies' merger plan.</p>
+<p>Portland General closed at 37-1/8. Enron closed at 39-1/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

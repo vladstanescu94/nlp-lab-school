@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273225" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Netscape previews latest Internet software.</title>
+<headline>Netscape previews latest Internet software.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-12-23</dateline>
+<text>
+<p>Netscape Communications Corp. on Monday formally posted a preview edition of its new Communicator software for use on the Internet and in corporate networks known as intranets.</p>
+<p>Analysts said release of the test software, which aims to extend its Navigator browser software by adding richer messaging, editing and collaboration features, demonstrated Netscape was keeping its rollout on track.</p>
+<p>Michael Parekh, Internet analyst at Goldman Sachs, said eventually much richer use of Internet technology will make the early browsers now used seem primitive.</p>
+<p>&quot;What we typically thought about as the Web browser two years ago is going to seem like Pong is in terms of video games today,&quot; he said, referring to the video game Pong, which was introduced in the early 1970s.</p>
+<p>Communicator combines open electronic mail, or e-mail, with a suite of browser programs that enable computer users to edit Internet pages, engage in audio conferencing, update schedules, and access news through a filtering system.</p>
+<p>The software will enable Netscape to compete more broadly with Lotus Notes software from International Business Machines Corp.'s Lotus Development Corp. and with Microsoft Corp.'s BackOffice products.</p>
+<p>In addition to this, industry analysts expect the software, which is due to be introduced as a final product by the end of March next year, to help usher in a whole new form of collaborative use of the Internet.</p>
+<p>&quot;Today, as much as the mass-market and end-users have embraced the Web, the Web is still about publishing and reading content on a PC screen,&quot; said Parekh. &quot;That has very little to do with the primary appeal of the on-line medium, which is people-to-people communication around very narrow topics&quot; in which people can address specialized interests.</p>
+<p>Although the initial software runs only on Microsoft's Windows 95 and Windows NT systems, the software is due to run on a broad range of platforms including Apple Computer Inc.'s Macintosh and powerful workstation computers.</p>
+<p>The company is targeting its software at the fast-growing market for internal intranet networks, which can greatly lower data processing costs by tying together a variety of computer systems using Internet standards.</p>
+<p>Some studies estimate the intranets will help boost the Internet software market as a whole to more than $10 billion by the year 2000.</p>
+<p>Microsoft is expected to introduce new versions of its Internet Explorer browser in the first half of calendar 1997, but Microsoft's overall strategy is also to integrate the functionality of the Internet throughout its product line.</p>
+<p>Netscape shares closed down $1.25 at $52.75 in trading on the Nasdaq market on Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

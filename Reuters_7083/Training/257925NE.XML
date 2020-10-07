@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257925" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Founder of Bay Network's LANcity resigns.</title>
+<headline>Founder of Bay Network's LANcity resigns.</headline>
+<dateline>NEW YORK 1996-12-16</dateline>
+<text>
+<p>Bay Networks Inc said Monday that Rouzbeh Yassini, founder and former chief executive of Bay's LANcity unit, has resigned his position as vice president and general manager of the cable modem division.</p>
+<p>Yassini believes that, by announcing his departure and agreeing to work with Bay Networks through a transition phase, Bay Networks will have the optimum chance to capitalize on the exciting growth opportunities in the marketplace, they said.</p>
+<p>Yassini will remain a consultant to Bay Networks.</p>
+<p>In 1990, Yassini founded LANcity, a vendor of cable TV modem technology based in Andover, Mass.</p>
+<p>Bay acquired LANcity in September for $59 million.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

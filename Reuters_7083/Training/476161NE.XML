@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476161" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: Policy Management restates net lower.</title>
+<headline>Policy Management restates net lower.</headline>
+<dateline>COLUMBIA, S.C. 1997-03-31</dateline>
+<text>
+<p>Policy Management Corp on Monday said it was lowering its previously reported 1996 and fourth-quarter earnings after an unfavorable legal verdict.</p>
+<p>The company is reducing its 1996 net income to $46 million from $50 million, and its fourth-quarter earnings to $9.6 million from $13.6 million, Policy Management said.</p>
+<p>The reduction follows a jury verdict in a lawsuit in which Security Life of Denver charged Policy Management fraud and unfair trade practices, Policy Management said.  </p>
+<p>On a per share basis, Policy Management's 1996 net income is now $2.47 for the year and $0.53 a share in the fourth quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

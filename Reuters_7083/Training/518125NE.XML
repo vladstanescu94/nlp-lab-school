@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="518125" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: Microsoft's third-quarter profit up 85 percent.</title>
+<headline>Microsoft's third-quarter profit up 85 percent.</headline>
+<dateline>REDMOND, Wash. 1997-04-17</dateline>
+<text>
+<p>Microsoft Corp.'s fiscal third-quarter profit jumped 85 percent to $1.04 billion, the world's largest software maker reported Thursday, crediting sales of its latest Microsoft Office package.</p>
+<p>Net income, equivalent to 79 cents a share, rose from earnings of $562 million a year ago, or 44 cents a share, in the quarter ended March 31. The latest results easily topped Wall Street's consensus analyst forecast of 64 cents a share, according to First Call.</p>
+<p>Revenues totalled $3.21 billion, a 45 percent increase over the $2.21 billion racked up in the same quarter a year ago. Analysts on average had predicted revenues of about $2.9 billion.</p>
+<p>Microsoft released its fiscal 1997 third-quarter results after financial markets closed. In after-hours trading, the Redmond, Wash.-based company's stock jumped $4.625 to $102.75 from its Nasdaq closing price, dealers said.</p>
+<p>&quot;Worldwide acceptance of Microsoft Office 97 ignited these outstanding results,&quot; Microsoft Chief Financial Officer Mike Brown said in a statement.</p>
+<p>Office 97, the latest upgrade of the company's best-selling software package, was launched in January. It combines &quot;productivity applications&quot; such as word processing and spreadsheets that accounted for an estimated $2 billion of the company's $8.7 billion in the prior fiscal year.</p>
+<p>Brown said Microsoft also realised &quot;solid gains&quot; from sales of operating systems.</p>
+<p>Microsoft makes the bulk of its money from &quot;platforms,&quot; including the operating systems preloaded onto new personal computers, which generate about one-third of the company's revenues.</p>
+<p>&quot;However,&quot; Brown cautioned, &quot;incredible results like these are seldom duplicated, and we are mindful of the very tough comparisons we will have in fiscal 1998.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

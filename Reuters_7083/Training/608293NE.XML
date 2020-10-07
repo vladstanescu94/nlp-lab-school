@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608293" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: HP ships LaserJet 6L printers to U.S. market.</title>
+<headline>HP ships LaserJet 6L printers to U.S. market.</headline>
+<dateline>PALO ALTO, Calif. 1996-05-27</dateline>
+<text>
+<p>Hewlett-Packard Co said it has introduced its HP LaserJet 6L printer family, with an increased speed and longer operating cycle than the models it replaces, for prices starting around $399.</p>
+<p>A spokeswoman for the company's printer division said the new printers are already on store shelves in the U.S. market and will formally be unveiled on Tuesday. The printers were launched in Europe on May 5, she added.</p>
+<p>HP will also be offering an HP LaserJet Companion Printer Accessory kit in he U.S. market in October and a LaserJet 6P Software Bundle in the U.S. market in June, she said.  </p>
+<p>The speed of the LaserJet 6L printer has been increased 50 percent to six pages per minute from four pages per minute and the printer's operational &quot;duty cycle&quot; has also been increased by 40 percent to 6,000 pages per month compared to the HP LaserJet 5L printer family.</p>
+<p>The LaserJet 6L printer features true 600 by 600 dots per inch printing and uses a special toner to enhance imaging.  </p>
+<p>Two versions will be available -- the LaserJet 6Lse retail and 6Lxi commercial models. The 6Lse comes with the LaserJet Internet Publishing Kit, including Microsoft Corp's Microsoft Network and free two-month Internet access.</p>
+<p>HP said its LaserJet Internet Publishing kit will also be bundled with its LaserJet 6Pse and 5se printers priced at $799 and $1,299 respectively.  </p>
+<p>The 6Lse also includes Microsoft Internet Explorer and a 60-day trial of Microsoft Publisher 97 which allows users to create their own Web sites, along with software which enables Office 95 documents to be converted for publication on the Web.</p>
+<p>The LaserJet Lxi printer comes with the Internet Custom News Kit, which provides Internet tools and business news through 30 free days of AT&amp;T WorldNet Service.  </p>
+<p>The printers have an instant-on capability which cuts warm-up time and allows them to print the first page in a series in 18 seconds. They also have 100 page input and output trays to accommodate a wide range of media.</p>
+<p>The HP LaserJet Companion Printer Accessory package, to be priced at $249 and bundled with the LaserJet 6Lse for $599, makes it possible to make laser copies with the personal computer off and to send paper documents with a PC fax as well as to organize and store paper documents electronically.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

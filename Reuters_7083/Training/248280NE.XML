@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248280" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: AFTER THE BELL - Intel shrs hold steady.</title>
+<headline>AFTER THE BELL - Intel shrs hold steady.</headline>
+<dateline>NEW YORK 1996-12-11</dateline>
+<text>
+<p>Shares in Intel Corp and Microsoft Corp continued to trade after hours, furthering a rally of major high-technology stocks.</p>
+<p>&quot;They are still active but I think it's left over from the day,&quot; a trader said.</p>
+<p>Intel shares soared 7-3/4 to close unofficially at 136-7/8 while Microsoft shares gained 1-1/2 to 83-3/8.</p>
+<p>In after-hours trading, traders said the shares were unchanged from their closing prices.  </p>
+<p>The New York Stock Exchange said its session one volume was 25,900 shares shares compared with 11,500 shares on Tuesday. Session two volume was 10,288,498 shares compared with 643,150 shares on Tuesday, the NYSE said.</p>
+<p>The American Stock Exchange said it traded 500 shares after hours, compared with no volume on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

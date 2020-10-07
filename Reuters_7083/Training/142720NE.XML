@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142720" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: A.D.A.M. Software Inc Q2 loss widens.</title>
+<headline>A.D.A.M. Software Inc Q2 loss widens.</headline>
+<dateline>ATLANTA 1996-10-25</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>			  9/30/96    9/30/95	 9/30/96  9/30/95</p>
+<p> Net revenues	  $  911     $2,143	  $1,961   $3,879</p>
+<p> Operating loss     (2,385)	(337)	 (4,462)  (1,017)</p>
+<p> Net income (loss)  (2,195)	(451)	 (3,911)  (1,223)</p>
+<p>Income (loss) per</p>
+<p>  common share	 (0.42)     (0.17)	  (0.74)   (0.45)</p>
+<p>Weighted average number</p>
+<p>of common shares and</p>
+<p>share equivalents</p>
+<p>  outstanding	   5,255	2,693	   5,252    2,695</p>
+<p>NOTE: Company reported earnings late Friday, after the market closed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

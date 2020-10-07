@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57470" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Platinum releases YEAR 2000 software.</title>
+<headline>Platinum releases YEAR 2000 software.</headline>
+<dateline>OAKBROOK TERRACE, Ill. 1996-09-17</dateline>
+<text>
+<p>Platinum Technology Inc said Tuesday it has begun marketing its SystemVision YEAR 2000 software, designed to deal with the anticipated turn-of-the century computer crisis.</p>
+<p>Most computers use the last two digits of the year and assume 19 as the first two.</p>
+<p>In June, Platinum signed an exclusive worldwide agreement with software developer ADPAC Corp to market the product.</p>
+<p>For $50,000, Platinum provides an assessment of the impact the year 2000 will have on a company, and 25 percent of that can be applied to the purchase of SystemVision software, the company said.</p>
+<p>Platinum also said Tuesday that it introduced a new data warehouse software for the insurance industry, called RiskAdvisor. The software analyzes vast amounts of insurance data and can help companies pinpoint profitable areas, for example.</p>
+<p>Platinum said two of its other data warehousing softwares have been included in Microsoft Corp's data analysis alliance.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKBROOK TERRACE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

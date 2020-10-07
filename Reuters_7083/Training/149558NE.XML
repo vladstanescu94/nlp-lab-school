@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149558" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Open Market to support Cybercash.</title>
+<headline>Open Market to support Cybercash.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-10-29</dateline>
+<text>
+<p>Open Market Inc on Tuesday said it would add support in its Internet commerce software, for CyberCash, a Reston, Virginia-based software developer.</p>
+<p>Open Market's OM-Transact software will provide online businesses and their customers with additional secure Internet payment options, Open Market said.</p>
+<p>&quot;Open Market's Internet commerce offering demonstrates a commitment to giving its customers as many payment options as possible,&quot; said Dennis Yaro, executive vice president, products and operations, CyberCash.</p>
+<p>&quot;By providing consumers and the business community with a full range of secure payment methods, Open Market is facilitating the arrival of a mature electronic commerce market, he added.&quot;</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

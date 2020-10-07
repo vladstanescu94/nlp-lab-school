@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80766" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Microsoft says '97 operating margins may decrease. [CORRECTED 07:31 GMT 28/9]</title>
+<headline>Microsoft says '97 operating margins may decrease. [CORRECTED 07:31 GMT 28/9]</headline>
+<dateline>WASHINGTON 1996-09-27</dateline>
+<text>
+<p>Microsoft Corp said on Friday (corrects day) its operating margins in 1997 may decrease from those in 1996.</p>
+<p>Microsoft, which made the disclosure in a 10K filing with the Securities and Exchange Commission, also said the revenue growth rate in the first two quarters of 1997 may not approach the levels attained in 1966, which it said was high due to upgrades in its Windows 95 software.</p>
+<p>The company said operating expenses are expected to increase in 1997.  </p>
+<p>&quot;Because of the fixed nature of a signficant portion of such expenses, coupled with the possibility of slower revenue growth, operating margins in 1997 may decrease from those in 1996,&quot; it said.</p>
+<p>In July, Microsoft Chief Financial Officer Mike Brown told Reuters he expected the company's growth to slow in the current fiscal year after posting a 46 percent increase in revenues for the year ended June 30.</p>
+<p>&quot;This was an unusually high growth rate -- the highest since '92,&quot; Brown said. &quot;I don't expect as much next year.&quot;</p>
+<p>Brown declined to be more specific, but analysts were predicting revenue growth in the 20 percent to 25 percent range for fiscal 1997.</p>
+<p>Brown also said he expected the first quarter of fiscal 1997's results to be relatively flat compared with the fourth quarter of fiscal 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

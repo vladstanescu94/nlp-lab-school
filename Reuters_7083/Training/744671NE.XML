@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744671" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: US House panel OKs bill to relax encryption limits.</title>
+<headline>US House panel OKs bill to relax encryption limits.</headline>
+<dateline>WASHINGTON 1997-07-22</dateline>
+<text>
+<p>The House International Relations committee approved on Tuesday legislation that would susbtantially relax U.S. export controls on computer encoding technolgy.</p>
+<p>In considering the legislation, the committee rejected an amendment, by 22-13, that would have allowed the president to maintain strict export controls on the grounds of national security.  </p>
+<p>Already approved by the House Judiciary Comittee, the bill is still a long way from becoming law. Several other committees in the House will consider the measure and the Senate is weighing legislation that would move in the opposite direction.</p>
+<p>Rep. Bob Goodlatte, Republican of Virginia and one of the bill's authors, said after the vote he expected the full House to vote on the measure before the end of the year.  </p>
+<p>&quot;The legislation looks very good,&quot; Goodlatte told reporters. &quot;There are other committees that have some peripheral jurisdiction over it and they have until early September to deal with the legislation.&quot;</p>
+<p>&quot;Then it's my expectation it will come for a vote on the floor of the House sometime this fall,&quot; he said.</p>
+<p>The bill, strongly opposed by the Clinton administration, would allow U.S. companies to export powerful encryption technology, programs which scramble information and render it unreadable without a password or software &quot;key.&quot;  </p>
+<p>The administration allows companies to export such programs only if the products allow the government to crack the codes by gaining access to the software keys.</p>
+<p>Lawmakers voting for the measure and against the national security exception amendment had to face down top officials from the FBI, National Security Council and Drug Enforcement Agency who attended the vote.</p>
+<p>Opponents of the bill also circulated a last minute written appeal against the bill from Secretary of Defense William Cohen.  </p>
+<p>Law enforcement officials warned that the use of encryption by criminals would devastate their ability to solve and prevent crimes.</p>
+<p>Committee chairman Benjamin Gilman, Republican of New York and author of the national security amendment, urged his colleagues to heed those concerns.</p>
+<p>&quot;We cannot be put in the position here of making mistakes, creating a proliferation of encryption that down the road ties the hands of our law enforcement and intelligence community,&quot; he said.  </p>
+<p>Rep. Sam Gejdenson, Democrat of Connecticut, said the export controls did nothing to prevent criminals from using encryption. He noted that previous unilateral U.S. export controls on computers and machine tools simply allowed foreign companies to gain market share.</p>
+<p>&quot;Any scoundral, any country that has its interest against the United States can walk into any store in any country and buy encryption software that will give our intelligence boys a heartache,&quot; Gejdenson said in an impassioned speech. &quot;The question is whether we're going to make believe we're doing something.&quot;</p>
+<p>William Reinsch, Under Secretary of Commerce, told lawmakers that approving the bill would also &quot;cripple&quot; ongoing negotiations with other countries to impose multilateral export controls. Reinsch said the United States was speaking with seven other countries, but did not name the countries.</p>
+<p>--Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

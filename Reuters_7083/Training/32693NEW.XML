@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32693" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Peoplesoft to acquire Co. in stock swap.</title>
+<headline>Peoplesoft to acquire Co. in stock swap.</headline>
+<dateline>PLEASANTON, Calif. 1996-09-04</dateline>
+<text>
+<p>PeopleSoft Inc said Wednesday it has agreed to acquire Red Pepper Software, a maker of manufacturing software based in San Mateo, Calif., for 2.975 million of its shares.</p>
+<p>PeopleSoft, a developer of client/server software for business, saw its shares close off 1/2 at 75-3/4.</p>
+<p>The deal will be accounted for as a pooling of interests and is expected to close by the end of 1996.  </p>
+<p>&quot;Red Pepper has the best (manufacturing) planning and optimization technology on the market,&quot; Dave Duffield, chief executive of PeopleSoft, said in a statement.</p>
+<p>In June 1995, PeopleSoft entered into a technology licensing and distribution agreement with Red Pepper, and earlier this year PeopleSoft launched a new line of software that embed Red Pepper's ResponseAgent technology.</p>
+<p>The technology enables real-time planning and optimization of manufacturing operations, integrated supply chains, and customer orders, PeopleSoft said.</p>
+<p>PeopleSoft will also benefit from the addition of significant Red Pepper's expertise in the areas of manufacturing and supply chain management.</p>
+<p>&quot;After working together for more than a year, we know both companies share a common vision for the future of enterprise applications, and have similar corporate cultures and company values,&quot; Duffield said in a statement. &quot;This is a great company with great people.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

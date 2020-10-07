@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219228" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: RESEARCH ALERT - Arbor Software Inc.</title>
+<headline>RESEARCH ALERT - Arbor Software Inc.</headline>
+<text>
+<p>-- Hambrecht &amp; Quist raised Arbor Software to a strong buy, noting selling pressure appears to be overdone and the December qtr appears on track.  </p>
+<p>-- Notes potential competitive issues with Oracle and Microsoft Corp should not pose a significant threat in the four to five quarters.</p>
+<p>-- Maintaining estimates.</p>
+<p>-- Arbor up 3-3/4 to 25-1/2.  </p>
+<p>Q397 estimates $0.12/shr, Q497 estimates $0.13/shr, fiscal 1997 estimate $0.47.shr.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

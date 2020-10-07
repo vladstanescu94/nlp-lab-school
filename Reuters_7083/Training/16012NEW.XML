@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16012" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: IQ Software Q2 $0.14 vs $0.06.</title>
+<headline>IQ Software Q2 $0.14 vs $0.06.</headline>
+<dateline>ATLANTA 1996-08-27</dateline>
+<text>
+<p>IQ SOFTWARE CORPORATION AND SUBSIDIARIES</p>
+<p>					  Income Statement</p>
+<p>					  (Unaudited)</p>
+<p>				     2nd Qtr. Ended  Six Months Ended</p>
+<p>				   7/31/96  7/31/95  7/31/96  7/31/95</p>
+<p>			   (In thousands, except per share amounts)</p>
+<p> Revenue:			    6,207   5,259   12,114  10,553</p>
+<p> Net income			    667     266    1,259     737</p>
+<p> Net income per share	     0.14    0.06     0.27    0.17</p>
+<p>Wtd. avg. number of common</p>
+<p>and common equiv. shares</p>
+<p>  outstanding			4,826   4,364    4,751   4,355</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

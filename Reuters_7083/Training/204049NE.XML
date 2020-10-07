@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204049" id="root" date="1996-11-20" xml:lang="en">
+<title>dubai: Saudi firm may face lawsuit over software piracy.</title>
+<headline>Saudi firm may face lawsuit over software piracy.</headline>
+<dateline>DUBAI</dateline>
+<text>
+<p>Caroline Drees</p>
+<p>A computer piracy watchdog backed by top U.S. software companies said Wednesday it hoped to bring its first private legal claim against a Saudi company within two months for alleged copyright violations.</p>
+<p>&quot;The claim will be brought by the BSA (Business Software Alliance) on behalf of the individual companies that make up the BSA,&quot; Brian McEachron, vice president of the Washington-based group told Reuters on a visit to Dubai.</p>
+<p>The alliance -- which groups software heavyweights like Microsoft Corp., Novell Inc. and Lotus, part of International Business Machines Corp. -- estimates that nine out of 10 software programmes used in Saudi Arabia are unlicensed.</p>
+<p>By comparison, piracy rates in western Europe hover between 30 and 50 percent, the BSA said.</p>
+<p>&quot;The rate of piracy in Saudi Arabia is quite high in global terms,&quot; said McEachron, who is also senior corporate attorney at Microsoft. He said losses in the kingdom were about $100 million in 1995, the largest single shortfall in the Middle East.</p>
+<p>&quot;In the Middle East, Saudi Arabia is the big problem,&quot; he said, adding that copyright enforcement was still weak.</p>
+<p>The alliance said some 115,000 personal computers were sold in Saudi Arabia in 1995. PC sales are used to gauge the software market.</p>
+<p>McEachron said lax or lacking copyright laws in the Gulf made the region a piracy trouble spot. &quot;In 1994 it was the only region where average piracy rates went up, not down,&quot; he said.</p>
+<p>McEachron said that while the United Arab Emirates had made great strides in fighting software piracy, the other Gulf Arab countries had a long way to go.</p>
+<p>Piracy in the U.A.E. had decreased to 80 percent from 90 in 1994, with losses of about $30-40 million annually, he said.</p>
+<p>The U.A.E. introduced copyright laws in 1992 as part of a bid to make the Gulf state more attractive to foreign investors. Authorities have stepped up efforts to enforce the law, and have regularly raided shops and companies suspected of selling pirated goods, a widespread practice in the oil-rich Gulf.</p>
+<p>In October, the Dubai public prosecutor pressed charges against a computer shop's manager and his sponsor for selling pirated software, the first such prosecution in the U.A.E.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191141" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: RESEARCH ALERT - Expert Software started.</title>
+<headline>RESEARCH ALERT - Expert Software started.</headline>
+<text>
+<p>-- UBS Securities Research analyst Michael Wallace said he initiated coverage of Expert Software Inc and Maxis Inc with hold ratings.</p>
+<p>-- &quot;(Expert Software) has good brand name recognition and product diversity,&quot; Wallace said in a research note. &quot;Expert also has solid marketing and distribution capabilities. More than 70 percent of the company's sales are direct to retailers and much of this goes through non-traditional channels such as supermarkets and bookstores.</p>
+<p>&quot;The main drawback is what we see as below-average title quality.&quot;  </p>
+<p>-- He said of Maxis that &quot;The company is is currently struggling due to new product delays and a cyclical product line-up. Maxis is also too dependent on its Slim line, in our opnion, which accounts for about 70 to 75 percent of total revenues.</p>
+<p>&quot;Despite these problems with execution, Maxis has good quality products and strong development technology.&quot;</p>
+<p>-- Expert Software shares were unchanged at 4-7/8 while Maxis was down 1/2 at 15-1/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700944" id="root" date="1997-07-02" xml:lang="en">
+<title>USA: Parametric Technology wins $2.3mln order.</title>
+<headline>Parametric Technology wins $2.3mln order.</headline>
+<dateline>WALTHAM, Mass. 1997-07-02</dateline>
+<text>
+<p>Parametric Technology Corporation said today that the U.S. Department of Energy recently ordered $2.3 million worth of software for use among its various national laboratories.</p>
+<p>In a statement, Parametric said it shipped its Pro/ENGINEER family of software tools during its fiscal quarter ending June 28, 1997.  In late Nasdaq trading, Parametric Technology's stock is down 1/2 at 41-3/8.</p>
+<p>Parametric's Pro/ENGINEER software tools are designed to automate the mechanical development of a product from its conceptual design through production.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

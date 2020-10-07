@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277034" id="root" date="1996-12-26" xml:lang="en">
+<title>DUBAI: Saudi raid hauls $2 million in pirated software.</title>
+<headline>Saudi raid hauls $2 million in pirated software.</headline>
+<dateline>DUBAI 1996-12-26</dateline>
+<text>
+<p>Saudi authorities raided several pirated software outlets in the city of Jeddah this week, seizing computer programmes worth $2 million on the legal market, an industry watchdog group said on Thursday.</p>
+<p>Three outlets, each with its own distribution network of resellers of pirate software in Saudi Arabia, Egypt and Bahrain, were raided and more than 10,000 illegal programmes were seized, the Dubai-based Business Software Alliance (BSA) Middle East said.</p>
+<p>The street value of the equivalent legal software is estimated to be more than $2 million, it said.</p>
+<p>&quot;These were the first major raids in Jeddah. There have been smaller raids there earlier as well major raids in (the capital) Riyadh,&quot; BSA Middle East director Ashok Sharma told Reuters.</p>
+<p>Industry sources estimate that nine out of 10 computer programmes used in Saudi Arabia are unlicensed, causing losses of about $100 million to software companies in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

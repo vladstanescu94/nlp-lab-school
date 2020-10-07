@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147792" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Computer tool makers Cadence Design, Cooper to merge.</title>
+<headline>Computer tool makers Cadence Design, Cooper to merge.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-28</dateline>
+<text>
+<p>Cadence Design Systems Inc. said Monday it will acquire Cooper &amp; Chyan Technology Inc., another maker of high-performance and complementary tools for the design of printed circuits, in a deal it valued at $418 million.</p>
+<p>The acquisition will facilitate substantial innovations in computer chip and printed circuit board design, the companies said. Printed circuits are used in products ranging from computer systems to telecommunications devices and consumer electronics.</p>
+<p>&quot;This merger will allow more designers to immediately take advantage of the CCT (Cooper &amp; Chyan) technology, and will significantly improve the methodology for next-generation design,&quot; said Cadence Chief Executive Officer Joe Costello.</p>
+<p>Under the terms of the agreement, Cooper &amp; Chyan shareholders will receive 0.85 share of Cadence common stock for each share of Cooper &amp; Chyan common stock.</p>
+<p>Based on Cooper &amp; Chyan's 12.9 million shares outstanding on Sept. 30, 1996, Cadence will issue about 11 million shares. The transaction is expected to be accounted for as a pooling of interests.</p>
+<p>Shares of Cupertino, Calif.-based Cooper &amp; Chyan fell $1.25 to to $30.25 in early trade on Nasdaq. Cadence fell $1.50 to $36.50 on the New York Stock Exchange.</p>
+<p>San Jose, Calif.-based Cadence is the largest supplier of software tools and professional services used to accelerate and manage the design of semiconductors, computer systems, networking and telecommunications equipment and consumer electronics, the company said.</p>
+<p>Cadence's annual sales exceed $500 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

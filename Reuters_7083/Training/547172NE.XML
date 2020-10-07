@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="547172" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: CA ships Unicenter TNG for SAP AG.</title>
+<headline>CA ships Unicenter TNG for SAP AG.</headline>
+<dateline>ISLANDIA, N.Y 1997-04-29</dateline>
+<text>
+<p>Computer Associates International Inc said Tuesday it started shipping Unicenter TNG, providing multi-platform management software for SAP AG's R/3 management software.</p>
+<p>Unicenter TNG software offers end-to-end management of distributed R/3 applications across multiple platforms, operating systems and R/3 systems from a single management console, the company said.</p>
+<p>The terms of the transaction were not disclosed.  </p>
+<p>&quot;Rather than just assembling a portfolio of point products and patching them together on a desktop, Unicenter TNG for SAP R/3 integrates the full range of networks, servers, databases and SAP applications in the corporate environment, providing true application-centric management,&quot; said Sanjay Kumer, Computer Associates president and chief operating officer.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLANDIA, N.Y"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

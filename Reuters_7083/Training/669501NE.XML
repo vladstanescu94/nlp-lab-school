@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="669501" id="root" date="1997-06-18" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa's IDC cuts rates to boost manufacturing.</title>
+<headline>S.Africa's IDC cuts rates to boost manufacturing.</headline>
+<dateline>JOHANNESBURG 1997-06-18</dateline>
+<text>
+<p>The state-owned Industrial Development Corporation (IDC) said on Wednesday it had reduced its interest rates in a bid to assist South Africa's medium-sized manufacturing sector.</p>
+<p>It said that in terms of loan financing, its variable interest rates had been reduced to two percent and 2.5 percent below the prime overdraft rate -- currently 20.25 percent.</p>
+<p>The variable rates on offer had now been set at 18.25 a year for loans below 25 million rand and 17.75 percent a year above 25 million rand, compared with 19.3 percent a year previously.</p>
+<p>The IDC's fixed interest rate was set at 16.5 percent and was available to enterprises with total assets of under 60 million rand.</p>
+<p>In addition, low interest rates on the IDC's special financing schemes, would now run for the full term of the loan with a maximum of six years as opposed to three years before. The special interest rates would be three percentage points below either the variable or fixed interest rates.</p>
+<p>Special financing schemes are aimed at the promotion of job creation, exports and improved international competitiveness.</p>
+<p>&quot;This means that qualifying industrialists could obtain low interest rates in the range between 13.5 percent per annum and 15.25 percent per annum for six years,&quot; it said in a statement.</p>
+<p>In an effort to support job creation, the qualifying criteria for its Jobs Scheme had been adjusted to take inflation into account.</p>
+<p>&quot;Industrialists creating new jobs at a total investment of less than 100,000 rand per job will now qualify for the low interest rate (of between 13.5 and 15.25 percent) compared with 50,000 rand per job before.&quot;</p>
+<p>&quot;The IDC believes that its new rates will stimulate industrial development, especially amongst medium sized manufacturing,&quot; it added.</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

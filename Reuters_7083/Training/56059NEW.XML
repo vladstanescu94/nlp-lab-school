@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56059" id="root" date="1996-09-16" xml:lang="en">
+<title>FRANCE: Computers that talk, or are simple and cheap?.</title>
+<headline>Computers that talk, or are simple and cheap?.</headline>
+<dateline>PARIS 1996-09-16</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>Bill Gates sees the day coming when your computer will listen, talk and learn, while Larry Ellison is offering a stripped-down device that give low-cost but narrowly-based access to information networks.</p>
+<p>Industry observers see merit in the approaches of both these U.S. information technology leaders, saying there is almost certainly room for both as markets grow.</p>
+<p>Microsoft Corp's Gates was giving his vision of the future to a conference here organised by IDG, the U.S. information technology consultancy and publisher.</p>
+<p>Larry Ellison of database powerhouse Oracle Corp, was touting his Network Computer, the stripped-down device that offers low-cost but narrowly-based access to information networks. Ellison hopes that the network computer will help his often personalised campaign to topple Microsoft from its position as the dominant information technology company.</p>
+<p>&quot;His (Gates) job is to get Windows (software) everywhere. Our job is to make sure he doesn't,&quot; Ellison said.</p>
+<p>Ellison, Chairman and Chief Executive Officer of Oracle, said in a speech that the personal computer is overpriced and overcomplicated and the much-heralded information age will never arrive if personal computers remain the only route to the Internet, the worldwide network of computers.</p>
+<p>&quot;Seventy percent of U.S. homes don't have a personal computer, and 90 percent of Europeans and Japanese don't have them. That leaves them effectively disenfranchised,&quot; Ellison said.</p>
+<p>The information age will only arrive when access reaches television proportions of close to 100 percent, Ellison said.</p>
+<p>Gates, chairman and Chief Executive Officer of software giant Microsoft Corp, said personal computers will continue to improve, providing more power, faster and cheaper.</p>
+<p>&quot;The pace of innovation is really pretty fantastic. The speed of processing is doubling every two years,&quot; Gates told IDG's &quot;European IT Forum&quot;.</p>
+<p>Computing power would provide unprecedented ease of access.</p>
+<p>&quot;We'll look back and say they (PCs) couldn't listen, they couldn't talk, they couldn't even learn,&quot; said Gates.</p>
+<p>Ellison's vision of a product that would please the public was less grand.</p>
+<p>&quot;Myself and my mother were all the market research we (Oracle) did,&quot; said a straight-faced Ellison. &quot;The product had to do all the things I wanted to do, like electronic mail, word processing, World Wide Web access and video conferencing, and be easy enough for her to use,&quot; Ellison said.</p>
+<p>&quot;It will do all the things better than the PC, at lower cost,&quot; Ellison said.</p>
+<p>But industry observers see merit in the approaches of Microsoft and Oracle, saying there is almost certainly room for both as markets grow.</p>
+<p>&quot;The network computer is suitable for lots of things,&quot; said Neil Hollister, consultant at Datamonitor in London.</p>
+<p>&quot;Ellison's claim that there will be 100 million by 2000 is much too high, though. We say maybe eight to 10 million by 2000,&quot; Hollister said.</p>
+<p>Some see hidden motives behind the push for a network computer.</p>
+<p>&quot;The creation of the NC specification is a politically motivated effort to accomplish a vendor-driven agenda,&quot; The Burton Group of Midvale, Utah, said in a recent report.</p>
+<p>&quot;The vendors involved, particularly Sun (Microsystems) and Oracle simply cannot stand the fact that Microsoft has so successfully dominated the PC industry,&quot; the report said.</p>
+<p>&quot;...the market has a way of crushing, or totally ignoring, such politically motivated efforts...&quot;, the report said.</p>
+<p>Network computers will only occupy small market niches, The Burton Group said.</p>
+<p>Ellison concedes that the network computer will never replace the PC, just as the PC failed to kill-off the mainframe computer.</p>
+<p>&quot;We just want computers to what we do better, easier, and cheaper,&quot; Ellison said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

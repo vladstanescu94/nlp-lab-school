@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105933" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: U S West forms alliance to make chipcards.</title>
+<headline>U S West forms alliance to make chipcards.</headline>
+<dateline>SEATTLE 1996-10-09</dateline>
+<text>
+<p>U S West Communications Group said Wednesday it had formed an alliance with PTT Telecom Netherlands/Unisource, GTE Corp, Bell Canada and Telekom Malaysia Bhd to establish the Global Chipcard Alliance.</p>
+<p>It said the goal of the alliance was to create an open infrastructure for chipcards to enable inter-operability on a world-wide basis and accelerate electronic commerce.</p>
+<p>Major organizations like Oracle Corp have indicated their interest in joining the alliance, it added.</p>
+<p>Under the alliance, U S West said it and the other companies would produce a limited edition four-card set that would be fully operational.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

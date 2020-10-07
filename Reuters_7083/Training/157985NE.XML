@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157985" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: INTERVIEW-New CEO praises Bay's technology.</title>
+<headline>INTERVIEW-New CEO praises Bay's technology.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-10-30</dateline>
+<text>
+<p>Bay Networks Inc's newly chosen chief executive and chairman, David House, will leave one of the top-paying positions at Intel Corp to lead Bay because of its technology - and the opportunity to be CEO.</p>
+<p>&quot;It's got great technology,&quot; House told Reuters in an interview when asked why he is coming to Bay.</p>
+<p>The Intel senior vice president's praise for Bay's technology - and more so his decision to come to Bay - provide a strong endorsement of the troubled networking company's core attributes at a time when outsiders are questioning it.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

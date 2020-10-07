@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217451" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: CBT Group plans acquisition.</title>
+<headline>CBT Group plans acquisition.</headline>
+<dateline>MENLO PARK, Calif. 1996-11-26</dateline>
+<text>
+<p>CBT Group Plc said on Monday it has agreed to acquire Applied Learning Limited, an Australian distributor of interactive education software, for US$10 million in CBT's American Depositary Shares.</p>
+<p>Applied Learning is based in New South Wales, Australia, and it is CBT's exclusive software distributor in Australia and New Zealand.</p>
+<p>The acquisition is to be consummated under Australian law. It is subject to approval of the Supreme Court of New South Wales and a 75-percent vote by Applied Learning shareholders.</p>
+<p>The deal is expected to be accounted for as a pooling of interests and will close on or before the end of February 1997.</p>
+<p>CBT Group's shares ended up 2 at 54-3/4 on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

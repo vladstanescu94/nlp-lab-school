@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389033" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: ECsoft Group PLC Q4 full results.</title>
+<headline>ECsoft Group PLC Q4 full results.</headline>
+<dateline>NEW YORK 1997-02-18</dateline>
+<text>
+<p>CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS</p>
+<p>(in thousands of U.S. dollars, except per share amounts, unaudited)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>					 December 31	 December 31</p>
+<p>					1996     1995	1996    1995</p>
+<p> Revenues:			$14,867 $10,643   $50,570 $35,644</p>
+<p>    Non-recurring expense	   0	 0	   0   1,325</p>
+<p> Net income (loss)		  839   1,138     2,147	52</p>
+<p>Net income per ordinary share</p>
+<p>					 0.15    0.23	0.41    0.01</p>
+<p>Shares used to compute</p>
+<p>net income per ordinary share</p>
+<p>					5,712   4,999     5,178   4,999</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

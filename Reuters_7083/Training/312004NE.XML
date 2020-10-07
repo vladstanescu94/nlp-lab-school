@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312004" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Q4 reports highlight insatiable high-tech demand.</title>
+<headline>Q4 reports highlight insatiable high-tech demand.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1997-01-16</dateline>
+<text>
+<p>The seemingly astounding sales growth of 41 percent announced by Intel Corp for its December quarter is indicative of just how broad demand is for computer technology, economists say.</p>
+<p>Sun Microsystems Inc's 19 percent sales growth in its fourth quarter confirms this, they added.  </p>
+<p>&quot;The electronics industry is putting an increasing amount of input into day-to-day things and that will continue indefinitely,&quot; said economist John Matheison, director of the economics practice at SRI International, a Menlo Park, Calif.-based think tank on technology.</p>
+<p>Indeed a new car manufactured these days has between 30 and 100 semiconductors in it, depending on the model.</p>
+<p>Architects no longer design on draft boards and huge rolls of blue paper, they use personal computers or workstations.</p>
+<p>Even aircraft are computer-generated these days.  </p>
+<p>Boeing Inc engineers designed and developed the company's 777 jet aircraft completely on computers. Boeing began manufacturing 777s without first building a full scale mock-up, as usual.</p>
+<p>&quot;Think of the impact digital technology had on Boeing. The 777 was the first plane built entirely on computers. That creates an enormous savings of time which gives Boeing Co a commercial advantage,&quot; said technology analyst Paul Saffo, president of Institute for the Future.  </p>
+<p>Computer technology is giving a huge behind the scenes boost to the economy by &quot;enabling new forms of efficiency in other industries. When Boeing has a good month, you see the difference in our gross domestic product,&quot; Saffo said.</p>
+<p>Capital spending in technology equipment by U.S. based companies is at a peak, having grown 24.4 percent in the year ending October, said Prudential Securities chief economist Richard Rippe.</p>
+<p>Companies in a vast array of industries are investing computer networking, intranets, new PCs and computer-generated efficiencies, fearing competitive disadvantage if they don't.  </p>
+<p>&quot;It is almost a do or die situation in many industries,&quot; said Matheison.</p>
+<p>Cisco Systems Inc, Microsoft Corp, Intel and Oracle Corp are some of the chief beneficiaries.</p>
+<p>&quot;Forty-three percent of capital expenditures are now for high-tech (equipment) versus the seventies when it was only seven percent,&quot; Cisco Chief Executive Officer John Chambers told Reuters. &quot;To put it in layman's terms, the automotive industry in the U.S. used to contribute five times to industrial output what technology did. Now high-tech contributes twice as much as the automotive industry.&quot;  </p>
+<p>Cisco Systems' revenues have been growing 80 percent in recent quarters from the equivalent year ago quarters.</p>
+<p>Chambers expects the networking equipment market that Cisco serves will continue to grow 30 to 50 percent a year.</p>
+<p>Intel, given its central role as supplier of microprocessors for 90 percent of personal computers sold today, is seen growing earnings about 50 percent next year and revenues about 40 percent, according to a slew of analysts.</p>
+<p>Typical is the $9.00 a share profit estimate First Boston analyst Jack Gerrity has for Intel in 1997. It is more than a 50 percent jump from 1996's $5.81 a share.  </p>
+<p>While a number of factors contributed to Intel's success in 1996's last quarter, the main fuel was sheer demand.</p>
+<p>Intel executives cited the beginning of a corporate computer upgrade cycle, rapid penetration of PCs into the emerging markets of Asia and the Internet as chief drivers.</p>
+<p>All three are only just starting and any one of them is a strong driver in itself.</p>
+<p>&quot;Sun's positive second quarter financials reflect a continuing growth trend for the company and the Internet industry,&quot; said Zona Research Inc.</p>
+<p>&quot;When viewed in light of Intel's impressive numbers for the quarter, this announcement confirms the Internet industry is not a zero-sum game.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

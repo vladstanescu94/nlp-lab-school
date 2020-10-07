@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="635788" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: Ted Turner says New web site reduces stress.</title>
+<headline>Ted Turner says New web site reduces stress.</headline>
+<dateline>ATLANTA 1997-06-04</dateline>
+<text>
+<p>Ted Turner's love life, health and bank account may all be a lot less stressful now that CNN's new Web site is up and running, the media mogul and sports entrepreneur -- turned humorist -- said Wednesday.</p>
+<p>Poking fun during the unveiling of CNN Custom News,  the Time Warner vice chairman and admitted non-computer geek told an audience at the Comdex computer trade show in Atlanta that &quot;information overload&quot; is causing many people -- himself included -- stress-related problems.</p>
+<p>&quot;It's affecting our love lives,&quot; he said of the recent bombardment of data from myriad sources, including dozens of TV networks and the Internet. &quot;It's killing people!&quot;</p>
+<p>Of the PC on his office desk, which spits out prices for stocks he owns at breakneck speed, he said,&quot;It's hypnotizing.&quot;</p>
+<p>&quot;Every few seconds it changes, up an eighth, down an eighth -- it's like playing a slot machine. I lose $20 million, I gain $20 million ...&quot;</p>
+<p>&quot;Whoever I'm having lunch with will get the check depending on whether its up or down,&quot; the white-haired billionaire told a packed house at the technology conference.</p>
+<p>CNN Custom News (www.cnn.com/customnews) is a joint venture between Time Warner Inc.'s CNN and database software maker Oracle Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

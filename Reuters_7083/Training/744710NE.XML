@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744710" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: Citrix says Microsoft small part of growth.</title>
+<headline>Citrix says Microsoft small part of growth.</headline>
+<dateline>NEW YORK 1997-07-22</dateline>
+<text>
+<p>Citric Systems Corp's record second quarter revenues and earnings were the result of strong traditional business practices, not an abberation caused by a recent deal with Microsoft Corp, Citrix said Tuesday.</p>
+<p>&quot;The business that you see from the quarter was our basic channel business, our bread and butter business,&quot; said Edward Iacobucci, chairman and chief technology officer of Citric, in an interview.</p>
+<p>On Monday, the software maker said its second quarter earnings per share rose to $0.29, up from $0.14 a year ago. Revenues jumped to $24.5 million compared to $9.8 million in the same period last year.</p>
+<p>In May, Citrix signed a licensing deal with Microsoft Corp, that will bring in to Citrix an initial $75 million in fees and up to $100 million in royalties.</p>
+<p>James Felcyn, Citrix's chief financial officer, said that the income from the deal is pro-rated and that only about 10 percent of the revenue recorded in the second quarter came from Microsoft.</p>
+<p>&quot;The Microsoft component, pro-rated in, was about $2.1 million,&quot; he said, adding that virtually all of the company's growth in the period was from sales of its packaged software.</p>
+<p>Citrix writes software that lets an old PC or an outdated terminal -- a type of computer that gets its computing power from a corporate network -- run programs written for Microsoft's Windows. The deal involves technology which would let several terminal using Windows NT use a single server for running common business software.</p>
+<p>The two companies will also co-market future products.</p>
+<p>Citrix has also recently announced a licensing agreement with Amdahl Corp and a marketing pact with 3Com Corp .</p>
+<p>While neither Citrix executive would make projections about future earnings, Iacobucci said he is &quot;cautiously optimistic,&quot; and notes that the company's current business model should produce stable growth.</p>
+<p>&quot;It's strong steady growth,&quot; he said. &quot;It (the software) is a solution that is needed, regardless of whatever is on the horizon, and I think with (the deal with) Microsoft it's just taking away some concerns that were on the horizon.&quot;</p>
+<p>Shares of Citrix fell 2-5/8 to 52-5/8 in active trade on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

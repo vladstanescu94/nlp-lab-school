@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466896" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: BEA gets FTC approval to buy Digital lines.</title>
+<headline>BEA gets FTC approval to buy Digital lines.</headline>
+<dateline>SUNNYVALE, Calif. 1997-03-25</dateline>
+<text>
+<p>BEA Systems Inc said Tuesday it received approval from the U.S. Federal Trade Commission and the U.S. Assistant Attorney General to proceed with the acquisition of two Digital Equipment Corp product lines.</p>
+<p>According to the agreement, BEA is obtaining exclusive worldwide rights and all associated patents, trademarks, and intellectual property for three Digital products: ObjectBroker, DECmessageQ, and ObjectBroker Desktop Connection.</p>
+<p>Financial terms of the deal were not disclosed.  </p>
+<p>BEA also said it is receiving an unrestricted worldwide source license for DIGITAL's SAP R/3 Wrapper.</p>
+<p>BEA, which provides distributed Enterprise Middleware Solutions, said 72 of the 75 Digital employees and contractors will work for BEA.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="780774" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: TABLE - ScanVec Co Q2 shr loss vs profit.</title>
+<headline>TABLE - ScanVec Co Q2 shr loss vs profit.</headline>
+<dateline>NEW YORK 1997-08-06</dateline>
+<text>
+<p>Six Mos. period ended     Three Mos. Period ended</p>
+<p>				June 30,			June 30,</p>
+<p>			  1997	   1996	   1997	  1996</p>
+<p>Sales	     $6,673,137  $5,595,482  $3,524,445  $3,202,206</p>
+<p>Cost of sales</p>
+<p>		    $1,635,661  $1,487,745  $  853,301  $  850,103</p>
+<p>Gross profit    $5,037,476  $4,107,737  $2,671,144  $2,352,103</p>
+<p>Research and development,</p>
+<p> gross	    $2,136,719  $1,593,465  $1,118,861  $  823,638</p>
+<p>Less royalty-bearing</p>
+<p>  grants	  $  570,829  $  569,000  $  235,646  $  379,000</p>
+<p>Less capitalization of</p>
+<p>computer software</p>
+<p>  costs	   $  360,000  $  380,000  $  202,500  $  190,000</p>
+<p>R&amp;D, net	  $1,205,890  $  644,465  $  680,715  $  254,638</p>
+<p>Selling expenses, net</p>
+<p>		    $2,734,880  $2,708,603  $1,478,104  $1,404,533</p>
+<p>General &amp; administrative</p>
+<p> expenses	 $1,398,103  $1,146,673  $  697,619  $  478,851</p>
+<p>Operating income</p>
+<p>		    $ (301,397) $ (392,004) $ (185,294) $  214,081</p>
+<p>Financial income, net</p>
+<p>		    $  166,484  $  147,869  $   79,467  $   42,467</p>
+<p>Income before taxes on</p>
+<p> income	   $ (134,913) $ (244,135) $ (105,827) $  256,547</p>
+<p>Taxes on income $   20,000  $  (55,000) $   20,000  $   55,000</p>
+<p>Net income	$ (154,913) $ (189,135) $ (125,827) $  201,547</p>
+<p>Earnings per share</p>
+<p>		    $    (0.03) $    (0.04) $    (0.03) $     0.05</p>
+<p>Average number of shares</p>
+<p>		     4,428,000   4,428,000   4,428,000   4,428,000</p>
+<p>((New York Newsdesk, 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

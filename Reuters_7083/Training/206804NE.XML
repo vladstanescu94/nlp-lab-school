@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206804" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Fujitsu unit and Intuit in pact.</title>
+<headline>Fujitsu unit and Intuit in pact.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-11-20</dateline>
+<text>
+<p>Fujitsu Ltd's Fujitsu PC Corp and Intuit Inc Thursday said they formed a partnership to bundle Intuit's leading personal finance software Quicken SE and its expense reporting software ExpensAble on Fujitsu's new LifeBook family of portable computers.</p>
+<p>Separately, Intuit announced the debut of its first ever branding TV ad campaign for Quicken.</p>
+<p>The advertising campaign, called &quot;Get Clickin' with Quicken,&quot; supports its new easier to use version, Quicken 6.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

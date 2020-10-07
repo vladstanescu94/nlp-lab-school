@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108444" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Microsoft unveils new Web-based online network.</title>
+<headline>Microsoft unveils new Web-based online network.</headline>
+<dateline>REDMOND, Wash. 1996-10-10</dateline>
+<text>
+<p>Microsoft Corp., pursuing its vow of becoming a dominant force in the Internet market, unveiled a new World Wide Web-based version of its Microsoft Network Thursday and announced new pricing for the service.</p>
+<p>Microsoft said the new version of its online service, already the third-largest online service in the world, will offer new services, original entertainment programming and a &quot;program viewer&quot; that puts members just a click away from any major area on the entire Internet.</p>
+<p>&quot;People tell us two things about going on the Internet -- that there is nothing there, and that there's so much there they can't find anything,&quot; said Pete Higgins, a Microsoft group vice president.</p>
+<p>&quot;Our goal with the new Microsoft Network is to address both issues, combining a lot of essential services, original entertainment and new information in one place and making the rest of the Internet easier to approach and enjoy.&quot;</p>
+<p>Microsoft, the world's largest software company, said a &quot;sneak preview&quot; of its new network, also known as MSN, was now underway for more than 100,000 of its 1.6 million customers, with full roll-out scheduled for early November.</p>
+<p>The company said the basic monthly plan will offer five hours of access to the Internet, electronic-mail and all MSN services and original programming for $6.95 per month, with additional hours at $2.50.</p>
+<p>A premier plan offers unlimited access for $19.95 per month. A third plan, aimed at users who already have Internet access, will offer unlimited usage of all MSN content for only $6.95 per month.</p>
+<p>For those who already have access to the Internet, a number of MSN services, such as Expedia travel services, Microsoft Investor investing service and MSNBC, the company's all-news collaboration with NBC, will be free.</p>
+<p>&quot;Our goal with the new Microsoft Network is to bridge the gap between what users expect from the Internet and what has so far been delivered,&quot; said Laura Jennings, vice president of the Microsoft Network.</p>
+<p>&quot;The new MSN brings the Internet to life with an engaging multimedia interface that guides members with ease through original programming, useful services and the entire Internet.&quot;</p>
+<p>The company said its new programme viewer, based on its Internet Explorer browser, is organised into four main areas -- OnStage, Communicate, Find and Essentials -- that correspond to what most people want to do online.</p>
+<p>OnStage is the news and entertainment area MSN, featuring six channels and more than 20 Web &quot;shows.&quot;</p>
+<p>The Communicate area of the programme viewer will provide an easy way to use e-mail, participate in chats, enter discussion forums and access Internet newsgroups, the company said.</p>
+<p>The Find area will simplify the searching process, helping users to locate topics of interest without the frustration of random searches.</p>
+<p>In addition, members can select from the Internet's most popular search engines -- AltaVista, Yahoo! and Lycos, plus Deja News, an Internet newsgroup search engine -- for more targeted searches.</p>
+<p>The Essentials area of the programme viewer will make key services available online so members can find time-saving information and make purchases.</p>
+<p>&quot;Our goal was to create a network that is easy to use, is well-produced and makes sense of a new medium for our audience,&quot; said Bob Bejan, executive producer of Microsoft Network.</p>
+<p>&quot;MSN takes our members from being spectators of mass media to being collaborators in mass media, and does so in a way that is engaging, informative and entertaining.&quot;</p>
+<p>Microsoft's stock added 87.50 cents to $135.375 in early afternoon trading on the Nasdaq market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

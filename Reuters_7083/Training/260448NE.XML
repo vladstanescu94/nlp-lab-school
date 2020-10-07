@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260448" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Wiz Technology Inc Q1 shr loss vs profit.</title>
+<headline>Wiz Technology Inc Q1 shr loss vs profit.</headline>
+<dateline>SAN JUAN CAPISTRANO, Calif. 1996-12-17</dateline>
+<text>
+<p>Summary Income Statement</p>
+<p>						   Three months ended</p>
+<p>					Oct. 31, 1996     Oct. 31, 1995</p>
+<p>					   unaudited	    unaudited</p>
+<p> Net sales			    $ 1,319,175	 $ 2,046,032</p>
+<p> Income (loss) from operations    (230,371)	     401,943</p>
+<p> Other income (expenses)	     (18,292)		15,403</p>
+<p> Income (loss) before taxes	 (248,663)	     417,346</p>
+<p> Provision for income taxes		  --		16,694</p>
+<p> Net income (loss)		    (248,663)	     400,652</p>
+<p>Net income (loss) per common share</p>
+<p>					     (  0.03)		  0.05</p>
+<p>Weighted average</p>
+<p> shares outstanding		   8,985,191	   8,583,253</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JUAN CAPISTRANO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

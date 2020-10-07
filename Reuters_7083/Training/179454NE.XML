@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179454" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Lernout &amp; Hauspie, Microsoft in pact.</title>
+<headline>Lernout &amp; Hauspie, Microsoft in pact.</headline>
+<dateline>NEW YORK 1996-11-11</dateline>
+<text>
+<p>Lernout &amp; Hauspie Speech Products NV said Monday it has licensed its automatic speech recognition and text-to-speech software to Microsoft Corp to embed into its future products.  </p>
+<p>The company's text-to-speech technology enables electronic equipment to convert written text to &quot;human-like&quot; speech. The product is available in seven languages including both American and British English, Dutch, French, German, Italian, Korean and Spanish.</p>
+<p>Arabic, Mandarin Chinese, Japanese and Portuguese are now under development, it said.</p>
+<p>&quot;We are of course extremely pleased with Microsoft's decision to license our ASR and TTS technology,&quot; said Gaston Bastiaens, president of Lernout &amp; Hauspie, referring to the automatic speech recognition and text-to-speech software.</p>
+<p>&quot;The fact that our technologies will be extensively used throughout the software development community clearly indicates that speech recognition is becoming ... more widely accepted,&quot; said Bastiaens, the former chief executive of Quarterdeck Corp.</p>
+<p>The company's worldwide headquarters is in Ieper, Belgium, and U.S. headquarters is located in Burlington, Mass.</p>
+<p>-- Eric Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

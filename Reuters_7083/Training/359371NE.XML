@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="359371" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Aurum Software Inc Q4 full results.</title>
+<headline>Aurum Software Inc Q4 full results.</headline>
+<dateline>SANTA CLARA, Calif. 1997-02-06</dateline>
+<text>
+<p>(in thousands)</p>
+<p>					 Three Months Ended  Year Ended</p>
+<p>					     December 31   December 31</p>
+<p>					  1996    1995     1996    1995</p>
+<p>Net Revenues:</p>
+<p> Licenses			    6,110   2,373   16,430   5,928</p>
+<p> Services			    3,222   1,395   11,154   4,547</p>
+<p> Total revenues		    9,332   3,768   27,584  10,475</p>
+<p>Cost of revenues:</p>
+<p> Licenses				469     257    1,368     979</p>
+<p> Services			    2,583   1,450    9,594   3,919</p>
+<p> Total cost of revenues	  3,052   1,707   10,962   4,898</p>
+<p> Gross profit			6,280   2,061   16,622   5,577</p>
+<p>Operating expenses:</p>
+<p> Sales and marketing	     3,913   2,350   11,171   6,626</p>
+<p> Research and development	1,354     574    3,707   2,286</p>
+<p> General and administrative	574     325    1,662   1,023</p>
+<p> Total operating expenses	5,841   3,249   16,540   9,935</p>
+<p> Income (loss) from operations   439  (1,188)	82</p>
+<p> Interest expense		   (70)    (33)    (213)   (157)</p>
+<p> Income (loss) before taxes     751  (1,205)     304  (4,452)</p>
+<p> Provision for income taxes	 25	--	 25	--</p>
+<p> Net income (loss)		  726  (1,205)     279  (4,452)</p>
+<p>Net income (loss) per share</p>
+<p>   (Pro forma in 1995)	   $0.07 $(0.14)    $0.03 $(0.66)</p>
+<p>Shares used in per share</p>
+<p>   calculation		    11,041   8,501    9,948   6,712</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

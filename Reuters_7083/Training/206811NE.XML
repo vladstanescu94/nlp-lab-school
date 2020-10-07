@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206811" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Software titans battle over Internet groupware.</title>
+<headline>Software titans battle over Internet groupware.</headline>
+<byline>Samuel Perry</byline>
+<dateline>LAS VEGAS 1996-11-21</dateline>
+<text>
+<p>A few years ago, one company led the market for an exciting new technology called groupware, which enabled workers at different locations to use computers to collaborate on business projects.</p>
+<p>But the rise of the Internet has changed all that, creating new opportunities for using such software more widely and setting the battleground for a clash for a share of one of the fastest-growing markets in the personal computer industry.</p>
+<p>The market is driven by corporations' desire to use cheaper, easier-to-use Internet technologies to tie together far-flung and incompatible computing systems, a market some now estimate may reach $10 billion by the year 2000.</p>
+<p>The trend has helped fuel the explosive growth of Netscape Communications Corp., which burst onto the public market in August 1995 and has been turning its focus to using Internet technologies in the lucrative corporate market for building the internal networks known as intranets.</p>
+<p>Intranets use relatively inexpensive software to link together people across an organisation and allow access to information via a common interface, or browser.</p>
+<p>Netscape's abrupt rise jolted software giant Microsoft Corp., which has been rushing to incorporate Internet technology throughout its products, and International Business Machines Corp.'s Lotus Development Corp., which pioneered the groupware market with its Lotus Notes products.</p>
+<p>At Comdex, the computer industry's largest trade show, all three companies have unveiled strategies aimed at attracting major corporate customers to their products.</p>
+<p>Lotus, which is trying to revive its early lead with its Domino computer network software and a package of collaborative programmes like spreadsheets and word processors, promises to use IBM's deep pockets to fund its campaign.</p>
+<p>The battle next year is expected to be even more intense than the skirmish last summer between Microsoft and Netscape over Microsoft's entry into the Web browser market, in which Netscape retains a nearly 80 percent stake.</p>
+<p>&quot;If they thought the browser war was bloody, just wait,&quot; Lotus President Jeff Papows said earlier this week. &quot;This will be a whole new level of bloodiness.&quot;</p>
+<p>Although Lotus has moved to add Internet features while slashing prices on its software for the Notes market, the roughly $700 million in research and development spending it touts is only a fraction of Microsoft's $2 billion-plus total research and development budget in fiscal 1997 alone.</p>
+<p>And while Lotus officials privately say they would rather have the problem of reducing prices dramatically than having to build sophisticated corporate networke systems from scratch, new Internet technology offers compelling savings.</p>
+<p>Netscape Chief Executive Jim Barksdale, in his keynote address at Comdex on Wednesday, identified some corporate customers who he said had reported up to 2063 percent return on investment by deploying intranets using Netscape products.</p>
+<p>Microsoft Chief Executive Bill Gates said his company will focus its resources on lowering the cost of corporate computing this year with the same intensity it applied last year in adapting Internet technologies.</p>
+<p>Analysts said that by bundling many of its Internet-based technologies with its latest operating systems, Microsoft may have an upper hand in releasing new products and with customers who are committed to remaining on the leading edge.</p>
+<p>But even in the personal computing market where Microsoft's operating systems dominate, fewer than one-third of company machines run the latest versions of Microsoft Windows software needed to fully utilize its groupware features, they add.</p>
+<p>&quot;It's less a competition for (software) suite sales than it is for corporate dollars,&quot; said Morgan Stanley &amp; Co. analyst Mary Meeker, who sees two paths for corporate customers.</p>
+<p>One set may chose to upgrade all its software to the latest Microsoft products, including Microsoft's newly launched Office 97 suite.</p>
+<p>Meeker said this option is costly.</p>
+<p>Another set of customers, Meeker said, could chose to keep their investment in existing computers and, using Netscape's products on the 17 different systems it supports, build a system combining these machines relatively quickly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

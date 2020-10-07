@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593723" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: Boston Globe's top 100 Massachusetts firms.</title>
+<headline>Boston Globe's top 100 Massachusetts firms.</headline>
+<dateline>BOSTON 1997-05-19</dateline>
+<text>
+<p>Companies in the retailing, high-technology, bio-technology and communications sectors were the best performers in Massachusetts, according to the Boston Globe's ninth annual rating of the state's top companies.</p>
+<p>The survey put T.J. Maxx in the number one slot. The $6.7 billion fashion retailer, with stores across the United States, Canada and Great Britain had a meteoric rise, the editors said.</p>
+<p>The Framingham, Mass.-based company, which was ranked 87 in the top of 100 of 1996, saw a 68 percent rise in revenues and a 146 percent increase in profit margin, the newspaper said.</p>
+<p>The other top five Massachusetts companies are:</p>
+<p>* Boston Scientific Corp of Natick, which makes medical devices</p>
+<p>* Cascade Technology Corp of Westford, a computer networking products company</p>
+<p>* Parametric Technology Corp of Waltham, a software firm</p>
+<p>* Wyman Gordon Co of North Grafton, a maker of aerospace components.</p>
+<p>((--Boston bureau, 617-367-4106))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

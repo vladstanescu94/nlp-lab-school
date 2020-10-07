@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="188154" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Nestor Inc Q1 loss narrows.</title>
+<headline>Nestor Inc Q1 loss narrows.</headline>
+<dateline>PROVIDENCE, R.I. 1996-11-14</dateline>
+<text>
+<p>Three Months Ended September 30,</p>
+<p>						   1996	   1995</p>
+<p> Total Revenues			  $ 851,867  $ 1,012,501</p>
+<p> Net Income (Loss)		     (271,731)    (425,509)</p>
+<p> Net Income (Loss) Per Share	  (  0.03)     (  0.06)</p>
+<p>Weighted Average Number</p>
+<p>   of Shares Outstanding	     8,534,326    7,666,384</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PROVIDENCE, R.I."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

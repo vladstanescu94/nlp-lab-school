@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127359" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Timberline Software Corp Q3 net rises.</title>
+<headline>Timberline Software Corp Q3 net rises.</headline>
+<dateline>BEAVERTON, Ore. 1996-10-17</dateline>
+<text>
+<p>(UNAUDITED)</p>
+<p>			Third Quarter Ended     Nine Months Ended</p>
+<p>				Sep 30,		    Sep 30,</p>
+<p>			    1996	1995	  1996	  1995</p>
+<p> Revenue	  $6,945,000 $5,766,000 $20,436,000 $17,631,000</p>
+<p> Net Income	  338,000    294,000   1,333,000     815,000</p>
+<p>Earnings</p>
+<p> Per Share		 .06	  .05	   .24	   .15</p>
+<p>Average Number</p>
+<p>of Shares</p>
+<p> Outstanding     5,692,000  5,524,000   5,633,000   5,427,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEAVERTON, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

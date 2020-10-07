@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="523317" id="root" date="1997-04-20" xml:lang="en">
+<title>USA: Intel to launch aggressive network products.</title>
+<headline>Intel to launch aggressive network products.</headline>
+<byline>Samuel Perry</byline>
+<dateline>SANTA CLARA, Calif.</dateline>
+<text>
+<p>Intel Corp. will extend its reach into the networking equipment market Monday by launching two aggressively priced products aimed at speeding the use of increasingly powerful computers.</p>
+<p>Intel's Hillsboro, Ore.-based Internet and Communications Group (ICG) said it is introducing a networking hub to allow customers to move gradually from 10 megabits per second (Mbps) to 100 Mbps speeds.</p>
+<p>The Intel Express 10/100 Stackable Hub will be priced at $99 a port in some configurations -- a price it said was very competitive with traditional 100 Mbps hubs at $150 to $175 a port and the slower 10 Mbps hubs at $70 a port.</p>
+<p>It can be stacked up to eight units high, allowing for denser packing of networking equipment than rival's hubs.</p>
+<p>Intel is also launching the industry's first single chip Fast Ethernet product -- dubbed the Intel 82558 -- to support networking at speeds of 10 or 100 Mbps.</p>
+<p>&quot;We want to make network connectivity a standard part of every PC shipped,&quot; said ICG vice president Mark Christensen, adding that the chip reduces the cost of building Fast Ethernet networking into PCs by about 50 percent.</p>
+<p>The chip can be shipped directly on a personal computer's motherboard. Of the roughly 40 million new Ethernet-ready PCs shipped each year, less than 10 percent are done with motherboard implementations and Christensen said this could approach 30 to 40 percent of PCs.</p>
+<p>The new chip will also improve manageability features, such as remote management of the PCs over a network to simplify maintenance and upgrades. Limited samples of the 82558 are now available for manufacturers, Intel said.</p>
+<p>The move is Intel's second bold thrust this year in the fast-paced market dominated by Cisco Systems, 3Com Corp., and Bay Networks Inc..</p>
+<p>In February Intel dropped its prices nearly 40 percent on Fast Ethernet network adapters - devices which can be installed in a computer to enable them to communicate in a network at higher speeds -- a strike most directly at 3Com.</p>
+<p>&quot;3Com responded very quickly,&quot; Dataquest analyst John Armstrong said of Intel's February price drop, &quot;When they modified their adapter pricing they really rocked 3Com.&quot;</p>
+<p>&quot;I don't think this announcement is at the same level,&quot; in terms of its direct impact on the current players, Armstrong said of Monday's introductions.</p>
+<p>Nevertheless, Armstrong said Intel's aggressive price points could be a significant factor in accomplishing Intel's objective of boosting use of the technology.</p>
+<p>&quot;The fact they have 10/100 isn't innovative - the price point is. It will reduce the indecision level,&quot; he added. &quot;Because Intel is coming up a bit later, they have to do things that make people stand up and notice.&quot;</p>
+<p>3Com is the leader in 100-megabit hubs, based on 1996 data, with its share on some products in the category up to the high 30 percent range. Bay Networks and Hewlett- Packard Co. are also strong in the market.</p>
+<p>In the adapter market, analysts noted that 3Com has also provided advanced capabilities like the sort of network management features Intel is now making it possible to place directly on the PC motherboard.</p>
+<p>&quot;3Com is trying to outflank Cisco by coming at them from the desktop and in a way Intel is doing the same thing,&quot; Armstrong. 3Com has been facing greater pressure from both Intel and from Cisco, however.</p>
+<p>Just last week, 3Com said in its quarterly report that it could see slower revenue increases than the rest of the networking industry because of falling prices and weaker overall demand for networking gear.</p>
+<p>The stock of 3Com has fallen sharply from the low $70 range early this year to below $30 last week. It closed down $2.75 on Friday at $29.25 on the Nasdaq market.</p>
+<p>&quot;Intel is certainly a contender now,&quot; in networking, said Armstrong, noting that in the networking hub market, for example, they were not in the top 10 industry players in 1996 but they could burst up the charts this year.</p>
+<p>&quot;They have indicated they certainly are not stopping with these most recent product announcements,&quot; he said.</p>
+<p>Intel said it was able to support the aggressive price levels due to its expertise in silicon design and fabrication and its volume manufacturing capabilities.</p>
+<p>The company, the world's largest semiconductor maker, said its drive into networking, like many of its other recent industry initiatives, is aimed at selling more high powered personal computers that use its microprocessors.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

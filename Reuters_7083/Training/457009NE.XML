@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457009" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: TMSSequoia Q2 Feb 28 net decreases.</title>
+<headline>TMSSequoia Q2 Feb 28 net decreases.</headline>
+<dateline>STILLWATER, Okla. 1997-03-19</dateline>
+<text>
+<p>Three Months Ended  Six Months Ended</p>
+<p>			 Feb. 28,    Feb. 29,   Feb. 28,   Feb. 29,</p>
+<p>				1997	1996	 1997	 1996</p>
+<p> Total revenue	   1,468	1,443	2,673	3,046</p>
+<p>Income tax (expense) benefit</p>
+<p>				  --	  187	  (1)	  172</p>
+<p> Net income		  170	  299	   12	  475</p>
+<p>Net income per common and</p>
+<p>common equivalent share</p>
+<p>				0.01	 0.02	 0.00	 0.03</p>
+<p>Weighted average common</p>
+<p>and common equivalent</p>
+<p> shares	     14,092,438 14,297,244 14,124,600 13,985,486</p>
+<p>		   (in thousands, except earnings per share)</p>
+<p>NOTE: Net income for the second quarter of 1996 included a deferred tax benefit of $187,342 for financial accounting recognition of net income tax liabilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STILLWATER, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

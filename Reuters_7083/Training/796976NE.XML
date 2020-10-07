@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="796976" id="root" date="1997-08-13" xml:lang="en">
+<title>INDIA: INDIA RBI BANS FII PURCHASES IN INFOSYS.</title>
+<headline>INDIA RBI BANS FII PURCHASES IN INFOSYS.</headline>
+<dateline>BOMBAY 1997-08-13</dateline>
+<text>
+<p>India's central bank on Wednesday banned further purchases by foreign institutional investors in software firm Infosys Technologies Ltd. and Carrier Aircon Ltd.  </p>
+<p>The Reserve Bank of India (RBI) said in a statement that foreign holdings in both companies had reached their overall ceiling limits.</p>
+<p>&quot;The Reserve Bank has advised that no futher purchase of shares of Infosys Ltd and Carrier Aircon Ltd should be made through stock exchanges in India on behalf of FII investors/Non-Resident Indians/Overseas Corproate Bodies,&quot; the statement added.</p>
+<p>RBI said the overall ceiling of permitted foreign institutional investment in equity capital was 24 percent in the case of Carrier Aircon Ltd and 30 percent in the case of Infosys Ltd.</p>
+<p>-- Bombay Newsroom (91) 22 265 900; Fax (91) 22 264 1699</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32840">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

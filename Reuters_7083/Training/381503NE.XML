@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="381503" id="root" date="1997-02-17" xml:lang="en">
+<title>USA: Gates sees continued federal role in research.</title>
+<headline>Gates sees continued federal role in research.</headline>
+<dateline>SEATTLE</dateline>
+<text>
+<p>Microsoft Corp. Chairman Bill Gates Monday endorsed a continued role for the federal government in funding scientific research, which he said was crucial to making computers easier to use.</p>
+<p>&quot;A lot of people including myself would say there is a role for government in encouraging certain kinds of research,&quot; Gates said in response to a question at a scientific conference.</p>
+<p>&quot;What's very difficult, though, is how you get the government out of the business of picking winners and losers,&quot; Gates said. He said the U.S. university system acts as an effective buffer that prevents individuals within the government from the federal government from favoring pet projects.</p>
+<p>In a speech to the American Association for the Advancement of Science, Gates said Microsoft planned to double the size of its basic research division over the next several years, but he acknowledged the company's work is not the &quot;most risk-oriented, unknown outcome-type of research.&quot;</p>
+<p>In fact, most of Microsoft's research and development, on which the company will spend $2.1 billion in the current fiscal year, is aimed at developing products, he said.</p>
+<p>&quot;For most of our projects it's a matter of when, not if,&quot; Gates said.</p>
+<p>A demonstration of software intended to allow users to communicate with personal computers solely through eye movements showed the research was still in a very early stage.</p>
+<p>While the computer was able to recognize when a Microsoft researcher was in front of the screen, it could not be &quot;trained&quot; to recognize visual cues that would have allowed it play a game of tic-tac-toe.</p>
+<p>Another software demonstration also ended prematurely, apparently when Gates lost a telephone connection to the Internet.</p>
+<p>Gates said the thorniest research problem still facing the industry was how to develop computers that can learn.</p>
+<p>&quot;Here we don't even have a basic approach yet,&quot; Gates said, noting that advances such as chess-playing computers have been achieved through &quot;brute force&quot; of processing power.</p>
+<p>He said it would be at least 20 years before scientists could come up with an &quot;elegant&quot; solution to the problem.</p>
+<p>&quot;It's nice to have a problem that's considered very, very tough,&quot; he said. &quot;Once we solve that one, then who knows what comes next?&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

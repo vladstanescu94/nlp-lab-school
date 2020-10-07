@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38064" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Touchstone Applied Q3 full results.</title>
+<headline>Touchstone Applied Q3 full results.</headline>
+<dateline>BREWSTER, N.Y. 1996-09-06</dateline>
+<text>
+<p>Touchstone Applied Science Associates</p>
+<p>				   Financial Results</p>
+<p>			 Third Qtr Ended	     Third Qtr Ended</p>
+<p>			    Jul 31, 1996		  Jul 31, 1995</p>
+<p> Total sales		  $563,839			$527,231</p>
+<p> Net income		     ( 673)			  45,604</p>
+<p> Earnings per share		.00			     .00</p>
+<p>Weighted average shares</p>
+<p>  outstanding		7,868,555		    10,339,150</p>
+<p>			  Nine Mos Ended		Nine Mos Ended</p>
+<p>			    Jul 31, 1996		  Jul 31, 1995</p>
+<p> Total sales		$1,848,925		    $1,797,347</p>
+<p> Net income		    159,438			 265,900</p>
+<p> Earnings per share		.02			     .03</p>
+<p>Weighted average shares</p>
+<p>  outstanding		7,868,555		    10,339,150</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BREWSTER, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

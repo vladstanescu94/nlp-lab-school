@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488329" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: FEATURE-Experts call year 2000 bug a real threat.</title>
+<headline>FEATURE-Experts call year 2000 bug a real threat.</headline>
+<byline>Chris Romans</byline>
+<dateline>CHICAGO 1997-04-04</dateline>
+<text>
+<p>A few years ago Geneva Belford's mother-in-law suddenly had problems getting her insurance company to pay for her prescriptions.</p>
+<p>As it turned out, the woman, born in 1897, was listed in the insurance company's computers as having been born in 1997 because the software allowed only two numbers for the date field. In effect, the computer listed her as unborn.</p>
+<p>But one mother-in-law's problems are about to pale in comparison with things to come. Information technology experts warn of a world rife with such annoyances -- and much worse -- when 1999 rolls into 2000. Imagine Social Security checks uncut, veterans benefits on hold, telephones and electric service turned off for payments being 100 years &quot;in arrears,&quot; and worse.</p>
+<p>Because of modern society's nearly total reliance on computers, even minor system failures will snowball into major problems in 2000, many experts say. While some decry these warnings as hype, others warn that the so-called millennium bug poses a very dangerous threat to the world economy.</p>
+<p>&quot;I think right now people should be really hustling and fixing it before it happens,&quot; said Belford, a computer science professor at the University of Illinois/Urbana-Champaign. &quot;Even then, the problem of course is will it all get fixed right?&quot;</p>
+<p>THE PROBLEM IS IN THE CODE</p>
+<p>Because vast amounts of computer code were written that recognise only the last two digits in a year (97 for 1997 and 99 for 1999), on Jan. 1, 2000, all software and hardware that have inherited these shortened dates will potentially malfunction,  Michael Baxter, vice chairman of the Year 2000 Committee for the Securities Industry Association, said.</p>
+<p>Without corrective measures, Baxter and information technology sources said, the risks to the world's economy are vast. These include an inability of financial institutions to make loans, long bank holidays in some countries as they are forced to repair their infrastructure, incorrect and unreliable market data and agent system failure resulting in the inability to settle financial trades, Baxter said.</p>
+<p>It may sound like doomsday but Baxter said computer programmes are unprepared to process year 2000-associated data. If left uncorrected, a &quot;major economic meltdown&quot; could ensue, he warned at a recent Futures Industry Association technology seminar in Chicago. &quot;This is a threat to your company's survival.&quot;</p>
+<p>Stamford, Connecticut-based information technology consultant The Gartner Group puts the cost of addressing the year 2000 date change at $300 billion to $600 billion worldwide. They estimate the date-change cost at $1 per line of code.</p>
+<p>Considering the billions of lines of code in question, those estimates may be low, Peter De Jager, a year 2000 consultant and special adviser to the UK year 2000 task force, said.</p>
+<p>NO HYPE - PROBLEM IS REAL</p>
+<p>&quot;It is not hype and exaggeration,&quot; he said. &quot;Companies do not put together a multi-million-dollar project because a consultant says this is a problem.&quot;</p>
+<p>The U.S. Department of Defence, for example, plans to solve the problem at a cost of $1.1 billion.</p>
+<p>While banks and insurance companies are heeding the warning best, De Jager lamented &quot;a lack of a sense of urgency&quot; among most and said there are many companies that have not even started to assess their risk. &quot;The bottom line is that these companies who are spending hundred of millions of dollars see the size of the task,&quot; he said. &quot;It is not one of those things that you'll be able to fix when it breaks; it has to be before.&quot;</p>
+<p>Companies caught ill-prepared &quot;will cease to exist,&quot; he warned.</p>
+<p>Technology experts said there is no &quot;silver bullet&quot; or miracle programme that can peer into applications and magically correct all the suspect lines of code. Baxter called it a &quot;roll up your sleeves and get it done&quot; job that will take time and manpower.</p>
+<p>But time is running out.</p>
+<p>&quot;Eighty-six percent of computer projects are delivered late,&quot; De Jager said. &quot;Why should I feel confident this time that they'll get it right?&quot;</p>
+<p>His advice: &quot;Check your calendar -- the deadline is fixed.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="807617" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: California launches $1 bln digital high school plan.</title>
+<headline>California launches $1 bln digital high school plan.</headline>
+<dateline>MENLO PARK, Calif. 1997-08-19</dateline>
+<text>
+<p>Calif. Gov. Pete Wilson launched a $1 billion initiative Tuesday to bring on-line access to every public high school classroom in the state over the next four years.</p>
+<p>Wilson, who made the announcement at the headquarters of network computing giant Oracle Corp, said the so-called &quot;Digital High School&quot; scheme would give California students a competitive edge in the global marketplace.</p>
+<p>&quot;Children who aren't exposed to technology at a young age will enter college or the workplace at a serious disadvantage,&quot; Wilson said. &quot;That's why I've insisted that we bring California's classrooms on-line with the tools and technology of the information age.&quot;</p>
+<p>Wilson's initiative not only will put more computers in classrooms but will also ensure that students are taught to be technologically literate.</p>
+<p>California's Silicon Valley serves as the home base of many of the world's leading computer firms, including Oracle. But despite its reputation as a high-tech mecca, California still ranks 45th out of 50 in terms of students' access to computer technology.</p>
+<p>The program will provide $500 million in state funds over four years, with a local match requirement doubling its value to $1 billion.</p>
+<p>Specifically, the state will give technology installation grants of $300 per student in selected high schools. To earn a grant from the state, a school must first find matching funds and commit to installing the computers within two years.</p>
+<p>The first phase of the program will be funded with $100 million in the state's 1997-98 budget, which Wilson signed Monday. That sum will help fund grants for about a quarter of the state's 840 high schools to install new computer systems within 24 months.</p>
+<p>Oracle will donate $10 million over the next four to five years to help California schools in low-income areas.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

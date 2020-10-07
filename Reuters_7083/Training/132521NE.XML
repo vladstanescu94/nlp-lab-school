@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132521" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Synopsys Inc Q4 net rises.</title>
+<headline>Synopsys Inc Q4 net rises.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-22</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				  Three Months Ended    Year Ended</p>
+<p>					 Sept. 30,	   Sept. 30,</p>
+<p>				     1996	1995     1996     1995</p>
+<p>					(Unaudited)	  (Audited)</p>
+<p>Revenue:</p>
+<p>   Product		    $63,342  $ 50,069 $232,683 $180,873</p>
+<p>   Service		     35,158    23,431  120,817   84,627</p>
+<p>	Total revenue	  98,500    73,500  353,500  265,500</p>
+<p>Cost of revenue:</p>
+<p>   Product			4,685     3,826   16,510   15,570</p>
+<p>   Service			6,139     4,556   22,383   15,039</p>
+<p>Total cost of</p>
+<p>	 revenue		 10,824     8,382   38,893   30,609</p>
+<p> Gross margin		  87,676    65,118  314,607  234,891</p>
+<p>Operating expenses:</p>
+<p>Research and development</p>
+<p>				   23,684    16,675   84,248   58,673</p>
+<p>   Sales and marketing     37,132    27,699  134,086  101,980</p>
+<p>General and</p>
+<p>    administrative	    7,860     6,044   27,673   22,238</p>
+<p>In-process research</p>
+<p>    and development		--	  --   39,700    9,200</p>
+<p>Total operating</p>
+<p>	 expenses		68,676    50,418  285,707  192,091</p>
+<p> Operating income	    19,000    14,700   28,900   42,800</p>
+<p> Other income, net	    1,700     1,600    6,950    4,908</p>
+<p>Income before income</p>
+<p>  taxes			  20,700    16,300   35,850   47,708</p>
+<p>Provision for income</p>
+<p>  taxes			   7,022     5,836   12,150   17,408</p>
+<p> Net income		    13,678    10,464   23,700   30,300</p>
+<p> Earnings per share	    0.32	0.25     0.57     0.75</p>
+<p>Weighted average common</p>
+<p>shares and equivalents</p>
+<p>  where dilutive	     42,530    41,299   41,553   40,416</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

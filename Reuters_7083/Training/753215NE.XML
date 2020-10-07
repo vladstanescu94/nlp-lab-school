@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="753215" id="root" date="1997-07-24" xml:lang="en">
+<title>USA: TABLE - Walker Interactive Q2 results.</title>
+<headline>TABLE - Walker Interactive Q2 results.</headline>
+<dateline>SAN FRANCISCO 1997-07-24</dateline>
+<text>
+<p>WALKER INTERACTIVE SYSTEMS</p>
+<p>CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)</p>
+<p>		(Dollars in thousands, except per share amounts)</p>
+<p>			CONSOLIDATED STATEMENT OF OPERATIONS</p>
+<p>					 THREE MONTHS    SIX MONTHS</p>
+<p>					ENDED JUNE 30,  ENDED JUNE 30,</p>
+<p> REVENUES:		     1997	1996     1997	1996</p>
+<p>  License		     $3,451   $2,273    $7,191    $3,836</p>
+<p>  Maintenance		  6,795    6,687    13,716    13,440</p>
+<p>  Consulting		   6,015    6,416    12,427    12,432</p>
+<p>    Total revenues	  16,261   15,376    33,334    29,708</p>
+<p>OPERATING EXPENSES:</p>
+<p>Costs of revenues:</p>
+<p>Costs of licenses,</p>
+<p>maintenance and consulting</p>
+<p>				   6,500    5,901    13,176    11,541</p>
+<p>Amortization of capitalized</p>
+<p>     software		  1,253	956     2,341     1,717</p>
+<p>  Sales and marketing	3,931    3,127     7,787     5,970</p>
+<p>  Product development	2,451    2,953     4,984     5,872</p>
+<p>General and administrative</p>
+<p>				   2,062    2,396     4,448     4,860</p>
+<p>Write-off of in-process</p>
+<p>    research and development  --    2,784	  --     2,784</p>
+<p>Total operating expenses</p>
+<p>				  16,197   18,117    32,736    32,744</p>
+<p> Operating income (loss)	64  (2,741)	 598   (3,036)</p>
+<p>    Interest income, net     490	499	 994	 982</p>
+<p>Income (loss) before income taxes</p>
+<p>				     554  (2,242)     1,592   (2,054)</p>
+<p>    Income tax expense	 195	 50	 557	 103</p>
+<p> NET INCOME (LOSS)	    359  ( 2,292)  ( 1,035)  ( 2,157)</p>
+<p>NET INCOME (LOSS) PER SHARE</p>
+<p>				    0.03  ( 0.17)	0.07   ( 0.16)</p>
+<p>Shares used in computing net</p>
+<p>income (loss) per share</p>
+<p>				  14,155   13,250    14,150    13,246</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

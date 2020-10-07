@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="338472" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: INTERVIEW - IBM, Lotus merger now bears fruit.</title>
+<headline>INTERVIEW - IBM, Lotus merger now bears fruit.</headline>
+<byline>Therese Poletti</byline>
+<dateline>LAKE BUENA VISTA, Fla. 1997-01-28</dateline>
+<text>
+<p>The deal that started out as a shocking hostile takeover by the lumbering giant International Business Machines Corp of Lotus Development Corp almost 18 months ago has turned into a happy marriage, Lotus's top executive said.</p>
+<p>&quot;It really has been a marriage made in heaven,&quot; said Jeff Papows, president of Lotus, in an interview at Lotusphere, a conference for its business partners and developers.  &quot;I think we spent the first year manically fixating on our own foxholes...Now there is enough trust established.&quot;  </p>
+<p>Papows said that IBM kept its promise to leave Lotus alone and that IBM tried hard to make the deal work.  The two companies gradually began to trust each other and the synergies between them have emerged slowly but surely.</p>
+<p>After an initial flurry of employee exits when Lotus reluctantly agreed to be acquired by IBM for $3.5 billion in June 1995, staff defections eventually stabilized to a normal industry attrition rate.  Lotus's worst fear -- that most of its intellectual capital, its employees, would quit -- was not realized.  </p>
+<p>&quot;There are more disastrous mergers in this business,&quot; Papows said. &quot;I don't think anyone would have predicted this would go as well as it has.&quot;</p>
+<p>The Technology sector has been fraught with mergers gone awry, such as AT&amp;T Corp's purchase of NCR Corp, which it just spun out again as a separate unit.  And IBM had its own unsuccessful deal, when it purchased Rolm Corp in the 1980s.</p>
+<p>IBM chairman and CEO Louis Gerstner echoed Papows's view.  </p>
+<p>In a brief speech at Lotusphere, Gerstner also said the merger was now working, with &quot;irrefutable&quot; evidence, such as the doubling of the number of seats of Lotus Notes sold in 1996, when the number of users reached 9.5 million.</p>
+<p>Papows said that besides IBM's big financial pockets and its vast research laboratories, the computer giant also has an incredible global reach through its world-class sales force.</p>
+<p>And Gerstner, Papows said, has become &quot;my single best sales person.&quot;  </p>
+<p>Papows said Gerstner recently picked up the phone to speak to the CEO of Rockwell International Corp, and after he explained how important Notes was to IBM's strategy, Rockwelll made a big investment in Notes for its corporate network.</p>
+<p>The combination of IBM's clout and reach and Lotus's technology will help it maintain leadership in groupware, as the turf is under siege by Netscape Communications Corp and Microsoft Corp, Papows said.  </p>
+<p>Another plus to having IBM as an owner is that the companies can work together to link corporate networks running Lotus Notes to the vast arrays of information stored in IBM mainframes and minicomputers around the world.</p>
+<p>&quot;There is a tremendous opportunity to unlock this data,&quot; Papows said.  &quot;Netscape doesn't understand this.&quot;  On Wednesday, IBM and Lotus will unveil versions of the Notes Domino server for the IBM AS/400 minicomputer and the S/390 mainframe lines as part of this strategy.</p>
+<p>Domino, Lotus's Notes server designed using Internet standards, has become Lotus's crown jewel.  </p>
+<p>Users applauded Lotus' move to embrace the open architecture of the Internet, after many skeptics said after IBM bought Lotus that Notes was dead because of the industry's jump to the Web.</p>
+<p>&quot;We all heard the refrain, 'Notes is dead,'&quot; Papows told the conference, adding that it was nothing less than masterful what Lotus has done with Notes and with Sun Microsystems Inc's Java programming language, which is used to develop applications for the Internet that will run anywhere.  </p>
+<p>Lotus will introduce a new client version of Notes, Version 4.6 (code-named Lookout) in the first half of this year with a simplified user interface and seamless integration of Microsoft's Internet Explorer and other Web products.</p>
+<p>The code name Lookout is a jab at Microsoft, which just introduced a feature called &quot;Outlook&quot; in its Office 97 suite. Another upgrade will come in the fourth quarter with Version 5.0, code-named Maui.  Maui will feature even more support of Internet protocols.</p>
+<p>Lotus is also working on a set of so-called &quot;applets&quot; developed in Java, including a spreadsheet, a calendar, text editor and other pieces, to run on the stripped-down networked computers.  These applications are much less code intensive, with much of the software residing on the severs that run networks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAKE BUENA VISTA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

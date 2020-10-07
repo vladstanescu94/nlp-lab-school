@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="438486" id="root" date="1997-03-13" xml:lang="en">
+<title>USA: Oracle Q3 license sales rose 29 pct.</title>
+<headline>Oracle Q3 license sales rose 29 pct.</headline>
+<dateline>REDWOOD SHORES, Calif. 1997-03-13</dateline>
+<text>
+<p>Oracle Corp Thursday said overall license sales in the third quarter ended in February rose 29 percent from a year earlier, led by 61 percent growth in Applications license revenue.</p>
+<p>In a statement, Oracle said that third quarter services sales, which include Support, Consulting and Education, rose 41 percent compared with the same period of fiscal 1996.  </p>
+<p>Oracle said it reported strong growth in all of its major geographic regions, despite a four percentage point negative currency translation during the third quarter, with Asia Pacific impacted by a weaker yen.</p>
+<p>Oracle Americas reported the greatest geographic revenue growth, up 40 percent, followed by Asia Pacific, up 32 percent, and EMEA (Europe, Middle East and Africa), up 28 percent, compared with the third quarter a year ago.</p>
+<p>Overall revenues for the quarter rose 35 percent to $1.37 billion from $1.02 billion in the same period last year.  </p>
+<p>Net income for the period increased 32 percent to $193 million, or $0.29 a share, excluding a one-time charge of $37 million or $0.04 a share related to the Datalogix acquisition.</p>
+<p>According to First Call, analysts had expected Oracle to report a profit of about $0.29 a share before charges.</p>
+<p>In the year-ago quarter, Oracle earned $146 million, or $0.22 a share.</p>
+<p>Oracle said it is in the final phase of its Oracle8 beta program, designed to prepare the market for the industry's most powerful open systems database platform to date and scheduled to ship in June.</p>
+<p>&quot;The breadth and depth of wins this quarter reaffirm the consolidation of the database industry under Oracle's leadership,&quot; said Raymond Lane, Oracle's president and chief operating officer.</p>
+<p>&quot;With our original Universal Server in production for over a year now and Oracle8 set to ship in June, we feel confident that we will have a significant lead over competitors still struggling to deliver their first commercial product to customers,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

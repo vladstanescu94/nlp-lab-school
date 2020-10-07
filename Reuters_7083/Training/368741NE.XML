@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="368741" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: Microsoft reiterates slower growth outlook.</title>
+<headline>Microsoft reiterates slower growth outlook.</headline>
+<dateline>NEW YORK 1997-02-11</dateline>
+<text>
+<p>Microsoft Corp vice president and treasurer Greg Maffei reiterated the company's outlook for slower overall growth.</p>
+<p>&quot;I am virtually certain that growth will slow in the future,&quot; Maffei told a Goldman Sachs technology conference.</p>
+<p>Maffei's comment generally repeated cautionary statements issued by Microsoft last month when it reported fiscal second quarter earnings.</p>
+<p>In particular, Maffei cited slower growth in Microsoft's desktop applications business, which contibutes a considerable portion of the company's overall revenues.</p>
+<p>&quot;It's a challenge to get corporations to upgrade ..it's a slower growth business,&quot; Maffei said.</p>
+<p>In January, Microsoft introduced a major upgrade of its Office suite of applications software.</p>
+<p>Maffei also said that, despite rapid sales growth for the company's Windows NT software, the product was not expected to have a significant impact on revenues in fiscal 1997.</p>
+<p>Rick Sherlund, a Goldman Sachs analyst, forecast Microsoft would ship between two and three million units of Windows NT in fiscal 1997, up from one million a year ago.</p>
+<p>((-- Wall Street desk, 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

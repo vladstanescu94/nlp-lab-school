@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="341679" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Motorola inks pact with Security Dynamics.</title>
+<headline>Motorola inks pact with Security Dynamics.</headline>
+<dateline>SCHAUMBURG, Ill. 1997-01-28</dateline>
+<text>
+<p>Motorola Inc said Tuesday it signed a licensing agreement under which a unit of Security Dynamics Technologies Inc will provide security technology to Motorola.</p>
+<p>Motorola said the technology from RSA Data Security will be used in various applications throughout all of Motorola's business segments. RSA provides encryption and authentification technologies to software developers.</p>
+<p>Motorola is a global communications products and services provider.</p>
+<p>Its shares closed up 2-1/8 Tuesday at 66-7/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCHAUMBURG, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

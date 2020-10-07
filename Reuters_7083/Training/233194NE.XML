@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233194" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: CBOE to list GT Interactive, Parker Drilling.</title>
+<headline>CBOE to list GT Interactive, Parker Drilling.</headline>
+<dateline>CHICAGO 1996-12-04</dateline>
+<text>
+<p>The Chicago Board Options Exchange (CBOE) said Wednesday it will list options on GT Interactive Software Corp on December 10 and on Parker Drilling Co on December 11.</p>
+<p>The CBOE said GT Interactive options will open with strike prices of five, 7-1/2 and 10, with initial expirations in January, February, April and July.</p>
+<p>Kessler Asher has been named designated primary market maker.  </p>
+<p>For Parker Drilling, opening strikes have been set at 7-1/2, 10 and 12-1/2, with introductory expirations in January, February, April and July.</p>
+<p>The CBOE said Parker Drilling options would trade in the Ford Motor Co trading crowd.</p>
+<p>((--Derivatives desk, 312 408 8750))</p>
+<p>((E-mail: derivatives@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

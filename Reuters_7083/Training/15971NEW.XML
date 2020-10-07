@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15971" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Medicus Systems Corp Q4 full results.</title>
+<headline>Medicus Systems Corp Q4 full results.</headline>
+<dateline>EVANSTON, Ill. 1996-08-27</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>					 May 31,		May 31,</p>
+<p>				     1996	1995     1996     1995</p>
+<p> Revenues			 7,395     8,876   31,064   33,829</p>
+<p>Costs and expenses:</p>
+<p>Software products and</p>
+<p>    services		    1,203     1,315    4,004    4,455</p>
+<p>Maintenance and support</p>
+<p>    services		    1,479     1,126    5,465    4,322</p>
+<p>   Contract services	  2,412     2,598   10,523   10,295</p>
+<p>				    5,094     5,038   19,992   19,072</p>
+<p>Marketing, general and</p>
+<p>    administrative	    4,407     2,390   11,340    8,368</p>
+<p>   Research and development   776	 626    1,942    2,343</p>
+<p>   Restructuring charges    3,093	   -    4,662	  -</p>
+<p>				   13,370     8,054   37,936   29,783</p>
+<p> Operating income (loss)  (5,975)	 822  (6,872)    4,046</p>
+<p>Interest and other</p>
+<p>    income			  100	 205	556	679</p>
+<p>Income (loss) before</p>
+<p>  income taxes		(5,875)     1,027  (6,316)    4,725</p>
+<p>Provision for (benefit</p>
+<p>  from) income taxes	(2,403)	 388  (2,590)    1,701</p>
+<p> Net income (loss)	  (3,472)	 639  (3,726)    3,024</p>
+<p> Earnings (loss) per share (0.53)	0.10   (0.57)     0.45</p>
+<p> Avg shrs outstanding	 6,467     6,618    6,540    6,704</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EVANSTON, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77654" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Artisoft cuts LANtastic jobs, sees charge.</title>
+<headline>Artisoft cuts LANtastic jobs, sees charge.</headline>
+<dateline>TUCSON, Ariz. 1996-09-26</dateline>
+<text>
+<p>Artisoft Inc, a maker of computer networking and communications equipment, said on Thursday that it is cutting 50 employees from its LANtastic network division, or about 15 percent of its workforce.</p>
+<p>In addition, the company will take charges against its earnings in the September quarter to account for severance and related expenses for the cuts.</p>
+<p>LANtastic is the name of the network operating system Artisoft makes. In a statement, the company said expenses for LANtastic are &quot;not commensurate&quot; with its growth rate and future prospects.  </p>
+<p>Artisoft did not say how much the charge would be or what effect it would have on the September quarter, its first quarter of fiscal 1997.</p>
+<p>In a statement, the company said it would re-direct the funds toward research and development of its communications and telphone software business with an eye to new products.</p>
+<p>&quot;Our objective is to accelerate the development, delivery and customer adoption of the strategic communications products we expect to soon be announcing,&quot; said William Keiper.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUCSON, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

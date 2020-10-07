@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645879" id="root" date="1997-06-08" xml:lang="en">
+<title>USA: Mentor, Synopsys to share chip engineering design elements.</title>
+<headline>Mentor, Synopsys to share chip engineering design elements.</headline>
+<dateline>PALO ALTO, Calif. 1997-06-08</dateline>
+<text>
+<p>Mentor Graphics Corp. and Synopsys Inc. will announce on Monday that they plan to sell each other's software toolboxes for designing computer chips, the companies said.</p>
+<p>Both companies write software that help electrical engineers design the microscopic circuits of chips. Mentor also offers the designs for fundamental blocks of circuits that can be linked together to form complete chips.</p>
+<p>Under the agreement, Mentor and Synopsys will work together to make their software products more capable of sharing designs. The companies also will share each others' designs for the fundamental building blocks of chips.</p>
+<p>&quot;Just like Lego blocks, this is providing a methodology of gluing the blocks together to form bigger things,&quot; said Aart de Geus, Synopsys chief executive. &quot;Before this, (chip design) was difficult because everyone had different set of Legos&quot; that did not interlock.</p>
+<p>The companies said they will offer a unified &quot;Reuse Methodology Manual&quot; by the third quarter that guides customers on how to use Mentor and Synopsys products together. The customers include big chipmakers, such as Texas Instruments Inc. and Motorola Inc..</p>
+<p>&quot;The companies do compete,&quot; said Waldon Rhines, Mentor CEO. &quot;But this is where we're putting the customer first. The market will be larger if we cooperate.&quot;</p>
+<p>Mentor and Synopsys formally will unveil their plan at the Design Automation Conference in Anaheim, Calif.</p>
+<p>((--Kourosh Karimkhany, in Palo Alto, 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

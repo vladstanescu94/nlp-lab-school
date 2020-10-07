@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43086" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Microsoft's Explorer doubles market share.</title>
+<headline>Microsoft's Explorer doubles market share.</headline>
+<dateline>SAN FRANCISCO 1996-09-10</dateline>
+<text>
+<p>Microsoft Corp's Internet Explorer browser has doubled its market share in the month since the 3.0 version has been out, an official said.</p>
+<p>Brad Chase, vice president of Microsoft's Internet platform and tools division, said Internet Explorer's market share is 10 percent to 20 percent on most sites and 30 percent on some as measured by the number of times the browser was used to visit popular World Wide Web sites.</p>
+<p>&quot;There have been millions and millions of downloads,&quot; Chase told the Seybold Internet publishing conference here.  </p>
+<p>Internet Explorer has been a very distant second in market share compared with Netscape Communication Corp's Navigator browser, which is used by about 40 million people.</p>
+<p>In its previous edition, Internet Explorer was estimated to hold between three and 10 percent of the market, according to researchers. Netscape has held 80 to 90 percent.</p>
+<p>Microsoft launched the 3.0 version of its browser a month ago, making it available freely to anyone willing to download it from the Internet and promoting it by offering a few months of free access to some popular commercial Web sites.  </p>
+<p>Netscape followed the next week with a new version of its Navigator, also version 3.0, and likewise promoted it with free access to popular Web sites.</p>
+<p>Both browsers have many rich features that make them much more than tools for navigating the Web. Both are now platforms on which software developers can write applications. Both support a wide variety of e-mail traffic, video and audio and incoporate some popular technologies created by other companies, like Macromedia Inc's Shockwave for receiving real time audio and images and support Sun Microsystems Inc's Java programming language.</p>
+<p>Chase did not specify how often Internet Explorer was downloaded, saying it would be a hard number to track down with precision.</p>
+<p>-- Barbara Grady at barb.grady@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

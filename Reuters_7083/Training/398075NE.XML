@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="398075" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: Comshare to introduce software upgrade.</title>
+<headline>Comshare to introduce software upgrade.</headline>
+<dateline>ANN ARBOR, Mich. 1997-02-24</dateline>
+<text>
+<p>Comshare Inc said Monday it is preparing to release a new version of Essbase, database software it sells under a license from  Arbor Software.</p>
+<p>Essbase is the underlying database component for Comshare's decision support applications, the company said.</p>
+<p>Separately, Comshare announced that it signed agreements with Oracle Corp and Applix Inc to integrate their technologies within Comshare's applications. Financial terms were not announced.</p>
+<p>Comshare closed up 5/16 Monday at 15-1/4.</p>
+<p>((Chicago newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANN ARBOR, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

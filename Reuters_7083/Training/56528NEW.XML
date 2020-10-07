@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56528" id="root" date="1996-09-16" xml:lang="en">
+<title>NETHERLANDS: PHILIPS AND BAY IN MULTIMEDIA DEAL.</title>
+<headline>PHILIPS AND BAY IN MULTIMEDIA DEAL.</headline>
+<dateline>EINDHOVEN, Netherlands 1996-09-16</dateline>
+<text>
+<p>Philips Electronics NV said in a statement on Monday it planned to co-operate with Bay Networks Inc of the U.S. in marketing and developing hard and software for multimedia and internet.</p>
+<p>The agreement, in force immediately, will work on developing platforms to offer data, voice and video information streams to future integrated multimedia networks.</p>
+<p>Philips will widen an existing purchasing agreement with Bay Networks to include the U.S. company's internet products, aiming to combine Bay's management systsms with the multimedia equipment from Philips, said the statement.</p>
+<p>&quot;This alliance gives Philips more possibilities to deliver a complete network multimedia system which will be easier to install and control,&quot; said Adri Baan, general manager of Philips Business Electronics.</p>
+<p>Bay Networks delivers a range of internetworking products including switches, hubs, routers and systems for network management.</p>
+<p>No financial details of the venture were given.</p>
+<p>-- Amsterdam Newsroom +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EINDHOVEN, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

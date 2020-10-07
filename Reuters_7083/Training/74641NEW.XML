@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74641" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Mentor sees Q3 revs, earnings below yr ago.</title>
+<headline>Mentor sees Q3 revs, earnings below yr ago.</headline>
+<dateline>WILSONVILLE, Oregon 1996-09-25</dateline>
+<text>
+<p>Mentor Graphics Corp said on Wednesday that it expects delayed customer purchases to send third quarter revenues below year ago levels and net income to slightly above break even.</p>
+<p>One year ago, the maker of electronic design automation software, earned $0.19 a share, or $12.4 million in net income, on sales of $107.4 million.</p>
+<p>Analysts had forecast the company would earn $0.24 a share in the third quarter, according to First Call.  </p>
+<p>&quot;The current order and revenue pace leads us to anticipate a single digit year-over-year percentage decline in revenue this quarter,&quot; Walden Rhines, chief executive officer said in a statement.</p>
+<p>Mentor Graphics believes the current situation could affect earnings for &quot;the next quarter or two.</p>
+<p>Based on current information, Mentor Graphics said much of its revenue decline stems from &quot;customers delaying purchases&quot;. Aggravating the problem is a decline in the value of Japanese yen versus the dollar.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILSONVILLE, Oregon"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

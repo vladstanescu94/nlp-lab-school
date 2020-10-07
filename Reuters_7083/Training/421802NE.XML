@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421802" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: FEATURE - Silicon Valley firm puts &quot;Push&quot; to corporate use.</title>
+<headline>FEATURE - Silicon Valley firm puts &quot;Push&quot; to corporate use.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1997-03-05</dateline>
+<text>
+<p>A rash of companies is trying to use &quot;push&quot; technology to win consumers' attention on a crowded World Wide Web, but one firm is marketing the technology for a behind-the-scenes business product.</p>
+<p>&quot;Push,&quot; the latest fine-tuning of Internet technology, is a method of distributing information over the Internet so that it goes automatically to people who have registered interest in the topic. It's often marketed as a device that removes the tedium of searching for information.</p>
+<p>Quintus Corp., a Fremont, California-based maker of customer service software, has introduced software joining push technology and so-called intranets for customer service application. Intranets are internal corporate networks based on the Internet.</p>
+<p>Its &quot;ImpaQ&quot; software is designed to let key employees in a company get real-time information about customers &quot;pushed&quot; to them at vital moments from in-house databases or from partners' databases over intranets.</p>
+<p>Using the information, a sales person might, for example, prevent a customer defection by resolving the problem of a missed shipment before the customer calls to complain.</p>
+<p>CUSTOMER SERVICE WILL BE CRUCIAL</p>
+<p>&quot;Customer service is at the core of most (companies') challenges,&quot; Quintus President Alan Anderson said in an interview. &quot;In the future, the only thing that is going to differentiate a company is its customer service.&quot;</p>
+<p>Quintus likes to cite a potential use for ImpaQ in the hotel business.</p>
+<p>For example, a hotel with an intranet-to-Intranet data-sharing arrangement with an airline gets information flashed to it that a registered guest's flight arrived late. The hotel, Anderson said, could respond by being ready for the weary traveller when he or she arrives and prevent a wait in the check-in line and the risk of an angry guest.</p>
+<p>&quot;I believe the hospitality industry will subscribe to this fairly aggressively. Customer service is a problem for hotels and airlines that both industries are already spending heavily to fix,' he said.</p>
+<p>Hilton Hotels Corp Corp. is a Quintus customer for its other customer service products, Anderson said. He said that when Hilton officials were briefed on the product they &quot;did a back flip.&quot;</p>
+<p>Another example might be a pharmaceutical firm's sales and shipping departments getting notices &quot;pushed&quot; to them the moment a pharmacy runs out of its product. The pharmaceutical firm would then be able to replenish the stock before the pharmacy has time to ponder switching suppliers.</p>
+<p>Privately-held Quintus, which sells other customer service and call centre software, operates in a market place populated with many vendors, the largest of which are probably Verity Inc. and Clarify Inc., analysts said.</p>
+<p>QUINTUS SAID LEADING IN FAST-GROWING MARKET</p>
+<p>But the market is growing fast for all -- about 40 percent a year, Gartner Group estimates.</p>
+<p>Quintus hopes to differentiate itself -- at least temporarily -- as the only customer service software seller to use &quot;push&quot; technology on private intranets, offering real-time pervasive customer information, analysts said. Verity offers an e-mail notification service using the Internet.</p>
+<p>&quot;This is a very functionality driven marketplace. Quintus is the first one to come out with this sort of technology, this functionality, of making customer information pervasively available within an organisation,&quot; said Gartner Group analyst Carter Lusher, vice president and research director for customer service and support strategies.</p>
+<p>&quot;What is unique is it's centred on better information flow for customer management,&quot; said META Group analyst Kurt Johnson.</p>
+<p>Quintus was the first company to use &quot;push&quot; technology for a purely business-to-business purpose using closed intranets.</p>
+<p>PointCast Inc. has made &quot;push&quot; technology successful among consumers and professionals wanting World Wide Web-based information searched for them, and having certain topics then &quot;pushed&quot; to their computers.</p>
+<p>Quintus plans to make the software generally available in the second quarter of the year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

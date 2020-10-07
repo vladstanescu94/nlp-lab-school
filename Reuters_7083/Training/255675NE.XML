@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255675" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: BEFORE THE BELL - Oracle skids on EPS news.</title>
+<headline>BEFORE THE BELL - Oracle skids on EPS news.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>Investors fled Oracle Corp shares in U.S. pre-open trade Friday after learning the database management software company posted quarterly earnings short of Wall Street estimates, traders said.</p>
+<p>Oracle fell as low as 43-3/4, off 3-1/2 from yesterday's Nasdaq close.</p>
+<p>Oracle's $0.27 per share net in the fiscal second quarter ended November 30 was an improvement from $0.20 earned a year ago, but was $0.01 below the analysts' consensus forcast compiled by Zack's Investment Research.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

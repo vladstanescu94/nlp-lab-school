@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171808" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Solopoint Inc Q3 loss narrows.</title>
+<headline>Solopoint Inc Q3 loss narrows.</headline>
+<dateline>LOS GATOS, Calif. 1996-11-07</dateline>
+<text>
+<p>Three months ended  Nine months ended</p>
+<p>			     September 30	  September 30</p>
+<p>			  1996	1995	   1996	   1995</p>
+<p> Revenues	$  69,769  $	--  $   103,910  $	  --</p>
+<p> Cost of sales    46,037	   --	 85,884	     --</p>
+<p> Gross margin     23,732	   --	 18,026	     --</p>
+<p>Costs and expenses:</p>
+<p>Research and</p>
+<p>   development   276,734    392,209    1,024,517	971,546</p>
+<p>Sales and</p>
+<p>   marketing     306,619    172,315	669,582	381,562</p>
+<p>General and</p>
+<p>administrative</p>
+<p>		     322,437    255,800	944,778	448,567</p>
+<p>		     905,790    820,324    2,638,877    1,801,675</p>
+<p>Loss from</p>
+<p>  operations   (882,058)  (820,324)  (2,620,851)  (1,801,675)</p>
+<p>Interest income,</p>
+<p>  net		 26,514	2,492	 20,739	  8,381</p>
+<p> Net loss	(855,544)  (817,832)  (2,600,112)  (1,793,294)</p>
+<p>Net loss per</p>
+<p>  share		(.33)	(.56)	 (2.02)	 (1.22)</p>
+<p>Average shares</p>
+<p>used in</p>
+<p>computing net</p>
+<p>loss per share</p>
+<p>		   2,570,875  1,464,855    1,284,936    1,464,855</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS GATOS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

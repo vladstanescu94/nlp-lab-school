@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="761941" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: TABLE - USCS International Inc Q2 results.</title>
+<headline>TABLE - USCS International Inc Q2 results.</headline>
+<dateline>RANCHO CORDOVA, Calif. 1997-07-29</dateline>
+<text>
+<p>(In thousands except per share amounts)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					 June 30,	    June 30,</p>
+<p>				    1997	 1996     1997     1996</p>
+<p>Revenue:</p>
+<p>Software and services:</p>
+<p>   Customer management    $37,655   $33,807 $ 75,434 $ 66,284</p>
+<p>   Bill processing	   29,521    23,982   57,919   46,926</p>
+<p>    Total			67,176    57,789  133,353  113,210</p>
+<p>Equipment sales and</p>
+<p>   services		     5,522     5,783   10,315   10,617</p>
+<p>    Total revenue	    72,698    63,572  143,668  123,827</p>
+<p>Cost of revenue:</p>
+<p>Software and services:</p>
+<p>   Customer management     17,383    18,521   35,911   36,751</p>
+<p>   Bill processing	   21,064    17,837   41,924   34,835</p>
+<p>    Total			38,447    36,358   77,835   71,586</p>
+<p>Equipment sales and</p>
+<p>   services		     2,728     3,413    5,526    6,346</p>
+<p>Total cost of</p>
+<p>     revenue		   41,175    39,771   83,361   77,932</p>
+<p> Gross profit		  31,523    23,801   60,307   45,895</p>
+<p>Operating expenses:</p>
+<p>  Research and development  7,860     5,890   14,731   11,533</p>
+<p>Selling, general and</p>
+<p>   administrative	    14,197    12,070   27,462   23,078</p>
+<p>Total operating</p>
+<p>     expenses		  22,057    17,960   42,193   34,611</p>
+<p> Operating income	     9,466     5,841   18,114   11,284</p>
+<p> Interest expense		 186     1,143	355    2,349</p>
+<p>Income before income</p>
+<p>  taxes			   9,280     4,698   17,759    8,935</p>
+<p> Income tax provision	 3,678     1,855    7,104    3,529</p>
+<p> Net income		     5,602     2,843   10,655    5,406</p>
+<p> Earnings per share	    0.23	0.13     0.43     0.26</p>
+<p>Weighted average common</p>
+<p>  shares and equivalents   24,620    21,304   24,580   20,982</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RANCHO CORDOVA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94746" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: Broderbund Software names new CEO.</title>
+<headline>Broderbund Software names new CEO.</headline>
+<dateline>NOVATO, Calif.</dateline>
+<text>
+<p>Broderbund Software Inc., in a move aimed at boosting its marketing and sales effort, Thursday named Joe Durrett, a consumer brands and direct marketing executive, as its new chief executive officer instead of founder Doug Carlston.</p>
+<p>Durrett, 51, was president and chief operating officer of direct marketing firm ADVO Inc., the nation's largest direct marketing company. He previously held senior positions at Kraft General Foods and in brand management at Procter and Gamble.</p>
+<p>Carlston remains chairman of the Novato, Calif.-based software company's board of directors.</p>
+<p>&quot;The software market is emerging from a niche technology and becoming a competitive consumer packaged goods arena,&quot; said Durrett, who also was appointed to Broderbund's board.</p>
+<p>Broderbund's software titles include The Print Shop series, Family Tree Maker, Kid Pix and Where in the World is Carmen Sandiego?  Myst, a top-selling software title, and its upcoming sequel are part of Broderbund's entertainment line.</p>
+<p>Broderbund's stock gained 87.5 cents to $29.50 in early trading on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="519437" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: RESEARCH ALERT - Sybase FY97 estimate cut.</title>
+<headline>RESEARCH ALERT - Sybase FY97 estimate cut.</headline>
+<text>
+<p>-- Gruntal &amp; Co said Friday it lowered its earnings estimate for Sybase Inc in fiscal 1997 to $0.22 from $0.36, citing uncertainty about the company's overall performance for the rest of the year.</p>
+<p>-- Gruntal said Sybase's management is executing well in spite of a tough environment, producing a profit of $0.05 a share in the seasonally tough March quarter.</p>
+<p>-- Projecting revenues remains difficult, Gruntal said, adding that it has limited confidence in its estimate because of the lack of visibility into new product acceptance. Also, most of Sybase's products are in transition and the enterprise software market is under pressure, Gruntal said.</p>
+<p>-- Sybase develops computer software tools.</p>
+<p>-- Its shares closed up 3/4 Friday at 15-5/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

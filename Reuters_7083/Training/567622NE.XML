@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567622" id="root" date="1997-05-07" xml:lang="en">
+<title>GERMANY: SAP managers vow did not break insider law.</title>
+<headline>SAP managers vow did not break insider law.</headline>
+<dateline>MANNHEIM, Germany 1997-05-07</dateline>
+<text>
+<p>Executive managers and supervisory board members at German software company SAP AG on Wednesday issued a joint declaration swearing that they had not broken the country's insider trading law.</p>
+<p>Top managers stated that they had &quot;at no time dealt in SAP shares or derivatives in violation of insider trading rules&quot;, supervisory board chairman Bernd Thiemann said, reading from the statement.  </p>
+<p>In addition, Thiemann told SAP's annual general meeting, managers had not passed on any relevant information to third parties where this was not necessary.</p>
+<p>Frankfurt prosecutors have launched an investigation into trades by over 100 people in both SAP shares and stock options after sharp price movements around October 23 last year.</p>
+<p>SAP stock plunged by a quarter in value after the release of weaker than expected third quarter profits, prompting an investigation by the Frankfurt bourse's supervisory watchdog.</p>
+<p>Earlier, chief executive Dietmar Hopp said that the public uproar over the insider probe had caused significant financial harm to his company. He reiterated that management would help investigators to bring the affair to a speedy end.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANNHEIM, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

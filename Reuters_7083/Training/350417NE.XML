@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350417" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: CIMATRON Ltd Q4 full results.</title>
+<headline>CIMATRON Ltd Q4 full results.</headline>
+<dateline>NEW YORK 1997-02-03</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>			    Three months ended	 Year ended</p>
+<p>				 December 31,	   December 31,</p>
+<p>			     1995	    1996    1995	  1996</p>
+<p>				  (Unaudited)	     (Audited)</p>
+<p>Revenue:</p>
+<p>International:</p>
+<p>     Products	 $ 2,890	 $ 4,249 $ 9,047    $ 11,937</p>
+<p>     Services	     451	     750   1,327	 2,370</p>
+<p>		  Total   3,341	   4,999  10,374	14,307</p>
+<p>Israel:</p>
+<p>     Products	     612	     459   2,208	 2,238</p>
+<p>     Services	     295	     367   1,029	 1,534</p>
+<p>		  Total     907	     826   3,237	 3,772</p>
+<p> Total revenue	  4,248	   5,825  13,611	18,079</p>
+<p>Cost of revenue:</p>
+<p>     Products	     375	     311   1,228	 1,301</p>
+<p>     Services	     507	     588   1,630	 2,149</p>
+<p>		  Total     882	     899   2,858	 3,450</p>
+<p> Gross profit	   3,366	   4,926  10,753	14,629</p>
+<p>Research and</p>
+<p>development</p>
+<p>   expenses, net	1,036	     976   3,437	 4,023</p>
+<p>Selling, general &amp;</p>
+<p>administrative</p>
+<p>     expenses	   1,334	   2,506   3,793	 7,310</p>
+<p> Operating income	 996	   1,444   3,523	 3,296</p>
+<p>Financial income</p>
+<p>  (expenses)	     (77)	     156    (77)	   357</p>
+<p> Other income		 4		--	19	    12</p>
+<p> Income before taxes    923	   1,600   3,465	 3,665</p>
+<p> Taxes on income	(115)	     289  (1,050)	  250</p>
+<p> Net income		 808	   1,889   2,415	 3,915</p>
+<p> Net income per share  0.13	    0.24    0.40	  0.52</p>
+<p>Weighted average number</p>
+<p>of shares outstanding</p>
+<p>			    6,000	   7,950   6,000	 7,519</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

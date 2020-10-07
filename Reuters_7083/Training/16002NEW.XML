@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16002" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: DEC spinoff includes other software - source.</title>
+<headline>DEC spinoff includes other software - source.</headline>
+<dateline>BOSTON 1996-08-27</dateline>
+<text>
+<p>Digital Equipment Corp's spinoff of its AltaVista Internet Software Inc will include other software products for the Internet and Intranet, besides the powerful search engine, sources close to the company said.</p>
+<p>AltaVista, which will be 80 percent owned by Digital after the offering, will include security products, management software, e-mail and workgroup collaberation software, the source said.</p>
+<p>A Digital spokesman declined to give a size for the offering, but said shares of the unit will be sold to the public following regulatory approvals and upon favorable market conditions.</p>
+<p>&quot;We think the action enhances digital overall flexibility with respect to its Internet/Intranet software-related business,&quot; the spokesman said.</p>
+<p>No price has yet been determined for the offering, he said.</p>
+<p>-- Michael Ellis, Boston bureau (617) 367-4176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

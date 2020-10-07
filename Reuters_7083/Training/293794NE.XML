@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="293794" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: 3M sues Microsoft over Post-It notes.</title>
+<headline>3M sues Microsoft over Post-It notes.</headline>
+<dateline>ST. PAUL, Minn. 1997-01-08</dateline>
+<text>
+<p>Minnesota Mining and Manufacturing Co charged Microsoft Corp with trademark infringement concerning 3M's Post-it notes, according to a lawsuit filed in Minnesota Federal Court.</p>
+<p>In its official complaint, filed January 3, 3M charges that in its Office 97 software Microsoft &quot;includes a software component for creating ... computer representations of repositionable adhesive notes, yellow in color ... very similar to those of 3M's POST-IT Software Notes sold under the POST-IT mark.&quot;  </p>
+<p>3M charges that this is in effect unauthorized use by Microsoft of the trademarked Post-It name and could cause confusion and mistakes which would negatively impact 3M and its product lines.</p>
+<p>This suit seeks to stop Microsoft from using the feature and asks for unspecified damages and attorneys fees.</p>
+<p>The company has notified Microsoft of its concern and has demanded that Microsoft stop using this feature.</p>
+<p>3M spokeswoman Mary Auvin told Reuters that 3M felt it had no other choice when Microsoft failed to comply with 3M's requests.  </p>
+<p>She added that Post-It brand materials have annual sales in the hundreds of millions of dollars, both in paper and electronic formats.</p>
+<p>Microsoft spokesman Mark Murray said the company was working with 3M to &quot;clear up the misunderstanding,&quot; but executives believe the suit has no merit.</p>
+<p>&quot;We do not believe we have infringed their trademark in any way,&quot; he said.  &quot;We don't have a product named Post-It, we don't have a feature called Post-It, we don't use the phrase Post-It anywhere in our advertising and marketing.&quot;</p>
+<p>He said the feature at issue was part of Office 97's Outlook personal information manager, a new feature in the best-selling application suite.  The feature allows users to create an instant note by clicking on the &quot;Notes&quot; icon.</p>
+<p>Office 97 goes on sale next week after a launch event in New York.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

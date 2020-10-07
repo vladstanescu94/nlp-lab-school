@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126725" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Judge freezes Dane's assets in insider case.</title>
+<headline>Judge freezes Dane's assets in insider case.</headline>
+<dateline>WASHINGTON</dateline>
+<text>
+<p>A New York federal judge has frozen the assets of a Danish resident who U.S. regulators have accused of insider trading, the Securities and Exchange Commission said Friday.</p>
+<p>The SEC said it sought the order to prevent Michael Jonsson, a former executive of Olicom A/S, from removing his assets from the United States.</p>
+<p>U.S. District Judge Milton Pollack issued the restraining order in Manhattan federal court on Thursday. Olicom is a Lyngby, Denmark-based company that develops and markets computer products. Its U.S. subsidiary is located in Plano, Texas.</p>
+<p>The SEC said Jonsson, a resident of Hellerup, Denmark, had a brokerage account with Alex Brown &amp; Sons Inc in Baltimore, Md., that had assets worth about $31,000 as of Wednesday.</p>
+<p>The SEC said Jonsson also has a brokerage account with E* Trade Securities Inc., containing assets worth about $16,331.</p>
+<p>In its civil suit against Jonsson, the SEC alleged that he traded on confidential information that Olicom was going to report operating losses for the first quarter of 1996. Olicom made the announcement on April 2.</p>
+<p>It alleged that Jonsson and Objective Invest Holding S.A., a privately-held Luxembourg corporation whose account he controls, sold sold 28,000 shares of Olicom's common stock and bought a total of 800 Olicom put options.</p>
+<p>Jonsson and Objective Invest avoided losses of about $88,000 by selling Olicom's stock, and reaped a profit of about $99,000 through the exercise of the put options and accompanying transactions in Olicom, the SEC alleged.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227662" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Price Waterhouse LLP, Edify in pact.</title>
+<headline>Price Waterhouse LLP, Edify in pact.</headline>
+<dateline>NEW YORK 1996-12-02</dateline>
+<text>
+<p>U.S. accounting and consulting firm Price Waterhouse LLP on Monday said it and Edify Corp have agreed to develop and market Internet banking software.</p>
+<p>Terms of the agreement were not disclosed.</p>
+<p>Santa Clara, California-based Edify makes and distributes a product called the Electronic Banking System, which offers financial institutions the means to deploy automated banking services via the Internet's World Wide Web.</p>
+<p>Price said the alliance between the two firms will help financial institutions meet the demands of the marketplace by providing an integrated electronic delivery platform that presents consumers with highly tailored products.</p>
+<p>&quot;Our relationship with Edify is a critical next step in Price Waterhouse's progression toward being a full service provider and integrator of Internet banking services,&quot; said Gary Meshell of Price Waterhouse.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

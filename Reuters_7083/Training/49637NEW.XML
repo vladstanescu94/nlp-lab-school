@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49637" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Microsoft Corp to simplify hotel systems.</title>
+<headline>Microsoft Corp to simplify hotel systems.</headline>
+<dateline>CLEVELAND 1996-09-12</dateline>
+<text>
+<p>Microsoft Corp said Thursday it plans to lead a multivendor effort to simplify the interconnections and integration issues associated with hotel and lodging systems.</p>
+<p>Microsoft said the announcement came earlier this week at the Integrating Technology Conference in Cleveland.</p>
+<p>Microsoft said the initial scope of the effort is to develop an open set of interface specifications, named the Windows Hospitality Interface Specification, for connecting disparate hotel and lodging systems.</p>
+<p>&quot;Everywhere we go in the hotel business, customers and vendors alike tell us that interfacing disparate systems is their biggest technology headache, so we are responding by tackling the problem head-on,&quot; said Stan Julien, hospitality industry manager at Microsoft.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

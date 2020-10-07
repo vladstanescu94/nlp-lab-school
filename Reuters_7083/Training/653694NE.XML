@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653694" id="root" date="1997-06-11" xml:lang="en">
+<title>NETHERLANDS: SAP adds software for public sector.</title>
+<headline>SAP adds software for public sector.</headline>
+<dateline>AMSTERDAM 1997-06-11</dateline>
+<text>
+<p>German software developer SAP AG on Wednesday released a version of its business software for public agencies.</p>
+<p>The company also announced software for the European market that cut down the time it takes to install R/3, a sprawling programme used to manage financial, manufacturing, personnel and other data spread throughout corporations.</p>
+<p>SAP Public Sector is a version of R/3 aimed at international institutions, governments and non-profit organisations, SAP said at Sapphire 97, its annual customer exposition.</p>
+<p>The product is one of a series that SAP hopes will broaden sales beyond its traditional customer base of large multinational corporations.</p>
+<p>AcceleratedSAP consists of software programmes designed to ease the R/3 installation process, which can take six months or more. It was introduced in the United States last year and is now available in Europe.</p>
+<p>SAP planned to offer AcceleratedSAP in the Asia-Pacific markets in the third quarter.</p>
+<p>The company also said cosmetics group L'Oreal would install R/3 to consolidate finance, accounting, material resource and operations data at branches in 59 countries. It would make the 10,000th R/3 installation, SAP said.</p>
+<p>-- Neal Boudette, Bonn Newsroom, +49-228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

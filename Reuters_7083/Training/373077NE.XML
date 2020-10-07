@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="373077" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: Netscape raising corporate software prices.</title>
+<headline>Netscape raising corporate software prices.</headline>
+<dateline>NEW YORK 1997-02-12</dateline>
+<text>
+<p>Netscape Communications plans to increase prices across much of its corporate intranet software line, a company executive said.</p>
+<p>Eric Hahn, Netscape vice president of engineering, said his company would announce higher prices on both desktop and server software lines.</p>
+<p>Communicator, Netscape's integrated communications package designed to run on individual desktop computers, will rise to $59 from $49, Hahn said.  </p>
+<p>The company's enterprise server software will be priced at $1,295, up from $995 previously. Server software runs on a central computer and is used to manage communications within a corporate network of computers.</p>
+<p>Prices of several other Netscape software products were boosted by similar margins. Details were not immediately available.</p>
+<p>&quot;We remain less expensive on the acquisition costs (than rival products),&quot; Hahn said.  </p>
+<p>If a customer's cost of deploying and installing Netscape software is figured in, the software is an even better deal than rival products offered by Microsoft Corp and the Lotus unit of International Business Machines Corp, he said.</p>
+<p>The Netscape official disclosed the pricing actions in response to a question at the Goldman Sachs Technology Symposium here.</p>
+<p>Netscape is locked in a heated battle for share with Microsoft and Lotus in the market for Internet-based software used to manage internal corporate networks, or intranets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

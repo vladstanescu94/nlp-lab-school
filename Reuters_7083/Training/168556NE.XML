@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168556" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: CBOE looks into trading in options.</title>
+<headline>CBOE looks into trading in options.</headline>
+<dateline>CHICAGO 1996-11-06</dateline>
+<text>
+<p>The Chicago Board Options Exchange (CBOE) said it was making a &quot;routine inquiry&quot; into trading in option contracts on shares of Intuit Inc.</p>
+<p>&quot;CBOE is conducting a routine inquiry into trading of Intuit options,&quot; a CBOE spokesman said without elaborating.</p>
+<p>The options saw heavy turnover on Wednesday as the underlying stock jumped seven to 36-1/2, also on hefty volume, amid rumors that American Express Co would bid for Intuit, the maker of the popular Quicken financial software for personal comuputers.</p>
+<p>Both companies declined to comment on the rumor.  </p>
+<p>Intuit November 35 call options had turnover of 2,317 contracts, with premium skyrocketting to 3-3/8 from a previous close of 3/16. Prior to Wednesday's session, the contract had open interest of 216 contracts after last trading on October 24, according to time and sales data.</p>
+<p>CBOE routinely looks into trading activity when options on a stock have unusually high volume.</p>
+<p>-- Chicago Derivatives Desk (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

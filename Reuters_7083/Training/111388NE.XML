@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111388" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Activision enters flight simulation market.</title>
+<headline>Activision enters flight simulation market.</headline>
+<dateline>LOS ANGELES 1996-10-11</dateline>
+<text>
+<p>Activision Inc said it has entered into a deal to distribute three upcoming flight simulation games from Parsoft Interactive Inc, a move that marks its entry into the computer flight game segment.</p>
+<p>Parsoft is headed by Eric Parker, developer of the award-winning &quot;Hellcats over the Pacific&quot; and &quot;A-10 Attack!&quot; -- a hit Macintosh game during 1995.</p>
+<p>Activision said it agreed to buy the worldwide Microsoft Corp Windows 95 rights to three of Parsoft's combat simulation games.</p>
+<p>It said it expects to ship the first title, A-10 Cuba!, the sequel to A-10 Attack!, by the Christmas holiday season.</p>
+<p>One of the highest grossing titles for Apple Computer Inc's Macintosh platform, A-10 Attack! has sold about 80,000 units since its release last year.</p>
+<p>The other two games, tentatively titled A-10 Gulf! and Dogfight, are slated for release in 1997.</p>
+<p>The announcement marks Activision's foray into the flight simulation genre beyond its existing stable of action, simulation, strategy and adventure games.</p>
+<p>-- Eric Auchard, New York Newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

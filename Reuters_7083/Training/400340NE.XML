@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="400340" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: Health Management Q1 net, share fall.</title>
+<headline>Health Management Q1 net, share fall.</headline>
+<dateline>NEW YORK 1997-02-25</dateline>
+<text>
+<p>(Unaudited, In Thousands of $, Except Per Share Amount)</p>
+<p>							 Three Months Ended</p>
+<p>								January 31,</p>
+<p>							    1997	1996</p>
+<p> Revenue						22,272     25,619</p>
+<p>Cost of services</p>
+<p> Compensation					 11,659     11,755</p>
+<p> Data processing				     1,793	2,165</p>
+<p> Occupancy					     2,143	1,708</p>
+<p> Other						   3,350	4,292</p>
+<p>							  18,945     19,920</p>
+<p> Operating margin				    3,327	5,699</p>
+<p> Amortization of intangibles			  46	   55</p>
+<p> Operating income				    3,281	5,644</p>
+<p>Other income (expense)</p>
+<p> Interest income, net				  441	  251</p>
+<p> Merger related costs				(500)	    0</p>
+<p> Equity (loss) in earnings of affiliate	 (16)	  123</p>
+<p> Income before income tax expense		3,206	6,018</p>
+<p> Income tax expense				(1,403)    (2,408)</p>
+<p> Net income					    1,803	3,610</p>
+<p> Net income per common share			0.10	 0.20</p>
+<p> Weighted EPS denominator			 18,236     18,180</p>
+<p>NOTES: Acquisition of Quality Standards in Medicine Inc, completed in November 1996, was treated as a pooling of interests, and $500,000 in transaction costs were recognized in the first quarter, reducing Health Management's quarterly earnings per share by $0.03.</p>
+<p>Prior year results have been restated to reflect the merger of Quality Standards.</p>
+<p>Full company name is Health Management Systems Inc.</p>
+<p>((-- New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

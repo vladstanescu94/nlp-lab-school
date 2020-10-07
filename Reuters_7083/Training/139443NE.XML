@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139443" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Versant expects to retain MCI as client.</title>
+<headline>Versant expects to retain MCI as client.</headline>
+<dateline>MENLO PARK, Calif. 1996-10-24</dateline>
+<text>
+<p>Versant Object Technology Inc said Thursday it believes MCI Communications Inc will retain Versant as a software provider for MCI's Horizon customer billing system after MCI reviews Horizon.</p>
+<p>A Versant spokesman said the company had expected MCI to pay Versant $2.2 million in software licensing fees in 1996's third and fourth quarters, but Versant decided not to recognize the revenue while MCI evaluates the program.</p>
+<p>&quot;Versant expects that when the re-evaluation is complete, MCI will continue with the Horizon project and Versant will remain a primary software supplier,&quot; it said in a statement.</p>
+<p>The spokesman added Versant has been talking to MCI during its review of Horizon, but Versant is not in a position to comment on the progress, timetable or results of MCI's work.</p>
+<p>Earlier, Versant reported a third quarter net profit of $606,000, or $0.07 a share, on total revenue of $4.98 million versus a net loss of $532,000, or $0.09 a share, on sales of $2.56 million one year ago.</p>
+<p>Versant's stock rose 3-7/8 to 22-1/4 by mid-afternoon.</p>
+<p>Versant launched its initial public offering of stock on July 18 at a price of $8.00 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

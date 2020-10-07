@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246637" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Microsoft to acquire Internet developer company.</title>
+<headline>Microsoft to acquire Internet developer company.</headline>
+<dateline>REDMOND, Wash. 1996-12-10</dateline>
+<text>
+<p>Software giant Microsoft Corp. Tuesday said it had agreed to buy NetCarta Corp., which makes Web management and navigation tools for computer networks, for $20 million in cash.</p>
+<p>The acquisition of the Scotts Valley, Calif., company will give Microsoft a comprehensive product for developing Internet Web sites and the internal corporate networks called intranets.</p>
+<p>Microsoft said it planned to use its marketing and distribution channels to sell NetCarta's WebMapper software to a broader customer base. Microsoft will integrate the WebMapper Web site management tool into its Microsoft BackOffice software package.</p>
+<p>&quot;Microsoft is committed to delivering a comprehensive content management solution that enables customers to easily track, monitor, control and replicate Web content and changes throughout an ... intranet or Internet site,&quot; said Anthony Bay, general manager for Microsoft's Internet services business unit.</p>
+<p>Key NetCarta employees, including NetCarta's co-founder and chief technical officer, Rory Stark, will join the Internet services business unit, the company said.</p>
+<p>NetCarta is a unit of CMG Information Services Inc.</p>
+<p>In addition to the acquisition of NetCarta, Microsoft will make a minority equity investment in CMG.</p>
+<p>Microsoft stock rose $2 to $83.75 in afternoon trading on Nasdaq, where it was among the most active stocks. CMG Information Services climbed $2.125 to $19.50, also on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

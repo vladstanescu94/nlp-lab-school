@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183460" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Inference Corp Q3 loss vs profit.</title>
+<headline>Inference Corp Q3 loss vs profit.</headline>
+<dateline>NOVATO, Calif. 1996-11-12</dateline>
+<text>
+<p>Inference Corporation</p>
+<p>		    Consolidated Statements of Operations</p>
+<p>	   (Amounts in thousands, except net income per share)</p>
+<p>				  (unaudited)</p>
+<p>			     Three months ended   Nine months ended</p>
+<p>				    October 31,	   October 31,</p>
+<p>				   1996	 1995     1996	1995</p>
+<p>Revenues:</p>
+<p>   Products		 $ 3,454    $ 4,340  $13,935   $10,812</p>
+<p>   Services		   4,015	3,321   12,034     8,942</p>
+<p> Total revenues	     7,469	7,661   25,969    19,754</p>
+<p>Operating costs and</p>
+<p>expenses:</p>
+<p>Cost of revenues -</p>
+<p>    Products		    318	  449    1,034     1,006</p>
+<p>Cost of revenues -</p>
+<p>    Services		  2,374	1,917    7,229     5,638</p>
+<p>   Product development	962	  573    2,507     1,435</p>
+<p>   Sales and marketing    4,334	3,372   12,764     8,579</p>
+<p>General and</p>
+<p>    administrative	    755	  496    2,156     1,309</p>
+<p>Total operating costs</p>
+<p>   and expenses	     8,743	6,807   25,690    17,967</p>
+<p>Income (loss) from</p>
+<p>   operations	     (1,274)	  854	279     1,787</p>
+<p>Costs of secondary</p>
+<p>   offering			74	    0    (241)	   0</p>
+<p>Non-employee option</p>
+<p>   expenses			 0	    0    (215)	   0</p>
+<p>Loss from divested tools</p>
+<p>   business			 0	    0	  0     (210)</p>
+<p>Interest income (expense),</p>
+<p>   net			    357	  336	976	 451</p>
+<p>Income (loss) before</p>
+<p>   income taxes	     (843)	1,190	799     2,028</p>
+<p>  Provision for income taxes  0	 (80)     (25)     (105)</p>
+<p>  Net income (loss)	( 843)	1,110	774     1,923</p>
+<p>Net income (loss) per</p>
+<p>  share		     ( 0.10)	 0.13     0.09	0.27</p>
+<p>Shares used in computing</p>
+<p>net income (loss)</p>
+<p>   per share		  8,176	8,538    8,689     7,097</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I3302022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

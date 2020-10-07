@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="650238" id="root" date="1997-06-10" xml:lang="en">
+<title>USA: AmEx, Microsoft unveil online travel system.</title>
+<headline>AmEx, Microsoft unveil online travel system.</headline>
+<dateline>NEW YORK 1997-06-10</dateline>
+<text>
+<p>American Express Co. and Microsoft Corp. on Tuesday unveiled an online travel reservations system aimed at corporate travelers.</p>
+<p>The jointly developed system, called AXI (American Express Interactive), is expected to slash the time needed to make travel arrangements, they said.</p>
+<p>It will also help ensure that employees book air travel, hotels and auto rental with &quot;preferred&quot; companies, in an era when corporations are intent on controlling their travel expenses.</p>
+<p>&quot;It (AXI) will help companies get more compliance to travel policy,&quot; said Ed Gilligan, president of corporate services for American Express.</p>
+<p>Microsoft will provide the technology, while American Express will provide the travel expertise in the system, which was announced in July 1996.</p>
+<p>At a news briefing, officials declined to discuss financial arrangements between the two companies or make specific projections about how much business would be booked on the system.</p>
+<p>But the online booking of travel services overall is expected to grow to 2.5 percent of the market in three years from less than 0.5 percent last year, said John Neilson, Microsoft's vice president for Interactive Services Media.</p>
+<p>The companies cited a projection from market researcher Jupiter Communications that the value of business and leisure travel booked online is expected to grow from $827 million to $8.9 billion by the year 2002.</p>
+<p>American Express recorded $15.8 billion in worldwide travel sales in 1996. A survey by American Express concluded that U.S. companies spent $156 billion on travel and entertainment in 1996.</p>
+<p>American Express said that companies, including Monsanto Co. and AlliedSignal Inc., have agreed to begin using the system.</p>
+<p>Following a demonstration of how an employee at a corporation would book a trip using the system, Joe Monaghan, an American Express vice president, said some travel could be booked in five minutes.</p>
+<p>A trip that he regularly makes between Houston and Seattle can be booked in 30 seconds, he said.</p>
+<p>Mike Mulligan, American Express vice president for the interactive travel group, said direct contact with travel agents would not disappear because a &quot;hybrid world&quot; was emerging.</p>
+<p>Mulligan said agents would be able to &quot;focus on value-added services.&quot;</p>
+<p>American Express' stock rose 12.5 cents to $71.25 in consolidated trading on the New York Stock Exchange at midafternoon. Microsoft fell 62.5 cents to $124.50 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

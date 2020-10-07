@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132383" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Enterprise Systems Inc Q3 net up.</title>
+<headline>Enterprise Systems Inc Q3 net up.</headline>
+<dateline>WHEELING, Ill. 1996-10-22</dateline>
+<text>
+<p>(amounts in thousands, except per share amounts)</p>
+<p>				(unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					 1996   1995	1996     1995</p>
+<p>     Total revenues	    13,945  8,242    34,988   22,682</p>
+<p>Total operating costs</p>
+<p>	and expenses	     12,513  8,102    40,946   22,960</p>
+<p>Income (loss) from</p>
+<p>   operations		     1,432    140   (5,958)    (278)</p>
+<p> Net income (loss)		  869     43   (3,408)    (317)</p>
+<p>Net income (loss) per</p>
+<p>   share			     0.11   0.01    (0.46)   (0.06)</p>
+<p>Shares used in computing</p>
+<p>net income (loss)</p>
+<p>   per share			8,017  5,520     7,480    5,533</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHEELING, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

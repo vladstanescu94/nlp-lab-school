@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38169" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Excalibur Technologies Q2 full results.</title>
+<headline>Excalibur Technologies Q2 full results.</headline>
+<dateline>VIENNA, Va. 1996-09-06</dateline>
+<text>
+<p>ASSETS				July 31, 1996  January 31, 1996</p>
+<p>Current Assets</p>
+<p>Cash and cash equivalents	 $    2,171     $    2,903</p>
+<p>U.S. government securities	    13,748	   10,341</p>
+<p>Accounts receivable, net		 6,575	    6,942</p>
+<p>Prepaid expenses and other	     1,103		582</p>
+<p>Total current assets		    23,597	   20,768</p>
+<p>Other Assets, net			  4,028	    2,278</p>
+<p>Total					$27,625	  $23,046</p>
+<p>LIABILITIES AND SHAREHOLDERS' EQUITY</p>
+<p>Current Liabilities</p>
+<p>Accounts payable		    $    1,363	   $1,005</p>
+<p>Accrued expenses			   1,517	    2,999</p>
+<p>Deferred revenues			  2,345	    2,759</p>
+<p>Deferred compensation		    1,001	    1,032</p>
+<p>Total current liabilities		6,226	    7,795</p>
+<p>Shareholders' Equity		    21,399	   15,251</p>
+<p>Total					$27,625	  $23,046</p>
+<p>All amounts are expressed in thousands of U.S. dollars except per share amounts.</p>
+<p>				Three Months Ended  Six Months Ended</p>
+<p>					  July 31,		 July 31,</p>
+<p>				     1996     1995	1996    1995</p>
+<p>Revenues			 $4,319   $4,257    $8,320  $7,898</p>
+<p>Expenses:</p>
+<p>   Sales and marketing	 3,521    1,783     6,624  3,863</p>
+<p>   Research and product	1,804    1,178     3,421  2,295</p>
+<p>development</p>
+<p>General and administrative   1,085    1,464     1,940  2,239</p>
+<p>Cost of  sales		     386	462	 728    849</p>
+<p>Total expenses		   6,796    4,887    12,713  9,246</p>
+<p>Operating Loss		 (2,477)   ( 630)   (4,393) (1,348)</p>
+<p>Interest and Other Income, net 164	131	 355     245</p>
+<p>Net Loss			$(2,313)  $( 499)  $(4,038) (1,103)</p>
+<p>Net Loss Per Common Share  $(0.19)  $(0.04)  $(0.33)  $(0.10)</p>
+<p>Weighted-Average Number of Common</p>
+<p>Shares Outstanding	   12,363    11,397   12,274  11,330</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

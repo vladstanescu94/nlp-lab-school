@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="216315" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Citation Computer ex-president cuts stake.</title>
+<headline>Citation Computer ex-president cuts stake.</headline>
+<dateline>WASHINGTON 1996-11-26</dateline>
+<text>
+<p>Frank Poggio, former president of Citation Computer Systems Inc., said Tuesday he cut his stake in the company to 231,473 common shares, or 6.1 percent of the total, from 351,623 shares, or 9.3 percent.</p>
+<p>In a filing with the Securities and Exchange Commission Poggio, said he sold 120,150 shares between Oct. 10 and Nov. 11 at prices ranging from $10.69 to $12.40 a share.</p>
+<p>Citation Computer announced in July that Poggio resigned as president to pursue other business interests, but would remain a director of the company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

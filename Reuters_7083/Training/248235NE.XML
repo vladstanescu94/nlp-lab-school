@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248235" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Remedy comfortable with Q4 estimates.</title>
+<headline>Remedy comfortable with Q4 estimates.</headline>
+<dateline>SAN FRANCISCO, Calif. 1996-12-11</dateline>
+<text>
+<p>Remedy Corp Chief Financial Officer George de Urioste said the company is comfortable with analysts' fourth quarter estimates of 16 to 17 cents a share earnings and $26-$27 million in revenues.</p>
+<p>De Uroiste told investors and analysts at the Montgomery Securities conference that he expects operating profits, which were 27 percent of revenues for the first nine months of 1996, to move lower after 1997 to a target model range of 22 to 24 percent as the company expands its business.</p>
+<p>Remedy develops, markets and supports client/server applications software which is highly adaptable to various functions, including help desk and network management and administration roles and processes.</p>
+<p>The company said it has 74 customers who have eached paid more than $200,000 in cumulative orders, nine customers whose total orders top $1 million and six over $2 million, with one whose cumulative orders are above $7 million.</p>
+<p>Remedy's revenues were 15.1 million in its fourth quarter a year ago. The company said it intends to keep its research and development expenditures in the current 18 to 19 percent range and to expand further internationally.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

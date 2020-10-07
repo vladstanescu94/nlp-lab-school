@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79298" id="root" date="1996-09-26" xml:lang="en">
+<title>CANADA: Corel CEO sees Q4 sales of US$130 mln.</title>
+<headline>Corel CEO sees Q4 sales of US$130 mln.</headline>
+<dateline>OTTAWA 1996-09-26</dateline>
+<text>
+<p>Corel Corp president and chief executive officer Michael Cowpland said on Thursday he expected the company's sales to rise to about US$130 million in the fourth quarter from the US$84.94 million in the third quarter this year.</p>
+<p>He also said he expected Corel to return to profitability in the fourth quarter after delayed product shipments resulted in a loss of US$0.05 a share in the third quarter.</p>
+<p>&quot;We expect growth to be outstanding,&quot; Cowpland told a breakfast meeting. &quot;Now we are beginning to accelerate into good profits.&quot;  </p>
+<p>Cowpland also said he expected the early November release of the new version of its flagship product, the DRAW 7 software, to be the &quot;best release to date.&quot;</p>
+<p>He said said he expects an International Trade Tribunal decision on Corel's request for a probe into why Canada's Defence Department chose rival Microsoft Corp's Office software over Corel's WordPerfect.</p>
+<p>The Canadian government awarded the C$8.6 million (US$6.28 million) contract to Microsoft in June for 40,000 installations of Microsoft's Office Suite, which includes word processing and other software.  </p>
+<p>&quot;We know it's being reviewed and that in itself is significant,&quot; Cowpland said, &quot;We expect the results from it in the next two months.&quot;</p>
+<p>-- Reuters Ottawa Bureau 613-235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

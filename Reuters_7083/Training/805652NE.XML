@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="805652" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: Sun Micro to take on Compaq, Dell with new servers.</title>
+<headline>Sun Micro to take on Compaq, Dell with new servers.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-08-18</dateline>
+<text>
+<p>Sun Microsystems Inc. on Tuesday will unveil a new line of low-cost computers to control data traffic through small corporate networks.</p>
+<p>Sun said Monday it will introduce the Enterprise 450 Server, a $14,650 machine designed to manage data storage, print jobs and the flow of electronic mail through departmental networks.</p>
+<p>With the Enterprise, Sun hopes to challenge Compaq Computer Corp. and other personal computer makers in the $11 billion low-end server market. The Sun server would compete against their similarly priced, but less powerful, machines running Microsoft Corp.'s Windows NT software.</p>
+<p>Sun's products are based on the Unix software standard, which is facing a growing threat from Windows NT. Until now, Sun had left the market for low-end, $20,000-and-below servers to companies such as Compaq and Dell Computer Corp., while it tackled the mid-range market.</p>
+<p>&quot;We're going to come out with a product tomorrow that we think raises the bar on performance and reliability while preserving prices,&quot; said Ed Zander, president of Sun's computer unit. &quot;We will offer an alternative to NT that far exceeds on the hardware and software.&quot;</p>
+<p>Software companies that have been close allies to Sun, including Oracle Corp. and Computer Associates International Inc., will also likely announce products geared for the Enterprise 450 tomorrow, Zander said.</p>
+<p>The machines would appeal especially to companies that are creating links between their internal networks and the Internet to conduct electronic commerce, said Jon Oltsik senior analyst at market researcher Forrester Research Inc.</p>
+<p>&quot;I think (Sun's) prospects are pretty good, especially among customers that have not taken the Windows NT plunge yet,&quot; Oltsik said.</p>
+<p>He said the Sun computer seems to perform common computing tasks faster than competing offerings from vendors of Windows NT computers.</p>
+<p>Officials at Compaq and Dell could not be immediately reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

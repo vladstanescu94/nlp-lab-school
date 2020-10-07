@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66189" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: I2 Tech, SAP AG working on distribution agreement. [CORRECTED 08:30 GMT 21/9]</title>
+<headline>I2 Tech, SAP AG working on distribution agreement. [CORRECTED 08:30 GMT 21/9]</headline>
+<dateline>IRVING, Texas 1996-09-20</dateline>
+<text>
+<p>(The company corrects to clarify that a distribution agreement has not yet been signed with SAP).</p>
+<p>i2 Technologies Inc is working on a distribution agreement with German software group SAP AG to help boost sales of the two companies' softare systems, i2 executives said.</p>
+<p>Vice President of Marketing Robert Humphrey told Reuters he expected an announcement to be made &quot;in the next week or so&quot; but later clarified that no firm deal had yet been signed.</p>
+<p>Chief Executive Officer Sanjiv Sidhu said he was confident the deal would go through. &quot;As I understand it, both companies are extremely interested and don't see any roadblocks to getting this done.&quot;</p>
+<p>The two firms already have a joint-marketing agreement and a joint development project to integrate SAP's client/server software system R/3 with i2's planning and scheduling system, Rhythm.</p>
+<p>&quot;The next logical step is a distribution agreement,&quot; Humphrey said, adding that the deal would help boost i2's sales, especially in Germany and Europe.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

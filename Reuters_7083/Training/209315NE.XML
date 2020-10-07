@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209315" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Autodesk Inc Q3 Oct 31 shr net falls.</title>
+<headline>Autodesk Inc Q3 Oct 31 shr net falls.</headline>
+<dateline>SAN RAFAEL, Calif. 1996-11-22</dateline>
+<text>
+<p>1996			   1995</p>
+<p> Shr		  $	0.13	    $	0.38</p>
+<p> Net		    5,873,000	     19,207,000</p>
+<p> Revs		 116,647,000	    128,537.000</p>
+<p>	  Nine MONTHS</p>
+<p> Shr		  $	0.75	    $	1.41</p>
+<p> Net		   35,578,000	     71,483,000</p>
+<p> Revs		 381,673,000	    407,881,000</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN RAFAEL, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

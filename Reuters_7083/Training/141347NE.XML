@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141347" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Logic Works Inc Q3 loss vs profit.</title>
+<headline>Logic Works Inc Q3 loss vs profit.</headline>
+<dateline>PRINCETON, N.J. 1996-10-23</dateline>
+<text>
+<p>LOGIC WORKS, INC.</p>
+<p>		    CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>		    (unaudited)</p>
+<p>		    Three Months Ended    Nine Months Ended</p>
+<p>			September 30,		September 30,</p>
+<p>			1996	  1995	   1996	   1995</p>
+<p> Total revenues   10,509	 8,370	 31,451	 21,455</p>
+<p>Total cost of</p>
+<p>  revenues	   1,488	 1,310	  4,467	  3,566</p>
+<p>Total operating</p>
+<p>  expenses	  11,132	 6,374	 27,647	 16,666</p>
+<p>Operating</p>
+<p>  income/loss     (2,111)	  686	   (663)	 1,223</p>
+<p> Net income/loss  (1,299)	  394	   (116)	   712</p>
+<p>Earnings</p>
+<p>  per share	  (0.11)	  0.05	 (0.01)	  0.09</p>
+<p>Weighted average shares outstanding</p>
+<p> Primary	     11,386	 7,749	 11,386	 7,662</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

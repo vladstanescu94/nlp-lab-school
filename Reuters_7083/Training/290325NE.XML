@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="290325" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Access to buy PaperClip Software.</title>
+<headline>Access to buy PaperClip Software.</headline>
+<dateline>NEW YORK 1997-01-07</dateline>
+<text>
+<p>Access Solutions International Inc will buy the assets and certain liabilities of PaperClip Software Inc for $5.79 million, the companies said Tuesday.</p>
+<p>The purchase price will be paid by the delivery of about 1.544 million shares of Access common stock plus 1.544 million Access Class B Warrants.</p>
+<p>Each warrant will entitle the holder to purchase one share of Access common stock at an exercise price of $6 per share, they said.  </p>
+<p>The two firms will operate under the Access name once the deal is complete, but the PaperClip product name will be retained.</p>
+<p>Rhode Island-based Access Solutions develops, manufactures and markets mainframe information storage and retrieval systems, including both hardware and software.</p>
+<p>PaperClip, of Hackensack, N.J., makes software for document management and imaging systems, primarily for use in networked systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

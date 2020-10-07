@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323650" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Dr Solomon's Q2 oper profit rises.</title>
+<headline>Dr Solomon's Q2 oper profit rises.</headline>
+<dateline>NEW YORK 1997-01-22</dateline>
+<text>
+<p>UNAUDITED INTERIM CONSOLIDATED PROFIT AND LOSS ACCOUNTS</p>
+<p>				Three months ended  Six months ended</p>
+<p>				   November 30	  November 30</p>
+<p>			   1995	  1996	1995	    1996</p>
+<p>				(unaudited)		   (unaudited)</p>
+<p>				  Amounts in '000s pounds sterling</p>
+<p>					(except per share data)</p>
+<p> TURNOVER		4,566	8,651	8,392	 15,776</p>
+<p>  Cost of sales    (1,000)    (1,722)    (1,798)	(3,138)</p>
+<p>  Gross profit	 3,566	6,929	6,594	 12,638</p>
+<p>Distribution costs</p>
+<p>			   (507)    (1,104)	(862)	(1,796)</p>
+<p>Administrative</p>
+<p>   expenses	  (2,656)    (3,913)    (5,120)	(7,447)</p>
+<p>Other operating</p>
+<p>   income		    3	   --	    8	     --</p>
+<p>  OPERATING PROFIT     406	1,912	  620	  3,395</p>
+<p>  Interest receivable   50	   33	   92	    104</p>
+<p>  Interest payable	--	(403)	   --	  (925)</p>
+<p>PROFIT ON ORDINARY</p>
+<p>ACTIVITIES BEFORE</p>
+<p>   TAXATION		456	1,542	  712	  2,574</p>
+<p>Tax on profit on</p>
+<p>ordinary activities</p>
+<p>			   (319)	(797)	(510)	(1,305)</p>
+<p>PROFIT ON ORDINARY</p>
+<p>ACTIVITIES AFTER</p>
+<p>    TAXATION	     137	  745	  202	  1,269</p>
+<p>Other finance charges</p>
+<p>in respect of non-</p>
+<p>    equity shares	 --	(350)	   --	  (700)</p>
+<p>RETAINED PROFIT</p>
+<p>FOR THE FINANCIAL</p>
+<p>   PERIOD		  137	  395	  202	    569</p>
+<p>Profit per</p>
+<p>ordinary share based</p>
+<p>on 42,392,362</p>
+<p>   ordinary shares	--  0.009 pds	   --	     --</p>
+<p>Profit per ordinary</p>
+<p>share based on</p>
+<p>37,396,181</p>
+<p>   ordinary shares	--	   --	   --    0.015 pds</p>
+<p>  Profit per ADS	  --  0.028 pds	   --    0.046 pds</p>
+<p>-- Profit per ordinary share is based on the weighted average number of ordinary shares in issue throughout the period and is calculated on the profit on ordinary activities after taxation and after finance charges in respect of non-equity shares.</p>
+<p>-- Profit per ADS is calculated by adjusted profit per ordinary share for the ratio of three ordinary shares per ADS.</p>
+<p>-- All amounts derive from continuing operations.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

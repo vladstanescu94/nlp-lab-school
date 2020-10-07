@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="381216" id="root" date="1997-02-16" xml:lang="en">
+<title>USA: Hyundai's Axil unit to make Windows NT computers.</title>
+<headline>Hyundai's Axil unit to make Windows NT computers.</headline>
+<dateline>SANTA CLARA, Calif 1997-02-16</dateline>
+<text>
+<p>Axil Computer Inc said Sunday it will make a line of high-end computer servers based on Microsoft Corp's Windows NT software standard.</p>
+<p>Until now, Axil, the American computer unit of Korean-based Hyundai Corp, has made computers based on the Unix software standard. By making machines based on Windows NT, Axil will chase after a much more rapidly growing market, the company said.</p>
+<p>&quot;We've spent a considerable amount of time listening to IT professionals and anticipating market directions,&quot; said Charles Wilson, Axil chief executive and president.</p>
+<p>Axil makes servers, the type of computers that store and shuffle information through computer networks. Its machines have been based on microprocessors and software from Sun Microsystems Inc, a maker of mid-range Unix computer systems.</p>
+<p>Axil, based in Santa Clara, Calif, is now developing machines that use Intel Corp's Pentium Pro microprocessors and Windows NT software, the same combination of chips and software used in relatively inexpensive personal computers.</p>
+<p>The company said it will develop servers that use eight Pentium Pro processors simultaneously. The company will target customers who want to run massive databases or set up electronic commerce operations on the Internet.</p>
+<p>Axis joins a growing list of midrange computer companies that are making machines to run Windows NT software.</p>
+<p>In recent years, companies such have Hewlett-Packard Co, Digital Equipment Corp and International Business Machines Corp have focused increasingly on making PC-compatible computers for corporate markets.</p>
+<p>-- Kourosh Karimkhany, Los Angeles Bureau, +1 714 951-6770.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

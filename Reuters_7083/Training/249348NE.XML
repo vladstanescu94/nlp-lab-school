@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249348" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: Microsoft to offer PointCast on desktop.</title>
+<headline>Microsoft to offer PointCast on desktop.</headline>
+<dateline>NEW YORK 1996-12-11</dateline>
+<text>
+<p>Software giant Microsoft Corp. said Wednesday it agreed to use content from the Internet-based PointCast Inc. news service in its next-generation Web browser, endorsing so-called &quot;push&quot; technology which delivers customised news to Net users.</p>
+<p>Microsoft said it will include the PointCast network in its Internet Explorer 4.0 Active Desktop software, the next version of the Redmond, Wash.-based company's Internet browser. Internet Explorer 4.0 is due in the second quarter of 1997.</p>
+<p>The PointCast network is an Internet-based &quot;broadcast&quot; service that delivers customised news, even when users are not at their personal computers. Privately held PointCast delivers news from sources such as The New York Times and CNN.</p>
+<p>PointCast is based in Santa Clara, Calif.</p>
+<p>As part of the deal, MSNBC, the online joint venture between Microsoft and the NBC television network, agreed to be a key news and content provider for the PointCast Network.</p>
+<p>&quot;The space we are headed for is a merger between media and technology,&quot; PointCast President Chris Hassett told a news conference at the Internet World trade show.</p>
+<p>In the &quot;push&quot; model, Internet users do not have to go directly to a Web site for news and other information. Instead, the content is delivered, or pushed, to them.</p>
+<p>Microsoft also introduced a version of its current Internet Explorer 3.0 for users of its older Windows 3.1 operating system, a move that analysts said will probably expand its share of the Internet browser market. The software had only been available in final release for PCs running on the newer Windows 95 and NT operating systems.</p>
+<p>Microsoft is locked in a fierce battle with Netscape Communications Corp. of Mountain View, Calif., whose Navigator software dominates the browser market.</p>
+<p>Brad Chase, vice president of marketing at Microsoft's Internet division, declined to make any specific projections on how much market share Microsoft could gain with its Windows 3.1 version.</p>
+<p>&quot;A lot of Netscape users will switch because of the speed of the software alone,&quot; Chase said. &quot;We will see.&quot;</p>
+<p>He said Internet Explorer has about 20 percent of the browser software market, with &quot;lots of good momentum.&quot;</p>
+<p>Microsoft Web browser can be downloaded from its Web site, http://www.microsoft.com. Netscape's browser is available at http://home.netscape.com.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

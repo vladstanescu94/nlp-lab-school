@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="385728" id="root" date="1997-02-18" xml:lang="en">
+<title>USA: Motorola, Be Inc to announce pc pact - NYT.</title>
+<headline>Motorola, Be Inc to announce pc pact - NYT.</headline>
+<dateline>NEW YORK 1997-02-18</dateline>
+<text>
+<p>Be Inc, a company developing a new personal computer operating system, will announce with Motorola that Be Inc's system will be included in Motorola's Macintosh-compatible computers, the New York Times said Tuesday. The paper, which interviewed Jean-Louis Gassee, the former Apple executive who heads Be Inc, said Be Inc is close to a similar pact with IBM.</p>
+<p>Be Inc, based in Menlo Park, California, has already announced deals with other Macintosh clone makers. It failed to sell its system to Apple but believes pacts with Motorola and IBM are equal or better than one with Apple because IBM and Motorola are Apple's partners in developing the Macintosh's Power PC chips, the report said.</p>
+<p>-- New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

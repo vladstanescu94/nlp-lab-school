@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450502" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Sun applies to submit Java to standards body.</title>
+<headline>Sun applies to submit Java to standards body.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-03-17</dateline>
+<text>
+<p>In an unusual move, Sun Microsystems Inc's JavaSoft unit said it will on Monday announce its application to be able to submit its Java technologies to an international standards body.</p>
+<p>JavaSoft President Alan Baratz told Reuters in an interview ahead of the Monday announcement the application - the first by an individual company rather than by an independent standards-setting body - is aimed at creating formal acceptance of Java as a worldwide standard.</p>
+<p>Some industry experts said it may be a risky gambit to avert aggressive initiatives by Microsoft Corp, a Java licensee which Sun and some of its Java partners have warned could move to coopt the technology.</p>
+<p>Microsoft executives have complained in the past over Java, especially last month when Sun issued a new Java Developers Kit version which required Microsoft to update software it had already shipped to its Windows customers.</p>
+<p>Java is a programming language introduced by Sun less than two years ago for use in software development based on re-usable objects that, if members can agree to support one standard, can then operate on virtually all computers.</p>
+<p>This makes it particularly popular for the Internet.</p>
+<p>Java as a computing specification could be an important cost-saving advance for the industry, helping speed software writing and overcome incompatibilities.</p>
+<p>Some industry executives also believe use of Java could chip away at the dominance of Microsoft's Windows systems, unless Microsoft can effectively hijack Java technology by taking over leadership momentum.</p>
+<p>Baratz said Sun considers application to the standards body as &quot;the fastest way to preserve the investment that we and 30 other companies have made in the Java platform.&quot;</p>
+<p>Other Java licensees include International Business Machines Corp., Apple Computer Inc., and Netscape Communications Corp.</p>
+<p>Sun said the partners had not been consulted or notified on the decision to seek standing to submit Java as an ISO standard.</p>
+<p>Formally, Sun applied to be able to submit its technology to the International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC) Joint Technical Committee (JTE) 1.</p>
+<p>&quot;.I think the public interest in these standards becomes greater and greater and therefore the formal acceptance through an organization such as ISO has more value,&quot; said Sergio Mazza, president of the U.S. standards body, the American National Standards Institute (ANSI).</p>
+<p>&quot;I think this is a very positive and a very responsible step,&quot; Mazza told Reuters in an interview. &quot;You have to level the playing field, but not to the point you kill the technology in the meantime because it's obsolete.&quot;</p>
+<p>Lisa Rajchel, who administers the ISO/IEC JTC 1 on behalf of ANSI, said the organization has been moving to streamline procedures, although it will take three months to weigh Sun's initial application and then six months to consider specific standards submissions thereafter.</p>
+<p>Microsoft recently joined ANSI, which has nearly 1,300 direct members, with collective annual revenues of more than $1.2 trillion, in addition to thousands of other affiliates through some 280 other member associations.</p>
+<p>One Silicon Valley intellectual property lawyer, speaking of condition of anonymity, said Sun's move seemed a bizarre step, and one which was unlikely to alter the de facto standards of the fast-moving software market.</p>
+<p>Richard Randall, a Denver, Co.-based expert on the ISO and its ISO 9000 process, said using the international body for software standardization could simply make it another battleground for the industry titans.</p>
+<p>&quot;The way this whole process works is they are going to open it up into a committee and there will be members who can join and get on that committee and I'm sure Microsoft will be on that committee, if it is accepted,&quot; he said.</p>
+<p>&quot;It won't go all Sun's way, I'm sure, at that point,&quot; he said. &quot;What they're trying to do is get something standardized and make everyone else follow them.I don't think they understand what's involved here.&quot;</p>
+<p>&quot;I don't think it's going to achieve the goal that one would think they (Sun) have on the surface,&quot; he said, adding that even a &quot;streamlined&quot; standards process would typically take two to three years at best - time for new generations of products in the computer industry.</p>
+<p>Randall noted that other technology standards, such as hypertext markup language, or HTML, have been established with different standards bodies, but this also has not prevented companies from adding their own extensions.</p>
+<p>&quot;The one positive is that each side would know what the other was promoting,&quot; he added. &quot;I think they (Sun) believe it's going to give them an arm up, but I don't think it's going to do that.&quot; -sam.perry@reuters.com, Palo Alto Bureau 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

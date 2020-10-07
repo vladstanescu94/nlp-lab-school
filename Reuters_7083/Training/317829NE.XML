@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317829" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: STAC sees higher operating expenses.</title>
+<headline>STAC sees higher operating expenses.</headline>
+<dateline>SAN DIEGO 1997-01-20</dateline>
+<text>
+<p>Stac Inc said on Monday it expects operating expenses to rise from current levels in its second quarter ending March 1997, as it boosts spending on product development and hires a significant number of direct sales personnel during the period.</p>
+<p>In a statement accompanying first-quarter results, Stac Inc said operating expenses for the quarter ended Dec. 31, 1996 were $7.1 million compared to operating expenses of $5.5 million in the same quarter the previous fiscal year.</p>
+<p>Research and development expenses for the December 1996 quarter rose to $2.3 million from $1.6 million a year earlier due to the addition of software development personnel to support the ReachOut, Replica and Hi/fn product lines. Sales and marketing expenses for the December 1996 quarter were $3.6 million, an increase of $829,000 from those of a year earlier.</p>
+<p>Net income for the December 1996 quarter was $0.07 per common share compared to a loss of $0.33 per share for the quarter ended December 31, 1995. Excluding a charge related to the purchase of California Software Inc, net income for the year ago quarter was $0.10 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

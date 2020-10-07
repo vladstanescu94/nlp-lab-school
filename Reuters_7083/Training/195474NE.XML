@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195474" id="root" date="1996-11-17" xml:lang="en">
+<title>USA: Microsoft partners to launch Windows devices.</title>
+<headline>Microsoft partners to launch Windows devices.</headline>
+<dateline>LAS VEGAS 1996-11-17</dateline>
+<text>
+<p>Microsoft Corp. said Sunday more than 90 software and hardware vendors would have products available by April 1997 based on its new Windows CE operating system for handheld devices.</p>
+<p>Casio Computer Co., Compaq Computer Corp. and NEC Corp. were expected to have the first handheld computers based on the new operating system available at retail stores Monday.</p>
+<p>In addition to the operating system, a stripped-down version of Windows 95, the 16-ounce &quot;pocketable&quot; devices will include versions of Microsoft word processing and spreadsheet software as well as a personal information manager and in-box for electronic mail.</p>
+<p>The initial devices were expected to retail for $500 to $700 including software and cables allowing users to synchronize data between their handheld and desktop computers.</p>
+<p>&quot;The introduction of the handheld PC with Windows CE is a critical milestone in Microsoft's continuing strategy to bring the popularity and ease of use to Windows to new categories of information devices,&quot; Microsoft Chairman Bill Gates said in a statement at the start of Comdex, the huge industry trade show.</p>
+<p>The handheld computers all will include a stylus and touchscreen navigation system as well as a tiny keyboard for entering data and will be powered by AA batteries that should last for at least two weeks of normal usage.</p>
+<p>The devices also will have telephone modems or communications ports to allow users to get and send electronic mail or access the Internet.</p>
+<p>Microsoft has tried before and failed to bring to market a stripped-down version of Windows, and many previous handheld computer devices have failed in the marketplace.</p>
+<p>But Microsoft executives said the easy-to-use Windows 95 interface and the ability to swap information readily with desktop systems should boost sales of the new handheld computers.</p>
+<p>And they say the operating system is a flexible platform that can be adapted to other Internet devices including &quot;smart&quot; telephones and television set-top boxes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

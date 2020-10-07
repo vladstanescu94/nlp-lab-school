@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193384" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: IBM, Netscape in joint licensing deal.</title>
+<headline>IBM, Netscape in joint licensing deal.</headline>
+<dateline>RESEARCH TRIANGLE PARK, N.C. 1996-11-14</dateline>
+<text>
+<p>IBM Corp said Thursday that it had entered into a new software licensing agreement with Netscape Communications Corp.</p>
+<p>Netscape will integrate IBM's Java-based web-to-host software, IBM Host On-Demand, into Netscape's enterprise intranet client, Netscape Communicator Professional Edition, IBM said.</p>
+<p>As part of the agreement, IBM is licensed to include Netscape Communicator Professional Edition with various IBM hardware and software offerings and market these offerings through IBM's worldwide sales and distribution channels.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESEARCH TRIANGLE PARK, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

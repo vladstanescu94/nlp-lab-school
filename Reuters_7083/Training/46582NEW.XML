@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46582" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: IPO HIGHLIGHTS - XOX, Harmat.</title>
+<headline>IPO HIGHLIGHTS - XOX, Harmat.</headline>
+<dateline>NEW YORK 1996-09-11</dateline>
+<text>
+<p>XOX Corp units were trading flat at 7 after the company's initial public offering on Wednesday. The units opened at 7-3/4, but slipped back to their IPO price of $7 a unit.</p>
+<p>The Minnesota-based imaging company offered 850,000 units, underwriter Equity Security Trading Co said, adding that each unit consisted of one share and one redeemable warrant.</p>
+<p>Harmat Organization, a Quogue NY-based building company, was flat on Wednesday at 8-1/8. On Tuesday, its first day of trading, the stock rose as high as 9 from its IPO price of $5.75 a unit.</p>
+<p>The offering consisted of 862,500 units priced at $5.75 a unit, underwriter Biltmore Securities Inc said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

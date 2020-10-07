@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="538095" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: AFTER THE BELL - Intel slightly lower.</title>
+<headline>AFTER THE BELL - Intel slightly lower.</headline>
+<dateline>NEW YORK 1997-04-25</dateline>
+<text>
+<p>U.S. stocks remained calm in after-hours trading with a few technology stocks moving slightly lower than their close on the Nasdaq Stock Market, dealers said Friday.</p>
+<p>Intel Corp was trading lower at 144-1/8 against a close of 143-7/8, Iomega Corp was down to 15-5/8 from a close of 16-1/8, while Mentor Graphics Corp was at 6-15/16 compared with 6-7/8.</p>
+<p>&quot;There isn't much else,&quot; said one trader.  </p>
+<p>Earlier in the day, stocks ended broadly lower in normal trading hours as investors prepared themselves for important economic reports due to come out next week. The reports are expected to answer questions about the outlook for interest rates.</p>
+<p>The New York Stock Exchange said Friday that session one had a volume of 26,100 shares against 3,300 the previous day, while session two had 1.9 million shares against a larger 8.2 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146724" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Walker Interactive Q3 profit vs loss.</title>
+<headline>Walker Interactive Q3 profit vs loss.</headline>
+<dateline>SAN FRANCISCO 1996-10-28</dateline>
+<text>
+<p>WALKER INTERACTIVE SYSTEMS, INC.</p>
+<p>CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)</p>
+<p>		(Dollar in thousands, except per share amounts)</p>
+<p>CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS</p>
+<p>				   THREE MONTHS	  NINE MONTHS</p>
+<p>				  ENDED SEPT. 30,    ENDED SEPT. 30,</p>
+<p>				   1996	1995     1996	1995</p>
+<p>REVENUES:</p>
+<p>  License fees	     $ 1,823    $ 204   $ 5,659    $4,402</p>
+<p>  Maintenance		  6,817    6,968    20,257    21,367</p>
+<p>Consulting and other services</p>
+<p>				   7,329    6,064    19,761    18,242</p>
+<p> Total revenues	     15,969   13,236    45,677    44,011</p>
+<p>OPERATING EXPENSES:</p>
+<p>Costs of revenues:</p>
+<p>Costs of maintenance, consulting</p>
+<p>   and other services	6,145    6,411    17,532    18,941</p>
+<p>Amortization of capitalized</p>
+<p>   software costs		900    1,049     2,617     3,025</p>
+<p>  Sales and marketing	3,807    3,013     9,931    10,062</p>
+<p>  Product development	2,630    3,337     8,502     9,918</p>
+<p>General and administrative</p>
+<p>				   2,026    7,646     6,886    13,730</p>
+<p>Write-off of purchased in-process</p>
+<p>  research and development    --	 --     2,784	  --</p>
+<p>Total operating expenses</p>
+<p>				  15,508   21,456    48,252    55,676</p>
+<p> Operating income (loss)     461  (8,220)   (2,575)  (11,665)</p>
+<p> Interest income, net	  502	480     1,484     1,376</p>
+<p>Income (loss) before income taxes</p>
+<p>				     963  (7,740)   (1,091)  (10,289)</p>
+<p>Income tax expense (benefit)</p>
+<p>					49	 --	 152     (841)</p>
+<p> NET INCOME (LOSS)	    914  ( 7,740)  ( 1,243)  ( 9,448)</p>
+<p>NET INCOME (LOSS) PER SHARE</p>
+<p>				    0.07  ( 0.59)   ( 0.09)   ( 0.73)</p>
+<p>Shares used in computing</p>
+<p>net income (loss) per share</p>
+<p>				  14,046   13,056    13,238    12,964</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

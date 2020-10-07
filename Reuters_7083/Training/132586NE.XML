@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132586" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Germany's SAP hit in New York trade.</title>
+<headline>Germany's SAP hit in New York trade.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Shares in German business software company SAP AG fell about 20 percent in New York trade on Tuesday, hit by disappointing sales, traders said.</p>
+<p>They said the stock, which trades in the &quot;pink sheets&quot; of the National Quotation Bureau, was at about 220 marks after closing in Frankfurt at 271.50.</p>
+<p>The company reported a nine-month profit of 509 million marks against 385 million marks for the same period the year before.</p>
+<p>Sales for the period were 2.372 billion marks versus 1.79 billion marks for the period in 1995. Revenues were below both the company's and the market's expectations.</p>
+<p>&quot;The gut feeling down here is that (SAP) doesn't have much further to fall,&quot; said Val Kosmider, head of international equity trading at Schroder Wertheim.</p>
+<p>&quot;We think some people are just panicking out of it&quot; because of the earnings. &quot;The historical stuff looks OK.&quot;</p>
+<p>-- Ian Simpson, Wall Street desk (212) 859-1879</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

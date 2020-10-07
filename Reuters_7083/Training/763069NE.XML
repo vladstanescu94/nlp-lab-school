@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763069" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: FTC will not duplicate Justice efforts on Microsoft.</title>
+<headline>FTC will not duplicate Justice efforts on Microsoft.</headline>
+<dateline>WASHINGTON 1997-07-29</dateline>
+<text>
+<p>As expected, the Federal Trade Commission told three senators Tuesday it cannot conduct an investigation of Microsoft Corp because to do so would duplicate efforts of the Justice Department.</p>
+<p>Three senators, unhappy the Justice Department has not taken more action against Microsoft, asked the FTC to intervene.</p>
+<p>But in letters to Republican Senators Ted Stevens of Alaska, Conrad Burns of Montana, and Craig Thomas of Wyoming, FTC Chairman Robert Pitofsky said the commission &quot;has concluded that to exercise its authority ... could involve a substantial duplication of effort.&quot;  </p>
+<p>Pitofsky said that so far as he knew the FTC had never invoked its authority to investigate &quot;in the context of an active investigation of the same subject by the Department of Justice.&quot;</p>
+<p>Pitofsky declined to say specifically that the Justice Department was in fact conducting such an investigation, although the letter certainly left the door open to that possibility.</p>
+<p>But he said that the FTC had decided &quot;that it cannot responsibly commence the investigation that you have requested.&quot;</p>
+<p>One of the Senate aides who helped draft the letter said the response was as expected.</p>
+<p>&quot;It's not particularly a surprise,&quot; said the aide.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

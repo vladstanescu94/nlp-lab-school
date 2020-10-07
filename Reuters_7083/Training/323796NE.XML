@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323796" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Veritas Software in pact with Sun.</title>
+<headline>Veritas Software in pact with Sun.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-01-22</dateline>
+<text>
+<p>Sun Microsystems Inc and Veritas Software said Wednesday they had signed a licensing, development and marketing agreement.</p>
+<p>The companies said in a statement that Sun will bundle a specialized, integrated version of Veritas Volume Manager disk and storage management software -- Sun Enterprise Volume Manager -- with Sun's disk subsystems and will offer Enterprise Volume Manager as an option for all Sun servers and enterprise RAID systems.</p>
+<p>Additionally, Sun will price list Veritas File System and will be supporting it as a Sun product. Sun will also co-package a functional subset of Veritas Volume Manager with future versions of its Solaris operating environment. Sun said it also plans to price list and support other VERITAS products as they become available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47209" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: Netscape, Microsoft talk standards.</title>
+<headline>Netscape, Microsoft talk standards.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISCO 1996-09-11</dateline>
+<text>
+<p>Even as the rivalry sharpens between Microsoft Corp and Netscape Communications Corp, top executives from each company said that industry cooperation, particularly around common standards, is more important than ever.</p>
+<p>At the Seybold publishing conference here, Netscape senior vice president Marc Andreessen declined to share the stage and debate a Microsoft executive on Tuesday. Instead there was a last-minute switch in the agenda so each company gave separate presentations.  </p>
+<p>Andreessen said cooperation among different software and technology companies is increasingly significant as corporate customers deploy Internet-like intranets and need software companies to make programs that work across many platforms.</p>
+<p>&quot;Standards are more important than ever, and a requirement of the marketplace,&quot; Andreessen said in his presentation.</p>
+<p>He also said the market is calling for &quot;content&quot; or publishing companies to work closely with software companies. &quot;Software needs to be presented as content,&quot; he said, rather than code layered on top of content.  </p>
+<p>Meanwhile, Brad Chase, Microsoft vice president of Internet platform and tools division, stressed in a half-hour presentation that Microsoft is delivering standards-based technology in its newest products, particularly its Internet Explorer 3.0.</p>
+<p>&quot;We are trying very hard to be open, cross platform and language independent,&quot; Chase told the Seybold audience. As examples he said Internet Explorer 3.0 adopts a standard known as &quot;style-sheets&quot; put forth by an Internet standards organization called the WC3. He also described the Explorer's component programming language ActiveX as an open standard.  </p>
+<p>&quot;Active X is an open thing others could support. They don't today but they could,&quot; he said.</p>
+<p>The battle between Netscape and Microsoft centers largely on their Internet browsers. While Netscape has led the browser market with an 80 percent share, Microsoft is aggressively assaulting the market with its much improved edition of Internet Explorer. Its distribution tactics -- offering it free and bundling with future versions of its Windows operating system -- irked Netscape. Netscape filed a complaint with the U.S. Justice Department about Microsoft's plan to bundle Explorer 3.O with Windows.  </p>
+<p>At their Seybold presentations neither of the companies' executives mentioned the competing firm.</p>
+<p>But according to conference organizer Jonathan Seybold, Microsoft and Netscape will dictate the industry's future.</p>
+<p>&quot;At this point in the industry, two companies provide the focus of where this industry is going, Microsoft and Netscape,&quot; Seybold told the conference in his keynote remarks. &quot;We have a situation where standards for technology going forward are being drawn by these two companies.&quot;</p>
+<p>Notably absent from his list of trendsetters - and from the roster of key note presentations - was Apple Computer Inc.  </p>
+<p>The majority of publishing industry professionals use Apple's Macintosh computers - judging from a show of hands at the conference's crowded opening session.</p>
+<p>But for the first time in many many years of this annual publishing industry conference, the Seybold conference does not feature an Apple presentation.</p>
+<p>A Seybold executive told a San Francisco Examiner reporter that Apple was not on the keynote list because Apple is not a trendsetter in Internet publishing, which is where the industry is heading.</p>
+<p>&quot;The Mac is pivotol in print production. But the same situation does not prevail for the Internet,&quot; Craig Cline, an executive with Seybold, told the Examiner.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

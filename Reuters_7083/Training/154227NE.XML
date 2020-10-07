@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="154227" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Microsoft to offer Merchant Server Software.</title>
+<headline>Microsoft to offer Merchant Server Software.</headline>
+<dateline>SAN JOSE, Calif. 1996-10-30</dateline>
+<text>
+<p>Microsoft Corp on Wednesday said it would offer a software package, Merchant Server 1.0, that will make it easier for companies to sell goods over the Internet.</p>
+<p>Merchant Server enables companies to establish selling sites on the Internet's World Wide Web with minimal development costs, Microsoft said.</p>
+<p>It offers customers a secure buying experience and helps generate sales through targeted dynamic sales promotions, it said.</p>
+<p>The software is set for release by December 1.  </p>
+<p>The firm said server licenses will be available for the full package price of $14,995, and administration licenses, required to host a live domain, are available for $3,495.</p>
+<p>Companies that host their own Web sites can develop online selling with Merchant Server for a total licensing price of $18,490.</p>
+<p>Microsoft said it has already developed Merchant Server-based relationships with numerous firms that operate on the Internet, from Internet service providers to retailers.</p>
+<p>In a statement, Bill Gates, Microsoft chief executive and chairman, said, &quot;Microsoft is committed to enabling all types of Internet commerce...&quot;</p>
+<p>-- New York Newsdesk 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

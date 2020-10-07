@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="691427" id="root" date="1997-06-27" xml:lang="en">
+<title>USA: Companies rush to cash in on Internet smut bonanza.</title>
+<headline>Companies rush to cash in on Internet smut bonanza.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-06-27</dateline>
+<text>
+<p>Software makers are suddenly scrambling to profit by selling tools to block obscene and indecent Web sites on the Internet after the Supreme Court struck down the Communications Decency Act.</p>
+<p>In what appeared to be a well-choreographed response to the widely awaited ruling, the companies rushed to tout their technical solutions for preventing children from perusing Web sites their parents consider to be offensive.</p>
+<p>Several of them, such as Spyglass Inc.'s SurfWatch Software, which testified in the case at the appeals court level before it reached the nation's highest court, issued statements announcing the availability of their products.</p>
+<p>SurfWatch had just released a major upgrade of its product, SurfWatch 3.0, which stops users from connecting to 35,000 sites and blocks them from entering some 20,000 search terms for finding materials over the Internet.</p>
+<p>&quot;Fundamentally it's good for business because what the Supreme Court has really done is raise the level of buzz,&quot; said Mike Sears, who three weeks ago took up the newly created position of president and general manager of SurfWatch.</p>
+<p>A number of other companies -- including Internet firewall company Raptor Systems Inc. and filtering software maker Microsystems Software Inc., both of Massachusetts -- issued statements hailing the decision and promoting their software to help stop kids from accessing certain Web sites.</p>
+<p>&quot;This decision means technology, including filtering software, is more important than ever in helping parents protect children from inappropriate material in cyberspace,&quot; Microsystems CEO Richard Gorgens said in a statement. Closely held Log-On Data, based in Anaheim, Calif., was even more blunt in promoting its wares, which it said was the premier solution for blocking out Internet pornography.</p>
+<p>&quot;If the law must go, parents and schools must use X-STOP because it's the only tool using Direct Address Block technology,&quot; Mike Kangior, vice president of government affairs said in a statement.</p>
+<p>&quot;DAB technology blocks porn sites while still allowing entry to areas offering medical advice or health information,&quot; the statement said, without giving details.</p>
+<p>Competitors include startups like Canada's Net Nanny Software and Net Shepherd Inc. and products with diverse monickers as CYBERsitter and Tattle-Tale.</p>
+<p>Another company, privately held Sequel Technology Corp. of Seattle, Wash., provides software which allows companies to block access to certain sites and monitor their activity. While some computer industry executives said they expect a new law that takes a narrower approach than the one knocked down on Thursday, others expect new legislation will promote greater use of technology such as filtering software.</p>
+<p>&quot;Kids already knew about it (filtering software), but they were keeping quiet,&quot; said SurfWatch's Sears, who intends to promote his software to schools this summer by offering a two-for-one deal starting next week.</p>
+<p>Senator Joseph Biden, a Delaware Democrat, on Thursday urged the Justice and Commerce departments &quot;to quickly come up with technical solutions.&quot;</p>
+<p>Within hours of the ruling, which was hailed by free-speech advocates, President Clinton also issued a statement in which he called for &quot;the right technology and rating systems ... to help ensure that our children do not end up in the red light districts of cyberspace.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107245" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: FULL TEXT - Microsoft unveils Investor 2.0.</title>
+<headline>FULL TEXT - Microsoft unveils Investor 2.0.</headline>
+<dateline>REDMOND, Wash. 1996-10-10</dateline>
+<text>
+<p>Microsoft Corp Thursday unveiled a new version of its online investing service. The following is a copy of the company's news release.</p>
+<p>-------------- PRESS RELEASE ---------------</p>
+<p>Wash., Oct. 10 /PRNewswire/ -- Microsoft Corp. (Nasdaq: MSFT) today announced the availability of Microsoft(R) Investor 2.0, a new version of its online investing service designed to help people organize and understand their personal investments and investment decisions.  One of the new features of Investor 2.0 is an enhanced version of the Portfolio Manager, a tool that allows users to create and track multiple stock portfolios; it helps them quickly check price and performance details of all their investments, access the latest business news, and instantly create historical charts.  Microsoft also announced that it has entered into a strategic relationship with Charles Schwab &amp; Company Inc. and Fidelity Investments to provide users with access to online trading within Investor. Investor 2.0 will be offered as a free service on the World Wide Web at http://investor.msn.com/ and on MSN(TM), The Microsoft Network.</p>
+<p>&quot;We've designed Investor 2.0 to be a rich, integrated package for both novice and sophisticated investors,&quot; said David Risher, product unit manager at Microsoft.  &quot;That is why we are using the latest Internet technologies and coupling Microsoft's software expertise with the investment experience of leading financial institutions.&quot;</p>
+<p>&quot;Fidelity has been a pioneer in using the Internet to reach its millions of customers,&quot; said Mary Ruth Moran, senior vice president, retail marketing at Fidelity Investments.  &quot;Based on our experience, we know the value customers place on access to rich and relevant information.  Microsoft Investor will provide compelling content and services for investors.&quot;</p>
+<p>&quot;Microsoft's selection of Schwab as the first brokerage firm introduced in its latest release is a testimony to Schwab's commitment of using and employing technology to enhance the customer experience,&quot; said Art Shaw, senior vice president of electronic brokerage.</p>
+<p>The following features and services detail how Investor 2.0 uses technology to enhance the user experience.  Many of these features, including the Portfolio Manager, ticker and news reader, use ActiveX(TM) technologies to provide a customizable, easy-to-use experience for personal investors.</p>
+<p>*  Portfolio Manager.  Allows users to create and track multiple stock portfolios.  The Investor Portfolio Manager supports stock splits and multiple purchase dates and tracks commissions.  Users can change columns with right-click menus, or double-click columns to &quot;autofit&quot; them as in Microsoft Excel.  It also lets users know automatically when there is news on any stock in their portfolio.</p>
+<p>*  Business and financial news services.  Visitors garner critical market information including daily business and investment news from MSNBC, PR Newswire and Business Wire. This service helps users understand why the value of their stocks is rising or falling.</p>
+<p>*  Historical data.  Displays historical charts or tables for any security.  Users can choose the time period, overlay market indexes and other securities, customize chart settings, and download historical data to understand the past price/performance of their favorite stocks.</p>
+<p>*  Online Trading.  Users may save time and reduce commission fees by trading online with access to top financial services firms integrated with Investor, including Charles Schwab &amp; Co. Inc. and, by year's end, Fidelity Investments.</p>
+<p>*  Market Summary.  Provides up-to-the-minute information on the leading U.S. and foreign markets and currency rates and displays top 10 lists with the market's best and worst performers.  Users can also look up prices for specific securities by ticker symbol, company name or fund name.</p>
+<p>*  Streaming ticker.  The ticker displays up-to-the-minute stock quotes and news headlines from MSNBC streaming across the page.  Ticker symbols can be entered automatically from Portfolio Manager, and users can access quote details with a click of the mouse.  Users can display headlines from their favorite categories of news and access full-length articles by clicking on the headlines.</p>
+<p>*  Integration with Microsoft Money.  Users can easily import portfolio data from Microsoft Money to get up-to-the-minute prices, the latest business news and historical data on all their investments.</p>
+<p>Microsoft Investor is maintained by the MSN Operations Center.  The MSN Operations Center is a secure environment designed to withstand natural disasters and is staffed 24 hours a day, 365 days a year with a team of technical experts who continually monitor the data center's performance. Microsoft Investor 2.0 is available now at http://investor.msn.com/.</p>
+<p>Founded in 1975, Microsoft is the worldwide leader in software for personal computers.  The company offers a wide range of products and services for business and personal use, each designed with the mission of making it easier and more enjoyable for people to take advantage of the full power of personal computing every day.</p>
+<p>NOTE:  Microsoft, MSN and ActiveX are either registered trademarks or trademarks of Microsoft Corp. in the United States and/or other countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193629" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Microsoft spending $400 mln on Internet in '96 - WSJ.</title>
+<headline>Microsoft spending $400 mln on Internet in '96 - WSJ.</headline>
+<dateline>NEW YORK 1996-11-15</dateline>
+<text>
+<p>Microsoft Corp plans to spend $400 million this year to develop content for its Internet services and nearly as much in each of the next few years, the Wall Street Journal reported on Friday.</p>
+<p>The newspaper quoted the company's executive vice president as saying it did not expect to register a profit until after that investment had been made.</p>
+<p>It said Steve Ballmer told an industry conference that Microsoft's investments in its Microsoft Network on-line service, MSNBC Internet news and cable-television outlet and other Internet outposts had already cost it between $300 million and $400 million this year.</p>
+<p>It said Ballmer did not expect the company's efforts in on-line media services and products to stop &quot;bleeding cash&quot; until three years from now.</p>
+<p>&quot;We're going to lose a lot of money before we break even,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="472065" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: Remedy Corp stake upped by Amerindo group.</title>
+<headline>Remedy Corp stake upped by Amerindo group.</headline>
+<dateline>WASHINGTON 1997-03-27</dateline>
+<text>
+<p>A group led by San Francisco investment adviser Amerindo Investment Advisors Inc said Thursday it raised its stake in Remedy Corp to 3,396,134 common shares or 12.67 percent.</p>
+<p>In a filing with the Securities and Exchange Commission, the group said its latest transactions include the purchase of 270,000 additional common shares between February 21 and March 19 at prices ranging from $30.25 to $40.875 per share.</p>
+<p>Remedy, based in California, develops, market and supports client/server applications software which is highly adaptable to various functions, including help desk and network management and administration roles and processes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

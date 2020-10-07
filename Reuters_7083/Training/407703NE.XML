@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="407703" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Visio acquires assets from Boomerang.</title>
+<headline>Visio acquires assets from Boomerang.</headline>
+<dateline>SEATTLE 1997-02-27</dateline>
+<text>
+<p>Visio Corp said Thursday it has purchased source code and certain other assets of Boomerang Technology Inc. for $6.7 million, virtually completing the acquisition of the San Diego-based software developer.</p>
+<p>Boomerang's nine software developers have worked for Visio since Jan. 1 and will form the new San Diego office of the Seattle-based maker of drawing software.</p>
+<p>Boomerang was created by a group of former Softdesk Inc employees in October to create software compatible with the Autodesk Inc AutoCAD system.</p>
+<p>Visio said it would incorporate the technology into a future product offering.</p>
+<p>Leslie Dietz, director of finance for Visio, said the acquisition &quot;gives us the opportunity to be much more competitive&quot; with Autodesk in the two-dimensional technical drawing market.</p>
+<p>She said the first products incorporating the new technology would not be available before the second half of 1997.</p>
+<p>((-- Reuters Seattle bureau 206-386-4848))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="373166" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: Tenera Q4 net loss $0.05 vs profit $0.02.</title>
+<headline>Tenera Q4 net loss $0.05 vs profit $0.02.</headline>
+<dateline>SAN FRANCISCO 1997-02-11</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				   Qtr Ended		   Year Ended</p>
+<p>			  12/31/96   12/31/95    12/31/96  12/31/95</p>
+<p> Revenue		 $  5,125  $  7,288    $ 24,003  $ 25,545</p>
+<p> Direct Costs	     3,297     4,585	15,527    16,082</p>
+<p>General and</p>
+<p>Administrative</p>
+<p>   Expenses		 2,241     2,264	 9,843     8,240</p>
+<p> Other Income		  14	 (30)	   35	 (20)</p>
+<p> Special Item		(300)	 --	   (50)	 --</p>
+<p>Operating (Loss)</p>
+<p>    Income		   (699)	409	(1,382)    1,203</p>
+<p>Interest Income</p>
+<p>  (Expense), Net	     47	   6	   165	   1</p>
+<p>Net (Loss) Earnings</p>
+<p>Before Income Taxes</p>
+<p>				 (652)	415	(1,217)    1,204</p>
+<p>Income Tax (Benefit)</p>
+<p>  Expense		    (137)	165	  (137)	306</p>
+<p>   Net (Loss) Earnings   (515)	250	(1,080)	898</p>
+<p>Net (Loss) Earnings</p>
+<p>  per Share		 (0.05)     0.02	 (0.11)     0.07</p>
+<p>Wtd. Average Shares</p>
+<p>  O/S			10,192    10,485	10,248    10,014</p>
+<p>Full company name is Tenera Inc.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

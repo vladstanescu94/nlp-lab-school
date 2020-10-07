@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360648" id="root" date="1997-02-06" xml:lang="en">
+<title>SPAIN: Microsoft downplays network computer threat.</title>
+<headline>Microsoft downplays network computer threat.</headline>
+<byline>Tracey Ober</byline>
+<dateline>MADRID 1997-02-06</dateline>
+<text>
+<p>Microsoft chairman Bill Gates on Thursday shrugged off suggestions that new network computers posed a lasting threat to the software producer.</p>
+<p>Gates, in Madrid for a conference on Internet users, predicted that the smaller network computers would prove to be too slow and inflexible to overtake the market for personal computers, the main platform for Microsoft's operating system.</p>
+<p>&quot;We see the PC going forward,&quot; Gates told a news conference. &quot;If you look at the market share the network computer has today, that's what we predict for the future.&quot;</p>
+<p>His forecast flies in the face of what some other industry leaders have seen as a bright new market niche.</p>
+<p>The network computer (NC) is basically a stripped-down personal computer that provides easy, cheap access to the Internet and internal corporate computer networks but does not need the Windows operating system.</p>
+<p>The NCs have limited memory and no peripherals like disk drives, but use software that sits on a network server.</p>
+<p>Larry Ellison, chairman of U.S. software firm Oracle Corp, which first promulgated the idea, has said he expects &quot;explosive&quot; growth in the NCs.</p>
+<p>Oracle claims that the NC with its inexpensive make-up and replacement cost and could make the PC obsolete.</p>
+<p>IBM, which introduced its own NC version called Network Station in September, said it would buoy all of its businesses, including hardware, services and software.</p>
+<p>But Gates dismissed these claims, saying the network computers would end up frustrating users because they would be slowed down by having to use software on already clogged networks.</p>
+<p>&quot;Unlike the direction in PC technology where the trend is for faster and faster access, the network computer actually makes it slower for them on the server,&quot; he said.</p>
+<p>He said a better response for cheap access to the Internet's World Wide Web was to provide slim-line software -- like Microsoft's NetPC -- to allow people to use smaller PCs and still run applications.</p>
+<p>&quot;Network computer is throwing away all software. Clearly Microsoft doesn't think people want to do that,&quot; Gates said.</p>
+<p>&quot;(NC) software is under control of hardware companies and you're going to get problems of compatibility,&quot; he said. &quot;The only time you have compatibility is when the software is run by a neutral company, which is the role Microsoft does for the PC.&quot;</p>
+<p>Gates said the main focus for the U.S. software firm this year was simplicity. He said Microsoft was moving very quickly to scale down its Windows NT software and make it very easy and convenient for electronic mail, file-sharing and Web access.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

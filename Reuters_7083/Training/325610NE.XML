@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325610" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Timeline Inc sees Q3 vs Q2 loss narrowing.</title>
+<headline>Timeline Inc sees Q3 vs Q2 loss narrowing.</headline>
+<dateline>BELLEVUE, Wash. 1997-01-22</dateline>
+<text>
+<p>Timeline Inc said late on Tuesday that it expected its third quarter losses to be lower than that its losses in the second quarter.</p>
+<p>The second quarter loss was $0.38 per share.</p>
+<p>A First Call estimate for the company's third quarter earnings was unavailable.</p>
+<p>The financial management software company said separately that it is negotiating a contract with a U.S. manufacturing company that would generate &quot;significant revenue over the next ten months if completed.&quot;</p>
+<p>The company said in a release that it hoped to complete negotiations on the contract in several weeks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELLEVUE, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

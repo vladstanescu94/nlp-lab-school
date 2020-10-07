@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200535" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: Research Engineers sees EPS below estimates.</title>
+<headline>Research Engineers sees EPS below estimates.</headline>
+<dateline>YORBA LINDA, Calif. 1996-11-19</dateline>
+<text>
+<p>Research Engineers Inc said it expects earnings of $0.15 to $0.20 a share for its fiscal year ending March 31, 1997, well below analysts' estimates of $0.36 to $0.43.</p>
+<p>It also said in a statement issued Monday that it expects growth in sales and net income for its third and fourth quarters to fall short of analysts' estimates.</p>
+<p>&quot;We attribute this slower growth to a longer buying cycle for some of the company's new products on Windows 95 or Windows NT client-server platforms,&quot; it said, referring to the computer system on which its products are based.</p>
+<p>For fiscal 1997 it expects revenue growth of 40 to 50 percent over the prior year, it said.</p>
+<p>The company's initial public stock offering was made in July.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YORBA LINDA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

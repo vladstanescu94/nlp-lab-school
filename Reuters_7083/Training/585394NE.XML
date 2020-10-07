@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="585394" id="root" date="1997-05-15" xml:lang="en">
+<title>USA: Tecnomatix chairman backs EPS estimates.</title>
+<headline>Tecnomatix chairman backs EPS estimates.</headline>
+<dateline>NEW YORK 1997-05-15</dateline>
+<text>
+<p>The chairman of Israeli software company Tecnomatix Technologies Ltd said Thursday he was comfortable with Wall Street's outlook for 1997 and 1998 earnings per share.</p>
+<p>The executive, Shlomo Dovrat, told Reuters the per share earnings projections for 1997 range from $1.07 to $1.15.</p>
+<p>When asked about an EPS estimate of $1.07 for 1997 and $1.40 for 1998 by Josephthal Lyon and Ross analyst Abraham Finkelstein, Dovrat said the 1997 estimate is &quot;on the low end of the Street's&quot; consensus.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

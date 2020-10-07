@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141325" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Tangram Enterprise Q3 loss vs profit.</title>
+<headline>Tangram Enterprise Q3 loss vs profit.</headline>
+<dateline>RALEIGH, N.C. 1996-10-23</dateline>
+<text>
+<p>TANGRAM ENTERPRISE SOLUTIONS INC.</p>
+<p>			     FINANCIAL DATA</p>
+<p>		     Three Months Ended  9 Months Ended</p>
+<p>			   Sept. 30,		    Sept. 30,</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p>Total revenues</p>
+<p>		   $2,434,000  $3,494,700  $8,388,000  $9,909,500</p>
+<p>Net income/(loss)</p>
+<p>		    (273,800)	22,900   (128,100)     109,800</p>
+<p>Net income/(loss)</p>
+<p>  per share/1	 (.02)	    --	 (.01)	    --</p>
+<p>Weighted average shares</p>
+<p>outstanding  14,704,840  16,093,030  14,634,435  15,474,651</p>
+<p>/1: Net income per share calculations are based on the weighted average number of common and common equivalent shares outstanding during each period.</p>
+<p>The company said that revenue decreased as a result of the ongoing reallocation of resources and launch of the new Asset Insight product.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RALEIGH, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344662" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: IDX Systems in outsourcing alliance.</title>
+<headline>IDX Systems in outsourcing alliance.</headline>
+<dateline>BURLINGTON, Vt. 1997-01-30</dateline>
+<text>
+<p>IDX Systems Corp and US Servis said Thursday they formed an outsourcing alliance for the business offices of hospitals and physician groups.</p>
+<p>Under the terms of the agreement, IDX will market US Servis's outsourcing services to existing and prospective customers.</p>
+<p>These outsourcing services will be marketed through The Huntington Group, a unit of IDX devoted to offering professional services for the healthcare industry.  The alliance combines IDX's software, professional services, implementation, and support services with US Servis's outsourcing for billing, accounts receivable, and financial management.</p>
+<p>Serving about 2,000 physicians, six integrated delivery systems, and 45,000 covered lives, US Servis is a leading provider of outsourcing services to physician delivery systems, hospital business offices, and managed care organizations.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Vt."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

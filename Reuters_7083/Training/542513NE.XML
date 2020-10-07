@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="542513" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: Microsoft's Gates sees more computer interaction.</title>
+<headline>Microsoft's Gates sees more computer interaction.</headline>
+<byline>Todd Nissen</byline>
+<dateline>DETROIT 1997-04-28</dateline>
+<text>
+<p>Microsoft Corp chairman Bill Gates, in town to make a $2 million cash and software donation, said Monday the biggest changes on the horizon for computers will be how they interact with users.</p>
+<p>Gates said personal computers that can understand the context of spoken words and interpret facial expressions hold the potential for more significant advances than the lower prices and faster speeds that will also occur.  </p>
+<p>&quot;This the most exciting work going on at Microsoft,&quot; Gates said during a luncheon address at the Economic Club of Detroit. &quot;We're spending several billion a year in R and D and part of it is this natural interaction, teaching the computer about language.&quot;</p>
+<p>Earlier, Gates announced a Microsoft software and financial support contribution worth $1.5 million for Focus:Hope, a 29-year-old Detroit civil and human rights organization.  </p>
+<p>Microsoft, the Seattle-based computer software giant, also gave the Detroit Public Library a $500,000 technology grant. The grant is part of the company's international Libraries Online initiative and will help bring the internet to Detroit libraries, Gates said.</p>
+<p>During his remarks, Gates said the pace of computer technology change will continue to speed up, and eventually affect every part of a person's life, from the pocket-sized personal computers they carry to finding restaurants on the internet that they want to visit.  </p>
+<p>Developments such as electronic mail and expanded use of the internet have given individuals the ability to access vast amounts more information than before, Gates said. For instance, Gates said his company's MSN internet service can provide subscribers with the latest votes of their Congressional representatives, based on their zip codes.</p>
+<p>Gates said he keeps up with the latest developments by spending at least one hour a day on the internet. Also, he communicates with his company's thousands of employees on a regular basis through electronic mail.  </p>
+<p>Gates added he does not believe the software challenges posed by the numerical change to the year 2000 will be as expensive to fix as some estimates have claimed. That's because much of the newer personal computer software has been programmed to accommodate the change.</p>
+<p>Gates' appearance set an audience attendance record for the club, which is a popular speaking stop for high level business and political officials. More than 7,600 attended, surpassing the previous record of 7,125 set in 1986 when former General Motors Corp board member Ross Perot spoke during the height of his battle with former GM Chairman Roger Smith.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

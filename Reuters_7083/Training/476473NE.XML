@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="476473" id="root" date="1997-03-31" xml:lang="en">
+<title>USA: Concentra sees Q4 eps loss of $0.80.</title>
+<headline>Concentra sees Q4 eps loss of $0.80.</headline>
+<dateline>BURLINGTON, Mass. 1997-03-31</dateline>
+<text>
+<p>Concentra Corp said Monday it expects a loss for fourth-quarter earnings of about $0.80 per share compared with net income of $0.15 per share for the same period lst year.</p>
+<p>The First Call consensus estimate for the quarter is $0.21 per share.</p>
+<p>For the fiscal year ending March 31, earnings are expected to be about $0.53 per share, compared with net income of $0.01 per share last year, on revenues of about $24.4 million, up from last year's revenues of $20.7 million.  </p>
+<p>Revenues for the fourth quarter are expected to be about $4.4 million compared with $6.8 million last year, the company said.</p>
+<p>Concentra said the unexpected earnings losses were due to purchasing delays by several &quot;significant&quot; customers.</p>
+<p>The company plans to post fourth-quarter and fiscal year-end results during the week of May 5.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

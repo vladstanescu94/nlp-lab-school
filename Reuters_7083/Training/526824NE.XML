@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526824" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: Blyth Holdings sees Q4 loss.</title>
+<headline>Blyth Holdings sees Q4 loss.</headline>
+<dateline>FOSTER CITY, Calif. 1997-04-22</dateline>
+<text>
+<p>Blyth Holdings Inc said Tuesday it expects to report a small decrease in sales and a considerably higher loss for the fourth quarter ended March 31, 1997, compared to the third quarter.</p>
+<p>In the third quarter Blyth had revenues of $2.4 million for a net loss of $1.4 million or $0.12 a share.</p>
+<p>The company said in a statement the loss in the quarter reflects premiums paid on the redemption of 8 percent convertible debentures due June 3, 1997, combined with a projected small decrease in sales, increased investment in marketing and sales, and one-time costs in connection with the recent restructuring of its executive team.</p>
+<p>Blyth has redeemed $1 million in face value debentures at a cost of $1.4 million since the debentures were issued. The premium related to fourth quarter redemptions of convertible debentures will result in a one-time cost of more than $300,000.</p>
+<p>The company expects to announce results in mid-May.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOSTER CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

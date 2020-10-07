@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126059" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: ON Technology Corp Q3 full results.</title>
+<headline>ON Technology Corp Q3 full results.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-10-18</dateline>
+<text>
+<p>Three Months	  Nine Months</p>
+<p>			     Ended September 30  Ended September 30</p>
+<p>				   (Unaudited)	  (Unaudited)</p>
+<p>			     1996	1995	  1996	 1995</p>
+<p>Total revenue:	  12,637     11,499	37,772     30,835</p>
+<p>Operating expenses:</p>
+<p>Cost of product rev: 4,423(A)     2,093    9,713(B)	5,787</p>
+<p> Sales and marketing  6,172	5,440	18,222     14,749</p>
+<p> Research &amp; development: 2,493   1,774	 6,775	5,080</p>
+<p> General &amp; admin	   1,102     798	 3,190	2,261</p>
+<p>Charge for purchased research and</p>
+<p>  development	     ---	  ---	13,285	  ---</p>
+<p> Charge for restructuring: 5,415   ---	 5,415	  ---</p>
+<p>(Loss) income from</p>
+<p>    operations	(6,968)	1,394    (18,828)	2,958</p>
+<p> Interest income, net   259	  214	   884	  150</p>
+<p>(Loss) income before provision for income</p>
+<p>    taxes	     (6,709)	1,608    (17,944)	3,108</p>
+<p>Provision (benefit) for</p>
+<p>  income taxes	  (483)	  492	  (44)	  952</p>
+<p> Net (Loss) income  (6,226)	1,116    (17,900)	2,156</p>
+<p>Net (loss) income per</p>
+<p>  common share	 (0.57)	 0.12	(1.65)	 0.25</p>
+<p>Shares used in per share</p>
+<p>  calculation    10,980,103  9,540,424  10,875,798  8,590,016</p>
+<p>NOTE(A): Includes a $2,026 charge for restructuring-related inventory writedown.</p>
+<p>NOTE(B): Includes a $2,597 charge for acquisition and restructuring- related inventory writedowns.</p>
+<p>(Dollars in thousands, except per share data)</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

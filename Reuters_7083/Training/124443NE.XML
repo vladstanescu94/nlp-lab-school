@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="124443" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Parametric Q4 Sept 30 net income rises.</title>
+<headline>Parametric Q4 Sept 30 net income rises.</headline>
+<dateline>WALTHAM, Mass. 1996-10-17</dateline>
+<text>
+<p>PARAMETRIC TECHNOLOGY CORP</p>
+<p>			    3 Mos ended 9/30    12 Mos ended 9/30</p>
+<p>				1996	   1995	1996	1995</p>
+<p>  License rev	 $ 136,013    $ 88,276  $448,699 $ 288,349</p>
+<p>  Service rev	    41,115	30,968   151,423   105,961</p>
+<p> Total revenue	  177,128     119,244   600,122   394,310</p>
+<p> Operating income    $ 70,783     $45,369  $236,775  $148,069</p>
+<p>Net income before charges</p>
+<p>			    $46,925     $30,241  $158,402  $ 98,500</p>
+<p> Net income		26,433	21,035   137,910    77,362</p>
+<p> Net EPS before charges $0.35	 $0.23     $1.19     $0.76</p>
+<p> Net EPS		     0.20	  0.16	1.04	0.60</p>
+<p> Wgtd avg shrs	  134,314     131,941   133,211   129,046</p>
+<p>		   (in thousands, except per share data)</p>
+<p>NOTE: All share and per share adjusted to reflect a two for one stock split as of Feb. 29, 1996</p>
+<p>Net income before charges excludes non-recurring, acquisition related charges of $32,119 for the three and twelve months ended Sept. 30, 1996 and $10,438 and $29,438 for the three months and twelve months ended Sept. 30, 1995 respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

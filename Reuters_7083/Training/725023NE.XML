@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="725023" id="root" date="1997-07-13" xml:lang="en">
+<title>USA: VeriSign wins wider US encryption export approval.</title>
+<headline>VeriSign wins wider US encryption export approval.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-07-13</dateline>
+<text>
+<p>Privately-held VeriSign Inc. said it has received broader U.S. government approval for the export of powerful encryption products for use by U.S. companies overseas.</p>
+<p>Greg Smirin, Group product manager at VeriSign, said the company late last week received Commerce Department approval to ship so-called 128-bit encryption in products for all U.S.-based companies doing business abroad.  </p>
+<p>Specifically, the approval enables VeriSign to use the stronger encryption, which can be used to protect data being transmitted over the Internet from being read by third parties, in its Web server certificate products.</p>
+<p>Servers are a type of computer which can connect a large number of individual computers across a network, and are used to store information and respond to inquiries from within a private network or the Internet at large.  </p>
+<p>Just last month, the U.S. government have Microsoft Corp. and Netscape Communications Corp. licenses to use the strong encryption capabilities to protect financial transactions between banks and their customers around the world.</p>
+<p>The latest agreement extends this export approval to U.S. companies operating servers outside the country.</p>
+<p>VeriSign, based in Mountain View, operates as a third party which issues and manages digital certificates, which are used to verify and authenticate communications and transactions securely over the Internet.  </p>
+<p>As part of last month's decision, Netscape said VeriSign will serve as the certificate authority for Netscape's products and Smirin said VeriSign will be issuing certificates for Microsoft products as well.</p>
+<p>In addition, Smirin said, VeriSign has worked with both Netscape and Microsoft to agree on how they will use certificates in a way which will enable them to operate with both Netscape and Microsoft software.</p>
+<p>&quot;We have worked together with Microsoft and Netscape for coming up with a compatible format,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245018" id="root" date="1996-12-09" xml:lang="en">
+<title>JAPAN: Softbank to invest in US software venture.</title>
+<headline>Softbank to invest in US software venture.</headline>
+<dateline>TOKYO 1996-12-09</dateline>
+<text>
+<p>Softbank Corp said on Monday that it would invest in California computer software venture Trend Micro.</p>
+<p>Details of the investment will be announced at around 4.30 p.m. (0730 GMT), Softbank said.  </p>
+<p>Local newspaper Nihon Keizai Shimbun reported over the weekend that Softbank would acquire 30 percent of the outstanding stock of the U.S. firm for about four billion yen.</p>
+<p>The company, which develops software to protect against computer viruses, plans to list its shares on Japan's over-the-counter market after moving its headquarters to Japan, the paper said.</p>
+<p>Among the firms it supplies software to under OEM contracts are Fujitsu Ltd and Intel Corp, the paper said.</p>
+<p>Its sales in Japan are expected to total two billion yen in the year to end-December 1996, the paper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

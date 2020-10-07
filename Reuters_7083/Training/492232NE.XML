@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="492232" id="root" date="1997-04-07" xml:lang="en">
+<title>BELGIUM: ARTWORK SAYS KODAK BUYS ARTPRO.</title>
+<headline>ARTWORK SAYS KODAK BUYS ARTPRO.</headline>
+<dateline>BRUSSELS 1997-04-07</dateline>
+<text>
+<p>Belgian Artwork Systems said on Monday it had sold an ArtPro inplant printing system to Eastman Kodak's label and package printing facility in Rochester, New York.</p>
+<p>The price was not disclosed.</p>
+<p>&quot;ArtPro was chosen as the critical link between design and production because it offers powerful prepress tools for both conventional film output and direct-to-plate requirements,&quot; manufacturing engineer James Holvey said in a statement.</p>
+<p>Artwork develops and provides professional software packages for the graphics arts industry.</p>
+<p>The company has been quoted on the Brussels-based Easdaq growth stocks market since December last year.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I37330">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214866" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Quarterdeck Corp Q4 loss vs profit.</title>
+<headline>Quarterdeck Corp Q4 loss vs profit.</headline>
+<dateline>MARINA DEL REY, Calif. 1996-11-25</dateline>
+<text>
+<p>(Amounts in thousands, except per share data)</p>
+<p>			    Three months ended  Twelve months ended</p>
+<p>					   September 30,  September 30,</p>
+<p>				     1996     1995     1996	1995</p>
+<p> Gross Revenues		$32,067 $34,237  $164,988 $126,742</p>
+<p> Provision for returns	12,326   2,933    31,888    9,136</p>
+<p> Net Revenues		   19,741  31,304   133,100  117,606</p>
+<p>Operating income before</p>
+<p>  one-time charges	  (19,574)   3,454  (36,297)   17,108</p>
+<p>Income before one-time</p>
+<p>  charges		     (26,149)   4,083  (37,170)   18,661</p>
+<p>Acquisition, restructuring</p>
+<p>and other one-time charges</p>
+<p>				    28,659   3,806    37,789    7,409</p>
+<p> Net income		   (54,808)     277  (74,959)   11,252</p>
+<p>Income per share before</p>
+<p>  one-time charges	    (0.73)    0.12    (1.07)     0.52</p>
+<p> Net income per share	 (1.53)    0.01    (2.15)     0.32</p>
+<p>Shares used for per</p>
+<p>  share calculations	  35,856  33,905    34,894   35,557</p>
+<p>NOTE: Q3 1996 net includes $15 million acquired R&amp;D write-off, $13 million restructuring charge and $8.4 million charge for additional return rreserves.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARINA DEL REY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

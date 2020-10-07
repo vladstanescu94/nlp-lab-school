@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104672" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Activision ships MechWarrior 2: Mercenaries.</title>
+<headline>Activision ships MechWarrior 2: Mercenaries.</headline>
+<dateline>LOS ANGELES 1996-10-09</dateline>
+<text>
+<p>Activision Inc said Wednesday it has shipped its video game MechWarrior 2: Mercenaries, a sequel to the popular MechWarrior 2, to over 10,000 stores in the the United States and Canada.</p>
+<p>The 3-D battle simulation game follows last year's release of MechWarrior 2, which has shipped more than 700,000 retail units worldwide to date, the company said.</p>
+<p>MechWarrior 2: Mercenaries features proprietary Internet drivers which permit up to eight players to compete simultaneously over the Internet.  Gamers can also compete over a local area network (LAN) or one-on-one via modem.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244101" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Microsoft's Windows CE supported by Intel.</title>
+<headline>Microsoft's Windows CE supported by Intel.</headline>
+<dateline>SEATTLE 1996-12-09</dateline>
+<text>
+<p>Microsoft Corp on Monday said its Windows CE operating system for handheld computers will work on Intel Corp architecture.</p>
+<p>Microsoft said it and Intel anticipate that the two companies will be able to support development of products based on Windows CE and Intel processors, including the Ultra Low Power Intel486 SX, by January 1997.  </p>
+<p>Microsoft said Windows CE is set to run on Intel's 486 and Pentium processors.</p>
+<p>Windows CE, built for use in non-desktop handheld devices and mobile computing, already supports products by made other microprocessor makers, including Hitachi Ltd NEC Corp and Motorola Inc, Microsoft said.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107396" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: VASCO, Security, ActivCard settle suit.</title>
+<headline>VASCO, Security, ActivCard settle suit.</headline>
+<dateline>LOMBARD, Ill. 1996-10-10</dateline>
+<text>
+<p>Vasco Data Security Inc, a subsidiary of Vasco Corp, Security Dynamics Technologies Inc and ActivCard Inc said Thursday they settled a patent infringement claim that each of the companies had raised in litigation filed earlier in the year.</p>
+<p>Vasco and Security Dynamics agreed to dismiss their claim that ActivCard token security products violated one or more of their patents. ActivCard similarly agreed to dismiss its unfair competition and antitrust counterclaims.</p>
+<p>The litigation had been filed in the Northern District of California.</p>
+<p>In connection with the settlement, ActivCard agreed to license certain patents from VASCO and Security Dynamics.</p>
+<p>Vasco provides computer security products.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOMBARD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

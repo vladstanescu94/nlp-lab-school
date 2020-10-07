@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91774" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Altera, Synopsys in 5-year pact.</title>
+<headline>Altera, Synopsys in 5-year pact.</headline>
+<dateline>SAN JOSE, Calif 1996-10-02</dateline>
+<text>
+<p>Altera Corp and Synopsys Inc said Wednesday they formed a strategic five-year agreement to jointly develop and market next-generation high-level design tools and methodologies for complex programmable logic devices.</p>
+<p>The companies described the devices as the fastest growing segment of the semiconductor market.</p>
+<p>This comprehensive strategic alliance unites Synopsys' high-level design technology and Altera's CPLD physical implementation environment to streamline the design process for the industry's most advanced CPLDs with device densities ranging from 10,000 to 100,000-plus gates.  Products resulting from the alliance are expected in the first half of 1997 for both Windows and UNIX platforms.  </p>
+<p>Under the agreement, the companies will work together on joint R&amp;D, marketing and customer support programs.  In the near-term, Altera will provide unique proprietary technology to Synopsys for co-development of high-level design solutions optimized for Altera CPLDs.</p>
+<p>In addition, both companies will enhance existing products to provide tightly integrated joint solutions to mutual customers. Longer-term, the alliance will result in new high-level design products-including behavioral design tools and methodologies for CPLDs from Synopsys -- and advanced CPLD physical implementation products from Altera.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

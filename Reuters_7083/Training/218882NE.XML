@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218882" id="root" date="1996-11-26" xml:lang="en">
+<title>JAPAN: Softbank dives to year low on share report.</title>
+<headline>Softbank dives to year low on share report.</headline>
+<dateline>TOKYO 1996-11-26</dateline>
+<text>
+<p>Shares in Softbank Corp plunged to their lowest level for this year on the over-the-counter (OTC) market on Tuesday.</p>
+<p>Brokers said the dive was due to media reports of possible new share and bond issues.</p>
+<p>The share price fell by 1,000 yen to 8,990 yen by 0502 GMT, sharply below its previous low for the year at 9,700 yen.  </p>
+<p>As of 0533 GMT, Softbank was ranked as the second largest percentage loser on the OTC market.</p>
+<p>Jiji news agency said Softbank Corp was likely to decide as early as on Tuesday to issue new shares worth more than 40 billion yen and to issue 10 billion yen worth of domestic convertible bonds.</p>
+<p>The company declined to comment on any possible issues of shares or bonds.</p>
+<p>Traders said the report fuelled fears of an oversupply of Softbank shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

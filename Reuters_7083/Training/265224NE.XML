@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265224" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Microsoft files for bigger preferred offer.</title>
+<headline>Microsoft files for bigger preferred offer.</headline>
+<dateline>WASHINGTON</dateline>
+<text>
+<p>Microsoft Corp. on Tuesday increased the size of its planned offering of preferred shares to $1.0 billion, from $862.5 million, according to a filing with the Securities and Exchange Commission.</p>
+<p>In an amended filing, the software company said it was adding $137.5 million to the original amount it filed to register on Dec. 2.</p>
+<p>The $1 billion offering includes &quot;just under 15 percent&quot; as an over-allotment option available to underwriters, said Robert Eshelman, a Microsoft lawyer at the company's headquarters in Redmond, Wash.</p>
+<p>Underwriters Goldman, Sachs &amp; Co. and Morgan Stanley &amp; Co. may exercise the option to cover any increase in demand for the shares. All other terms of the offering are unchanged, Eshelman said.</p>
+<p>The preferred shares are principal-protected, in that investors will be able to get back their principal in cash or common stock at the end of three years along with quarterly dividends.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

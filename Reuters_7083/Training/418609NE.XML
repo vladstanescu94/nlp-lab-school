@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418609" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: Microsoft executive sees computers outsmarting humans.</title>
+<headline>Microsoft executive sees computers outsmarting humans.</headline>
+<dateline>SAN JOSE, Calif. 1997-03-03</dateline>
+<text>
+<p>Microsoft Corp.'s leading technologist said on Monday he expects computers to outsmart humans in the next 20-30 years.</p>
+<p>Nathan Myhrvold, chief technology officer at Microsoft, told a computer industry gathering here he expected computers to surpass human intelligence by some measures within three decades.</p>
+<p>&quot;We're not getting smarter every year. They are,&quot; he said of computers, adding that despite the time it takes to &quot;boot&quot; a PC so it will operate, it is already faster than educating people.</p>
+<p>&quot;Humans take 20 years to boot,&quot; he said in a spirited keynote address to the Association of Computing Machine's 50th anniversary conference on the next 50 years of computing.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

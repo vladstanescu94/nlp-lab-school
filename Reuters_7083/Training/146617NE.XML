@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146617" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Netscape, Oracle in Internet software pact.</title>
+<headline>Netscape, Oracle in Internet software pact.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-28</dateline>
+<text>
+<p>Netscape Communications Corp. and Oracle Corp., seeking to limit Microsoft Corp.'s efforts to become a dominant provider of Internet software, Monday announced a plan to market each others' products.</p>
+<p>The deal combines Netscape's Internet prowess with Oracle's dominance of the database software market, and is likely to give Netscape a boost in the corporate market.</p>
+<p>While Netscape's Navigator software is estimated to have as much as 80 percent of the Internet browser market, the Mountain View, Calif.-based company is also seeking to gain more of a share of the lucrative corporate market. Already, 80 percent of Netscape's revenues come from corporate intranets, or internal networks modeled on the Internet.</p>
+<p>&quot;This announcement focuses on two trends in the industry,&quot; said Marc Andreessen, co-founder and senior vice president of technology at Netscape. One trend, he said, is developing applications for corporate networks using Internet technology and the other is the growing interest in the network computer.</p>
+<p>Oracle has agreed to bundle Netscape's Navigator software with the next model of its &quot;Network Computer,&quot; which will use an Intel Corp. processor.</p>
+<p>Network computers are scaled-down, PCs developed for accessing corporate networks and the Internet. Oracle has designed network computers, which it licenses out.</p>
+<p>Oracle said the Navigator browser software will be a standard feature of its Intel-based network computers, which are expected to ship in the first half of 1997.</p>
+<p>Five manufacturers outside the United States are already shipping the network computer designed around the ARM chip, a microprocessor developed by Acorn Computers Ltd. in Britain.</p>
+<p>Oracle said the Netscape browser is the only one it will offer with its Intel-based NC.</p>
+<p>&quot;It's the browser that is most requested by our customers,&quot; said Jim Lynch, vice president of business operations at Oracle, on a conference call with reporters.</p>
+<p>For its part, Netscape will offer Oracle's Universal Server family of database software products on its software for corporate networks. Oracle will be bundled as the preferred database on some products and the exclusive database software on Netscape's Commercial Applications software, including the Netscape Merchant System, the Netscape Publishing System and Community System.</p>
+<p>&quot;While we are enormous proponents of supporting all client technologies, there are times when it's more appropriate to select a closer alliance partner,&quot; said Oracle Chairman Larry Ellison, in a statement. &quot;We've chosen to work with Netscape.&quot;</p>
+<p>Oracle, bsaed in Redwood Shores, Calif., and Sun Microsystems Inc. have been leading proponents of the network computer, and Sun is expected to unveil a line of NCs Tuesday.</p>
+<p>Microsoft, which until recently had dismissed the network computer, Monday announced a new push for inexpensive, easy-to-use personal computers, dubbed the NetPC, in a move to combat the growing interest surrounding the NCs.</p>
+<p>Unlike the personal computer, which relies on operating system software to run its programs, the network computer uses Internet technology to access software from large servers.</p>
+<p>&quot;NCs provide a tremendous solution,&quot; Lynch said. &quot;We feel volume will really pick up in 1997... We are looking forward to working with Netscape around the NC.&quot;</p>
+<p>Industry analysts said a widespread switch to the network computer from the PC could hurt Microsoft because the software giant relies on sales of its Windows operating system for part of its strong growth.</p>
+<p>Microsoft and Netscape are currently locked in a battle for control of the software market for the Internet and the more lucrative market for intranets.</p>
+<p>Netscape stock closed at $46.75, up 50 cents a share, while Oracle closed at $42.50, up 19 cents, both on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

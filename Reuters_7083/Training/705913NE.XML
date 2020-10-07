@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="705913" id="root" date="1997-07-03" xml:lang="en">
+<title>USA: Apple falls to 12-year low, analysts cite erosion.</title>
+<headline>Apple falls to 12-year low, analysts cite erosion.</headline>
+<dateline>CUPERTINO, Calif. 1997-07-02</dateline>
+<text>
+<p>Apple Computer Inc. stock slid to a new 12-year low as investors continued to fret over erosion of the struggling computer maker's market share and a key clone maker's plans to start shipping PC-compatibles, analysts said.</p>
+<p>Apple shares slid 12.5 cents to $13.06 Wednesday, the second straight 12-year low for the shares, according to the analysts, one of whom said the stock was weighed down by a flurry of continued bad news.</p>
+<p>&quot;The biggest (news) is Power Computing is going public and switching to Intel,&quot; said one of the analysts, citing clone maker Power Computing's Securities and Exchange Commission filing stating it plans to enter the market for personal computers compatible with Intel Corp. chips early next year.</p>
+<p>The documents said Power Computing has sub-licensed the Macintosh operating system from International Business Machines Corp. at more favorable terms than its deal with Apple, although it is still negotiating with Apple to use the Macintosh operating system.</p>
+<p>On Monday, Microsoft Corp. Chairman Bill Gates said Apple remains a significant force in the schools, although Microsoft's Windows operating system is making inroads.</p>
+<p>Operating system software runs computers and is the skeleton on which other programs hang.</p>
+<p>Apple has fallen on hard times, with its share of the personal computing market falling as low as the 5 percent range.</p>
+<p>Compaq Computer Corp. this week announced an alliance with four software companies, including Apple's own Claris Corp., to sell its PCs to the school market. The announcement preceeded the height of the school buying season during the summer months.</p>
+<p>Apple executives were not immediately available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

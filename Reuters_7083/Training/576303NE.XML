@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576303" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Oracle unveils server clustering software.</title>
+<headline>Oracle unveils server clustering software.</headline>
+<dateline>REDWOOD SHORES, Calif. 1997-05-12</dateline>
+<text>
+<p>Oracle Corp on Monday unveiled software that ties together several cheap server computers running Windows NT into essentially one computer, significantly speeding up the management of big databases.</p>
+<p>The software gives Oracle, the biggest publisher of database software, a crucial lead of several months over rival Microsoft Corp in high-end databases, analysts said. Microsoft has stepped up its efforts to chase after Oracle's database software business in the past two years.  </p>
+<p>Oracle unveiled Oracle Parallel Server for Windows NT, a program that ties together, or &quot;clusters,&quot; up to four Windows NT servers.</p>
+<p>Each of the servers manages a part of one big database. Because each machine has to do less work, the cluster can store and retrieve information from a database much faster than a single machine.</p>
+<p>Oracle also announced Oracle Fail Safe, a program that makes sure that if a server malfunctions, another server will take its place and handle its duties until the malfuntioning server is fixed by a technician.</p>
+<p>Both products will be shipping within 30 days, the company said.</p>
+<p>With the release, Oracle would be months ahead of Microsoft with clustering and fail-safe capabilities, said Peter Kastner, analyst at market researcher Aberdeen Group Inc in Boston.</p>
+<p>The products should be a relief to companies that have considered basing their information management systems on Windows NT, Kastner said.</p>
+<p>((--Kourosh Karimkhany, in Palo Alto, 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

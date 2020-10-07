@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241367" id="root" date="1996-12-06" xml:lang="en">
+<title>SINGAPORE: Creative partners U.S. technology firms.</title>
+<headline>Creative partners U.S. technology firms.</headline>
+<dateline>SINGAPORE 1996-12-06</dateline>
+<text>
+<p>Singapore's Creative Technology Ltd said it had entered into partnerships with four U.S.-based companies to develop, integrate and distribute technologies for sound, audio, graphics, games and commerce over the Internet.</p>
+<p>The four are Progressive Networks, Total Entertainment Network (TEN), VDOnet Corp and Wave Systems Corp.</p>
+<p>Creative said in a statement late on Thursday that under the agreement, it would include Progressive's RealAudio software programme with its multimedia products. RealAudio plays &quot;live&quot; and on-demand audio over the Internet.</p>
+<p>Creative would offer customers Internet games from TEN and VDOnet's flagship video product VDOLive, which allows access to real-time video on the Internet.</p>
+<p>With Wave's security technology for commerce, Creative's customers can buy entertainment and educational multimedia software and other digital contents over the Internet.</p>
+<p>Creative said in another statement it had developed a prototype technology that integrates audio, video, 3D graphics and electronic commerce into a single Internet multimedia application, codenamed Passport. This reduces time spent on searches and browsing, it said.</p>
+<p>-- Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

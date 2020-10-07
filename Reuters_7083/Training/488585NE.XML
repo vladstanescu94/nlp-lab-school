@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488585" id="root" date="1997-04-04" xml:lang="en">
+<title>UK: FEATURE - Millennium problems could trigger litigation.</title>
+<headline>FEATURE - Millennium problems could trigger litigation.</headline>
+<dateline>LONDON 1997-04-04</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>Experts are divided on the extent of the chaos that the millennium bug might cause, but whatever happens, computer and software makers face public ridicule and crippling law suits.</p>
+<p>Even if most computers in the world function perfectly through midnight on December 31, 1999, industry incompetence and arrogance will have cost their customers huge sums of money.</p>
+<p>And after the battle to make sure computers will work as the world moves into the next millennium, public humiliation may stop but the law suits will begin.</p>
+<p>The problem facing the computer industry looks absurdly simple. Some computer software written in the 1980s abbreviated references to years to a two digit shorthand, &quot;87 or &quot;93&quot; for instance.</p>
+<p>This was always going to cause problems when the millennium dawned because computers would be unable to make sense of &quot;00&quot;.</p>
+<p>INDUSTRY HOPED PROBLEM WOULD GO AWAY</p>
+<p>But the industry collectively closed its eyes and said that everything would be alright on the night. Technology was moving so fast, none of these programmes would still be in use by the end of the century.</p>
+<p>Wrong. Hundreds of thousands of programmes are still in use.</p>
+<p>Surely it can't be too difficult to make computers handle a simple date change? Wrong again.</p>
+<p>Many of these programmes are still working away in businesses like banks, stock brokers, power stations and telephone exchanges. Finding the errant software, often buried deep in layers of different programmes and correcting it is becoming an increasingly frantic and expensive task.</p>
+<p>The cost of this work has been estimated by the Gartner Group, a U.S. technology research firm, at between $300 billion and $600 billion.</p>
+<p>And those having to pay up will be searching for scapegoats.</p>
+<p>EXPENSIVE LAW SUITS BECKON</p>
+<p>&quot;If the problem is not fixed, then the errors in software associated with finance, taxation, insurance and even operation of aircraft can lead to the most expensive litigation in human history,&quot; according to Capers Jones, chairman of Software Productivity Research (SPR), a research firm based in Burlington, Massachusetts.</p>
+<p>Robin Guenier, executive director of Britain's Taskforce 2000, said the information technology (IT) industry is not facing up to its responsibilities. It seems to be hoping that if it doesn't acknowledge the problem, it might just go away.</p>
+<p>&quot;IT itself is not putting this high on the agenda. The industry feels threatened by it, making it look very silly after carrying all before it during the 20th century,&quot; Guenier said.</p>
+<p>&quot;The industry has been more successful than any other in history, it's put a man on the moon etc, but at its heart is this absolutely absurb problem. But the industry sees it as a rather boring technicality diverting its attention from more interesting projects.&quot;</p>
+<p>WIDE RANGE OF COMPANIES, INDIVIDUALS FACE LEGAL ACTION</p>
+<p>Law suits with demise inducing damages are the prospect facing a wide range of companies and people.</p>
+<p>According to the British law firm Halberstam Elias, softwear suppliers and management consultancies which advised companies to purchase software are most at risk. Directors of companies which go out of business or who lose money because computer systems were not &quot;millennium compliant&quot; may also be sued.</p>
+<p>Individuals who wrote software may also be pursued.</p>
+<p>Companies offering Year 2000 solutions may find themselves in court if their packages fail to perform.</p>
+<p>SPR's Jones also sees a spate of legal action.</p>
+<p>&quot;Software and corporate executives may be held personally liable for some of the consequences of the Year 2000 problem unless prompt and energetic actions are taken to correct the problem,&quot; Jones said in a report.</p>
+<p>&quot;The Year 2000 problem may lead to lawsuits against corporate executives for violation of fiduciary duty, and against software executives for professional malpractice.&quot;</p>
+<p>SHAME ON THE SOFTWARE INDUSTRY</p>
+<p>Jones said that the fallout from the millennium bug will humiliate the software industry.</p>
+<p>&quot;The fact that the software industry, collectively, has brought about one of the most expensive and hazardous problems in human history when it could have easily been avoided will lower our status (more),&quot; Jones said.</p>
+<p>&quot;Not only is the Year 2000 problem one of the most expensive problems in human history, it is also one of the most embarrassing. This problem has been discussed for more than 25 years, and its significance has been hypothesized with increasing alarm for more than 10.&quot;</p>
+<p>&quot;It does no credit...to the software industry that such an obvious problem with such a straight-forward technical solution should have reached the magnitude that is likely to occur.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

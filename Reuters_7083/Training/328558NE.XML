@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328558" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Analogy Inc Q3 full results.</title>
+<headline>Analogy Inc Q3 full results.</headline>
+<dateline>BEAVERTON, Ore. 1997-01-22</dateline>
+<text>
+<p>ANALOGY, INC.</p>
+<p>			   Consolidated Income Statement</p>
+<p>			    (000, except per share data)</p>
+<p>			   (unaudited)</p>
+<p>				     Quarter Ended  Nine Months Ended</p>
+<p>			   12/31/96    12/31/95  12/31/96  12/31/95</p>
+<p> Product license revenue   $ 4,434    $ 3,659 $ 9,987 $11,749</p>
+<p> Service and other	     2,381	1,774   6,803   4,312</p>
+<p> Total revenue		   6,816	5,433  16,791  16,061</p>
+<p>Cost of product license revenue</p>
+<p>					 409	  308   1,160     937</p>
+<p>Cost of service and other revenue</p>
+<p>					 629	  182   1,640     549</p>
+<p> Total cost of revenue	 1,038	  490   2,800   1,486</p>
+<p> Gross profit		    5,778	4,943  13,991  14,575</p>
+<p> Research and development    1,493	1,233   4,133   3,502</p>
+<p> Sales and marketing	   3,286	2,749   9,038   7,857</p>
+<p> General and administrative    584	  585   1,941   1,834</p>
+<p> Amortization of intangibles    45	   --	45	--</p>
+<p>Acquired in-process research</p>
+<p>  and development		1,896	   --   1,896	--</p>
+<p> Total operating expenses    7,304	4,567  17,053  13,193</p>
+<p> Operating income (loss)   (1,526)	  376  (3,062)  1,382</p>
+<p> Other (expense), net	   (38)	 (31)    (29)   (431)</p>
+<p>Income (loss) before</p>
+<p>  income taxes		 (1,564)	  345  (3,091)    951</p>
+<p> Income tax expense		111	   88     225     243</p>
+<p> Net income (loss)	   (1,675)	  257 (3,316)     708</p>
+<p>Net income (loss) per share</p>
+<p>				    (0.19)	 0.03  (0.39)    0.10</p>
+<p>Weighted average shares</p>
+<p>  outstanding		    8,596	7,507   8,422   7,403</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEAVERTON, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

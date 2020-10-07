@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="730852" id="root" date="1997-07-15" xml:lang="en">
+<title>JAPAN: NTT Data, Nissho Iwai to form outsourcing company.</title>
+<headline>NTT Data, Nissho Iwai to form outsourcing company.</headline>
+<dateline>TOKYO 1997-07-15</dateline>
+<text>
+<p>NTT Data Corp, Nissho Iwai Corp and personnel firm Pasona said on Tuesday they plan to jointly form an outsourcing company.</p>
+<p>They said in a statement that new firm will be the first comprehensive outsourcing company in Japan and that they will supply consultancy, payroll administration and information network services.</p>
+<p>The joint venture will be formed on Wednesday with capitalisation of 400 million yen. It will aim for sales of one billion yen in the initial year, they said.</p>
+<p>The new company will be owned 30 percent each by Nissho Iwai and NTT Data, a unit of Nippon Telegraph and Telephone Corp, with Pasona owning the rest, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264450" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Compaq, Computer Assocs in data storage pact.</title>
+<headline>Compaq, Computer Assocs in data storage pact.</headline>
+<dateline>NEW YORK 1996-12-18</dateline>
+<text>
+<p>Compaq Computer Corp Wednesday said it and Computer Associates International Inc's Cheyenne division will jointly develop and market data storage systems.</p>
+<p>Terms of the deal were not detailed.</p>
+<p>Those systems, called enterprise storage management solutions, are capable of centrally storing all of a company's data and software applications. Traditionally tied to mainframe computers, these systems are increasingly linked to networks linking hundreds and even thousands of PCs.</p>
+<p>The firm's will begin co-marketing activities in the first quarter of 1997. The first offerings resulting from this alliance are planned for later in 1997.</p>
+<p>Through the alliance, customers wil be able to integrate and optimize data storage and storage management to access, protect, and manage their enterprise data.</p>
+<p>Compaq will contribute its hardware integration expertise and Cheyenne's will input its management storage software expertise, they said.</p>
+<p>((-- New York Newsdesk +1 212 859 1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

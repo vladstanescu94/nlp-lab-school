@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41870" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Broderbund sees Q4 results below estimates.</title>
+<headline>Broderbund sees Q4 results below estimates.</headline>
+<dateline>NOVATO, Calif. 1996-09-09</dateline>
+<text>
+<p>Broderbund Software Inc said Monday it expects financial results for the fourth fiscal quarter to be below analysts' estimates.</p>
+<p>Broderbund said it sees Q4 net revenues to be between 85 and 90 percent of net revenues for the year-ago period adding that it also expects net income to be below analysts' estimates.  </p>
+<p>Analysts had expected the company to post earnings for the fourth quarter, ended August 31, of $0.27 a share, according to First Call. The company had earning of $0.33 a share in the year-ago period.</p>
+<p>Broderbund said slowing of growth in end-user demand for its products in both domestically and internationally and disappointing revenues from the company's affiliated label products contributed to the weaker results.</p>
+<p>The consumer software company also said it expects a net loss in the quarter from Living Books, a joint venture between Broderbund and Random House.</p>
+<p>The company plans to release Q4 results after the close of the stock market on October 9.</p>
+<p>Shares of Broderbund were 2-5/8 lower at 25 in early morning trading on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NOVATO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

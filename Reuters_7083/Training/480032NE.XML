@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480032" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Sun broadens Java, aims to fend off Microsoft.</title>
+<headline>Sun broadens Java, aims to fend off Microsoft.</headline>
+<byline>Samuel Perry</byline>
+<dateline>PALO ALTO, Calif. 1997-03-31</dateline>
+<text>
+<p>Sun Microsystems Inc. said Monday it will move to build on the momentum behind its Java computer programming language despite overtures by Microsoft Corp. to co-opt Sun's initiative.</p>
+<p>The president of Sun's JavaSoft unit, Alan Baratz, said the company will unveil several new initiatives at the second annual JavaOne software developers' conference in San Francisco later this week.</p>
+<p>At the same time, some developers were buzzing with expectation that Microsoft on Wednesday may spell out its own plans for Java, including some which may not sit well with other Java licensees.</p>
+<p>As the dominant supplier of operating systems for personal computers, Microsoft is among the more critical licensees of Java, which promises to operate across otherwise incompatible computing systems.</p>
+<p>Microsoft Chief Executive Officer Bill Gates is due to address a software developers conference in one hall of San Francisco's Moscone Center the same day JavaSoft unveils its latest initiatives in another part of the same convention center.</p>
+<p>Microsoft would not comment Monday on its plans, but the showdown follows a months-long tug of war between the Redmond, Wash.-based software giant and Sun's JavaSoft unit.</p>
+<p>Earlier this year, Sun teamed up with International Business Machines Corp., Netscape Communications Corp. and Novell Inc. to launch a &quot;100 percent pure Java&quot; branding campaign aimed at ensuring Java retains its ability to work on multiple computer systems.</p>
+<p>The initiative was designed to keep Microsoft -- or any other licensees -- from appropriating the technology, according to its proponents.</p>
+<p>Microsoft, meanwhile, complained Sun had deliberately made a new Java version incompatible with recent releases of Microsoft's Windows.</p>
+<p>Two weeks ago, JavaSoft applied to become a standards-setting body which could submit Java and its various upgrades to become standards under the auspices of the International Organization for Standardization.</p>
+<p>At the time, a Microsoft executive complained Sun was not surrendering the Java branding and compliance process to the standards board, an action JavaSoft retorted would break with industry practice.</p>
+<p>Michael Kwatinetz, the lead analyst in Deutsche Morgan Grenfell's high technology group, said Microsoft's objective is to stay at the forefront of the software development community by continuing to extend its tools into the hot Java arena.</p>
+<p>In an interview ahead of JavaOne, which starts Wednesday after a Tuesday gathering of Java licensees, Baratz said Sun was introducing a combination of new products and specifications aimed at the server computers used by large organizations for handling computer networks.</p>
+<p>He also said that, as a separate intitiative, Sun will announce sharply scaled-down varieties of Java -- PersonalJava and EmbeddedJava -- which will be able to work on a variety of small devices.</p>
+<p>These would bring Java to personal digital assistants such as Apple Computers Inc.'s Newton, copiers and even smart cards, as well as televisions, pagers and cellular phones, changing the definition of what a computer is, according to Javasoft executives.</p>
+<p>&quot;The momentum behind Java continues to grow,&quot; said Baratz, adding the JavaOne show is sold out with more than 9,000 developers registered and an estimated 400,000 developers now seriously using Java worldwide.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

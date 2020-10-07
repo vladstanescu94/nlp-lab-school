@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77616" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: INTERVIEW - Microsoft nears Office release.</title>
+<headline>INTERVIEW - Microsoft nears Office release.</headline>
+<dateline>SEATTLE 1996-09-26</dateline>
+<text>
+<p>Microsoft Corp's Office 97 productivity suite upgrade will be available in retail stores nationwide January 23, a company executive said.</p>
+<p>Dennis Tevlin, group product manager, said in an interview that the product is on schedule. It will be released to manufacturing and to the company's &quot;Select&quot; license customers sometime in the fourth quarter, although he declined to be specific.</p>
+<p>He called the upgrade &quot;the most significant release we've had to date&quot; of the product, which has more than 80 percent of the market for such suites.  </p>
+<p>Some industry analysts had expected Office 97 to be available in the retail channel in the fourth quarter.</p>
+<p>But two analysts contacted by Reuters said the slight delay would not affect Microsoft's fiscal second-quarter earnings because the company plans to defer recognizing much of the Office revenue, anyway.</p>
+<p>Tevlin took issue with a Dataquest study released earlier that showed signs of a slowdown in the worldwide suite market and a decline in Microsoft's share of it.  </p>
+<p>Microsoft stock fell 3-5/8 to 132 on nearly 5.8 million shares traded, although analysts were not sure whether the Dataquest study was a cause.</p>
+<p>&quot;Our business is not waning at all,&quot; Tevlin said. &quot;Our market share seems to be relatively stable. Our business is doing great.&quot;</p>
+<p>He said the Dataquest figures concentrated on &quot;sell-in&quot; to retailers, rather than &quot;sell-through&quot; to customers.</p>
+<p>He also said the Dataquest figures inflated International Business Machines Corp's market share because the company is bundling its SmartSuite software with its Aptiva personal computers.</p>
+<p>Tevlin said many IBM customers use Microsoft's Office suite, anyway.</p>
+<p>And he said when sales of word-processor software are added in, Corel Corp's revenues and volume is down compared with figures from a year-earlier, when WordPerfect and what then was known as the Perfect Office suite were owned by Novell Inc.</p>
+<p>-- Seattle bureau 206-386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53414" id="root" date="1996-09-13" xml:lang="en">
+<title>USA: Spatial Technology sets IPO price range.</title>
+<headline>Spatial Technology sets IPO price range.</headline>
+<dateline>NEW YORK 1996-09-13</dateline>
+<text>
+<p>Spatial Technology Inc has proposed an estimated pricing range of $9 to $11 a share for its upcoming initial public offering, a spokesman from underwriter Dain Bosworth Inc said on Friday.</p>
+<p>The company previously did not propose a pricing range. The value of the range puts the IPO's value at about $21 million. Spatial plans to offer 2.1 million shares in the deal, which is tentively scheduled for late September or early October, the spokesman said.</p>
+<p>The Boulder, Colo., company develops software that allows users to create and modify three-dimensional (3D) shapes on a computer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

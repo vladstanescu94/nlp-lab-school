@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="685048" id="root" date="1997-06-25" xml:lang="en">
+<title>USA: Bloomberg, Desktop Data in news pact.</title>
+<headline>Bloomberg, Desktop Data in news pact.</headline>
+<dateline>NEW YORK 1997-06-25</dateline>
+<text>
+<p>Bloomberg LP said Wednesday it reached agreement with Desktop Data Inc to deliver Bloomberg news through Desktop Data's real-time network-based news management system NewsEDGE.</p>
+<p>The alliance will allow customers of Open Bloomberg -- the personal computer and workstation-based version of the company's information service -- to receive stories through NewsEDGE's filtering and management system.</p>
+<p>The news alliance is the first of its kind for Bloomberg, although the company has previously entered agreements for covering its data products, a spokeswoman said.</p>
+<p>Desktop Data's NewsEDGE draws on content from more than 120 publishers, including newswires, newspapers and other sources.</p>
+<p>((New York Newsdesk 212 859 1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

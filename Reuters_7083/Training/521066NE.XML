@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521066" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: RESEARCH ALERT - Arbor Software initiated.</title>
+<headline>RESEARCH ALERT - Arbor Software initiated.</headline>
+<text>
+<p>-- Everen Securities said Friday it began coverage of Arbor Software Corp with an outperform rating.</p>
+<p>-- Everen said it expects Arbor's earnings growth should accelerate in the second half of fiscal 1998 as investments in internal sales and additional distribution partnerships pay off. It estimated fiscal 1997 earnings at $0.50 a share, up from $0.27 a year ago, on an 88 percent rise in revenue to $47 million.</p>
+<p>-- The six-month and 18-month price targets are $34 and $48, respectively. Arbor shares were off 4/16 at 23-11/16.</p>
+<p>-- Arbor's products include the Essbase on-line analytical processing software.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

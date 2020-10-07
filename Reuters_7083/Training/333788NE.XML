@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333788" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Lotus Development ready to defend its turf.</title>
+<headline>Lotus Development ready to defend its turf.</headline>
+<dateline>LAKE BUENA VISTA, Fla. 1997-01-27</dateline>
+<text>
+<p>Lotus Development Corp is poised to defend its turf against Netscape Communications Corp and Microsoft Corp in the battle for control of the messaging and groupware software market.</p>
+<p>As part of its strategy to maintain leadership, Lotus made a flurry of product announcements at Lotusphere, a conference for developers and partners held in Lake Buena Vista. Among the most important concerned the company's plans for the next releases of the client version of Lotus Notes, its core groupware software.  </p>
+<p>&quot;The most important thing was the clarification of the client strategy,&quot; said Lotus President Jeff Papows in an interview on Monday.</p>
+<p>After forecasts in late 1995 that Notes -- used for messaging and group collaboration -- would wither as the Internet and its open architecture gained popularity, Lotus embraced the challenge with its introduction last year of a product called Domino to run Notes servers.</p>
+<p>Since Lotus unveiled Domino, designed using Internet standards and protocols, analysts have said it needed to clarify what it was doing on the client, or the desktop side.  </p>
+<p>Currently, the Version 4.5 of Lotus Notes enables users jump to the Internet's World Wide Web from within documents and create documents in Notes that can be posted on the Web, among other Internet-compatible features.</p>
+<p>The next version of Lotus Notes, code-named Lookout, will include a calendar and scheduling feature. Lookout (a jab at a similar feature in Microsoft's Office 97 suite called Outlook) is scheduled for delivery in the first half of this year, Lotus said.  </p>
+<p>Lotus said that Lookout will also have the ability to integrate other Web-based products, such as its own upcoming office suite, called SmartSuite 97, as well as Microsoft's Office 97 and Microsoft's Internet Explorer. The new version would allow users seemlessly to add data to a Notes document while in Internet Explorer.</p>
+<p>Lotus said it planned to release its next major upgrade of Notes -- code-named Maui -- in the fourth quarter. Maui will support even more Internet standards and protocols, and it will include the Lookout user interface.  </p>
+<p>&quot;Irrespective of all the rhetoric coming out of (Netscape), it's a very elegant and powerful way to allow the user to have their network-centric viewer on their desk,&quot; Papows said of Lookout.</p>
+<p>In October, Netscape introduced the Communicator, a suite of products for corporate networks, including collaboration and messaging features. Its popular World Wide Web browser, Navigator, is one feature of the suite. Communicator is due to ship during this quarter.</p>
+<p>&quot;Lotus is leading the pack, and it doesn't need to be defensive,&quot; said Ian Campbell, an International Data Corp analyst. &quot;They are on the offensive in expanding the capabilities of groupware.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAKE BUENA VISTA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

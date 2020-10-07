@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142363" id="root" date="1996-10-24" xml:lang="en">
+<title>FRANCE: Dassault Systemes jumps on Q3 results.</title>
+<headline>Dassault Systemes jumps on Q3 results.</headline>
+<dateline>PARIS 1996-10-24</dateline>
+<text>
+<p>French computer-aided design and engineering software maker Dassault Systemes was up nearly nine percent on Thursday after reporting nine-month profits climbed to 209.7 million francs from 117.4 million.</p>
+<p>Third-quarter profits rose to 72.9 million francs from 53.9 million.</p>
+<p>By 0905 GMT, the share was up 16.4 francs at 226.10 after touching a high earlier of 230.0 francs.</p>
+<p>Some dealers, however, said that with a price earnings ratio of about 35, the share is now fairly valued.</p>
+<p>--- Paris Newsroom +33 1 4221 5452 gd/pmc</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

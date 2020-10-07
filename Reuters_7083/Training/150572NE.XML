@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150572" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Tandem to unveil cheaper, PC-based servers.</title>
+<headline>Tandem to unveil cheaper, PC-based servers.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>CUPERTINO, Calif. 1996-10-29</dateline>
+<text>
+<p>Tandem Computer Inc on Wednesday will become the latest maker of high-end, proprietary computers to introduce a line of machines based on personal computer technology.</p>
+<p>Tandem, which specializes in making transaction-processing computers for banks and stock exchanges, said it will unveil a line of servers based on Intel Corp's Pentium Pro microprocessors and Microsoft Corp's Windows NT networking operating system.</p>
+<p>The servers -- which are computers souped up to control the flow of information through a network -- will include some of Tandem's technology for handling huge volumes of transactions, the company said. Tandem plans to pitch the machines to customers who want to set up shop on the Internet.</p>
+<p>The machines are Tandem's first step to rely less on sales of computers based on its own proprietary software and technology.</p>
+<p>Banks, telephone companies and stock exchanges still rely heavily on Tandem's so-called fault-tolerant computers for their heavy-duty computing.</p>
+<p>But Tandem's sales growth has stalled in recent years as its customers have replaced some of its machines with networks of cheaper computers from companies such as Sun Microsystems Inc and Compaq Computer Corp.</p>
+<p>To strike back, Tandem unveiled a strategy earlier this year that includes making servers based on off-the-shelf technology from Intel and Microsoft.</p>
+<p>Other high-end computer makers, such as International Business Machines Corp and Digital Equipment Corp, embarked on similar strategies years ago.</p>
+<p>With its new machines, Tandem plans to help its existing customers set up networks based on Microsoft's Windows NT networking software, said Chris Rooke, Tandem's vice president of corporate marketing.</p>
+<p>&quot;We expect Tandem to now be on our customers' vendor list when they're looking at using Windows NT in more business- critical applications,&quot; Rooke said. &quot;Yes, we do expect to open new accounts, but we expect to still be Fortune 500-class customers.&quot;</p>
+<p>Rooke said Tandem will concentrate on selling the machines as foundations for businesses that want to sell their wares online.</p>
+<p>Tandem also plans on Wednesday to unveil a new line of its Himalaya servers, a line of proprietary servers for storing and retrieving huge libraries of corporate information.</p>
+<p>Rooke declined to discuss the pricing of its new lines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

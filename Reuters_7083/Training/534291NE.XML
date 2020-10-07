@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="534291" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Forte Software Q4 net rises to $0.14.</title>
+<headline>Forte Software Q4 net rises to $0.14.</headline>
+<dateline>OAKLAND, Calif. 1997-04-24</dateline>
+<text>
+<p>Forte Software, Inc.</p>
+<p>	     Condensed Consolidated Statements Of Operations</p>
+<p>		  (in thousands, except per share amounts)</p>
+<p>				   Three months ended   Years ended</p>
+<p>					   March 31,	  March 31,</p>
+<p>					 1997     1996     1997    1996</p>
+<p>					  (Unaudited)</p>
+<p>Revenues:</p>
+<p>     License fees		$13,534 $ 8,467  $43,595 $21,357</p>
+<p>     Maintenance and service   6,050   2,675   19,456   8,688</p>
+<p>   Total revenues		 19,584  11,142   63,051  30,045</p>
+<p>Cost of revenues</p>
+<p>     License fees		    171     124	665     456</p>
+<p>     Maintenance and service   3,665   1,824   11,796   5,452</p>
+<p>  Total cost of revenues	 3,836   1,948   12,461   5,908</p>
+<p> Gross profit		     15,748   9,194   50,590  24,137</p>
+<p>Operating expenses</p>
+<p>     Sales and marketing	 8,497   5,143   28,560  15,060</p>
+<p>Product development and</p>
+<p>	engineering		  2,978   2,246   10,611   8,069</p>
+<p>General and administrative</p>
+<p>					 1,342     883    5,119   3,168</p>
+<p>   Total operating expenses   12,817   8,272   44,290  26,297</p>
+<p>Income (loss) from operations</p>
+<p>					2,931     922    6,300  (2,160)</p>
+<p> Interest income and expense     491     112    1,988     286</p>
+<p>Income (loss) before income taxes</p>
+<p>					3,422   1,034    8,288  (1,874)</p>
+<p> Provision for income taxes    (460)    (79)  (1,039)   (114)</p>
+<p> Net profit (loss)		 2,962     955    7,249 (1,988)</p>
+<p> Income (loss) per share(a)     0.14    0.05     0.34  (0.11)</p>
+<p>Shares used in computing profit</p>
+<p>  (loss) per share(a)	   21,068  19,225   21,110  17,517</p>
+<p>NOTE: (a) Pro forma shares reflecting conversion of preferred stock for the year ended March 31, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAKLAND, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

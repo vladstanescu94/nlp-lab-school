@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165342" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Microsoft unveils Explorer for Macintosh.  [CORRECTED 03:19 GMT 7/11]</title>
+<headline>Microsoft unveils Explorer for Macintosh.  [CORRECTED 03:19 GMT 7/11]</headline>
+<dateline>REDMOND, Wash.</dateline>
+<text>
+<p>Microsoft Corp said Tuesday it released a version of its Internet browser designed for Apple Computer Inc.'s Macintosh personal computers.</p>
+<p>&quot;Roughly one out of four Internet users accesses the Internet from a (Macintosh-based) computer,&quot; said Heidi Roizen, Apple's vice president of developer relations.</p>
+<p>Microsoft said its Internet Explorer software for Macintosh computers, was now available worldwide.</p>
+<p>Previously, the software company had only released a version of  Internet Explorer 3.0 for the Windows and Windows 95 systems. (Corrects to clarify that an earlier Macintosh version had been available.)</p>
+<p>The software can be downloaded for free from Microsoft's World Wide Web site (http://www.microsoft.com/ie/).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDMOND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

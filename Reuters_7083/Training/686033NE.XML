@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="686033" id="root" date="1997-06-25" xml:lang="en">
+<title>JAPAN: Microsoft unveils Japanese version of Windows CE.</title>
+<headline>Microsoft unveils Japanese version of Windows CE.</headline>
+<dateline>TOKYO 1997-06-25</dateline>
+<text>
+<p>Microsoft Corp on Wednesday unveiled the Japanese version of the Windows CE operating system for handheld personal computers.</p>
+<p>The Japanese version of Windows CE, built for use in non-desktop handheld devices and mobile computing, will run on the new line of handheld computers unveiled by Japanese computer manufacturers NEC Corp and Casio Computer Co Ltd.</p>
+<p>The English version was launched in the United States in November last year, Microsoft said in a statement.</p>
+<p>NEC Corp separately announced on Wednesday that it would introduce new models of hand-held computers which run on the Japanese version of Windows CE. NEC's MC-CS11 will be launched on July 18 and is priced at 73,000 yen. The other model, MC-CS12, will be put on the market on August 28 and is priced at 89,000 yen.</p>
+<p>Casio also unveiled similar hand-held computers which feature the Japanese version of Windows CE.</p>
+<p>Casio's Cassiopeia A-50 will be priced at 75,000 yen and A-51 at 88,000 yen, and will be on sale from July 10, the company said on Wednesday. -- Tokyo Equities Desk +81-3-3432-9404</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

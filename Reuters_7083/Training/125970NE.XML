@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125970" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Object Design Inc Q3 profit vs loss.</title>
+<headline>Object Design Inc Q3 profit vs loss.</headline>
+<dateline>BURLINGTON, Mass. 1996-10-18</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					1996     1995    1996     1995</p>
+<p> Total revenues		9,525    8,356  27,719    23,463</p>
+<p> Total cost of revenues    2,195    2,371   6,585     6,727</p>
+<p> Gross profit		  7,330    5,985  21,134    16,736</p>
+<p> Total operating expenses  7,011    9,701  20,384    27,206</p>
+<p> Operating income (loss)     319   (3,716)    750  (10,470)</p>
+<p> Net income (loss)	     510   (3,708)    938  (10,324)</p>
+<p>Pro forma net income (loss)</p>
+<p>per common equivalent share</p>
+<p>					0.02   (0.14)    0.03    (0.40)</p>
+<p>Pro forma weighted average</p>
+<p>number of common equivalent</p>
+<p>  shares outstanding (A)    28,561   25,945  26,854    25,777</p>
+<p>NOTE(A): Weighted average number of shares shown pro forma for the effect of the conversion of the preferred stock to common as a result of the initial public offering.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

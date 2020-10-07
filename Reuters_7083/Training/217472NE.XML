@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217472" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Novell EPS up despite lower revenue.</title>
+<headline>Novell EPS up despite lower revenue.</headline>
+<dateline>OREM, Utah 1996-11-26</dateline>
+<text>
+<p>Novell Inc on Tuesday attributed a decline in its fourth quarter revenue to the sale or discontinuation of product lines in the past year.</p>
+<p>Novell said it earned $0.17 a share in the quarter ended October 31, compared with $0.16 a share in the year ago period.</p>
+<p>Revenues in the quarter fell to $383.7 million from $480.5 million a year ago. The earnings figure matched the First Call mean estimate of brokers.</p>
+<p>Revenues in the fourth quarter rose five percent from the third quarter levels and were driven by &quot;strong demand&quot; for new versions of major products, Novell said. Revenues from Novell server software rose 15 percent over the third quarter.</p>
+<p>The company reiterated its prime goal of establishing Novell Directory Services (NDS) as the de facto industry standard for the Internet/intranet markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OREM, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

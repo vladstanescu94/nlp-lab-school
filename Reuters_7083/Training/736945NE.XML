@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="736945" id="root" date="1997-07-17" xml:lang="en">
+<title>FINLAND: TAMRO IN TALKS TO BUY MANAGEMENT SYSTEM.</title>
+<headline>TAMRO IN TALKS TO BUY MANAGEMENT SYSTEM.</headline>
+<dateline>HELSINKI 1997-07-17</dateline>
+<text>
+<p>Finnish pharmaceuticals wholesaler Tamro said on Thursday it was in talks to buy a new information system for its Pharma Distribution Division and its Medical and Laboratory Division from American J.D. Edwards.</p>
+<p>It said it was a business management system but gave no further details.</p>
+<p>&quot;The final agreement is planned to be signed in the autumn 1997,&quot; it said. &quot;The system will be implemented gradually during 1998-1999.&quot;</p>
+<p>-- Helsinki newsroom +358-9-680 50 245, news@reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

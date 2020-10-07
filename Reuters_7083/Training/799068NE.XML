@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799068" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: TABLE- Summit Medical Systems Inc Q2 loss.</title>
+<headline>TABLE- Summit Medical Systems Inc Q2 loss.</headline>
+<dateline>MINNEAPOLIS 1997-08-14</dateline>
+<text>
+<p>THREE MONTHS ENDED  SIX MONTHS ENDED</p>
+<p>					 JUNE 30	     JUNE 30</p>
+<p>				    1997    1996	 1997	1996</p>
+<p>		    (unaudited) (restated) (unaudited) (restated)</p>
+<p>Revenue</p>
+<p> Software licenses	    $106  $2,298	$1,295   $4,008</p>
+<p> Support and service	 1,028   1,545	 1,858    2,976</p>
+<p> Consulting fees	     1,988   1,501	 3,983    3,047</p>
+<p> Total revenue		 3,122   5,344	 7,136   10,031</p>
+<p>Cost of Sales</p>
+<p> Software licenses	     292     180	   856	529</p>
+<p> Support and service	 1,055     638	 1,912    1,219</p>
+<p> Consulting fees	     1,462     985	 2,820    1,795</p>
+<p> Total cost of sales	 2,809   1,803	 5,588    3,543</p>
+<p> Gross profit		    313   3,541	 1,548    6,488</p>
+<p>Operating expenses</p>
+<p> Selling and marketing     1,820   2,188	 3,603    4,126</p>
+<p> Research and development    704     658	 1,817    1,019</p>
+<p>General and administrative</p>
+<p>				   4,611   1,214	 8,024    2,397</p>
+<p> Total operating expenses  7,135   4,060	13,444    7,542</p>
+<p> Loss from operations    (6,822)   (519)    (11,896)  (1,054)</p>
+<p> Interest income, net	  515     297	 1,094	597</p>
+<p>Loss before income taxes</p>
+<p>				 (6,307)   (222)    (10,802)    (457)</p>
+<p> Income tax expense		2	 0	     5	 17</p>
+<p> Net loss		    (6,309)   (222)    (10,807)    (474)</p>
+<p>Net loss per share:</p>
+<p>Primary and fully diluted</p>
+<p>				  (0.61)  (0.02)	(1.04)   (0.06)</p>
+<p>Weighted average shares outstanding</p>
+<p>Primary and</p>
+<p>    fully diluted	   10,359   9,154	10,353    8,512</p>
+<p>	   All amounts in thousands except per share data</p>
+<p>NOTE : 1997 Q2 loss includes $3.2 million in reserves, including a $2.8 million charge covering agreements reached with various parties, including members of management who received company stock, options or warrants in connection with a December 1996 acquisition of C.L. McIntosh &amp; Associates Inc.</p>
+<p>	    ((--Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

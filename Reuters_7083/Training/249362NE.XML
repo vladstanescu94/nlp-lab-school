@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249362" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: IBM's Gerstner warns of Internet backlash.</title>
+<headline>IBM's Gerstner warns of Internet backlash.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-12-11</dateline>
+<text>
+<p>International Business Machines Corp. Chairman Louis Gerstner on Wednesday warned the computer industry of a backlash against the Internet as confusion and feuding reigns among corporate rivals.</p>
+<p>&quot;A lot of what has gone on is just plain confusing,&quot; Gerstner said in a keynote speech at the Internet World trade show in New York. &quot;I wouldn't be surprised to see an Internet backlash soon.&quot;</p>
+<p>He said industry wars over Internet browser software, programming languages, hardware and continuing hype may contribute to corporate and consumer disillusionment about the Internet.</p>
+<p>&quot;As an industry, we are not shy about telling people how beautiful our babies are, long before they are born,&quot; Gerstner said, adding that customers have to sort out the hype and &quot;food fights&quot; by sparring companies.</p>
+<p>Gerstner said many were wondering where money is to be made on the Internet amid what he characterised as hype that seems to be leaving out customers and their needs.</p>
+<p>&quot;People ask 'Is there real money to be made on the Internet?' and I say, 'Yes there is,'&quot; Gerstner said, adding that money will be made by companies that can solve customers' problems and make it easy to do things like banking on the Internet.</p>
+<p>Gerstner said IBM's approach to the Internet was to work closely with customers and develop the products they need, such as its work with the discount brokerage Charles Schwab, which now offers stock trading over the Internet.</p>
+<p>&quot;Schwab expects to capture as many customers with the Internet over the next year as they have over the past 13 years,&quot; Gerstner said.</p>
+<p>One of the industry &quot;food fights&quot; that Gerstner singled out was Microsoft Corp.s effort to develop software based on Sun Microsystems Inc.'s Java language to design programmes that only run on Microsoft's Windows operating system.</p>
+<p>The Java language has been much heralded in the computer industry because of its &quot;write-once, run-anywhere&quot; capability, which lets programmes written in Java run on any computer system. Because of this feature, Java has become a popular programming language for the Internet and networked computers.</p>
+<p>&quot;Let's not blow this,&quot; Gerstner said. &quot;Let's not do to Java what the industry did to Unix,&quot; the high-performance operating system which splintered off into more than 20 versions.</p>
+<p>At Internet World on Wednesday, Sun Microsystems unveiled an alliance with IBM and other major companies, which are all backing a move to standardise and certify one version of the Java language.</p>
+<p>&quot;Gerstner is taking his guidance from customers and not from industry conflicts,&quot; said Sam Albert, an industry consultant based in Scarsdale, N.Y. &quot;He did a lot to de-hype the industry.&quot;</p>
+<p>Gerstner also reiterated his plea that the industry make things easier for users. He showed a video of IBM's voice recognition technology, which enables computer users to give simple commands to surf the World Wide Web.</p>
+<p>He said IBM's voice recognition software for the Internet is now available in beta, or experimental form, and that users could download it for free, starting Wednesday, from IBM's Web site, http://www.ibm.com.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="470362" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: McAfee names Zach Nelson, former Oracle exec, as VP.</title>
+<headline>McAfee names Zach Nelson, former Oracle exec, as VP.</headline>
+<dateline>SANTA CLARA, Calif. 1997-03-25</dateline>
+<text>
+<p>McAfee Associates Inc. said Monday it hired Zach Nelson, former Oracle Corp. vice president of marketing, as the head of its network management software business.</p>
+<p>Nelson, 35, will oversee McAfee's development of help-desk and network management software, the company said. He also will help with McAfee's marketing efforts.</p>
+<p>Nelson headed the marketing operations of Oracle, the second-biggest software company after Microsoft Corp. He worked at Oracle for four years.</p>
+<p>&quot;Primarily it was the job opportunity to move from a marketing role to a managerial role,&quot; Nelson said. &quot;It was time for me to broaden my horizons.&quot;</p>
+<p>Nelson said he left on amicable terms with Oracle &quot;without burning any bridges.&quot;</p>
+<p>Bill Larson, McAfee's president, said Nelson's expertise will be helpful as McAfee enters its next phase of growth.</p>
+<p>McAfee, based in Santa Clara, Calif., is best-known for its free virus detection software. In recent years, the company has used its brand recognition among computer technicians to enter more lucrative software market segments, including network management.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

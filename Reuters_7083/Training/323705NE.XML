@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323705" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Compuware Corp Q3 Dec 31 profit vs loss.</title>
+<headline>Compuware Corp Q3 Dec 31 profit vs loss.</headline>
+<dateline>FARMINGTON HILLS, Mich. 1997-01-22</dateline>
+<text>
+<p>(In Thousands, Except Per Share Data)</p>
+<p>				     QUARTER ENDED  NINE MONTHS ENDED</p>
+<p>					    DECEMBER 31,  DECEMBER 31,</p>
+<p>					1996     1995     1996     1995</p>
+<p>REVENUES:</p>
+<p>   Software license fees   $88,548  $61,159 $201,794 $144,119</p>
+<p>   Maintenance fees	   52,573   47,126  155,512  135,643</p>
+<p>Professional services fees</p>
+<p>				    72,592   53,013  203,011  147,664</p>
+<p>	  Total revenues     213,713  161,298  560,317  427,426</p>
+<p>OPERATING EXPENSES:</p>
+<p>Cost of software license</p>
+<p>    fees			   5,219    5,252   14,819   13,997</p>
+<p>   Cost of maintenance	 7,609    6,992   20,734   20,140</p>
+<p>Cost of professional</p>
+<p>    services		    64,208   45,067  180,074  126,535</p>
+<p>Software product</p>
+<p>    development		 11,516   10,173   33,716   32,184</p>
+<p>   Sales and marketing	66,061   51,304  178,639  145,008</p>
+<p>Administrative and general</p>
+<p>				    12,080   10,265   34,228   29,045</p>
+<p>Purchased research and</p>
+<p>    development			    24,943   21,790   24,943</p>
+<p>	  Total operating</p>
+<p>	   expenses	    166,693  153,996  484,000  391,852</p>
+<p> INCOME FROM OPERATIONS     47,020    7,302   76,317   35,574</p>
+<p> OTHER INCOME		    1,325    1,600    3,605    5,738</p>
+<p>INCOME BEFORE INCOME TAXES</p>
+<p>				    48,345    8,902   79,922   41,312</p>
+<p> INCOME TAX PROVISION	 16,099   11,269   28,319   22,063</p>
+<p> NET INCOME (LOSS)	    32,246  (2,367)   51,603   19,249</p>
+<p> INCOME (LOSS) PER SHARE	0.72   (0.06)     1.16     0.43</p>
+<p>Weighted average number of</p>
+<p>common and common equivalent</p>
+<p>   shares outstanding	 44,947   42,353   44,567   45,286</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARMINGTON HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

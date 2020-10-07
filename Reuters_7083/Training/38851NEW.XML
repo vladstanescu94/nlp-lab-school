@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38851" id="root" date="1996-09-06" xml:lang="en">
+<title>JAPAN: NTT says may take stake in satellite broadcaster.</title>
+<headline>NTT says may take stake in satellite broadcaster.</headline>
+<dateline>TOKYO 1996-09-06</dateline>
+<text>
+<p>Nippon Telegraph and Telephone Corp said on Friday that it was considering acquiring a stake in PerfecTV, a digital satellite broadcasting service company, through a NTT subsidiary.</p>
+<p>&quot;We're considering the possibility. A formal decision has not been made,&quot; a NTT spokesman said.</p>
+<p>The comment follows a NHK report on Friday that the NTT group would acquire a 2.9 percent stake in PerfecTV for 290 million yen, when it doubles its capital to 10 billion yen.</p>
+<p>Japanese law forbids telecommunications companies from entering into the broadcasting business. But the spokesman said entry though a subsidiary is permitted.</p>
+<p>PerfecTV, owned by Itochu Corp and three other trading companies, will launch Japan's first digital satellite broadcasting service in October.</p>
+<p>Japan Sky Broadcasting, owned by News Corp and Softbank Corp, may tie up with PerfecTV, News Corp chairman Rupert Murdoch said in Japan this week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

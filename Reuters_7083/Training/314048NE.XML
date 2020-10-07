@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="314048" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: Microsoft Corp Q2 earnings summary.</title>
+<headline>Microsoft Corp Q2 earnings summary.</headline>
+<text>
+<p>REDMOND, Wash., Jan 17 (Reuter)</p>
+<p>			Dec 31, 1996     Q2	Dec 31, 1995</p>
+<p> Shr			  $0.57		    $0.45</p>
+<p> Net			740,000		  575,000</p>
+<p> Revs		   2,680,000		2,195,000</p>
+<p> Avg shrs	     1,304,000		1,276,000</p>
+<p>					 6  MONTHS</p>
+<p> Shr			  $1.04		    $0.84</p>
+<p> Net		    1,354,000		1,074,000</p>
+<p> Revs		   4,975,000		4,211,000</p>
+<p> Avg shrs	     1,299,000		1,278,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Q2 and 6 months 1995 reflect a two-for-one stock split in December 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

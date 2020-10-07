@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138774" id="root" date="1996-10-23" xml:lang="en">
+<title>GERMANY: SAP tumbles in early bourse trade.</title>
+<headline>SAP tumbles in early bourse trade.</headline>
+<dateline>FRANKFURT 1996-10-23</dateline>
+<text>
+<p>Shares in German business software firm SAP AG started bourse dealings down nearly 21 percent on Wednesday, continuing their pre-bourse decline after an unexpected profit warning late on Tuesday.</p>
+<p>After a 25 minute delay during which no trades took place in the stock, SAP's preferred shares opened down 57.40 marks at 220 marks, slightly above a low of 210 marks hit in bourse trade.</p>
+<p>SAP's decline also dragged down the DAX index, which was down 16.72 points at 2,702.28 points at 0904 GMT, after starting the session slightly ahead before SAP's plunge kicked in.</p>
+<p>SAP's ordinary shares, which are not part of the blue chip DAX index, were down 58.20 marks at 219.20.</p>
+<p>The high-flying company stunned markets on Tuesday evening with an unexpectedly sharp slowdown in growth in the third quarter that forced the company to revise full-year forecasts.</p>
+<p>SAP revised down its 1996 revenue forecast to 3.5 billion marks from the 3.8 billion marks previously expected.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

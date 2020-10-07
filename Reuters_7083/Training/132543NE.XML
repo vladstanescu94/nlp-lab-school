@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132543" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: VMARK Software Q3 shr profit vs loss.</title>
+<headline>VMARK Software Q3 shr profit vs loss.</headline>
+<dateline>WESTBORO, Mass. 1996-10-22</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	profit $0.02	   loss   $0.13</p>
+<p> Net	profit 131	     loss   1,074</p>
+<p> Revs		16,688		   15,557</p>
+<p> Avg shrs	  8,363		    8,067</p>
+<p>	  Nine months</p>
+<p> Shr	profit	    nil     loss	 $0.52</p>
+<p> Net	profit	     35     loss	 4,150</p>
+<p> Revs			52,382		   51,160</p>
+<p> Avg shrs		   8,099		    7,984</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Full company name is VMARK Software Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTBORO, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

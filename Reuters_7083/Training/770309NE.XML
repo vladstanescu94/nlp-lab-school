@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="770309" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: Information Mgmt to offer 3 mln common shrs.</title>
+<headline>Information Mgmt to offer 3 mln common shrs.</headline>
+<dateline>CLEARWATER, Fla. 1997-07-31</dateline>
+<text>
+<p>Information Management Resources Inc said Thursday it sold three million shares of common stock at a price of $32.50 per share.</p>
+<p>Of the 3 million shares sold, 1,500,000 shares were sold by the company, 1,350,000 shares were sold by Satish Sanan, the company's chairman, chief executive officer and principal shareholder and 150,000 shares were sold by Jeffery Slowgrove, a director and the company's treasurer, a news release issued by the company said.</p>
+<p>Upon completion of the offering, Sanan and Slowgrove will beneficially own about 52.0 percent and 5.2 percent of the outstanding shares of the company, respectively, the company said.</p>
+<p>After the offering, the company will have about 16.7 million shares of common stock outstanding, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEARWATER, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

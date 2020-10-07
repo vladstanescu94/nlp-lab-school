@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319239" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: Apple's Claris unit Q1 revs up to $67 mln.</title>
+<headline>Apple's Claris unit Q1 revs up to $67 mln.</headline>
+<dateline>SANTA CLARA, Calif. 1997-01-20</dateline>
+<text>
+<p>Claris Corp, the wholly owned software subsidiary of Apple Computer Inc, said Monday that revenues for its fiscal first quarter totalled $67 million, up 12 percent from $59.7 million a year earlier.</p>
+<p>It said revenue grew year-over-year for Claris Windows software, Macintosh software, and Apple-brand software that Claris distributes and sells worldwide.</p>
+<p>It said Windows products accounted for more than 20 percent of Claris-brand revenue in the quarter, ended Dec 27.</p>
+<p>Growth was fueled by successful new software for Windows, Macintosh and Internet users, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

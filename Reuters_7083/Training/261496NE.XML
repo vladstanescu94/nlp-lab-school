@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261496" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: CBOE to list five options on Tuesday, Dec 24.</title>
+<headline>CBOE to list five options on Tuesday, Dec 24.</headline>
+<dateline>CHICAGO 1996-12-17</dateline>
+<text>
+<p>The Chicago Board Options Exchange (CBOE) said Tuesday it will list options on American Depositary Receipts (ADRs) of Korea Mobile Telecommunications Corp and four other stocks on Tuesday, December 24.</p>
+<p>The exchange said the other options will be on Bre-X Minerals Ltd, Scopus Technology Inc, UCAR International Inc and Vantive Corp.</p>
+<p>Korea Mobile options will have introductory expirations in January, February, March and June, with intial strike prices of 7-1/2, 10 and 12-1/2.  </p>
+<p>The designated primary market maker (DPM) will be Samuelson Trading Corp.</p>
+<p>Bre-X options will have initial expirations in January, February, May and August. Initial strikes have been set at 12-1/2, 15 and 17-1/2. Tower Trading LP will be the DPM.</p>
+<p>For Scopus Technology, the options will open with expirations in January, February, April and July and strike prices of 35, 40 and 45. Group One will be the DPM.  </p>
+<p>UCAR options will have introductory expirations in January, February, May and August. Opening strikes are set at 25, 30 and 35. The options will trade in the Sears, Roebuck and Co trading crowd.</p>
+<p>Options on Vantive Corp will have opening expirations in January, February, March and June. Initial strikes have been set at 22-1/2, 25 and 30. Genesis Trading Group LLC will be the DPM.</p>
+<p>((--Derivatives desk, 312 408 8750))</p>
+<p>((E-mail: derivatives@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

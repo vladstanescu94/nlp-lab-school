@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245555" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Bay Networks CEO sees flat earnings.</title>
+<headline>Bay Networks CEO sees flat earnings.</headline>
+<dateline>SAN FRANCISCO 1996-12-09</dateline>
+<text>
+<p>Bay Networks Inc's new chief executive officer, David House, said Monday he expects earnings will be flat or near flat until the company addresses some outstanding issues.</p>
+<p>House, appointed CEO in November, described some of those issues as lacking management methods because of Bay's roots as an entrepreneurial company, and ineffective marketing.</p>
+<p>In Bay's first fiscal quarter, which ended Sept 30, Bay earned operating earnings of $0.25 a share, excluding a charge that brought its net earnings to $0.03 a share. Analysts' mean estimate for Bay's earnings this quarter is $0.26 a share, on an operating basis.</p>
+<p>House, speaking to reporters after giving a presentation at the Montgomery Securities technology conference, said that Bay will likely make more acquisitions to add to its product line than it has in the past. He also said he did not at present see any product lines he would try to shed.</p>
+<p>&quot;Our problem is not one of scaling down, it is one of focus,&quot; he said.</p>
+<p>He told the Montgomery audience that he has spent his first 20 days in office listenting to customers and to employees, having launched two programs to do so.  </p>
+<p>House was recruited from Intel Corp where he was a senior executive for 13 years and an employee for 22.</p>
+<p>Speaking to an investor audience for the first time since becoming CEO, House said he is still trying to size up what problems there are at Bay Networks.</p>
+<p>Bay has been criticized, and its CEO replaced, after its earnings slipped in recent quarters or failed to grow, despite a torrid growth of the network equipment market.</p>
+<p>But House said some things were clear already. One was a lack of management methodology.</p>
+<p>&quot;This is a company without a management process,&quot; House said. &quot;It really lacks basic systems to control its future.&quot;</p>
+<p>Secondly, he said that marketing and branding have been insufficient to draw attention to Bay's strong technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

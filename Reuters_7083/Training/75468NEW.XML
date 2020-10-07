@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75468" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: IBM launches latest version of OS/2 Warp.</title>
+<headline>IBM launches latest version of OS/2 Warp.</headline>
+<byline>Barbara Grady</byline>
+<dateline>SAN FRANCISO</dateline>
+<text>
+<p>International Business Machines Corp. Wednesday launched the latest version of its OS/2 Warp computer operating system with voice recognition and an Internet browser built in.</p>
+<p>But analysts said IBM still had little chance of gaining share in the operating system market, dominated by Microsoft Corp.'s Windows.</p>
+<p>&quot;I don't think it will have any impact in the market place -- nobody cares about OS2/Warp,&quot; said analyst David Wu of First Chicago Corp. &quot;Too bad, because it is a good operating system, but it is too little, too late. The desktop battle is over, dead, burried.&quot;</p>
+<p>IBM executives ducked the question of whether version four of OS/2 Warp would grow IBM's share of the PC operating system market.</p>
+<p>&quot;We are all optimistic about what can happen,&quot; John W. Thompson, general manager of IBM's personal software products, said in an interview following an demonstration here to launch the new operating system. &quot;But our focus is on what our customers want, not the competition.&quot;</p>
+<p>IBM has an 9 percent share of the PC operating system market.</p>
+<p>IBM is widely viewed to have lost its clout in the PC operating system market in the late 1980s when it decided to go a separate way from its then partner Microsoft.</p>
+<p>Since then, Microsoft has about sewn up its hold on the PC operating system market with Windows, Windows 95 and Windows NT, with an 80 percent market share.</p>
+<p>OS/2 Warp version four is the first PC operating system on the market with an embedded Internet browser, Netscape Communication Corp.'s Navigator, the first to have built in voice recognition and the first to have embedded the Java Internet applications programming language.</p>
+<p>Those are attractive features; Java, the highly successful language developed by Sun Microsystems Inc., has become the standard for writing Internet applications.</p>
+<p>Voice recognition is a technology many have strived for years to develop to a usable state, and IBM's VoiceType technology seems to work quite accurately with regular speech.</p>
+<p>But Microsoft plans to embed Java support and an Internet browser -- its own Explorer -- in its next version of Windows expected out before the end of the year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

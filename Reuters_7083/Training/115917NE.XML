@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115917" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Sun sets lower user cost for its networks.</title>
+<headline>Sun sets lower user cost for its networks.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1996-10-15</dateline>
+<text>
+<p>Sun Microsystems Inc Chairman Scott McNealy said Sun expects its soon-to-be launched network systems to run at a low annual cost per seat of $5,000 for a 20,000-user network -- a figure it may eventually halve.</p>
+<p>The number is significant, as Sun prepares to announce a broad range of products based on its Java technologies on October 29, because executives have touted how this will reduce organizations' overall cost of owning computers.  </p>
+<p>McNealy told a conference call customers generally agree that the annual cost of running networks of personal computers currently works out to some $8,000 to $13,000 per desktop user.</p>
+<p>Sun and other proponents of scaled-down network computers, or NCs -- designed to be less expensive by making more efficient use of network resources -- argue these can be cheaper than PCs, whose design has been spearheaded by Intel Corp and Microsoft Corp.</p>
+<p>McNealy said the company plans to introduce its own product, which it prefers to call its &quot;thin client,&quot; along with a whole set of systems designed to implement its Java technology, at a New York briefing on October 29.</p>
+<p>The Sun Microsystems chief executive said the $5,000-per- year per-desktop figure was a calculation based on total costs of the equipment used under an internal trial by Sun, and that it includes costs of hardware depreciation and software amortization along with system administration fees.</p>
+<p>He said he eventually expects Sun could reduce its costs to half that figure, although not all customers might achieve the $2,500 level.</p>
+<p>&quot;We think we can cut that in half, to $2,500...,&quot; McNealy added, noting the company's objective of reducing the cost of administering desktops to zero.</p>
+<p>McNealy compared the costs of using networked personal computers currently to purchasing a car fo $40,000, then paying $200,000 to maintain it over subsequent years.</p>
+<p>-sam.perry@reuters.com, Palo Alto Bureau +415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

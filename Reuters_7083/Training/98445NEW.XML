@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98445" id="root" date="1996-10-06" xml:lang="en">
+<title>USA: Java software startup to unveil first products.</title>
+<headline>Java software startup to unveil first products.</headline>
+<dateline>NEW YORK 1996-10-06</dateline>
+<text>
+<p>Marimba Inc, a startup founded by four members of the team that developed the Java software language, will unveil Monday its first products to help create a CD-ROM-like experience on the Internet's World Wide Web.</p>
+<p>Marimba, based in Palo Alto, Calif., will unveil a set of tools and technologies called Castanet aimed at software developers so they can develop Internet applications similar to TV channels, which can be delivered upon request.  </p>
+<p>&quot;What this will do is eliminate the wait part of the World Wide Web, which is becoming the World Wide Wait,&quot; said Kim Polese, president of the privately-held company.</p>
+<p>Marimba was founded six months ago and is among the first companies to receive funding from the JavaFund, a venture fund started up by Silicon Valley venture capitalists Kleiner Perkins Caufield &amp; Byers and several technology firms.</p>
+<p>Marimba's software will let software developers create differentiated content and Internet applications with animation, audio, newsfeeds and simulations, all without requiring huge amounts of space on the network data &quot;pipes.&quot;  </p>
+<p>Castanet has a &quot;tuner&quot; and a &quot;transmitter.&quot; The transmitter resides on a network server and sends updates as requested by the tuner. This time-release of software doesn't clog up or slow down the network, because some required pieces of an application will always reside a PC user's hard disk drive.</p>
+<p>&quot;These applications and 'channels' can update themselves automatically, contacting the server at the provider's site,&quot; Polese said in a telephone interview. &quot;The applications can be stored on a user's disk. You are not loading them from across the Web everytime you use them.&quot;  </p>
+<p>Polese said that Castanet goes even further than other recent software that is downloaded while the user is offline, such as the PointCast network which transmits news to a PC and Freeloader. &quot;We enable software, not just sports scores, a whole game, a whole application,&quot; she said.</p>
+<p>Castanet can also simultaneously deploy software applications and updates to millions of users worldwide.  </p>
+<p>Channels developed using Castanet are complementary with standard Internet browsers, such as Netscape Communications Corp's Navigator and with Sun Microsystems Inc's Java Internet programming language and Java applications, so-called &quot;applets.&quot;</p>
+<p>Marimba said that many companies are considering using Castanet for developing applications, services and original Internet programming and content. Some companies include AT&amp;T Corp, Apple Computer Inc, HotWired, Netscape, Sun Microsystems, and MGM Interactive.  </p>
+<p>&quot;Marimba's technology will help Hollywood and the entertainment industry understand the full potential of the Internet as a distribution network for entertainment,&quot; said Ken Locker, executive vice president of MGM Interactive, in a statement. &quot;Castanet enables you to deliver high production value computer entertainment very effectively.&quot;</p>
+<p>A beta (test) version of Castanet is available immediately on Marimba's Web site and the final production version will be available at the end of 1996. The tuner software is free for non-commercial use. The transmitter package is $995, and supports 100 users per hour per channel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

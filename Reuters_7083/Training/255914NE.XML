@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255914" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Oracle says net income rose 31 percent.</title>
+<headline>Oracle says net income rose 31 percent.</headline>
+<dateline>REDWOOD SHORES, Calif.</dateline>
+<text>
+<p>Software maker Oracle Corp. said Thursday that its earnings for its fiscal second quarter rose 31 percent.</p>
+<p>Oracle said its profits rose to $179 million, or 27 cents a share, in its second quarter ended Nov. 30, from $137 million, or 20 cents a share, in the same quarter last year.</p>
+<p>Revenue rose 36 percent to $1.311 billion from $967 million a year ago.</p>
+<p>Oracle, the second largest software maker in the world, said that its software applications revenues soared 77 percent. Database software, its main product, slowed down its growth, gaining 24.4 percent over last year's revenues.</p>
+<p>While such growth is still strong, it compared with database revenue growth of 41 percent in the previous quarter and growth of 43.9 percent at this time last year.</p>
+<p>&quot;I would have been happier with higher database server revenue growth,&quot; said analyst Neil Herman of Salomon Brothers. That percentage growth might have been a couple points higher, Herman said, if it were not for unfavourable currency translations.</p>
+<p>Catherine Buan, Oracle's director of investor relations, said that while database sales were strong in the United States and Asia, they were weak in Europe.</p>
+<p>&quot;Business in the second quarter was different in different regions. Overall business was very good in the U.S. and Asia-Pacific,&quot; Buan said, adding that Europe dragged down total growth.</p>
+<p>Oracle reported its earnings after the close of the stock market. At the close Oracle shares were down 75 cents to $47.25 on Nasdaq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

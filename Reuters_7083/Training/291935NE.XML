@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="291935" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Apple seen getting a push from Marimba.</title>
+<headline>Apple seen getting a push from Marimba.</headline>
+<dateline>SAN FRANCISCO, Calif. 1997-01-06</dateline>
+<text>
+<p>Apple Computer Inc is due to embrace software developed by startup Marimba Inc. for use in distributing information and software upgrades across the Internet, industry sources said.</p>
+<p>Executives at Apple and Marimba were not immediately available for comment, but one of the sources said Apple Chief Executive Officer Gilbert Amelio was due to unveil a deal with Marimba as part of his Tuesday Macworld keynote here.</p>
+<p>Apple, which has been struggling to regain its financial footing, was reeling on Monday after its announcement over the weekend that it expects a loss of up to $150 million for its first fiscal quarter, far higher than had been expected.</p>
+<p>Apple shares tumbled 3-7/8 to close at 17-7/8.</p>
+<p>Investors and analysts expect Amelio on Tuesday to also reveal further details of Apple's operating system strategy following the recently-announced acquisition of NeXT Software, which was started by Apple co-founder Steve Jobs.</p>
+<p>Apple would join Netscape Communications Corp in endorsing Marimba's technology, which includes a Castanet tuner allowing computer users to subscribe to various content and applications which would then automatically be updated.  </p>
+<p>Kim Polese, chief executive of Marimba, has said the company was seeking to distribute its software broadly and does not therefore plan exclusive deals, hoping to establish deals with other top companies like Microsoft Corp.</p>
+<p>The Palo Alto-based startup was formed by Polese and three other members of Sun Microsystems Inc.'s Java development team and has venture backing from the Java Fund, in which Sun and other high-tech companies are investors.</p>
+<p>--sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

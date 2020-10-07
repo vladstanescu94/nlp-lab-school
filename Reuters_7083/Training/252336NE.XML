@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252336" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Oracle Corp Q2 Nov. 30 shr rises to $0.27.</title>
+<headline>Oracle Corp Q2 Nov. 30 shr rises to $0.27.</headline>
+<dateline>REDWOOD SHORES, Calif. 1996-12-12</dateline>
+<text>
+<p>1996	  Q2	    1995</p>
+<p> Shr primary		$0.27		    $0.20</p>
+<p> Net			179,496		  136,901</p>
+<p> Revs		   1,311,373		  967,184</p>
+<p> Avg shrs primary     675,949		  670,710</p>
+<p>					 6  MONTHS</p>
+<p> Shr primary		$0.43		    $0.28</p>
+<p> Net			292,267		  190,664</p>
+<p> Revs		   2,363,693		1,738,987</p>
+<p> Avg shrs primary     674,880		  670,244</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Six months 1995 includes a $50.9 million acquisition charge.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

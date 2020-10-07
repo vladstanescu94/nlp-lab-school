@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406449" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Citrix says Microsoft relationship &quot;strong&quot;.</title>
+<headline>Citrix says Microsoft relationship &quot;strong&quot;.</headline>
+<dateline>NEW YORK 1997-02-27</dateline>
+<text>
+<p>Citrix Systems Inc said it is continuing its cross-licensing talks with Microsoft Corp and its relationship &quot;remains strong&quot; with the software giant, which has one executive on Citrix's board.</p>
+<p>A Citrix spokeswoman said that Microsoft's plans to include multi-user capabilities in Windows NT is a &quot;positive&quot; endorsement of Citrix's technology and that talks continue for Microsoft to license the technology from Citrix.  But Microsoft is also considering developing the software itself.</p>
+<p>&quot;We feel positive that we will be able to come to an agreement on licensing of the multi-user technology,&quot; she said.  </p>
+<p>Citrix's shares lost over half their value after the company issued a statement late Wednesday, saying that as part of the ongoing cross-licensing talks, Microsoft told Citrix it is considering developing the technology internally or it may pursue alternative sources of the multi-user technology.</p>
+<p>&quot;The fact that Microsoft plans to include multi-user capabilities validates that our vision is right,&quot; the spokeswoman said.  &quot;We are legally bound to disclose what we feel is positive or negative material information and we believe there is a positive implication that can happen from Microsoft licensing out technlogy.&quot;  </p>
+<p>The spokeswoman said that Citrix believes it is the market leader with its WinFrame server software, which runs on Microsoft's Windows NT operating system and lets many users run Windows applications from anywhere on multiple devices.</p>
+<p>&quot;There is no other company that we are aware of that has been proven in the marketplace,&quot; she said when asked to whom Microsoft may be talking to as an alternate source of the technology.  &quot;We believe that if they were to develop it themselves, it would not happen overnight,&quot; she said.</p>
+<p>Citrix also said that it is confident it will reach an agreement to license Windows NT Version 4.0 from Microsoft.  </p>
+<p>&quot;There is no reach to believe that we won't be able to come to an agreement to license the 4.0 version of Windows NT,&quot; the spokeswoman said, adding that Citrix's licensing of the Windows NT 4.0 is a separate issue from their talks about Microsoft licensing Citrix's multi-user capabilities.</p>
+<p>Microsoft treasurer Greg Maffei is a member of Citrix's board of directors and Microsoft owns an equity stake of about six percent of Citrix.  Citrix was founded in 1989 by Edward Iacobucci, a former executive with International Business Machines Corp, where he was the leader of the development team of its OS/2 operating system for PCs.  </p>
+<p>Microsoft officials could not be immediately reached.</p>
+<p>Citrix did not provide any guidance on the potential fianancial ramifications if it did not license its technology to Microsoft.  When asked what portion of its total revenues of $15.6 in its most recent quarter were from the WinFrame server software, the spokeswoman said &quot;a significant portion,&quot; but she declined to give any specifics.</p>
+<p>&quot;Regardless of the outcome of the negotiations and regardless of the multi-user capability added to NT, there is still a hugely compelling proposition that WinFrame can continue to bring to the NT user environment,&quot; she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

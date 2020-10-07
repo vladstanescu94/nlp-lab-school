@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479316" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: PC-Quote auditors concerned about firm.</title>
+<headline>PC-Quote auditors concerned about firm.</headline>
+<dateline>CHICAGO 1997-04-01</dateline>
+<text>
+<p>PC Quote Inc, which is in talks with parties interested in acquiring or investing in its businesses, said its independent auditors have raised concerns about the company's ability to continue operating.</p>
+<p>The auditor's report, contained in a recent Securities and Exchange Commission filing, said PC Quote has experienced &quot;significant operating losses, which has adversely affected the company's current results of operations and liquidity.&quot;</p>
+<p>&quot;These conditions raise substantial doubt about the company's ability to continue as a going concern,&quot; the report said.  </p>
+<p>PC Quote provides real-time securities quotations and news.</p>
+<p>In the SEC filing, the company said its cash flow from operating activities declined to levels expected to be insufficient. In February, it hired William Blair &amp; Co as a financial consultant to explore ways to raise capital.</p>
+<p>&quot;Such a transaction might include a merger, a sale of substantially all or part of the company's assets, a strategic relationship or joint venture with another technology or financial service firm,&quot; PC Quote said in the filing.  </p>
+<p>In a statement issued late Monday, PC Quote said net losses for the fourth quarter and full-year 1996 were due to increased infrastructure expenses and Internet product start-up costs, as well as higher communications expenses and increased equipment leasing costs.</p>
+<p>Chairman Louis Morigan said the company had received a non-binding letter of intent from an investor and was in discussions with other potential investors for its Internet business.</p>
+<p>&quot;In addition, the company is in discussions with potential buyers or joint venture partners for our traditional business,&quot; Morgan said. &quot;While numerous discussions are occurring, there are currently no definitive agreements with respect to any transactions.&quot;</p>
+<p>Morgan said the company is focusing its operations in the coming year on growing Internet business opportunities.</p>
+<p>He said the potential buyers of PC Quote's traditional business have expressed intent to carry on the HyperFeed service. &quot;Additionally, potential buyers would grant the company the right to continue to use HyperFeed to power its Internet offerings,&quot; he said.</p>
+<p>((--Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

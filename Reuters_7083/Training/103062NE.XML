@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103062" id="root" date="1996-10-08" xml:lang="en">
+<title>INDIA: Road to ruin in India's Silicon Valley.</title>
+<headline>Road to ruin in India's Silicon Valley.</headline>
+<dateline>BANGALORE, India 1996-10-08</dateline>
+<text>
+<p>Hundreds of well-heeled executives and corporate chiefs blocked traffic near the southern Indian city of Bangalore on Tuesday to protest against potholes on a road that leads to India's &quot;Silicon Valley&quot;.</p>
+<p>Electronics City, about 18 km (12 miles) south of Bangalore, has spurred the growth of computer software firms and attracted investments by global computer companies, but the executives say its infrastructure is poor.</p>
+<p>&quot;We will be forced to shift operations because of the poor infrastructure. This is a symbolic protest and we want the government to wake up,&quot; said Riaz Tareen, president of the Electronics City Industrial Association.</p>
+<p>The Electronics City industrial complex was built by the Karnataka government state and includes satellite communication facilities to beam software exports to distant customers across the world -- but they ignored the roads.</p>
+<p>The executives warned there would be a flight of capital from Bangalore, Karnataka's capital, if the road was not repaired.</p>
+<p>&quot;The road has been under repair since 1992,&quot; said N.R. Narayana Murthy, chairman of Infosys Technologies, a leader in the computer software industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGALORE, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

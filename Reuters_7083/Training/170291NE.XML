@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170291" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Sapiens Q3 profit vs loss.</title>
+<headline>Sapiens Q3 profit vs loss.</headline>
+<dateline>RESEARCH TRIANGLE PARK, N.C. 1996-11-06</dateline>
+<text>
+<p>SAPIENS INTERNATIONAL CORPORATION N.V.	   (In</p>
+<p>thousands except per share amounts; unaudited)</p>
+<p>	Quarter Ended	 Nine Months Ended</p>
+<p>			   9/30/96  9/30/95(b)  9/30/96   9/30/95(b)</p>
+<p>Total revenues	    9,750   9,091	28,337     26,992</p>
+<p>Total cost of	     4,735   5,087	13,525     15,284</p>
+<p>revenues</p>
+<p>Gross profit		5,015   4,004	14,812     11,708</p>
+<p>Operating expenses:</p>
+<p>Research and		  696     746	 1,843	3,873</p>
+<p>development costs, net</p>
+<p>Selling, marketing,     4,109   4,851	12,401     15,996</p>
+<p>general and administrative</p>
+<p>Restructuring costs	   -   4,456	     -	4,456</p>
+<p>Total operating	   4,805  10,053	14,244     24,325</p>
+<p>expenses</p>
+<p>Operating income (loss)   210   (6,049)	  568    (12,617)</p>
+<p>Net income (loss)	  $252  $(6,319)    $(7,664)  $(13,237)</p>
+<p>Earnings/loss per share $0.00  $ (0.52)     $(0.69)  $(1.10)</p>
+<p>Weighted average shares</p>
+<p>outstanding		12,895  12,070	12,540   12,067</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESEARCH TRIANGLE PARK, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

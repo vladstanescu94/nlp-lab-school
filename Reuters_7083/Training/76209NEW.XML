@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76209" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Computervision to sell unit to J.F. Lehman.</title>
+<headline>Computervision to sell unit to J.F. Lehman.</headline>
+<dateline>BEDFORD, Mass. 1996-09-25</dateline>
+<text>
+<p>Computervision said it signed an agreement for the sale of its Open Service Solutions business to an investment group headed by J. F. Lehman &amp; Co for $125 million.</p>
+<p>On closing the transaction, the business will be conducted under the name of CV Services International Inc.  The sale is for $100 million in cash, $25 million in preferred stock in CV Services International Inc., and warrants to buy common shares representing 19 percent of CV Services International Inc.</p>
+<p>The company said the transaction furthers its strategic transformation to a software solutions company focused on the fast-growing Electronic Product Definition marketplace.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEDFORD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135185" id="root" date="1996-10-22" xml:lang="en">
+<title>SINGAPORE: Singapore scientists invent secure Internet system.</title>
+<headline>Singapore scientists invent secure Internet system.</headline>
+<dateline>SINGAPORE 1996-10-22</dateline>
+<text>
+<p>A group of Singapore scientists said on Tuesday they had invented a secure system for financial transactions on the Internet.</p>
+<p>The system would allow individuals and businesses to deal directly with banks via the worldwide computer network, said Lam Kwok Yan, spokesman for a group of researchers at the National University of Singapore (NUS).</p>
+<p>&quot;We have developed an infrastructure which allows people to have secure communications and financial transactions over the Internet,&quot; Lam, a senior computer science lecturer at NUS, told Reuters.</p>
+<p>He said the new system, developed by the NUS team in collaboration with several banks for Singapore at a cost of Singapore $500,000 (US$355,000), used smartcard technology which allowed the transmission of hidden digital signatures.</p>
+<p>Lam said the system, which uses Microsoft's Windows 95 operating system, should be fully completed and ready for use by sponsoring banks by March 1997.  </p>
+<p>Sponsors of the new system include Singapore's four large banks -- Development Bank of Singapore, Oversea-Chinese Banking Corp Ltd, Overseas Union Bank Ltd, United Overseas Bank Ltd -- as well as Singapore Telecommunications Ltd and Citicorp's Citibank.</p>
+<p>The &quot;cryptography&quot;, or secret writing, used by the system protected security codes from unauthorised access and prevented hacking. This allowed safe use of credit card data, he said.</p>
+<p>Lam said he hoped the system could be used in future for home banking or even for trading on the world's financial markets via the Internet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

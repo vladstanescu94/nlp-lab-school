@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="637039" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: Netscape plans more Netcaster beta tests.</title>
+<headline>Netscape plans more Netcaster beta tests.</headline>
+<dateline>MOUNTAIN VIEW, Calif. 1997-06-04</dateline>
+<text>
+<p>Netscape Communications Corp managers said Wednesday they plan to release its &quot;Netscaster&quot; push capabilities within roughly the next 30 days, after further beta testing.</p>
+<p>Mike Po, director of client product marketing at Netscape said the Internet software firm would like to complete further testing of Netcaster before it is released as a final product.</p>
+<p>This means its Communicator software will be released on June 11 without the new feature, which enables content providers to supply news and information updates to individuals across the Internet and corporate Intranets.</p>
+<p>Po said the company has received &quot;very very good, positive results&quot; from its developers release of Netcaster in mid-May and from a subsequent public beta release.</p>
+<p>But he said the company expects to run the software through at least two more testing cycles, taking about two weeks each, after the final version of Communicator ships next week.</p>
+<p>&quot;We expect to go through a couple more betas,&quot; he said.</p>
+<p>Po said the Netcaster capability will then be released as a free addition, or plug-in, to the Communicator software utilizing a so-called &quot;smart update component&quot; of Communicator which enables customers to update their software simply by clicking on an icon on their screens.</p>
+<p>Netscape said earlier it will be releasing Communicator, which combines the latest version of its Navigator browser with advanced e-mail and collaboration features,  and the final components of its SuiteSpot server software next week.</p>
+<p>The company's stock closed up 2-3/8 at 31-5/8 after the news. Some Wall Street analysts had raised concerns earlier in the year over whether Netscape would be able to ship its new software upgrades on schedule this quarter.</p>
+<p>Netscape and software giant Microsoft Corp have been dueling it out over standards for pushing content to desktop computers over the Internet.</p>
+<p>Both have been competing to sign up content providers to provide so-called &quot;channels&quot; -- based on a television metaphor -- for delivering their content to subscribers using the Netscape or Microsoft browser products as a starting point.</p>
+<p>Po would not comment directly on Microsoft's tactics, which Microsoft partners have said include requirements that they exclusively promote Microsoft's Internet Explorer for a period of time, but said this was not stalling Netscape's efforts.</p>
+<p>&quot;We're not having trouble getting content providers to write channels (using Netscape's Netcaster feature),&quot; he said.</p>
+<p>(sam.perry@reuters.com, in Palo Alto +1 415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283253" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: InfoCure Corp files for initial public offering.</title>
+<headline>InfoCure Corp files for initial public offering.</headline>
+<dateline>ATLANTA 1997-01-02</dateline>
+<text>
+<p>InfoCure Corp said on Thursday it filed a registration statement with the Securities and Exchange Commission for the proposed underwritten public offering of two million shares of common stock.</p>
+<p>Upon the effective date of the public offering, the company said it would acquire by merger all of the capital stock of American Medcare Corp.</p>
+<p>In addition, InfoCure said it would simultaneously acquire the capital stock of DR Software Inc, Healthcare Information Systems Inc, Rovak Inc and KComp Management Systems Inc.</p>
+<p>InfoCure said it intended to use the proceeds for payments due upon the completion of the acquisitions, repayment of outstanding debt, expenses related to the acquisitions, satisfaction of certain contracted obligations and for general corporate purposes.</p>
+<p>InfoCure, upon completion of the acquisitions, will develop, market and support practice management software products and related services primarily to medical practices.</p>
+<p>((--New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

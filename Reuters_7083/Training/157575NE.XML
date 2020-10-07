@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157575" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Oracle plans sales force reorganization.</title>
+<headline>Oracle plans sales force reorganization.</headline>
+<dateline>REDWOOD SHORES, Calif. 1996-10-31</dateline>
+<text>
+<p>Oracle Corp outlined Thursday a new market segmentation plan it said was designed to minimize competition between Oracle's direct sales force and its independent Alliance business partners program.  </p>
+<p>Oracle said its plans include refocusing the efforts of its direct sales force, creating three new segmented sales organizations, and developing and maintaining an open line of communication with its Alliance partner community.</p>
+<p>Oracle said the reorganization was designed to strengthen its partnering strategy in key areas so as to better enable customer implementation of complex networking technologies.</p>
+<p>&quot;Our partnering strategy is crucial to Oracle's growth plans and future business,&quot; said Ray Lane, Oracle's president and chief operating officer.  </p>
+<p>The new strategy will take about eighteen months to fully implement and the first steps in a series of partner initiatives have already begun, the company said.</p>
+<p>Oracle said it has segmented its direct sales force into three new organizations based on size and complexity of engagement.</p>
+<p>The first organization, is focused on large named customers in specific, global vertical markets, it said.</p>
+<p>The second group is dedicated to a set of regional accounts and will provide service and support through regional consulting and sales organizations.  </p>
+<p>For medium-sized customers, the third sales group will provide Oracle technology, systems integration and marketing support to its business partners who will take the lead in serving these customers instead of Oracle's own sales force.</p>
+<p>&quot;Oracle is working and will continue to work with partners to define the best ways to fully implement the new segmentation plans,&quot; said Polly Sumner, vice president of Oracle Worldwide Alliances.</p>
+<p>&quot;These changes to our business model are aggressive, so it's important that we keep open lines of communication with our Alliance partners.&quot;</p>
+<p>Oracle is the world's largest maker of the database software used to manage corporate information systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD SHORES, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

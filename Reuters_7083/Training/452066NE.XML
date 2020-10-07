@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="452066" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Hewlett CEO sees big Windows NT investment.</title>
+<headline>Hewlett CEO sees big Windows NT investment.</headline>
+<dateline>PALO ALTO, Calif. 1997-03-19</dateline>
+<text>
+<p>Hewlett-Packard Co Chairman and CEO Lewis Platt said Hewlett and Microsoft Corp will invest tens of milions of dollars in Windows NT as they try to cut the costs of owning personal computers.</p>
+<p>&quot;It is very, very substantial,&quot; he said, referring to a reporter's question about how much the two companies will be investing as a result of their agreement to deepen their alliance around Microsoft's Windows NT operating system.</p>
+<p>&quot;You can picture it as being tens of millions of dollars of activity, but I'm not going to quantify it&quot; more precisely, Platt said.  </p>
+<p>He did not specify a time frame for the investment.</p>
+<p>The closer alliance between Hewlett-Packard, the nation's second largest computer maker, and Microsoft, the world's largest independent software maker, aims to reduce the total cost of owning personal computers and align Hewlett-Packard's strategy toward Windows NT as a major operating platform.</p>
+<p>Hewlett-Packard said it has saved $200 million per year in its own desktop computing costs through effective internal deployment of a cost-saving PC-Common Operating Environment.  </p>
+<p>Hewlett-Packard cut its costs of owning and operating a PC to half the amount quoted in a Gartner Group study, Platt said, referring to a study last year which estimated annual costs at up to $12,000 each.</p>
+<p>Savings of around $6,000 per year would exceed the savings that rival Sun Microsystems Inc. has claimed can be made using its JavaStation version of the Network Computer -- estimated at around $2,500 a year.</p>
+<p>HP said it will be shipping a stripped-down version matching the NetPC specification spearheaded by Microsoft and Intel Corp.. The HP Net Vectra PC series is expected to be launched this summer starting at prices below $1,000.</p>
+<p>No estimate was given for how much the NetPC could further reduce per-seat costs of running networked computing devices.</p>
+<p>Analysts said estimated savings from both the NC computing model and from the scaled-down NetPC machines have yet to be demonstrated, and one said after the news briefing at HP headquarters here that some still question whether true PC ownership costs are as high as Gartner's projected maximum.</p>
+<p>(-sam.perry@reuters.com, Palo Alto Bureau +1 415 846 5400)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

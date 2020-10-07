@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90173" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Wall Data sees Q3 loss.</title>
+<headline>Wall Data sees Q3 loss.</headline>
+<dateline>KIRKLAND, Wash. 1996-10-02</dateline>
+<text>
+<p>Wall Data Inc said on Wednesday it  expects to report a loss in the range of $0.06 to $0.11 a share on estimated revenues of between $30 million and $31 million.</p>
+<p>The company attributed the lower than expected revenues compared with the immediately preceding quarter primarily to a significant decline in sales of its 16-bit Windows products, particularly in international markets.</p>
+<p>The maker of data management software products said sales of its newer 32-bit Windows 95/NT continued to increase worldwide both in absolute dollars and as a percentage of revenues compared with the prior quarter.</p>
+<p>Wall Data said in a statement it expects to report results for the quarter, ended September 30, on October 17.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIRKLAND, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

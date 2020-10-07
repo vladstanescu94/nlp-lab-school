@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251348" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Researcher warns of more Internet security flaws.</title>
+<headline>Researcher warns of more Internet security flaws.</headline>
+<dateline>NEW YORK 1996-12-12</dateline>
+<text>
+<p>A major security flaw exists in the Internet's World Wide Web, threatening the privacy of users passwords, credit card numbers and other secure information, a Princeton University professor asserts.</p>
+<p>Edward Felten, of Princeton Unversity's Safe Internet Programming Team, says that web surfers can be tricked into surrendering key information to computers &quot;spoofing&quot; their favorite sites.</p>
+<p>The story was originally released in Thurday's Boston Globe.</p>
+<p>Felten insists that a malicious web site can be created that nearly replicates an internet address and visual interface, thereby mirroring the site a user seeks.</p>
+<p>There, the unsuspecting user, when prompted, enters private information, which is recorded by the fake site, Felten says. Or, the user might download incorrect or virus-infected information to their computer.</p>
+<p>The flaw applies to all major Internet browsers, Felten says, including Netscape Communications Corp's Netscape Navigator and Microsoft Corp's Internet Explorer.</p>
+<p>Netscape and Microsoft were not immediately available to comment on the report.</p>
+<p>Felten and his Princeton team in March discovered a security flaw in Sun Microsystems' Java programming language that would have allowed a hacker to booby-trap a Web page and grab control over computers that connected to the site.</p>
+<p>Sun fixed the bug in the language, which was used in Netscape's Navigator.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

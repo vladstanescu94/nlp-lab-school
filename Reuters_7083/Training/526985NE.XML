@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526985" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: Interlink Computer Sciences Q3 net rises.</title>
+<headline>Interlink Computer Sciences Q3 net rises.</headline>
+<dateline>FREMONT, Calif. 1997-04-22</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				Three months ended  Nine months ended</p>
+<p>					 March 31,	   March 31,</p>
+<p>				     1997	1996     1997     1996</p>
+<p>					(unaudited)	 (unaudited)</p>
+<p>Revenues:</p>
+<p>  Product			$7,546    $5,282  $18,338  $13,196</p>
+<p>Maintenance and</p>
+<p>   consulting		   3,611     3,691   11,177   10,506</p>
+<p>    Total revenues	   11,157     8,973   29,515   23,702</p>
+<p>Cost of revenues:</p>
+<p>  Product			   564	 641    1,927    2,283</p>
+<p>Maintenance and</p>
+<p>   consulting		   1,139     1,171    3,585    3,319</p>
+<p>    Total cost of revenues  1,703     1,812    5,512    5,602</p>
+<p> Gross profit		   9,454     7,161   24,003   18,100</p>
+<p>Operating expenses:</p>
+<p>  Product development	 1,957     1,487    5,827    3,781</p>
+<p>  Sales and marketing	 4,142     3,422   10,400    8,960</p>
+<p>  General and administrative  958     1,202    2,977    2,990</p>
+<p>Purchased product</p>
+<p>   amortization		   127	 160	428   10,318</p>
+<p>  Total operating expenses  7,184     6,271   19,632   26,049</p>
+<p> Operating income (loss)    2,270	 890    4,371  (7,949)</p>
+<p>Interest and other income</p>
+<p>  (expense), net		 (87)     (261)	  1    (220)</p>
+<p>Income (loss) before</p>
+<p>provision for income taxes</p>
+<p>				    2,183	 629    4,372  (8,169)</p>
+<p>Provision for (benefit from)</p>
+<p>  income taxes		    851	 245    1,698    (146)</p>
+<p> Net income (loss)	   1,332	 384    2,674  ( 8,023)</p>
+<p>Net income (loss) per share</p>
+<p>				     0.16	0.08     0.36  ( 2.57)</p>
+<p>Shares used in per share</p>
+<p>  calculation		   8,331     5,016    7,348    3,125</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FREMONT, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22296" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Wiz auditors resign, no disagreements cited.</title>
+<headline>Wiz auditors resign, no disagreements cited.</headline>
+<dateline>SAN JUAN CAPISTRANO, Calif. 1996-08-29</dateline>
+<text>
+<p>Wiz Technology Inc said on Thursday that its independent auditor, Coopers &amp; Lybrand L.L.P., resigned as of August 21.</p>
+<p>The resignation did not stem from &quot;any disagreements with the auditing firm on any matter of accounting principles or practices, financial statement disclosure or auditing scope or procedures,&quot; said Mar-Jeanne Tendler, Wiz chairman and chief executive officer, in a statement.</p>
+<p>The company said it has conducted interviews with officials of other major auditing firms in recent days and expected to hire one of them soon.</p>
+<p>Wiz Technologies shares were off 14/16 to 4-9/16 Thursday afternoon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JUAN CAPISTRANO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

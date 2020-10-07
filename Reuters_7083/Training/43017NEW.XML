@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43017" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Netscape CEO asks execs to open Intranets.</title>
+<headline>Netscape CEO asks execs to open Intranets.</headline>
+<byline>Bob Tourtellotte</byline>
+<dateline>ANAHEIM, Calif. 1996-09-10</dateline>
+<text>
+<p>Jim Barksdale, Netscape Communications Corp's hard-driving chief executive, made a strong plea to executives Tuesday to open their corporate intranets to outsiders.</p>
+<p>After unveiling a new set of software tools on Monday under the name &quot;AppFoundry&quot;, Barksdale told executives the software can cut costs and improve customer service.</p>
+<p>The challenge is to &quot;build internal applications that can run inside a firewall and outside a firewall,&quot; Barksdale told audience members at the First Internet Commerce Expo, here.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANAHEIM, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

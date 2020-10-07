@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135911" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Allegro gets fairness opinions for merger.</title>
+<headline>Allegro gets fairness opinions for merger.</headline>
+<dateline>FAIRFIELD, N.J. 1996-10-23</dateline>
+<text>
+<p>Allegro New Media Inc said Wednesday that it has received favorable fairness opinions for its proposed merger with Software Publishing Corp.</p>
+<p>Allegro said Frost Capital Partners Inc and Unterberg Harris indicated that the proposed consideration of 0.26805 share of Allegro common for each Software Publishing share is fair to both companies and their stockholders.</p>
+<p>The fairness opinions were required for the merger to proceed, the company said.</p>
+<p>Allegro said it intends to close the merger on or about December 31.</p>
+<p>Separately, the company said it filed pro forma financial information with the Securities and Exchange Commission for Serif Inc and Serif (Europe) Ltd, which it acquired in July.</p>
+<p>For the unaudited six months ended June 30, pro forma combined revenues for Allegro, Serif Inc and Serif Europe were $4.6 million and net was a $5.5 million loss, Allegro said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

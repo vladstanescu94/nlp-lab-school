@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="465203" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: AMEX to list three new equity options on April 1.</title>
+<headline>AMEX to list three new equity options on April 1.</headline>
+<dateline>CHICAGO 1997-03-25</dateline>
+<text>
+<p>The American Stock Exchange plans to list options on American depositary receipts of Irish software company CBT Group Plc and shares of Cliffs Drilling Co and Florida Panthers Holdings Inc on April 1, the exchange said Tuesday.</p>
+<p>The CBT options will have initial strike prices of 40, 45 and 50, with expirations in April, May, August and November, AMEX said. Position limits are 4,500 contracts, and Spear, Leeds &amp; Kellogg will be the specialist unit.  </p>
+<p>Options in oil driller Cliffs Drilling will have strike prices of 50, 55 and 60, with expirations in April, May, August and November. Position limits are 7,500 contracts, and LETCO-Specialists LP will be the specialist unit.</p>
+<p>Options in Florida Panthers, which owns and operates the Florida Panthers professional ice hockey team, will have strikes of 25, 30 and 35, with expirations in April, May, July and October. Position limits are 7,500 contracts and Group One Trading LP will be the specialist.</p>
+<p>Chicago Derivatives Desk ((312-408-8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="I97911">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

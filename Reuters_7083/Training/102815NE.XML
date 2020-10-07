@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102815" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Open Market in AT&amp;T Internet deal.</title>
+<headline>Open Market in AT&amp;T Internet deal.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-10-08</dateline>
+<text>
+<p>Internet electronic commerce company Open Market Inc said on Tuesday it licensed its software to AT&amp;T Corp in a multi-year deal to support AT&amp;T Web site services.</p>
+<p>The deal confirms a story that appeared in the Boston Globe last week, which sent Open Market stock soaring from $14 to a peak of $25 on Nasdaq.  The shares were down $1-1/8 to 23-1/8 on today's confirmation.</p>
+<p>Open Market's OM-Transact software will be used by AT&amp;T, providing order management, online customer services, buyer authentication and flexible payment models.</p>
+<p>No financial details were given.</p>
+<p>&quot;Our decision to work with Open Market was based upon their innovative approach to secure Internet commerce and their early delivery of advanced technology,&quot; said Kathleen Earley, a vice president at AT&amp;T EasyCommerce Services. -- Nick Louth, New York Newsroom 212 859 1712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

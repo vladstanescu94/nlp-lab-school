@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583278" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Midisoft Corp Q1 loss narrows.</title>
+<headline>Midisoft Corp Q1 loss narrows.</headline>
+<dateline>ISSAQUAH, Wash. 1997-05-14</dateline>
+<text>
+<p>(Unaudited)</p>
+<p>							  Three Months</p>
+<p>							   March 31,</p>
+<p>							  1997	  1996</p>
+<p> Revenues					 $537,000     $512,000</p>
+<p> Cost of revenues				327,000	421,000</p>
+<p> Gross profit				    210,000	 91,000</p>
+<p>Operating expenses:</p>
+<p>   Sales and marketing			 539,000	660,000</p>
+<p>   General and administrative		384,000	583,000</p>
+<p>   Research and Development		  265,000	218,000</p>
+<p>     Total operating expenses	    1,188,000    1,461,000</p>
+<p> Operating loss				(978,000)  (1,370,000)</p>
+<p> Interest and other income/(expense)	 6,000	 45,000</p>
+<p> Net loss					(972,000)  (1,325,000)</p>
+<p> Net loss per share			     (0.18)	 (0.28)</p>
+<p> Weighted average shares outstanding   5,535,000    4,663,000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISSAQUAH, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="800202" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: TABLE - IMSI Q4 results.</title>
+<headline>TABLE - IMSI Q4 results.</headline>
+<dateline>SAN RAFAEL, Calif. 1997-08-13</dateline>
+<text>
+<p>Three Months Ended June 30,</p>
+<p>				    1997		    1996</p>
+<p> Net revenues		$11,447,166 100.0%$ 7,255,771 100.0%</p>
+<p> Product costs		 4,446,909  38.8%  2,338,399  32.2%</p>
+<p> Gross margin		  7,000,257  61.2%  4,917,372  67.8%</p>
+<p>Costs and expenses:</p>
+<p>   Sales and marketing     3,354,967  29.3%  2,716,261  37.4%</p>
+<p>General and administrative</p>
+<p>				     920,179   8.0%    649,694   9.0%</p>
+<p>Research and development</p>
+<p>				   1,247,341  10.9%  1,011,844  13.9%</p>
+<p>Total operating expenses</p>
+<p>				   5,522,487  48.2%  4,377,799  60.3%</p>
+<p> Operating income	    1,477,770  12.9%    539,573   7.4%</p>
+<p> Other expense		    73,965   0.6%     72,312   1.0%</p>
+<p> Income before taxes	 1,403,805  12.3%    467,261   6.4%</p>
+<p> Provision for income taxes  544,959   4.8%    178,048   2.5%</p>
+<p> Net income			858,846   7.5%    289,213   4.0%</p>
+<p>Net income per common and</p>
+<p>  common equivalent share	 0.15		  0.05</p>
+<p>Average common and common</p>
+<p>equivalent shares used to</p>
+<p>   compute earnings per share  5,805,225     5,424,265</p>
+<p>					   Twelve Months Ended June 30,</p>
+<p>				   1997		    1996</p>
+<p> Net revenues	     $41,839,795 100.0% $25,679,017 100.0%</p>
+<p> Product costs	     16,893,342  40.4%   8,261,583  32.2%</p>
+<p> Gross margin		24,946,453  59.6%  17,417,434  67.8%</p>
+<p>Costs and expenses:</p>
+<p>   Sales and marketing   12,025,941  28.7%   9,888,558  38.5%</p>
+<p>General and administrative</p>
+<p>				  3,987,747   9.5%   2,556,757  10.0%</p>
+<p>Research and development</p>
+<p>				  4,565,334  10.9%   3,170,937  12.3%</p>
+<p>Total operating expenses</p>
+<p>				 20,579,022  49.2%  15,616,252  60.8%</p>
+<p> Operating income	   4,367,431  10.4%   1,801,182   7.0%</p>
+<p> Other expense		  130,033   0.3%     262,374   1.0%</p>
+<p> Income before taxes	4,237,398  10.1%   1,538,808   6.0%</p>
+<p>Provision for income taxes</p>
+<p>				  1,640,895   3.9%     585,236   2.3%</p>
+<p> Net income		   2,596,503   6.2%     953,572   3.7%</p>
+<p>Net income per common and</p>
+<p>  common equivalent share	0.47		   0.18</p>
+<p>Average common and common</p>
+<p>equivalent shares used to</p>
+<p>   compute earnings per share  5,578,552     5,422,445</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN RAFAEL, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

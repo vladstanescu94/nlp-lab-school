@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191570" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Quote sells $2.5 mln in debenture.</title>
+<headline>Quote sells $2.5 mln in debenture.</headline>
+<text>
+<p>CHICAGO, Nov 15 (Reuter) PC Quote Inc said it had entered into an agreement with Physicians Insurance Co of Ohio to sell the insurer $2.5 million in convertible debenture.</p>
+<p>It said the insurer, which owns about 30 percent of PC Quote, would have the option to convert it into 1.25 million shares of PC Quote stock at $2 per share.</p>
+<p>PC Quote said it had also agreed to offer its other shareholders the right to purchase 1.25 million shares at the same $2 per share price.</p>
+<p>Following these two deals, it said its total number of common shares outstanding would increase to 9.8 million shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

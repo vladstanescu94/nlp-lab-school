@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="646170" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: GSE settles with 2 copyright defendants.</title>
+<headline>GSE settles with 2 copyright defendants.</headline>
+<dateline>COLUMBIA, Md. 1997-06-09</dateline>
+<text>
+<p>GSE Systems Inc said Monday settlement agreements have been reached with two of three defendants in the suit for copyright infringement and trade secret misappropriation filed in January by a GSE subsidiary, GSE Power Systems Inc.</p>
+<p>The settlements are with North Coast Software Inc and Yankee Atomic Electric Co, owned by Northeast Utilities, 38.5 percent; New England Electric System, 30.0 percent; Boston Edison Co and Central Maine Power Co, 9.5 percent each; Eastern Utilities Associates and Commonwealth Energy System Inc, 4.5 percent each; and Central Vermont Public Service Corp, 3.5 percent.  </p>
+<p>It said the settlement with Yankee Atomic was mutually beneficial, providing, among other things, that Yankee Atomic would have no further involvement with OpenSim. GSE dismissed its case against Yankee Atomic in April, the company noted.</p>
+<p>GSE's settlement with North Coast provides that North Coast shall cease selling, using, distributing, or supporting OpenSim.  That settlement was set forth in a consent order signed in April by the U.S. District Court in Maryland.  </p>
+<p>GSE said it intends to continue prosecution of the case against Ryan Nuclear so as to protect GSE's rights related to its proprietary simulation software.  It said Ryan Nuclear sells and distributes a version of OpenSim under the name &quot;OpenSim NT.&quot;</p>
+<p>GSE said it is also considering taking enforcement action against other parties that may have continuing involvement in the sale, distribution or use of OpenSim, OpenSim NT and other derivatives of GSE's proprietary software.&quot;</p>
+<p>GSE said it advised the court that other defendants involved with OpenSim may be added to the case against Ryan.  </p>
+<p>It said it further informed the court that new causes of action, in addition to the pending claims, may be asserted against Ryan and the other defendants based on information that has recently come to light.</p>
+<p>The court has established a January 1998 trial date for this matter, GSE said.</p>
+<p>It said the scheduling of the OpenSim case for trial early next year has led the company to advise the court it need not decide the infringement issues in connection with GSE's motion for preliminary injunction.</p>
+<p>Now that the case has been assigned to a new judge and the entire case has been set for trial in January, GSE explained, it believes the infringement issues associated with OpenSim will be decided in a reasonable time frame that also affords the opportunity to include other parties and claims in a single proceeding. ((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

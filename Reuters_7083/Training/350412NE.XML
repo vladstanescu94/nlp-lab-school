@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350412" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Dynamic Healthcare Q4 full results.</title>
+<headline>Dynamic Healthcare Q4 full results.</headline>
+<dateline>MAITLAND, Fla. 1997-02-03</dateline>
+<text>
+<p>SELECTED FINANCIAL DATA</p>
+<p>			Three Months Ended	  Year Ended</p>
+<p>				Dec. 31		   Dec. 31</p>
+<p>			  1995	    1996(1)    1995     1996(1)</p>
+<p>OPERATING REVENUES:</p>
+<p>Operating revenues:</p>
+<p>Computer system</p>
+<p>equipment sales</p>
+<p>   and support     $229,519 $1,162,836  $1,101,017 $3,629,396</p>
+<p>Application software</p>
+<p>   licenses	   191,491  2,484,355   2,428,928  5,098,538</p>
+<p>Software support</p>
+<p>			1,107,442  1,532,302   3,731,149  5,204,992</p>
+<p>Services and other</p>
+<p>			  642,998    852,811   1,625,242  2,637,282</p>
+<p>Total operating</p>
+<p>     revenues     2,171,450  6,032,304   8,886,336 16,570,208</p>
+<p>Operating expenses:</p>
+<p>Cost of products sold</p>
+<p>			  125,220  1,149,293     880,639  3,280,558</p>
+<p>Client services expense</p>
+<p>			  745,262  1,644,725   2,824,987  5,154,367</p>
+<p>Software development</p>
+<p>   costs		391,299    869,720   1,642,825  2,354,578</p>
+<p>Sales and marketing</p>
+<p>   costs		430,982  1,274,260   1,931,178  3,706,176</p>
+<p>General and administrative</p>
+<p>   expense	    388,958    681,131   1,768,005  2,217,987</p>
+<p>Total operating</p>
+<p>     expenses     2,081,721  5,619,129   9,047,634 16,713,666</p>
+<p>Operating income (loss)</p>
+<p>			   89,729    413,175   (161,298)  (143,458)</p>
+<p>Total other income</p>
+<p>  (expense)	  (45,227)    258,006   (351,325)     48,824</p>
+<p>Net earnings (loss)</p>
+<p>before income taxes</p>
+<p>			   44,502    671,181   (512,623)   (94,634)</p>
+<p> Income taxes - current  --	   --	    --	   --</p>
+<p>Net earnings (loss)</p>
+<p>			   44,502    671,181   (512,623)   (94,634)</p>
+<p>Net earnings (loss)</p>
+<p>available for common</p>
+<p>  shareholders(2)    19,658    671,181   (512,623)  (345,672)</p>
+<p>Net earnings (loss) per</p>
+<p>  common share	    .00	  .04	 (.08)	(.04)</p>
+<p>Weighted average number</p>
+<p>of common and common</p>
+<p>equivalent shares</p>
+<p>  outstanding     7,103,929  16,812,663  6,443,294  8,974,775</p>
+<p>1) Excludes non-recurring charge of $15 million for the quarter ended and year ended Dec. 31, 1996.  Impact of non-recurring charge is ($.96) per share fully diluted for the quarter and ($1.68) per share fully diluted for the year ended Dec. 31, 1996. 2) As adjusted from dividends accrued to preferred shareholders.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAITLAND, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

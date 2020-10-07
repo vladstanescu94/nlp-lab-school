@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478205" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Informix plunges on Q1 loss forecast.</title>
+<headline>Informix plunges on Q1 loss forecast.</headline>
+<dateline>MENLO PARK, Calif. 1997-04-01</dateline>
+<text>
+<p>Informix Corp shares fell as much as 42 percent Tuesday after the database software company said it expects to report a &quot;substantial&quot; first-quarter loss on revenue that will be far below what Wall Street was expecting.</p>
+<p>Shares of Informix, based in Menlo Park, Calif., plunged 4-1/2 to 10-5/8 in late morning trading. Earlier, the shares traded as low as 8-3/4, a three-year low.</p>
+<p>Informix blamed the loss on drastically weaker sales in all geographic regions and product lines. Analysts said Informix also is being squeezed by competitors.  </p>
+<p>&quot;They're getting crushed by Oracle Corp on the higher end and Microsoft Cor on the low end,&quot; said David Rothschild, managing director of brokerage Piper Jaffray.</p>
+<p>Informix writes computer programs, called databases, that store and retrieve huge amounts of information in corporate computer networks. In December, the company released a new version of its flagship product, Informix Universal Server, that can store not only text and numbers, like traditional databases, but also sound and pictures.  </p>
+<p>&quot;Universal Server is cool technology, but people don't go out to buy technology,&quot; Rothschild said.</p>
+<p>Slow adoption of Informix Universal Server could hamper Informix's revenues for the rest of the year, analysts said.</p>
+<p>Informix also faces heat from Oracle when the bigger rival introduces in June an updated version of its flagship database product, Oracle8.</p>
+<p>Informix told investors in a conference call Tuesday morning that the &quot;over-emphasis&quot; of marketing effort on its new generation of products kept the company from landing big customer accounts in the quarter.</p>
+<p>Informix expects first-quarter revenue of $130-$145 million, down from $204 million in the same quarter a year ago.</p>
+<p>The loss forecast for the quatter prompted at least two Wall Street analysts to lower their ratings on the stock to &quot;neutral&quot; or &quot;hold.&quot;</p>
+<p>((--Kourosh Karimkhany, in Palo Alto, 415 846 5401))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MENLO PARK, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

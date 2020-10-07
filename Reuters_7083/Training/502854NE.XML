@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="502854" id="root" date="1997-04-11" xml:lang="en">
+<title>USA: Executive says graphics to aid Internet commerce.</title>
+<headline>Executive says graphics to aid Internet commerce.</headline>
+<dateline>ATLANTA</dateline>
+<text>
+<p>Developments in computer graphics and real-time video will advance Internet commerce to the next level by offering consumers a tailored shopping experience, a software executive said Friday.</p>
+<p>Video &quot;does a much better job of grabbing your attention and certainly conveys an awful lot more information in 15 seconds than you're going to get with a banner ad that blinks at you,&quot; William Kelly, general counsel for Silicon Graphics, said in a keynote speech at the Internet Commerce Expo.</p>
+<p>Kelly said Internet sales offer the opportunity for one-to-one, personalized service and marketing. &quot;The best people in this business are using sound marketing practices and extending them to the Web, using the Web as an extension of their existing businesses,&quot; he said.</p>
+<p>Capturing customer preferences also makes their visit to a commercial Web site more &quot;useful and personal,&quot; Kelly said.</p>
+<p>Businesses trying to reach consumers through the Internet should drive customers to their site and engage them once they are there, Kelly said.</p>
+<p>He advised that businesses should gather customer information when consumers use a Web site and provide a safe and secure environment for commerce.</p>
+<p>Kelly also said people buying products through the Internet should be allowed to interact with other customers to foster a sense of community. The World Wide Web should also allow purchases and returns to be made as easily as possible, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

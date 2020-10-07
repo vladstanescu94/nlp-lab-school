@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260572" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Fourth Shift launches new software product.</title>
+<headline>Fourth Shift launches new software product.</headline>
+<dateline>MINNEAPOLIS 1996-12-17</dateline>
+<text>
+<p>Fourth Shift Corp said Tuesday that new front-end software for its Manufacturing Software System (MSS) is now available to its customers.</p>
+<p>The new Windows-like interface gives MSS users an enhanced tutorial system, customization options and more efficient navigation features, Fourth Shift said. MSS users currently enrolled in Fourth Shift's maintenance program will receive a free software upgrade to the new interface.</p>
+<p>Fourth Shift designs software for manufacturing industry.</p>
+<p>Its stock was down 1/8 Tuesday at 5-1/4.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117875" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: McAfee sees Q3 EPS $0.36 excluding charge.</title>
+<headline>McAfee sees Q3 EPS $0.36 excluding charge.</headline>
+<dateline>BALTIMORE 1996-10-15</dateline>
+<text>
+<p>McAfee Associates Inc said on Tuesday it expects third quarter revenues of about $47 million and earnings per share of $0.36, excluding acquisition-related charges.</p>
+<p>The company, which sells network security and management software for PC networks, said it will release complete third quarter results after the close of market on October 21.  </p>
+<p>&quot;We're pleased with preliminary third quarter results,&quot; said Bill Larson, McAfee president, chairman, and chief executive said in a statement.</p>
+<p>&quot;Although the third quarter is typically a soft quarter for most software vendors, we experienced accelerating growth across our family of network security and management solutions. Our balance sheet continued to be strong, with over $110 million in cash,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALTIMORE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327084" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Ross Systems Q2 shr profit $0.04 vs loss.</title>
+<headline>Ross Systems Q2 shr profit $0.04 vs loss.</headline>
+<dateline>ATLANTA 1997-01-23</dateline>
+<text>
+<p>ROSS SYSTEMS, INC. AND SUBSIDIARIES</p>
+<p>			(In thousands, except per share data)</p>
+<p>				 Three months ended  Six months ended</p>
+<p>					     December 31,  December 31,</p>
+<p>					1996	 1995    1996    1995</p>
+<p>Revenues:</p>
+<p>   Software product licenses $6,162    $5,602 $12,959 $10,136</p>
+<p>Consulting and other services</p>
+<p>					5,967     5,276  10,962   9,277</p>
+<p>   Maintenance		    6,426     6,111  12,704  12,066</p>
+<p> Total revenues		  18,555    16,989  36,625  31,479</p>
+<p>Operating expenses:</p>
+<p>Costs of software product</p>
+<p>     licenses			 855	 551   1,329     925</p>
+<p>Costs of consulting,</p>
+<p>maintenance and other</p>
+<p>     services		     6,927     5,905  13,326  12,482</p>
+<p>   Sales and marketing	  4,611     5,410   9,020  11,160</p>
+<p>   Product development	  2,937     3,046   6,103   6,136</p>
+<p> General and administrative   1,598     1,727   3,499   3,524</p>
+<p>Provision for uncollectible</p>
+<p>   accounts			   367	  79   1,021     161</p>
+<p> Amortization of other assets   160	  98     320     194</p>
+<p> Total operating expenses    17,455    16,816  34,618  34,582</p>
+<p> Operating earnings (loss)   1,100	 173   2,007  (3,103)</p>
+<p> Other expenses, net	    (201)     (368)   (390)   (671)</p>
+<p>Earnings (loss) before</p>
+<p>   income taxes		    899     (195)   1,617  (3,774)</p>
+<p> Income tax expense		  92	   7     314	19</p>
+<p> Net earnings (loss)		807     (202)   1,303 (3,793)</p>
+<p>Net earnings (loss) per common</p>
+<p>and common equivalent share</p>
+<p>					 0.04    (0.02)    0.07  (0.26)</p>
+<p>Shares used in per share</p>
+<p>   computation		   19,384    10,453  19,044  14,322</p>
+<p>Certain fiscal 1996 amounts have been reclassified to conform with the fiscal 1997 financial statement presentation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

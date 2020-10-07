@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317852" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: OpenVision Q2 shr rises to $0.05.</title>
+<headline>OpenVision Q2 shr rises to $0.05.</headline>
+<dateline>PLEASANTON, Calif. 1997-01-20</dateline>
+<text>
+<p>OpenVision</p>
+<p>	    Condensed Consolidated Statements of Operations</p>
+<p>		   (in thousands, except per share data)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					December 31,	December 31,</p>
+<p>				     1996     1995     1996     1995</p>
+<p>Net revenue:</p>
+<p> License			  $8,169  $5,443  $13,838    $8,838</p>
+<p> Service			   2,875   1,908    5,414     3,653</p>
+<p> Total net revenue	    11,044   7,351   19,252    12,491</p>
+<p>Cost of revenue:</p>
+<p> License			     618     376    1,152	 624</p>
+<p> Service			     651     551    1,227     1,111</p>
+<p> Total cost of revenue	 1,269     927    2,379     1,735</p>
+<p> Gross profit		    9,775   6,424   16,873    10,756</p>
+<p>Operating expenses:</p>
+<p> Selling and marketing	 5,335   3,678    9,695     7,057</p>
+<p> Research and development    2,384   1,486    4,533     2,930</p>
+<p> General and administrative  1,091   1,046    1,990     2,258</p>
+<p> Total operating expenses    8,810   6,210   16,218    12,245</p>
+<p>Income (loss) from operations</p>
+<p>					 965     214	655   (1,489)</p>
+<p> Other income (expense), net   345   (184)	771     (292)</p>
+<p>Income (loss) before income</p>
+<p>  taxes			    1,310	30    1,426   (1,781)</p>
+<p> Provision for income taxes    336    ----	336	----</p>
+<p> Net income (loss)		 974	30    1,090  ( 1,781)</p>
+<p>Pro forma net income (loss)</p>
+<p>  per share			 0.05    0.00     0.06   ( 0.11)</p>
+<p>Pro forma shares used in</p>
+<p>  per share calculations    19,723  15,773   19,633    15,773</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTON, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

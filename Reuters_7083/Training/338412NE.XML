@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="338412" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: 3Com, partners in end-to-end Internet plan.</title>
+<headline>3Com, partners in end-to-end Internet plan.</headline>
+<dateline>NEW YORK 1997-01-28</dateline>
+<text>
+<p>3Com Corp, International Business Machines Corp and Cascade Communications Corp said Tuesday they plan to back a common plan for enabling a new generation of advanced switches designed to break traffic bottlenecks on Internet-based networks.</p>
+<p>The trio, each leaders in key segments of the network equipment industry, said it plans to combine the respective technologies of 3Com, Cascade and IBM to speed up and insure better quality of service on corporate intranets and access to the public Internet.  </p>
+<p>In a news conference here, the companies said they plan to offer a coordinated set of end-to-end Internet-based switching systems capable of running across both local area and wide area networks beginning in the second half of 1997.</p>
+<p>Industry analysts consider the alliance of the three networking heavyweights an effort to gang up on Cisco Systems Inc, the widely-acknowledged network industry leader which has announced plans to offer a similar, but proprietary, end-to-end system known as tag switching.  </p>
+<p>Joining the three partners were a range of other networking equipment players including privately-held Ipsilon Networks Inc, which announced plans to make its own version of switching interoperable with products from 3Com, Cascade and IBM, and Novell Inc, a supplier of networking software.</p>
+<p>Internet Protocol switching has been offered in proprietary form from several vendors but has failed to generate an industry standard that could help relieve congestion on the Internet.</p>
+<p>The three companies said their plan lays the groundwork to enable a set of Quality of Service guarantees which would ensure that data intensive voice and video traffic receive priority delivery over communications networks.</p>
+<p>The partners said they plan to demonstrate the compatibility of their respective products at the Networld+InterOp trade show in Las Vegas in early May.</p>
+<p>((-- Eric Auchard, New York Newsdesk 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

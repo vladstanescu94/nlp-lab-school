@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="327101" id="root" date="1997-01-23" xml:lang="en">
+<title>USA: Vantive Q4 shr rises.</title>
+<headline>Vantive Q4 shr rises.</headline>
+<dateline>SANTA CLARA, Calif. 1997-01-23</dateline>
+<text>
+<p>The Vantive Corporation</p>
+<p>		   Condensed Consolidated Statement of Earnings</p>
+<p>			(in Thousands, Except Per Share Data)</p>
+<p>			Three Months Ended	Twelve Months Ended</p>
+<p>			    December 31,		December 31,</p>
+<p>			     1996     1995	   1996	  1995</p>
+<p>		   (unaudited)     (unaudited)</p>
+<p>Revenues</p>
+<p>  License fees	$13,410   $5,655	$41,513     $16,631</p>
+<p>  Services		7,602    3,067	 22,761	 8,404</p>
+<p> Total revenues	21,012    8,722	 64,274	25,035</p>
+<p>Costs of Revenues</p>
+<p>  Cost of licenses	125	 31	    392	   163</p>
+<p>  Cost of services    3,856    1,928	 12,185	 5,968</p>
+<p>Total cost of</p>
+<p>   revenues	     3,981    1,959	 12,577	 6,131</p>
+<p> Gross margin	  17,031    6,763	 51,697	18,904</p>
+<p>Operating Expenses</p>
+<p>Sales and marketing</p>
+<p>			    8,287    4,370	 24,676	11,582</p>
+<p>Research and</p>
+<p> development	    3,063	960	  7,339	 3,319</p>
+<p>General and</p>
+<p> administrative	 1,664	654	  5,389	 2,167</p>
+<p>Total operating</p>
+<p>   expenses	    13,014    5,984	 37,404	17,068</p>
+<p> Operating income     4,017	779	 14,293	 1,836</p>
+<p> Other income	     356	302	  1,286	   439</p>
+<p>Income before</p>
+<p>  income taxes	  4,373    1,081	 15,579	 2,275</p>
+<p>Provision for</p>
+<p>  income taxes	  1,312	112	  4,674	   232</p>
+<p> Net income	     3,061	969	 10,905	 2,043</p>
+<p>Net income</p>
+<p>  per share		0.12     0.04	   0.42	  0.09</p>
+<p>Shares used</p>
+<p>in per share</p>
+<p> computation	   26,250   25,448	 25,847	23,012</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA CLARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

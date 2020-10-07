@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="564164" id="root" date="1997-05-06" xml:lang="en">
+<title>NETHERLANDS: FOCUS-Reed-Elsevier sees boost from Microsoft link.</title>
+<headline>FOCUS-Reed-Elsevier sees boost from Microsoft link.</headline>
+<byline>Andrew Clark</byline>
+<dateline>AMSTERDAM 1997-05-06</dateline>
+<text>
+<p>Publishing group Reed-Elsevier and U.S. software giant Microsoft announced a strategic alliance on Tuesday, and the Anglo-Dutch group predicted it will bring major benefits for both sides.</p>
+<p>&quot;It is a linkage of the world's largest software provider and the world's largest content owner,&quot; Reed-Elsevier co-chairman Nigel Stapleton told Reuters in a telephone interview.</p>
+<p>&quot;And I think you would acknowlege the extent to which the future of information delivery is a closer and closer link between software and content.&quot;</p>
+<p>The five-year agreement, valued at around $30 million, enables Reed-Elsevier to use Microsoft Commercial Internet Systems (MCIS) for the future electronic distribution of its information products to customers.</p>
+<p>&quot;By working with them we fully expect to accelerate the rate at which we bring products to market. By working with us they expect their products will be more tailormade to the needs of what will be a major customer group for them,&quot; Stapleton said.</p>
+<p>&quot;Clearly we have a better knowlege of the scientific, professional and business information markets than they could ever hope to gain alone.&quot;</p>
+<p>The strategic aspects of the relationship will be reflected through several cooperative projects, Reed-Elsevier said.</p>
+<p>These include using Microsoft's Internet Explorer browser to access and manage Reed-Elsevier information via global or enterprise networks, it added.</p>
+<p>&quot;We have a lot of electronic technology capabilities following the acquisition of Lexis/Nexis, but in certain areas those capabilities need to be reinforced by means of technology partnerships,&quot; Stapleton said.</p>
+<p>Reed-Elsevier acquired database Lexis/Nexis -- which supplies legal, government and general information -- in 1994 and launched limited access to specific parts of the service via World Wide Web browsers late last year.</p>
+<p>Lexis/Nexis says its service is more than 20 times the size of the entire Web, containing some 875 million documents.</p>
+<p>Stapleton said the tie-up with Microsoft was not necessarily a move to shift access to the service away from current delivery through Lexis/Nexis's proprietary software.</p>
+<p>&quot;It will cover the whole gamut from Internet delivery, Intranet network-type delivery and the continuation of telecommunications network delivery, the Lexis/Nexis format.&quot;</p>
+<p>The deal is the latest of several by Microsoft, which has been aggressively pursuing key alliances with major players in defined sectors of the market for information.</p>
+<p>In April, the Seattle company announced a pact with financial information group Dow Jones for the development of new transactions and information systems aimed at financial institutions.</p>
+<p>&quot;Ours obviously covers a much wider product area and I think is a closer relationship in the product development sense,&quot; Stapleton said.</p>
+<p>&quot;I think Microsoft see it as a lot more than just selling more software, they see it as a way of ensuring the development path for MCIS is directed towards meeting the needs of a whole range of desktop users.&quot;</p>
+<p>Under the terms of the deal, Reed Elsevier will also use Microsoft Office and BackOffice desktop applications, the Windows NT Server network operating system and SQL Server technology to support its worldwide operations.</p>
+<p>Asked whether the initial five-year pact could be the start of an open-ended alliance, Stapleton said the initial period of commitment was already considerable by the standards of an extremely mutable industry.</p>
+<p>&quot;Five years in Web time is equivalent to, probably, several decades in ordinary calender time and that's why we felt that looking forward five years was a really long-term agreement in the software industry.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544203" id="root" date="1997-04-28" xml:lang="en">
+<title>USA: Expert to ship McDonaldLand computer games.</title>
+<headline>Expert to ship McDonaldLand computer games.</headline>
+<dateline>SAN FRANCISCO 1997-04-28</dateline>
+<text>
+<p>Expert Software Inc on Monday said it would begin shipping computer games based on McDonald Corp's characters in the third quarter.</p>
+<p>The McDonaldLand brand software is a key part of Expert's strategy to revive its sales growth, said Ken Currier, Expert's chief executive.</p>
+<p>Referring to McDonald's, Currier said: &quot;Their brand awareness among both parents and kids is going to help our revenue grow significantly.&quot; He was speaking to investors at the Hambrecht &amp; Quist Technology Conference in San Francisco.</p>
+<p>In January, Expert Software, a publisher of inexpensive computer games, said it would work with McDonald's to write games featuring Ronald McDonald, Grimace and the Early Bird.</p>
+<p>Currier said Expert would sell the products through its traditional distribution channels -- retail stores -- beginning in the third quarter.</p>
+<p>In recent quarters, Expert's revenue has shrunk because of increased competition for shelf space at retailers.</p>
+<p>((--Kourosh Karimkhany, in San Francisco, 415 269 6931))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

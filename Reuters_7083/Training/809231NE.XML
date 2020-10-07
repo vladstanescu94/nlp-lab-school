@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809231" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: Microsoft to release browser update Sept. 30.</title>
+<headline>Microsoft to release browser update Sept. 30.</headline>
+<dateline>SEATTLE 1997-08-19</dateline>
+<text>
+<p>Microsoft Corp. said Tuesday the final release of its Internet Explorer version 4.0 browser would be available for free download beginning Sept. 30.</p>
+<p>The announcement confirms previous comments from executives of the software giant, who have said the product would be available in September, several months after a comparable browser release from rival Netscape Communications Corp.</p>
+<p>Netscape controls about 75 percent of the browser market but has seen its market share drop over the past two years since Microsoft has targeted the area as a priority.</p>
+<p>In an effort to preserve its market position, Netscape this week reversed an earlier decision and said it would unbundle the latest version of its Navigator browser from the Communicator suite of business-related products.</p>
+<p>Microsoft said more than 1 million copies of the latest test, or beta, version of Internet Explorer were downloaded in the first 10 days of availability last month.</p>
+<p>Internet Explorer 4.0 initially will be available only for computers running the Windows 95 or Windows NT operating systems, although Microsoft has promised versions by the end of this year for the Windows 3.1 and Apple Computer Inc. Macintosh platforms.</p>
+<p>Microsoft said its new browser version is better integrated with the desktop operating system, allowing users to &quot;browse&quot; for information on the hard drive as well as over the Internet.</p>
+<p>Microsoft also has signed up several hundred content providers to offer news and information on &quot;channels&quot; built into the browser.</p>
+<p>Microsoft said it was making available a &quot;commemorative&quot; CD-ROM edition of the new browser for a handling fee of $4.95 within the United States in a promotion that includes more than $100 worth of offers from hardware, software and media companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

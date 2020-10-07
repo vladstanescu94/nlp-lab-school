@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112473" id="root" date="1996-10-12" xml:lang="en">
+<title>USA: Judge orders NYC to stop Fox, Bloomberg broadcasts.</title>
+<headline>Judge orders NYC to stop Fox, Bloomberg broadcasts.</headline>
+<byline>Carol Vinzant</byline>
+<dateline>NEW YORK 1996-10-11</dateline>
+<text>
+<p>A Manhattan federal judge ordered the City of New York late on Friday not to use its government access cn the Time Warner cable system to broadcast either Bloomberg News Service or News Corp Ltd's Fox News.</p>
+<p>The ruling was the latest in a series of legal tangles over the proposed merger of Time Warner Inc and Turner Broadcasting System Inc.</p>
+<p>At midnight on Thursday the city began broadcasting Bloomberg News on one of its nine channels designated by the federal Cable Act for Public, Educational or Government (PEG) use. It planned to start broadcasting Fox News at midnight on Friday.</p>
+<p>Time Warner Entertainment Co filed a lawsuit earlier on Friday to prevent the broadcasts, arguing the city was violating its free speech rights by forcing it to carry the stations.</p>
+<p>U.S. District Court Judge Denise Cote issued a temporary restraining order banning the news broadcasts on the PEG stations until after an Oct. 23 hearing for a preliminary or permanent injunction.</p>
+<p>&quot;The city used its right to control the programming on the PEG stations to effect decisions by the plaintiff on its commercial stations, which is expressly forbidden,&quot; the judge said.</p>
+<p>Richard Aurelio, the president of Time Warner's City Cable Group, said in an affidavit that the city had pressured him to run Fox News on its commercial stations first, at one point offering to swap a PEG station for a commercial station.</p>
+<p>The city did not dispute the affidavit, which also claims the city was motivated by the support and friendship Rupert Murdoch, the owner of Fox, gives to New York Mayor Rudolph Guiliani.</p>
+<p>Judge Cote ruled that it was the city's obligation to prove it would have acted the same way without an &quot;impermissible motive.&quot;</p>
+<p>The city had argued that the 24-hour Bloomberg news station, which does not air commercials, fit the city's objective of providing education and entertainment for its citizens.</p>
+<p>&quot;It is the mayor's job to educate people in this city,&quot; Assistant Corporation Counsel Lorna Goodman argued.</p>
+<p>However, the judge ruled the programming did not fit the description of government access programming.</p>
+<p>Time Warner, which holds city cable-television franchises serving 1.2 million New Yorkers, and Turner Broadcasting System are in the midst of a pending merger.</p>
+<p>News Corp, the owner of the new 24-hour Fox News Channel, has filed a lawsuit seeking to block it. News Corp alleges the merger would violate antitrust laws.</p>
+<p>News Corp also has accused Time Warner of backing out of a deal to carry its Fox News Channel at the behest of Ted Turner, the founder of Turner Broadcasting (TBS) and Cable News Network (CNN), a Fox competitor.</p>
+<p>Time Warner said it had talked with both Fox and MSNBC, a joint venture of General Electric Co's NBC unit and Microsoft Corp, about programming, but chose MSNBC for the present.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

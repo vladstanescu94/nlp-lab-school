@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58541" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Lockheed Martin gives DEC-Microsoft mail contract.</title>
+<headline>Lockheed Martin gives DEC-Microsoft mail contract.</headline>
+<dateline>MAYNARD, Mass. 1996-09-17</dateline>
+<text>
+<p>Digital Equipment Corp and Microsoft Corp said on Tuesday that they won a $13 million multiyear contract from Lockheed Martin Corp to provide a corporate-wide mail messaging system.</p>
+<p>DEC, as the prime contractor will receive $8 million from the deal which calls for installation to be complete by 1998 and servicing to run through 2001. Microsoft, as the subcontractor, will get $5 million, said DEC spokesman Peter Ward.  </p>
+<p>&quot;Following Lockheed's merger with Martin Marietta and acquisition of Loral Corp, the company faced a mix of mail systems with no common high-speed backbone,&quot; said Joseph Cleveland, president, Lockheed Martin Enterprise Information Systems. &quot;The new system will significantly reduce both our administrative costs and message delivery times.&quot;</p>
+<p>DEC vice president Sri Srikanth said in a telephone interview that the Lockheed contract &quot;is the proof point that this alliance with Microsoft is a success.&quot; DEC and Microsoft announced the formation of the Alliance for Enterprise Computing last year that would intergrate their technologies.</p>
+<p>Srikanth estimated the current market for mail messaging systems is $1.7 billion and is expected to grow to $6 billion over the next three years as companies with different messaging systems continue to merge and be acquired.</p>
+<p>&quot;We're going to be playing very, very aggressively in this marketplace,&quot; Srikanth said, adding the problem of having differing messaging sytems is not limited to either the public or private sectors.</p>
+<p>&quot;It is not really a very industry specific problem that our customers are facing. It's really any large customer who has a big communications network on multiple systems.&quot;</p>
+<p>-- Leslie Gevirtz, 617-367-4142</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAYNARD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

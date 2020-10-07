@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113393" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Cooper &amp; Chyan Technology Q3 net rises.</title>
+<headline>Cooper &amp; Chyan Technology Q3 net rises.</headline>
+<dateline>CUPERTINO, Calif. 1996-10-14</dateline>
+<text>
+<p>Quarter Ended     Nine Months Ended</p>
+<p>			Sep 30,     Sep 30,     Sep 30,     Sep 30,</p>
+<p>			  1996	  1995	  1996	  1995</p>
+<p>Revenue</p>
+<p>  License     $ 6,903,763 $ 4,361,704 $18,138,210 $10,735,585</p>
+<p>  Service	 2,532,858   1,799,924   7,542,007   5,284,006</p>
+<p> Total Revenue  9,436,621   6,161,628  25,680,217  16,019,591</p>
+<p>Costs and Expenses</p>
+<p>Cost of license</p>
+<p>   revenue	  437,188     240,193   1,226,884     885,160</p>
+<p>Cost of service</p>
+<p>   revenue	  229,088     186,679     662,056     465,001</p>
+<p>Research and</p>
+<p>   development  2,000,643   1,599,125   5,557,199   4,262,731</p>
+<p>Sales and</p>
+<p>   marketing    3,448,571   2,874,966  10,066,474   6,987,522</p>
+<p>General and</p>
+<p>administrative</p>
+<p>		    1,070,367     785,514   3,256,103   2,167,110</p>
+<p>Merger related</p>
+<p>   expenses	 400,000	    --     400,000	    --</p>
+<p>Contract dispute</p>
+<p>settlement expenses</p>
+<p>			350,000	    --     350,000	    --</p>
+<p>Total costs and</p>
+<p>  expenses	7,935,857   5,686,477  21,518,716  14,767,524</p>
+<p>Income from</p>
+<p>  operations    1,500,764     475,151   4,161,501   1,252,067</p>
+<p>Other income</p>
+<p>  (expense) net   251,690	24,224     788,138	44,929</p>
+<p>Income before</p>
+<p>provision for</p>
+<p>  income taxes  1,752,454     499,375   4,949,639   1,296,996</p>
+<p>Provision for</p>
+<p>  income taxes    573,136     188,000   1,686,597     463,393</p>
+<p> Net income     1,179,318     311,375   3,263,042     833,603</p>
+<p>Net income per</p>
+<p>  share		  0.08	  0.03	  0.23	  0.07</p>
+<p>Shares used in</p>
+<p>computing per</p>
+<p>share amounts</p>
+<p>		   14,698,099  11,990,110  14,418,872  11,917,611</p>
+<p>NOTE:  Re-stated to reflect the acquisition of UniCAD which has been accounted for as a pooling of interests.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

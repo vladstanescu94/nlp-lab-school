@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181436" id="root" date="1996-11-11" xml:lang="en">
+<title>HONG KONG: Welback 1995/96 net loss HK$30.53 mln.</title>
+<headline>Welback 1995/96 net loss HK$30.53 mln.</headline>
+<dateline>HONG KONG 1996-11-11</dateline>
+<text>
+<p>Year ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   12.80 Loss vs 0.53 gain</p>
+<p>    Dividend (H.K. cents)    nil	  vs nil</p>
+<p>    Exceptional items	  19.00 loss vs 5.38 loss</p>
+<p>    Net			    30.53 loss vs 1.26 profit</p>
+<p>    Turnover		     462.83     vs 503.34</p>
+<p>    Company name		 Welback Holdings Ltd</p>
+<p>    Books close		  December 10-16</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Welback Holdings is a hand-held video game maker.</p>
+<p>Exceptional items for 1996 comprise provision for stocks, trade debtors and related incidental expenses resulting from the group's decision to wind down its Indonesian operations.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- Hong Kong News Room (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

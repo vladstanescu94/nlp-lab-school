@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="491080" id="root" date="1997-04-07" xml:lang="en">
+<title>USA: Rational Software to buy Pure Atria for $839 million.</title>
+<headline>Rational Software to buy Pure Atria for $839 million.</headline>
+<byline>Kourosh Karimkhany</byline>
+<dateline>PALO ALTO, Calif. 1997-04-07</dateline>
+<text>
+<p>Rational Software Corp., expanding its expertise in offering software programming products, said Monday it agreed to buy rival Pure Atria Corp. in a stock deal initially valued at about $839 million.</p>
+<p>Both companies' stocks plunged, however, after Pure Atria said its first-quarter earnings would be far less than Wall Street expected because of the difficulty the company has had managing its own recent acquisitions. Rational could have the same difficulties, analysts said.</p>
+<p>&quot;We're looking at a lot of questions about why the hell Rational would do this when they appeared to be winning the war with Pure Atria anyway,&quot; said Kris Tuttle, analyst at Soundview Financial Group.</p>
+<p>Rational Software's stock fell $9.75, or 42 percent, to close at $13.625, while Pure Atria's stock fell $7.75, or 44 percent, to $10 on the Nasdaq. Both were among the most active on Nasdaq and both were the biggest percentage losers in U.S. trading.</p>
+<p>Under terms of the acquisition, Rational would pay 0.9 of its shares for each of Pure Atria's 39.92 million shares outstanding. Based on Rational's Friday closing stock price of $23.375, the transaction would be worth $839 million. Monday's stock slide slashed the deal's value by 42 percent to about $489 million.</p>
+<p>Both companies write development tools, a type of software that helps programmers write other software.</p>
+<p>Rational, based in Santa Clara, Calif., specialises in methodology tools, which help programmers design the skeleton of complex software projects. Pure Atria specialises in development and testing tools, which let programmers write and test chunks of software code.</p>
+<p>The acquisition would give Rational all the components a big developer would need to write commercial-quality software, said Stan Dolberg, director of software strategies of market researcher Forrester Research Inc.</p>
+<p>But Rational is placing its bets on rigid, industrial-strength development tools at an awkward time. Rational and other development tool vendors face a fundamental threat from Java, a programming language that is all the rage among Internet and computer networking software developers, who do not need such rigid tools.</p>
+<p>&quot;My suspicion is that there are a lot of developers waiting to see what happens with Java,&quot; said Catlin Wolfard, analyst at brokerage Arcadia Investment Corp. in Portland, Ore. &quot;Every stock chart in the development market is down, down, down this year&quot; because of lower earnings prospects as big development tool purchases are put off.</p>
+<p>Rational also is buying a company that has had a hard time managing its own acquisitions, analysts said. Pure Atria's trouble could now be Rational's, Andrew Roskill, analyst at Smith Barney, told the brokerage's clients Monday.</p>
+<p>Pure Atria, based in Sunnyvale, Calif., was formed last August when Atria Software Inc. bought Pure Software Inc. The companies still are struggling to meld their operations.</p>
+<p>Partly because of the difficult merger, Pure Atria said it expected first-quarter earnings to be between 2 cents to 4 cents a share, compared with 9 cents in the same quarter a year ago. Wall Street expected earnings of 12 cents, according to First Call, which tracks such estimates.</p>
+<p>Rational executives said they viewed this as the right time to buy Pure Atria. The acquisition will accelerate Rational's expansion into the testing market, said Jerry Rudisin, Rational's vice president of corporate marketing.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

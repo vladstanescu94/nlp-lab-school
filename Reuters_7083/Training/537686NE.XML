@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537686" id="root" date="1997-04-24" xml:lang="en">
+<title>JAPAN: Softbank - 96/97 parent results.</title>
+<headline>Softbank - 96/97 parent results.</headline>
+<dateline>TOKYO 1997-04-24</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		196.83		vs	  140.28</p>
+<p> Operating	    6.95		vs	    6.56</p>
+<p> Current	     23.41		vs	   13.08</p>
+<p> Net		   10.55		vs	    6.34</p>
+<p> EPS		  144.03 yen	  vs	  192.85 yen</p>
+<p> Diluted EPS	136.69 yen	  vs	  190.19 yen</p>
+<p> Shares	     79 million	  vs	  35 million</p>
+<p> Ord div	     20.00 yen	  vs	   15.00 yen</p>
+<p>NOTE - Softbank Corp is a wholesaler of PC software.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

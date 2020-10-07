@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116030" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Enterprise Systems offering priced.</title>
+<headline>Enterprise Systems offering priced.</headline>
+<dateline>WHEELING, Ill. 1996-10-15</dateline>
+<text>
+<p>Enterprise Systems Inc said Tuesday its 600,000 share direct placement offering was priced at $23.50 per share. It said the transaction is expected to be settled by October 18.</p>
+<p>Placement agents are Robertson, Stephens &amp; Co LLC and Wessels, Arnold &amp; Henderson LLC.</p>
+<p>Enterprise said it intends to use proceeds of this offering for general corporate purposes. Part of the proceeds also may be used for acquisitions or joint ventures.</p>
+<p>The company develops and markets products that assist healthcare providers in managing their operations.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHEELING, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

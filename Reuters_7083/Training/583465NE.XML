@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583465" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Philippine President Ramos to visit Oracle, buy NCs.</title>
+<headline>Philippine President Ramos to visit Oracle, buy NCs.</headline>
+<dateline>PALO ALTO, Calif. 1997-05-13</dateline>
+<text>
+<p>Philippine President Fidel Ramos plans to visit the headquarters of software giant Oracle Corp on Thursday to ask for help in setting up a national network based on network computers, a person close to the planned meeting said.</p>
+<p>Network computers, or NCs, are stripped-down computers that get their computing horsepower from corporate or public computer networks, such as the Internet.</p>
+<p>Oracle Chairman Larry Ellison, who runs the second-largest software company in the United States after Microsoft Corp., has been pitching the relatively cheap devices as the perfect way for less developed nations to quickly spread computer literacy.</p>
+<p>The source said on Tuesday that executives from the Philippine Long Distance Telephone Company will sign a memorandum of understanding that asks Oracle to help develop an NC-ready network for universities and, eventually, Philippine companies.</p>
+<p>The network will be based on software designed by Oracle.</p>
+<p>Oracle, based in Redwood Shores, Calif., specializes in writing database software, which stores and retrieves huge amounts of information on computer networks.</p>
+<p>Oracle itself does not make the NC hardware. Instead, the company sells the software that controls a network of NCs.</p>
+<p>Financial terms of the agreement were not immediately available.</p>
+<p>President Ramos has been touring California in recent days, promoting the Philippine as a stable place for investment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

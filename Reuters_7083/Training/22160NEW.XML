@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22160" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Citrix resumes WinFrame downloads.</title>
+<headline>Citrix resumes WinFrame downloads.</headline>
+<dateline>CORAL SPRINGS, Fla. 1996-08-29</dateline>
+<text>
+<p>Citrix Systems Inc said it has resumed WinFrame ActiveX downloads from Microsoft Corp's Internet Explorer 3.0 site, following the company's suspension of downloading the software due to data security concerns.</p>
+<p>The company had temporarily suspended downloads of the ICA ActiveX control from third party World Wide Web sites on the Internet because the company found that data security on Internet sites could be compromised, Citrix said.</p>
+<p>Citrix said the problem stemmed from some administrators of Web sites had not configured the WinFrame servers for optimal Internet security.</p>
+<p>Citrix said it is working with industry partners and customers on securing its WinFrame multi-user application servers.</p>
+<p>Microsoft and Citrix also published a technical note on the WinFrame Internet configuration. A toolkit that simplifies WinFrame security configuration is also being developed, Citrix said.</p>
+<p>WinFrame software acts as an extension of Microsoft Windows-NT servers by allowing Windows-NT based software to run on a range of computers not normally suited to run Windows NT itself, Citrix said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I3302020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CORAL SPRINGS, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

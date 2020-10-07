@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148192" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: BroadVision to roll out WebApps products.</title>
+<headline>BroadVision to roll out WebApps products.</headline>
+<dateline>LOS ALTOS, Calif. 1996-10-28</dateline>
+<text>
+<p>BroadVision Inc is expected on Monday to introduce One-to-One WebApps, a software family aimed at companies developing Web merchandising, self- service and content publishing applications.</p>
+<p>The Los Altos-based company will also announce the launch of Version 2 of its BroadVision One-to-One flagship application system, company executives said.</p>
+<p>Pehong Chen, president and chief executive of the company, said Version 2 enables companies to conduct business in much the same way as they do in face-to-face situations.  </p>
+<p>This includes listening, learning and interacting with customers, he said, adding BroadVision's products enable this to be done more effectively at a fraction of the cost of more traditional marketing methods.</p>
+<p>The company specializes in developing software that enables organizations to conduct one-to-one personalized business on the Internet's World Wide Web, focussing on top 1,000 companies around the globe.</p>
+<p>Robert Runge, vice president of marketing, said BroadVision, which completed its initial stock offering in June, has grown to 165 staff with 34 customers worldwide.  </p>
+<p>The software addresses issues of profiling, content management, matching and transactions, he added.</p>
+<p>The Version 2 of One-to-One benefits from cumulative engineering effort of more than 100 man-years, and has been beta-tested by eight customers in five countries, he added.</p>
+<p>The software -- which uses rules-based matching to generate content dynamically -- puts non-technical business management in direct control of specific &quot;command posts&quot; on a company's internal network, or intranet, or on the Internet.  </p>
+<p>One-to-One WebApps expands on the BroadVision platform to provide turnkey solutions for merchandising, content publishing and self-service.</p>
+<p>Michael Kennedy, senior director of product marketing, said they have been developed in conjunction with leading companies, such as catalog marketing firm Fingerhut Companies for merchandising; NetRadio, Marketing 1:1 and Silicon Graphics Inc for content publishing and Advanta Corp for self-service applications.</p>
+<p>Pricing for One-to-One WebApps starts at $30,000, in addition to the base price for BroadVision One-to-one V2, which starts at $60,000. The first version of One-to-One began delivery in December 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I3302021">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I6560003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ALTOS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
