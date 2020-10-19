@@ -12,3 +12,10 @@ def generateWordCountDictionary(words):
         else:
             dictionary[word] = 1
     return dictionary
+
+def generateGlobalWordsList(globalList, text):
+    for word in text:
+        if word in globalList:
+            continue
+        else:
+            globalList.append(word)

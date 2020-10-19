@@ -6,23 +6,19 @@ import contractions
 from nltk.corpus import stopwords
 from helpers import lowercaseWords, removeSymbolsAndNumbers, generateWordCountDictionary
 
-def tokenizeSentence(s):
-    return nltk.word_tokenize(s)
+def generateCountDictionaiesList(files):
+    dictionaries_list = []
 
-def removeContractions(words):
-    return [contractions.fix(word) for word in words]
+    for file in files:
+        root = file.getroot()
+        file_words = []
+        file_words += getTitleTagContent(root)
+        file_words += getTextTagContent(root)
+        file_dict = generateWordCountDictionary(file_words)
+        file_dict['FILE_ID'] = root.attrib['itemid']
+        dictionaries_list.append(file_dict)
 
-def removeStopWords(words):
-    stop_words = stopwords.words('english')
-    return [word for word in words if not word in stop_words]
-
-def generateWordList(s):
-    tokens = tokenizeSentence(s)
-    words = lowercaseWords(tokens)
-    words = removeContractions(words)
-    words = removeSymbolsAndNumbers(words)
-    words = removeStopWords(words)
-    return words
+    return dictionaries_list
 
 def getTitleTagContent(root):
     title_tag = root.find('title')
@@ -36,24 +32,22 @@ def getTextTagContent(root):
             text_content += generateWordList(p_tag.text)
     return text_content
 
-def generateGlobalWordsList(wordList, text):
-    for word in text:
-        if word in wordList:
-            continue
-        else:
-            wordList.append(word)
+def generateWordList(s):
+    tokens = tokenizeSentence(s)
+    words = lowercaseWords(tokens)
+    words = removeContractions(words)
+    words = removeSymbolsAndNumbers(words)
+    words = removeStopWords(words)
+    return words
 
-def generateCountDictionaies(globalList, files):
-    dictionaries_list = []
+def tokenizeSentence(s):
+    return nltk.word_tokenize(s)
 
-    for file in files:
-        root = file.getroot()
-        file_words = []
-        file_words += getTitleTagContent(root)
-        file_words += getTextTagContent(root)
-        generateGlobalWordsList(globalList, file_words)
-        file_dict = generateWordCountDictionary(file_words)
-        dictionaries_list.append(file_dict)
+def removeContractions(words):
+    return [contractions.fix(word) for word in words]
 
-    return dictionaries_list
+def removeStopWords(words):
+    stop_words = stopwords.words('english')
+    return [word for word in words if not word in stop_words]
+
 
