@@ -16,13 +16,6 @@ if __name__ == "__main__":
     for d in range(len(dictionaries_list)):
         pprint.pprint(dictionaries_list[d])
         print('----------------------------')
-    # pprint.pprint(dictionaries_list[0])
+        
     print("Number of files " + str(len(dictionaries_list)))
-    # ct = 0
-    # for d in dictionaries_list:
-    #     ct += len(d)
-    # print(ct)
-
-    # print(globalList)
-    # print(len(globalList))
     print("Words in global dictionary " + str(len(globalList)))
