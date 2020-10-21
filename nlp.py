@@ -11,14 +11,19 @@ def generateCountDictionaiesList(files):
 
     for file in files:
         root = file.getroot()
-        file_words = []
-        file_words += getTitleTagContent(root)
-        file_words += getTextTagContent(root)
+        file_words = getFileWords(root)
         file_dict = generateWordCountDictionary(file_words)
         file_dict['FILE_ID'] = root.attrib['itemid']
         dictionaries_list.append(file_dict)
 
     return dictionaries_list
+
+def getFileWords(root):
+    file_words = []
+    file_words += getTitleTagContent(root)
+    file_words += getTextTagContent(root)
+    return file_words
+
 
 def getTitleTagContent(root):
     title_tag = root.find('title')
