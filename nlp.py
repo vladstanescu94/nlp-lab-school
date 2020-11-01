@@ -1,11 +1,87 @@
-import nltk
 import contractions
 
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer 
-from helpers import lowercaseWords, removeSymbolsAndNumbers, generateWordCountDictionary
+from nltk import word_tokenize, pos_tag
+from nltk.corpus import stopwords, wordnet
+from nltk.stem import WordNetLemmatizer, PorterStemmer
+from helpers import lowercase_words, remove_symbols_and_numbers
 
-def generateTopicsDictionary(root):
+ps = PorterStemmer()
+lemmatizer = WordNetLemmatizer()
+stop_words = stopwords.words('english')
+stop_words.append('reuters')
+stop_words.append('Reuters')
+
+
+def get_file_words(root, lemmatize=False):
+    file_words = []
+    title_content = get_element_content_from_file(root, 'title')
+    text_content = get_element_content_from_file(root, 'p')
+    file_content = title_content + text_content
+    file_words += generate_word_list(file_content, lemmatize)
+    return file_words
+
+
+def get_element_content_from_file(root, element_name):
+    content = ""
+    for element in root.iter(element_name):
+        content += element.text
+    return content
+
+
+def generate_word_list(text, lemmatize):
+    clean_text = remove_contractions(text)
+    tokens = tokenize(clean_text)
+    lower_words = lowercase_words(tokens)
+    clean_words = remove_symbols_and_numbers(lower_words)
+    clean_words = remove_stop_words(clean_words)
+    if lemmatize:
+        words = lemmatize_words(clean_words)
+    else:
+        words = stem_words(clean_words)
+    return words
+
+
+def remove_contractions(text):
+    return contractions.fix(text)
+
+
+def tokenize(text):
+    return word_tokenize(text)
+
+
+def remove_stop_words(words):
+    return [word for word in words if not word in stop_words]
+
+
+def lemmatize_words(words):
+    lematized_words = []
+    tags = pos_tag(words)
+
+    for word, tag in tags:
+        lematized_words.append(lemmatizer.lemmatize(
+            word, pos=get_wordnet_pos(tag)))
+
+    return lematized_words
+
+
+def stem_words(words):
+    return [ps.stem(word) for word in words]
+
+
+def get_wordnet_pos(treebank_tag):
+    if treebank_tag.startswith('J'):
+        return wordnet.ADJ
+    elif treebank_tag.startswith('V'):
+        return wordnet.VERB
+    elif treebank_tag.startswith('N'):
+        return wordnet.NOUN
+    elif treebank_tag.startswith('R'):
+        return wordnet.ADV
+    else:
+        return wordnet.NOUN
+
+
+def generate_topics_dictionary(root):
     file_data = {}
     file_data['FILE_ID'] = root.attrib['itemid']
     file_topics = []
@@ -15,43 +91,3 @@ def generateTopicsDictionary(root):
                 file_topics.append(child.attrib['code'])
     file_data['FILE_TOPICS'] = file_topics
     return file_data
-
-def getFileWords(root):
-    file_words = []
-    title_content = getElementContentFromFile(root, 'title')
-    text_content = getElementContentFromFile(root, 'p')
-    file_content = title_content + text_content
-    file_words += generateWordList(file_content)
-    return file_words
-
-def getElementContentFromFile(root, elementName):
-    content = ""
-    for element in root.iter(elementName):
-       content += element.text
-    return content
-
-def generateWordList(text):
-    clean_text = removeContractions(text)
-    tokens = tokenizeText(clean_text)
-    lower_words = lowercaseWords(tokens)
-    clean_words = removeSymbolsAndNumbers(lower_words)
-    clean_words = removeStopWords(clean_words)
-    return clean_words
-
-def removeContractions(s):
-    return contractions.fix(s)
-
-def tokenizeText(s):
-    return nltk.word_tokenize(s)
-
-def removeStopWords(words):
-    stop_words = stopwords.words('english')
-    stop_words.append('reuters')
-    stop_words.append('Reuters')
-    return [word for word in words if not word in stop_words]
-
-def lemmatizeWords(words):
-    lemmatizer = WordNetLemmatizer()
-    return [lemmatizer.lemmatize(word) for word in words]
-
-
