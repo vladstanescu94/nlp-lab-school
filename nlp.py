@@ -12,12 +12,12 @@ stop_words.append('reuters')
 stop_words.append('Reuters')
 
 
-def get_file_words(root, lemmatize=False):
+def get_file_words(root, stemming=False):
     file_words = []
     title_content = get_element_content_from_file(root, 'title')
     text_content = get_element_content_from_file(root, 'p')
     file_content = title_content + text_content
-    file_words += generate_word_list(file_content, lemmatize)
+    file_words += generate_word_list(file_content, stemming)
     return file_words
 
 
@@ -28,16 +28,16 @@ def get_element_content_from_file(root, element_name):
     return content
 
 
-def generate_word_list(text, lemmatize):
+def generate_word_list(text, stemming):
     clean_text = remove_contractions(text)
     tokens = tokenize(clean_text)
     lower_words = lowercase_words(tokens)
     clean_words = remove_symbols_and_numbers(lower_words)
     clean_words = remove_stop_words(clean_words)
-    if lemmatize:
-        words = lemmatize_words(clean_words)
-    else:
+    if stemming:
         words = stem_words(clean_words)
+    else:
+        words = lemmatize_words(clean_words)
     return words
 
 
@@ -71,14 +71,13 @@ def stem_words(words):
 def get_wordnet_pos(treebank_tag):
     if treebank_tag.startswith('J'):
         return wordnet.ADJ
-    elif treebank_tag.startswith('V'):
+    if treebank_tag.startswith('V'):
         return wordnet.VERB
-    elif treebank_tag.startswith('N'):
+    if treebank_tag.startswith('N'):
         return wordnet.NOUN
-    elif treebank_tag.startswith('R'):
+    if treebank_tag.startswith('R'):
         return wordnet.ADV
-    else:
-        return wordnet.NOUN
+    return wordnet.NOUN
 
 
 def generate_topics_dictionary(root):

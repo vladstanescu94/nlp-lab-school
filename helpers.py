@@ -1,3 +1,6 @@
+import bisect
+
+
 def lowercase_words(words):
     return [word.lower() for word in words]
 
@@ -20,4 +23,5 @@ def generate_global_words_list(global_list, text):
     for word in text:
         if word in global_list:
             continue
-        global_list.append(word)
+        # global_list.append(word)
+        bisect.insort(global_list, word)
