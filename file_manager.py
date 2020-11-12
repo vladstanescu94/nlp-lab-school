@@ -32,8 +32,10 @@ def write_data_to_arrf_file(filename, global_list, distinct_topics, vector_space
     file_writter.write("\n")
 
     for index, entry in enumerate(vector_space_matrix):
-        for instance in entry:
-            file_writter.write(f'{instance[0]}:{instance[1]},')
+        for i, instance in enumerate(entry):
+            if instance == 0:
+                continue
+            file_writter.write(f'{i}:{instance},')
         file_writter.write(' # ')
         topics = topics_list[index]['FILE_TOPICS']
         for topic in topics:

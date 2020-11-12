@@ -31,28 +31,27 @@ if __name__ == "__main__":
     print("Number of files " + str(len(dictionaries_list)))
     print("Words in global dictionary " + str(len(global_list)))
 
-    distinct_topics = []
+    distinct_topics = set()
 
     for topic_entry in topics_list:
         topics = topic_entry['FILE_TOPICS']
         for topic in topics:
-            if topic in distinct_topics:
-                continue
-            distinct_topics.append(topic)
+            distinct_topics.add(topic)
 
     vector_space_matrix = []
 
     for dictionary in dictionaries_list:
         file_vector = []
         for word in global_list:
-            if word in dictionary:
-                file_vector.append(dictionary[word])
-            else:
+            if word not in dictionary:
                 file_vector.append(0)
+                continue
+            file_vector.append(dictionary[word])
+
         vector_space_matrix.append(file_vector)
 
-    # write_data_to_arrf_file("data.arrf", global_list,
-    #                         distinct_topics, vector_space_matrix, topics_list)
+    write_data_to_arrf_file("data.arrf", global_list,
+                            distinct_topics, vector_space_matrix, topics_list)
 
-    matrix = np.array(vector_space_matrix)
-    print(matrix.shape)
+    # matrix = np.array(vector_space_matrix)
+    # print(matrix.shape)
