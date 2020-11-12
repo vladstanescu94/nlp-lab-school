@@ -29,16 +29,16 @@ def get_element_content_from_file(root, element_name):
 
 
 def generate_word_list(text, stemming):
-    clean_text = remove_contractions(text)
-    tokens = tokenize(clean_text)
-    lower_words = lowercase_words(tokens)
-    clean_words = remove_symbols_and_numbers(lower_words)
-    clean_words = remove_stop_words(clean_words)
+    text_no_contractions = remove_contractions(text)
+    tokens = tokenize(text_no_contractions)
+    words_lower = lowercase_words(tokens)
+    words_no_symbols = remove_symbols_and_numbers(words_lower)
+    words_no_stopwords = remove_stop_words(words_no_symbols)
     if stemming:
-        words = stem_words(clean_words)
+        words_clean = stem_words(words_no_stopwords)
     else:
-        words = lemmatize_words(clean_words)
-    return words
+        words_clean = lemmatize_words(words_no_stopwords)
+    return words_clean
 
 
 def remove_contractions(text):
