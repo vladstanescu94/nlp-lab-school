@@ -3,7 +3,6 @@ import contractions
 from nltk import word_tokenize, pos_tag
 from nltk.corpus import stopwords, wordnet
 from nltk.stem import WordNetLemmatizer, PorterStemmer
-from helpers import lowercase_words, remove_symbols_and_numbers
 
 ps = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
@@ -49,6 +48,14 @@ def tokenize(text):
     return word_tokenize(text)
 
 
+def lowercase_words(words):
+    return [word.lower() for word in words]
+
+
+def remove_symbols_and_numbers(words):
+    return [word for word in words if word.isalpha()]
+
+
 def remove_stop_words(words):
     return [word for word in words if not word in stop_words]
 
@@ -80,13 +87,10 @@ def get_wordnet_pos(treebank_tag):
     return wordnet.NOUN
 
 
-def generate_topics_dictionary(root):
-    file_data = {}
-    file_data['FILE_ID'] = root.attrib['itemid']
+def get_file_topics(root):
     file_topics = []
     for codes in root.iter('codes'):
         if codes.attrib['class'] == "bip:topics:1.0":
             for child in codes:
                 file_topics.append(child.attrib['code'])
-    file_data['FILE_TOPICS'] = file_topics
-    return file_data
+    return file_topics
