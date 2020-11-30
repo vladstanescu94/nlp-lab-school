@@ -1,57 +1,44 @@
-import numpy as np
-import random
+import os
+import bisect
 
 from config_constants import PATH_MINI
-from file_manager import parse_xml_files, write_data_to_arrf_file
-from nlp import generate_topics_dictionary, get_file_words
-from helpers import generate_global_words_list, generate_word_count_dictionary
-from sklearn import metrics
+from file_data import FileData
+from xml_manager import parse_xml_files
+from file_manager import write_data_to_arrf_file
+from nlp import get_file_words, get_file_topics
 
-global_list = []
 
-if __name__ == "__main__":
-    dictionaries_list = []
-    topics_list = []
-
-    files = parse_xml_files(PATH_MINI)
+def main():
+    files = parse_xml_files(os.path.abspath(PATH_MINI))
+    no_examples = len(files)
+    global_list = []
+    file_data_list = []
 
     for file in files:
         root = file.getroot()
-        file_words = get_file_words(root)
 
-        file_dict = generate_word_count_dictionary(file_words)
-        file_dict['FILE_ID'] = root.attrib['itemid']
-        dictionaries_list.append(file_dict)
+        file_id = root.attrib['itemid']
+        file_words = get_file_words(root, stemming=False)
 
-        file_topics = generate_topics_dictionary(root)
-        topics_list.append(file_topics)
-
-        generate_global_words_list(global_list, file_words)
-
-    print("Number of files " + str(len(dictionaries_list)))
-    print("Words in global dictionary " + str(len(global_list)))
-
-    distinct_topics = set()
-
-    for topic_entry in topics_list:
-        topics = topic_entry['FILE_TOPICS']
-        for topic in topics:
-            distinct_topics.add(topic)
-
-    vector_space_matrix = []
-
-    for dictionary in dictionaries_list:
-        file_vector = []
-        for word in global_list:
-            if word not in dictionary:
-                file_vector.append(0)
+        for word in file_words:
+            if word in global_list:
                 continue
-            file_vector.append(dictionary[word])
+            bisect.insort(global_list, word)
 
-        vector_space_matrix.append(file_vector)
+        topics = get_file_topics(root)
+        file_data = FileData(file_id, file_words, topics)
+        file_data_list.append(file_data)
+
+    for file_data in file_data_list:
+        file_data.generate_file_data(global_list)
+
+    print(f"Number of files {no_examples} ")
+    print(f"Words in global dictionary {len(global_list)}")
+    print(len(file_data_list[0].vector_representation))
 
     write_data_to_arrf_file("data.arrf", global_list,
-                            distinct_topics, vector_space_matrix, topics_list)
+                            file_data_list)
 
-    # matrix = np.array(vector_space_matrix)
-    # print(matrix.shape)
+
+if __name__ == "__main__":
+    main()
