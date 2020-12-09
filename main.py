@@ -1,11 +1,12 @@
 import os
 import bisect
 
-from config_constants import PATH_MINI
+from config_constants import PATH_MINI, PATH_FULL
 from file_data import FileData
 from xml_manager import parse_xml_files
 from file_manager import write_data_to_arrf_file
 from nlp import get_file_words, get_file_topics
+from file_data_manager import FileDataManager
 
 
 def main():
@@ -32,13 +33,17 @@ def main():
     for file_data in file_data_list:
         file_data.generate_file_data(global_list)
 
+    file_data_manager = FileDataManager(file_data_list)
+    file_data_manager.clean_topics()
+
     print(f"Number of files {no_examples} ")
     print(f"Words in global dictionary {len(global_list)}")
-    print(len(file_data_list[0].vector_representation))
 
-    write_data_to_arrf_file("data.arrf", global_list,
-                            file_data_list)
+    # write_data_to_arrf_file("data.arrf", global_list,
+    #                         file_data_manager)
 
 
 if __name__ == "__main__":
+    print("Starting arff generator\n")
     main()
+    print("Job Done\n")

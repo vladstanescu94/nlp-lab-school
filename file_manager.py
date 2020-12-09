@@ -1,9 +1,11 @@
-def write_data_to_arrf_file(filename, global_list, file_data_list):
-    distinct_topics = set()
+def write_data_to_arrf_file(filename, global_list, file_data_manager):
+    # distinct_topics = set()
 
-    for file_data in file_data_list:
-        for topic in file_data.topics:
-            distinct_topics.add(topic)
+    # for file_data in file_data_list:
+    #     for topic in file_data.topics:
+    #         distinct_topics.add(topic)
+    distinct_topics = file_data_manager.distinct_topics
+    file_data_list = file_data_manager.file_data_list
 
     file_writter = open(filename, "w")
 
@@ -22,12 +24,15 @@ def write_data_to_arrf_file(filename, global_list, file_data_list):
     file_writter.write("\n")
 
     for file_data in file_data_list:
-        for i, entry in enumerate(file_data.vector_representation):
-            if entry == 0:
-                continue
-            file_writter.write(f'{i}:{entry},')
-        file_writter.write(' # ')
+        if not file_data.topics:
+            continue
+
         for topic in file_data.topics:
-            file_writter.write(f"{topic},")
-        file_writter.write("\n")
+            for i, entry in enumerate(file_data.vector_representation):
+                if entry == 0:
+                    continue
+                file_writter.write(f'{i}:{entry},')
+            file_writter.write(' # ')
+            file_writter.write(topic)
+            file_writter.write("\n")
     file_writter.close()
