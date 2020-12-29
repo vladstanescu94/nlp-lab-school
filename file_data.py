@@ -9,7 +9,7 @@ class FileData:
 
     def generate_file_data(self, global_corpus):
         self._generate_word_count_dictionary()
-        self._generate_vector_representation(global_corpus)
+        self.generate_vector_representation(global_corpus)
 
     def _generate_word_count_dictionary(self):
         self.words_freq = {}
@@ -19,7 +19,7 @@ class FileData:
             else:
                 self.words_freq[word] += 1
 
-    def _generate_vector_representation(self, global_corpus):
+    def generate_vector_representation(self, global_corpus):
         self.vector_representation = []
         for word in global_corpus:
             if word not in self.words_freq:
