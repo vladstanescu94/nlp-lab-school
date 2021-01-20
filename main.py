@@ -1,14 +1,14 @@
 import os
 import bisect
+import math
 import numpy as np
 
-from sklearn.metrics import normalized_mutual_info_score as score
 from config_constants import PATH_MINI, PATH_FULL
+from dataset_representation import DatasetRepresentation
 from file_data import FileData
 from xml_manager import parse_xml_files
-from file_manager import write_data_to_arrf_file
+from file_manager import write_data_to_arff_file
 from nlp import get_file_words, get_file_topics
-from file_data_manager import FileDataManager
 
 
 def main():
@@ -35,35 +35,68 @@ def main():
     for file_data in file_data_list:
         file_data.generate_file_data(global_list)
 
-    file_data_manager = FileDataManager(file_data_list)
-    file_data_manager.clean_topics()
+    data_rep = DatasetRepresentation(file_data_list, global_list)
+    data_rep.clean_topics()
 
     print(f"Number of files {no_examples} ")
     print(f"Words in global dictionary {len(global_list)}")
 
-    vector_matrix = generate_vector_matrix(file_data_list)
+    data_rep.generate_vector_matrix()
 
-    npmatrix = np.asarray(vector_matrix)
-
-    bad_set = generate_bad_attributes_dict(0.58, npmatrix)
-
-    print("Starting feature selection")
-
+    information_gain_list = information_gain(data_rep, global_list)
+    sorted_list = sorted(information_gain_list, key=lambda x: x[0])
     new_global = []
-    for i in range(len(global_list)):
-        if i in bad_set:
-            continue
-        new_global.append(global_list[i])
+    for entry in sorted_list:
+        index = entry[0]
+        new_global.append(global_list[index])
 
-    for file_data in file_data_list:
-        file_data.generate_vector_representation(new_global)
+    for data in data_rep.file_data_list:
+        data.generate_vector_representation(new_global)
 
-    print("Feature selection done")
+    write_data_to_arff_file("data-selected-full.arff", new_global,
+                            data_rep)
 
-    print(len(new_global))
 
-    write_data_to_arrf_file("data-full-final.arrf", new_global,
-                            file_data_manager)
+def entropy(data_rep):
+    entropy_sum = 0
+    for topic in data_rep.distinct_topics:
+        documents_with_given_topic = 0
+        for doc_data in data_rep.file_data_list:
+
+            if topic in doc_data.topics:
+                documents_with_given_topic += 1
+        prob = documents_with_given_topic / len(data_rep.file_data_list)
+
+        entropy_sum += prob * math.log2(prob)
+
+    return -entropy_sum
+
+
+def information_gain(data_rep, global_list):
+    set_entropy = entropy(data_rep)
+    gains_list = []
+    np_matrix = np.asarray(data_rep.vector_matrix)
+
+    for index in range(len(global_list)):
+        col = np_matrix[:, index]
+        distincte = set(col)
+        gain_sum = 0
+        for atrib in distincte:
+            new_list = []
+
+            for file in data_rep.file_data_list:
+                if file.vector_representation[index] == atrib:
+                    new_list.append(file)
+            new_rep = DatasetRepresentation(new_list, global_list)
+            new_rep.test_topics()
+            gain_sum += (len(new_list) / len(data_rep.file_data_list)) * \
+                entropy(new_rep)
+        information_g = set_entropy - gain_sum
+        gains_list.append((index, information_g))
+
+    sorted_list = sorted(gains_list, key=lambda x: x[1], reverse=True)
+    threshold = len(sorted_list) // 10
+    return sorted_list[:threshold]
 
 
 def generate_vector_matrix(file_data_list):
@@ -77,29 +110,7 @@ def generate_vector_matrix(file_data_list):
         for _ in file_data.topics:
             vector_matrix.append(file_data.vector_representation)
 
-    return vector_matrix
-
-
-def generate_bad_attributes_dict(prag, matrix):
-    print("Calculating Mutual info score")
-    bad_set = {}
-    row_len = matrix.shape[1]
-    for i in range(row_len):
-        if i in bad_set:
-            continue
-        col_1 = matrix[:, i]
-        for j in range(row_len):
-            print(f"iteration i: {i}, j: {j}")
-            if j <= i:
-                continue
-            if j in bad_set:
-                continue
-            col_2 = matrix[:, j]
-            col_score = score(col_1, col_2)
-            if col_score > prag:
-                bad_set[i] = True
-                bad_set[j] = True
-    return bad_set
+    return np.asarray(vector_matrix)
 
 
 if __name__ == "__main__":

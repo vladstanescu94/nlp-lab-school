@@ -1,4 +1,5 @@
-def write_data_to_arrf_file(filename, global_list, file_data_manager):
+def write_data_to_arff_file(filename, global_list, file_data_manager):
+    print("Writing data to file")
     distinct_topics = file_data_manager.distinct_topics
     file_data_list = file_data_manager.file_data_list
 
